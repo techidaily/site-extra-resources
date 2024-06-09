@@ -1,7 +1,7 @@
 ---
 title: "Mastering Audio Diminishment in Lumafusion"
-date: 2024-05-20 23:17:36
-updated: 2024-05-21 10:16:42
+date: 2024-05-24T04:47:45.467Z
+updated: 2024-05-25T04:47:45.467Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,48 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-craft-professional-videos-with-free-intros/"><u>[Updated] Craft Professional Videos with Free Intros</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discovering-prime-places-for-pixel-soundtracks/"><u>Discovering Prime Places for Pixel Soundtracks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-chilly-champs-beijings-best-of-the-2022-games/"><u>2024 Approved  Chilly Champs  Beijing's Best of the 2022 Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discovering-advanced-video-formats-av1-and-vp9/"><u>Discovering Advanced Video Formats  AV1 & VP9</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beginners-guide-steady-sound-volume-rise-in-editing/"><u>2024 Approved  Beginner's Guide  Steady Sound Volume Rise in Editing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/speed-it-up-crafting-beautiful-timelapse-videos-on-galaxy/"><u>Speed It Up  Crafting Beautiful Timelapse Videos on Galaxy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-approaches-for-image-collections-acquisition/"><u>Innovative Approaches for Image Collections Acquisition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-type-treatments-in-after-effects/"><u>Mastering Type Treatments in After Effects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unplug-and-replay-twitch-livestream-techniques/"><u>Unplug and Replay  Twitch Livestream Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tiktoks-best-practices-for-stellar-edits/"><u>TikTok's Best Practices for Stellar Edits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/epic-tvs-for-xbox-series-x-and-playstation-5-gamers/"><u>Epic TVs for Xbox Series X & PlayStation 5 Gamers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-calmly-quieten-your-computers-audio-output/"><u>[Updated] Calmly Quieten Your Computer's Audio Output</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/endless-buffering-solving-photo-booth-freezes/"><u>Endless Buffering  Solving Photo Booth Freezes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-access-premium-level-video-templates-for-free/"><u>In 2024, Access Premium-Level Video Templates for Free</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/shine-bright-enhancing-video-quality-tools/"><u>Shine Bright  Enhancing Video Quality Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cinematographic-cuisine-expert-tips-on-filming-edibles-for-2024/"><u>Cinematographic Cuisine  Expert Tips on Filming Edibles for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-guide-to-trusted-sites-for-youtube-tones/"><u>Comprehensive Guide to Trusted Sites for Youtube Tones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-iphone-camera-apps-for-pro-shots-and-free-use/"><u>In 2024, Best iPhone Camera Apps for Pro Shots and Free Use</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-concealing-identity-select-8-highly-effective-photo-editors/"><u>[New] Concealing Identity  Select 8 Highly Effective Photo Editors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-asmr-a-sound-path-to-wellness/"><u>[New] ASMR  A Sound Path to Wellness?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-the-ultimate-list-of-best-rated-chromebook-drawers/"><u>Discover the Ultimate List of Best-Rated Chromebook Drawers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/20-freepaid-luts-for-dji-mini-2air-2smavic-2-for-2024/"><u>20 Free/Paid LUTS for DJI Mini 2/Air 2S/Mavic 2 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/terracore-pros-fusion-of-touch-and-high-definition/"><u>TerraCore Pros  Fusion of Touch & High Definition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-break-the-monotony-with-these-6-captivating-videos/"><u>In 2024, Break the Monotony with These 6 Captivating Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-and-easy-iphone-methods-to-download-podcasts-anywhere/"><u>Quick and Easy iPhone Methods to Download Podcasts Anywhere</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-best-3d-video-makers-you-must-know/"><u>Updated 2024 Approved Best 3D Video Makers You Must Know</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-unleash-potential-ps5-writable-and-readable-extras/"><u>[Updated] 2024 Approved  Unleash Potential  PS5' Writable & Readable Extras</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-webvidrecorder-download-fb-content-easily/"><u>2024 Approved  WebVidRecorder  Download FB Content Easily</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y100i-power-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo Y100i Power 5G Phone without Google Account?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/say-goodbye-to-crashes-optimizing-final-cut-pro-x-performance-for-2024/"><u>Say Goodbye to Crashes Optimizing Final Cut Pro X Performance for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-ultimate-screen-cutting-companion/"><u>In 2024, The Ultimate Screen Cutting Companion</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-transformations-unlocked-the-2-most-effective-ways-to-convert-video/"><u>2024 Approved  Transformations Unlocked  The 2 Most Effective Ways to Convert Video</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-leading-movie-trailer-software-for-windows-and-macos/"><u>In 2024, Leading Movie Trailer Software for Windows and macOS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-itop-screen-recorder-essential-or-excessive/"><u>[New] 2024 Approved  ITop Screen Recorder - Essential or Excessive?</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-enhancing-click-through-rates-with-three-distinct-writing-models-for-ads/"><u>In 2024, Enhancing Click-Through Rates with Three Distinct Writing Models for Ads</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Honor X50i+ | Dr.fone</u></a></li>
+</ul></div>
 
