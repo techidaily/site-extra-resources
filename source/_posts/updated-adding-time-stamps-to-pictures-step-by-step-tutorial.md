@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Adding Time Stamps to Pictures  Step-by-Step Tutorial\""
-date: 2024-05-24T05:44:53.347Z
-updated: 2024-05-25T05:44:53.347Z
+date: 2024-06-10T10:28:21.991Z
+updated: 2024-06-11T10:28:21.991Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Adding Time Stamps to Pictures: Step-by-Step Tutorial\""
 excerpt: "\"This Article Describes [Updated] Adding Time Stamps to Pictures: Step-by-Step Tutorial\""
 keywords: "\"Timestamp Picture Guide,Photo Date Marker,Image Time Tagging,Pixel Clock Update,Picture Editing Steps,Time-Stamped Images Tutorial,Stepwise Timestamp Addition\""
-thumbnail: https://www.lifewire.com/thmb/atmgcLi8nNaTPfUc4O0_D2t6Mng=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/dash-camera-57d5ca313df78c58335c4402.jpg
+thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a164216256186200a3f57210ef49bd6287bae1.jpg
 ---
 
 ## Adding Time Stamps to Pictures: Step-by-Step Tutorial

@@ -1,7 +1,7 @@
 ---
 title: "Tiny Screenplay Scheme"
-date: 2024-05-24T04:29:21.262Z
-updated: 2024-05-25T04:29:21.262Z
+date: 2024-06-10T10:28:24.816Z
+updated: 2024-06-11T10:28:24.816Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Tiny Screenplay Scheme"
 excerpt: "This Article Describes Tiny Screenplay Scheme"
 keywords: "Tiny Scrip Plan,Screenplay Mini,Short Play Blueprint,Compact Script Guide,Small Scene Outline,Brief Plot Structure,Micro Play Design"
-thumbnail: https://www.lifewire.com/thmb/i516RJAOKPq_U36ko3DvWto-Kn4=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/TheGoodBrigade_Kidsonlaptopsincar_GettyImages-1297084394_CROPPED2-9566c364cf9344a288febcca577b171f.jpg
+thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab8587601498f32a131493f3f787f8.jpg
 ---
 
 ## Tiny Screenplay Scheme

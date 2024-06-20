@@ -1,7 +1,7 @@
 ---
 title: "\"Total Data Usage  24-Hour Videography in GBs\""
-date: 2024-05-24T05:01:48.962Z
-updated: 2024-05-25T05:01:48.962Z
+date: 2024-06-10T10:28:26.569Z
+updated: 2024-06-11T10:28:26.569Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Total Data Usage: 24-Hour Videography in GBs\""
 excerpt: "\"This Article Describes Total Data Usage: 24-Hour Videography in GBs\""
 keywords: "\"Video GB Usage/Data,Hourly Video Data Expense,Daily GB Videography Cost,Data Used by Streaming Video,Videography GB Consumption,Real-Time Video Data Use,24Hr Vid Data in GBs\""
-thumbnail: https://www.lifewire.com/thmb/Uc4eFELHCUVYbHwckJlDHvIiygQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-755651087-3682bb0c113447199101a344615a7bf2.jpg
+thumbnail: https://thmb.techidaily.com/7618ed5212ad2fa17c4d0cff006f1dcb4d7c52766a583e2029f0351c0b405229.jpg
 ---
 
 ## Total Data Usage: 24-Hour Videography in GBs

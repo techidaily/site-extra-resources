@@ -1,7 +1,7 @@
 ---
 title: "\"Burst to Blast  Android Apps Transform Slow Motion\""
-date: 2024-05-24T04:51:39.614Z
-updated: 2024-05-25T04:51:39.614Z
+date: 2024-06-10T10:28:20.277Z
+updated: 2024-06-11T10:28:20.277Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Burst to Blast: Android Apps Transform Slow Motion\""
 excerpt: "\"This Article Describes Burst to Blast: Android Apps Transform Slow Motion\""
 keywords: "\"Android Slow-Motion Apps,Blasting with SD Apps,Fast-Flip Camera Apps,High-Speed Snap Tools,Dynamic Video Capture,Quick Motion Phones,Accelerated Frame Recorders\""
-thumbnail: https://www.lifewire.com/thmb/Mj0sGozDuM1JFhqS8K91E-CvQkU=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Email-Messaging_GettyImages-1205703732_scyther5_CROPPED_OVERLAY-b9a0b2d02d3f43968ce10002fabd1172.jpg
+thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7bf85c351306cae77a65bd05.jpg
 ---
 
 ## Burst to Blast: Android Apps Transform Slow Motion

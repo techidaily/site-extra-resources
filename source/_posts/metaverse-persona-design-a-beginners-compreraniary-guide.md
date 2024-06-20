@@ -1,7 +1,7 @@
 ---
 title: "\"Metaverse Persona Design  A Beginner's Compreraniary Guide\""
-date: 2024-05-24T04:22:28.897Z
-updated: 2024-05-25T04:22:28.897Z
+date: 2024-06-10T10:28:14.268Z
+updated: 2024-06-11T10:28:14.268Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Metaverse Persona Design: A Beginner's Compreraniary Guide\""
 excerpt: "\"This Article Describes Metaverse Persona Design: A Beginner's Compreraniary Guide\""
 keywords: "Metaverse Persona Design,Persona Creation Guide,Beginners in Metaverse,Virtual Avatars Basics,Designing Digital Personas,Metaverse Character Tips,Avatar Customization for Newbies"
-thumbnail: https://www.lifewire.com/thmb/9bR77WEEupNjyWJs1sjZyKQ-ZcQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/onur-binay-uk5FrhKtr7E-unsplash-61bd7ebecee043dbad9abd9677638b3f.jpg
+thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a4751106e76ccc80ae32530955e3a8.jpg
 ---
 
 ## Metaverse Persona Design: A Beginner's Compreraniary Guide

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Crafting Pure Designs  Erasing Backgrounds with Canva Expertise\""
-date: 2024-05-24T05:48:31.284Z
-updated: 2024-05-25T05:48:31.284Z
+date: 2024-06-10T10:28:19.012Z
+updated: 2024-06-11T10:28:19.012Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Crafting Pure Designs: Erasing Backgrounds with Canva Expertise\""
 excerpt: "\"This Article Describes In 2024, Crafting Pure Designs: Erasing Backgrounds with Canva Expertise\""
 keywords: "Cubase Scape Crafting,Cubase Transition Music,Cubase Audio Design,Cubase Sound Transitions,Cubase Studio Scores,Cubase Mix Techniques,Cubase Production Tools"
-thumbnail: https://www.lifewire.com/thmb/ns4zaQ-Cl1uZpiL73Bi7TF3XuSg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/car-safety-101-anti-lock-brakes-534800-296c3100d7584887b2d734b618932d90.png
+thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d980933768bd910a7c15106cfbf73fe.png
 ---
 
 ## Crafting Pure Designs: Erasing Backgrounds with Canva Expertise

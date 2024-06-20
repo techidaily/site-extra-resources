@@ -1,7 +1,7 @@
 ---
 title: "[Updated] A Comprehensive Tutorial for Using Movie Maker on Windows 8 OS"
-date: 2024-05-24T03:34:28.249Z
-updated: 2024-05-25T03:34:28.249Z
+date: 2024-06-10T10:28:22.234Z
+updated: 2024-06-11T10:28:22.234Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] A Comprehensive Tutorial for Using Movie Maker on Windows 8 OS"
 excerpt: "This Article Describes [Updated] A Comprehensive Tutorial for Using Movie Maker on Windows 8 OS"
 keywords: "\"Movie Maker WinTutorial,WM8 Movie Making Guide,Windows 8 Media Creation,Movie Maker Steps Windows,Media Tools for WinOS8,Film-Making in Windows 8,Movie Maker Usage Tips OS8\""
-thumbnail: https://www.lifewire.com/thmb/-PqPLcCaxGLc23vO2NcYLrrVNWo=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/jongsun-lee-F-pSZO_jeE8-unsplash-f3e7cedccf0c468eacc22b2b9b161def.jpg
+thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b411786ceebe675ffa9f20381.jpg
 ---
 
 ## A Comprehensive Tutorial for Using Movie Maker on Windows 8 OS

@@ -1,7 +1,7 @@
 ---
 title: "Turn Template Ideas Into Real Logo Artwork"
-date: 2024-05-24T03:23:25.805Z
-updated: 2024-05-25T03:23:25.805Z
+date: 2024-06-10T10:28:19.068Z
+updated: 2024-06-11T10:28:19.068Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Turn Template Ideas Into Real Logo Artwork"
 excerpt: "This Article Describes Turn Template Ideas Into Real Logo Artwork"
 keywords: "\"Logo Creation From Templates,Real Logo Design Tips,Template-Inspired Logos,Turning Ideas To Logos,Custom Logo Artwork,Transforming Templates Into Logos,Authentic Logo Development\""
-thumbnail: https://www.lifewire.com/thmb/jJkMZHBw1UWMNPiFSMrpeNwRPjY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ArtificalIntelligenceChatbotConcept-c0e491e36fae46ef84b670334af5095f.jpg
+thumbnail: https://thmb.techidaily.com/b7ac3fecaf39cbf4ad53ade68b5607328fb5fc5fabf85fb01691cb6e94c786a0.jpg
 ---
 
 ## Turn Template Ideas Into Real Logo Artwork

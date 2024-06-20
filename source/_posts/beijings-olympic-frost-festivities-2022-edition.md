@@ -1,7 +1,7 @@
 ---
 title: "Beijing's Olympic Frost Festivities, 2022 Edition"
-date: 2024-05-24T05:29:42.136Z
-updated: 2024-05-25T05:29:42.136Z
+date: 2024-06-10T10:28:17.035Z
+updated: 2024-06-11T10:28:17.035Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Beijing's Olympic Frost Festivities, 2022 Edition"
 excerpt: "This Article Describes Beijing's Olympic Frost Festivities, 2022 Edition"
 keywords: "Beijing Olympics,Frost Fun Fest,Winter Games China,2022 Olympic Ice,Beijing Freeze Party,Olympic Chill Event,Chinese Winter Games"
-thumbnail: https://www.lifewire.com/thmb/HkQrnB6Inkx8Rh4KIo-rh5RAck0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/computerkeyboard-5c070d3ec9e77c0001b19701.jpg
+thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9da7986f6cee296d3fed5998.jpg
 ---
 
 ## Beijing's Olympic Frost Festivities, 2022 Edition

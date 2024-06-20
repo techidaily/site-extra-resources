@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Aerial Autonomy Groups"
-date: 2024-05-24T05:27:30.908Z
-updated: 2024-05-25T05:27:30.908Z
+date: 2024-06-10T10:28:17.313Z
+updated: 2024-06-11T10:28:17.313Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Aerial Autonomy Groups"
 excerpt: "This Article Describes [Updated] Aerial Autonomy Groups"
 keywords: "\"Air Drone Teams,Drones Flight Controls,AI-Controlled Aerial,Unmanned Vehicle Coordination,Sky Robot Groups,Flying Automation Units,UAV Group Navigation\""
-thumbnail: https://www.lifewire.com/thmb/sQE3bXL4kjJoiGiqNnkBz-fY56E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/001_what-is-rcs-messaging-6fab543db4574015ac24613de05802e1.jpg
+thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb030d740feb1460fb864db26.jpg
 ---
 
 ## Aerial Autonomy Groups

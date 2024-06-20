@@ -1,7 +1,7 @@
 ---
 title: "Complete Instruction Manual for Telegram Desktop for 2024"
-date: 2024-05-24T03:34:59.905Z
-updated: 2024-05-25T03:34:59.905Z
+date: 2024-06-10T10:28:25.367Z
+updated: 2024-06-11T10:28:25.367Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Complete Instruction Manual for Telegram Desktop for 2024"
 excerpt: "This Article Describes Complete Instruction Manual for Telegram Desktop for 2024"
 keywords: "Telegram Desktop Guide,How to Use Telegram App,Telegram Installation Steps,Setting Up Telegram Desktop,Telegram App Instruction Manual,Essential Telegram Tips for Desktop,Mastering Telegram on PC/Mac"
-thumbnail: https://www.lifewire.com/thmb/L9UqcBsFRcJDvJpVzehCn66w1ow=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87d13a642256000f5335eb2cc.jpg
 ---
 
 ## Complete Instruction Manual for Telegram Desktop

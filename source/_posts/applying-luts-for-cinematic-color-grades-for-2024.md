@@ -1,7 +1,7 @@
 ---
 title: "Applying Luts for Cinematic Color Grades for 2024"
-date: 2024-05-24T05:40:08.822Z
-updated: 2024-05-25T05:40:08.822Z
+date: 2024-06-10T10:28:21.625Z
+updated: 2024-06-11T10:28:21.625Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Applying Luts for Cinematic Color Grades for 2024"
 excerpt: "This Article Describes Applying Luts for Cinematic Color Grades for 2024"
 keywords: "Cinematic LUTs,LUT Color Grading,Digital Film Grade,Color Correction LUT,Cinemo LUT Effect,Professional Filmmaking LUT,Cinematic Color Enhancement"
-thumbnail: https://www.lifewire.com/thmb/MaOu3FH6HAb4dzVe_AN1hXIylb0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/CK_Headshot-6631970d6f384e74bf6a4e7d19791081.jpg
+thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed9270d940f9ca545069c585fcb0.jpg
 ---
 
 ## Applying Luts for Cinematic Color Grades

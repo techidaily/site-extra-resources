@@ -1,7 +1,7 @@
 ---
 title: "\"The Art of Capturing Human Gestures  An In-Depth Guide\""
-date: 2024-05-24T05:25:29.888Z
-updated: 2024-05-25T05:25:29.888Z
+date: 2024-06-10T10:28:13.930Z
+updated: 2024-06-11T10:28:13.930Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes The Art of Capturing Human Gestures: An In-Depth Guide\""
 excerpt: "\"This Article Describes The Art of Capturing Human Gestures: An In-Depth Guide\""
 keywords: "Gesture Recognition Basics,Humans in Motion Analysis,Gesture Interpretation Tech,Gesture Capturing Methods,Human Gestures Study Guide,Motion Signal Detection,Gesture Data Processing"
-thumbnail: https://www.lifewire.com/thmb/k58vbJPuDCjL1Uf6h00LpxDd_5A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/white-office-desk-table-with-a-lot-of-things-on-it--top-view-with-copy-space--637047700-5a24617b4e46ba001a6d6d23.jpg
+thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a67c761a2d6a6d2fb5b65330.jpg
 ---
 
 ## The Art of Capturing Human Gestures: An In-Depth Guide

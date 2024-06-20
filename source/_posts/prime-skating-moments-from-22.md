@@ -1,7 +1,7 @@
 ---
 title: "Prime Skating Moments From '22"
-date: 2024-05-24T05:01:36.937Z
-updated: 2024-05-25T05:01:36.937Z
+date: 2024-06-10T10:28:17.611Z
+updated: 2024-06-11T10:28:17.611Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Prime Skating Moments From '22"
 excerpt: "This Article Describes Prime Skating Moments From '22"
 keywords: "PrimeSkate2022Moments,SkatingHighs2022,BestSkatingMoments22,Moments22PrimeSkating,HighlightedSkating2022,TopSkatingInstances2022,PrimeSkateMemories22"
-thumbnail: https://www.lifewire.com/thmb/GbrXuAwbR88ku2GeKE9vVdWn1Eg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/001_how-to-get-free-dice-rolls-monopoly-go-4b0dcc8cd6834ac0a7f8a7511334baa7.jpg
+thumbnail: https://thmb.techidaily.com/d940e7732f01996ef0ed9bff8746265de4ef97bd20619840505d03a7ae8944c3.jpg
 ---
 
 ## Prime Skating Moments From '22

@@ -1,7 +1,7 @@
 ---
 title: "Pinnacle AI Image Manipulation Suite"
-date: 2024-05-24T05:22:17.347Z
-updated: 2024-05-25T05:22:17.347Z
+date: 2024-06-10T10:28:13.881Z
+updated: 2024-06-11T10:28:13.881Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Pinnacle AI Image Manipulation Suite"
 excerpt: "This Article Describes Pinnacle AI Image Manipulation Suite"
 keywords: "Pinnacle AI Imagify,Pinnacle Image Edit,AI Pinnacle Altering,AI Image Transform,Pinnacle AI PhotoCorp,AI Enhanced Artwork,Pinnacle AI VisualEdit"
-thumbnail: https://www.lifewire.com/thmb/I9-kBS3s2Xh2et7v-e3zlvQ19Kc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/netgear-raxe500-8e8ce8ed2dff4945afc44799dd01bf33.png
+thumbnail: https://thmb.techidaily.com/72f5184d5296c1cbee8c85039f08d18862c38c7bcca88e3aaa3f5eb78673eb91.png
 ---
 
 ## Pinnacle AI Image Manipulation Suite

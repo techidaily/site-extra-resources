@@ -1,7 +1,7 @@
 ---
 title: "Crafting Dialogue and Direction in Film Scripts"
-date: 2024-05-24T05:10:27.710Z
-updated: 2024-05-25T05:10:27.710Z
+date: 2024-06-10T10:28:25.687Z
+updated: 2024-06-11T10:28:25.687Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Crafting Dialogue and Direction in Film Scripts"
 excerpt: "This Article Describes Crafting Dialogue and Direction in Film Scripts"
 keywords: "Film Script Dialogue Craft,Script Writing Directions,Dialogue Creation Script,Directing Screenplay Words,Narrative Script Strategies,Creative Dialogue Planning,Screenplay Direction Tactics"
-thumbnail: https://www.lifewire.com/thmb/Q4b3wBAsMnqMweYuzMFrJi3DF6E=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/jakob-owens-ZOtnmYS0JVg-unsplash-b9f4f0bd065c4366948e3f4847f41131.jpg
+thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114df0401fe96c31b4cf2882857.jpg
 ---
 
 ## Crafting Dialogue and Direction in Film Scripts

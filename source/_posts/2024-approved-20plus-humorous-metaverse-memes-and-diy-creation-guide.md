@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  20+ Humorous Metaverse Memes & DIY Creation Guide\""
-date: 2024-05-24T03:18:31.528Z
-updated: 2024-05-25T03:18:31.528Z
+date: 2024-06-10T10:28:18.141Z
+updated: 2024-06-11T10:28:18.141Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: 20+ Humorous Metaverse Memes & DIY Creation Guide\""
 excerpt: "\"This Article Describes 2024 Approved: 20+ Humorous Metaverse Memes & DIY Creation Guide\""
 keywords: "Metaverse Meme Tips,DIY Memes Fun,Creative Meme Hub,Humor in Virtual Space,Meme Makers' Guide,Virtual World Meme,Funny Creation Hack"
-thumbnail: https://www.lifewire.com/thmb/Z9p2yelev5XjoupT3HWfYtADBRA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/saveps4gameplay-fe5d19b66a8e46bc8fec8350be2feadb.jpg
+thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db273783ec5bcb39c2377739cf581a.jpg
 ---
 
 ## 20+ Humorous Metaverse Memes & DIY Creation Guide

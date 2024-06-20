@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Best Video-Making Smartphones Announced Here\""
-date: 2024-05-24T05:11:33.802Z
-updated: 2024-05-25T05:11:33.802Z
+date: 2024-06-10T10:28:15.187Z
+updated: 2024-06-11T10:28:15.187Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Best Video-Making Smartphones Announced Here\""
 excerpt: "\"This Article Describes [New] Best Video-Making Smartphones Announced Here\""
 keywords: "Best Mobile Vids,Top Phones for Cams,Smartphone Cinema MVPs,Ultimate Cam Gear,Premier Video Phone,Prime Videophone Picks,Leading Camphones Announced"
-thumbnail: https://www.lifewire.com/thmb/8JVTYE2c8KwSjdVqXKNOdeyAbEk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-163487467-d8687e19afcd430eaaabf62c550177a6.jpg
+thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e63ca3e1151548a8f471104b.jpg
 ---
 
 ## Best Video-Making Smartphones Announced Here

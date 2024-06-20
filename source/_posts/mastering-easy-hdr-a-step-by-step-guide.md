@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Easy HDR  A Step-by-Step Guide\""
-date: 2024-05-24T04:53:44.957Z
-updated: 2024-05-25T04:53:44.957Z
+date: 2024-06-10T10:28:21.735Z
+updated: 2024-06-11T10:28:21.735Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Mastering Easy HDR: A Step-by-Step Guide\""
 excerpt: "\"This Article Describes Mastering Easy HDR: A Step-by-Step Guide\""
 keywords: "\"Easy HDR Basics,HDR Photography Guide,Steps to HDR Mastery,HDR Techniques Simplified,Learn HDR Effects Quickly,HDR Photo Enhancement,Step-by-Step HDR Tutorial\""
-thumbnail: https://www.lifewire.com/thmb/xLyhmkxw8rwSLNhzfV0GfYs8tZc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-watch-tiktok-without-the-app-63a4562e4c4b4bd69477425853809a35.jpg
+thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f84ca632563f78a12990cc533.jpg
 ---
 
 ## Mastering Easy HDR: A Step-by-Step Guide

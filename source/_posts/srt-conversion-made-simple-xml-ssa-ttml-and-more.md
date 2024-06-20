@@ -1,7 +1,7 @@
 ---
 title: "\"SRT Conversion Made Simple  XML, SSA, TTML, and More\""
-date: 2024-05-24T03:29:24.665Z
-updated: 2024-05-25T03:29:24.665Z
+date: 2024-06-10T10:28:20.349Z
+updated: 2024-06-11T10:28:20.349Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes SRT Conversion Made Simple: XML, SSA, TTML, and More\""
 excerpt: "\"This Article Describes SRT Conversion Made Simple: XML, SSA, TTML, and More\""
 keywords: "SRT Easy Conv.,Transcode SRT,SRT to TTML,SSA+XML SRT,XML SRT Conversion,SRT Simple XML,Convert SRT Text"
-thumbnail: https://www.lifewire.com/thmb/yUwTZpCNo69jlc1KnyqQFn2f6SQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-screen-mirroring-842272124-5a7897e104d1cf0037763c0a.jpg
+thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c3cb7fed4a8969e3e80f00a3.jpg
 ---
 
 ## SRT Conversion Made Simple: XML, SSA, TTML, and More

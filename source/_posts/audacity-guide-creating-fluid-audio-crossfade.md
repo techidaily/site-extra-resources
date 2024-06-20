@@ -1,7 +1,7 @@
 ---
 title: "\"Audacity Guide  Creating Fluid Audio Crossfade\""
-date: 2024-05-24T05:23:09.280Z
-updated: 2024-05-25T05:23:09.280Z
+date: 2024-06-10T10:28:19.045Z
+updated: 2024-06-11T10:28:19.045Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Audacity Guide: Creating Fluid Audio Crossfade\""
 excerpt: "\"This Article Describes Audacity Guide: Creating Fluid Audio Crossfade\""
 keywords: "Audacity Tutorial,Fluid Sound Editing,Audio Crossfade Techniques,Mixer Guide Audacity,Smooth Transitions in Music,Professional Audio Editing,Crossfade Creation Tips"
-thumbnail: https://www.lifewire.com/thmb/Y6vVYuznenvIY7JLo4M8rcu2Q08=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/001_how-to-watch-espn-plus-on-roku-7485522-6ae6587255d2492b9156bee541ba4c39.jpg
+thumbnail: https://thmb.techidaily.com/5e4f2e08bc06e83ddb45587d928cf61d9245bd50e484b6c6cc6059c7ac856aae.jpg
 ---
 
 ## Audacity Guide: Creating Fluid Audio Crossfade

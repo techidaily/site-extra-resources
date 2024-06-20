@@ -1,7 +1,7 @@
 ---
 title: "Crafting Excellent Micro Photography Videos Step by Step for 2024"
-date: 2024-05-24T05:49:57.958Z
-updated: 2024-05-25T05:49:57.958Z
+date: 2024-06-10T10:28:26.594Z
+updated: 2024-06-11T10:28:26.594Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Crafting Excellent Micro Photography Videos Step by Step for 2024"
 excerpt: "This Article Describes Crafting Excellent Micro Photography Videos Step by Step for 2024"
 keywords: "\"Micro Photo Tips,Mini Lens Shots,Close-Up Filmmaking,Macro Videography Steps,Small Scene Capture,Fine Art Photography Guide,Ultra-Detail Video Techniques\""
-thumbnail: https://www.lifewire.com/thmb/bTsxVApVGXh_PsUETQFg08xDUKk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/fog-lights-lamps-57ddd24c5f9b58651660ebb1.jpg
+thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8ad26b4b76b8430c1741deb5.jpg
 ---
 
 ## Crafting Excellent Micro Photography Videos Step by Step

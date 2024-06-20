@@ -1,7 +1,7 @@
 ---
 title: "Capture the Magic of Moonlight iPhonely"
-date: 2024-05-24T03:48:26.887Z
-updated: 2024-05-25T03:48:26.887Z
+date: 2024-06-10T10:28:18.966Z
+updated: 2024-06-11T10:28:18.966Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Capture the Magic of Moonlight iPhonely"
 excerpt: "This Article Describes Capture the Magic of Moonlight iPhonely"
 keywords: "Moonlight iPhone Photography,Moonscape Mobile Snaps,Lunar Light iPhone Shots,IPhone Nighttime Images,Nocturnal iOS Camera,PhotoLunar iPhone,Ethereal iPhone Light Capture"
-thumbnail: https://www.lifewire.com/thmb/Z7WR5pj7JeS2G3gY9MhbX9bStss=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/FKT0RM1QHWManholdingiPhoneincar-70a24007f8334257888bbd13c76fdcbc.jpg
+thumbnail: https://thmb.techidaily.com/6304baca930779dbe6ae3412704c6577c66eb8d788b6fe6b67667ffd209c0a5f.jpg
 ---
 
 ## Capture the Magic of Moonlight iPhonely

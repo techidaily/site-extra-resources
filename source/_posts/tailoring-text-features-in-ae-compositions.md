@@ -1,7 +1,7 @@
 ---
 title: "Tailoring Text Features in AE Compositions"
-date: 2024-05-24T04:58:54.115Z
-updated: 2024-05-25T04:58:54.115Z
+date: 2024-06-10T10:28:13.258Z
+updated: 2024-06-11T10:28:13.258Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Tailoring Text Features in AE Compositions"
 excerpt: "This Article Describes Tailoring Text Features in AE Compositions"
 keywords: "AE Composition Design,Text Feature Customization,Creative Text Editing,Artistic Expression Tools,Content Personalization Tactics,Visual Language Craftsmanship,Innovative Text Formatting"
-thumbnail: https://www.lifewire.com/thmb/_FlNQgUWZ7xnESfRSpg-7Htx6oQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/is-uber-cheaper-or-a-taxi-5a68b71ffa6bcc003664df84.jpg
+thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e01d0d5b5d3b87f43d01c2dd.jpg
 ---
 
 ## Tailoring Text Features in AE Compositions

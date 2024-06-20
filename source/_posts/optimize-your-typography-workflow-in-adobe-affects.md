@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Typography Workflow in Adobe Affects"
-date: 2024-05-24T03:57:15.740Z
-updated: 2024-05-25T03:57:15.740Z
+date: 2024-06-10T10:28:21.415Z
+updated: 2024-06-11T10:28:21.415Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Optimize Your Typography Workflow in Adobe Affects"
 excerpt: "This Article Describes Optimize Your Typography Workflow in Adobe Affects"
 keywords: "Typework Optimization,Adobe Affects Typography,Typography Affects Editing,Design Workflow Affects,Adobe Font Management,Typework Efficiency,Affects Typography Improvement"
-thumbnail: https://www.lifewire.com/thmb/e91Og3Zn-sMosAtMZ6uJlw5wXLo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/001-Visual-voicemail-3d8aec660545471fbe131dc8ddc16535.jpg
+thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735c9f349a630ef1e39c65837d.jpg
 ---
 
 ## Optimize Your Typography Workflow in Adobe Affects

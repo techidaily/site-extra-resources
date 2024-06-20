@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Apply Photo Motion Blur in Adobe Photoshop\""
-date: 2024-05-24T03:59:41.132Z
-updated: 2024-05-25T03:59:41.132Z
+date: 2024-06-10T10:28:22.742Z
+updated: 2024-06-11T10:28:22.742Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Apply Photo Motion Blur in Adobe Photoshop\""
 excerpt: "\"This Article Describes 2024 Approved: Apply Photo Motion Blur in Adobe Photoshop\""
 keywords: "Photoshop Motion Blur,Photo Motion Effects,Add Blur to Images,Digital Image Blurring,Photoshop Sharpen Motion,Adobe Blur Techniques,Motion Art in Photoshop"
-thumbnail: https://www.lifewire.com/thmb/PM4x4N4zayqmzz-k2GhrTc4i64Y=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1400784591-979919e71d3e4ac49860bb4a3aa82c4b.jpg
+thumbnail: https://thmb.techidaily.com/5cbb31b0aa89284f511ea895d4dc406591717af976dec90561d5751a6efa2298.jpg
 ---
 
 ## Apply Photo Motion Blur in Adobe Photoshop

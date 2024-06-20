@@ -1,7 +1,7 @@
 ---
 title: "[New] Comparing Syma X8C to Previous Models"
-date: 2024-05-24T05:37:37.098Z
-updated: 2024-05-25T05:37:37.098Z
+date: 2024-06-10T10:28:16.374Z
+updated: 2024-06-11T10:28:16.374Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Comparing Syma X8C to Previous Models"
 excerpt: "This Article Describes [New] Comparing Syma X8C to Previous Models"
 keywords: "Syma X8C vs Past Models,Syma X8C Comparison,Syma X8C Evolution,Syma Progression X8C,Syma X8C Upgrade Analysis,Syma's Model Progressions,Comparing Syma's Innovations"
-thumbnail: https://www.lifewire.com/thmb/5IjHqiM5yA902IdzuY4UM057tAU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/setting-Apple-tv-restrictions-4685513-ba61049ae9f145d5965c6ccd013e4cd0.jpeg
+thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6447b480a9b0d3148ed090af.jpeg
 ---
 
 ## Comparing Syma X8C to Previous Models

@@ -1,7 +1,7 @@
 ---
 title: "\"DJI Drones Collection  Entry Grade, Premium Pro, Elite 4K Flight\""
-date: 2024-05-24T03:43:37.370Z
-updated: 2024-05-25T03:43:37.370Z
+date: 2024-06-10T10:28:17.879Z
+updated: 2024-06-11T10:28:17.879Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes DJI Drones Collection: Entry Grade, Premium Pro, Elite 4K Flight\""
 excerpt: "\"This Article Describes DJI Drones Collection: Entry Grade, Premium Pro, Elite 4K Flight\""
 keywords: "DJI Drone Pro 4K,DJI Premium Flyer,DJI Entry Grade Drone,DJI Elite Drones 4K,DJI 4K Flight Drone,DJI Elite Drones,DJI Drone Premium Range"
-thumbnail: https://www.lifewire.com/thmb/5Hk3OeMwXnJsYVlAr-DvpgKR1cA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Netflix-vs-Max-314e297891b54d66ba48792cae9b2934.jpg
+thumbnail: https://thmb.techidaily.com/8c3b13a3ac83a5d3d00093c2a17a7909556b01cc18d6b9abd17e301fcbcbc6e6.jpg
 ---
 
 ## DJI Drones Collection: Entry Grade, Premium Pro, Elite 4K Flight

@@ -1,7 +1,7 @@
 ---
 title: "\"Decorate Your Windows 11 Photos App  Add Aesthetic Filters + Audio Streams\""
-date: 2024-05-24T03:21:08.232Z
-updated: 2024-05-25T03:21:08.232Z
+date: 2024-06-10T10:28:19.655Z
+updated: 2024-06-11T10:28:19.655Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Decorate Your Windows 11 Photos App: Add Aesthetic Filters + Audio Streams\""
 excerpt: "\"This Article Describes Decorate Your Windows 11 Photos App: Add Aesthetic Filters + Audio Streams\""
 keywords: "Windows 11 Photo Aesthetics,Filtered Window Images,Aesthetic Image Effects,App Enhanced Windows Vista,Audio Stream Windows Decor,Visual Windows 11 Filters,Soundscape Windows App"
-thumbnail: https://www.lifewire.com/thmb/bMOUH6OkpRF5_MrN2lrqa_1fgSk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-700130756-5bc55813c9e77c00516913eb.jpg
+thumbnail: https://thmb.techidaily.com/aa39b0c8b4b398091d4035d320c4791ea5b2efa57b569d8f39427b85787484d2.jpg
 ---
 
 ## Decorate Your Windows 11 Photos App: Add Aesthetic Filters + Audio Streams

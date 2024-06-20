@@ -1,7 +1,7 @@
 ---
 title: "\"A Step-By Written Guide to LUTs for Professional Photographers for 2024\""
-date: 2024-05-24T05:47:50.357Z
-updated: 2024-05-25T05:47:50.357Z
+date: 2024-06-10T10:28:13.002Z
+updated: 2024-06-11T10:28:13.002Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes A Step-By Written Guide to LUTs for Professional Photographers for 2024\""
 excerpt: "\"This Article Describes A Step-By Written Guide to LUTs for Professional Photographers for 2024\""
 keywords: "PhotoLUT Basics,LUT Essentials,ProPhotographyLUTs,ImageEnhancementTips,LUTsForProfPhoto,ColorGradingLUTs,PhotographyColorCorrection"
-thumbnail: https://www.lifewire.com/thmb/Lej6_-meONBLUEkeLjx6x8V53hw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-959901222-5479a2080a31432a9bf43a906ed65ec9.jpg
+thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50cca52847005eac86a562eee.jpg
 ---
 
 ## A Step-By Written Guide to LUTs for Professional Photographers

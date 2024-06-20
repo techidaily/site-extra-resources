@@ -1,7 +1,7 @@
 ---
 title: "\"Celebrating Stop-Motion Excellence  Top 15 Films\""
-date: 2024-05-24T03:51:51.458Z
-updated: 2024-05-25T03:51:51.458Z
+date: 2024-06-10T10:28:18.440Z
+updated: 2024-06-11T10:28:18.440Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Celebrating Stop-Motion Excellence: Top 15 Films\""
 excerpt: "\"This Article Describes Celebrating Stop-Motion Excellence: Top 15 Films\""
 keywords: "\"Stop-Motion Awards,Film Noir Classics,Animation Masterpieces,Top Excellent Films,Stop-Motion Iconic Movies,Animated Film Highlights,Cinematic Greatest Shorts\""
-thumbnail: https://www.lifewire.com/thmb/XFPs7ukKGYkDLjHUDiAKej05X4I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cleaningrobotonlaptop_HuberandStarke_GettyImages-1448733073_EVANCROP-8ed67f08b9c4430db8e47c51fde78feb.jpg
+thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98dc41bc3885e34ece3467540.jpg
 ---
 
 ## Celebrating Stop-Motion Excellence: Top 15 Films

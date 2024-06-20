@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Boost Creativity  Learn How to Insert Text Onto Digital Photographs on PC/Mac\""
-date: 2024-05-24T05:45:07.488Z
-updated: 2024-05-25T05:45:07.488Z
+date: 2024-06-10T10:28:12.845Z
+updated: 2024-06-11T10:28:12.845Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Boost Creativity: Learn How to Insert Text Onto Digital Photographs on PC/Mac\""
 excerpt: "\"This Article Describes In 2024, Boost Creativity: Learn How to Insert Text Onto Digital Photographs on PC/Mac\""
 keywords: "PhotoTextEditingTips,CreativePhotoDesign,InsertingTextPCPhotos,MacPhotographyTextAdd,DigitalImageManipulation,PCMacPhotoEnhancement,TextInDigitalArt"
-thumbnail: https://www.lifewire.com/thmb/Z0ZdjJb5nz4Ek2qcGOTaqnhoZ04=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1164718779-aa87dac78cd44ad7b71e76c27adc7e9a.jpg
+thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7f00706449676a59eeb923d9.jpg
 ---
 
 ## Boost Creativity: Learn How to Insert Text Onto Digital Photographs on PC/Mac

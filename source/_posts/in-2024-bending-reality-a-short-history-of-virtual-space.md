@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Bending Reality  A Short History of Virtual Space\""
-date: 2024-05-24T04:28:04.129Z
-updated: 2024-05-25T04:28:04.129Z
+date: 2024-06-10T10:28:14.234Z
+updated: 2024-06-11T10:28:14.234Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Bending Reality: A Short History of Virtual Space\""
 excerpt: "\"This Article Describes In 2024, Bending Reality: A Short History of Virtual Space\""
 keywords: "VirtSpace Origins,RealVirtual History,Virtual Reality Evolution,Digital Worlds Past,Space Bending Trends,Virtual Space History,Altering Virtuality"
-thumbnail: https://www.lifewire.com/thmb/TehDJmCp0cwyt3BZzMteC99vuqk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/gmailscreen01-29256c0afe4a4ea89db447ff60e14302.jpg
+thumbnail: https://thmb.techidaily.com/e7c07b94a0d6b31286cb181ffa8593e2e10d0215534d64f40b8e2e1bab83a4ee.jpg
 ---
 
 ## Bending Reality: A Short History of Virtual Space

@@ -1,7 +1,7 @@
 ---
 title: "\"Android Lightroom  A Complete and Detailed Review for 2024\""
-date: 2024-05-24T04:32:51.018Z
-updated: 2024-05-25T04:32:51.018Z
+date: 2024-06-10T10:28:22.185Z
+updated: 2024-06-11T10:28:22.185Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Android Lightroom: A Complete and Detailed Review for 2024\""
 excerpt: "\"This Article Describes Android Lightroom: A Complete and Detailed Review for 2024\""
 keywords: "Android LR Review,Lightroom for Android,Mobile Photo Editing,Android PhotoPro,Digital Camera App,Image Management Software,Portable Photo Editor"
-thumbnail: https://www.lifewire.com/thmb/ZCgP3QXrLGyFAmX3vrOATSSTEYA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/pool-movie-night-party--487371742-3586073c6a1c41cda022274ec13f8133.jpg
+thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c6a96da1aa4105529dabc652.jpg
 ---
 
 ## Android Lightroom: A Complete and Detailed Review

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Average Spend on Successful YouTube Videos"
-date: 2024-05-24T04:02:57.666Z
-updated: 2024-05-25T04:02:57.666Z
+date: 2024-06-10T10:28:25.148Z
+updated: 2024-06-11T10:28:25.148Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Average Spend on Successful YouTube Videos"
 excerpt: "This Article Describes [Updated] Average Spend on Successful YouTube Videos"
 keywords: "\"Video Success Cost,YouTubers Average Earnings,Effective Video Investment,Profit Per Video Content,High-Gain Video Strategy,Revenue From Popular Vids,Optimal Video Spending\""
-thumbnail: https://www.lifewire.com/thmb/AOVQTNyOWIZPYiKZehcoYQS3DNU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-820926684-5c7747ebc45847708ac311b709bdc1f2.jpg
+thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343ebf5ad117060d9466fac18ee3.jpg
 ---
 
 ## Average Spend on Successful YouTube Videos

@@ -1,7 +1,7 @@
 ---
 title: "\"A Symphony of Shades  Applying Complementary Colors for 2024\""
-date: 2024-05-24T05:56:32.281Z
-updated: 2024-05-25T05:56:32.281Z
+date: 2024-06-10T10:28:23.796Z
+updated: 2024-06-11T10:28:23.796Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes A Symphony of Shades: Applying Complementary Colors for 2024\""
 excerpt: "\"This Article Describes A Symphony of Shades: Applying Complementary Colors for 2024\""
 keywords: "Color Harmony,Shade Synergy,Hue Balance,Aesthetic Mixing,Chromatic Contrast,Palette Unification,Complementary Blend"
-thumbnail: https://www.lifewire.com/thmb/dyswmYNpv0N5nDaCdhxQ7fAUz7s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Taylor-Dent-candid-02cfe5d4fc174cd585cfc43cb77b48f7.jpg
+thumbnail: https://thmb.techidaily.com/144ba6c2b445ab473f613c1a9b64b4025f153684504ed90b87c56b4f36e8f03d.jpg
 ---
 
 ## A Symphony of Shades: Applying Complementary Colors

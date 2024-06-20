@@ -1,7 +1,7 @@
 ---
 title: "3 Simple Methods for Color Correction in PhotoShop for 2024"
-date: 2024-05-24T04:45:13.007Z
-updated: 2024-05-25T04:45:13.007Z
+date: 2024-06-10T10:28:22.612Z
+updated: 2024-06-11T10:28:22.612Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes 3 Simple Methods for Color Correction in PhotoShop for 2024"
 excerpt: "This Article Describes 3 Simple Methods for Color Correction in PhotoShop for 2024"
 keywords: "ColorCorrectPhotoshop,PhotoColorAdjustment,FixPhotoHue,SharpImageToning,BalancePhotoColors,EnhancePhotoshopPics,AdjustImageSaturation"
-thumbnail: https://www.lifewire.com/thmb/AaHHau3UmpxoavmXzp1ahx9V_Gc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-136400195-ec87f886d521489eab3228cf6843c73d.jpg
+thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef1524e233743a9045ce3a1167e9.jpg
 ---
 
 ## 3 Simple Methods for Color Correction in PhotoShop

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] 10 Open Source Video Player for Linux, Windows and Mac"
-date: 2024-05-24T03:36:12.446Z
-updated: 2024-05-25T03:36:12.446Z
+date: 2024-06-10T10:28:23.277Z
+updated: 2024-06-11T10:28:23.277Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] 10 Open Source Video Player for Linux, Windows and Mac"
 excerpt: "This Article Describes [Updated] 10 Open Source Video Player for Linux, Windows and Mac"
 keywords: "\"Linux Video Player,Free OS Video Player,Open-Source Media Playback,Open Media Player for Linux/Windows,OS Video Players,Cross Platform Video Player,Lightweight Video Apps OS\""
-thumbnail: https://www.lifewire.com/thmb/nqSALb7zNdT8nFxf209ImwIDLX0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2021-06-10at11.00.05AM-54419e7f430d4753971645b6e3580923.png
+thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7b4431d8ccd93ecf0eac5efe.png
 ---
 
 ## 10 Open Source Video Player for Linux, Windows and Mac

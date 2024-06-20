@@ -1,7 +1,7 @@
 ---
 title: "[Updated] 10 Best Free Photo Editor for Windows and Mac"
-date: 2024-05-24T03:39:08.661Z
-updated: 2024-05-25T03:39:08.661Z
+date: 2024-06-10T10:28:14.864Z
+updated: 2024-06-11T10:28:14.864Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] 10 Best Free Photo Editor for Windows and Mac"
 excerpt: "This Article Describes [Updated] 10 Best Free Photo Editor for Windows and Mac"
 keywords: "WinPhotEditors10Best,FreePhotoEditorWindows,MacPhotoEditFreeTop,Top10WinPhotoEditing,BestFreeMacPhotoTool,WindowsFreePhotoTools,UltimateFreePhotoApps"
-thumbnail: https://www.lifewire.com/thmb/5HDHhmAU3Eyy1gIkDYFy4z3JLbQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/alternate-route-plan-google-maps-1616470-90734d793e9743d596ade9b27be0b34b.png
+thumbnail: https://thmb.techidaily.com/c2522eefb8fbc96fa570f56849cfdf92d72e221bd3a27b7e0b7d3fec1332bd02.png
 ---
 
 ## 10 Best Free Photo Editor for Windows and Mac

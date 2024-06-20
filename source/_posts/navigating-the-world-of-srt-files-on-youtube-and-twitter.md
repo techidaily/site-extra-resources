@@ -1,7 +1,7 @@
 ---
 title: "Navigating the World of SRT Files on YouTube and Twitter"
-date: 2024-05-24T05:10:48.396Z
-updated: 2024-05-25T05:10:48.396Z
+date: 2024-06-10T10:28:16.814Z
+updated: 2024-06-11T10:28:16.814Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Navigating the World of SRT Files on YouTube and Twitter"
 excerpt: "This Article Describes Navigating the World of SRT Files on YouTube and Twitter"
 keywords: "SRT Files Guide,YouTube SRT Tips,SRT File Usage,SRT Conversion Steps,SRT on YouTube,Tweeting with SRT,SRT for Videos"
-thumbnail: https://www.lifewire.com/thmb/5-m_1GYRxGAFct79OSVOEiWVtWM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/new-apple-tv-4k-console-device-against-yellow-background-1140205622-2a35a59f75d34f95b8395268d53950b0.jpg
+thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec74141e34200890076f60dc1f.jpg
 ---
 
 ## Navigating the World of SRT Files on YouTube and Twitter

@@ -1,7 +1,7 @@
 ---
 title: "\"Playback Problem  Why Can't I Watch Video on Sony A6400?\""
-date: 2024-05-24T05:33:33.549Z
-updated: 2024-05-25T05:33:33.549Z
+date: 2024-06-10T10:28:21.596Z
+updated: 2024-06-11T10:28:21.596Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Playback Problem: Why Can't I Watch Video on Sony A6400?\""
 excerpt: "\"This Article Describes Playback Problem: Why Can't I Watch Video on Sony A6400?\""
 keywords: "Sony A6400 Playback Issue,Video Watch Problem Sony A6400,Sony A6400 Video Failure,Streaming Issues Sony A6400,Play Audio/Video Sony A6400,A6400 Media Playback Issue,Sony Camera Video Troubles"
-thumbnail: https://www.lifewire.com/thmb/oM1F6FMEMZ0Riy1ckp-E8xI__eI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Signal-vs-WhatsApp-511d663c232b4478bbf7c44e7d7e5641.jpg
+thumbnail: https://thmb.techidaily.com/d6473782f31868e794fc3ab8460fc67b139be82f000417effd74e9124ff9dff3.jpg
 ---
 
 ## Playback Problem: Why Can't I Watch Video on Sony A6400?

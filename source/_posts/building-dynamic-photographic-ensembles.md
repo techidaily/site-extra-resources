@@ -1,7 +1,7 @@
 ---
 title: "Building Dynamic Photographic Ensembles"
-date: 2024-05-24T03:27:18.943Z
-updated: 2024-05-25T03:27:18.943Z
+date: 2024-06-10T10:28:19.575Z
+updated: 2024-06-11T10:28:19.575Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Building Dynamic Photographic Ensembles"
 excerpt: "This Article Describes Building Dynamic Photographic Ensembles"
 keywords: "Dynamic Photo Teams,Dynamic Image Groups,Creative Photoshoot Planning,Flexible Photography Crews,Dynamic Visual Collectives,Innovative Picture Gatherings,Evolving Photographic Units"
-thumbnail: https://www.lifewire.com/thmb/fxTkV6WtKE82Yk7N0Qz__P0Ie4k=/180x120/filters:no_upscale():max_bytes(150000):strip_icc()/ecotech_robothands_gettyimages-1179633351_koya79_cropped_1745_v3-c9e218ef95494c239b2edfb8294fe2a1.jpg
+thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad53016173b55a4a0650b3071.jpg
 ---
 
 ## Building Dynamic Photographic Ensembles

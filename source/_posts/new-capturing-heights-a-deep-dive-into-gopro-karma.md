@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capturing Heights  A Deep Dive Into GoPro Karma\""
-date: 2024-05-24T04:13:48.671Z
-updated: 2024-05-25T04:13:48.671Z
+date: 2024-06-10T10:28:23.694Z
+updated: 2024-06-11T10:28:23.694Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Capturing Heights: A Deep Dive Into GoPro Karma\""
 excerpt: "\"This Article Describes [New] Capturing Heights: A Deep Dive Into GoPro Karma\""
 keywords: "GoPro Adventure Filming,Karma Feature Review,Captured Heights Experience,Deep Dive Karma Analysis,Heights Photography Tips,Exploring GoPro Karma,GoPro Video Storytelling"
-thumbnail: https://www.lifewire.com/thmb/vPFd-AMhh9AKItKjaheXQPgowy4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SDC18_Keynote_OneUI-5be8d33f46e0fb002d108acf.jpg
+thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4e4c1c2d693991f9d3085553.jpg
 ---
 
 ## Capturing Heights: A Deep Dive Into GoPro Karma

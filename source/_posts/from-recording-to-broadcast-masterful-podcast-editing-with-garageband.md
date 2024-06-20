@@ -1,7 +1,7 @@
 ---
 title: "\"From Recording to Broadcast  Masterful Podcast Editing with GarageBand\""
-date: 2024-05-24T04:49:08.490Z
-updated: 2024-05-25T04:49:08.490Z
+date: 2024-06-10T10:28:13.512Z
+updated: 2024-06-11T10:28:13.512Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes From Recording to Broadcast: Masterful Podcast Editing with GarageBand\""
 excerpt: "\"This Article Describes From Recording to Broadcast: Masterful Podcast Editing with GarageBand\""
 keywords: "Podcast Editing Basics,GarageBand Broadcast Tips,Audio Recording Process,Sound Mixing Techniques,Professional Podcast Production,Advanced GarageBand Use,Media Transition Strategies"
-thumbnail: https://www.lifewire.com/thmb/v4AbqnTlju8lMmkS1DJOcvntGsY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-839864362-59c51d1daf5d3a0010919ae9.jpg
+thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4ff28b2032ed8b7104437026.jpg
 ---
 
 ## From Recording to Broadcast: Masterful Podcast Editing with GarageBand

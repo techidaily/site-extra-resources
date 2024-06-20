@@ -1,7 +1,7 @@
 ---
 title: "Why Does My Photo Booth Video Keep Freezing?"
-date: 2024-05-24T05:11:11.912Z
-updated: 2024-05-25T05:11:11.912Z
+date: 2024-06-10T10:28:17.435Z
+updated: 2024-06-11T10:28:17.435Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Why Does My Photo Booth Video Keep Freezing?"
 excerpt: "This Article Describes Why Does My Photo Booth Video Keep Freezing?"
 keywords: "\"Micro Photo Tips,Mini Lens Shots,Close-Up Filmmaking,Macro Videography Steps,Small Scene Capture,Fine Art Photography Guide,Ultra-Detail Video Techniques\""
-thumbnail: https://www.lifewire.com/thmb/J824Ra8KQFbLaWC_ATGxX22EzOA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/trends_MontyRakusen_Getty-5a4aa079482c5200362b0987.jpg
+thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373d5c47d7a53f258bef450907.jpg
 ---
 
 ## Why Does My Photo Booth Video Keep Freezing?

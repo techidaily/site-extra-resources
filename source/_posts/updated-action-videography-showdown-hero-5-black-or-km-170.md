@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Action Videography Showdown  Hero 5 Black or KM-170?\""
-date: 2024-05-24T03:44:28.641Z
-updated: 2024-05-25T03:44:28.641Z
+date: 2024-06-10T10:28:17.076Z
+updated: 2024-06-11T10:28:17.076Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Action Videography Showdown: Hero 5 Black or KM-170?\""
 excerpt: "\"This Article Describes [Updated] Action Videography Showdown: Hero 5 Black or KM-170?\""
 keywords: "\"Action Cam Choice: Hero Vs. KM,Dual Camera Duels,Professional Videographer Guide,Best Action Video Gear,Hero Black VS KM-170 Review,Pro Action Cameras Comparison,Optimal Shooting Techniques\""
-thumbnail: https://www.lifewire.com/thmb/KMEogKOuBs--nRX9aV9hudENKzQ=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/iStock-493217440-59f8f005054ad90010327362.png
+thumbnail: https://thmb.techidaily.com/128652f3635b5c02571aebd32ea42bdf5de3d8228fe08a4a4993ce8bcc5b8b84.png
 ---
 
 ## Action Videography Showdown: Hero 5 Black or KM-170?

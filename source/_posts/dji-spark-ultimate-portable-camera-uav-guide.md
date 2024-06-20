@@ -1,7 +1,7 @@
 ---
 title: "\"DJI Spark  Ultimate Portable Camera UAV Guide\""
-date: 2024-05-24T03:30:36.356Z
-updated: 2024-05-25T03:30:36.356Z
+date: 2024-06-10T10:28:12.966Z
+updated: 2024-06-11T10:28:12.966Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes DJI Spark: Ultimate Portable Camera UAV Guide\""
 excerpt: "\"This Article Describes DJI Spark: Ultimate Portable Camera UAV Guide\""
 keywords: "Dji Spark Photography,Portable Drone Cam,UAV Aerial Shots,DJI Spark Mini Guide,Spark Flight Controls,Lightweight UAV Tech,Spark 4K Video Capture"
-thumbnail: https://www.lifewire.com/thmb/h-DgWxrYcNgmRVWIwezpfkWPwfw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/EmirMemedovski-a14e9770dd044a20ba8c691f0ee1c000.jpg
+thumbnail: https://thmb.techidaily.com/cd3d2360a2d4ccd17e303566ba964ef54de4b2742b9a5d3bf951667fe61ff2f5.jpg
 ---
 
 ## DJI Spark: Ultimate Portable Camera UAV Guide
