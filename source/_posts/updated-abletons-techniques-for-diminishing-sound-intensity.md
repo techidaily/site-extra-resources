@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ableton's Techniques for Diminishing Sound Intensity"
-date: 2024-05-24T05:00:32.582Z
-updated: 2024-05-25T05:00:32.582Z
+date: 2024-06-19T13:58:00.324Z
+updated: 2024-06-20T13:58:00.324Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Ableton's Techniques for Diminishing Sound Intensity"
 excerpt: "This Article Describes [Updated] Ableton's Techniques for Diminishing Sound Intensity"
 keywords: "\"Ableton Sound Reduction,Diminish Audio Waves,Sound Intensity Lowering,Ableton Volume Control,Ableton Acoustic Quality,Low-Volume Techniques,Softening Ableton Output\""
-thumbnail: https://www.lifewire.com/thmb/XA451cx1FYvpcmr9v67cHXy-zDg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/PortableCarHeater_534759-b31dbf8ec1a2491ea8ee248280de9f55.png
+thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d83c11a51da5e1af69c65adca.png
 ---
 
 ## Ableton's Techniques for Diminishing Sound Intensity

@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through LinkedIn Account Termination Procedures"
-date: 2024-05-24T05:22:14.039Z
-updated: 2024-05-25T05:22:14.039Z
+date: 2024-06-19T13:57:57.308Z
+updated: 2024-06-20T13:57:57.308Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Navigating Through LinkedIn Account Termination Procedures"
 excerpt: "This Article Describes Navigating Through LinkedIn Account Termination Procedures"
 keywords: "LinkedIn Exit Guide,Terminating LinkedIn Acc,LinkedIn Profile Loss,Canceling LinkedIn Membership,Ending LinkedIn Access,Closing LinkedIn Account,Disconnect From LinkedIn"
-thumbnail: https://www.lifewire.com/thmb/l-r2SfXVi-J6FmExDLrIcApcYSk=/180x120/filters:no_upscale():max_bytes(150000):strip_icc()/Streaming_GettyImages-1317927924_grinvalds_CROPPED-71ab52546b8b477ca2c0788bc26d150f.jpg
+thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e56306af6bf8cabd1b35043cc3e.jpg
 ---
 
 ## Navigating Through LinkedIn Account Termination Procedures

@@ -1,7 +1,7 @@
 ---
 title: "\"Bringing Dimensionality to Text  A Photo Editing Masterclass for 2024\""
-date: 2024-05-24T04:42:28.819Z
-updated: 2024-05-25T04:42:28.819Z
+date: 2024-06-19T13:58:02.313Z
+updated: 2024-06-20T13:58:02.313Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Bringing Dimensionality to Text: A Photo Editing Masterclass for 2024\""
 excerpt: "\"This Article Describes Bringing Dimensionality to Text: A Photo Editing Masterclass for 2024\""
 keywords: "Screen Symphony Edit,Canva Music Design,Editing Music Art,Creative Sound Layout,Visual Audio Crafting,Screenscape Melody Mix,Composing in Canva"
-thumbnail: https://www.lifewire.com/thmb/B0CAMp5n0odFeNrfTG4w7r2He08=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/Selfie-Stick-Tips-56a761cf5f9b58b7d0e9fa52.jpg
+thumbnail: https://thmb.techidaily.com/2b667f6d425e137d74634d5b5e43d01ba3b3015e34fc38e54ba016f1aa0f02aa.jpg
 ---
 
 ## Bringing Dimensionality to Text: A Photo Editing Masterclass

@@ -1,7 +1,7 @@
 ---
 title: "Audience Attention Span & Podcast Timing"
-date: 2024-05-24T04:11:04.316Z
-updated: 2024-05-25T04:11:04.316Z
+date: 2024-06-19T13:57:57.995Z
+updated: 2024-06-20T13:57:57.995Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Audience Attention Span & Podcast Timing"
 excerpt: "This Article Describes Audience Attention Span & Podcast Timing"
 keywords: "\"Attention Podcasts,Short-Form Audio,Listening Duration,Timely Content,Engaging Speeches,Effective Pauses,Optimal Length\""
-thumbnail: https://www.lifewire.com/thmb/c_W-bqkUFLIKTo_i61jk41BN8k0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Screenshot2024-01-17at12.08.28PM-45f8005316274053872dbaa7c76fd474.png
+thumbnail: https://thmb.techidaily.com/02ef47e4fa1bec9703102ec97417713d4516fad507615fc36a561cee9ad50600.png
 ---
 
 ## Audience Attention Span & Podcast Timing

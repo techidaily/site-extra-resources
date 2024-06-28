@@ -1,7 +1,7 @@
 ---
 title: "\"Fixing iPhone's Persistent Out-of-Focus Photos\""
-date: 2024-05-24T04:38:26.781Z
-updated: 2024-05-25T04:38:26.781Z
+date: 2024-06-19T13:57:59.375Z
+updated: 2024-06-20T13:57:59.375Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Fixing iPhone's Persistent Out-of-Focus Photos\""
 excerpt: "\"This Article Describes Fixing iPhone's Persistent Out-of-Focus Photos\""
 keywords: "\"Fix Focused iPhone Pics,Clear Blurry iPhone Snapshots,Correct iPhone Sharp Photos,Unblur iPhone Images,Enhance iPhone Photographic Clarity,Resolve iPhone Out-of-Focus,Rectify iPhone Image Focus\""
-thumbnail: https://www.lifewire.com/thmb/8tb7hHH0fUAmFt2wj_WV8ks_i0k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1183804979-558ec63f893e4e068a261ebc584f819e.jpg
+thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532a7a2ec26036834e7833dd28.jpg
 ---
 
 ## Fixing iPhone's Persistent Out-of-Focus Photos

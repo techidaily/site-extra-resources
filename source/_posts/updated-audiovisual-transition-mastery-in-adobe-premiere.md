@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Audiovisual Transition Mastery in Adobe Premiere"
-date: 2024-05-24T03:17:17.808Z
-updated: 2024-05-25T03:17:17.808Z
+date: 2024-06-19T13:57:48.466Z
+updated: 2024-06-20T13:57:48.466Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Audiovisual Transition Mastery in Adobe Premiere"
 excerpt: "This Article Describes [Updated] Audiovisual Transition Mastery in Adobe Premiere"
 keywords: "ProAdobeTransitions,PremiereVideoFlows,AudiovisualEdits,EditingMasterClass,PremiereCutFlows,TransitionTechniques,VideoEditProficiency"
-thumbnail: https://www.lifewire.com/thmb/4iKe1VoJcOmQkhqBBEAP0axpvWA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/BrieLarsonRemembering-69becbb726af45609a2397c425581c9b.png
+thumbnail: https://thmb.techidaily.com/848032c0813eed1e619997cdd0bea2d2fe7603582b1ae72dd2c30508b513eea6.png
 ---
 
 ## Audiovisual Transition Mastery in Adobe Premiere

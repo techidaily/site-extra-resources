@@ -1,7 +1,7 @@
 ---
 title: "NextGen Videotron App Evaluation"
-date: 2024-05-24T04:02:23.547Z
-updated: 2024-05-25T04:02:23.547Z
+date: 2024-06-19T13:57:51.036Z
+updated: 2024-06-20T13:57:51.036Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes NextGen Videotron App Evaluation"
 excerpt: "This Article Describes NextGen Videotron App Evaluation"
 keywords: "\"NextGen App Review,Videotron New App,Modern Videotron App,Innovative Videotron App,Videotron Future Tech,Next-Gen Videotron Update,Advanced Videotron Software\""
-thumbnail: https://www.lifewire.com/thmb/5Hk3OeMwXnJsYVlAr-DvpgKR1cA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Netflix-vs-Max-314e297891b54d66ba48792cae9b2934.jpg
+thumbnail: https://thmb.techidaily.com/8c3b13a3ac83a5d3d00093c2a17a7909556b01cc18d6b9abd17e301fcbcbc6e6.jpg
 ---
 
 ## NextGen Videotron App Evaluation

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Chrome's Full-Screen Trick  Effortlessly Run Videos and Apps Side by Side\""
-date: 2024-05-24T05:42:11.274Z
-updated: 2024-05-25T05:42:11.274Z
+date: 2024-06-19T13:58:02.338Z
+updated: 2024-06-20T13:58:02.338Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Chrome's Full-Screen Trick: Effortlessly Run Videos and Apps Side by Side\""
 excerpt: "\"This Article Describes [Updated] Chrome's Full-Screen Trick: Effortlessly Run Videos and Apps Side by Side\""
 keywords: "Fullscreen Chrome Mode,Split Screen Chrome,Chrome Side By Side,Video & App Sync Chrome,Chrome Multimedia View,Chrome Dual Display,Seamless Chrome Videos"
-thumbnail: https://www.lifewire.com/thmb/kvEgYAA7g4inR0HblHngp2oE6to=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/KhangVuong-d90c802b819741a297291d835e7762e4.jpeg
+thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d176e6b4d47161337afbbb6cd1.jpeg
 ---
 
 ## Chrome's Full-Screen Trick: Effortlessly Run Videos and Apps Side by Side

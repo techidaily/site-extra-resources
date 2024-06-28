@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capture & Create  First Edits in LunaPic Photo Editor\""
-date: 2024-05-24T04:07:41.750Z
-updated: 2024-05-25T04:07:41.750Z
+date: 2024-06-19T13:57:58.861Z
+updated: 2024-06-20T13:57:58.861Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Capture & Create: First Edits in LunaPic Photo Editor\""
 excerpt: "\"This Article Describes [New] Capture & Create: First Edits in LunaPic Photo Editor\""
 keywords: "\"LunaPic Edit Start,LunaPic Photo Initials,LunaPic Pre-Edits,Quick LunaPic Fixes,LunaPic First Edits,Begin LunaPic Adjustment,LunaPic Early Tune-Up\""
-thumbnail: https://www.lifewire.com/thmb/huwSbK2d3evbFLZP84WrnC3KCxM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Board-Game-25eaf89cd79e445ebe7ce23aeb8a892a.jpg
+thumbnail: https://thmb.techidaily.com/b65c1700fc3be6103fe73469bcdff9ebd5593034f3622d27aea03408c9719ceb.jpg
 ---
 
 ## Capture & Create: First Edits in LunaPic Photo Editor

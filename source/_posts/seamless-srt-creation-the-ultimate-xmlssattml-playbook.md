@@ -1,7 +1,7 @@
 ---
 title: "\"Seamless SRT Creation  The Ultimate XML/SSA/TTML Playbook\""
-date: 2024-05-24T03:59:12.189Z
-updated: 2024-05-25T03:59:12.189Z
+date: 2024-06-19T13:57:45.737Z
+updated: 2024-06-20T13:57:45.737Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Seamless SRT Creation: The Ultimate XML/SSA/TTML Playbook\""
 excerpt: "\"This Article Describes Seamless SRT Creation: The Ultimate XML/SSA/TTML Playbook\""
 keywords: "Seamless SRT Making,XML SRT Guide,SSA to SRT Conversion,TTML SRT Creation,Ultimate SRT Playbook,SRT XML Formatting,Efficient SRT Production"
-thumbnail: https://www.lifewire.com/thmb/kQN0hsqM-nggELVbL5byFT4fHO4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/apple-logo-steering-wheel-25522ee2c5664139948ebfd1cb1df653.jpg
+thumbnail: https://thmb.techidaily.com/0087bea05b577dbfb71c5ba8ff49de27f95d036e8af8878f0f3b10198632d36b.jpg
 ---
 
 ## Seamless SRT Creation: The Ultimate XML/SSA/TTML Playbook

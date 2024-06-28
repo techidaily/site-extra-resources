@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Attenuating Audio Gradually in FL Projects"
-date: 2024-05-24T03:34:36.511Z
-updated: 2024-05-25T03:34:36.511Z
+date: 2024-06-19T13:58:01.487Z
+updated: 2024-06-20T13:58:01.487Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Attenuating Audio Gradually in FL Projects"
 excerpt: "This Article Describes In 2024, Attenuating Audio Gradually in FL Projects"
 keywords: "FL Project Audio Attenuation,Audio Gradual Reduction FL,FL Project Sound Fading,Progressive Audio FL,Gradual Audio Dimming in FL,Soft Audio Cut FL Projects,Slow Audio Level Decrease FL"
-thumbnail: https://www.lifewire.com/thmb/T-vk6tcRBceJKhDueci3J9FGWK4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-454939687-56cac7b03df78cfb37988474.jpg
+thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c6533fd74096afaf9205f685325.jpg
 ---
 
 ## Attenuating Audio Gradually in FL Projects

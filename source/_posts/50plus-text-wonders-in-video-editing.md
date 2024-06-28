@@ -1,7 +1,7 @@
 ---
 title: "50+ Text Wonders in Video Editing"
-date: 2024-05-24T05:28:05.881Z
-updated: 2024-05-25T05:28:05.881Z
+date: 2024-06-19T13:57:58.816Z
+updated: 2024-06-20T13:57:58.816Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes 50+ Text Wonders in Video Editing"
 excerpt: "This Article Describes 50+ Text Wonders in Video Editing"
 keywords: "\"Video Edit Magic,Pro Video Text Tricks,Editing Text Effects,Cutting-Edge Edit Wonders,Visual Editing Text Highlights,Creative Video Text Tips,Enhance Video Text Artistry\""
-thumbnail: https://www.lifewire.com/thmb/C13kDXdga-Oj5T83l4u1qvp3-7A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Apple-iPhone-15-lineup-color-lineup-230912_big.jpg.large_2x-a6d9996e39824ffd99060b4183a1edf5.jpg
+thumbnail: https://thmb.techidaily.com/c2c5f7637a1a98a896ffa1ab11bfad790f7bce8cef68212efe6eba279207bd77.jpg
 ---
 
 ## 50+ Text Wonders in Video Editing

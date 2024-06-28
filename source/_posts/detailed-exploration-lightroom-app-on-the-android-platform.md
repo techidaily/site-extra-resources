@@ -1,7 +1,7 @@
 ---
 title: "\"Detailed Exploration  Lightroom App on the Android Platform\""
-date: 2024-05-24T03:32:06.025Z
-updated: 2024-05-25T03:32:06.025Z
+date: 2024-06-19T13:58:00.731Z
+updated: 2024-06-20T13:58:00.731Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Detailed Exploration: Lightroom App on the Android Platform\""
 excerpt: "\"This Article Describes Detailed Exploration: Lightroom App on the Android Platform\""
 keywords: "Lightroom APP Android,Lightroom Mobile Edit,Android Lightroom Tools,Android Photography Workflow,Digital Image Adjustment Android,Photo Enhancement App Android,Android Lightroom Software"
-thumbnail: https://www.lifewire.com/thmb/6QFm0JDInxW-VZP-0F20SBxCPNY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/DawnMyers_0060_crop2-5d818de49e0947aa94cb451025957413.jpg
+thumbnail: https://thmb.techidaily.com/e90a41374ab8bcea029035e600ef5fff009cee16ec9e8eead9f3969598aefde0.jpg
 ---
 
 ## Detailed Exploration: Lightroom App on the Android Platform

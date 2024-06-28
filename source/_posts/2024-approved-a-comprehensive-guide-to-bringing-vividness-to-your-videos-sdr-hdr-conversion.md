@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  A Comprehensive Guide to Bringing Vividness to Your Videos  SDR-HDR Conversion\""
-date: 2024-05-24T03:56:03.831Z
-updated: 2024-05-25T03:56:03.831Z
+date: 2024-06-19T13:57:54.002Z
+updated: 2024-06-20T13:57:54.002Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: A Comprehensive Guide to Bringing Vividness to Your Videos: SDR-HDR Conversion\""
 excerpt: "\"This Article Describes 2024 Approved: A Comprehensive Guide to Bringing Vividness to Your Videos: SDR-HDR Conversion\""
 keywords: "\"Video HDR Basics,SDR-HDR Transformation,Enhancing Video Quality,Vivid Video Techniques,HDR vs Standard Videos,Conversion Tips for Filmmakers,Optimizing Visual Content\""
-thumbnail: https://www.lifewire.com/thmb/DAL-N3_Lno5FbRim9sd78EkulLA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/jens-kreuter-85328-c5ada5fb87224444a49aaa4ad1e16897.jpg
+thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5cc36ff257194dcf6821d1ac.jpg
 ---
 
 ## A Comprehensive Guide to Bringing Vividness to Your Videos: SDR-HDR Conversion

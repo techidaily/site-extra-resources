@@ -1,7 +1,7 @@
 ---
 title: "A Primer on Dynamic Visual Expression"
-date: 2024-05-24T04:06:28.322Z
-updated: 2024-05-25T04:06:28.322Z
+date: 2024-06-19T13:58:00.237Z
+updated: 2024-06-20T13:58:00.237Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes A Primer on Dynamic Visual Expression"
 excerpt: "This Article Describes A Primer on Dynamic Visual Expression"
 keywords: "Dynamic Vision Techniques,Expressive Art Dynamics,Visual Arts Evolution,Creative Design Trends,Interactive Media Principles,Motion Graphics Basics,Visual Expression Methods"
-thumbnail: https://www.lifewire.com/thmb/HP1f6Y5v-9RLt9yWUuwoG4EjIsQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/JanetPhan-ProfessionalWeb-82f9b60035e04a31bd8db9f8df8d44a5.jpg
+thumbnail: https://thmb.techidaily.com/1ccd49c85e9212303a8d46ffca4e2f894288070bb2a09d79b62ee40d21724a7f.jpg
 ---
 
 ## A Primer on Dynamic Visual Expression

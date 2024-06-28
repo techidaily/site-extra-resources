@@ -1,7 +1,7 @@
 ---
 title: "Navigating to Get Windows Movie Maker 6 Installed"
-date: 2024-05-24T03:32:25.423Z
-updated: 2024-05-25T03:32:25.423Z
+date: 2024-06-19T13:57:53.022Z
+updated: 2024-06-20T13:57:53.022Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Navigating to Get Windows Movie Maker 6 Installed"
 excerpt: "This Article Describes Navigating to Get Windows Movie Maker 6 Installed"
 keywords: "Install Movie Maker,Movie Maker Win6,Windows Movie Maker Installation,Movie Maker Setup Windows,Get Movie Maker 6,Installer for Windows Movie Maker,Win6 Movie Maker Download"
-thumbnail: https://www.lifewire.com/thmb/BEu1dTImTgj-gj19IMN4njOxWDE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/set-top-dvr-1130767-f2aa7f11e3d2442b966d53b8aa2d25fd.png
+thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f7257579ffa960f9e7a085032e4b04.png
 ---
 
 ## Navigating to Get Windows Movie Maker 6 Installed

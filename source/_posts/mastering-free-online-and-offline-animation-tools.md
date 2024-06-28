@@ -1,7 +1,7 @@
 ---
 title: "Mastering Free Online & Offline Animation Tools"
-date: 2024-05-24T03:23:07.476Z
-updated: 2024-05-25T03:23:07.476Z
+date: 2024-06-19T13:57:51.896Z
+updated: 2024-06-20T13:57:51.896Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Mastering Free Online & Offline Animation Tools"
 excerpt: "This Article Describes Mastering Free Online & Offline Animation Tools"
 keywords: "\"Online Animation Mastery,Offline Animation Basics,Free Animation Software,Animated Skills Development,Tech-Savvy Animation Tools,Digital Animation Learning,Comprehensive Animation Guide\""
-thumbnail: https://www.lifewire.com/thmb/bbeiFr7M7Hblm82AcPyl3Z3IAu4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/001_how-to-fix-it-when-roku-tv-sound-is-not-working-5198644-bc2ace5bd66c4dcb9ba516eac5fc3df8.jpg
+thumbnail: https://thmb.techidaily.com/9b3d4059cce82d617824aff75bbe2c1cfb1dda056b7a7373daee332b511aa58b.jpg
 ---
 
 ## Mastering Free Online & Offline Animation Tools

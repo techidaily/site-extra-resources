@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Comprehending the Basics of WhatsApp Calls"
-date: 2024-05-24T05:18:23.494Z
-updated: 2024-05-25T05:18:23.494Z
+date: 2024-06-19T13:58:00.491Z
+updated: 2024-06-20T13:58:00.491Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Comprehending the Basics of WhatsApp Calls"
 excerpt: "This Article Describes [Updated] Comprehending the Basics of WhatsApp Calls"
 keywords: "WhatsApp Call Basics,Understanding WhatsApp,WhatsApp Talking Guide,Learn WhatsApp Calls,Mastering WhatsApp Chat,Essentials of WhatsApp Calls,WhatsApp Communication Fundamentals"
-thumbnail: https://www.lifewire.com/thmb/j06Tzo1Z_cjU837zzQo7Wqf6aP0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/car-heater-suddenly-stopped-working-534657-0434e58bcf8c4b5fb4daf6f2366da711.png
+thumbnail: https://thmb.techidaily.com/f66305bee95e2c8cfda71737bc488d60f6c275330b2e729ec458216f465e024e.png
 ---
 
 ## Comprehending the Basics of WhatsApp Calls

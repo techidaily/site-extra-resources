@@ -1,7 +1,7 @@
 ---
 title: "[New] Adjusting YouTube Video Scale Effectively"
-date: 2024-05-24T04:19:48.571Z
-updated: 2024-05-25T04:19:48.571Z
+date: 2024-06-19T13:57:49.683Z
+updated: 2024-06-20T13:57:49.683Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Adjusting YouTube Video Scale Effectively"
 excerpt: "This Article Describes [New] Adjusting YouTube Video Scale Effectively"
 keywords: "Video Scaling Tips,Optimal Video Size,Stream Quality Adjustment,Enhancing Video Clarity,Customize YouTube Video,Scale Video Effectively,Improve Video Resolution"
-thumbnail: https://www.lifewire.com/thmb/uyVwAtDYnMCkGCg0lHie4gGTlYc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/discoveryplusnotworking-74fa2392945842ebb9fd0e2dfcf1d1dd.jpg
+thumbnail: https://thmb.techidaily.com/8ad1313081653043389b0ec9ab2777fbe6983525a9b9183de9916f4cf1facd61.jpg
 ---
 
 ## Adjusting YouTube Video Scale Effectively
@@ -52,7 +52,7 @@ Step1Download and install [Wondershare Filmora](https://tools.techidaily.com/won
 
 Step2Drag and drop the target YouTube video on Filmora into Project Media folder.
 
-![drag video into project media folder ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
+![drag video into project media folder](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 Step3Thereafter, drag and drop the YouTube video file from Project Media folder into Timeline. Click on Crop icon located at the top of the timeline.
 
@@ -90,7 +90,7 @@ Step1Download and install [Wondershare Filmora](https://tools.techidaily.com/won
 
 Step2Drag and drop the target YouTube video on Filmora into Project Media folder.
 
-![drag video into project media folder ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
+![drag video into project media folder](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 Step3Thereafter, drag and drop the YouTube video file from Project Media folder into Timeline. Click on Crop icon located at the top of the timeline.
 

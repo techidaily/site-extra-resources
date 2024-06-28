@@ -1,7 +1,7 @@
 ---
 title: "Why Can't My A6400 Show Movies?"
-date: 2024-05-24T05:52:31.086Z
-updated: 2024-05-25T05:52:31.086Z
+date: 2024-06-19T13:58:00.010Z
+updated: 2024-06-20T13:58:00.010Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Why Can't My A6400 Show Movies?"
 excerpt: "This Article Describes Why Can't My A6400 Show Movies?"
 keywords: "A6400 Movie Issue,A6400 Playback Failure,A6400 Media Playback,A6400 No Video Play,Why No Movies on A6400,Fix A6400 Movie Showcase,Play Movies Issue A6400"
-thumbnail: https://www.lifewire.com/thmb/M4Q2meAJjRut6RxJ2zRK2nCzWRk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/twitter-5b58d4f546e0fb0078cc1f23.jpg
+thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c5fe49411fd5c4ce5c94643b.jpg
 ---
 
 ## Why Can't My A6400 Show Movies?

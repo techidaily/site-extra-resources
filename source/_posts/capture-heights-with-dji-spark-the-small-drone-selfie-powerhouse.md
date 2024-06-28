@@ -1,7 +1,7 @@
 ---
 title: "\"Capture Heights with DJI Spark  The Small Drone Selfie Powerhouse\""
-date: 2024-05-24T04:18:45.544Z
-updated: 2024-05-25T04:18:45.544Z
+date: 2024-06-19T13:58:00.354Z
+updated: 2024-06-20T13:58:00.354Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Capture Heights with DJI Spark: The Small Drone Selfie Powerhouse\""
 excerpt: "\"This Article Describes Capture Heights with DJI Spark: The Small Drone Selfie Powerhouse\""
 keywords: "DJI Spark Selfies,DJI Spark Aerial Shots,DJI Spark Mini Drones,DJI Spark Photoshoot,DJI Spark Drone Guide,Spark Drone Photography,DJI Spark Tiny Camera"
-thumbnail: https://www.lifewire.com/thmb/IRUJdGsHeadaK7w7-Pdc-ROyrb8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-896318654-8fb6b54476b549b298504618ada7ed41.jpg
+thumbnail: https://thmb.techidaily.com/1df433206ff11dec7faaaf54cae7b4a5f98f51a6cf19d2906c605406cb94fb11.jpg
 ---
 
 ## Capture Heights with DJI Spark: The Small Drone Selfie Powerhouse

@@ -1,7 +1,7 @@
 ---
 title: "\"The Smooth Slide  Advanced Techniques for Inshot Transitions\""
-date: 2024-05-24T03:35:51.392Z
-updated: 2024-05-25T03:35:51.392Z
+date: 2024-06-19T13:57:54.742Z
+updated: 2024-06-20T13:57:54.742Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes The Smooth Slide: Advanced Techniques for Inshot Transitions\""
 excerpt: "\"This Article Describes The Smooth Slide: Advanced Techniques for Inshot Transitions\""
 keywords: "ProShotTransition,InshotTechnique,AdvancedSliding,SmoothInshots,StylishSlideTrans,TechniquesShift,IntakeCinematicFlow"
-thumbnail: https://www.lifewire.com/thmb/jJkMZHBw1UWMNPiFSMrpeNwRPjY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ArtificalIntelligenceChatbotConcept-c0e491e36fae46ef84b670334af5095f.jpg
+thumbnail: https://thmb.techidaily.com/b7ac3fecaf39cbf4ad53ade68b5607328fb5fc5fabf85fb01691cb6e94c786a0.jpg
 ---
 
 ## The Smooth Slide: Advanced Techniques for Inshot Transitions

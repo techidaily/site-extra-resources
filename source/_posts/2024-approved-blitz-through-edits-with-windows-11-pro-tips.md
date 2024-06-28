@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Blitz Through Edits with Windows 11 Pro Tips\""
-date: 2024-05-24T04:29:51.580Z
-updated: 2024-05-25T04:29:51.580Z
+date: 2024-06-19T13:57:46.124Z
+updated: 2024-06-20T13:57:46.124Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Blitz Through Edits with Windows 11 Pro Tips\""
 excerpt: "\"This Article Describes 2024 Approved: Blitz Through Edits with Windows 11 Pro Tips\""
 keywords: "WinEditsTips,11ProEditing,BlitzEditsWin11,EditWindows11Pro,ProEditGuideWin11,TipsFor11ProEdit,Win11EfficiencyTricks"
-thumbnail: https://www.lifewire.com/thmb/L_bLJsnpl-tFtCL5yNXr6cWRq-I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Recycle-laptop-battery-94eeae5ae45246b2801317b86b868cb0.jpg
+thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddebe9cf76be61f42eab18cd22c.jpg
 ---
 
 ## Blitz Through Edits with Windows 11 Pro Tips

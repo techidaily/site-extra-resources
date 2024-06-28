@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Accessing and Using SRT Audio on Various OSes"
-date: 2024-05-24T03:37:43.362Z
-updated: 2024-05-25T03:37:43.362Z
+date: 2024-06-19T13:57:53.744Z
+updated: 2024-06-20T13:57:53.744Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Accessing and Using SRT Audio on Various OSes"
 excerpt: "This Article Describes In 2024, Accessing and Using SRT Audio on Various OSes"
 keywords: "\"SRT Audio Access,SRT Usage Guide,SRT Support Windows,SRT Playback Linux,Cross-Platform SRT Use,OS SRT Integration,SRT on Different Systems\""
-thumbnail: https://www.lifewire.com/thmb/BaEJ6e3lDpxXhe3UKqZ9XZoO1wM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/amazon-freevee-logo-b464d480290b4ab28dba71206fea4786.png
+thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca83f80b9023766807a5bb6dc8.png
 ---
 
 ## Accessing and Using SRT Audio on Various OSes

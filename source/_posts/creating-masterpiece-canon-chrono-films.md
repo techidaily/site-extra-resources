@@ -1,7 +1,7 @@
 ---
 title: "Creating Masterpiece Canon Chrono Films"
-date: 2024-05-24T04:47:30.722Z
-updated: 2024-05-25T04:47:30.722Z
+date: 2024-06-19T13:57:46.094Z
+updated: 2024-06-20T13:57:46.094Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Creating Masterpiece Canon Chrono Films"
 excerpt: "This Article Describes Creating Masterpiece Canon Chrono Films"
 keywords: "Canon Film Creation,Chrono Artistry,Masterpiece Cinema,Canon Cinematic Works,Chrono Film Magic,Canon Timeless Films,Visual Masterpieces"
-thumbnail: https://www.lifewire.com/thmb/AaHHau3UmpxoavmXzp1ahx9V_Gc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-136400195-ec87f886d521489eab3228cf6843c73d.jpg
+thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef1524e233743a9045ce3a1167e9.jpg
 ---
 
 ## Creating Masterpiece Canon Chrono Films

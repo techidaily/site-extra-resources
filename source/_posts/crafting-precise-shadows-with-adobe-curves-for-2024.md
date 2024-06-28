@@ -1,7 +1,7 @@
 ---
 title: "Crafting Precise Shadows with Adobe Curves for 2024"
-date: 2024-05-24T03:17:35.208Z
-updated: 2024-05-25T03:17:35.208Z
+date: 2024-06-19T13:57:59.454Z
+updated: 2024-06-20T13:57:59.454Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Crafting Precise Shadows with Adobe Curves for 2024"
 excerpt: "This Article Describes Crafting Precise Shadows with Adobe Curves for 2024"
 keywords: "Adobe Shadow Tech,Curve Effect Art,Precision Edits,Photoshop Shading,Digital Shadow Craft,Edge Blur Control,Lighting Aesthetics"
-thumbnail: https://www.lifewire.com/thmb/-ZARcWaSJKgfS2il1HTTeuwPDGY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-705002115Smaller-59a917ba396e5a001037e595.jpg
+thumbnail: https://thmb.techidaily.com/e8bfc69e4cfa6c5e7699d7a6d6fe4dbd7b3f6ecf37286ae295fb39576034b13a.jpg
 ---
 
 ## Crafting Precise Shadows with Adobe Curves

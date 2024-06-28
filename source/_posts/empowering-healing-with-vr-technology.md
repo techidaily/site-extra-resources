@@ -1,7 +1,7 @@
 ---
 title: "Empowering Healing with VR Technology"
-date: 2024-05-24T04:51:48.370Z
-updated: 2024-05-25T04:51:48.370Z
+date: 2024-06-19T13:57:50.255Z
+updated: 2024-06-20T13:57:50.255Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Empowering Healing with VR Technology"
 excerpt: "This Article Describes Empowering Healing with VR Technology"
 keywords: "VR Healing Therapy,Virtual Rehab Growth,Innovative Healing VR,Immersive Therapeutic VR,VR in Mental Health,VR Wellness Tech,Enhanced Healing VR"
-thumbnail: https://www.lifewire.com/thmb/gqD8upUHe51-QbDVBOjSRL6QoLk=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/AI_Choreograph_GettyImagesPlus-1473211827_CROPPED-137fc9eef04a43a79554344a6f11d1b7.jpg
+thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a1d76f74a4f77913c7df7881.jpg
 ---
 
 ## Empowering Healing with VR Technology

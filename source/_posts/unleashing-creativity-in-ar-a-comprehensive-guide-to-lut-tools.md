@@ -1,7 +1,7 @@
 ---
 title: "\"Unleashing Creativity in AR  A Comprehensive Guide to LUT Tools\""
-date: 2024-05-24T03:42:31.502Z
-updated: 2024-05-25T03:42:31.502Z
+date: 2024-06-19T13:57:49.504Z
+updated: 2024-06-20T13:57:49.504Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Unleashing Creativity in AR: A Comprehensive Guide to LUT Tools\""
 excerpt: "\"This Article Describes Unleashing Creativity in AR: A Comprehensive Guide to LUT Tools\""
 keywords: "AR Creativity Guide,LUTs in AR,AR Development Basics,Creative AR Tools,Color Grading AR,Advanced AR Tech,AR Visual Effects Guide"
-thumbnail: https://www.lifewire.com/thmb/Xx8MZlS4QS9KGvb8ZuSVztsqNrQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-safely-use-airport-charging-stations-4690583-01-6085c56e46b34f84b5f5d2d976e20677.jpg
+thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab52940ff719d4e3de086cc546e4e.jpg
 ---
 
 ## Unleashing Creativity in AR: A Comprehensive Guide to LUT Tools
@@ -64,7 +64,7 @@ The patch graph that renders the color gradation effect looks like this:
 
 Here are the best free LUTs resources for Spark AR:
 
-### 1\. [Frost Zombie (Technical Showcase)](https://we.tl/t-1uj4wJKluG)
+### 1\. Frost Zombie (Technical Showcase)
 
 Client filter pieces occasionally end up on the scrap heap. It was a poor Frost Zombie in this instance. Since this is one of my simpler filters, I felt it was okay to publish the build information. Four objects make up much of the scene: an EyeColor block, a custom canvas segmentation, a face mesh, and an emitter for the breath mist (my personal favorite). To show the layers used in generating the primary zombie texture, I also moved to Substance Painter. This is a demonstration of my methods rather than a step-by-step manual.
 

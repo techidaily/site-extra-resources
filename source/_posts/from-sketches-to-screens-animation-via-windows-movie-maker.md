@@ -1,7 +1,7 @@
 ---
 title: "\"From Sketches to Screens  Animation via Windows Movie Maker\""
-date: 2024-05-24T04:32:05.466Z
-updated: 2024-05-25T04:32:05.466Z
+date: 2024-06-19T13:57:47.713Z
+updated: 2024-06-20T13:57:47.713Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes From Sketches to Screens: Animation via Windows Movie Maker\""
 excerpt: "\"This Article Describes From Sketches to Screens: Animation via Windows Movie Maker\""
 keywords: "WinMoviesAnimatioCreation,SketchToScreenAnimating,MSWindowsAnimationStart,MovieMakerAnimations,FromSketchesMovieMaker,AnimationTutorialWinMS,ScreenTransitionWinMovie"
-thumbnail: https://www.lifewire.com/thmb/ib-rGV2vMJ5PAWG7hZQwNTOKiQI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/Apple-Self-Service-Repair-iPhone-6617e65293a04de7916169bea41d286f.jpg
+thumbnail: https://thmb.techidaily.com/4d7dde3a99efac5f6bdb879d88148e0d5b48fb1025ad045c8786c79687920a30.jpg
 ---
 
 ## From Sketches to Screens: Animation via Windows Movie Maker

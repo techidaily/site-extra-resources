@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Crafting Professional Icons with Pre-Made Graphic Elements\""
-date: 2024-05-24T04:18:36.774Z
-updated: 2024-05-25T04:18:36.774Z
+date: 2024-06-19T13:57:50.071Z
+updated: 2024-06-20T13:57:50.071Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Crafting Professional Icons with Pre-Made Graphic Elements\""
 excerpt: "\"This Article Describes [New] Crafting Professional Icons with Pre-Made Graphic Elements\""
 keywords: "\"Icon Crafting Basics,Design Icons Professionally,Graphic Elements in Icons,Professional Icons Guide,Pre-Made Icon Usage,Efficient Icon Creation,Combining Graphics for Icons\""
-thumbnail: https://www.lifewire.com/thmb/AaHHau3UmpxoavmXzp1ahx9V_Gc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-136400195-ec87f886d521489eab3228cf6843c73d.jpg
+thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef1524e233743a9045ce3a1167e9.jpg
 ---
 
 ## Crafting Professional Icons with Pre-Made Graphic Elements

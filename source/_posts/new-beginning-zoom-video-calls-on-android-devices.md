@@ -1,7 +1,7 @@
 ---
 title: "[New] Beginning Zoom Video Calls on Android Devices"
-date: 2024-05-24T03:54:36.028Z
-updated: 2024-05-25T03:54:36.028Z
+date: 2024-06-19T13:57:57.139Z
+updated: 2024-06-20T13:57:57.139Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Beginning Zoom Video Calls on Android Devices"
 excerpt: "This Article Describes [New] Beginning Zoom Video Calls on Android Devices"
 keywords: "Zoom Call Basics (Android),Start Zoom Calls (Mobile),Android Zoom Conferencing,Launch Zoom Video Chats,Beginner's Zoom Guide (Android),Get Started with Zoom (Android),Zoom Meetings Android (Beginner)"
-thumbnail: https://www.lifewire.com/thmb/ifWTsHLsL5LJcm41bwMfP8A6f4g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1129377245-31d2afce07c34729a07592c518bd5b25.jpg
+thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d131fe0f5a053db33ae9c232d.jpg
 ---
 
 ## Beginning Zoom Video Calls on Android Devices

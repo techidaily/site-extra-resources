@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Accelerated Image Viewer in Windows Environment"
-date: 2024-05-24T05:17:52.915Z
-updated: 2024-05-25T05:17:52.915Z
+date: 2024-06-19T13:57:51.499Z
+updated: 2024-06-20T13:57:51.499Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Accelerated Image Viewer in Windows Environment"
 excerpt: "This Article Describes [Updated] Accelerated Image Viewer in Windows Environment"
 keywords: "WinVidXperience,AccelImageView,FastWinImage,QuickPictureWin,EnhancedWinImage,SpeedUpImageView,RapidWindowsImag"
-thumbnail: https://www.lifewire.com/thmb/qDgmIGv-MKnWSKLikR57Fui58lY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-693170166-5a99f020c67335003717a070.jpg
+thumbnail: https://thmb.techidaily.com/e24c6a589d856da0a108fb73ed8aea987528294a85122e6caa68a425ef40bc26.jpg
 ---
 
 ## Accelerated Image Viewer in Windows Environment

@@ -1,7 +1,7 @@
 ---
 title: "\"Radiant Renders  Streamlined Methods for Color Correction in PS\""
-date: 2024-05-24T05:25:20.059Z
-updated: 2024-05-25T05:25:20.059Z
+date: 2024-06-19T13:57:53.684Z
+updated: 2024-06-20T13:57:53.684Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Radiant Renders: Streamlined Methods for Color Correction in PS\""
 excerpt: "\"This Article Describes Radiant Renders: Streamlined Methods for Color Correction in PS\""
 keywords: "Radiant Renders PS,PS Color Correction,Streamlined Rendering,Efficient PS Editing,Quick PS Color,PS Brighten Technique,PS Enhance Shade"
-thumbnail: https://www.lifewire.com/thmb/p9IaplJL54ugOQSdVcCq05XRd54=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_0755-5be60f4146e0fb002616c5f4.jpg
+thumbnail: https://thmb.techidaily.com/ce80644caee7b986767dc148a3626afb6dedcf8d303ed5814c688bdf2e6498bb.jpg
 ---
 
 ## Radiant Renders: Streamlined Methods for Color Correction in PS

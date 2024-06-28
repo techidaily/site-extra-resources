@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Best Practices for Secondary Footage Selection and Use"
-date: 2024-05-24T05:38:50.806Z
-updated: 2024-05-25T05:38:50.806Z
+date: 2024-06-19T13:57:53.419Z
+updated: 2024-06-20T13:57:53.419Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Best Practices for Secondary Footage Selection and Use"
 excerpt: "This Article Describes In 2024, Best Practices for Secondary Footage Selection and Use"
 keywords: "Footage Best Practices,Selecting Video Content,Use in Media Projects,Quality Secondary Film,Editing Video Footage,Filmmaking Tips,Media Selection Guidelines,Best Footage Use,Select Video Content,Quality Film Usage,Edit Secondary Film,Media Selection,Practice Guidelines"
-thumbnail: https://www.lifewire.com/thmb/jknfkOqLk-t9Nzaqjc3jTDyI23Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/man-with-tablet-and-headphones-on-train-629639549-59c3f06422fa3a00118b0616.jpg
+thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb116bb5f52f889c6937a269f05.jpg
 ---
 
 ## Best Practices for Secondary Footage Selection and Use

@@ -1,7 +1,7 @@
 ---
 title: "\"Blizzard Brilliance  Olympic Peaks in Beijing\""
-date: 2024-05-24T03:38:22.630Z
-updated: 2024-05-25T03:38:22.630Z
+date: 2024-06-19T13:58:01.974Z
+updated: 2024-06-20T13:58:01.974Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Blizzard Brilliance: Olympic Peaks in Beijing\""
 excerpt: "\"This Article Describes Blizzard Brilliance: Olympic Peaks in Beijing\""
 keywords: "Beijing Olympics Ski,Blizzard Peak Games,Brilliant Snow Slopes,China Winter Sports,Olympic Alpine Ski,Beijing Ice Climbing,Blizzard Ski Events"
-thumbnail: https://www.lifewire.com/thmb/MJ8Mk3rhLZM794sdM7oyk7ejKPQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-97096677-56e308935f9b5854a9f8c07e.jpg
+thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c11451977d41c23dfeca435c0f3.jpg
 ---
 
 ## Blizzard Brilliance: Olympic Peaks in Beijing

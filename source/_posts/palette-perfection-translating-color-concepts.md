@@ -1,7 +1,7 @@
 ---
 title: "\"Palette Perfection  Translating Color Concepts\""
-date: 2024-05-24T03:32:28.195Z
-updated: 2024-05-25T03:32:28.195Z
+date: 2024-06-19T13:57:55.301Z
+updated: 2024-06-20T13:57:55.301Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Palette Perfection: Translating Color Concepts\""
 excerpt: "\"This Article Describes Palette Perfection: Translating Color Concepts\""
 keywords: "Palette Art,Color Brilliance,Hue Harmony,Shade Mastery,Tone Triumph,Chroma Clarity,Spectrum Sync"
-thumbnail: https://www.lifewire.com/thmb/i2uVIZaondSrH8PXXW6lszhbvCg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/family-using-devices-56a535783df78cf77286f03b.jpg
+thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f151532892ba053a97dc454cb.jpg
 ---
 
 ## Palette Perfection: Translating Color Concepts

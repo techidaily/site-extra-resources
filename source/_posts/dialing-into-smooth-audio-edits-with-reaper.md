@@ -1,7 +1,7 @@
 ---
 title: "Dialing Into Smooth Audio Edits with Reaper"
-date: 2024-05-24T04:17:18.046Z
-updated: 2024-05-25T04:17:18.046Z
+date: 2024-06-19T13:58:02.205Z
+updated: 2024-06-20T13:58:02.205Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Dialing Into Smooth Audio Edits with Reaper"
 excerpt: "This Article Describes Dialing Into Smooth Audio Edits with Reaper"
 keywords: "\"Editing Waves,Reaper Reverb Adjust,Reaper Audiomastering,Reaper Noise Reduction,Smooth Edits in Reaper,Audio Tuning Reaper,Reaper Plug-In Mastering\""
-thumbnail: https://www.lifewire.com/thmb/wQyUGp2Buuw3r4RGW-gpULMVqX4=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-906869866-6ffa6ccefe6343cbb4fc0125395b047b.jpg
+thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379af7ea84f2fb960950ffa85c.jpg
 ---
 
 ## Dialing Into Smooth Audio Edits with Reaper

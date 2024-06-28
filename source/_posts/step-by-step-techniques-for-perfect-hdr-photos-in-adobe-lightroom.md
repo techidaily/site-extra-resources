@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Techniques for Perfect HDR Photos in Adobe Lightroom\""
-date: 2024-05-24T05:27:07.968Z
-updated: 2024-05-25T05:27:07.968Z
+date: 2024-06-19T13:57:54.879Z
+updated: 2024-06-20T13:57:54.879Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Step-by-Step Techniques for Perfect HDR Photos in Adobe Lightroom\""
 excerpt: "\"This Article Describes Step-by-Step Techniques for Perfect HDR Photos in Adobe Lightroom\""
 keywords: "HDR Photography Tips,Lightroom HDR Techniques,Perfect HDR Images,Advanced HDR Photo Editing,HDR Process in Lightroom,Achieve HDR Quality,Mastering HDR Photography"
-thumbnail: https://www.lifewire.com/thmb/sqPlYj-pfbJQsDT7f50_8Ha0z94=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/sirisakboakaewmanboxingcomputer-38e0077e93bc4cebb97cd99bb0afe100.jpg
+thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8fd8cb255e01f8ccef4f7fd6.jpg
 ---
 
 ## Step-by-Step Techniques for Perfect HDR Photos in Adobe Lightroom

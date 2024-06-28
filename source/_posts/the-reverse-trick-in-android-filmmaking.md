@@ -1,7 +1,7 @@
 ---
 title: "The Reverse Trick in Android Filmmaking"
-date: 2024-05-24T05:20:46.347Z
-updated: 2024-05-25T05:20:46.347Z
+date: 2024-06-19T13:58:01.611Z
+updated: 2024-06-20T13:58:01.611Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Reverse Trick in Android Filmmaking"
 excerpt: "This Article Describes The Reverse Trick in Android Filmmaking"
 keywords: "Android Filmmaking Tricks,Reverse Technique Mobile,Film Reversal Tactics,Movie Making Hacks Android,Android Creative Filmmaking,Innovative Filming Methods,Reverse Shot Strategy"
-thumbnail: https://www.lifewire.com/thmb/jjyTXsCeDSZStKW6OS6wwpHCcLo=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1249645232-9755e2057d9b44a089bc7086603d8f4c.jpg
+thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc1c73b73894ec43a1b1c5c03.jpg
 ---
 
 ## The Reverse Trick in Android Filmmaking

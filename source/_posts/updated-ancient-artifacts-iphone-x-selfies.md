@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ancient Artifacts – iPhone X Selfies"
-date: 2024-05-24T05:40:09.362Z
-updated: 2024-05-25T05:40:09.362Z
+date: 2024-06-19T13:57:45.535Z
+updated: 2024-06-20T13:57:45.535Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Ancient Artifacts – iPhone X Selfies"
 excerpt: "This Article Describes [Updated] Ancient Artifacts – iPhone X Selfies"
 keywords: "Ancient Photos iPhoneX,Antiquity SelfieSuit,Artefacts XPhoneGallery,Historical Images iPhones,Old ArtifactiPixels,Vintage Finds Screenshot,ArchaeoPics Smartphones"
-thumbnail: https://www.lifewire.com/thmb/ZoFksP-ijfTY1R_eJS-zfSIgOQc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/the-12-best-group-video-call-apps-in-2020-bd94fd657b5643088166b1df441b8614.jpg
+thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5caaa3e52196c91037b09546.jpg
 ---
 
 ## Ancient Artifacts – iPhone X Selfies
@@ -63,7 +63,7 @@ If there is not enough light or if you are too far away from the camera, the app
 
 ### For iPhone 8, 7 or older iPhones users
 
-#### [FabFocus](https://itunes.apple.com/us/app/fabfocus-portraits-with-depth-and-bokeh/id1080434313?mt=8)
+#### FabFocus
 
 **Price:** $3.99
 
@@ -73,7 +73,7 @@ If there is not enough light or if you are too far away from the camera, the app
 
 Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.
 
-#### [Tadaa SLR](https://itunes.apple.com/us/app/tadaa-slr/id724662909?mt=8)
+#### Tadaa SLR
 
 **Price:** $3.99
 
@@ -83,7 +83,7 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
 
-#### [Bokeh Lens](https://itunes.apple.com/us/app/bokeh-lens/id587849880?mt=8)
+#### Bokeh Lens
 
 **Price:** $0.99
 
@@ -93,7 +93,7 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
 
-#### [Defocus](https://itunes.apple.com/us/app/defocus/id1048310180?mt=8)
+#### Defocus
 
 **Price:** $1.99
 
@@ -152,7 +152,7 @@ If there is not enough light or if you are too far away from the camera, the app
 
 ### For iPhone 8, 7 or older iPhones users
 
-#### [FabFocus](https://itunes.apple.com/us/app/fabfocus-portraits-with-depth-and-bokeh/id1080434313?mt=8)
+#### FabFocus
 
 **Price:** $3.99
 
@@ -162,7 +162,7 @@ If there is not enough light or if you are too far away from the camera, the app
 
 Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.
 
-#### [Tadaa SLR](https://itunes.apple.com/us/app/tadaa-slr/id724662909?mt=8)
+#### Tadaa SLR
 
 **Price:** $3.99
 
@@ -172,7 +172,7 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
 
-#### [Bokeh Lens](https://itunes.apple.com/us/app/bokeh-lens/id587849880?mt=8)
+#### Bokeh Lens
 
 **Price:** $0.99
 
@@ -182,7 +182,7 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
 
-#### [Defocus](https://itunes.apple.com/us/app/defocus/id1048310180?mt=8)
+#### Defocus
 
 **Price:** $1.99
 
@@ -241,7 +241,7 @@ If there is not enough light or if you are too far away from the camera, the app
 
 ### For iPhone 8, 7 or older iPhones users
 
-#### [FabFocus](https://itunes.apple.com/us/app/fabfocus-portraits-with-depth-and-bokeh/id1080434313?mt=8)
+#### FabFocus
 
 **Price:** $3.99
 
@@ -251,7 +251,7 @@ If there is not enough light or if you are too far away from the camera, the app
 
 Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.
 
-#### [Tadaa SLR](https://itunes.apple.com/us/app/tadaa-slr/id724662909?mt=8)
+#### Tadaa SLR
 
 **Price:** $3.99
 
@@ -261,7 +261,7 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
 
-#### [Bokeh Lens](https://itunes.apple.com/us/app/bokeh-lens/id587849880?mt=8)
+#### Bokeh Lens
 
 **Price:** $0.99
 
@@ -271,7 +271,7 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
 
-#### [Defocus](https://itunes.apple.com/us/app/defocus/id1048310180?mt=8)
+#### Defocus
 
 **Price:** $1.99
 
@@ -330,7 +330,7 @@ If there is not enough light or if you are too far away from the camera, the app
 
 ### For iPhone 8, 7 or older iPhones users
 
-#### [FabFocus](https://itunes.apple.com/us/app/fabfocus-portraits-with-depth-and-bokeh/id1080434313?mt=8)
+#### FabFocus
 
 **Price:** $3.99
 
@@ -340,7 +340,7 @@ If there is not enough light or if you are too far away from the camera, the app
 
 Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.
 
-#### [Tadaa SLR](https://itunes.apple.com/us/app/tadaa-slr/id724662909?mt=8)
+#### Tadaa SLR
 
 **Price:** $3.99
 
@@ -350,7 +350,7 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
 
-#### [Bokeh Lens](https://itunes.apple.com/us/app/bokeh-lens/id587849880?mt=8)
+#### Bokeh Lens
 
 **Price:** $0.99
 
@@ -360,7 +360,7 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
 
-#### [Defocus](https://itunes.apple.com/us/app/defocus/id1048310180?mt=8)
+#### Defocus
 
 **Price:** $1.99
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ancient Images, Modern Preservation  The Art & Science of Old Print Digitizing\""
-date: 2024-05-24T05:52:42.628Z
-updated: 2024-05-25T05:52:42.628Z
+date: 2024-06-19T13:57:51.655Z
+updated: 2024-06-20T13:57:51.655Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Ancient Images, Modern Preservation: The Art & Science of Old Print Digitizing\""
 excerpt: "\"This Article Describes 2024 Approved: Ancient Images, Modern Preservation: The Art & Science of Old Print Digitizing\""
 keywords: "Ancient Prints Digitization,Image Restoration Tech,Art Conservation Digital,Historical Images Archive,Preservation Digitizing,Old Print Science Save,Archiving Antiquated Prints"
-thumbnail: https://www.lifewire.com/thmb/2TMdHA_-QJ9i9jXdODI1YU3AS1A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-599385920-588399ba5f9b58bdb36fa754.jpg
+thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4bb0ae7f591c4a5f178d3c77.jpg
 ---
 
 ## Ancient Images, Modern Preservation: The Art & Science of Old Print Digitizing

@@ -1,7 +1,7 @@
 ---
 title: "\"Photo Editing Basics Unveiled  Dive Into LunaPic\""
-date: 2024-05-24T05:35:07.513Z
-updated: 2024-05-25T05:35:07.513Z
+date: 2024-06-19T13:57:52.044Z
+updated: 2024-06-20T13:57:52.044Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Photo Editing Basics Unveiled: Dive Into LunaPic\""
 excerpt: "\"This Article Describes Photo Editing Basics Unveiled: Dive Into LunaPic\""
 keywords: "Basic Photo Edits,LunaPic Guide,Photo Editing Tips,LunaPic Basics,Learn Photo Edits,Mastering PhotoEditing,LunaPic Essentials"
-thumbnail: https://www.lifewire.com/thmb/smGZHYA5zzmQGVZSmdmcDE1qpc4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/durable__omxi3w443rue_large_2x-1-732c438d9048476bb6103184b27ee893.jpg
+thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba3442154b95456c4348b981cfa.jpg
 ---
 
 ## Photo Editing Basics Unveiled: Dive Into LunaPic

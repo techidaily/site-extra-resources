@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Audio Ambiance Assembler  Selecting Background Scores\""
-date: 2024-05-24T04:18:14.928Z
-updated: 2024-05-25T04:18:14.928Z
+date: 2024-06-19T13:57:49.708Z
+updated: 2024-06-20T13:57:49.708Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Audio Ambiance Assembler: Selecting Background Scores\""
 excerpt: "\"This Article Describes [New] Audio Ambiance Assembler: Selecting Background Scores\""
 keywords: "Audio Background Selection,Music Score Choices,Soundtrack Ambience,Audio Mixing Basics,Customized Audio Sets,Ambiance Background,Scoring for Audio"
-thumbnail: https://www.lifewire.com/thmb/SRwGpMCKr7wYP8yH-FKCgSdYOrM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/462313453-56a1ad945f9b58b7d0c1a0ea-b88ee2f1e77f4b0f9dc42f22a7042136.jpg
+thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da35193b7ba8be663bba21950e5e8.jpg
 ---
 
 ## Audio Ambiance Assembler: Selecting Background Scores

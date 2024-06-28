@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  A Step-by-Step Manual to Freeze Backgrounds in Affinity Photo\""
-date: 2024-05-24T05:53:49.173Z
-updated: 2024-05-25T05:53:49.173Z
+date: 2024-06-19T13:57:53.479Z
+updated: 2024-06-20T13:57:53.479Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: A Step-by-Step Manual to Freeze Backgrounds in Affinity Photo\""
 excerpt: "\"This Article Describes 2024 Approved: A Step-by-Step Manual to Freeze Backgrounds in Affinity Photo\""
 keywords: "PhotoBackgroundRemovalSteps,ErasePhotobackGroundTips,BackdropErasingProcedure,StepToRemovePhotoBacking,PhotographyBgCleaningGuide,BackGroundCleaningInPhotos,EasyPhotoBackgroundRemoval"
-thumbnail: https://www.lifewire.com/thmb/h57-lIQDvScITgWTh6KzTC1eTDc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Download-WhatsApp-For-Mac-Website-8424741-17919dc136494cc09a3924b885d17a6c.jpg
+thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30f3dde81226f486e6ab605fb.jpg
 ---
 
 ## A Step-by-Step Manual to Freeze Backgrounds in Affinity Photo

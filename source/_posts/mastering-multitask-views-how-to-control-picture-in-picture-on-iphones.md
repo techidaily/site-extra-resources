@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Multitask Views  How to Control Picture in Picture on iPhones\""
-date: 2024-05-24T03:45:25.590Z
-updated: 2024-05-25T03:45:25.590Z
+date: 2024-06-19T13:57:53.649Z
+updated: 2024-06-20T13:57:53.649Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Mastering Multitask Views: How to Control Picture in Picture on iPhones\""
 excerpt: "\"This Article Describes Mastering Multitask Views: How to Control Picture in Picture on iPhones\""
 keywords: "IPhone PIP Control,Master PIP Use,IPhone Multitask,PIP Mastery Tips,Controlling IPP iOS,Manage PIP on iPhones,IPhone Picture in Picture"
-thumbnail: https://www.lifewire.com/thmb/SASg2byCb-BOpkOiBE71CUPEgYY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/New-iPad-air-and-iPad-mini-with-Apple-Pencil-03182019-60f2de1f64db4b8dbe4822e18a8e6672.jpg
+thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c383247bac69b40f31de6e4df.jpg
 ---
 
 ## Mastering Multitask Views: How to Control Picture in Picture on iPhones

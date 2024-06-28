@@ -1,7 +1,7 @@
 ---
 title: "[New] A Complete Guide to VidEdit Studio Pro, Features and More"
-date: 2024-05-24T04:37:31.188Z
-updated: 2024-05-25T04:37:31.188Z
+date: 2024-06-19T13:57:53.918Z
+updated: 2024-06-20T13:57:53.918Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] A Complete Guide to VidEdit Studio Pro, Features and More"
 excerpt: "This Article Describes [New] A Complete Guide to VidEdit Studio Pro, Features and More"
 keywords: "VidEdit Pro Guide,Studio Pro Features,VidEdit Studio Tutorial,Pro Editing Essentials,Studio Pro Overview,Advanced VidEdit Tools,Professional Video Edits"
-thumbnail: https://www.lifewire.com/thmb/1i3oq9smFKn81c4WYVSI492gaLU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/blu-ray-disc-player-information-1846364-ccbae6fd80244359a2a5fada4cd53e40.png
+thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b83c993e13cda25988d89dcf.png
 ---
 
 ## A Complete Guide to VidEdit Studio Pro, Features and More

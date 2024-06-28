@@ -1,7 +1,7 @@
 ---
 title: "\"Visual Flair  A Collection of AE Text Presets\""
-date: 2024-05-24T04:24:31.932Z
-updated: 2024-05-25T04:24:31.932Z
+date: 2024-06-19T13:57:54.999Z
+updated: 2024-06-20T13:57:54.999Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Visual Flair: A Collection of AE Text Presets\""
 excerpt: "\"This Article Describes Visual Flair: A Collection of AE Text Presets\""
 keywords: "AE Text Essentials,VFX Design Tips,Texture Overlay Art,Editing Presets Visuals,Creative FX Textbook,AE Creativity Collection,Stylistic Text Settings"
-thumbnail: https://www.lifewire.com/thmb/vNiduGzd38MaH6SQoi23lWSaGTw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-122061346-f4d63be5cfde470e9b7192d89497b501.jpg
+thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec122694d578843a25c7f44c71.jpg
 ---
 
 ## Visual Flair: A Collection of AE Text Presets

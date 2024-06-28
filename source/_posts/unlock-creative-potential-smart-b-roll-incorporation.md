@@ -1,7 +1,7 @@
 ---
 title: "\"Unlock Creative Potential  Smart B Roll Incorporation\""
-date: 2024-05-24T03:59:27.818Z
-updated: 2024-05-25T03:59:27.818Z
+date: 2024-06-19T13:57:47.101Z
+updated: 2024-06-20T13:57:47.101Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Unlock Creative Potential: Smart B Roll Incorporation\""
 excerpt: "\"This Article Describes Unlock Creative Potential: Smart B Roll Incorporation\""
 keywords: "\"Boost Creativity,B-Roll Integration,Enhance Filmmaking,Creative Potential Unlocked,Smart Film Techniques,Innovative Editing Methods,Advanced B Roll Usage\""
-thumbnail: https://www.lifewire.com/thmb/bqDvuF_UsKT1P3NOnjWAao-AJkY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/buy-used-iphone-5717c2523df78c3fa23ddc70.jpg
+thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f6337924778efc705315343e4f909c.jpg
 ---
 
 ## Unlock Creative Potential: Smart B Roll Incorporation

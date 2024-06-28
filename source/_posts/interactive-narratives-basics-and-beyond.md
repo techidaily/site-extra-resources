@@ -1,7 +1,7 @@
 ---
 title: "Interactive Narratives Basics and Beyond"
-date: 2024-05-24T03:38:38.075Z
-updated: 2024-05-25T03:38:38.075Z
+date: 2024-06-19T13:57:46.688Z
+updated: 2024-06-20T13:57:46.688Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Interactive Narratives Basics and Beyond"
 excerpt: "This Article Describes Interactive Narratives Basics and Beyond"
 keywords: "Basic Narrative Interact,Interactive Story Basics,Narrative Engagement Tech,Stories Beyond Basics,Interactive Plot Fundamentals,Beyond Simple Narratives,Narrative Dynamics Introduction"
-thumbnail: https://www.lifewire.com/thmb/AdJw0Uo65Rvhz4XSH8SUHKWY3YQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/podcasts-safeforkids-5b2f3dd4eb97de0036d9f87b.jpg
+thumbnail: https://thmb.techidaily.com/3631238ca7c06e0c64e4d00a9d13c9e8220b196fb6f2fa2e2f0075e18f87eaf2.jpg
 ---
 
 ## Interactive Narratives Basics and Beyond

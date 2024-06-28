@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Comprehensive Solution Guide  Turning XML & TTML Into SRT\""
-date: 2024-05-24T05:19:53.413Z
-updated: 2024-05-25T05:19:53.413Z
+date: 2024-06-19T13:57:49.309Z
+updated: 2024-06-20T13:57:49.309Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Comprehensive Solution Guide: Turning XML & TTML Into SRT\""
 excerpt: "\"This Article Describes [Updated] Comprehensive Solution Guide: Turning XML & TTML Into SRT\""
 keywords: "XML to SRT Conversion Guide,TTML Translation Toolkit,SRT Format From XML/TTML,XML Processing for SRT Outputs,Turning TTML Into SRT Quickly,Comprehensive XML SRT Creation,TTML to SRT Guidebook"
-thumbnail: https://www.lifewire.com/thmb/uyVwAtDYnMCkGCg0lHie4gGTlYc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/discoveryplusnotworking-74fa2392945842ebb9fd0e2dfcf1d1dd.jpg
+thumbnail: https://thmb.techidaily.com/8ad1313081653043389b0ec9ab2777fbe6983525a9b9183de9916f4cf1facd61.jpg
 ---
 
 ## Comprehensive Solution Guide: Turning XML & TTML Into SRT

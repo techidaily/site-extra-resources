@@ -1,7 +1,7 @@
 ---
 title: "\"Perfecting the Art of Digital Compositing  A Kinemaster Approach\""
-date: 2024-05-24T03:40:30.213Z
-updated: 2024-05-25T03:40:30.213Z
+date: 2024-06-19T13:57:59.033Z
+updated: 2024-06-20T13:57:59.033Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Perfecting the Art of Digital Compositing: A Kinemaster Approach\""
 excerpt: "\"This Article Describes Perfecting the Art of Digital Compositing: A Kinemaster Approach\""
 keywords: "DigiCompositeArt,CinemasterTechniques,DigitalCompositingMastery,KinemasterDigitalWorks,PerfectingCompsArt,ArtOfFilmComposition,CinemaKinematicTech"
-thumbnail: https://www.lifewire.com/thmb/xWg1yHDU11x4ZrjNTzzLWwJyEKI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1005528904-7d476f41edcd46bb809080651f746d68.jpg
+thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b07f01ac5528173fed7156fb9.jpg
 ---
 
 ## Perfecting the Art of Digital Compositing: A Kinemaster Approach

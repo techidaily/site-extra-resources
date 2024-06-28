@@ -1,7 +1,7 @@
 ---
 title: "\"IPhone's Guide  Creating Your First Music Video\""
-date: 2024-05-24T05:26:53.240Z
-updated: 2024-05-25T05:26:53.240Z
+date: 2024-06-19T13:57:49.356Z
+updated: 2024-06-20T13:57:49.356Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes IPhone's Guide: Creating Your First Music Video\""
 excerpt: "\"This Article Describes IPhone's Guide: Creating Your First Music Video\""
 keywords: "IPhone Music Making,Mobile Film Crafting,DIY iPhone Videography,IMovie Basics for Iphone,IPhone to Screenwriting,First Time iPhone Video,Audio Production on iPhone"
-thumbnail: https://www.lifewire.com/thmb/PgANSMn04yOhBPX7eTk_jYZ7By8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/attractive-businessman-at-desktop-computer-607041269-5b5fb18fc9e77c0050cd33cd.jpg
+thumbnail: https://thmb.techidaily.com/aef9f8cb7b85429cf28cb38f2d49cc0528e1c43a7556fd8a130e20454901702b.jpg
 ---
 
 ## IPhone's Guide: Creating Your First Music Video
