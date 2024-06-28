@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Advanced Video Coding Techniques"
-date: 2024-05-24T04:22:10.889Z
-updated: 2024-05-25T04:22:10.889Z
+date: 2024-06-27T14:34:27.778Z
+updated: 2024-06-28T14:34:27.778Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Demystifying Advanced Video Coding Techniques"
 excerpt: "This Article Describes Demystifying Advanced Video Coding Techniques"
 keywords: "Advanced Codec Insights,Video Compression Explained,H265/HEVC Demystified,Coding Tech Clarity,Videocoder Advances,Codec Simplification Guide,Advanced Video Encoding"
-thumbnail: https://www.lifewire.com/thmb/lBmdBWtZRVaUBwmmvKncOYEZUEI=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Gaming_GettyImages-951533434_ORIG-HERO_Westend61_CROPPED_Sharpened-7deada36d17e4feab8029945aabcb2b5.jpg
+thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5def14d160bc07a7e668b288.jpg
 ---
 
 ## Demystifying Advanced Video Coding Techniques

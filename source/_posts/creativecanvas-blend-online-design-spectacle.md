@@ -1,7 +1,7 @@
 ---
 title: "\"CreativeCanvas Blend  Online Design Spectacle\""
-date: 2024-05-24T03:53:29.254Z
-updated: 2024-05-25T03:53:29.254Z
+date: 2024-06-27T14:34:28.053Z
+updated: 2024-06-28T14:34:28.053Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes CreativeCanvas Blend: Online Design Spectacle\""
 excerpt: "\"This Article Describes CreativeCanvas Blend: Online Design Spectacle\""
 keywords: "CanvasBlendOnline,CreativeDesignSpect,DesignSpectacleArt,OnlineCanvasBlend,BlendCreativeDesign,SpectacledDesigning,ArtCanvasBlendLive"
-thumbnail: https://www.lifewire.com/thmb/cf50_JsD2-O_A4uNcst4eqHKyC4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/fullscreenopen-b2ead701237e4e49ad80f4de91bd5be5.jpeg
+thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973ecd1f3c8cd4da92e1845552.jpeg
 ---
 
 ## CreativeCanvas Blend: Online Design Spectacle

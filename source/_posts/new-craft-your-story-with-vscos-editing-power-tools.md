@@ -1,7 +1,7 @@
 ---
 title: "[New] Craft Your Story with VSCO’s Editing Power Tools"
-date: 2024-05-24T04:03:15.388Z
-updated: 2024-05-25T04:03:15.388Z
+date: 2024-06-27T14:34:27.871Z
+updated: 2024-06-28T14:34:27.871Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Craft Your Story with VSCO’s Editing Power Tools"
 excerpt: "This Article Describes [New] Craft Your Story with VSCO’s Editing Power Tools"
 keywords: "CraftYourStoryVSCO,VSCOEditPowerTools,EditWithVSCO,StorytellingVSCO,VSCOCreativeTools,VSCOPhotoEditing,VisualStoriesVSCO"
-thumbnail: https://www.lifewire.com/thmb/5dWfE2pdmNCU9qpfDVc7QhYieRw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/X-Logo-on-Phone-35c83db6a3c34b689ab069ff50b96bcc.jpg
+thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb59793bd9736b13ed221555fa6ea.jpg
 ---
 
 ## Craft Your Story with VSCO’s Editing Power Tools

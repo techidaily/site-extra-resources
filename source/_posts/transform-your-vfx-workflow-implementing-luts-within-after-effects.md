@@ -1,7 +1,7 @@
 ---
 title: "\"Transform Your VFX Workflow  Implementing LUTs Within After Effects\""
-date: 2024-05-24T05:09:26.515Z
-updated: 2024-05-25T05:09:26.515Z
+date: 2024-06-27T14:34:24.052Z
+updated: 2024-06-28T14:34:24.052Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Transform Your VFX Workflow: Implementing LUTs Within After Effects\""
 excerpt: "\"This Article Describes Transform Your VFX Workflow: Implementing LUTs Within After Effects\""
 keywords: "VFX Workflow,LUT Implementation,After Effects Workflow,Efficient VFX Pipeline,Visual Effects Setup,Adobe After Effects Optimization,Color Grading Workflow"
-thumbnail: https://www.lifewire.com/thmb/0xgLnS3M6CP4FiP4I-VE1zFOiLo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-ps5-controller-on-your-pc-or-mac-5089439-b56739aa27bd48858200878a6b64f952.jpg
+thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6df028882ef27bbdd6859fdde.jpg
 ---
 
 ## Transform Your VFX Workflow: Implementing LUTs Within After Effects

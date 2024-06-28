@@ -1,7 +1,7 @@
 ---
 title: "\"Mirrorless 4K Cameras  Top 10 List Unveiled\""
-date: 2024-05-24T03:23:08.578Z
-updated: 2024-05-25T03:23:08.578Z
+date: 2024-06-27T14:34:36.586Z
+updated: 2024-06-28T14:34:36.586Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Mirrorless 4K Cameras: Top 10 List Unveiled\""
 excerpt: "\"This Article Describes Mirrorless 4K Cameras: Top 10 List Unveiled\""
 keywords: "Mirrorless 4K Cam,4K Mirrorless List,Best 4K Cameras,4K Photography Gear,Top Mirrorless Models,Camera Rankings 4K,Ultimate 4K Camera Guide"
-thumbnail: https://www.lifewire.com/thmb/Gkr3gE8eLg0SUe5WeaWd97Kesj8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/BlondyBaruti-050621-024RTMini-c837c508205440e7926b69bad55754c0.jpg
+thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da9177082545009c2bddd22992fae44fc.jpg
 ---
 
 ## Mirrorless 4K Cameras: Top 10 List Unveiled

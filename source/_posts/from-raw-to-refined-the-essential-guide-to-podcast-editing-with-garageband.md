@@ -1,7 +1,7 @@
 ---
 title: "\"From Raw to Refined  The Essential Guide to Podcast Editing with GarageBand\""
-date: 2024-05-24T05:07:43.456Z
-updated: 2024-05-25T05:07:43.456Z
+date: 2024-06-27T14:34:27.282Z
+updated: 2024-06-28T14:34:27.282Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes From Raw to Refined: The Essential Guide to Podcast Editing with GarageBand\""
 excerpt: "\"This Article Describes From Raw to Refined: The Essential Guide to Podcast Editing with GarageBand\""
 keywords: "GarageBand Podcast,Edit Podcast Audio,Audio Refining Guide,Podcast Editing Basics,GarageBand Edit Tips,Raw to Polished Audio,Audio Production Guide"
-thumbnail: https://www.lifewire.com/thmb/C5NsJYR6FRT4y8jRGIvlsTKr6LU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/santahatcomputer-5ba0332646e0fb0050e7ae93.jpg
+thumbnail: https://thmb.techidaily.com/20e687e989a89b1dd45743ceb6d6d3c635644bf241cd4154d769e7b945709de7.jpg
 ---
 
 ## From Raw to Refined: The Essential Guide to Podcast Editing with GarageBand

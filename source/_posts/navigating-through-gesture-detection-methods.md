@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through Gesture Detection Methods"
-date: 2024-05-24T05:38:08.184Z
-updated: 2024-05-25T05:38:08.184Z
+date: 2024-06-27T14:34:30.055Z
+updated: 2024-06-28T14:34:30.055Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Navigating Through Gesture Detection Methods"
 excerpt: "This Article Describes Navigating Through Gesture Detection Methods"
 keywords: "\"Gesture Recognition Tech,Detecting Gestures,Motion Sensing Advance,Gesture-Based Control,Touchless Interaction,Innovative Detection Methods,Gesture Technology Insight\""
-thumbnail: https://www.lifewire.com/thmb/0exMq6FgQQ2l0rZCjx2tOUxNl_Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/005_casting-from-your-firefox-browser-4588162-90d13104cdbe4059aa19279e5f97fa55-064eb475c65f4139bfcb92f1af9d4969.jpg
+thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe64893bd392e2b875addd5c7.jpg
 ---
 
 ## Navigating Through Gesture Detection Methods
@@ -98,7 +98,7 @@ There are two stages for creating a Hand Tracking program using MediaPipe:
 
 ### Guidance With Steps
 
-Before starting to create Hand Tracking, you need to install the [Pycharm IDE](https://www.jetbrains.com/pycharm/download/#section=windows)app on your PC. Once installed, launch it and follow these instructions step-by-step:
+Before starting to create Hand Tracking, you need to install the [Pycharm IDE](https://www.jetbrains.com/pycharm/download/#section=windows) app on your PC. Once installed, launch it and follow these instructions step-by-step:
 
 **Install OpenCV and MediaPipe**
 
@@ -254,7 +254,7 @@ There are two stages for creating a Hand Tracking program using MediaPipe:
 
 ### Guidance With Steps
 
-Before starting to create Hand Tracking, you need to install the [Pycharm IDE](https://www.jetbrains.com/pycharm/download/#section=windows)app on your PC. Once installed, launch it and follow these instructions step-by-step:
+Before starting to create Hand Tracking, you need to install the [Pycharm IDE](https://www.jetbrains.com/pycharm/download/#section=windows) app on your PC. Once installed, launch it and follow these instructions step-by-step:
 
 **Install OpenCV and MediaPipe**
 

@@ -1,7 +1,7 @@
 ---
 title: "Questions About Intermittent Video Playback at Photobooth"
-date: 2024-05-24T03:48:59.010Z
-updated: 2024-05-25T03:48:59.010Z
+date: 2024-06-27T14:34:22.385Z
+updated: 2024-06-28T14:34:22.385Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Questions About Intermittent Video Playback at Photobooth"
 excerpt: "This Article Describes Questions About Intermittent Video Playback at Photobooth"
 keywords: "\"Photo to Video Converter,Top Video Edit Tools,Best Photo to Film Maker,Video Enhancement Software,Excellent Image-to-Video Apps,Premium Video Creator,Optimal Photos to Videos\""
-thumbnail: https://www.lifewire.com/thmb/-7I7qw8qf-KKeWnTjg9wwLwcd3E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Selfie-Stick-Tips-56a761cf5f9b58b7d0e9fa52.jpg
+thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c6509841b94168b4ee14b78abb841b.jpg
 ---
 
 ## Questions About Intermittent Video Playback at Photobooth

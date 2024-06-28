@@ -1,7 +1,7 @@
 ---
 title: "[Updated] A Complete Course on Managing and Editing SRT on Mac"
-date: 2024-05-24T04:35:48.096Z
-updated: 2024-05-25T04:35:48.096Z
+date: 2024-06-27T14:34:25.543Z
+updated: 2024-06-28T14:34:25.543Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] A Complete Course on Managing and Editing SRT on Mac"
 excerpt: "This Article Describes [Updated] A Complete Course on Managing and Editing SRT on Mac"
 keywords: "Srt Editing Guide Mac,Mac Srt Management Tutorial,Learn Srt Editing Mac,Master Mac Srt Edits,Srt Manipulation on macOS,Professional Mac Srt Editing,Comprehensive Mac SRT Training"
-thumbnail: https://www.lifewire.com/thmb/kESskFVoFi4dzaPyJf9zOpkhnqI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Final_1-d0db91df8e834c7ab0aa2da0ab61b943.png
+thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1cac3e933531323d55d47dcdde.png
 ---
 
 ## A Complete Course on Managing and Editing SRT on Mac

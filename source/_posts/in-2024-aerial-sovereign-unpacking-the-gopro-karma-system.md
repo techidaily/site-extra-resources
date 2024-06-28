@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Aerial Sovereign  Unpacking the GoPro Karma System\""
-date: 2024-05-24T04:46:47.430Z
-updated: 2024-05-25T04:46:47.430Z
+date: 2024-06-27T14:34:23.719Z
+updated: 2024-06-28T14:34:23.719Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Aerial Sovereign: Unpacking the GoPro Karma System\""
 excerpt: "\"This Article Describes In 2024, Aerial Sovereign: Unpacking the GoPro Karma System\""
 keywords: "\"Karma Mapping,Aerial ProKarma,GoPro AerialSky,GoPro Sovereignty,Quadcopter Systems,Drone Karma Details,High-Res Aerial Views\""
-thumbnail: https://www.lifewire.com/thmb/CStHh_chdzoiHQUYb0I6_K0rN4E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/001-is-nintendo-switch-online-down-or-is-it-just-you-4846361-d95930818e9d4bc39ff7535c50087c08.jpg
+thumbnail: https://thmb.techidaily.com/b7ec02702d51d57959e5bd1248adaf8d9c4e1536be03bd52fccab5d6aa482430.jpg
 ---
 
 ## Aerial Sovereign: Unpacking the GoPro Karma System

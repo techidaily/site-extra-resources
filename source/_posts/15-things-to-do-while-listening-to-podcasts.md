@@ -1,7 +1,7 @@
 ---
 title: "15 Things to Do While Listening to Podcasts"
-date: 2024-05-24T05:53:25.277Z
-updated: 2024-05-25T05:53:25.277Z
+date: 2024-06-27T14:34:32.658Z
+updated: 2024-06-28T14:34:32.658Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes 15 Things to Do While Listening to Podcasts"
 excerpt: "This Article Describes 15 Things to Do While Listening to Podcasts"
 keywords: "Podcasting Tips #15,Daily Podcast Activities,Engaging During Podcasts,Podcast Time Well Spent,Top 15 Podcast Habits,Enrich Your Listening,Creative Podcast Engagement"
-thumbnail: https://www.lifewire.com/thmb/gkHTDPF5tRElmHvxvKCu-VDPyhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-an-apple-tv-5248431-f35331ef36b749b9895a2c1e3705cf22.jpg
+thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06feae865a9a356c9f8b695aec3.jpg
 ---
 
 ## 15 Things to Do While Listening to Podcasts

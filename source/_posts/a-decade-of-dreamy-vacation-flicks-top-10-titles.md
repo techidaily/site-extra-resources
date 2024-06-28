@@ -1,7 +1,7 @@
 ---
 title: "\"A Decade of Dreamy Vacation Flicks  Top 10 Titles\""
-date: 2024-05-24T05:13:28.022Z
-updated: 2024-05-25T05:13:28.022Z
+date: 2024-06-27T14:34:27.821Z
+updated: 2024-06-28T14:34:27.821Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes A Decade of Dreamy Vacation Flicks: Top 10 Titles\""
 excerpt: "\"This Article Describes A Decade of Dreamy Vacation Flicks: Top 10 Titles\""
 keywords: "\"Dreamy Vacay Films,Dreamy Travel Movies,Decade Film Guide,Top Vacation Flicks,Ultimate Vacay Cinematic,Best Travel Films 2010-2020,Dreamy Movie Guide\""
-thumbnail: https://www.lifewire.com/thmb/XgfyBKYvqv8gtnRlFpU9E6AWsUg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/savescreenshotonxboxseriesxs-4f0cc19fdaa4472a9f607b07a85e75f9.jpg
+thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b573d2796a1411e612ad84808.jpg
 ---
 
 ## A Decade of Dreamy Vacation Flicks: Top 10 Titles

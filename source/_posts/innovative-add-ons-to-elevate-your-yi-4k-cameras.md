@@ -1,7 +1,7 @@
 ---
 title: "\"Innovative Add-Ons to Elevate Your YI 4K Cameras\""
-date: 2024-05-24T05:20:21.241Z
-updated: 2024-05-25T05:20:21.241Z
+date: 2024-06-27T14:34:23.870Z
+updated: 2024-06-28T14:34:23.870Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Innovative Add-Ons to Elevate Your YI 4K Cameras\""
 excerpt: "\"This Article Describes Innovative Add-Ons to Elevate Your YI 4K Cameras\""
 keywords: "\"YiCam 4K Boosts,4K Cam Enhancements,Upgrade YiCamera,HighRes YiAdd-On,Elevate Yi4kTech,Smart AddOns YiCams,YiCam XtremeUpgrade\""
-thumbnail: https://www.lifewire.com/thmb/wOEPcdo8ZV4fbsg3ScNXa4c4JIo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/001_airpods-wont-turn-on-f721d401944949bcbd88afb727c19214.jpg
+thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4ee7f4ba1a4a67766b9a7e657.jpg
 ---
 
 ## Innovative Add-Ons to Elevate Your YI 4K Cameras
@@ -34,7 +34,7 @@ thumbnail: https://www.lifewire.com/thmb/wOEPcdo8ZV4fbsg3ScNXa4c4JIo=/400x300/fi
 
 ### Section 1: Protective Case
 
-#### 1.[ Waterproof Case:](<https://www.amazon.com/gp/product/B016I5VQJE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B016I5VQJE&linkId=1fe5d9a62a2d51f7afceab6b6ca27770>
+#### 1.[Waterproof Case:](<https://www.amazon.com/gp/product/B016I5VQJE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B016I5VQJE&linkId=1fe5d9a62a2d51f7afceab6b6ca27770>
 
 )
 
@@ -48,7 +48,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  **Waterproof case from third party:**
 
-* [ **Deyard ($14.99):** ](https://www.amazon.com/gp/product/B01IP01ECE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IP01ECE&linkId=93c83aa177a660db11b6ba5e9f8722f5  
+* [**Deyard ($14.99):**](https://www.amazon.com/gp/product/B01IP01ECE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IP01ECE&linkId=93c83aa177a660db11b6ba5e9f8722f5  
 )
 
 [Deyard Y-02 Waterproof Protective Case for Yi 4K](https://images.wondershare.com/filmora/article-images/deyard-waterproof-case.jpg) ](https://www.amazon.com/gp/product/B01IP01ECE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IP01ECE&linkId=93c83aa177a660db11b6ba5e9f8722f5
@@ -59,10 +59,10 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  It is designed with A-Grade type high transmittance Acrylic glass substance and is suitable for Yi 4k action cam. This product is considered ideal for underwater activities like snorkelling and diving etc. Deyard case is waterproof up to 45 meters and it’s specially designed flat glass lens ensures clear videos and photos under water.
 
-* [ **Kupton ($13.99):** ](https://www.amazon.com/gp/product/B01HRJVZN2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HRJVZN2&linkId=8b0f807987301ad62785a97ef3d3b4f9  
+* [**Kupton ($13.99):**](https://www.amazon.com/gp/product/B01HRJVZN2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HRJVZN2&linkId=8b0f807987301ad62785a97ef3d3b4f9  
 )
 
-[Kupton waterproof Case for YI 4K]( https://images.wondershare.com/filmora/article-images/kupton-waterproof-case-for-yi-4K.jpg) ](https://www.amazon.com/gp/product/B01HRJVZN2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HRJVZN2&linkId=8b0f807987301ad62785a97ef3d3b4f9
+[Kupton waterproof Case for YI 4K](https://images.wondershare.com/filmora/article-images/kupton-waterproof-case-for-yi-4K.jpg) ](https://www.amazon.com/gp/product/B01HRJVZN2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HRJVZN2&linkId=8b0f807987301ad62785a97ef3d3b4f9
 )
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01HRJVZN2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HRJVZN2&linkId=8b0f807987301ad62785a97ef3d3b4f9
@@ -70,7 +70,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  It can be easily used underwater up to 40 meter with Yi 2 and is considered as best choice for surfing, snorkelling and diving needs. Shooting stays perfect with its high light transmission PMMA type material. Its anti surf pressure type design assists in better stills even during movements.
 
-* [ **ADIKA ($11.99):** ](https://www.amazon.com/gp/product/B01JRTDKRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01JRTDKRO&linkId=f582c15118c5bf8078a1f40ab64d5627  
+* [**ADIKA ($11.99):**](https://www.amazon.com/gp/product/B01JRTDKRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01JRTDKRO&linkId=f582c15118c5bf8078a1f40ab64d5627  
 )
 
 [ADIKA Waterproof Case for Yi 4K](https://images.wondershare.com/filmora/article-images/adika-waterproof-case-for-yi-4k.jpg)](https://www.amazon.com/gp/product/B01JRTDKRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01JRTDKRO&linkId=f582c15118c5bf8078a1f40ab64d5627
@@ -85,7 +85,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  As users need to buy additional protective housing for keeping their Yi camera safe under water but most of the cases never allow access to touch screen. Here we have picked two products that are best choice if you need control to your touch screen under water without damaging your camera.
 
-* [ **ADIKA Waterproof Housing with Touch Screen ($15.99):** ](https://www.amazon.com/gp/product/B01KLZD42E/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01KLZD42E&linkId=1c88aa409261c7eea4906ea898ee3325  
+* [**ADIKA Waterproof Housing with Touch Screen ($15.99):**](https://www.amazon.com/gp/product/B01KLZD42E/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01KLZD42E&linkId=1c88aa409261c7eea4906ea898ee3325  
 )
 
 [ADIKA Waterproof Housing with Touch Screen for Yi 4K](https://images.wondershare.com/filmora/article-images/adika-waterproof-housing-with-touch-screen-for-yi-4k-action-camera.jpg) ](https://www.amazon.com/gp/product/B01KLZD42E/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01KLZD42E&linkId=1c88aa409261c7eea4906ea898ee3325
@@ -96,7 +96,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  This waterproof cover can protect Yi camera from scratch and dust. Touch screen can be handled easily and maximum safe diving depth is about 30 meters. It is suitable for under water sports activities like diving, surfing etc and for rafting and paragliding.
 
-* [ **Corprit Underwater Protective ($18.72):** ](https://www.amazon.com/gp/product/B01N8OWASR/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N8OWASR&linkId=00060fbbbb73ca8f0d8f15b250e1f8b5  
+* [**Corprit Underwater Protective ($18.72):**](https://www.amazon.com/gp/product/B01N8OWASR/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N8OWASR&linkId=00060fbbbb73ca8f0d8f15b250e1f8b5  
 )
 
 [Corprit Underwater Protective Case for YI 4K](https://images.wondershare.com/filmora/article-images/corprit-waterproof-case-with-touchscreen-for-yi-4k-action-camera.jpg) ](https://www.amazon.com/gp/product/B01N8OWASR/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N8OWASR&linkId=00060fbbbb73ca8f0d8f15b250e1f8b5
@@ -111,7 +111,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  Even during above water usage, your camera will need protective shield for its lens and body. Below are few highly recommended non waterproof cases for Yi cameras:
 
-* [ **Leather Case and UV Filter ($19.99):** ](https://www.amazon.com/gp/product/B01D8KXG0E/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01D8KXG0E&linkId=3a6c2a36d0a4292d49c96ad2283f9dff  
+* [**Leather Case and UV Filter ($19.99):**](https://www.amazon.com/gp/product/B01D8KXG0E/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01D8KXG0E&linkId=3a6c2a36d0a4292d49c96ad2283f9dff  
 )
 
 [Yi 4K Leather cover and UV Filter](https://images.wondershare.com/filmora/article-images/yi-4k-action-camera-2-leather-cover.jpg) ](https://www.amazon.com/gp/product/B01D8KXG0E/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01D8KXG0E&linkId=3a6c2a36d0a4292d49c96ad2283f9dff
@@ -122,7 +122,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  It is available in white and black colour and is made up of European PU leather that provides additional protection to Yi camera. Its special feature is UV filter that can protect lens frame and adjusts performance for optimal view.
 
-* [ **LCrystal Frame Mount Housing ($10.99):** ](https://www.amazon.com/gp/product/B01F8A23H4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01F8A23H4&linkId=0a8eb75e7bd48ec141bd05dae3956a72  
+* [**LCrystal Frame Mount Housing ($10.99):**](https://www.amazon.com/gp/product/B01F8A23H4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01F8A23H4&linkId=0a8eb75e7bd48ec141bd05dae3956a72  
 )
 
 [LCrystal Frame Mount Housing  for YI 4K](https://images.wondershare.com/filmora/article-images/lcrystal-frame-mount-housing-for-yi-4k.jpg) ](https://www.amazon.com/gp/product/B01F8A23H4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01F8A23H4&linkId=0a8eb75e7bd48ec141bd05dae3956a72
@@ -133,7 +133,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  This third party protective frame can keep your camera safe as it is made up of rich quality PC and is highly durable. It is not recommended to use in adverse weather conditions.
 
-* [ **First2savvv XM2-TL-01 Black Aluminium Alloy Protective Housing ($13.49):** ](https://www.amazon.com/gp/product/B01JLLLMD2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01JLLLMD2&linkId=7b8078aaacb035ae1d86e584721adf12  
+* [**First2savvv XM2-TL-01 Black Aluminium Alloy Protective Housing ($13.49):**](https://www.amazon.com/gp/product/B01JLLLMD2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01JLLLMD2&linkId=7b8078aaacb035ae1d86e584721adf12  
 )
 
 [First2savvv XM2-TL-01 black Aluminium Alloy Frame for Yi 4K](https://images.wondershare.com/filmora/article-images/first2savvv-black-aluminium-alloy-frame-for-yi-4k.jpg) ](https://www.amazon.com/gp/product/B01JLLLMD2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01JLLLMD2&linkId=7b8078aaacb035ae1d86e584721adf12
@@ -144,10 +144,10 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  It is good to buy a aluminium case instead of plastic frame because it offers strong protection and is much durable. This accessory is compatible only with Yi 4k action cam but it is not waterproof so should not be used in extreme conditions.
 
-* [ **Deyard Y-04 Yi 4K Silicone Rubber Protective Housing ($6.99):** ](https://www.amazon.com/gp/product/B01ID0VV0G/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ID0VV0G&linkId=af0a548ce00189874a509b07a4ee131c  
+* [**Deyard Y-04 Yi 4K Silicone Rubber Protective Housing ($6.99):**](https://www.amazon.com/gp/product/B01ID0VV0G/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ID0VV0G&linkId=af0a548ce00189874a509b07a4ee131c  
 )
 
-[Deyard Y-04 Yi 4K Silicone Rubber Protective Housing](https://images.wondershare.com/filmora/article-images/deyard-yi-4k-silicone-rubber-protective-case.jpg )](https://www.amazon.com/gp/product/B01ID0VV0G/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ID0VV0G&linkId=af0a548ce00189874a509b07a4ee131c
+[Deyard Y-04 Yi 4K Silicone Rubber Protective Housing](https://images.wondershare.com/filmora/article-images/deyard-yi-4k-silicone-rubber-protective-case.jpg)](https://www.amazon.com/gp/product/B01ID0VV0G/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ID0VV0G&linkId=af0a548ce00189874a509b07a4ee131c
 )
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01ID0VV0G/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ID0VV0G&linkId=af0a548ce00189874a509b07a4ee131c
@@ -243,7 +243,7 @@ Follow @Max Wales
 
 ### Section 1: Protective Case
 
-#### 1.[ Waterproof Case:](<https://www.amazon.com/gp/product/B016I5VQJE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B016I5VQJE&linkId=1fe5d9a62a2d51f7afceab6b6ca27770>
+#### 1.[Waterproof Case:](<https://www.amazon.com/gp/product/B016I5VQJE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B016I5VQJE&linkId=1fe5d9a62a2d51f7afceab6b6ca27770>
 
 )
 
@@ -257,7 +257,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  **Waterproof case from third party:**
 
-* [ **Deyard ($14.99):** ](https://www.amazon.com/gp/product/B01IP01ECE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IP01ECE&linkId=93c83aa177a660db11b6ba5e9f8722f5  
+* [**Deyard ($14.99):**](https://www.amazon.com/gp/product/B01IP01ECE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IP01ECE&linkId=93c83aa177a660db11b6ba5e9f8722f5  
 )
 
 [Deyard Y-02 Waterproof Protective Case for Yi 4K](https://images.wondershare.com/filmora/article-images/deyard-waterproof-case.jpg) ](https://www.amazon.com/gp/product/B01IP01ECE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IP01ECE&linkId=93c83aa177a660db11b6ba5e9f8722f5
@@ -268,10 +268,10 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  It is designed with A-Grade type high transmittance Acrylic glass substance and is suitable for Yi 4k action cam. This product is considered ideal for underwater activities like snorkelling and diving etc. Deyard case is waterproof up to 45 meters and it’s specially designed flat glass lens ensures clear videos and photos under water.
 
-* [ **Kupton ($13.99):** ](https://www.amazon.com/gp/product/B01HRJVZN2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HRJVZN2&linkId=8b0f807987301ad62785a97ef3d3b4f9  
+* [**Kupton ($13.99):**](https://www.amazon.com/gp/product/B01HRJVZN2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HRJVZN2&linkId=8b0f807987301ad62785a97ef3d3b4f9  
 )
 
-[Kupton waterproof Case for YI 4K]( https://images.wondershare.com/filmora/article-images/kupton-waterproof-case-for-yi-4K.jpg) ](https://www.amazon.com/gp/product/B01HRJVZN2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HRJVZN2&linkId=8b0f807987301ad62785a97ef3d3b4f9
+[Kupton waterproof Case for YI 4K](https://images.wondershare.com/filmora/article-images/kupton-waterproof-case-for-yi-4K.jpg) ](https://www.amazon.com/gp/product/B01HRJVZN2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HRJVZN2&linkId=8b0f807987301ad62785a97ef3d3b4f9
 )
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01HRJVZN2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HRJVZN2&linkId=8b0f807987301ad62785a97ef3d3b4f9
@@ -279,7 +279,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  It can be easily used underwater up to 40 meter with Yi 2 and is considered as best choice for surfing, snorkelling and diving needs. Shooting stays perfect with its high light transmission PMMA type material. Its anti surf pressure type design assists in better stills even during movements.
 
-* [ **ADIKA ($11.99):** ](https://www.amazon.com/gp/product/B01JRTDKRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01JRTDKRO&linkId=f582c15118c5bf8078a1f40ab64d5627  
+* [**ADIKA ($11.99):**](https://www.amazon.com/gp/product/B01JRTDKRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01JRTDKRO&linkId=f582c15118c5bf8078a1f40ab64d5627  
 )
 
 [ADIKA Waterproof Case for Yi 4K](https://images.wondershare.com/filmora/article-images/adika-waterproof-case-for-yi-4k.jpg)](https://www.amazon.com/gp/product/B01JRTDKRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01JRTDKRO&linkId=f582c15118c5bf8078a1f40ab64d5627
@@ -294,7 +294,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  As users need to buy additional protective housing for keeping their Yi camera safe under water but most of the cases never allow access to touch screen. Here we have picked two products that are best choice if you need control to your touch screen under water without damaging your camera.
 
-* [ **ADIKA Waterproof Housing with Touch Screen ($15.99):** ](https://www.amazon.com/gp/product/B01KLZD42E/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01KLZD42E&linkId=1c88aa409261c7eea4906ea898ee3325  
+* [**ADIKA Waterproof Housing with Touch Screen ($15.99):**](https://www.amazon.com/gp/product/B01KLZD42E/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01KLZD42E&linkId=1c88aa409261c7eea4906ea898ee3325  
 )
 
 [ADIKA Waterproof Housing with Touch Screen for Yi 4K](https://images.wondershare.com/filmora/article-images/adika-waterproof-housing-with-touch-screen-for-yi-4k-action-camera.jpg) ](https://www.amazon.com/gp/product/B01KLZD42E/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01KLZD42E&linkId=1c88aa409261c7eea4906ea898ee3325
@@ -305,7 +305,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  This waterproof cover can protect Yi camera from scratch and dust. Touch screen can be handled easily and maximum safe diving depth is about 30 meters. It is suitable for under water sports activities like diving, surfing etc and for rafting and paragliding.
 
-* [ **Corprit Underwater Protective ($18.72):** ](https://www.amazon.com/gp/product/B01N8OWASR/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N8OWASR&linkId=00060fbbbb73ca8f0d8f15b250e1f8b5  
+* [**Corprit Underwater Protective ($18.72):**](https://www.amazon.com/gp/product/B01N8OWASR/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N8OWASR&linkId=00060fbbbb73ca8f0d8f15b250e1f8b5  
 )
 
 [Corprit Underwater Protective Case for YI 4K](https://images.wondershare.com/filmora/article-images/corprit-waterproof-case-with-touchscreen-for-yi-4k-action-camera.jpg) ](https://www.amazon.com/gp/product/B01N8OWASR/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N8OWASR&linkId=00060fbbbb73ca8f0d8f15b250e1f8b5
@@ -320,7 +320,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  Even during above water usage, your camera will need protective shield for its lens and body. Below are few highly recommended non waterproof cases for Yi cameras:
 
-* [ **Leather Case and UV Filter ($19.99):** ](https://www.amazon.com/gp/product/B01D8KXG0E/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01D8KXG0E&linkId=3a6c2a36d0a4292d49c96ad2283f9dff  
+* [**Leather Case and UV Filter ($19.99):**](https://www.amazon.com/gp/product/B01D8KXG0E/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01D8KXG0E&linkId=3a6c2a36d0a4292d49c96ad2283f9dff  
 )
 
 [Yi 4K Leather cover and UV Filter](https://images.wondershare.com/filmora/article-images/yi-4k-action-camera-2-leather-cover.jpg) ](https://www.amazon.com/gp/product/B01D8KXG0E/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01D8KXG0E&linkId=3a6c2a36d0a4292d49c96ad2283f9dff
@@ -331,7 +331,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  It is available in white and black colour and is made up of European PU leather that provides additional protection to Yi camera. Its special feature is UV filter that can protect lens frame and adjusts performance for optimal view.
 
-* [ **LCrystal Frame Mount Housing ($10.99):** ](https://www.amazon.com/gp/product/B01F8A23H4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01F8A23H4&linkId=0a8eb75e7bd48ec141bd05dae3956a72  
+* [**LCrystal Frame Mount Housing ($10.99):**](https://www.amazon.com/gp/product/B01F8A23H4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01F8A23H4&linkId=0a8eb75e7bd48ec141bd05dae3956a72  
 )
 
 [LCrystal Frame Mount Housing  for YI 4K](https://images.wondershare.com/filmora/article-images/lcrystal-frame-mount-housing-for-yi-4k.jpg) ](https://www.amazon.com/gp/product/B01F8A23H4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01F8A23H4&linkId=0a8eb75e7bd48ec141bd05dae3956a72
@@ -342,7 +342,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  This third party protective frame can keep your camera safe as it is made up of rich quality PC and is highly durable. It is not recommended to use in adverse weather conditions.
 
-* [ **First2savvv XM2-TL-01 Black Aluminium Alloy Protective Housing ($13.49):** ](https://www.amazon.com/gp/product/B01JLLLMD2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01JLLLMD2&linkId=7b8078aaacb035ae1d86e584721adf12  
+* [**First2savvv XM2-TL-01 Black Aluminium Alloy Protective Housing ($13.49):**](https://www.amazon.com/gp/product/B01JLLLMD2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01JLLLMD2&linkId=7b8078aaacb035ae1d86e584721adf12  
 )
 
 [First2savvv XM2-TL-01 black Aluminium Alloy Frame for Yi 4K](https://images.wondershare.com/filmora/article-images/first2savvv-black-aluminium-alloy-frame-for-yi-4k.jpg) ](https://www.amazon.com/gp/product/B01JLLLMD2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01JLLLMD2&linkId=7b8078aaacb035ae1d86e584721adf12
@@ -353,10 +353,10 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  It is good to buy a aluminium case instead of plastic frame because it offers strong protection and is much durable. This accessory is compatible only with Yi 4k action cam but it is not waterproof so should not be used in extreme conditions.
 
-* [ **Deyard Y-04 Yi 4K Silicone Rubber Protective Housing ($6.99):** ](https://www.amazon.com/gp/product/B01ID0VV0G/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ID0VV0G&linkId=af0a548ce00189874a509b07a4ee131c  
+* [**Deyard Y-04 Yi 4K Silicone Rubber Protective Housing ($6.99):**](https://www.amazon.com/gp/product/B01ID0VV0G/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ID0VV0G&linkId=af0a548ce00189874a509b07a4ee131c  
 )
 
-[Deyard Y-04 Yi 4K Silicone Rubber Protective Housing](https://images.wondershare.com/filmora/article-images/deyard-yi-4k-silicone-rubber-protective-case.jpg )](https://www.amazon.com/gp/product/B01ID0VV0G/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ID0VV0G&linkId=af0a548ce00189874a509b07a4ee131c
+[Deyard Y-04 Yi 4K Silicone Rubber Protective Housing](https://images.wondershare.com/filmora/article-images/deyard-yi-4k-silicone-rubber-protective-case.jpg)](https://www.amazon.com/gp/product/B01ID0VV0G/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ID0VV0G&linkId=af0a548ce00189874a509b07a4ee131c
 )
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01ID0VV0G/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ID0VV0G&linkId=af0a548ce00189874a509b07a4ee131c
@@ -452,7 +452,7 @@ Follow @Max Wales
 
 ### Section 1: Protective Case
 
-#### 1.[ Waterproof Case:](<https://www.amazon.com/gp/product/B016I5VQJE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B016I5VQJE&linkId=1fe5d9a62a2d51f7afceab6b6ca27770>
+#### 1.[Waterproof Case:](<https://www.amazon.com/gp/product/B016I5VQJE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B016I5VQJE&linkId=1fe5d9a62a2d51f7afceab6b6ca27770>
 
 )
 
@@ -466,7 +466,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  **Waterproof case from third party:**
 
-* [ **Deyard ($14.99):** ](https://www.amazon.com/gp/product/B01IP01ECE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IP01ECE&linkId=93c83aa177a660db11b6ba5e9f8722f5  
+* [**Deyard ($14.99):**](https://www.amazon.com/gp/product/B01IP01ECE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IP01ECE&linkId=93c83aa177a660db11b6ba5e9f8722f5  
 )
 
 [Deyard Y-02 Waterproof Protective Case for Yi 4K](https://images.wondershare.com/filmora/article-images/deyard-waterproof-case.jpg) ](https://www.amazon.com/gp/product/B01IP01ECE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IP01ECE&linkId=93c83aa177a660db11b6ba5e9f8722f5
@@ -477,10 +477,10 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  It is designed with A-Grade type high transmittance Acrylic glass substance and is suitable for Yi 4k action cam. This product is considered ideal for underwater activities like snorkelling and diving etc. Deyard case is waterproof up to 45 meters and it’s specially designed flat glass lens ensures clear videos and photos under water.
 
-* [ **Kupton ($13.99):** ](https://www.amazon.com/gp/product/B01HRJVZN2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HRJVZN2&linkId=8b0f807987301ad62785a97ef3d3b4f9  
+* [**Kupton ($13.99):**](https://www.amazon.com/gp/product/B01HRJVZN2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HRJVZN2&linkId=8b0f807987301ad62785a97ef3d3b4f9  
 )
 
-[Kupton waterproof Case for YI 4K]( https://images.wondershare.com/filmora/article-images/kupton-waterproof-case-for-yi-4K.jpg) ](https://www.amazon.com/gp/product/B01HRJVZN2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HRJVZN2&linkId=8b0f807987301ad62785a97ef3d3b4f9
+[Kupton waterproof Case for YI 4K](https://images.wondershare.com/filmora/article-images/kupton-waterproof-case-for-yi-4K.jpg) ](https://www.amazon.com/gp/product/B01HRJVZN2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HRJVZN2&linkId=8b0f807987301ad62785a97ef3d3b4f9
 )
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01HRJVZN2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HRJVZN2&linkId=8b0f807987301ad62785a97ef3d3b4f9
@@ -488,7 +488,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  It can be easily used underwater up to 40 meter with Yi 2 and is considered as best choice for surfing, snorkelling and diving needs. Shooting stays perfect with its high light transmission PMMA type material. Its anti surf pressure type design assists in better stills even during movements.
 
-* [ **ADIKA ($11.99):** ](https://www.amazon.com/gp/product/B01JRTDKRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01JRTDKRO&linkId=f582c15118c5bf8078a1f40ab64d5627  
+* [**ADIKA ($11.99):**](https://www.amazon.com/gp/product/B01JRTDKRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01JRTDKRO&linkId=f582c15118c5bf8078a1f40ab64d5627  
 )
 
 [ADIKA Waterproof Case for Yi 4K](https://images.wondershare.com/filmora/article-images/adika-waterproof-case-for-yi-4k.jpg)](https://www.amazon.com/gp/product/B01JRTDKRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01JRTDKRO&linkId=f582c15118c5bf8078a1f40ab64d5627
@@ -503,7 +503,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  As users need to buy additional protective housing for keeping their Yi camera safe under water but most of the cases never allow access to touch screen. Here we have picked two products that are best choice if you need control to your touch screen under water without damaging your camera.
 
-* [ **ADIKA Waterproof Housing with Touch Screen ($15.99):** ](https://www.amazon.com/gp/product/B01KLZD42E/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01KLZD42E&linkId=1c88aa409261c7eea4906ea898ee3325  
+* [**ADIKA Waterproof Housing with Touch Screen ($15.99):**](https://www.amazon.com/gp/product/B01KLZD42E/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01KLZD42E&linkId=1c88aa409261c7eea4906ea898ee3325  
 )
 
 [ADIKA Waterproof Housing with Touch Screen for Yi 4K](https://images.wondershare.com/filmora/article-images/adika-waterproof-housing-with-touch-screen-for-yi-4k-action-camera.jpg) ](https://www.amazon.com/gp/product/B01KLZD42E/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01KLZD42E&linkId=1c88aa409261c7eea4906ea898ee3325
@@ -514,7 +514,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  This waterproof cover can protect Yi camera from scratch and dust. Touch screen can be handled easily and maximum safe diving depth is about 30 meters. It is suitable for under water sports activities like diving, surfing etc and for rafting and paragliding.
 
-* [ **Corprit Underwater Protective ($18.72):** ](https://www.amazon.com/gp/product/B01N8OWASR/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N8OWASR&linkId=00060fbbbb73ca8f0d8f15b250e1f8b5  
+* [**Corprit Underwater Protective ($18.72):**](https://www.amazon.com/gp/product/B01N8OWASR/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N8OWASR&linkId=00060fbbbb73ca8f0d8f15b250e1f8b5  
 )
 
 [Corprit Underwater Protective Case for YI 4K](https://images.wondershare.com/filmora/article-images/corprit-waterproof-case-with-touchscreen-for-yi-4k-action-camera.jpg) ](https://www.amazon.com/gp/product/B01N8OWASR/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N8OWASR&linkId=00060fbbbb73ca8f0d8f15b250e1f8b5
@@ -529,7 +529,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  Even during above water usage, your camera will need protective shield for its lens and body. Below are few highly recommended non waterproof cases for Yi cameras:
 
-* [ **Leather Case and UV Filter ($19.99):** ](https://www.amazon.com/gp/product/B01D8KXG0E/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01D8KXG0E&linkId=3a6c2a36d0a4292d49c96ad2283f9dff  
+* [**Leather Case and UV Filter ($19.99):**](https://www.amazon.com/gp/product/B01D8KXG0E/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01D8KXG0E&linkId=3a6c2a36d0a4292d49c96ad2283f9dff  
 )
 
 [Yi 4K Leather cover and UV Filter](https://images.wondershare.com/filmora/article-images/yi-4k-action-camera-2-leather-cover.jpg) ](https://www.amazon.com/gp/product/B01D8KXG0E/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01D8KXG0E&linkId=3a6c2a36d0a4292d49c96ad2283f9dff
@@ -540,7 +540,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  It is available in white and black colour and is made up of European PU leather that provides additional protection to Yi camera. Its special feature is UV filter that can protect lens frame and adjusts performance for optimal view.
 
-* [ **LCrystal Frame Mount Housing ($10.99):** ](https://www.amazon.com/gp/product/B01F8A23H4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01F8A23H4&linkId=0a8eb75e7bd48ec141bd05dae3956a72  
+* [**LCrystal Frame Mount Housing ($10.99):**](https://www.amazon.com/gp/product/B01F8A23H4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01F8A23H4&linkId=0a8eb75e7bd48ec141bd05dae3956a72  
 )
 
 [LCrystal Frame Mount Housing  for YI 4K](https://images.wondershare.com/filmora/article-images/lcrystal-frame-mount-housing-for-yi-4k.jpg) ](https://www.amazon.com/gp/product/B01F8A23H4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01F8A23H4&linkId=0a8eb75e7bd48ec141bd05dae3956a72
@@ -551,7 +551,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  This third party protective frame can keep your camera safe as it is made up of rich quality PC and is highly durable. It is not recommended to use in adverse weather conditions.
 
-* [ **First2savvv XM2-TL-01 Black Aluminium Alloy Protective Housing ($13.49):** ](https://www.amazon.com/gp/product/B01JLLLMD2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01JLLLMD2&linkId=7b8078aaacb035ae1d86e584721adf12  
+* [**First2savvv XM2-TL-01 Black Aluminium Alloy Protective Housing ($13.49):**](https://www.amazon.com/gp/product/B01JLLLMD2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01JLLLMD2&linkId=7b8078aaacb035ae1d86e584721adf12  
 )
 
 [First2savvv XM2-TL-01 black Aluminium Alloy Frame for Yi 4K](https://images.wondershare.com/filmora/article-images/first2savvv-black-aluminium-alloy-frame-for-yi-4k.jpg) ](https://www.amazon.com/gp/product/B01JLLLMD2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01JLLLMD2&linkId=7b8078aaacb035ae1d86e584721adf12
@@ -562,10 +562,10 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  It is good to buy a aluminium case instead of plastic frame because it offers strong protection and is much durable. This accessory is compatible only with Yi 4k action cam but it is not waterproof so should not be used in extreme conditions.
 
-* [ **Deyard Y-04 Yi 4K Silicone Rubber Protective Housing ($6.99):** ](https://www.amazon.com/gp/product/B01ID0VV0G/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ID0VV0G&linkId=af0a548ce00189874a509b07a4ee131c  
+* [**Deyard Y-04 Yi 4K Silicone Rubber Protective Housing ($6.99):**](https://www.amazon.com/gp/product/B01ID0VV0G/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ID0VV0G&linkId=af0a548ce00189874a509b07a4ee131c  
 )
 
-[Deyard Y-04 Yi 4K Silicone Rubber Protective Housing](https://images.wondershare.com/filmora/article-images/deyard-yi-4k-silicone-rubber-protective-case.jpg )](https://www.amazon.com/gp/product/B01ID0VV0G/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ID0VV0G&linkId=af0a548ce00189874a509b07a4ee131c
+[Deyard Y-04 Yi 4K Silicone Rubber Protective Housing](https://images.wondershare.com/filmora/article-images/deyard-yi-4k-silicone-rubber-protective-case.jpg)](https://www.amazon.com/gp/product/B01ID0VV0G/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ID0VV0G&linkId=af0a548ce00189874a509b07a4ee131c
 )
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01ID0VV0G/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ID0VV0G&linkId=af0a548ce00189874a509b07a4ee131c
@@ -661,7 +661,7 @@ Follow @Max Wales
 
 ### Section 1: Protective Case
 
-#### 1.[ Waterproof Case:](<https://www.amazon.com/gp/product/B016I5VQJE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B016I5VQJE&linkId=1fe5d9a62a2d51f7afceab6b6ca27770>
+#### 1.[Waterproof Case:](<https://www.amazon.com/gp/product/B016I5VQJE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B016I5VQJE&linkId=1fe5d9a62a2d51f7afceab6b6ca27770>
 
 )
 
@@ -675,7 +675,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  **Waterproof case from third party:**
 
-* [ **Deyard ($14.99):** ](https://www.amazon.com/gp/product/B01IP01ECE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IP01ECE&linkId=93c83aa177a660db11b6ba5e9f8722f5  
+* [**Deyard ($14.99):**](https://www.amazon.com/gp/product/B01IP01ECE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IP01ECE&linkId=93c83aa177a660db11b6ba5e9f8722f5  
 )
 
 [Deyard Y-02 Waterproof Protective Case for Yi 4K](https://images.wondershare.com/filmora/article-images/deyard-waterproof-case.jpg) ](https://www.amazon.com/gp/product/B01IP01ECE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IP01ECE&linkId=93c83aa177a660db11b6ba5e9f8722f5
@@ -686,10 +686,10 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  It is designed with A-Grade type high transmittance Acrylic glass substance and is suitable for Yi 4k action cam. This product is considered ideal for underwater activities like snorkelling and diving etc. Deyard case is waterproof up to 45 meters and it’s specially designed flat glass lens ensures clear videos and photos under water.
 
-* [ **Kupton ($13.99):** ](https://www.amazon.com/gp/product/B01HRJVZN2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HRJVZN2&linkId=8b0f807987301ad62785a97ef3d3b4f9  
+* [**Kupton ($13.99):**](https://www.amazon.com/gp/product/B01HRJVZN2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HRJVZN2&linkId=8b0f807987301ad62785a97ef3d3b4f9  
 )
 
-[Kupton waterproof Case for YI 4K]( https://images.wondershare.com/filmora/article-images/kupton-waterproof-case-for-yi-4K.jpg) ](https://www.amazon.com/gp/product/B01HRJVZN2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HRJVZN2&linkId=8b0f807987301ad62785a97ef3d3b4f9
+[Kupton waterproof Case for YI 4K](https://images.wondershare.com/filmora/article-images/kupton-waterproof-case-for-yi-4K.jpg) ](https://www.amazon.com/gp/product/B01HRJVZN2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HRJVZN2&linkId=8b0f807987301ad62785a97ef3d3b4f9
 )
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01HRJVZN2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HRJVZN2&linkId=8b0f807987301ad62785a97ef3d3b4f9
@@ -697,7 +697,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  It can be easily used underwater up to 40 meter with Yi 2 and is considered as best choice for surfing, snorkelling and diving needs. Shooting stays perfect with its high light transmission PMMA type material. Its anti surf pressure type design assists in better stills even during movements.
 
-* [ **ADIKA ($11.99):** ](https://www.amazon.com/gp/product/B01JRTDKRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01JRTDKRO&linkId=f582c15118c5bf8078a1f40ab64d5627  
+* [**ADIKA ($11.99):**](https://www.amazon.com/gp/product/B01JRTDKRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01JRTDKRO&linkId=f582c15118c5bf8078a1f40ab64d5627  
 )
 
 [ADIKA Waterproof Case for Yi 4K](https://images.wondershare.com/filmora/article-images/adika-waterproof-case-for-yi-4k.jpg)](https://www.amazon.com/gp/product/B01JRTDKRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01JRTDKRO&linkId=f582c15118c5bf8078a1f40ab64d5627
@@ -712,7 +712,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  As users need to buy additional protective housing for keeping their Yi camera safe under water but most of the cases never allow access to touch screen. Here we have picked two products that are best choice if you need control to your touch screen under water without damaging your camera.
 
-* [ **ADIKA Waterproof Housing with Touch Screen ($15.99):** ](https://www.amazon.com/gp/product/B01KLZD42E/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01KLZD42E&linkId=1c88aa409261c7eea4906ea898ee3325  
+* [**ADIKA Waterproof Housing with Touch Screen ($15.99):**](https://www.amazon.com/gp/product/B01KLZD42E/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01KLZD42E&linkId=1c88aa409261c7eea4906ea898ee3325  
 )
 
 [ADIKA Waterproof Housing with Touch Screen for Yi 4K](https://images.wondershare.com/filmora/article-images/adika-waterproof-housing-with-touch-screen-for-yi-4k-action-camera.jpg) ](https://www.amazon.com/gp/product/B01KLZD42E/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01KLZD42E&linkId=1c88aa409261c7eea4906ea898ee3325
@@ -723,7 +723,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  This waterproof cover can protect Yi camera from scratch and dust. Touch screen can be handled easily and maximum safe diving depth is about 30 meters. It is suitable for under water sports activities like diving, surfing etc and for rafting and paragliding.
 
-* [ **Corprit Underwater Protective ($18.72):** ](https://www.amazon.com/gp/product/B01N8OWASR/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N8OWASR&linkId=00060fbbbb73ca8f0d8f15b250e1f8b5  
+* [**Corprit Underwater Protective ($18.72):**](https://www.amazon.com/gp/product/B01N8OWASR/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N8OWASR&linkId=00060fbbbb73ca8f0d8f15b250e1f8b5  
 )
 
 [Corprit Underwater Protective Case for YI 4K](https://images.wondershare.com/filmora/article-images/corprit-waterproof-case-with-touchscreen-for-yi-4k-action-camera.jpg) ](https://www.amazon.com/gp/product/B01N8OWASR/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N8OWASR&linkId=00060fbbbb73ca8f0d8f15b250e1f8b5
@@ -738,7 +738,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  Even during above water usage, your camera will need protective shield for its lens and body. Below are few highly recommended non waterproof cases for Yi cameras:
 
-* [ **Leather Case and UV Filter ($19.99):** ](https://www.amazon.com/gp/product/B01D8KXG0E/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01D8KXG0E&linkId=3a6c2a36d0a4292d49c96ad2283f9dff  
+* [**Leather Case and UV Filter ($19.99):**](https://www.amazon.com/gp/product/B01D8KXG0E/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01D8KXG0E&linkId=3a6c2a36d0a4292d49c96ad2283f9dff  
 )
 
 [Yi 4K Leather cover and UV Filter](https://images.wondershare.com/filmora/article-images/yi-4k-action-camera-2-leather-cover.jpg) ](https://www.amazon.com/gp/product/B01D8KXG0E/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01D8KXG0E&linkId=3a6c2a36d0a4292d49c96ad2283f9dff
@@ -749,7 +749,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  It is available in white and black colour and is made up of European PU leather that provides additional protection to Yi camera. Its special feature is UV filter that can protect lens frame and adjusts performance for optimal view.
 
-* [ **LCrystal Frame Mount Housing ($10.99):** ](https://www.amazon.com/gp/product/B01F8A23H4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01F8A23H4&linkId=0a8eb75e7bd48ec141bd05dae3956a72  
+* [**LCrystal Frame Mount Housing ($10.99):**](https://www.amazon.com/gp/product/B01F8A23H4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01F8A23H4&linkId=0a8eb75e7bd48ec141bd05dae3956a72  
 )
 
 [LCrystal Frame Mount Housing  for YI 4K](https://images.wondershare.com/filmora/article-images/lcrystal-frame-mount-housing-for-yi-4k.jpg) ](https://www.amazon.com/gp/product/B01F8A23H4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01F8A23H4&linkId=0a8eb75e7bd48ec141bd05dae3956a72
@@ -760,7 +760,7 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  This third party protective frame can keep your camera safe as it is made up of rich quality PC and is highly durable. It is not recommended to use in adverse weather conditions.
 
-* [ **First2savvv XM2-TL-01 Black Aluminium Alloy Protective Housing ($13.49):** ](https://www.amazon.com/gp/product/B01JLLLMD2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01JLLLMD2&linkId=7b8078aaacb035ae1d86e584721adf12  
+* [**First2savvv XM2-TL-01 Black Aluminium Alloy Protective Housing ($13.49):**](https://www.amazon.com/gp/product/B01JLLLMD2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01JLLLMD2&linkId=7b8078aaacb035ae1d86e584721adf12  
 )
 
 [First2savvv XM2-TL-01 black Aluminium Alloy Frame for Yi 4K](https://images.wondershare.com/filmora/article-images/first2savvv-black-aluminium-alloy-frame-for-yi-4k.jpg) ](https://www.amazon.com/gp/product/B01JLLLMD2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01JLLLMD2&linkId=7b8078aaacb035ae1d86e584721adf12
@@ -771,10 +771,10 @@ The underwater case of Yi action cam can serve users up to 40 meter and you will
 
  It is good to buy a aluminium case instead of plastic frame because it offers strong protection and is much durable. This accessory is compatible only with Yi 4k action cam but it is not waterproof so should not be used in extreme conditions.
 
-* [ **Deyard Y-04 Yi 4K Silicone Rubber Protective Housing ($6.99):** ](https://www.amazon.com/gp/product/B01ID0VV0G/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ID0VV0G&linkId=af0a548ce00189874a509b07a4ee131c  
+* [**Deyard Y-04 Yi 4K Silicone Rubber Protective Housing ($6.99):**](https://www.amazon.com/gp/product/B01ID0VV0G/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ID0VV0G&linkId=af0a548ce00189874a509b07a4ee131c  
 )
 
-[Deyard Y-04 Yi 4K Silicone Rubber Protective Housing](https://images.wondershare.com/filmora/article-images/deyard-yi-4k-silicone-rubber-protective-case.jpg )](https://www.amazon.com/gp/product/B01ID0VV0G/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ID0VV0G&linkId=af0a548ce00189874a509b07a4ee131c
+[Deyard Y-04 Yi 4K Silicone Rubber Protective Housing](https://images.wondershare.com/filmora/article-images/deyard-yi-4k-silicone-rubber-protective-case.jpg)](https://www.amazon.com/gp/product/B01ID0VV0G/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ID0VV0G&linkId=af0a548ce00189874a509b07a4ee131c
 )
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01ID0VV0G/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ID0VV0G&linkId=af0a548ce00189874a509b07a4ee131c

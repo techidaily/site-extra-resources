@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Blend Audio & Visuals  Editing Music in Canva Videos\""
-date: 2024-05-24T03:36:26.316Z
-updated: 2024-05-25T03:36:26.316Z
+date: 2024-06-27T14:34:33.234Z
+updated: 2024-06-28T14:34:33.234Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Blend Audio & Visuals: Editing Music in Canva Videos\""
 excerpt: "\"This Article Describes [New] Blend Audio & Visuals: Editing Music in Canva Videos\""
 keywords: "Canva Audio Edit,Music Video Design,Visuals and Tunes,Edit Music Artwork,Audio Visual Mix,Canva Sound Editing,Blend Music Video"
-thumbnail: https://www.lifewire.com/thmb/JlaYtQ70GwDCvIkDNZPws_-H5NM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/is-blizzard-battle-net-down-or-is-it-just-you-5025181-240dd5bdcffd4b9bb3fe79e8b90ac5fb.jpg
+thumbnail: https://thmb.techidaily.com/3e42d7d3d66b1bb7fc10d0f6ca519d43c3162c70fd1186bee34b5c05700af6e2.jpg
 ---
 
 ## Blend Audio & Visuals: Editing Music in Canva Videos

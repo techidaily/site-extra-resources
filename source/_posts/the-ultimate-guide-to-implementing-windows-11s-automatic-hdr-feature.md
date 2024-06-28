@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Implementing Windows 11'S Automatic HDR Feature"
-date: 2024-05-24T03:18:23.403Z
-updated: 2024-05-25T03:18:23.403Z
+date: 2024-06-27T14:34:32.937Z
+updated: 2024-06-28T14:34:32.937Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Ultimate Guide to Implementing Windows 11'S Automatic HDR Feature"
 excerpt: "This Article Describes The Ultimate Guide to Implementing Windows 11'S Automatic HDR Feature"
 keywords: "Win11 AutoHDR Guide,HDR Windows Implementation,HDR Automation in Win11,HDR Features Win11,Windows HDR Tutorial,HDR Tech Win11,Mastering HDR on Win11"
-thumbnail: https://www.lifewire.com/thmb/AOVQTNyOWIZPYiKZehcoYQS3DNU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-820926684-5c7747ebc45847708ac311b709bdc1f2.jpg
+thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343ebf5ad117060d9466fac18ee3.jpg
 ---
 
 ## The Ultimate Guide to Implementing Windows 11'S Automatic HDR Feature

@@ -1,7 +1,7 @@
 ---
 title: "\"Sony Xperia XZ Premium  High-Res Video Capabilities Analyzed\""
-date: 2024-05-24T04:44:51.611Z
-updated: 2024-05-25T04:44:51.611Z
+date: 2024-06-27T14:34:34.520Z
+updated: 2024-06-28T14:34:34.520Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Sony Xperia XZ Premium: High-Res Video Capabilities Analyzed\""
 excerpt: "\"This Article Describes Sony Xperia XZ Premium: High-Res Video Capabilities Analyzed\""
 keywords: "\"Sony Xperia HD Video,XZ Video Quality,Xperia XZ Premium Recording,XZ High-Res Imaging,Sony Xperia XZ Analysis,Premium Phone Video Capacity,XZ UltraPixel Video\""
-thumbnail: https://www.lifewire.com/thmb/5q5VAPO1_mABa8lvNdiyg5-xmIs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/DiscordProfileImage5-aedff4a1f42145f3b849fc6608730e95.jpg
+thumbnail: https://thmb.techidaily.com/bb7b22db4f29df84af9ef917f29e85118ed689c604ae901531790591bfbc5dab.jpg
 ---
 
 ## Sony Xperia XZ Premium: High-Res Video Capabilities Analyzed

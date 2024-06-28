@@ -1,7 +1,7 @@
 ---
 title: "Logic Pro X's Audio Smoothing Methods"
-date: 2024-05-24T04:11:22.392Z
-updated: 2024-05-25T04:11:22.392Z
+date: 2024-06-27T14:34:23.051Z
+updated: 2024-06-28T14:34:23.051Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Logic Pro X's Audio Smoothing Methods"
 excerpt: "This Article Describes Logic Pro X's Audio Smoothing Methods"
 keywords: "Logic Pro X Sound Filtering,Audio Smoothness Pro X,Pro X Noise Reduction,Logic Pro X Harmonics,Pro Audio Quality Enhance,Logic Pro X Waveform Polishing,Pro X Signal Cleaning"
-thumbnail: https://www.lifewire.com/thmb/RGDsbt708xWy-bclsFwdv7llVks=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/streamingamazonondiscord-a9c34243e5924d5f95a6e11db738646d.jpg
+thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd934a3e89af40244a078e590d9.jpg
 ---
 
 ## Logic Pro X's Audio Smoothing Methods

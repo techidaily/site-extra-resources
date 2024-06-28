@@ -1,7 +1,7 @@
 ---
 title: "Grasping the Basics of AV1 Compression"
-date: 2024-05-24T05:42:42.489Z
-updated: 2024-05-25T05:42:42.489Z
+date: 2024-06-27T14:34:23.951Z
+updated: 2024-06-28T14:34:23.951Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Grasping the Basics of AV1 Compression"
 excerpt: "This Article Describes Grasping the Basics of AV1 Compression"
 keywords: "Av1 Compression Basics,Basic AV1 Techniques,Understanding AV1,Learn AV1 Fundamentals,Mastering AV1 Encoding,AV1 Introduction Guide,Essentials of AV1 Codec"
-thumbnail: https://www.lifewire.com/thmb/6xuM2EyQiLZhok9LAmw6JW0hXgU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Ai-Chatbot-6bb24727cd054dcd9339c6ed6f5da37e.jpg
+thumbnail: https://thmb.techidaily.com/410b1a4d385c6e4b30f8c2bafd9b2a73f332bf6953f02a101819f0b8ffe4d954.jpg
 ---
 
 ## Grasping the Basics of AV1 Compression

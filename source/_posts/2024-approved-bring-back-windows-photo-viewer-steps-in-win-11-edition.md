@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Bring Back Windows Photo Viewer  Steps in Win 11 Edition\""
-date: 2024-05-24T04:47:02.778Z
-updated: 2024-05-25T04:47:02.778Z
+date: 2024-06-27T14:34:23.115Z
+updated: 2024-06-28T14:34:23.115Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Bring Back Windows Photo Viewer: Steps in Win 11 Edition\""
 excerpt: "\"This Article Describes 2024 Approved: Bring Back Windows Photo Viewer: Steps in Win 11 Edition\""
 keywords: "\"Win 11 Photo Revival,Photo Viewer Restore,Reinstalling WPV (Windows Photo Viewer),Windows 11 Photo Editor,XP-to-Win11 Photo Viewer,Nostalgic Photo Viewing Win,Update Windows Photo App\""
-thumbnail: https://www.lifewire.com/thmb/C5NsJYR6FRT4y8jRGIvlsTKr6LU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/santahatcomputer-5ba0332646e0fb0050e7ae93.jpg
+thumbnail: https://thmb.techidaily.com/20e687e989a89b1dd45743ceb6d6d3c635644bf241cd4154d769e7b945709de7.jpg
 ---
 
 ## Bring Back Windows Photo Viewer: Steps in Win 11 Edition

@@ -1,7 +1,7 @@
 ---
 title: "\"Precision in Volume Decrease  Lumafusion's Methodology\""
-date: 2024-05-24T04:35:24.326Z
-updated: 2024-05-25T04:35:24.326Z
+date: 2024-06-27T14:34:34.557Z
+updated: 2024-06-28T14:34:34.557Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Precision in Volume Decrease: Lumafusion's Methodology\""
 excerpt: "\"This Article Describes Precision in Volume Decrease: Lumafusion's Methodology\""
 keywords: "Precise VolDec,Lumafusion Reduction,Volume Control Tech,Fusion Deflation,Accurate Devolume,Methodical VolScaling,Lumafusion Shrinkage"
-thumbnail: https://www.lifewire.com/thmb/bh3H2G7TcfZpiD7WymrulTtYSeU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/facebook_dark_mode_fix_nico_de_pasquale_photography-6f02eb383e884f748870de4aae05d676.jpg
+thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba7355f3daa30e8aeaa265b4225.jpg
 ---
 
 ## Precision in Volume Decrease: Lumafusion's Methodology

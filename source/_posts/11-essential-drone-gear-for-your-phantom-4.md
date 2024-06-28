@@ -1,7 +1,7 @@
 ---
 title: "11 Essential Drone Gear for Your Phantom 4"
-date: 2024-05-24T05:53:22.433Z
-updated: 2024-05-25T05:53:22.433Z
+date: 2024-06-27T14:34:32.359Z
+updated: 2024-06-28T14:34:32.359Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes 11 Essential Drone Gear for Your Phantom 4"
 excerpt: "This Article Describes 11 Essential Drone Gear for Your Phantom 4"
 keywords: "\"Phantom 4 Drones,Drone Essentials,Flight Gear Basics,Pro-Droner Equipment,Photography Drones,Advanced Drone Tech,Quality Dronemakers\""
-thumbnail: https://www.lifewire.com/thmb/gqD8upUHe51-QbDVBOjSRL6QoLk=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/AI_Choreograph_GettyImagesPlus-1473211827_CROPPED-137fc9eef04a43a79554344a6f11d1b7.jpg
+thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a1d76f74a4f77913c7df7881.jpg
 ---
 
 ## 11 Essential Drone Gear for Your Phantom 4
@@ -46,7 +46,7 @@ As you have already spent [$1,199](https://www.amazon.com/gp/product/B01CFXQZD0/
 | [HDMI Out mod](#hdmi)                                          | Low       | DJI HDMI Output Module                         |
 | [Tracker](#tracker)                                            | Low       | Trackimo GPS Tracker                           |
 
-#### [1. Extra Batteries - High](https://www.amazon.com/gp/product/B01D2PKYMI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01D2PKYMI&linkId=0d938555081313d2cfb937d840267c33)
+#### 1. Extra Batteries - High
 
 **Why?**
 
@@ -60,7 +60,7 @@ If you have additional batteries that are compatible with your Phantom 4 design 
 
 These batteries are designed to serve users with higher efficiency and well customized design to provide maximum flight time of 28 minutes for Phantom 4 model. DJI Go 4 app can be used to monitor battery percentage during flight and one can have safe journey alerts time to time.
 
-#### [2. Controller Monitor Hood - High](https://www.amazon.com/gp/product/B016PUQWMI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B016PUQWMI&linkId=d9a5040c9475fbf1555a0c70237d95ea)
+#### 2. Controller Monitor Hood - High
 
 **Why?**
 
@@ -74,7 +74,7 @@ Although, Phantom 4 drone works perfectly with all popular tablets and phones bu
 
 Most of the professionals prefer to recommend iPad Mini 4 for best results the major reason behind this recommendation is the powerful, lightweight and inexpensive design of iPad Mini 4\. It can handle the drone software smoothly and will avoid those annoying hang-ups during flight.
 
-#### [3. Memory Card - High](https://www.amazon.com/gp/product/B00IVPU7AO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00IVPU7AO&linkId=3373534dec19388698ddc39be997b60e)
+#### 3. Memory Card - High
 
 **Why?**
 
@@ -98,7 +98,7 @@ If you want to use your drone for longer hours than its battery capabilities, it
 
 The best choice to boost power capabilities of your Phantom 4 design is the intelligent battery charging hub. It is capable enough to charge almost 3 batteries at a time and its intelligent system adjusts charging priorities as per power level of connected batteries.
 
-#### [5. Sunshade - High](https://www.amazon.com/gp/product/B01D2PKYMI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01D2PKYMI&linkId=b27e8481f15493123773c4059524dfd4)
+#### 5. Sunshade - High
 
 **Why?**
 
@@ -112,7 +112,7 @@ Tablets can assist you only if their screen is visible but when you have to work
 
 Monitor Hood is capable enough to provide protective shield to your tablets so that users can have perfect view even in direct sunlight. It will help you to get clear view on the display all the time and the best feature is its portability.
 
-#### [6. Case/Backpack - Medium](https://www.amazon.com/gp/product/B00QPC8914/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00QPC8914&linkId=867a1993374eba983f01864d130184c3)
+#### 6. Case/Backpack - Medium
 
 **Why?**
 
@@ -126,7 +126,7 @@ If you want to capture videos from some critical locations during your adventuro
 
 Koozam offers high quality backpack for Phantom 4 drones and it is capable enough to handle all typical weather conditions. You will be able to carry your drone safety to all locations including rain, heat, beach, biking, driving, snow, sand, hiking and jogging.
 
-#### [7. Propellers - Medium](https://www.amazon.com/gp/product/B01IC1DKMI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IC1DKMI&linkId=ca77779817f0eae7a3e2401915639013)
+#### 7. Propellers - Medium
 
 **Why?**
 
@@ -140,7 +140,7 @@ There is no doubt to say that crashes can happen anytime so it is good to be saf
 
 This is the perfect choice for professionals as well as beginners due to their highly durable and reliable design. These propellers can keep your device safe from heavy crashes but will also make your device little heavier while reducing overall flight time.
 
-#### [8. ND Filters - Low](https://www.amazon.com/gp/product/B00WMJDPZ4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00WMJDPZ4&linkId=f45a678d50304b41c0d1fa42fa48d337)
+#### 8. ND Filters - Low
 
 **Why?**
 
@@ -154,7 +154,7 @@ In case if you are going to record videos with your drone movements then your pr
 
 The Polar Pro filters are designed with precision threaded type aircraft aluminium frame. This accessory comes with a HD glass that ensures great production level clarity along with razor sharp optics.
 
-#### [9. FPV Goggles - Low](https://www.amazon.com/gp/product/B01BOG060M/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01BOG060M&linkId=b9f50d017de1995e01b0cf6db6323456)
+#### 9. FPV Goggles - Low
 
 **Why?**
 
@@ -170,7 +170,7 @@ Streaming HD videos to the screen of your mobile device is really an interesting
 
 This classic Fat Shark Goggle accessory will help users to see the world from drone eyes. The 19:9 widescreen type WVGA display allows users to enjoy detailed videos and you will be able to get this well designed FPV kit at reasonable price range from market.
 
-#### [10.HDMI Out Mod - Low](https://www.amazon.com/gp/product/B013JQ14P6/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013JQ14P6&linkId=cf4795803e50833f514778d1ef6b7bfc)
+#### 10.HDMI Out Mod - Low
 
 **Why?**
 
@@ -184,7 +184,7 @@ This accessory is really important for drone lovers as it helps them to output r
 
 The HDMI Output Module is dedicated to Phantom series and it is capable enough to control the 720p output so that it can be directly streamed over HDMI device. It offers advanced control facilities where live video feed, aircraft battery levels and iOSD can be directly exported to HDMI output module.
 
-#### [11. Tracker - Low](https://www.amazon.com/gp/product/B01CIDUK1U/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CIDUK1U&linkId=3fb7286429cd7168ff60194472448321)
+#### 11. Tracker - Low
 
 **Why?**
 
@@ -230,7 +230,7 @@ As you have already spent [$1,199](https://www.amazon.com/gp/product/B01CFXQZD0/
 | [HDMI Out mod](#hdmi)                                          | Low       | DJI HDMI Output Module                         |
 | [Tracker](#tracker)                                            | Low       | Trackimo GPS Tracker                           |
 
-#### [1. Extra Batteries - High](https://www.amazon.com/gp/product/B01D2PKYMI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01D2PKYMI&linkId=0d938555081313d2cfb937d840267c33)
+#### 1. Extra Batteries - High
 
 **Why?**
 
@@ -244,7 +244,7 @@ If you have additional batteries that are compatible with your Phantom 4 design 
 
 These batteries are designed to serve users with higher efficiency and well customized design to provide maximum flight time of 28 minutes for Phantom 4 model. DJI Go 4 app can be used to monitor battery percentage during flight and one can have safe journey alerts time to time.
 
-#### [2. Controller Monitor Hood - High](https://www.amazon.com/gp/product/B016PUQWMI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B016PUQWMI&linkId=d9a5040c9475fbf1555a0c70237d95ea)
+#### 2. Controller Monitor Hood - High
 
 **Why?**
 
@@ -258,7 +258,7 @@ Although, Phantom 4 drone works perfectly with all popular tablets and phones bu
 
 Most of the professionals prefer to recommend iPad Mini 4 for best results the major reason behind this recommendation is the powerful, lightweight and inexpensive design of iPad Mini 4\. It can handle the drone software smoothly and will avoid those annoying hang-ups during flight.
 
-#### [3. Memory Card - High](https://www.amazon.com/gp/product/B00IVPU7AO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00IVPU7AO&linkId=3373534dec19388698ddc39be997b60e)
+#### 3. Memory Card - High
 
 **Why?**
 
@@ -282,7 +282,7 @@ If you want to use your drone for longer hours than its battery capabilities, it
 
 The best choice to boost power capabilities of your Phantom 4 design is the intelligent battery charging hub. It is capable enough to charge almost 3 batteries at a time and its intelligent system adjusts charging priorities as per power level of connected batteries.
 
-#### [5. Sunshade - High](https://www.amazon.com/gp/product/B01D2PKYMI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01D2PKYMI&linkId=b27e8481f15493123773c4059524dfd4)
+#### 5. Sunshade - High
 
 **Why?**
 
@@ -296,7 +296,7 @@ Tablets can assist you only if their screen is visible but when you have to work
 
 Monitor Hood is capable enough to provide protective shield to your tablets so that users can have perfect view even in direct sunlight. It will help you to get clear view on the display all the time and the best feature is its portability.
 
-#### [6. Case/Backpack - Medium](https://www.amazon.com/gp/product/B00QPC8914/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00QPC8914&linkId=867a1993374eba983f01864d130184c3)
+#### 6. Case/Backpack - Medium
 
 **Why?**
 
@@ -310,7 +310,7 @@ If you want to capture videos from some critical locations during your adventuro
 
 Koozam offers high quality backpack for Phantom 4 drones and it is capable enough to handle all typical weather conditions. You will be able to carry your drone safety to all locations including rain, heat, beach, biking, driving, snow, sand, hiking and jogging.
 
-#### [7. Propellers - Medium](https://www.amazon.com/gp/product/B01IC1DKMI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IC1DKMI&linkId=ca77779817f0eae7a3e2401915639013)
+#### 7. Propellers - Medium
 
 **Why?**
 
@@ -324,7 +324,7 @@ There is no doubt to say that crashes can happen anytime so it is good to be saf
 
 This is the perfect choice for professionals as well as beginners due to their highly durable and reliable design. These propellers can keep your device safe from heavy crashes but will also make your device little heavier while reducing overall flight time.
 
-#### [8. ND Filters - Low](https://www.amazon.com/gp/product/B00WMJDPZ4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00WMJDPZ4&linkId=f45a678d50304b41c0d1fa42fa48d337)
+#### 8. ND Filters - Low
 
 **Why?**
 
@@ -338,7 +338,7 @@ In case if you are going to record videos with your drone movements then your pr
 
 The Polar Pro filters are designed with precision threaded type aircraft aluminium frame. This accessory comes with a HD glass that ensures great production level clarity along with razor sharp optics.
 
-#### [9. FPV Goggles - Low](https://www.amazon.com/gp/product/B01BOG060M/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01BOG060M&linkId=b9f50d017de1995e01b0cf6db6323456)
+#### 9. FPV Goggles - Low
 
 **Why?**
 
@@ -354,7 +354,7 @@ Streaming HD videos to the screen of your mobile device is really an interesting
 
 This classic Fat Shark Goggle accessory will help users to see the world from drone eyes. The 19:9 widescreen type WVGA display allows users to enjoy detailed videos and you will be able to get this well designed FPV kit at reasonable price range from market.
 
-#### [10.HDMI Out Mod - Low](https://www.amazon.com/gp/product/B013JQ14P6/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013JQ14P6&linkId=cf4795803e50833f514778d1ef6b7bfc)
+#### 10.HDMI Out Mod - Low
 
 **Why?**
 
@@ -368,7 +368,7 @@ This accessory is really important for drone lovers as it helps them to output r
 
 The HDMI Output Module is dedicated to Phantom series and it is capable enough to control the 720p output so that it can be directly streamed over HDMI device. It offers advanced control facilities where live video feed, aircraft battery levels and iOSD can be directly exported to HDMI output module.
 
-#### [11. Tracker - Low](https://www.amazon.com/gp/product/B01CIDUK1U/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CIDUK1U&linkId=3fb7286429cd7168ff60194472448321)
+#### 11. Tracker - Low
 
 **Why?**
 
@@ -414,7 +414,7 @@ As you have already spent [$1,199](https://www.amazon.com/gp/product/B01CFXQZD0/
 | [HDMI Out mod](#hdmi)                                          | Low       | DJI HDMI Output Module                         |
 | [Tracker](#tracker)                                            | Low       | Trackimo GPS Tracker                           |
 
-#### [1. Extra Batteries - High](https://www.amazon.com/gp/product/B01D2PKYMI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01D2PKYMI&linkId=0d938555081313d2cfb937d840267c33)
+#### 1. Extra Batteries - High
 
 **Why?**
 
@@ -428,7 +428,7 @@ If you have additional batteries that are compatible with your Phantom 4 design 
 
 These batteries are designed to serve users with higher efficiency and well customized design to provide maximum flight time of 28 minutes for Phantom 4 model. DJI Go 4 app can be used to monitor battery percentage during flight and one can have safe journey alerts time to time.
 
-#### [2. Controller Monitor Hood - High](https://www.amazon.com/gp/product/B016PUQWMI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B016PUQWMI&linkId=d9a5040c9475fbf1555a0c70237d95ea)
+#### 2. Controller Monitor Hood - High
 
 **Why?**
 
@@ -442,7 +442,7 @@ Although, Phantom 4 drone works perfectly with all popular tablets and phones bu
 
 Most of the professionals prefer to recommend iPad Mini 4 for best results the major reason behind this recommendation is the powerful, lightweight and inexpensive design of iPad Mini 4\. It can handle the drone software smoothly and will avoid those annoying hang-ups during flight.
 
-#### [3. Memory Card - High](https://www.amazon.com/gp/product/B00IVPU7AO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00IVPU7AO&linkId=3373534dec19388698ddc39be997b60e)
+#### 3. Memory Card - High
 
 **Why?**
 
@@ -466,7 +466,7 @@ If you want to use your drone for longer hours than its battery capabilities, it
 
 The best choice to boost power capabilities of your Phantom 4 design is the intelligent battery charging hub. It is capable enough to charge almost 3 batteries at a time and its intelligent system adjusts charging priorities as per power level of connected batteries.
 
-#### [5. Sunshade - High](https://www.amazon.com/gp/product/B01D2PKYMI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01D2PKYMI&linkId=b27e8481f15493123773c4059524dfd4)
+#### 5. Sunshade - High
 
 **Why?**
 
@@ -480,7 +480,7 @@ Tablets can assist you only if their screen is visible but when you have to work
 
 Monitor Hood is capable enough to provide protective shield to your tablets so that users can have perfect view even in direct sunlight. It will help you to get clear view on the display all the time and the best feature is its portability.
 
-#### [6. Case/Backpack - Medium](https://www.amazon.com/gp/product/B00QPC8914/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00QPC8914&linkId=867a1993374eba983f01864d130184c3)
+#### 6. Case/Backpack - Medium
 
 **Why?**
 
@@ -494,7 +494,7 @@ If you want to capture videos from some critical locations during your adventuro
 
 Koozam offers high quality backpack for Phantom 4 drones and it is capable enough to handle all typical weather conditions. You will be able to carry your drone safety to all locations including rain, heat, beach, biking, driving, snow, sand, hiking and jogging.
 
-#### [7. Propellers - Medium](https://www.amazon.com/gp/product/B01IC1DKMI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IC1DKMI&linkId=ca77779817f0eae7a3e2401915639013)
+#### 7. Propellers - Medium
 
 **Why?**
 
@@ -508,7 +508,7 @@ There is no doubt to say that crashes can happen anytime so it is good to be saf
 
 This is the perfect choice for professionals as well as beginners due to their highly durable and reliable design. These propellers can keep your device safe from heavy crashes but will also make your device little heavier while reducing overall flight time.
 
-#### [8. ND Filters - Low](https://www.amazon.com/gp/product/B00WMJDPZ4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00WMJDPZ4&linkId=f45a678d50304b41c0d1fa42fa48d337)
+#### 8. ND Filters - Low
 
 **Why?**
 
@@ -522,7 +522,7 @@ In case if you are going to record videos with your drone movements then your pr
 
 The Polar Pro filters are designed with precision threaded type aircraft aluminium frame. This accessory comes with a HD glass that ensures great production level clarity along with razor sharp optics.
 
-#### [9. FPV Goggles - Low](https://www.amazon.com/gp/product/B01BOG060M/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01BOG060M&linkId=b9f50d017de1995e01b0cf6db6323456)
+#### 9. FPV Goggles - Low
 
 **Why?**
 
@@ -538,7 +538,7 @@ Streaming HD videos to the screen of your mobile device is really an interesting
 
 This classic Fat Shark Goggle accessory will help users to see the world from drone eyes. The 19:9 widescreen type WVGA display allows users to enjoy detailed videos and you will be able to get this well designed FPV kit at reasonable price range from market.
 
-#### [10.HDMI Out Mod - Low](https://www.amazon.com/gp/product/B013JQ14P6/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013JQ14P6&linkId=cf4795803e50833f514778d1ef6b7bfc)
+#### 10.HDMI Out Mod - Low
 
 **Why?**
 
@@ -552,7 +552,7 @@ This accessory is really important for drone lovers as it helps them to output r
 
 The HDMI Output Module is dedicated to Phantom series and it is capable enough to control the 720p output so that it can be directly streamed over HDMI device. It offers advanced control facilities where live video feed, aircraft battery levels and iOSD can be directly exported to HDMI output module.
 
-#### [11. Tracker - Low](https://www.amazon.com/gp/product/B01CIDUK1U/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CIDUK1U&linkId=3fb7286429cd7168ff60194472448321)
+#### 11. Tracker - Low
 
 **Why?**
 
@@ -598,7 +598,7 @@ As you have already spent [$1,199](https://www.amazon.com/gp/product/B01CFXQZD0/
 | [HDMI Out mod](#hdmi)                                          | Low       | DJI HDMI Output Module                         |
 | [Tracker](#tracker)                                            | Low       | Trackimo GPS Tracker                           |
 
-#### [1. Extra Batteries - High](https://www.amazon.com/gp/product/B01D2PKYMI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01D2PKYMI&linkId=0d938555081313d2cfb937d840267c33)
+#### 1. Extra Batteries - High
 
 **Why?**
 
@@ -612,7 +612,7 @@ If you have additional batteries that are compatible with your Phantom 4 design 
 
 These batteries are designed to serve users with higher efficiency and well customized design to provide maximum flight time of 28 minutes for Phantom 4 model. DJI Go 4 app can be used to monitor battery percentage during flight and one can have safe journey alerts time to time.
 
-#### [2. Controller Monitor Hood - High](https://www.amazon.com/gp/product/B016PUQWMI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B016PUQWMI&linkId=d9a5040c9475fbf1555a0c70237d95ea)
+#### 2. Controller Monitor Hood - High
 
 **Why?**
 
@@ -626,7 +626,7 @@ Although, Phantom 4 drone works perfectly with all popular tablets and phones bu
 
 Most of the professionals prefer to recommend iPad Mini 4 for best results the major reason behind this recommendation is the powerful, lightweight and inexpensive design of iPad Mini 4\. It can handle the drone software smoothly and will avoid those annoying hang-ups during flight.
 
-#### [3. Memory Card - High](https://www.amazon.com/gp/product/B00IVPU7AO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00IVPU7AO&linkId=3373534dec19388698ddc39be997b60e)
+#### 3. Memory Card - High
 
 **Why?**
 
@@ -650,7 +650,7 @@ If you want to use your drone for longer hours than its battery capabilities, it
 
 The best choice to boost power capabilities of your Phantom 4 design is the intelligent battery charging hub. It is capable enough to charge almost 3 batteries at a time and its intelligent system adjusts charging priorities as per power level of connected batteries.
 
-#### [5. Sunshade - High](https://www.amazon.com/gp/product/B01D2PKYMI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01D2PKYMI&linkId=b27e8481f15493123773c4059524dfd4)
+#### 5. Sunshade - High
 
 **Why?**
 
@@ -664,7 +664,7 @@ Tablets can assist you only if their screen is visible but when you have to work
 
 Monitor Hood is capable enough to provide protective shield to your tablets so that users can have perfect view even in direct sunlight. It will help you to get clear view on the display all the time and the best feature is its portability.
 
-#### [6. Case/Backpack - Medium](https://www.amazon.com/gp/product/B00QPC8914/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00QPC8914&linkId=867a1993374eba983f01864d130184c3)
+#### 6. Case/Backpack - Medium
 
 **Why?**
 
@@ -678,7 +678,7 @@ If you want to capture videos from some critical locations during your adventuro
 
 Koozam offers high quality backpack for Phantom 4 drones and it is capable enough to handle all typical weather conditions. You will be able to carry your drone safety to all locations including rain, heat, beach, biking, driving, snow, sand, hiking and jogging.
 
-#### [7. Propellers - Medium](https://www.amazon.com/gp/product/B01IC1DKMI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IC1DKMI&linkId=ca77779817f0eae7a3e2401915639013)
+#### 7. Propellers - Medium
 
 **Why?**
 
@@ -692,7 +692,7 @@ There is no doubt to say that crashes can happen anytime so it is good to be saf
 
 This is the perfect choice for professionals as well as beginners due to their highly durable and reliable design. These propellers can keep your device safe from heavy crashes but will also make your device little heavier while reducing overall flight time.
 
-#### [8. ND Filters - Low](https://www.amazon.com/gp/product/B00WMJDPZ4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00WMJDPZ4&linkId=f45a678d50304b41c0d1fa42fa48d337)
+#### 8. ND Filters - Low
 
 **Why?**
 
@@ -706,7 +706,7 @@ In case if you are going to record videos with your drone movements then your pr
 
 The Polar Pro filters are designed with precision threaded type aircraft aluminium frame. This accessory comes with a HD glass that ensures great production level clarity along with razor sharp optics.
 
-#### [9. FPV Goggles - Low](https://www.amazon.com/gp/product/B01BOG060M/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01BOG060M&linkId=b9f50d017de1995e01b0cf6db6323456)
+#### 9. FPV Goggles - Low
 
 **Why?**
 
@@ -722,7 +722,7 @@ Streaming HD videos to the screen of your mobile device is really an interesting
 
 This classic Fat Shark Goggle accessory will help users to see the world from drone eyes. The 19:9 widescreen type WVGA display allows users to enjoy detailed videos and you will be able to get this well designed FPV kit at reasonable price range from market.
 
-#### [10.HDMI Out Mod - Low](https://www.amazon.com/gp/product/B013JQ14P6/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013JQ14P6&linkId=cf4795803e50833f514778d1ef6b7bfc)
+#### 10.HDMI Out Mod - Low
 
 **Why?**
 
@@ -736,7 +736,7 @@ This accessory is really important for drone lovers as it helps them to output r
 
 The HDMI Output Module is dedicated to Phantom series and it is capable enough to control the 720p output so that it can be directly streamed over HDMI device. It offers advanced control facilities where live video feed, aircraft battery levels and iOSD can be directly exported to HDMI output module.
 
-#### [11. Tracker - Low](https://www.amazon.com/gp/product/B01CIDUK1U/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CIDUK1U&linkId=3fb7286429cd7168ff60194472448321)
+#### 11. Tracker - Low
 
 **Why?**
 

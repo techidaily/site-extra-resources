@@ -1,7 +1,7 @@
 ---
 title: "\"Navigating Through the Complexities of Canon Time-Lapse\""
-date: 2024-05-24T04:03:50.384Z
-updated: 2024-05-25T04:03:50.384Z
+date: 2024-06-27T14:34:29.669Z
+updated: 2024-06-28T14:34:29.669Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Navigating Through the Complexities of Canon Time-Lapse\""
 excerpt: "\"This Article Describes Navigating Through the Complexities of Canon Time-Lapse\""
 keywords: "\"Timelapse Basics,Canon T-Lapse Guide,Mastering Canon Lapses,Advanced Canon TimeLapse,Canon Video Techniques,Professional Time-Lapse Cinematography,Complexities of Film TimeLapse\""
-thumbnail: https://www.lifewire.com/thmb/Qyfd5yWYmuBE75uyOeLeSQxzUMY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-movies-on-hulu-right-now-5025149-3c80b5664f6541b4a0698333fc447251.jpg
+thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3f338f8c86d6f5318d22c5f4.jpg
 ---
 
 ## Navigating Through the Complexities of Canon Time-Lapse

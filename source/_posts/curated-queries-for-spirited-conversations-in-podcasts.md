@@ -1,7 +1,7 @@
 ---
 title: "Curated Queries for Spirited Conversations in Podcasts"
-date: 2024-05-24T04:12:31.332Z
-updated: 2024-05-25T04:12:31.332Z
+date: 2024-06-27T14:34:35.629Z
+updated: 2024-06-28T14:34:35.629Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Curated Queries for Spirited Conversations in Podcasts"
 excerpt: "This Article Describes Curated Queries for Spirited Conversations in Podcasts"
 keywords: "\"Spiritual Podcast Chats,Curated Podcast Talks,Engaging Podcast Dialogues,Wisdom-Filled Podcast Sessions,Inspirational Podcast Discussions,Insightful Conversation Pods,Enlightening Spoken Word Pods\""
-thumbnail: https://www.lifewire.com/thmb/jYRcfPdtNI6tXDgrTbnTO06LdQ4=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2022-04-08at12.07.28PM-362efc4e7603490a932bf9ac6e0f0113.png
+thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faafe915e31c07d32bad6007903.png
 ---
 
 ## Curated Queries for Spirited Conversations in Podcasts

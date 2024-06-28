@@ -1,7 +1,7 @@
 ---
 title: "The Secrets of Editing Numerical Data in TikToks"
-date: 2024-05-24T04:25:56.693Z
-updated: 2024-05-25T04:25:56.693Z
+date: 2024-06-27T14:34:32.804Z
+updated: 2024-06-28T14:34:32.804Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Secrets of Editing Numerical Data in TikToks"
 excerpt: "This Article Describes The Secrets of Editing Numerical Data in TikToks"
 keywords: "Décennial Cinéma Littérature,Littérature Cinématographique,Rédaction Scénaristique,Art Film Narratif,Création Ligne Scène,Récit Visuel Milieu,Écriture Scénario Année"
-thumbnail: https://www.lifewire.com/thmb/0eladF6N0frE-HtBzdDkcGHF4eU=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-a-ps5-5088641-1bcc6bca24cd460bb2b276fdeb6cb830.jpg
+thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece4c292665e0f6b95fb5f60be.jpg
 ---
 
 ## The Secrets of Editing Numerical Data in TikToks

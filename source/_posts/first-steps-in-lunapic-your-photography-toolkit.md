@@ -1,7 +1,7 @@
 ---
 title: "\"First Steps in LunaPic  Your Photography Toolkit\""
-date: 2024-05-24T04:44:32.305Z
-updated: 2024-05-25T04:44:32.305Z
+date: 2024-06-27T14:34:34.242Z
+updated: 2024-06-28T14:34:34.242Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes First Steps in LunaPic: Your Photography Toolkit\""
 excerpt: "\"This Article Describes First Steps in LunaPic: Your Photography Toolkit\""
 keywords: "Beginning LunaPic,LunaPic Basics,LunaPic PhotoTool,Start with LunaPic,LunaPic Photography,LunaPic Learn,Initial LunaPic Guide"
-thumbnail: https://www.lifewire.com/thmb/FLJD5zSJHyO6CM8O3adYQ-qViCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/car-heater-blows-cold-56a1050d5f9b58eba4b6b774.jpg
+thumbnail: https://thmb.techidaily.com/a1aef9ac34b30a9b89c44b4090cc093f70a661d81b3d63d1adb081d4443463d3.jpg
 ---
 
 ## First Steps in LunaPic: Your Photography Toolkit

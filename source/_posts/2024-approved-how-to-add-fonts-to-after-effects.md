@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Add Fonts to After Effects?\""
-date: 2024-05-24T03:49:28.375Z
-updated: 2024-05-25T03:49:28.375Z
+date: 2024-06-27T14:34:26.316Z
+updated: 2024-06-28T14:34:26.316Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: How to Add Fonts to After Effects?\""
 excerpt: "\"This Article Describes 2024 Approved: How to Add Fonts to After Effects?\""
 keywords: "AEFontAddition,EffectsFontInstall,AdobeAfterFonts,AFTEREffectsTypeface,TypefaceInAE,FontImportAFXe,ExtendAFEfonts"
-thumbnail: https://www.lifewire.com/thmb/BFOZLRPtmY5Iuc2MJZlceiBaqCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/samsung-un65nu7100fxza-aaa-5b3bf3f1c9e77c00370afe54.jpg
+thumbnail: https://thmb.techidaily.com/3a57b1ddb74892f92e7ea8db98be1fa90b1375e9f535e64688bd677d4ca59d83.jpg
 ---
 
 ## How to Add Fonts to After Effects?

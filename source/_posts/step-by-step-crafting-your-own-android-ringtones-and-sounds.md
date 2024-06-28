@@ -1,7 +1,7 @@
 ---
 title: "\"Step-By-Step  Crafting Your Own Android Ringtones and Sounds\""
-date: 2024-05-24T04:52:20.739Z
-updated: 2024-05-25T04:52:20.739Z
+date: 2024-06-27T14:34:33.031Z
+updated: 2024-06-28T14:34:33.031Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Step-By-Step: Crafting Your Own Android Ringtones and Sounds\""
 excerpt: "\"This Article Describes Step-By-Step: Crafting Your Own Android Ringtones and Sounds\""
 keywords: "\"Canon Time-Lapse Guide,Creating Canon Time-Lapses,Canon Cameras for Time-Lapse,Basic Time-Lapse with Canon,Step-by-Step Canon Timelapse,Time-Lapse Setup Canon Camera,Learn Canon Time-Lapse Technique\""
-thumbnail: https://www.lifewire.com/thmb/KLxIwz4EB-ugDE06kCw6C7FZbyw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1443630224-4e7adb2ce8df439fb47035a652dee4d7.jpg
+thumbnail: https://thmb.techidaily.com/38a10dded96ded9495ccb2173f240c20a69acb6b4b947c6dc175d30ce0f723b9.jpg
 ---
 
 ## Step-By-Step: Crafting Your Own Android Ringtones and Sounds
