@@ -1,7 +1,7 @@
 ---
 title: "\"A Step-by-Step Framework for Iconic Podcast Visuals\""
-date: 2024-05-24T04:59:44.994Z
-updated: 2024-05-25T04:59:44.994Z
+date: 2024-07-06T17:44:23.801Z
+updated: 2024-07-07T17:44:23.801Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes A Step-by-Step Framework for Iconic Podcast Visuals\""
 excerpt: "\"This Article Describes A Step-by-Step Framework for Iconic Podcast Visuals\""
 keywords: "\"Podcast Icon Visuals Guide,Creating Podcast Graphics,Iconic Podcast Imagery Steps,Visual Podcast Branding,Designing Podcast Icons,Podcast Theme Artwork,Step-by-Step Podcast Visuals\""
-thumbnail: https://www.lifewire.com/thmb/QI2Gb6NGfl3-2I8f7b5VEeObmmA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/dead-ipad-5e423adff1aa49f381857b8f10a885f6.jpg
+thumbnail: https://thmb.techidaily.com/bc4e71fa64ffb5cacb645afa1410abd3ad84d4a51ac3139b9a6d52813f47097e.jpg
 ---
 
 ## A Step-by-Step Framework for Iconic Podcast Visuals

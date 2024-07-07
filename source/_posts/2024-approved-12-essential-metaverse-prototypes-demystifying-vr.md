@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  12 Essential Metaverse Prototypes Demystifying VR\""
-date: 2024-05-24T04:48:12.392Z
-updated: 2024-05-25T04:48:12.392Z
+date: 2024-07-06T17:44:25.407Z
+updated: 2024-07-07T17:44:25.407Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: 12 Essential Metaverse Prototypes Demystifying VR\""
 excerpt: "\"This Article Describes 2024 Approved: 12 Essential Metaverse Prototypes Demystifying VR\""
 keywords: "Virtual Reality Prototypes,VR Fundamentals,Metaverse Designs,Metaverse Concepts,Essential VR Experience,Demystifying VR Tech,VR Development Starts"
-thumbnail: https://www.lifewire.com/thmb/sVGkEbiFDip9BtkN-YUciN9QN0Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Internet-Explorer-56a6c3ec3df78cf7728fee70.png
+thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e7739a5c0ead2c07ab91e735b6.png
 ---
 
 ## 12 Essential Metaverse Prototypes Demystifying VR

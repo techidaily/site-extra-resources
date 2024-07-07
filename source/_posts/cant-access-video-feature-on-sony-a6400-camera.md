@@ -1,7 +1,7 @@
 ---
 title: "Can't Access Video Feature on Sony A6400 Camera"
-date: 2024-05-24T03:30:27.657Z
-updated: 2024-05-25T03:30:27.657Z
+date: 2024-07-06T17:44:31.417Z
+updated: 2024-07-07T17:44:31.417Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Can't Access Video Feature on Sony A6400 Camera"
 excerpt: "This Article Describes Can't Access Video Feature on Sony A6400 Camera"
 keywords: "Sony A6400 Video Issue,Sony A6400 Playback Error,A6400 Video Access Blocked,Access Sony A6400 Camera Vid,Sony A6400 Video Not Working,Fix Sony A6400 Video Problem,Stop Sony A6400 Video Function Block"
-thumbnail: https://www.lifewire.com/thmb/cf50_JsD2-O_A4uNcst4eqHKyC4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/fullscreenopen-b2ead701237e4e49ad80f4de91bd5be5.jpeg
+thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973ecd1f3c8cd4da92e1845552.jpeg
 ---
 
 ## Can't Access Video Feature on Sony A6400 Camera

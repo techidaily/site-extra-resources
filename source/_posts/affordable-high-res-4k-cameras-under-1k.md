@@ -1,7 +1,7 @@
 ---
 title: "\"Affordable High-Res 4K Cameras Under $1K\""
-date: 2024-05-24T04:47:27.961Z
-updated: 2024-05-25T04:47:27.961Z
+date: 2024-07-06T17:44:33.328Z
+updated: 2024-07-07T17:44:33.328Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Affordable High-Res 4K Cameras Under $1K\""
 excerpt: "\"This Article Describes Affordable High-Res 4K Cameras Under $1K\""
 keywords: "\"Budget 4K Cams,Cheap 4K Video Gear,Low Cost 4K Cam,Sub-$1K High-Res Cams,Economic 4K Cameras,Affordable 4K DSLRs,Inexpensive 4K Lenses\""
-thumbnail: https://www.lifewire.com/thmb/jrn7_BTEPTdtz7gSdR5aQaRAIJ0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/driver-talent-14b6a9323ae0429e9aa875ed363d5802.png
+thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620b0dde812294a010c625a831.png
 ---
 
 ## Affordable High-Res 4K Cameras Under $1K

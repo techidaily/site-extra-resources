@@ -1,7 +1,7 @@
 ---
 title: "\"All-Round Kinetics Examination 2023 for 2024\""
-date: 2024-05-24T04:21:32.823Z
-updated: 2024-05-25T04:21:32.823Z
+date: 2024-07-06T17:44:26.162Z
+updated: 2024-07-07T17:44:26.162Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes All-Round Kinetics Examination 2023 for 2024\""
 excerpt: "\"This Article Describes All-Round Kinetics Examination 2023 for 2024\""
 keywords: "\"Kinetic Assessment '23,Full Body Dynamics Test,Comprehensive Motion Eval,Total Movement Analysis,Complete Kinetics Exam,Multi-Faceted Mobility Review,Holistic Kinetics Inspection\""
-thumbnail: https://www.lifewire.com/thmb/vIq8aJ1XOE0Q97nXhFUuoQCZpKI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-s-free-streaming-movies-and-tv-shows-1357439-ddbc3cf482e24a539c67009c07310ae1.png
+thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png
 ---
 
 ## All-Round Kinetics Examination 2023

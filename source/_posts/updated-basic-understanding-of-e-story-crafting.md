@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Basic Understanding of E-Story Crafting\""
-date: 2024-05-24T04:26:26.287Z
-updated: 2024-05-25T04:26:26.287Z
+date: 2024-07-06T17:44:30.231Z
+updated: 2024-07-07T17:44:30.231Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Basic Understanding of E-Story Crafting\""
 excerpt: "\"This Article Describes [Updated] Basic Understanding of E-Story Crafting\""
 keywords: "\"Story Craft Basics,E-Story Creation,Digital Tale Building,Writing Online Stories,E-Literature Fundamentals,Web Narrative Skills,Electronic Storytelling 101\""
-thumbnail: https://www.lifewire.com/thmb/R3lz9sqjFIJ8bsy-_L1OGfmqrMI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/tpmslightcomeson-59daaa4a68e1a20010dc0c97.jpg
+thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e244585454342ca9de98074a9b.jpg
 ---
 
 ## Basic Understanding of E-Story Crafting

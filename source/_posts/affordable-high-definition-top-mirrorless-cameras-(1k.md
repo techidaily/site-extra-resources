@@ -1,7 +1,7 @@
 ---
 title: "\"Affordable High-Definition  Top Mirrorless Cameras (<$1K)\""
-date: 2024-05-24T03:51:45.948Z
-updated: 2024-05-25T03:51:45.948Z
+date: 2024-07-06T17:44:25.755Z
+updated: 2024-07-07T17:44:25.755Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Affordable High-Definition: Top Mirrorless Cameras (<$1K)\""
 excerpt: "\"This Article Describes Affordable High-Definition: Top Mirrorless Cameras (<$1K)\""
 keywords: "\"Budget HD Cameras,Low-Cost HDR,Cheap HD Mirrors,Affordable HDSLR,Economy High-Def,Cost-Effective HDMP,Inexpensive HD Mirrorless\""
-thumbnail: https://www.lifewire.com/thmb/hM2M1LxRHZ_MoNKX2FHpkzmfRAQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/pope-francis-delivers-urbi-et-orbi-blessing-during-easter-mass-in-st-peter-s-square-485740869-57d398e53df78c5833492a26.jpg
+thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811cafc15697aa0c13fd607a950.jpg
 ---
 
 ## Affordable High-Definition: Top Mirrorless Cameras (<$1K)

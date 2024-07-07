@@ -1,7 +1,7 @@
 ---
 title: "Blending Pictures Into a Single Storyboard Image"
-date: 2024-05-24T04:38:12.209Z
-updated: 2024-05-25T04:38:12.209Z
+date: 2024-07-06T17:44:26.446Z
+updated: 2024-07-07T17:44:26.446Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Blending Pictures Into a Single Storyboard Image"
 excerpt: "This Article Describes Blending Pictures Into a Single Storyboard Image"
 keywords: "Storyboard Blend Images,Image Fusion Storyboard,Combine Photo Storyboards,Storyboard Merge Technique,Picture Integration Storyboard,Seamless Image Layouts,Unified Image Storyboarding"
-thumbnail: https://www.lifewire.com/thmb/uGL_cxagWeL-KdMh5UNKTH_qVt4=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/amazon-prime-day-is-just-16-days-away---here-s-what-you-need-to-know-76d8205ed9e54da1ae0c0d0ec5d883e7
+thumbnail: https://thmb.techidaily.com/c6ca3bbb7e361d13998afa0471cd44f8ca13a46aad1261c352146477c64ee7d5
 ---
 
 ## Blending Pictures Into a Single Storyboard Image

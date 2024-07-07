@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Analyzing Hero5 Black & Yi 4K Cameras for Modern Adventurers"
-date: 2024-05-24T05:52:44.810Z
-updated: 2024-05-25T05:52:44.810Z
+date: 2024-07-06T17:44:34.327Z
+updated: 2024-07-07T17:44:34.327Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Analyzing Hero5 Black & Yi 4K Cameras for Modern Adventurers"
 excerpt: "This Article Describes [Updated] Analyzing Hero5 Black & Yi 4K Cameras for Modern Adventurers"
 keywords: "Hero5 HD Cam,YI4K ActionCam,AdventureHero5,BlackYi4K4K,UltraHD Adventurers,HighRes HikingCam,ExplorersBlackYi4K"
-thumbnail: https://www.lifewire.com/thmb/PoIF2i4NC-hX4aHVoGsJ2JZyBks=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/fixd-5bcf5b80c9e77c00511ac234.jpg
+thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7ceba807afb11ae201e1d4e5.jpg
 ---
 
 ## Analyzing Hero5 Black & Yi 4K Cameras for Modern Adventurers

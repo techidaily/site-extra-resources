@@ -1,7 +1,7 @@
 ---
 title: "\"SnapshotSculptor  Ultimate Photo Mosaic Builder\""
-date: 2024-05-24T04:34:03.477Z
-updated: 2024-05-25T04:34:03.477Z
+date: 2024-07-06T17:44:32.983Z
+updated: 2024-07-07T17:44:32.983Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes SnapshotSculptor: Ultimate Photo Mosaic Builder\""
 excerpt: "\"This Article Describes SnapshotSculptor: Ultimate Photo Mosaic Builder\""
 keywords: "Photo Mosaic Builder,Snapshot Creation,Digital Puzzle Art,Image Tile Designer,Quick Mosaic Maker,Ultimate Photo Collage,Custom Image Assembly"
-thumbnail: https://www.lifewire.com/thmb/2mfMkf9Nh38PrId0xERnppf9iAg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-view-instagram-without-an-account-5271416-505eeceaf0e142ed8674d2ce2244a8be.jpg
+thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1418a5a54e50bbd98af412de.jpg
 ---
 
 ## SnapshotSculptor: Ultimate Photo Mosaic Builder

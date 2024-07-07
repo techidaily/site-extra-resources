@@ -1,7 +1,7 @@
 ---
 title: "How to Use LUTs in Adobe After Effect"
-date: 2024-05-24T04:44:37.278Z
-updated: 2024-05-25T04:44:37.278Z
+date: 2024-07-06T17:44:29.026Z
+updated: 2024-07-07T17:44:29.026Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes How to Use LUTs in Adobe After Effect"
 excerpt: "This Article Describes How to Use LUTs in Adobe After Effect"
 keywords: "LUTs in AE,Adobe LUT Usage,After Effect LUTs Guide,Optimizing Visual Effects with LUTs,Using LUTs for Color Grading,Adobe After Effects LUT Workflow,Efficient Video Editing with LUTs"
-thumbnail: https://www.lifewire.com/thmb/wnN-qVO61jMEVKBE1HStiKTk2xY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-channels-guide-1800-x-0f720f6afeb842c299c88baa42f3bd88.jpg
+thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b5686d5a4ad72e83eea7dc08de2.jpg
 ---
 
 ## How to Use LUTs in Adobe After Effect

@@ -1,7 +1,7 @@
 ---
 title: "\"Snap-Happy with iPhone Burst Mode\""
-date: 2024-05-24T04:24:17.615Z
-updated: 2024-05-25T04:24:17.615Z
+date: 2024-07-06T17:44:25.268Z
+updated: 2024-07-07T17:44:25.268Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Snap-Happy with iPhone Burst Mode\""
 excerpt: "\"This Article Describes Snap-Happy with iPhone Burst Mode\""
 keywords: "IPhone Burst Snap,Apple's Burst Shot,Burst Mode iPhone,Photo Burst With iPhone,IPhone HDR Mode,Quick iPhone Snaps,IPhone Burst Photography"
-thumbnail: https://www.lifewire.com/thmb/MlwaJMBkgv5AdUUFqmutbxLipO8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1224786282-2d9033313a164d34a921f3bbf068ae50.jpg
+thumbnail: https://thmb.techidaily.com/8a7c2713a5a85ee94384e3a403324debf1e357fa3f2637bf212870351e0edf0f.jpg
 ---
 
 ## Snap-Happy with iPhone Burst Mode

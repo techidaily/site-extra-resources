@@ -1,7 +1,7 @@
 ---
 title: "The Art of Simulating Quantum Leaps in Film"
-date: 2024-05-24T05:27:11.242Z
-updated: 2024-05-25T05:27:11.242Z
+date: 2024-07-06T17:44:34.419Z
+updated: 2024-07-07T17:44:34.419Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Art of Simulating Quantum Leaps in Film"
 excerpt: "This Article Describes The Art of Simulating Quantum Leaps in Film"
 keywords: "IntimateFilmMoments,FilmmakingSecrets,CinematicCloseups,EmotionalShotsInFocus,ArtOfCinema,IntimacyOnScreen,PersonalMovieMoments"
-thumbnail: https://www.lifewire.com/thmb/td12YpTj-yP7iyxYOnjHj9dHoA4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/streamfreesportsonline-5b1994178023b900364a81e5.jpg
+thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f71196cdaae4af6176a3b33bf.jpg
 ---
 
 ## The Art of Simulating Quantum Leaps in Film

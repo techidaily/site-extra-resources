@@ -1,7 +1,7 @@
 ---
 title: "\"Rebooting Your Windows Photo Viewer  Two Procedures for W10\""
-date: 2024-05-24T04:38:44.226Z
-updated: 2024-05-25T04:38:44.226Z
+date: 2024-07-06T17:44:30.795Z
+updated: 2024-07-07T17:44:30.795Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Rebooting Your Windows Photo Viewer: Two Procedures for W10\""
 excerpt: "\"This Article Describes Rebooting Your Windows Photo Viewer: Two Procedures for W10\""
 keywords: "Win10 PhotoViewer Update,Windows PhotoViewer Fixes,W10 PhotoViewer Tips,Rebooting W10 PhotoView,ViewerW10 Troubleshooting,Enhancing PhotoViewer W10,Windows 10 Photo Editor Revamp"
-thumbnail: https://www.lifewire.com/thmb/xDM-B4zVSXt5n027L2C5oNwTDN8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AIrendering_CROPPED_Guillaume_GettyImages-1418477818-d0a9c5ce09584a1099f21a5f1f690a88.jpg
+thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304ad9ab12b451e3ff69d2619e.jpg
 ---
 
 ## Rebooting Your Windows Photo Viewer: Two Procedures for W10

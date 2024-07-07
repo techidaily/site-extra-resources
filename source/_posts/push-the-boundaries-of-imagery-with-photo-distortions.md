@@ -1,7 +1,7 @@
 ---
 title: "Push the Boundaries of Imagery with Photo Distortions"
-date: 2024-05-24T03:42:19.876Z
-updated: 2024-05-25T03:42:19.876Z
+date: 2024-07-06T17:44:32.072Z
+updated: 2024-07-07T17:44:32.072Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Push the Boundaries of Imagery with Photo Distortions"
 excerpt: "This Article Describes Push the Boundaries of Imagery with Photo Distortions"
 keywords: "\"Imagery Distortion Art,Creative Photo Warping,Unique Image Altering,Photography Trendsetting,Innovative Photo Bending,Visual Illusions Through Photos,Edge-Enhanced Photographic Techniques\""
-thumbnail: https://www.lifewire.com/thmb/_LD1aIwjdYWyiwfg_uebghNGc94=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/007_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2fad4646e0fb0001ec70ed.jpg
+thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c094ea57055633d7f6bda8cb6.jpg
 ---
 
 ## Push the Boundaries of Imagery with Photo Distortions

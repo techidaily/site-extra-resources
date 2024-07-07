@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Volume Interplay Using Sony Vegas Pro Tips"
-date: 2024-05-24T03:41:51.212Z
-updated: 2024-05-25T03:41:51.212Z
+date: 2024-07-06T17:44:32.967Z
+updated: 2024-07-07T17:44:32.967Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Dynamic Volume Interplay Using Sony Vegas Pro Tips"
 excerpt: "This Article Describes Dynamic Volume Interplay Using Sony Vegas Pro Tips"
 keywords: "Sony Vegas Volume Tricks,Dynamic Audio Editing,Vegas Pro Sound Dynamics,Video Music Mix Techniques,Sonic Volume Manipulation,Professional Vegas Audio Adjustments,Advanced Vegas Volume Controls"
-thumbnail: https://www.lifewire.com/thmb/tcMLO57wxuHRFmpcmCHAcKi-0CA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/rawpixel-1091104-unsplash-5c730c92cff47e0001b1e347.jpg
+thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c27750a5c3c9cc5c0ae68538.jpg
 ---
 
 ## Dynamic Volume Interplay Using Sony Vegas Pro Tips

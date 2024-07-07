@@ -1,7 +1,7 @@
 ---
 title: "\"From Doodles to Success  Your Guide to a Flourishing Design Career\""
-date: 2024-05-24T03:21:19.289Z
-updated: 2024-05-25T03:21:19.289Z
+date: 2024-07-06T17:44:29.955Z
+updated: 2024-07-07T17:44:29.955Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes From Doodles to Success: Your Guide to a Flourishing Design Career\""
 excerpt: "\"This Article Describes From Doodles to Success: Your Guide to a Flourishing Design Career\""
 keywords: "Design Success Path,Career in Design,Flourish in Graphic,Artist to Entrepreneur,Skillset for Designers,Growing as a Designer,Doodle to Professional"
-thumbnail: https://www.lifewire.com/thmb/WSLZcqxwmXkq850tQOgpRjODDjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/football-referee-signaling-touchdown-in-stadium-599944339-5a84cb9e875db900367df025.jpg
+thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b85a4b94012ab008856dbcd1d.jpg
 ---
 
 ## From Doodles to Success: Your Guide to a Flourishing Design Career

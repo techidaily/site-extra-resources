@@ -1,7 +1,7 @@
 ---
 title: "The Sky's the Limit with Husqvarna's X4 Drone"
-date: 2024-05-24T04:21:05.723Z
-updated: 2024-05-25T04:21:05.723Z
+date: 2024-07-06T17:44:27.217Z
+updated: 2024-07-07T17:44:27.217Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Sky's the Limit with Husqvarna's X4 Drone"
 excerpt: "This Article Describes The Sky's the Limit with Husqvarna's X4 Drone"
 keywords: "Husqvarna X4 Drones,Sky Drone Flight,Limitless Droning Skies,Husqvarna High Altitude,Aerial Photography X4,Innovative Droning Tech,Expanded Horizon with Drone"
-thumbnail: https://www.lifewire.com/thmb/9-8N1hD2MYqTcjuzb69k4fYxXsk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-469187056-57cdf0a45f9b5829f4457c9a.jpg
+thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e202aee43a31b71787185171a.jpg
 ---
 
 ## The Sky's the Limit with Husqvarna's X4 Drone

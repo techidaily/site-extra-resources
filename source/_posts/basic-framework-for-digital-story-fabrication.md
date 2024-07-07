@@ -1,7 +1,7 @@
 ---
 title: "Basic Framework for Digital Story Fabrication"
-date: 2024-05-24T04:51:39.069Z
-updated: 2024-05-25T04:51:39.069Z
+date: 2024-07-06T17:44:34.553Z
+updated: 2024-07-07T17:44:34.553Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Basic Framework for Digital Story Fabrication"
 excerpt: "This Article Describes Basic Framework for Digital Story Fabrication"
 keywords: "Digital Story Design,Frame Digital Narrative,Storytelling Framework,Design Fabrication Basics,Digital Narratives Craft,Digital Storymaking Toolkit,Fabricating Stories Digitally"
-thumbnail: https://www.lifewire.com/thmb/d9lJRl6RYaLlK-VFLlHiI4bbn1o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-halloween-live-wallpaper-for-2019-4691483-019a40e91504436ca9fc9f1944d89c15.jpg
+thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c30695c76166aa925348b0ff1b74.jpg
 ---
 
 ## Basic Framework for Digital Story Fabrication

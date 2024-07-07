@@ -1,7 +1,7 @@
 ---
 title: "Selective Sharpening Tips for Modern Image Editors"
-date: 2024-05-24T04:29:05.904Z
-updated: 2024-05-25T04:29:05.904Z
+date: 2024-07-06T17:44:24.193Z
+updated: 2024-07-07T17:44:24.193Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Selective Sharpening Tips for Modern Image Editors"
 excerpt: "This Article Describes Selective Sharpening Tips for Modern Image Editors"
 keywords: "Sharp Img Edits,Selective Enhance,Modern Photo Sharpen,Image Editor Techniques,Focus Sharpening Tips,Pixel Perfection Guide,Editors' Sharpen Tricks"
-thumbnail: https://www.lifewire.com/thmb/-RQqNVzP345-03YaY2S-iOctUFs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-watch-mad-max-movies-in-order-c7af6d3dcb0c4d329e9c0e5775e9fc1d.jpg
+thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c763bbf782b71c474fcdd45b6.jpg
 ---
 
 ## Selective Sharpening Tips for Modern Image Editors

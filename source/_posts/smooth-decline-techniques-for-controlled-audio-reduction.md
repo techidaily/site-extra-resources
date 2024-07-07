@@ -1,7 +1,7 @@
 ---
 title: "Smooth Decline Techniques for Controlled Audio Reduction"
-date: 2024-05-24T04:16:13.171Z
-updated: 2024-05-25T04:16:13.171Z
+date: 2024-07-06T17:44:32.419Z
+updated: 2024-07-07T17:44:32.419Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Smooth Decline Techniques for Controlled Audio Reduction"
 excerpt: "This Article Describes Smooth Decline Techniques for Controlled Audio Reduction"
 keywords: "Sound Ease Methods,Tactile Volume Cut,Smooth Fade Art,Gentle Audio Drop,Soft Decline Audiomix,Mellow Reduce Music,Subtle Sound Diminish"
-thumbnail: https://www.lifewire.com/thmb/ZxVz3on7lqegyGY9rZJkS_PLOK0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/DirecTVdownIsTheServiceDown-8ae14322bf344d6fac8f78f2bfc6418d.JPG
+thumbnail: https://thmb.techidaily.com/1382e80fe89cdc85e3f86df652866f8b806d3041c2bfdfcea85ed48c584b9f54.JPG
 ---
 
 ## Smooth Decline Techniques for Controlled Audio Reduction

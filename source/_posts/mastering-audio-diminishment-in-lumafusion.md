@@ -1,7 +1,7 @@
 ---
 title: "Mastering Audio Diminishment in Lumafusion"
-date: 2024-05-24T04:47:45.467Z
-updated: 2024-05-25T04:47:45.467Z
+date: 2024-07-06T17:44:30.133Z
+updated: 2024-07-07T17:44:30.133Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Mastering Audio Diminishment in Lumafusion"
 excerpt: "This Article Describes Mastering Audio Diminishment in Lumafusion"
 keywords: "\"Fusion Audio Mastery,Audio Diminish Tactics,Master Audio Techniques,Reduce Audio Levels,Effective Audio Cutting,Lumafusion Sound Control,High-Quality Audio Editing\""
-thumbnail: https://www.lifewire.com/thmb/UaLSpJl8QxtWbAcZLNsMKB_EXxg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-155159821-8881bead1d894a0b95bca3c3e288ff54.jpg
+thumbnail: https://thmb.techidaily.com/a6de986a3fdb94c7142abb7e1738397c8994a30f493de897d20f957481bc1b83.jpg
 ---
 
 ## Mastering Audio Diminishment in Lumafusion

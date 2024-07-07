@@ -1,7 +1,7 @@
 ---
 title: "[New] Breaking Down Color Grading Into Simplified Steps"
-date: 2024-05-24T03:24:00.648Z
-updated: 2024-05-25T03:24:00.648Z
+date: 2024-07-06T17:44:35.197Z
+updated: 2024-07-07T17:44:35.197Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Breaking Down Color Grading Into Simplified Steps"
 excerpt: "This Article Describes [New] Breaking Down Color Grading Into Simplified Steps"
 keywords: "\"Color Grading Basics,Simple Grading Guide,Step-by-Step Grading,Grading Techniques Easy,Video on Grading Simplicity,Grad Coding Simplified,Editing Grades Essential\""
-thumbnail: https://www.lifewire.com/thmb/Gkr3gE8eLg0SUe5WeaWd97Kesj8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/BlondyBaruti-050621-024RTMini-c837c508205440e7926b69bad55754c0.jpg
+thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da9177082545009c2bddd22992fae44fc.jpg
 ---
 
 ## Breaking Down Color Grading Into Simplified Steps

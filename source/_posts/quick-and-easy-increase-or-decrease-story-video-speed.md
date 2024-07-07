@@ -1,7 +1,7 @@
 ---
 title: "\"Quick and Easy  Increase or Decrease Story Video Speed\""
-date: 2024-05-24T03:15:02.142Z
-updated: 2024-05-25T03:15:02.142Z
+date: 2024-07-06T17:44:24.467Z
+updated: 2024-07-07T17:44:24.467Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Quick and Easy: Increase or Decrease Story Video Speed\""
 excerpt: "\"This Article Describes Quick and Easy: Increase or Decrease Story Video Speed\""
 keywords: "Fast Video Speed Control,Adjust Storytelling Pace,Video Speed Alteration,Quick Video Editing,Speeding up Video Narrative,Slowing Down Story Video,Video Tempo Adjustment"
-thumbnail: https://www.lifewire.com/thmb/-13rMvdkURwR3PaoUhxB_pOt-MM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/iPad-vs-iPad-Air-b2422f32687d4fab97c8e04f395b63e2.jpg
+thumbnail: https://thmb.techidaily.com/a1972899444c7fd6c447adfaf7d10b9ab8c7ebd024be2fc74b2760fa4d84aacb.jpg
 ---
 
 ## Quick and Easy: Increase or Decrease Story Video Speed

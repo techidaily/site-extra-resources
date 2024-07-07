@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Background Excision Tool Affinity Photo"
-date: 2024-05-24T04:40:49.972Z
-updated: 2024-05-25T04:40:49.972Z
+date: 2024-07-06T17:44:35.517Z
+updated: 2024-07-07T17:44:35.517Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Background Excision Tool Affinity Photo"
 excerpt: "This Article Describes [Updated] Background Excision Tool Affinity Photo"
 keywords: "ZeroErase PhotoPro,BackgroundFreePhotoTech,PrecisionImageCleanup,EraseWithoutBackground,PhotoPurityTools,SharpEditsNoBg,ClearPhotosZeroBack"
-thumbnail: https://www.lifewire.com/thmb/aqzoJvuc7HUCTQdUzpa5GXlHCac=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Mini-Splash-ef002ffe8db643d2a2b4de772ff46790.jpg
+thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425a670680d043fc15ab445500.jpg
 ---
 
 ## Background Excision Tool Affinity Photo
@@ -30,7 +30,7 @@ Affinity Photo is a simple and easy-to-use editing software, and you can remove 
 
 To erase a white background in Affinity Designer, do these steps:
 
-Step1 In the first step, install the [Affinity Designer](https://affinity.serif.com/en-us/designer/)software and launch it on your computer. Go to **"File" > "Open"** and head to the location of your image with a white background on your drive to import it.
+Step1 In the first step, install the [Affinity Designer](https://affinity.serif.com/en-us/designer/) software and launch it on your computer. Go to **"File" > "Open"** and head to the location of your image with a white background on your drive to import it.
 
 Now access the **Pixel Persona** section in the left corner of the software screen by clicking the **colored boxes** icon.
 
@@ -89,7 +89,7 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
 
-Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
+Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by [Wondershare Technology.](https://www.wondershare.com/)
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
@@ -123,7 +123,7 @@ Hopefully, this article and video can help you create ideal images!
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
 
-Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
+Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by [Wondershare Technology.](https://www.wondershare.com/)
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 

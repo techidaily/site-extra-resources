@@ -1,7 +1,7 @@
 ---
 title: "\"Titling Techniques  An After Effects Perspective\""
-date: 2024-05-24T05:19:08.066Z
-updated: 2024-05-25T05:19:08.066Z
+date: 2024-07-06T17:44:25.291Z
+updated: 2024-07-07T17:44:25.291Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Titling Techniques: An After Effects Perspective\""
 excerpt: "\"This Article Describes Titling Techniques: An After Effects Perspective\""
 keywords: "AE Titling Methods,After Effects Title Design,Creative Titles in AF,AE Graphic Titles,Typography in AE Titling,Animated Titles in AF,AF Title Techniques"
-thumbnail: https://www.lifewire.com/thmb/jBnabVblnU-pVzdwjWgW35QXhjQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/PreetAnand-4c9eb5ff333041e2a6a25710d87b4a34.png
+thumbnail: https://thmb.techidaily.com/6af9f284b317fd0fc6915e0019f4adbc9dd81ab605d1c55ebd68e10c11778128.png
 ---
 
 ## Titling Techniques: An After Effects Perspective

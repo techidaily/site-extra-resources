@@ -1,7 +1,7 @@
 ---
 title: "Feathered Salsa Dancer"
-date: 2024-05-24T03:45:17.866Z
-updated: 2024-05-25T03:45:17.866Z
+date: 2024-07-06T17:44:31.029Z
+updated: 2024-07-07T17:44:31.029Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Feathered Salsa Dancer"
 excerpt: "This Article Describes Feathered Salsa Dancer"
 keywords: "\"Feathered Dance Salsa,Salsa Feathered Flair,Feathered Latin Duel,Bold Feathered Salsa,Artistic Feathered Tango,Elegant Feathered Zapateado,Graceful Feathered Cha-Cha\""
-thumbnail: https://www.lifewire.com/thmb/AOVQTNyOWIZPYiKZehcoYQS3DNU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-820926684-5c7747ebc45847708ac311b709bdc1f2.jpg
+thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343ebf5ad117060d9466fac18ee3.jpg
 ---
 
 ## Feathered Salsa Dancer

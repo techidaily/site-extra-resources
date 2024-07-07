@@ -1,7 +1,7 @@
 ---
 title: "\"Hours to Gigabytes  A Guide for Filmmakers\""
-date: 2024-05-24T05:33:20.411Z
-updated: 2024-05-25T05:33:20.411Z
+date: 2024-07-06T17:44:32.865Z
+updated: 2024-07-07T17:44:32.865Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Hours to Gigabytes: A Guide for Filmmakers\""
 excerpt: "\"This Article Describes Hours to Gigabytes: A Guide for Filmmakers\""
 keywords: "\"Film Making Data Conversion,Hour-GB Guide Film Pros,GB in Film Shooting Time,Shot Timing to Gigabytes,Filmmaker Storage Guidelines,Media Size Conversion for Films,Cinematography: Hours to GB\""
-thumbnail: https://www.lifewire.com/thmb/GbVFfsw-VqZ6h_An8ml2L5jKFLc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/google-meet-loading-3ac4fea9077e459c8637ff545365d673.png
+thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b12482bc1fecd3d439c888dea97.png
 ---
 
 ## Hours to Gigabytes: A Guide for Filmmakers

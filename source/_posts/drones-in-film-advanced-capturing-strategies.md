@@ -1,7 +1,7 @@
 ---
 title: "\"Drones in Film  Advanced Capturing Strategies\""
-date: 2024-05-24T05:23:16.426Z
-updated: 2024-05-25T05:23:16.426Z
+date: 2024-07-06T17:44:24.976Z
+updated: 2024-07-07T17:44:24.976Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Drones in Film: Advanced Capturing Strategies\""
 excerpt: "\"This Article Describes Drones in Film: Advanced Capturing Strategies\""
 keywords: "Drone Filmmaking,Aerial Cinematography,Drones in Media,Film Capture Tech,ProDrones Film,Advanced Drone Shots,Strategic Drone Use"
-thumbnail: https://www.lifewire.com/thmb/BEu1dTImTgj-gj19IMN4njOxWDE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/set-top-dvr-1130767-f2aa7f11e3d2442b966d53b8aa2d25fd.png
+thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f7257579ffa960f9e7a085032e4b04.png
 ---
 
 ## Drones in Film: Advanced Capturing Strategies

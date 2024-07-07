@@ -1,7 +1,7 @@
 ---
 title: "[New] Creating a Personalized Google Cardboard VR Setup"
-date: 2024-05-24T04:22:01.165Z
-updated: 2024-05-25T04:22:01.165Z
+date: 2024-07-06T17:44:23.818Z
+updated: 2024-07-07T17:44:23.818Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Creating a Personalized Google Cardboard VR Setup"
 excerpt: "This Article Describes [New] Creating a Personalized Google Cardboard VR Setup"
 keywords: "\"Custom VR Glasses Setup,DIY VR Headgear,Personalized VR Experience,VR for Beginners,Home-Made Google Cardboard,Build Your Own VR Kit,Tailored Cardboard Viewing\""
-thumbnail: https://www.lifewire.com/thmb/21o2y5NdnwK9g8j7z_eUWi12JAw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-504331578-cheering-football-on-tv-5a231ffdaad52b00372ae2a6.jpg
+thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde2fed4f7c2aee477f6b93402.jpg
 ---
 
 ## Creating a Personalized Google Cardboard VR Setup
@@ -34,7 +34,7 @@ thumbnail: https://www.lifewire.com/thmb/21o2y5NdnwK9g8j7z_eUWi12JAw=/400x300/fi
 
 ### 1.The accessories you will need
 
-* PDF file of [Google cardboard](https://vr.google.com/intl/en%5Fus/cardboard/get-cardboard/  )
+* PDF file of [Google cardboard](https://vr.google.com/intl/en%5Fus/cardboard/get-cardboard/)
 * At least two cardboards
 * lenses
 * magnets
@@ -48,7 +48,7 @@ thumbnail: https://www.lifewire.com/thmb/21o2y5NdnwK9g8j7z_eUWi12JAw=/400x300/fi
 
 ### 2.How to assemble accessories
 
-* Download the compressed [template folder from Google](https://vr.google.com/intl/en%5Fus/cardboard/get-cardboard/  ).
+* Download the compressed [template folder from Google](https://vr.google.com/intl/en%5Fus/cardboard/get-cardboard/).
 * Print the design files you want.
 * Cut the design and glue it on the cardboard.
 * Assemble the Google cardboard.
@@ -95,7 +95,7 @@ Follow @Benjamin Arango
 
 ### 1.The accessories you will need
 
-* PDF file of [Google cardboard](https://vr.google.com/intl/en%5Fus/cardboard/get-cardboard/  )
+* PDF file of [Google cardboard](https://vr.google.com/intl/en%5Fus/cardboard/get-cardboard/)
 * At least two cardboards
 * lenses
 * magnets
@@ -109,7 +109,7 @@ Follow @Benjamin Arango
 
 ### 2.How to assemble accessories
 
-* Download the compressed [template folder from Google](https://vr.google.com/intl/en%5Fus/cardboard/get-cardboard/  ).
+* Download the compressed [template folder from Google](https://vr.google.com/intl/en%5Fus/cardboard/get-cardboard/).
 * Print the design files you want.
 * Cut the design and glue it on the cardboard.
 * Assemble the Google cardboard.
@@ -156,7 +156,7 @@ Follow @Benjamin Arango
 
 ### 1.The accessories you will need
 
-* PDF file of [Google cardboard](https://vr.google.com/intl/en%5Fus/cardboard/get-cardboard/  )
+* PDF file of [Google cardboard](https://vr.google.com/intl/en%5Fus/cardboard/get-cardboard/)
 * At least two cardboards
 * lenses
 * magnets
@@ -170,7 +170,7 @@ Follow @Benjamin Arango
 
 ### 2.How to assemble accessories
 
-* Download the compressed [template folder from Google](https://vr.google.com/intl/en%5Fus/cardboard/get-cardboard/  ).
+* Download the compressed [template folder from Google](https://vr.google.com/intl/en%5Fus/cardboard/get-cardboard/).
 * Print the design files you want.
 * Cut the design and glue it on the cardboard.
 * Assemble the Google cardboard.
@@ -217,7 +217,7 @@ Follow @Benjamin Arango
 
 ### 1.The accessories you will need
 
-* PDF file of [Google cardboard](https://vr.google.com/intl/en%5Fus/cardboard/get-cardboard/  )
+* PDF file of [Google cardboard](https://vr.google.com/intl/en%5Fus/cardboard/get-cardboard/)
 * At least two cardboards
 * lenses
 * magnets
@@ -231,7 +231,7 @@ Follow @Benjamin Arango
 
 ### 2.How to assemble accessories
 
-* Download the compressed [template folder from Google](https://vr.google.com/intl/en%5Fus/cardboard/get-cardboard/  ).
+* Download the compressed [template folder from Google](https://vr.google.com/intl/en%5Fus/cardboard/get-cardboard/).
 * Print the design files you want.
 * Cut the design and glue it on the cardboard.
 * Assemble the Google cardboard.

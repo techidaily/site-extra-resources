@@ -1,7 +1,7 @@
 ---
 title: "In 2024, 8 Best Drawing Apps for iPhones"
-date: 2024-05-24T05:07:03.518Z
-updated: 2024-05-25T05:07:03.518Z
+date: 2024-07-06T17:44:26.278Z
+updated: 2024-07-07T17:44:26.278Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, 8 Best Drawing Apps for iPhones"
 excerpt: "This Article Describes In 2024, 8 Best Drawing Apps for iPhones"
 keywords: "IPhone Drawing Tips,Top iPhone Pencil Art,Leading iOS Draw Tools,Ultimate iPhone Sketches,Best Free Draw Apps (iPhone),Prime iPadillion Drawing,Excellent Drawing Phones"
-thumbnail: https://www.lifewire.com/thmb/w_GV57P4r5qdCqIJ7X3yV9UrMPo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/disk-drill-windows-11-f02a6492ea74401d8dda41db93a4201e.png
+thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c4dc2f3157ebd6066028a057.png
 ---
 
 ## 8 Best Drawing Apps for iPhones
@@ -38,7 +38,7 @@ The number of available brushes, layering options, or support for vector graphic
 
 **Price:** Free, but offers in-app purchases
 
-![ Adobe Photoshop Sketch Drawing App](https://images.wondershare.com/filmora/article-images/adobe-photoshop-sketch-drawing-app.jpg)
+![Adobe Photoshop Sketch Drawing App](https://images.wondershare.com/filmora/article-images/adobe-photoshop-sketch-drawing-app.jpg)
 
 Like all other Adobe’s products, Adobe Photoshop Sketch is capable of great performances. The app is equipped with the famous Adobe’s brush engine and it features 24 built-in brushes. You can customize the size, opacity, blending options, or color for each brush you pick, while you can also import brushes from Photoshop.
 
@@ -46,17 +46,17 @@ The app doesn’t limit the number of layers you can create and it lets you comb
 
 However, Adobe Photoshop Sketch was discontinued for iOS and Android and are no longer available for download, from July 19th, 2021\. You can have a look at the following apps.
 
-### 2. [Tayasui Sketches App](https://apps.apple.com/us/app/tayasui-sketches/id641900855)
+### 2. Tayasui Sketches App
 
 **Price:** Free, but offers in-app purchases
 
-![ Tayasui Sketches App](https://images.wondershare.com/filmora/article-images/tayasui-sketches-drawing-app.jpg)
+![Tayasui Sketches App](https://images.wondershare.com/filmora/article-images/tayasui-sketches-drawing-app.jpg)
 
 The long list of tools Tayasui Sketches App offers includes a broad range of wet brushes, oil pastels, or a felt pen, to mention a few. A ruler and a smudge tool are also available which enables you to correct your mistakes quickly or create geometric drawings. The app features a brush editor that lets you customize each brush in accordance with your current needs.
 
 Creating layers with Tayasui Sketch App is easy and you can export layers as transparent PNG files or import PSD files into the app. All strokes you make with Wacom, Apple or Adonit styluses adapt to the width, pressure, and angle of your movements. The free version of the app offers only limited options and you must upgrade to the Pro version if you want to use the app on a daily basis.
 
-### 3. [Paper by WeTransfer](https://apps.apple.com/us/app/paper-by-wetransfer/id506003812)
+### 3. Paper by WeTransfer
 
 **Price:** Free, but offers in-app-purchases
 
@@ -68,7 +68,7 @@ In addition, this iOS app offers assistance to inexperienced digital artists thr
 
 Also, Paper by WeTranfer features an impressive font collection so that you can easily incorporate textual elements into your drawings and paintings. Purchasing Paper Pro may be necessary if you want to use the app for professional purposes.
 
-### 4. [Sketch Club](https://apps.apple.com/us/app/sketch-club/id404414176)
+### 4. Sketch Club
 
 **Price:** $2.99
 
@@ -78,7 +78,7 @@ Besides being a powerful drawing app, Sketch Club is also a community of talente
 
 The app offers vector tools as well as thousands of tool presets that are shared by the community, which means that you can design, draw, or paint almost anything. All images you produce with Sketch Club can be exported to Dropbox, iCloud or you can send them to your friends and clients via email.
 
-### 5. [Procreate Pocket](https://apps.apple.com/us/app/procreate-pocket/id916366645)
+### 5. Procreate Pocket
 
 **Price:** $4.99
 
@@ -88,7 +88,7 @@ A brief look at the Procreate Pocket’s list of features will make you wonder i
 
 The app is equipped with 3D Touch technology designed for pressure-sensitive painting, while its Silica M painting engine eliminates lagging. Procreate Pocket has an advanced layer system that includes clipping and layer masks that enable non-destructive editing. In addition, you can create vector text or use Isometric, Symmetry, 2D, and Perspective visual guidelines. However, the app is optimized for iPhone X and it may not work as smoothly on other versions of the iPhone.
 
-### 6. [iColorama S – Photo Editor and Brush Painter](https://apps.apple.com/us/app/icolorama-s/id518522388)
+### 6. iColorama S – Photo Editor and Brush Painter
 
 **Price:** $4.99
 
@@ -98,7 +98,7 @@ Although iColorama S is primarily a photo editing app, you can still use it to c
 
 There are over three hundred effects to choose from and each of them can be applied to a photo in just a few taps. Moreover, all effects are fully customizable so that you can choose their intensity or adjust other settings. Despite being a [well-rounded photo editor](https://tools.techidaily.com/wondershare/filmora/download/) and brush painter iColorama S lacks some essential features other drawing apps for iPhones offer.
 
-### 7. [Autodesk SketchBook](https://apps.apple.com/us/app/autodesk-sketchbook/id883738213)
+### 7. Autodesk SketchBook
 
 **Price:** Free
 
@@ -108,11 +108,11 @@ In addition to being one of the best drawing apps for the professional artist, A
 
 There are 190 fully customizable built-in brushes to choose from in the app’s brush library, while the ruler and eclipse tools ensure that you can find the best position for each object you draw on the canvas. Autodesk SketchBook is compatible with the second generation of the Apple Pencil and it supports the double-tap functionality. Currently, you cannot scan sketches from an iPhone.
 
-### 8. [Clip Studio Paint for iPhone](https://apps.apple.com/us/app/clip-studio-paint-for-iphone/id1483037022)
+### 8. Clip Studio Paint for iPhone
 
 **Price:** Free, but offers in-app purchases
 
-![Clip Studio Paint for iPhone ](https://images.wondershare.com/filmora/article-images/clip-studio-paint-for-iphone-draw-paint-app.jpg)
+![Clip Studio Paint for iPhone](https://images.wondershare.com/filmora/article-images/clip-studio-paint-for-iphone-draw-paint-app.jpg)
 
 Creating a digital drawing or painting with Clip Studio Paint is a fun and intuitive process as this feature-packed app offers everything you need to produce stunning images. You can choose from a broad spectrum of brushes and pens, and pick an airbrush, oil, or watercolor paint style. The app stabilization and correction features help you draw lines as you intended them to be which reduces the need to use the eraser tool.
 
@@ -148,7 +148,7 @@ The number of available brushes, layering options, or support for vector graphic
 
 **Price:** Free, but offers in-app purchases
 
-![ Adobe Photoshop Sketch Drawing App](https://images.wondershare.com/filmora/article-images/adobe-photoshop-sketch-drawing-app.jpg)
+![Adobe Photoshop Sketch Drawing App](https://images.wondershare.com/filmora/article-images/adobe-photoshop-sketch-drawing-app.jpg)
 
 Like all other Adobe’s products, Adobe Photoshop Sketch is capable of great performances. The app is equipped with the famous Adobe’s brush engine and it features 24 built-in brushes. You can customize the size, opacity, blending options, or color for each brush you pick, while you can also import brushes from Photoshop.
 
@@ -156,17 +156,17 @@ The app doesn’t limit the number of layers you can create and it lets you comb
 
 However, Adobe Photoshop Sketch was discontinued for iOS and Android and are no longer available for download, from July 19th, 2021\. You can have a look at the following apps.
 
-### 2. [Tayasui Sketches App](https://apps.apple.com/us/app/tayasui-sketches/id641900855)
+### 2. Tayasui Sketches App
 
 **Price:** Free, but offers in-app purchases
 
-![ Tayasui Sketches App](https://images.wondershare.com/filmora/article-images/tayasui-sketches-drawing-app.jpg)
+![Tayasui Sketches App](https://images.wondershare.com/filmora/article-images/tayasui-sketches-drawing-app.jpg)
 
 The long list of tools Tayasui Sketches App offers includes a broad range of wet brushes, oil pastels, or a felt pen, to mention a few. A ruler and a smudge tool are also available which enables you to correct your mistakes quickly or create geometric drawings. The app features a brush editor that lets you customize each brush in accordance with your current needs.
 
 Creating layers with Tayasui Sketch App is easy and you can export layers as transparent PNG files or import PSD files into the app. All strokes you make with Wacom, Apple or Adonit styluses adapt to the width, pressure, and angle of your movements. The free version of the app offers only limited options and you must upgrade to the Pro version if you want to use the app on a daily basis.
 
-### 3. [Paper by WeTransfer](https://apps.apple.com/us/app/paper-by-wetransfer/id506003812)
+### 3. Paper by WeTransfer
 
 **Price:** Free, but offers in-app-purchases
 
@@ -178,7 +178,7 @@ In addition, this iOS app offers assistance to inexperienced digital artists thr
 
 Also, Paper by WeTranfer features an impressive font collection so that you can easily incorporate textual elements into your drawings and paintings. Purchasing Paper Pro may be necessary if you want to use the app for professional purposes.
 
-### 4. [Sketch Club](https://apps.apple.com/us/app/sketch-club/id404414176)
+### 4. Sketch Club
 
 **Price:** $2.99
 
@@ -188,7 +188,7 @@ Besides being a powerful drawing app, Sketch Club is also a community of talente
 
 The app offers vector tools as well as thousands of tool presets that are shared by the community, which means that you can design, draw, or paint almost anything. All images you produce with Sketch Club can be exported to Dropbox, iCloud or you can send them to your friends and clients via email.
 
-### 5. [Procreate Pocket](https://apps.apple.com/us/app/procreate-pocket/id916366645)
+### 5. Procreate Pocket
 
 **Price:** $4.99
 
@@ -198,7 +198,7 @@ A brief look at the Procreate Pocket’s list of features will make you wonder i
 
 The app is equipped with 3D Touch technology designed for pressure-sensitive painting, while its Silica M painting engine eliminates lagging. Procreate Pocket has an advanced layer system that includes clipping and layer masks that enable non-destructive editing. In addition, you can create vector text or use Isometric, Symmetry, 2D, and Perspective visual guidelines. However, the app is optimized for iPhone X and it may not work as smoothly on other versions of the iPhone.
 
-### 6. [iColorama S – Photo Editor and Brush Painter](https://apps.apple.com/us/app/icolorama-s/id518522388)
+### 6. iColorama S – Photo Editor and Brush Painter
 
 **Price:** $4.99
 
@@ -208,7 +208,7 @@ Although iColorama S is primarily a photo editing app, you can still use it to c
 
 There are over three hundred effects to choose from and each of them can be applied to a photo in just a few taps. Moreover, all effects are fully customizable so that you can choose their intensity or adjust other settings. Despite being a [well-rounded photo editor](https://tools.techidaily.com/wondershare/filmora/download/) and brush painter iColorama S lacks some essential features other drawing apps for iPhones offer.
 
-### 7. [Autodesk SketchBook](https://apps.apple.com/us/app/autodesk-sketchbook/id883738213)
+### 7. Autodesk SketchBook
 
 **Price:** Free
 
@@ -218,11 +218,11 @@ In addition to being one of the best drawing apps for the professional artist, A
 
 There are 190 fully customizable built-in brushes to choose from in the app’s brush library, while the ruler and eclipse tools ensure that you can find the best position for each object you draw on the canvas. Autodesk SketchBook is compatible with the second generation of the Apple Pencil and it supports the double-tap functionality. Currently, you cannot scan sketches from an iPhone.
 
-### 8. [Clip Studio Paint for iPhone](https://apps.apple.com/us/app/clip-studio-paint-for-iphone/id1483037022)
+### 8. Clip Studio Paint for iPhone
 
 **Price:** Free, but offers in-app purchases
 
-![Clip Studio Paint for iPhone ](https://images.wondershare.com/filmora/article-images/clip-studio-paint-for-iphone-draw-paint-app.jpg)
+![Clip Studio Paint for iPhone](https://images.wondershare.com/filmora/article-images/clip-studio-paint-for-iphone-draw-paint-app.jpg)
 
 Creating a digital drawing or painting with Clip Studio Paint is a fun and intuitive process as this feature-packed app offers everything you need to produce stunning images. You can choose from a broad spectrum of brushes and pens, and pick an airbrush, oil, or watercolor paint style. The app stabilization and correction features help you draw lines as you intended them to be which reduces the need to use the eraser tool.
 
@@ -258,7 +258,7 @@ The number of available brushes, layering options, or support for vector graphic
 
 **Price:** Free, but offers in-app purchases
 
-![ Adobe Photoshop Sketch Drawing App](https://images.wondershare.com/filmora/article-images/adobe-photoshop-sketch-drawing-app.jpg)
+![Adobe Photoshop Sketch Drawing App](https://images.wondershare.com/filmora/article-images/adobe-photoshop-sketch-drawing-app.jpg)
 
 Like all other Adobe’s products, Adobe Photoshop Sketch is capable of great performances. The app is equipped with the famous Adobe’s brush engine and it features 24 built-in brushes. You can customize the size, opacity, blending options, or color for each brush you pick, while you can also import brushes from Photoshop.
 
@@ -266,17 +266,17 @@ The app doesn’t limit the number of layers you can create and it lets you comb
 
 However, Adobe Photoshop Sketch was discontinued for iOS and Android and are no longer available for download, from July 19th, 2021\. You can have a look at the following apps.
 
-### 2. [Tayasui Sketches App](https://apps.apple.com/us/app/tayasui-sketches/id641900855)
+### 2. Tayasui Sketches App
 
 **Price:** Free, but offers in-app purchases
 
-![ Tayasui Sketches App](https://images.wondershare.com/filmora/article-images/tayasui-sketches-drawing-app.jpg)
+![Tayasui Sketches App](https://images.wondershare.com/filmora/article-images/tayasui-sketches-drawing-app.jpg)
 
 The long list of tools Tayasui Sketches App offers includes a broad range of wet brushes, oil pastels, or a felt pen, to mention a few. A ruler and a smudge tool are also available which enables you to correct your mistakes quickly or create geometric drawings. The app features a brush editor that lets you customize each brush in accordance with your current needs.
 
 Creating layers with Tayasui Sketch App is easy and you can export layers as transparent PNG files or import PSD files into the app. All strokes you make with Wacom, Apple or Adonit styluses adapt to the width, pressure, and angle of your movements. The free version of the app offers only limited options and you must upgrade to the Pro version if you want to use the app on a daily basis.
 
-### 3. [Paper by WeTransfer](https://apps.apple.com/us/app/paper-by-wetransfer/id506003812)
+### 3. Paper by WeTransfer
 
 **Price:** Free, but offers in-app-purchases
 
@@ -288,7 +288,7 @@ In addition, this iOS app offers assistance to inexperienced digital artists thr
 
 Also, Paper by WeTranfer features an impressive font collection so that you can easily incorporate textual elements into your drawings and paintings. Purchasing Paper Pro may be necessary if you want to use the app for professional purposes.
 
-### 4. [Sketch Club](https://apps.apple.com/us/app/sketch-club/id404414176)
+### 4. Sketch Club
 
 **Price:** $2.99
 
@@ -298,7 +298,7 @@ Besides being a powerful drawing app, Sketch Club is also a community of talente
 
 The app offers vector tools as well as thousands of tool presets that are shared by the community, which means that you can design, draw, or paint almost anything. All images you produce with Sketch Club can be exported to Dropbox, iCloud or you can send them to your friends and clients via email.
 
-### 5. [Procreate Pocket](https://apps.apple.com/us/app/procreate-pocket/id916366645)
+### 5. Procreate Pocket
 
 **Price:** $4.99
 
@@ -308,7 +308,7 @@ A brief look at the Procreate Pocket’s list of features will make you wonder i
 
 The app is equipped with 3D Touch technology designed for pressure-sensitive painting, while its Silica M painting engine eliminates lagging. Procreate Pocket has an advanced layer system that includes clipping and layer masks that enable non-destructive editing. In addition, you can create vector text or use Isometric, Symmetry, 2D, and Perspective visual guidelines. However, the app is optimized for iPhone X and it may not work as smoothly on other versions of the iPhone.
 
-### 6. [iColorama S – Photo Editor and Brush Painter](https://apps.apple.com/us/app/icolorama-s/id518522388)
+### 6. iColorama S – Photo Editor and Brush Painter
 
 **Price:** $4.99
 
@@ -318,7 +318,7 @@ Although iColorama S is primarily a photo editing app, you can still use it to c
 
 There are over three hundred effects to choose from and each of them can be applied to a photo in just a few taps. Moreover, all effects are fully customizable so that you can choose their intensity or adjust other settings. Despite being a [well-rounded photo editor](https://tools.techidaily.com/wondershare/filmora/download/) and brush painter iColorama S lacks some essential features other drawing apps for iPhones offer.
 
-### 7. [Autodesk SketchBook](https://apps.apple.com/us/app/autodesk-sketchbook/id883738213)
+### 7. Autodesk SketchBook
 
 **Price:** Free
 
@@ -328,11 +328,11 @@ In addition to being one of the best drawing apps for the professional artist, A
 
 There are 190 fully customizable built-in brushes to choose from in the app’s brush library, while the ruler and eclipse tools ensure that you can find the best position for each object you draw on the canvas. Autodesk SketchBook is compatible with the second generation of the Apple Pencil and it supports the double-tap functionality. Currently, you cannot scan sketches from an iPhone.
 
-### 8. [Clip Studio Paint for iPhone](https://apps.apple.com/us/app/clip-studio-paint-for-iphone/id1483037022)
+### 8. Clip Studio Paint for iPhone
 
 **Price:** Free, but offers in-app purchases
 
-![Clip Studio Paint for iPhone ](https://images.wondershare.com/filmora/article-images/clip-studio-paint-for-iphone-draw-paint-app.jpg)
+![Clip Studio Paint for iPhone](https://images.wondershare.com/filmora/article-images/clip-studio-paint-for-iphone-draw-paint-app.jpg)
 
 Creating a digital drawing or painting with Clip Studio Paint is a fun and intuitive process as this feature-packed app offers everything you need to produce stunning images. You can choose from a broad spectrum of brushes and pens, and pick an airbrush, oil, or watercolor paint style. The app stabilization and correction features help you draw lines as you intended them to be which reduces the need to use the eraser tool.
 
@@ -368,7 +368,7 @@ The number of available brushes, layering options, or support for vector graphic
 
 **Price:** Free, but offers in-app purchases
 
-![ Adobe Photoshop Sketch Drawing App](https://images.wondershare.com/filmora/article-images/adobe-photoshop-sketch-drawing-app.jpg)
+![Adobe Photoshop Sketch Drawing App](https://images.wondershare.com/filmora/article-images/adobe-photoshop-sketch-drawing-app.jpg)
 
 Like all other Adobe’s products, Adobe Photoshop Sketch is capable of great performances. The app is equipped with the famous Adobe’s brush engine and it features 24 built-in brushes. You can customize the size, opacity, blending options, or color for each brush you pick, while you can also import brushes from Photoshop.
 
@@ -376,17 +376,17 @@ The app doesn’t limit the number of layers you can create and it lets you comb
 
 However, Adobe Photoshop Sketch was discontinued for iOS and Android and are no longer available for download, from July 19th, 2021\. You can have a look at the following apps.
 
-### 2. [Tayasui Sketches App](https://apps.apple.com/us/app/tayasui-sketches/id641900855)
+### 2. Tayasui Sketches App
 
 **Price:** Free, but offers in-app purchases
 
-![ Tayasui Sketches App](https://images.wondershare.com/filmora/article-images/tayasui-sketches-drawing-app.jpg)
+![Tayasui Sketches App](https://images.wondershare.com/filmora/article-images/tayasui-sketches-drawing-app.jpg)
 
 The long list of tools Tayasui Sketches App offers includes a broad range of wet brushes, oil pastels, or a felt pen, to mention a few. A ruler and a smudge tool are also available which enables you to correct your mistakes quickly or create geometric drawings. The app features a brush editor that lets you customize each brush in accordance with your current needs.
 
 Creating layers with Tayasui Sketch App is easy and you can export layers as transparent PNG files or import PSD files into the app. All strokes you make with Wacom, Apple or Adonit styluses adapt to the width, pressure, and angle of your movements. The free version of the app offers only limited options and you must upgrade to the Pro version if you want to use the app on a daily basis.
 
-### 3. [Paper by WeTransfer](https://apps.apple.com/us/app/paper-by-wetransfer/id506003812)
+### 3. Paper by WeTransfer
 
 **Price:** Free, but offers in-app-purchases
 
@@ -398,7 +398,7 @@ In addition, this iOS app offers assistance to inexperienced digital artists thr
 
 Also, Paper by WeTranfer features an impressive font collection so that you can easily incorporate textual elements into your drawings and paintings. Purchasing Paper Pro may be necessary if you want to use the app for professional purposes.
 
-### 4. [Sketch Club](https://apps.apple.com/us/app/sketch-club/id404414176)
+### 4. Sketch Club
 
 **Price:** $2.99
 
@@ -408,7 +408,7 @@ Besides being a powerful drawing app, Sketch Club is also a community of talente
 
 The app offers vector tools as well as thousands of tool presets that are shared by the community, which means that you can design, draw, or paint almost anything. All images you produce with Sketch Club can be exported to Dropbox, iCloud or you can send them to your friends and clients via email.
 
-### 5. [Procreate Pocket](https://apps.apple.com/us/app/procreate-pocket/id916366645)
+### 5. Procreate Pocket
 
 **Price:** $4.99
 
@@ -418,7 +418,7 @@ A brief look at the Procreate Pocket’s list of features will make you wonder i
 
 The app is equipped with 3D Touch technology designed for pressure-sensitive painting, while its Silica M painting engine eliminates lagging. Procreate Pocket has an advanced layer system that includes clipping and layer masks that enable non-destructive editing. In addition, you can create vector text or use Isometric, Symmetry, 2D, and Perspective visual guidelines. However, the app is optimized for iPhone X and it may not work as smoothly on other versions of the iPhone.
 
-### 6. [iColorama S – Photo Editor and Brush Painter](https://apps.apple.com/us/app/icolorama-s/id518522388)
+### 6. iColorama S – Photo Editor and Brush Painter
 
 **Price:** $4.99
 
@@ -428,7 +428,7 @@ Although iColorama S is primarily a photo editing app, you can still use it to c
 
 There are over three hundred effects to choose from and each of them can be applied to a photo in just a few taps. Moreover, all effects are fully customizable so that you can choose their intensity or adjust other settings. Despite being a [well-rounded photo editor](https://tools.techidaily.com/wondershare/filmora/download/) and brush painter iColorama S lacks some essential features other drawing apps for iPhones offer.
 
-### 7. [Autodesk SketchBook](https://apps.apple.com/us/app/autodesk-sketchbook/id883738213)
+### 7. Autodesk SketchBook
 
 **Price:** Free
 
@@ -438,11 +438,11 @@ In addition to being one of the best drawing apps for the professional artist, A
 
 There are 190 fully customizable built-in brushes to choose from in the app’s brush library, while the ruler and eclipse tools ensure that you can find the best position for each object you draw on the canvas. Autodesk SketchBook is compatible with the second generation of the Apple Pencil and it supports the double-tap functionality. Currently, you cannot scan sketches from an iPhone.
 
-### 8. [Clip Studio Paint for iPhone](https://apps.apple.com/us/app/clip-studio-paint-for-iphone/id1483037022)
+### 8. Clip Studio Paint for iPhone
 
 **Price:** Free, but offers in-app purchases
 
-![Clip Studio Paint for iPhone ](https://images.wondershare.com/filmora/article-images/clip-studio-paint-for-iphone-draw-paint-app.jpg)
+![Clip Studio Paint for iPhone](https://images.wondershare.com/filmora/article-images/clip-studio-paint-for-iphone-draw-paint-app.jpg)
 
 Creating a digital drawing or painting with Clip Studio Paint is a fun and intuitive process as this feature-packed app offers everything you need to produce stunning images. You can choose from a broad spectrum of brushes and pens, and pick an airbrush, oil, or watercolor paint style. The app stabilization and correction features help you draw lines as you intended them to be which reduces the need to use the eraser tool.
 

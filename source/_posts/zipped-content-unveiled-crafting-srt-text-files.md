@@ -1,7 +1,7 @@
 ---
 title: "\"Zipped Content Unveiled  Crafting Srt Text Files\""
-date: 2024-05-24T03:37:38.373Z
-updated: 2024-05-25T03:37:38.373Z
+date: 2024-07-06T17:44:27.567Z
+updated: 2024-07-07T17:44:27.567Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Zipped Content Unveiled: Crafting Srt Text Files\""
 excerpt: "\"This Article Describes Zipped Content Unveiled: Crafting Srt Text Files\""
 keywords: "Zip Content Reveal,Creating SRTS,SRT Text Crafting,File Compression Guide,Audio SRT Editing,Video Subtitles SRTS,Subtitle Text Files"
-thumbnail: https://www.lifewire.com/thmb/PMVQJXnIFRUNfZBHZ5eU9JJ7-Ow=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/bestcarapps-5c06e60d46e0fb000125f08a.jpg
+thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c29aeec82d8f35e1cc72f6d6.jpg
 ---
 
 ## Zipped Content Unveiled: Crafting Srt Text Files

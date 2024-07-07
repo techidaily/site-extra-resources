@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Asper's Secrets  Soundscapes That Lull You to Sleep\""
-date: 2024-05-24T03:36:16.328Z
-updated: 2024-05-25T03:36:16.329Z
+date: 2024-07-06T17:44:24.842Z
+updated: 2024-07-07T17:44:24.842Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Asper's Secrets: Soundscapes That Lull You to Sleep\""
 excerpt: "\"This Article Describes [Updated] Asper's Secrets: Soundscapes That Lull You to Sleep\""
 keywords: "Dreamy Soundscape,Asper Secrets Sleep,Calming Soundscape,Lullaby Scenes,Soothing Soundscapes,Relaxing Audio Spheres,Peaceful Night Scores"
-thumbnail: https://www.lifewire.com/thmb/qPJTUENRkfpjv_HjgIphdxJcKus=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/fortniteparentalcontrols-a24a692130cc4142a960da30e43b013f.jpg
+thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54ae99a71f15e709bfd0f373c.jpg
 ---
 
 ## Asper's Secrets: Soundscapes That Lull You to Sleep

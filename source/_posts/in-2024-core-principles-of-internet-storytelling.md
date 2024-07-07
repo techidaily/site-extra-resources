@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Core Principles of Internet Storytelling"
-date: 2024-05-24T05:05:41.693Z
-updated: 2024-05-25T05:05:41.693Z
+date: 2024-07-06T17:44:28.996Z
+updated: 2024-07-07T17:44:28.996Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Core Principles of Internet Storytelling"
 excerpt: "This Article Describes In 2024, Core Principles of Internet Storytelling"
 keywords: "Net Stories Core Values,Web Tale Guiding Ideals,Online Narrative Standards,Digital Story Essence,Cybernetic Narration Basics,Virtual Story Fundamentals,Internet Plot Principles"
-thumbnail: https://www.lifewire.com/thmb/NZavODYD28L1bQ6Y5LyAIfCyEJE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-717167227-5acaa26004d1cf00376d3de1.jpg
+thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de551640bc5deeb7f8730f9ba76.jpg
 ---
 
 ## Core Principles of Internet Storytelling

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Constructing Authenticity in Documentaries"
-date: 2024-05-24T04:28:23.965Z
-updated: 2024-05-25T04:28:23.965Z
+date: 2024-07-06T17:44:35.070Z
+updated: 2024-07-07T17:44:35.070Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Constructing Authenticity in Documentaries"
 excerpt: "This Article Describes In 2024, Constructing Authenticity in Documentaries"
 keywords: "DocuAuthenticityBuilding,AuthenticDocFilmingTechniques,RealisticDocumentaryStyles,TruthInDocProduction,EthicalDocConstructing,HonestDocCreationMethods,GenuineDocumentaryProcess"
-thumbnail: https://www.lifewire.com/thmb/TUGFYGtB5bZInUlxzvTab3CVXdM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungvoiceassistant-1c59910bc4614b2a8531fc5b7a754e7d.jpg
+thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace1a8dcb38cd4f8698fb9bdda.jpg
 ---
 
 ## Constructing Authenticity in Documentaries

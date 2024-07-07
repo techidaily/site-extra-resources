@@ -1,7 +1,7 @@
 ---
 title: "A Deep Dive Into DJI Phantom 3 Professional Drone"
-date: 2024-05-24T04:48:51.587Z
-updated: 2024-05-25T04:48:51.587Z
+date: 2024-07-06T17:44:34.853Z
+updated: 2024-07-07T17:44:34.853Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes A Deep Dive Into DJI Phantom 3 Professional Drone"
 excerpt: "This Article Describes A Deep Dive Into DJI Phantom 3 Professional Drone"
 keywords: "ProDJIDroneExplore,DJIPhotomaxProDrone,DJISmartPhantomPro,AdvancedDJIPhoenix3,DJInnovativeProFlyer,DroneTechDJiProVenture,PremierDJIPhantomXtreme"
-thumbnail: https://www.lifewire.com/thmb/EBwOnjwx8yCmxr34I2GZjjgyfGU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/is-microsoft-teams-down-or-is-it-you-5105051-419830bc0e82459ba9b33af1cea82705.jpg
+thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0da3d5945b94c06b1e59faa56.jpg
 ---
 
 ## A Deep Dive Into DJI Phantom 3 Professional Drone

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Compact and Cost-Effective  Mirrorless 4K Cameras <$1,000\""
-date: 2024-05-24T03:53:11.545Z
-updated: 2024-05-25T03:53:11.545Z
+date: 2024-07-06T17:44:34.714Z
+updated: 2024-07-07T17:44:34.714Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Compact and Cost-Effective: Mirrorless 4K Cameras <$1,000\""
 excerpt: "\"This Article Describes In 2024, Compact and Cost-Effective: Mirrorless 4K Cameras <$1,000\""
 keywords: "\"Affordable 4K Cam,Budget 4K Mirrorless,Cheap 4K MirroShoot,Economical High-Res,Cost-Effective 4K Pro,Less Expensive 4kLite,Under $1000 4K Camera\""
-thumbnail: https://www.lifewire.com/thmb/xgo6tGI-HONOfys81EHMpcUqTKU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-970157966-65f3dd434f3e4dc98e28a635b8cacc87.jpg
+thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325d71d7edbcfdaf185bcde8ae.jpg
 ---
 
 ## Compact and Cost-Effective: Mirrorless 4K Cameras <$1,000

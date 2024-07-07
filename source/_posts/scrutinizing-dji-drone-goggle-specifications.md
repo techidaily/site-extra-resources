@@ -1,7 +1,7 @@
 ---
 title: "Scrutinizing DJI Drone Goggle Specifications"
-date: 2024-05-24T04:11:35.010Z
-updated: 2024-05-25T04:11:35.010Z
+date: 2024-07-06T17:44:28.068Z
+updated: 2024-07-07T17:44:28.068Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Scrutinizing DJI Drone Goggle Specifications"
 excerpt: "This Article Describes Scrutinizing DJI Drone Goggle Specifications"
 keywords: "DJI Drone Goggles Specs,DJI Drone Eyewear Details,DJI Drones Protective Glasses,Drone Accessory Lenses,Goggle Features for Drones,Drone Safety Glass Technology,Protective Goggles for DJI Drones"
-thumbnail: https://www.lifewire.com/thmb/nbqgLnPpUPiuvThF3CkLGTo8XnU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-174750928-58a48cc35f9b58819cc45552-5bd8c2274cedfd00264695bd.jpg
+thumbnail: https://thmb.techidaily.com/9b1d54d7ae73d83b91bdfdadbf959717f77a8b021abfc1f3482b428b18a9e6d1.jpg
 ---
 
 ## Scrutinizing DJI Drone Goggle Specifications

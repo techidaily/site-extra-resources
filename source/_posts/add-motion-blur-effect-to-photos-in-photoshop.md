@@ -1,7 +1,7 @@
 ---
 title: "Add Motion Blur Effect to Photos in Photoshop"
-date: 2024-05-24T04:12:49.410Z
-updated: 2024-05-25T04:12:49.410Z
+date: 2024-07-06T17:44:29.753Z
+updated: 2024-07-07T17:44:29.753Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Add Motion Blur Effect to Photos in Photoshop"
 excerpt: "This Article Describes Add Motion Blur Effect to Photos in Photoshop"
 keywords: "Photoshop Motion Blur,Blur Photo Effects,Add Motion Blur,Photoshop Blurring,Edit Blur in PS,Create Blur Effects,Motion Photo Smear"
-thumbnail: https://www.lifewire.com/thmb/oDBtHFju_PrLVfl6mlPIp_ffC9s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2022-04-08at12.07.28PM-362efc4e7603490a932bf9ac6e0f0113.png
+thumbnail: https://thmb.techidaily.com/192f81e62d92a192c6756d4acefa6e25619bd0109c72bd43d2bf00cf25a87ef6.png
 ---
 
 ## Add Motion Blur Effect to Photos in Photoshop

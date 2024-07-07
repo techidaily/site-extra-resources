@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, All About  DJI Inspire 1 Detailed Survey\""
-date: 2024-05-24T04:24:43.945Z
-updated: 2024-05-25T04:24:43.945Z
+date: 2024-07-06T17:44:28.159Z
+updated: 2024-07-07T17:44:28.159Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, All About: DJI Inspire 1 Detailed Survey\""
 excerpt: "\"This Article Describes In 2024, All About: DJI Inspire 1 Detailed Survey\""
 keywords: "DJI Inspire Overview,Inspire Drone Guide,DJI Inspire Features,DJI Inspire Spec Sheet,Inspire 1 Detailed Review,DJI Inspire Performance,Inspire 1 Flight Modes"
-thumbnail: https://www.lifewire.com/thmb/hFSr7tZO2lC3M-Ar2jAVMNoIqLA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/title-35d737cc16e2486ca049b6d80c7d5da3.jpg
+thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383e5008c1e4699b06b4a4f916.jpg
 ---
 
 ## All About: DJI Inspire 1 Detailed Survey

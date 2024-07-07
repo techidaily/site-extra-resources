@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Creating a Softer Focus  IPhone Image Blurring Explained\""
-date: 2024-05-24T05:29:37.754Z
-updated: 2024-05-25T05:29:37.754Z
+date: 2024-07-06T17:44:24.037Z
+updated: 2024-07-07T17:44:24.037Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Creating a Softer Focus: IPhone Image Blurring Explained\""
 excerpt: "\"This Article Describes In 2024, Creating a Softer Focus: IPhone Image Blurring Explained\""
 keywords: "IPhone Blur Effect,Photo Focus Soften,IOS Image Editing,IPhone Photo Filter,Screen Capture Blur,Mobile Camera Sharpening,Image Clarity Adjustment"
-thumbnail: https://www.lifewire.com/thmb/uDtlQwy1ZqA13VV5JdOqhg2OW68=/180x120/filters:no_upscale():max_bytes(150000):strip_icc()/HomeOfficeCentral_MorsaImages_GettyImages-1369568023_vert1409-c9574b1d088a42aa8e5b62cc13c3bb0b.jpg
+thumbnail: https://thmb.techidaily.com/a691a544cb7cde4aeceab56e4cf68f393a99f1feb2da71ac3ca94b7300f4d4b3.jpg
 ---
 
 ## Creating a Softer Focus: IPhone Image Blurring Explained

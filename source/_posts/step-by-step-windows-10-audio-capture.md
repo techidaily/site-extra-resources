@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step  Windows 10 Audio Capture\""
-date: 2024-05-24T05:28:41.466Z
-updated: 2024-05-25T05:28:41.466Z
+date: 2024-07-06T17:44:33.827Z
+updated: 2024-07-07T17:44:33.827Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Step-by-Step: Windows 10 Audio Capture\""
 excerpt: "\"This Article Describes Step-by-Step: Windows 10 Audio Capture\""
 keywords: "WinAudioCapture,W10AudioRecording,AudioCaptureTutorial,Windows10AudioSteps,StepsForW10Audio,CaptureSoundWin10,10AudioRecordProcedure"
-thumbnail: https://www.lifewire.com/thmb/7iSqR9T6Aul7nVcsld8FAGRFQ6k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1149123484-a277077c6bb643caaf22a94a39dfc15d.jpg
+thumbnail: https://thmb.techidaily.com/b940b6b0f5ea7e32cad1821c53c7dd63eece1d15c1851d2a65f8ffeb1e28c4c2.jpg
 ---
 
 ## Step-by-Step: Windows 10 Audio Capture
@@ -86,7 +86,7 @@ Step 3: and then click on Recording button on the Record panel to start recordin
 
 Step 4: To stop recording, click on Stop button on the Record panel.
 
-## 5\. [Filmora Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+## 5\. Filmora Recorder
 
 If you want to record audio with video on Widows 10, Wondershare Filmora is the audio recording software for Windows 10\. This is useful for those who want to record webcam video while recording through an external microphone. You can also record anything playing on your computer such as a music video. Here are the steps to record audio on Windows 10 with Filmora.
 

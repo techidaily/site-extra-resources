@@ -1,7 +1,7 @@
 ---
 title: "\"Photo Editing Essentials  Cut Out Unwanted Borders Smoothly\""
-date: 2024-05-24T05:39:35.519Z
-updated: 2024-05-25T05:39:35.519Z
+date: 2024-07-06T17:44:27.675Z
+updated: 2024-07-07T17:44:27.675Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Photo Editing Essentials: Cut Out Unwanted Borders Smoothly\""
 excerpt: "\"This Article Describes Photo Editing Essentials: Cut Out Unwanted Borders Smoothly\""
 keywords: "Photo Editing Basics,Border Removal Tips,Smooth Edits Technique,Image Trimming Guide,Clean Cropping Methods,Unwanted Borders Elimination,Blur Edge Effects"
-thumbnail: https://www.lifewire.com/thmb/n37lhxEK3xi0v4F3uM79gY0QDLk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/001_is-disneyplus-worth-it-eb19753faecb4525adaf6e4cd29c3ad1.jpg
+thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc4017e6eac185e39f8838773.jpg
 ---
 
 ## Photo Editing Essentials: Cut Out Unwanted Borders Smoothly
@@ -68,7 +68,7 @@ Step 5: Add a New Background
 
 You can now paste the image you wish to add as a background for your photo. Position your image on the layer below the one with your foreground. You can resize your background image if required by selecting the “Free Transform” tool.
 
-![ add new picture background](https://images.wondershare.com/filmora/article-images/2022/edit-blur-or-remove-photo-background-5.jpg)
+![add new picture background](https://images.wondershare.com/filmora/article-images/2022/edit-blur-or-remove-photo-background-5.jpg)
 
 Step 6: Fix the Colors
 
@@ -120,7 +120,7 @@ To fix any mistake in your selection, go to the "Select" tab and click "Select a
 
 Looking for a suitable background for your image? You can now download images and swap them for your original backgrounds easily. The following sites offer free background pictures for your every need.
 
-### 1\. [Unsplash](https://unsplash.com/s/photos/background)
+### 1\. Unsplash
 
 Want the best photo editing background library for your images? Unsplash might be the site you are looking for.
 
@@ -128,7 +128,7 @@ Unsplash is one of the biggest online storage sites for royalty-free images. You
 
 ![unsplash background website](https://images.wondershare.com/filmora/article-images/2022/edit-blur-or-remove-photo-background-12.jpg)
 
-### 2\. [Pexels](https://www.pexels.com/search/background/)
+### 2\. Pexels
 
 Pexels is another web-based tool that contains numerous stock photos and videos for your various needs. You can find thousands of suitable images as your background photo. The app is used by designers, creators, bloggers, and everyday users alike.
 
@@ -136,7 +136,7 @@ You can search for the image background of your choice and download it for free 
 
 ![pexels background images](https://images.wondershare.com/filmora/article-images/2022/edit-blur-or-remove-photo-background-13.jpg)
 
-### 3\. [Pixabay](https://pixabay.com/images/search/background/)
+### 3\. Pixabay
 
 If you are looking for a website to find backgrounds in HD quality, you can try Pixabay. This remarkable site offers you a wide spectrum of options to choose from. Pixabay contains one of the widest collections of high-quality stock images.
 
@@ -190,7 +190,7 @@ Step 5: Add a New Background
 
 You can now paste the image you wish to add as a background for your photo. Position your image on the layer below the one with your foreground. You can resize your background image if required by selecting the “Free Transform” tool.
 
-![ add new picture background](https://images.wondershare.com/filmora/article-images/2022/edit-blur-or-remove-photo-background-5.jpg)
+![add new picture background](https://images.wondershare.com/filmora/article-images/2022/edit-blur-or-remove-photo-background-5.jpg)
 
 Step 6: Fix the Colors
 
@@ -242,7 +242,7 @@ To fix any mistake in your selection, go to the "Select" tab and click "Select a
 
 Looking for a suitable background for your image? You can now download images and swap them for your original backgrounds easily. The following sites offer free background pictures for your every need.
 
-### 1\. [Unsplash](https://unsplash.com/s/photos/background)
+### 1\. Unsplash
 
 Want the best photo editing background library for your images? Unsplash might be the site you are looking for.
 
@@ -250,7 +250,7 @@ Unsplash is one of the biggest online storage sites for royalty-free images. You
 
 ![unsplash background website](https://images.wondershare.com/filmora/article-images/2022/edit-blur-or-remove-photo-background-12.jpg)
 
-### 2\. [Pexels](https://www.pexels.com/search/background/)
+### 2\. Pexels
 
 Pexels is another web-based tool that contains numerous stock photos and videos for your various needs. You can find thousands of suitable images as your background photo. The app is used by designers, creators, bloggers, and everyday users alike.
 
@@ -258,7 +258,7 @@ You can search for the image background of your choice and download it for free 
 
 ![pexels background images](https://images.wondershare.com/filmora/article-images/2022/edit-blur-or-remove-photo-background-13.jpg)
 
-### 3\. [Pixabay](https://pixabay.com/images/search/background/)
+### 3\. Pixabay
 
 If you are looking for a website to find backgrounds in HD quality, you can try Pixabay. This remarkable site offers you a wide spectrum of options to choose from. Pixabay contains one of the widest collections of high-quality stock images.
 
@@ -312,7 +312,7 @@ Step 5: Add a New Background
 
 You can now paste the image you wish to add as a background for your photo. Position your image on the layer below the one with your foreground. You can resize your background image if required by selecting the “Free Transform” tool.
 
-![ add new picture background](https://images.wondershare.com/filmora/article-images/2022/edit-blur-or-remove-photo-background-5.jpg)
+![add new picture background](https://images.wondershare.com/filmora/article-images/2022/edit-blur-or-remove-photo-background-5.jpg)
 
 Step 6: Fix the Colors
 
@@ -364,7 +364,7 @@ To fix any mistake in your selection, go to the "Select" tab and click "Select a
 
 Looking for a suitable background for your image? You can now download images and swap them for your original backgrounds easily. The following sites offer free background pictures for your every need.
 
-### 1\. [Unsplash](https://unsplash.com/s/photos/background)
+### 1\. Unsplash
 
 Want the best photo editing background library for your images? Unsplash might be the site you are looking for.
 
@@ -372,7 +372,7 @@ Unsplash is one of the biggest online storage sites for royalty-free images. You
 
 ![unsplash background website](https://images.wondershare.com/filmora/article-images/2022/edit-blur-or-remove-photo-background-12.jpg)
 
-### 2\. [Pexels](https://www.pexels.com/search/background/)
+### 2\. Pexels
 
 Pexels is another web-based tool that contains numerous stock photos and videos for your various needs. You can find thousands of suitable images as your background photo. The app is used by designers, creators, bloggers, and everyday users alike.
 
@@ -380,7 +380,7 @@ You can search for the image background of your choice and download it for free 
 
 ![pexels background images](https://images.wondershare.com/filmora/article-images/2022/edit-blur-or-remove-photo-background-13.jpg)
 
-### 3\. [Pixabay](https://pixabay.com/images/search/background/)
+### 3\. Pixabay
 
 If you are looking for a website to find backgrounds in HD quality, you can try Pixabay. This remarkable site offers you a wide spectrum of options to choose from. Pixabay contains one of the widest collections of high-quality stock images.
 
@@ -434,7 +434,7 @@ Step 5: Add a New Background
 
 You can now paste the image you wish to add as a background for your photo. Position your image on the layer below the one with your foreground. You can resize your background image if required by selecting the “Free Transform” tool.
 
-![ add new picture background](https://images.wondershare.com/filmora/article-images/2022/edit-blur-or-remove-photo-background-5.jpg)
+![add new picture background](https://images.wondershare.com/filmora/article-images/2022/edit-blur-or-remove-photo-background-5.jpg)
 
 Step 6: Fix the Colors
 
@@ -486,7 +486,7 @@ To fix any mistake in your selection, go to the "Select" tab and click "Select a
 
 Looking for a suitable background for your image? You can now download images and swap them for your original backgrounds easily. The following sites offer free background pictures for your every need.
 
-### 1\. [Unsplash](https://unsplash.com/s/photos/background)
+### 1\. Unsplash
 
 Want the best photo editing background library for your images? Unsplash might be the site you are looking for.
 
@@ -494,7 +494,7 @@ Unsplash is one of the biggest online storage sites for royalty-free images. You
 
 ![unsplash background website](https://images.wondershare.com/filmora/article-images/2022/edit-blur-or-remove-photo-background-12.jpg)
 
-### 2\. [Pexels](https://www.pexels.com/search/background/)
+### 2\. Pexels
 
 Pexels is another web-based tool that contains numerous stock photos and videos for your various needs. You can find thousands of suitable images as your background photo. The app is used by designers, creators, bloggers, and everyday users alike.
 
@@ -502,7 +502,7 @@ You can search for the image background of your choice and download it for free 
 
 ![pexels background images](https://images.wondershare.com/filmora/article-images/2022/edit-blur-or-remove-photo-background-13.jpg)
 
-### 3\. [Pixabay](https://pixabay.com/images/search/background/)
+### 3\. Pixabay
 
 If you are looking for a website to find backgrounds in HD quality, you can try Pixabay. This remarkable site offers you a wide spectrum of options to choose from. Pixabay contains one of the widest collections of high-quality stock images.
 
