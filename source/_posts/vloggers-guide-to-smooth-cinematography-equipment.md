@@ -1,7 +1,7 @@
 ---
 title: "Vlogger’s Guide to Smooth Cinematography Equipment"
-date: 2024-05-24T03:50:58.325Z
-updated: 2024-05-25T03:50:58.325Z
+date: 2024-07-25T02:01:06.309Z
+updated: 2024-07-26T02:01:06.309Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "This Article Describes Vlogger’s Guide to Smooth Cinematography Equipment"
 excerpt: "This Article Describes Vlogger’s Guide to Smooth Cinematography Equipment"
 keywords: "\"Cinematography Gear Essentials,Vloggers Film Tech Tips,Easy Filming Tools Guide,High-Quality Cam Cases,Smooth Camera Setup,Video Shoot Basics,Professional Videography Stuff\""
-thumbnail: https://www.lifewire.com/thmb/A1hfnW-9b0eVXXkLwD_6ei9mr2I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AE-lock-572ece975f9b58c34c0a2492.jpg
+thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f0e7070951ebc50a7e45bfdb.jpg
 ---
 
 ## Vlogger’s Guide to Smooth Cinematography Equipment
 
 When a YouTube video is shaky it’s hard to focus on what is happening in it. Camera shake is a huge distraction and, if it is a persistent problem in your YouTube videos, it will be hard to get subscribers. Shakiness is an easy problem to correct. With a bit of equipment, or a bit of creativity, it is easy to make sure your YouTube videos are nice and smooth.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Camera Stabilizers for YouTube
 
 This article will talk about different types of equipment you can use to stabilize your camera. For vloggers on a budget, there is even one tip on stabilizing your camera without camera equipment. Here are some of the best stabilizers for YouTube videos:
@@ -30,24 +33,39 @@ A tripod is a three-legged stand you can mount your camera to. The height of a t
 
 Tripods are the best choice for vlogs that revolve around you standing (or sitting) and delivering information, like opinion or beauty vlogs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Monopod
 
 A monopod is like a tripod in the sense that you can adjust its height, but unlike a tripod a monopod has only one leg and cannot stand by itself. You will need a helper to stay with your camera if you plan to film yourself using a monopod. A monopod is more portable than a tripod, though, and can be used in a wider variety of places. You can even use a monopod to record aerial shots just by picking it up.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### 3\. Pistol Grip
 
 A pistol grip is a handle you mount your camera to the top of. You can carry your camera around on top of the pistol grip, or you can mount the grip itself to your tripod or monopod. Once the grip is mounted you can use it to more easily control your camera movements. This is a great way to get even, steady, camera pans.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Selfie Stick
 
 A selfie stick is a long pole you mount your smartphone to one end of in order to take selfies from farther away. Selfie sticks also make great stabilizers if you are shooting video on your smartphone. To stabilize your smartphone place the handle of your selfie stick on the ground as if it were a monopod. When you are shooting using a selfie stick you can also hold it up in the air to get interesting high angle shots.
 
 Some YouTubers even like to shoot selfie-style vlogs where the hold the selfie stick just like they are taking a photo of themselves.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### 5\. OIS – Optical Image Stabilization
 
 ‘Optical Image Stabilization’ is fairly new hardware which is built in to a lot of new smartphones, like the iPhone 6S Plus and the Samsung Galaxy S6 Edge Plus. OIS reduces camera shake by a lot, although it is still a good idea to stabilize your smartphone while you record. OIS will also help you take sharper still photos without using any software.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### 6\. Tables, Desks, Trees, ect
 
 If you do not have equipment, or cannot bring it where you want to shoot, then you can still record steady footage. You just have to get creative with where you put your camera. Any stable surface will do. You can set your camera down on a shelf in your house, a picnic bench, or up in a tree.
@@ -78,3 +96,30 @@ If you are able to lean your elbows onto a desk or table while you hold your cam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-beyond-hd-the-exceptional-experience-with-hp-envy-27/"><u>[New] Beyond HD - The Exceptional Experience with HP Envy 27</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capturing-waves-how-to-record-internet-radios-step-by-step/"><u>[Updated] Capturing Waves  How To Record Internet Radios Step-by-Step</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-choreographing-pictures-and-tunes-in-video/"><u>[Updated] Choreographing Pictures & Tunes in Video</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-5-beginner-secrets-to-mastering-photoshop-edits/"><u>2024 Approved  5 Beginner Secrets to Mastering Photoshop Edits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-comprehensive-guide-to-crafting-memes-on-9gag/"><u>2024 Approved  A Comprehensive Guide to Crafting Memes on 9GAG</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-compreayer-study-of-magix-image-suite/"><u>A Compreayer Study of MAGIX Image Suite</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/apex-cameras-capturing-sporting-triumphs/"><u>Apex Cameras Capturing Sporting Triumphs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chronology-conundrum-best-podcast-times/"><u>Chronology Conundrum  Best Podcast Times</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compact-cost-effective-spherical-video-capture-systems/"><u>Compact, Cost-Effective Spherical Video Capture Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/editors-eye-view-visualscape-pro-edition/"><u>Editor's Eye View  VisualScape Pro Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/evaluating-alternatives-to-magixs-acid-pro/"><u>Evaluating Alternatives to Magix's ACID Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/free-football-live-learn-and-cut-your-match-footage/"><u>Free Football  Live-Learn & Cut Your Match Footage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-idea-to-implementation-guiding-vendors-in-youtube-sponsorships/"><u>From Idea to Implementation  Guiding Vendors in Youtube Sponsorships</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/inspiring-action-through-impactful-market-research-communication/"><u>Inspiring Action Through Impactful Market Research Communication</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-mobile-artistry-top-tactics-for-idevice-collage-excellence/"><u>Mastering Mobile Artistry  Top Tactics for iDevice Collage Excellence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/maximizing-your-walls-with-windows-11-a-guide-to-changing-backdrops/"><u>Maximizing Your Walls with Windows 11  A Guide to Changing Backdrops</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/reimagined-classrooms-through-vr-technology/"><u>Reimagined Classrooms Through VR Technology</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/social-media-synergy-linking-instagram-with-tiktok/"><u>Social Media Synergy  Linking Instagram with TikTok</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tailor-made-fee-free-epilogue-music-templates/"><u>Tailor-Made, Fee-Free Epilogue Music Templates</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-comprehensible-path-to-proficient-greenscreen-in-kinemaster/"><u>The Comprehensible Path to Proficient Greenscreen in KineMaster</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-secret-sauce-for-clearer-more-informative-youtube-videos/"><u>The Secret Sauce for Clearer, More Informative YouTube Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/three-ways-to-achieve-clear-iphone-videos-without-shake-ups/"><u>Three Ways to Achieve Clear iPhone Videos Without Shake-Ups</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-ten-cyber-shops-where-every-gift-tells-a-story/"><u>Top Ten Cyber Shops  Where Every Gift Tells a Story</u></a></li>
+</ul></div>

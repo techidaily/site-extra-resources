@@ -1,7 +1,7 @@
 ---
 title: "\"Dive Into Action  The Pro 3 Review From ION Air\""
-date: 2024-05-24T05:37:53.515Z
-updated: 2024-05-25T05:37:53.515Z
+date: 2024-07-25T05:32:31.555Z
+updated: 2024-07-26T05:32:31.555Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes Dive Into Action: The Pro 3 Review From ION Air\""
 excerpt: "\"This Article Describes Dive Into Action: The Pro 3 Review From ION Air\""
 keywords: "\"Pro 3 Review ION,Dive Action 3D,ION Air Pro3 Test,3D Pro Gaming Experience,Action-Packed ION Review,Pro 3 Performance Analysis,ION Air Games Assessment\""
-thumbnail: https://www.lifewire.com/thmb/FlIls8hU_ed8pQBtnCcFKYCJhVE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/005_how-to-fix-it-when-your-chromebook-won-t-turn-on-4802489-a317e6cdd7f443b38115814a3507495f.jpg
+thumbnail: https://thmb.techidaily.com/cc0866b80e38550ff25e3009719b526ea4484f9d37497b921eea5c41a1afe3dd.jpg
 ---
 
 ## Dive Into Action: The Pro 3 Review From ION Air
 
 # iON Air Pro 3 Action Camera Review
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -30,6 +33,88 @@ thumbnail: https://www.lifewire.com/thmb/FlIls8hU_ed8pQBtnCcFKYCJhVE=/400x300/fi
 
 ## Complete Review for iON Air Pro 3 Wi-Fi
 
+![ion-air-pro3](https://images.wondershare.com/filmora/article-images/ion-air-pro3.jpg)
+
+[Check at Amazon]( https://www.amazon.com/gp/product/B00H8H7MU4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00H8H7MU4&linkId=57ebbae6fea3b5b36db500ba411ab485)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B00H8H7MU4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00H8H7MU4&linkId=e6660d0d0724fe7eea7b8576b71b81b6
+)
+
+1. **Specs Table:**  
+| **Item name**            | **iON Air Pro 3 Wi-Fi**                                                 |                      |                                                          |  
+| ------------------------ | ----------------------------------------------------------------------- | -------------------- | -------------------------------------------------------- |  
+| **Date available**       | **November 2013**                                                       |                      |                                                          |  
+| **Price**                | **Official: $169.99**                                                   |                      |                                                          |  
+| **Manufacture**          | **iON (US)**                                                            |                      |                                                          |  
+| **Basic Specifications** |                                                                         |                      |                                                          |  
+| **Parameters**           | **Details**                                                             | **Parameters**       | **Details**                                              |  
+| **Weight**               | 177 grams only                                                          | **Shape**            | Bullet shape                                             |  
+| **Memory**               | Micro SD – Up To 64GB                                                   | **Dimensions**       | 21\*53\*111mm                                            |  
+| **Image resolution**     | Up to 12 MP                                                             | **Video resolution** | Up to 1080P/60fps                                        |  
+| **Battery**              | Build in 1200MAH Lithium Ion Battery (2.5 Hours of Continuous Shooting) | **Waterproof**       | Waterproof to Depths of 49ft (15 meters) without housing |  
+| **Display**              | Not included                                                            | **Feature**          | Wi-Fi Enabled and FREE 10GB Of Cloud Storage             |
+2. **Pros and Cons:**  
+| Pros                                              | Cons                                                                             |  
+| ------------------------------------------------- | -------------------------------------------------------------------------------- |  
+| 1080P/60fps leads to amazing video quality        | Poor apps lack in functionality                                                  |  
+| Easy-to-use (just point and start recording)      | Microphone picks too much wind noise                                             |  
+| Slick flashlight-like design                      | Non-removable type battery                                                       |  
+| Waterproof without housing (Can go up to 49 feet) | In-built image stabilizer leads to jelly-like effect and it can't be turned off. |  
+| 8 Point G-Sensor Stabilization included           |                                                                                  |  
+| Vibration alert                                   |                                                                                  |
+3. **What is Inside the Box?**  
+ The box contains:  
+   * iON Pro 3 Action Camera unit  
+   * Adhesive Pad  
+   * Mini Tripod  
+   * Helmet Mount  
+   * Power Adapter  
+   * Mini USB Cable
+4. **Design and Accessories:**  
+ This extensive action camera unit lacks somewhere the waterproofing ability because it can serve you only up to 15 meters whereas the competitor GoPro device can easily go below up to 40 meter. So iON Air Pro can be rated as a good choice for surfing needs but when it comes to diving then you have to look at GoPro.  
+ The package includes decent accessories such as universal power adapter, USB cable and mounts. Even if you want to buy few additional accessories then they can be obtained with much cheaper price tag as compared to GoPro collections. The mount upgrade options include surfboards, handle bars and headbands. On the front side you will find a f2.8 fog free lens with 16 mm dimensions.
+5. **Video and Photo Quality:**  
+ The iON Air Pro 3 device can serve users with 1080p resolution level at 30 fps frame rate settings. The maximum supported bit rate with this mode is 12 Mbps. You can easily switch to 720p with 120 fps, 30fps and 60 fps frame rate settings where bit rate increases up to 22 Mbps. The best thing to know is its ability to record a secondary thumbnail at WQVGA resolution level during 1080p resolution setting, this file can be easily uploaded on internet and can be shared immediately with other devices. In case if you are working with remote application then supported resolution settings are 720p/30fps and 1080p/ 30 fps, the mode gets automatically selected depending upon resolution switch position. Videos can be easily captured at 160 degree wide angle type view. Further, it can be adjusted to obtain little tighter details with 140 and 150 degree focus. This fixed focus type lens is best from 3.3 feet and ranges perfectly up to infinity thus you need to maintain proper space between subject and camera.  
+ It can capture stills at 12Mp and 5MP resolution level while serving with 4:3 aspect ratio. Users can prefer to switch between time lapse and burst modes with interval selection of 60, 30\. 10, 5 and 2 for the first case and 10 shot type settings in case of burst mode.
+6. **Wi-Fi and Application:**  
+ It is much simpler to access Wi-Fi settings with this device. Switch on your device as well as the Wi-Fi Podz then move to Wi-Fi setting of your tablet or smart phone. Here also select Podz from your network and then add password. The settings part is over and now you can control your device from remote location easily. Settings can be adjusted from camera application and it also provides facility to fast media transfers between both connected devices.  
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
+## Recommend best video editing software for action camera users  
+
+ If you want to take your video content to the next level with some video editing without being completely overwhelmed, you will definitely want to give Wondershare Filmora (originally Wondershare Video Editor) a try. The software offers a free trial period which allows you to try before buy. Well-designed intuitive interface enables anyone to master the program within minutes.  
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+7. **Battery life and Storage:**  
+ iON Air Pro 3 comes with a non removable battery that is really sad because you don’t have option to replace when it dies during shoot. But the good news is that this non removable battery makes it a compact action camera with waterproof body so that it can be easily used in tough situations. With 1080p resolution level it can record easily up to 2.5 hours. On the other side, the supported Micro SD card goes up to 64 GB capacity. Thus you can easily store a shoot of 4 hours 20 minute length if working on 1080p at 60 fps rating. Additionally, you will be able to obtain 8GB additional space from MiMedia that can be easily used for sharing videos or photos online.
+
+**Conclusion:**
+
+ This bullet shaped camera is right option for you if you are searching for something having features close to Toshiba or GoPro designs. The Wi-Fi PODZ adds flexibility to controls and accessibility. As the box include only few basic mounts so you may have to spend little extra to get the remaining ones from market. This device is best rated for helmet mount needs. The excellent video quality along with ease of operation and wide angle focus make it first choice under affordable action cam model category. You don’t need to spend on a waterproof case but apps are yet to be improved to enhance flexibility.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ Here is a simple yet stunning action camera unit for you: iON Air Pro 3\. It can provide amazing video quality with its bullet shaped, aluminium clad type hardware design. You need not to spend on additional housing arrangement to make it waterproof. There is a big slider on upper side of camera that assists in easy operations; you can operate it perfectly even under water while wearing gloves. Those who are searching for a low profile yet impressive action camera unit with all essential features can definitely keep their eyes at iON Air Pro 3 device. It is definitely a fine choice with price tag of $169.99 only. If you want a camera that can provide stunning results even with helmet mounting then pick iON Air from market.
+
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Complete Review for iON Air Pro 3 Wi-Fi
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ion-air-pro3](https://images.wondershare.com/filmora/article-images/ion-air-pro3.jpg)
 
 [Check at Amazon]( https://www.amazon.com/gp/product/B00H8H7MU4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00H8H7MU4&linkId=57ebbae6fea3b5b36db500ba411ab485)
@@ -101,8 +186,15 @@ Follow @Max Wales
 
  Here is a simple yet stunning action camera unit for you: iON Air Pro 3\. It can provide amazing video quality with its bullet shaped, aluminium clad type hardware design. You need not to spend on additional housing arrangement to make it waterproof. There is a big slider on upper side of camera that assists in easy operations; you can operate it perfectly even under water while wearing gloves. Those who are searching for a low profile yet impressive action camera unit with all essential features can definitely keep their eyes at iON Air Pro 3 device. It is definitely a fine choice with price tag of $169.99 only. If you want a camera that can provide stunning results even with helmet mounting then pick iON Air from market.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Complete Review for iON Air Pro 3 Wi-Fi
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![ion-air-pro3](https://images.wondershare.com/filmora/article-images/ion-air-pro3.jpg)
 
 [Check at Amazon]( https://www.amazon.com/gp/product/B00H8H7MU4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00H8H7MU4&linkId=57ebbae6fea3b5b36db500ba411ab485)
@@ -149,9 +241,16 @@ Follow @Max Wales
 6. **Wi-Fi and Application:**  
  It is much simpler to access Wi-Fi settings with this device. Switch on your device as well as the Wi-Fi Podz then move to Wi-Fi setting of your tablet or smart phone. Here also select Podz from your network and then add password. The settings part is over and now you can control your device from remote location easily. Settings can be adjusted from camera application and it also provides facility to fast media transfers between both connected devices.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Recommend best video editing software for action camera users  
 
  If you want to take your video content to the next level with some video editing without being completely overwhelmed, you will definitely want to give Wondershare Filmora (originally Wondershare Video Editor) a try. The software offers a free trial period which allows you to try before buy. Well-designed intuitive interface enables anyone to master the program within minutes.  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 7. **Battery life and Storage:**  
  iON Air Pro 3 comes with a non removable battery that is really sad because you don’t have option to replace when it dies during shoot. But the good news is that this non removable battery makes it a compact action camera with waterproof body so that it can be easily used in tough situations. With 1080p resolution level it can record easily up to 2.5 hours. On the other side, the supported Micro SD card goes up to 64 GB capacity. Thus you can easily store a shoot of 4 hours 20 minute length if working on 1080p at 60 fps rating. Additionally, you will be able to obtain 8GB additional space from MiMedia that can be easily used for sharing videos or photos online.
@@ -174,6 +273,9 @@ Follow @Max Wales
 
  Here is a simple yet stunning action camera unit for you: iON Air Pro 3\. It can provide amazing video quality with its bullet shaped, aluminium clad type hardware design. You need not to spend on additional housing arrangement to make it waterproof. There is a big slider on upper side of camera that assists in easy operations; you can operate it perfectly even under water while wearing gloves. Those who are searching for a low profile yet impressive action camera unit with all essential features can definitely keep their eyes at iON Air Pro 3 device. It is definitely a fine choice with price tag of $169.99 only. If you want a camera that can provide stunning results even with helmet mounting then pick iON Air from market.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Complete Review for iON Air Pro 3 Wi-Fi
 
 ![ion-air-pro3](https://images.wondershare.com/filmora/article-images/ion-air-pro3.jpg)
@@ -225,79 +327,9 @@ Follow @Max Wales
 ## Recommend best video editing software for action camera users  
 
  If you want to take your video content to the next level with some video editing without being completely overwhelmed, you will definitely want to give Wondershare Filmora (originally Wondershare Video Editor) a try. The software offers a free trial period which allows you to try before buy. Well-designed intuitive interface enables anyone to master the program within minutes.  
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-7. **Battery life and Storage:**  
- iON Air Pro 3 comes with a non removable battery that is really sad because you don’t have option to replace when it dies during shoot. But the good news is that this non removable battery makes it a compact action camera with waterproof body so that it can be easily used in tough situations. With 1080p resolution level it can record easily up to 2.5 hours. On the other side, the supported Micro SD card goes up to 64 GB capacity. Thus you can easily store a shoot of 4 hours 20 minute length if working on 1080p at 60 fps rating. Additionally, you will be able to obtain 8GB additional space from MiMedia that can be easily used for sharing videos or photos online.
-
-**Conclusion:**
-
- This bullet shaped camera is right option for you if you are searching for something having features close to Toshiba or GoPro designs. The Wi-Fi PODZ adds flexibility to controls and accessibility. As the box include only few basic mounts so you may have to spend little extra to get the remaining ones from market. This device is best rated for helmet mount needs. The excellent video quality along with ease of operation and wide angle focus make it first choice under affordable action cam model category. You don’t need to spend on a waterproof case but apps are yet to be improved to enhance flexibility.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- Here is a simple yet stunning action camera unit for you: iON Air Pro 3\. It can provide amazing video quality with its bullet shaped, aluminium clad type hardware design. You need not to spend on additional housing arrangement to make it waterproof. There is a big slider on upper side of camera that assists in easy operations; you can operate it perfectly even under water while wearing gloves. Those who are searching for a low profile yet impressive action camera unit with all essential features can definitely keep their eyes at iON Air Pro 3 device. It is definitely a fine choice with price tag of $169.99 only. If you want a camera that can provide stunning results even with helmet mounting then pick iON Air from market.
-
-## Complete Review for iON Air Pro 3 Wi-Fi
-
-![ion-air-pro3](https://images.wondershare.com/filmora/article-images/ion-air-pro3.jpg)
-
-[Check at Amazon]( https://www.amazon.com/gp/product/B00H8H7MU4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00H8H7MU4&linkId=57ebbae6fea3b5b36db500ba411ab485)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B00H8H7MU4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00H8H7MU4&linkId=e6660d0d0724fe7eea7b8576b71b81b6
-)
-
-1. **Specs Table:**  
-| **Item name**            | **iON Air Pro 3 Wi-Fi**                                                 |                      |                                                          |  
-| ------------------------ | ----------------------------------------------------------------------- | -------------------- | -------------------------------------------------------- |  
-| **Date available**       | **November 2013**                                                       |                      |                                                          |  
-| **Price**                | **Official: $169.99**                                                   |                      |                                                          |  
-| **Manufacture**          | **iON (US)**                                                            |                      |                                                          |  
-| **Basic Specifications** |                                                                         |                      |                                                          |  
-| **Parameters**           | **Details**                                                             | **Parameters**       | **Details**                                              |  
-| **Weight**               | 177 grams only                                                          | **Shape**            | Bullet shape                                             |  
-| **Memory**               | Micro SD – Up To 64GB                                                   | **Dimensions**       | 21\*53\*111mm                                            |  
-| **Image resolution**     | Up to 12 MP                                                             | **Video resolution** | Up to 1080P/60fps                                        |  
-| **Battery**              | Build in 1200MAH Lithium Ion Battery (2.5 Hours of Continuous Shooting) | **Waterproof**       | Waterproof to Depths of 49ft (15 meters) without housing |  
-| **Display**              | Not included                                                            | **Feature**          | Wi-Fi Enabled and FREE 10GB Of Cloud Storage             |
-2. **Pros and Cons:**  
-| Pros                                              | Cons                                                                             |  
-| ------------------------------------------------- | -------------------------------------------------------------------------------- |  
-| 1080P/60fps leads to amazing video quality        | Poor apps lack in functionality                                                  |  
-| Easy-to-use (just point and start recording)      | Microphone picks too much wind noise                                             |  
-| Slick flashlight-like design                      | Non-removable type battery                                                       |  
-| Waterproof without housing (Can go up to 49 feet) | In-built image stabilizer leads to jelly-like effect and it can't be turned off. |  
-| 8 Point G-Sensor Stabilization included           |                                                                                  |  
-| Vibration alert                                   |                                                                                  |
-3. **What is Inside the Box?**  
- The box contains:  
-   * iON Pro 3 Action Camera unit  
-   * Adhesive Pad  
-   * Mini Tripod  
-   * Helmet Mount  
-   * Power Adapter  
-   * Mini USB Cable
-4. **Design and Accessories:**  
- This extensive action camera unit lacks somewhere the waterproofing ability because it can serve you only up to 15 meters whereas the competitor GoPro device can easily go below up to 40 meter. So iON Air Pro can be rated as a good choice for surfing needs but when it comes to diving then you have to look at GoPro.  
- The package includes decent accessories such as universal power adapter, USB cable and mounts. Even if you want to buy few additional accessories then they can be obtained with much cheaper price tag as compared to GoPro collections. The mount upgrade options include surfboards, handle bars and headbands. On the front side you will find a f2.8 fog free lens with 16 mm dimensions.
-5. **Video and Photo Quality:**  
- The iON Air Pro 3 device can serve users with 1080p resolution level at 30 fps frame rate settings. The maximum supported bit rate with this mode is 12 Mbps. You can easily switch to 720p with 120 fps, 30fps and 60 fps frame rate settings where bit rate increases up to 22 Mbps. The best thing to know is its ability to record a secondary thumbnail at WQVGA resolution level during 1080p resolution setting, this file can be easily uploaded on internet and can be shared immediately with other devices. In case if you are working with remote application then supported resolution settings are 720p/30fps and 1080p/ 30 fps, the mode gets automatically selected depending upon resolution switch position. Videos can be easily captured at 160 degree wide angle type view. Further, it can be adjusted to obtain little tighter details with 140 and 150 degree focus. This fixed focus type lens is best from 3.3 feet and ranges perfectly up to infinity thus you need to maintain proper space between subject and camera.  
- It can capture stills at 12Mp and 5MP resolution level while serving with 4:3 aspect ratio. Users can prefer to switch between time lapse and burst modes with interval selection of 60, 30\. 10, 5 and 2 for the first case and 10 shot type settings in case of burst mode.
-6. **Wi-Fi and Application:**  
- It is much simpler to access Wi-Fi settings with this device. Switch on your device as well as the Wi-Fi Podz then move to Wi-Fi setting of your tablet or smart phone. Here also select Podz from your network and then add password. The settings part is over and now you can control your device from remote location easily. Settings can be adjusted from camera application and it also provides facility to fast media transfers between both connected devices.  
-
-## Recommend best video editing software for action camera users  
-
- If you want to take your video content to the next level with some video editing without being completely overwhelmed, you will definitely want to give Wondershare Filmora (originally Wondershare Video Editor) a try. The software offers a free trial period which allows you to try before buy. Well-designed intuitive interface enables anyone to master the program within minutes.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 7. **Battery life and Storage:**  
  iON Air Pro 3 comes with a non removable battery that is really sad because you don’t have option to replace when it dies during shoot. But the good news is that this non removable battery makes it a compact action camera with waterproof body so that it can be easily used in tough situations. With 1080p resolution level it can record easily up to 2.5 hours. On the other side, the supported Micro SD card goes up to 64 GB capacity. Thus you can easily store a shoot of 4 hours 20 minute length if working on 1080p at 60 fps rating. Additionally, you will be able to obtain 8GB additional space from MiMedia that can be easily used for sharing videos or photos online.
@@ -338,3 +370,40 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-a-roadmap-to-reigning-in-the-realm-of-social-media-management-smm/"><u>[New] A Roadmap to Reigning in the Realm of Social Media Management (SMM)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-auditory-archive-top-resources-for-free-skype-music-files/"><u>[New] Auditory Archive  Top Resources for Free Skype Music Files</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-basic-story-blueprint/"><u>[New] Basic Story Blueprint</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-breaking-down-the-fundamentals-of-lut-design/"><u>[New] Breaking Down the Fundamentals of LUT Design</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-cheap-yet-superior-4k-equipment/"><u>[New] Cheap Yet Superior 4K Equipment</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-affordable-action-camera-choices-top-6-under-100/"><u>[Updated] Affordable ACTION Camera Choices – Top 6 Under $100</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-srt-education-and-resources/"><u>[Updated] Comprehensive SRT Education and Resources</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-tutorial-inserting-text-into-photographs-on-oses/"><u>[Updated] Comprehensive Tutorial  Inserting Text Into Photographs on OSes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/15-essential-color-filters-to-elevate-gopro-cinematography/"><u>15 Essential Color Filters to Elevate GoPro Cinematography</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-2022-olympic-sprint-ice-key-moments-and-winners/"><u>2024 Approved  2022 Olympic Sprint Ice  Key Moments and Winners</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-all-about-triller-diverging-from-standard-tiktok-experience/"><u>2024 Approved  All About Triller  Diverging From Standard TikTok Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/androvid-video-editor-complete-review/"><u>AndroVid Video Editor – Complete Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoiding-compression-larger-youtube-videos-for-2024/"><u>Avoiding Compression  Larger YouTube Videos for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/becoming-a-youtube-pro-the-ultimate-picture-post-guide/"><u>Becoming a YouTube Pro  The Ultimate Picture Post Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beyond-ustream-a-comparative-analysis-of-streams/"><u>Beyond Ustream  A Comparative Analysis of Streams</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-your-windows-photos-feed-incorporating-audio-elements-for-2024/"><u>Boosting Your Windows Photos Feed  Incorporating Audio Elements for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-techniques-for-collaborative-creations/"><u>Cutting Edge Techniques for Collaborative Creations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fifteen-methods-to-reset-a-twitch-stream-in-real-time/"><u>Fifteen Methods to Reset a Twitch Stream in Real-Time</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/freedomforsounders-review-extraction-excellence/"><u>FreedomForSounders Review  Extraction Excellence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hide-and-seek-photoshop-tips-for-background-blending/"><u>Hide & Seek  Photoshop Tips for Background Blending</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-clear-vision-how-to-cut-out-image-clutter-on-photopea/"><u>In 2024, Clear Vision  How to Cut Out Image Clutter on Photopea</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/initiating-zoom-conversations-from-your-android-device/"><u>Initiating Zoom Conversations From Your Android Device</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-chromatics-a-practical-approach/"><u>Mastering Chromatics  A Practical Approach</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-subreddit-landscape-a-step-by-step-approach/"><u>Navigating the Subreddit Landscape  A Step-by-Step Approach</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premiere-pros-guide-to-avoiding-overlit-iphone-hdr-videos/"><u>Premiere Pro's Guide to Avoiding Overlit iPhone HDR Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-choices-of-affordable-cameras-with-full-hd/"><u>Prime Choices of Affordable Cameras with Full HD</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-voice-activated-transcription-tools/"><u>Prime Voice-Activated Transcription Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quintessential-5-filters-for-depth-video/"><u>Quintessential 5 Filters for Depth Video</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/rhythmic-convergence-crossfade-explained-simply/"><u>Rhythmic Convergence  Crossfade Explained Simply</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/techniques-for-transforming-twitter-vids-to-mp3-audios/"><u>Techniques for Transforming Twitter Vids to MP3 Audios</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-smart-shoppers-guide-to-cloud-services-cost/"><u>The Smart Shopper's Guide to Cloud Services Cost</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unparalleled-live-tv-experience-with-local-channels/"><u>Unparalleled Live TV Experience with Local Channels</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/velocity-vision-speed-up-videos-on-android/"><u>Velocity Vision  Speed Up Videos on Android</u></a></li>
+</ul></div>

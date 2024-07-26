@@ -1,7 +1,7 @@
 ---
 title: "Delicate Downgrades of Decibels in Garageband"
-date: 2024-05-24T05:18:33.880Z
-updated: 2024-05-25T05:18:33.880Z
+date: 2024-07-25T04:56:37.319Z
+updated: 2024-07-26T04:56:37.319Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Delicate Downgrades of Decibels in Garageband"
 excerpt: "This Article Describes Delicate Downgrades of Decibels in Garageband"
 keywords: "Garageband Sound Control,Low Volume Adjustments,Audio Level Reduction,Decibel Decrease Techniques,Quiet Garage Music Editing,Gentle Noise Lowering,Soft Sound Settings"
-thumbnail: https://www.lifewire.com/thmb/E4gPFTZX9qtIL-wmVSrf9SyCM6g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/tesla-phone-concept-2236595eafcc4248a93b0b3b73bda251.png
+thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb6fabc72096593a99e32594f.png
 ---
 
 ## Delicate Downgrades of Decibels in Garageband
@@ -32,6 +32,9 @@ This platform allows an individual to include an automatic fade-out effect on th
 
 Step1 Turn on the application and open the song from the home screen.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open songs in garageband](https://images.wondershare.com/filmora/article-images/2022/07/open-songs-in-garageband.jpg)
 
 Step2 Press the track> show the master track from the icon menu, and then the master track will come below the last track.
@@ -40,10 +43,16 @@ Step3 Choose the mix> produce volume fade out on the main output option.
 
 Step4 Press the volume button from the menu in the track header, and use the volume point to adjust the fade-out length.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![start fade out length garageband](https://images.wondershare.com/filmora/article-images/2022/07/start-fade-out-length-garageband.jpg)
 
 Using the GarageBand application on your iPad, you can opt for the automatic fade-out option. You need to open the song set and activate the active fade-out option.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## Part 2\. How to Fade Audio with Garageband on iPhone?
 
 Fading out of music is very popular when going through your favorite track. As soon as the song comes closer to the end, you will get to hear it fade slowly-slowly. You can use this effect even if you produce your music in Garageband. Fading out a song is not a widespread practice, but you can go through the article to gather information about how to **fade in Garageband**.
@@ -56,6 +65,9 @@ Step2 Go to the setting option at the top right corner and open the song set.
 
 Step3 Scroll down to the fade-out option and turn it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fade audio garageband iphone](https://images.wondershare.com/filmora/article-images/2022/07/fade-audio-garageband-iphone.jpg)
 
 Step4 Hit the done icon.
@@ -72,6 +84,9 @@ Suppose you are searching for a great MP3 editor that offers various file format
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use filmora editor](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 This application also offers many features that make the users curious about the application. This application can easily add background music to any video file. You can also change the media file with benefits like split audio, volume adjustment, and adjusting audio. This application also offers audio denoise and equalizer features. You can gather more information by exploring the application.
@@ -94,6 +109,9 @@ After the drag and drop procedure, double click on the file and direct yourself 
 
 Choose the create option to save the new file if you are done with the adjusting part. You can save your file in several formats such as MP3, MKV, WMV, AVI, etc. you can play the track on various devices like iPad, iPod, iPhone, Zune, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![save the video](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 ## Conclusion
@@ -118,6 +136,9 @@ After the installation procedure, select the import icon from the menu. Choose t
 
 After the drag and drop procedure, double click on the file and direct yourself to the audio column; there, you will get numerous settings that include volume, fade-out, fade-in, and pitch. Adjust as per your need until and unless you get the desired clip.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add audio fade in to clip](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 ##### Step3 Save the video
@@ -154,3 +175,35 @@ According to the survey, one of the most searched topics is **how to fade music 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-action-in-high-definition-t5-eye-revealed/"><u>[New] Action in High Definition  T5 Eye Revealed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-breaking-barriers-top-picks-of-virtual-reality-walkers/"><u>[New] Breaking Barriers  Top Picks of Virtual Reality Walkers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crayoncrafts-thorough-examination-and-users-manual-2eva/"><u>[New] CrayonCrafts Thorough Examination & User's Manual 2Eva</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-2023-full-movement-analysis/"><u>[Updated] 2023 Full Movement Analysis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-of-breed-exceptional-webcam-supports/"><u>[Updated] Best Of Breed  Exceptional Webcam Supports</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-bringing-to-life-advanced-color-correction-guide/"><u>[Updated] Bringing to Life  Advanced Color Correction Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-fcp-users-guidebook/"><u>[Updated] Comprehensive FCP User's Guidebook</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-excellent-4k-televisions-ranked-for-2024/"><u>10 Excellent 4K Televisions Ranked for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-asus-pa32u-explored-unparalleled-4k-professional-monitoring/"><u>2024 Approved  Asus PA32U Explored  Unparalleled 4K Professional Monitoring</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-cheap-sky-expeditions-under-500-drone-highlights/"><u>2024 Approved  Cheap Sky Expeditions  Under $500 Drone Highlights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-convert-your-social-feeds-videos-into-listenable-audio/"><u>2024 Approved  Convert Your Social Feed's Videos Into Listenable Audio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-comprehensive-guide-to-azure-speech-to-text-implementation/"><u>A Comprehensive Guide to Azure Speech-to-Text Implementation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/basic-equipment-for-travel-video-creators-for-2024/"><u>Basic Equipment for Travel Video Creators for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/becoming-a-photo-guru-ios-androids-top-skin-editors-reviewed/"><u>Becoming a Photo Guru  IOS, Android's Top Skin Editors Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/breaking-down-whatsapps-voice-call-features/"><u>Breaking Down WhatsApp's Voice Call Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comparing-sns-hdrs-capabilities-with-competitor-software-for-2024/"><u>Comparing SNS HDR's Capabilities with Competitor Software for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/embarking-on-vlogging-critical-equipment-and-tools/"><u>Embarking on Vlogging  Critical Equipment and Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-camera-control-tips-for-unshakable-images/"><u>In 2024, Camera Control Tips for Unshakable Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-spectacular-time-lapses-with-gopro-hero5-black/"><u>In 2024, Crafting Spectacular Time-Lapses with GoPro Hero5 Black</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/kinemasters-comprehensive-guide-to-green-screen-usage/"><u>Kinemaster's Comprehensive Guide to Green Screen Usage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-selection-of-webcams-for-optimal-zoom-video-quality/"><u>Prime Selection of Webcams for Optimal Zoom Video Quality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pro-iphone-hdr-photos-made-easy/"><u>Pro iPhone HDR Photos Made Easy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pro-iphone-light-techniques-for-expert-photographers/"><u>Pro iPhone Light Techniques for Expert Photographers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/proficient-strategies-for-hyperlink-integration-into-tiktok-profiles/"><u>Proficient Strategies for Hyperlink Integration Into TikTok Profiles</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/srt-to-subtitles-subc-practical-steps-for-conversion/"><u>SRT to Subtitles (SUBC)  Practical Steps for Conversion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlined-techniques-for-accumulating-large-tiktok-datasets/"><u>Streamlined Techniques for Accumulating Large TikTok Datasets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/toonapp-complete-review-and-guide-2024/"><u>ToonApp Complete Review & Guide 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/voice-vaults-best-speech-to-text-tools-without-online-dependency/"><u>Voice Vaults  Best Speech-to-Text Tools Without Online Dependency</u></a></li>
+</ul></div>

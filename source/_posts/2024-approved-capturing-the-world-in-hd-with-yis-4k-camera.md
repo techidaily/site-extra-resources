@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Capturing the World in HD with YI's 4K Camera\""
-date: 2024-05-24T04:01:41.645Z
-updated: 2024-05-25T04:01:41.645Z
+date: 2024-07-25T02:21:59.591Z
+updated: 2024-07-26T02:21:59.591Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Capturing the World in HD with YI's 4K Camera\""
 excerpt: "\"This Article Describes 2024 Approved: Capturing the World in HD with YI's 4K Camera\""
 keywords: "\"HD High-Res Imaging,4K Video Capture,Yi Drone Photography,Ultra-HD Aerial Footage,Detailed World Scanning,Premium Quality Cinematography,Advanced 4K Aerials\""
-thumbnail: https://www.lifewire.com/thmb/M_X1ma-kuwmeQ-kg-ITiIY4tMQQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2023-03-14at12.27.14PM-07cb4c0039e84004a9918ecb5dee60ec.jpg
+thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c350e0ba60cc8399b6967ad03.jpg
 ---
 
 ## Capturing the World in HD with YI's 4K Camera
@@ -39,6 +39,9 @@ thumbnail: https://www.lifewire.com/thmb/M_X1ma-kuwmeQ-kg-ITiIY4tMQQ=/400x300/fi
 
  Let us start with the hardware part. Yi 4k looks almost same as that of GoPro device, even the waterproof case appears somewhat like GoPro product. Some resemblance is found in mobile applications as well as in mounting systems. The front side of Yi 4k is equipped with a lens and LED that provides current camera status indication. The 2.2 inch wide LCD screen is protected with Gorilla Glass whereas on top portion you will find holes for speaker and dual microphone. On the right side, a small flap is covering MicroUSB charging port and the left side is left bare.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![yi-4k-product](https://images.wondershare.com/filmora/article-images/yi-4k-product.jpg)
 
 #### Specifications
@@ -145,6 +148,9 @@ Follow @Max Wales
 
 **You may also like:** [Top 15 Best Action Cameras >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## Complete Review for Yi 4k Action Camera
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01FU9ZIMU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FU9ZIMU&linkId=8ffea9b2da130000b205cf9367ce3ccf
@@ -244,6 +250,9 @@ Follow @Max Wales
 
  Need more information?[Check GoPro Hero5 Black vs Xiaomi Yi 4K Action Camera](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -260,6 +269,9 @@ Follow @Max Wales
 
 **You may also like:** [Top 15 Best Action Cameras >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## Complete Review for Yi 4k Action Camera
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01FU9ZIMU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FU9ZIMU&linkId=8ffea9b2da130000b205cf9367ce3ccf
@@ -269,6 +281,9 @@ Follow @Max Wales
 
  Let us start with the hardware part. Yi 4k looks almost same as that of GoPro device, even the waterproof case appears somewhat like GoPro product. Some resemblance is found in mobile applications as well as in mounting systems. The front side of Yi 4k is equipped with a lens and LED that provides current camera status indication. The 2.2 inch wide LCD screen is protected with Gorilla Glass whereas on top portion you will find holes for speaker and dual microphone. On the right side, a small flap is covering MicroUSB charging port and the left side is left bare.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![yi-4k-product](https://images.wondershare.com/filmora/article-images/yi-4k-product.jpg)
 
 #### Specifications
@@ -359,6 +374,9 @@ Follow @Max Wales
 
  Need more information?[Check GoPro Hero5 Black vs Xiaomi Yi 4K Action Camera](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -375,6 +393,9 @@ Follow @Max Wales
 
 **You may also like:** [Top 15 Best Action Cameras >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Complete Review for Yi 4k Action Camera
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01FU9ZIMU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FU9ZIMU&linkId=8ffea9b2da130000b205cf9367ce3ccf
@@ -474,6 +495,9 @@ Follow @Max Wales
 
  Need more information?[Check GoPro Hero5 Black vs Xiaomi Yi 4K Action Camera](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -506,3 +530,41 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-budget-conscious-shooters-7-best-4k-cameras/"><u>[New] Budget-Conscious Shooters' 7 Best 4K Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-cinema-in-editing-10-snippet-selections/"><u>[New] Cinema in Editing  10 Snippet Selections</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-affinity-photo-expertise-review-guide/"><u>[Updated] Affinity Photo Expertise Review Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-androidiphone-mastery-discover-the-ultimate-top-8-app-set/"><u>[Updated] Android/iPhone Mastery  Discover the Ultimate Top 8 App Set</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-audio-docking-systems-for-immersive-experience/"><u>[Updated] Audio Docking Systems for Immersive Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-and-convey-top-10-image-writing-aid-apps-iosandroid/"><u>[Updated] Capture and Convey  Top 10 Image Writing Aid Apps (iOS/Android)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-ace-your-green-screen-videos-must-know-secrets/"><u>2024 Approved  Ace Your Green Screen Videos  Must-Know Secrets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-through-boundaries-with-hdr-in-editing/"><u>2024 Approved  Breaking Through Boundaries with HDR in Editing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/5-simple-steps-to-quickly-improve-your-filmmaking-skills/"><u>5 Simple Steps to Quickly Improve Your Filmmaking Skills</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/behind-the-scenes-how-to-remove-background-in-picsart/"><u>Behind the Scenes  How to Remove Background in Picsart</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/benqs-visionary-approach-to-4k-monitors-unraveled-by-the-bl2711u-review-for-2024/"><u>BenQ's Visionary Approach to 4K Monitors, Unraveled by the BL2711U Review for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-free-video-apps-on-multiple-desktops/"><u>Best Free Video Apps on Multiple Desktops</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/building-better-montages-a-creative-guide-for-2024/"><u>Building Better Montages  A Creative Guide for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creating-a-professional-periscope-presence/"><u>Creating a Professional Periscope Presence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/decoding-the-secrets-of-3d-luts-in-photoshop-expertise/"><u>Decoding the Secrets of 3D LUTs in Photoshop Expertise</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/finding-chrome-companions-custom-melodies/"><u>Finding Chrome Companion's Custom Melodies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/guide-to-optimal-vr-headset-selection-freedom-or-connection/"><u>Guide to Optimal VR Headset Selection  Freedom or Connection?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-action-hunting-cameras-of-2023/"><u>In 2024, Best Action Hunting Cameras of 2023</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-cinematic-content-with-video-enhance-v22/"><u>In 2024, Crafting Cinematic Content with Video Enhance V2.2</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-top-4k-all-in-one-touch-screen-desktops/"><u>In 2024, Top 4K All-in-One Touch Screen Desktops</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-close-up-views-on-web-conferencing/"><u>Mastering Close-Up Views on Web Conferencing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-zoom-on-xbox-one-a-step-by-step-guide/"><u>Mastering Zoom on Xbox One  A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/melody-migration-transitioning-playlists-across-platforms/"><u>Melody Migration  Transitioning Playlists Across Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pushing-boundaries-merging-hdr-photos-with-lightroom/"><u>Pushing Boundaries  Merging HDR Photos with Lightroom</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/secrets-revealed-mastering-chapter-integration-in-youtube-videos/"><u>Secrets Revealed  Mastering Chapter Integration in YouTube Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/spark-change-with-these-10-inspirational-classics/"><u>Spark Change with These 10 Inspirational Classics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/techniques-to-transform-text-into-a-3d-entity/"><u>Techniques to Transform Text Into a 3D Entity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-zoom-expertise-for-improved-google-meet-visibility/"><u>The Ultimate Zoom Expertise for Improved Google Meet Visibility</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/through-the-viewfinder-top-10-must-have-lenses/"><u>Through The Viewfinder  Top 10 Must-Have Lenses</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-20-essential-gopro-extras/"><u>Top 20 Essential Gopro Extras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-tricks-for-optimizing-windows-11/"><u>Top Tricks for Optimizing Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/understanding-video-storage-in-24-hours/"><u>Understanding Video Storage in 24-Hours</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-youtube-subtitles-srt-3-steps-guide/"><u>Unlocking YouTube Subtitles (SRT) - 3 Steps Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/windows-11-update-deep-dive/"><u>Windows 11 Update Deep Dive</u></a></li>
+</ul></div>

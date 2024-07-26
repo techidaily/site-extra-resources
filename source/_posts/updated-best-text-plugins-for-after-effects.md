@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Best Text Plugins For After Effects"
-date: 2024-05-24T03:33:09.783Z
-updated: 2024-05-25T03:33:09.783Z
+date: 2024-07-25T01:32:36.955Z
+updated: 2024-07-26T01:32:36.955Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://www.lifewire.com/thmb/J10hOGSnG-STrFXmH9vrkT_Y-sI=/540x405/fi
 
 Adobe After Effects remains one of the most powerful ways to edit videos. One of the main reasons users find it so useful is the ability to customize the video editing process by adding different kinds of plugins to the program. If you are looking to add unique and fancy text to the video you are working on, then these text plugins for After Effects will come in handy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## TextDelay
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Ftextdelay/>
@@ -34,16 +37,29 @@ Link: <https://aescripts.com/textexploder/>
 
 TextExploder is an After Effects plugin that is developed by MamoWorld and it allows you to split the text layers in After Effects into words, lines, characters, and more. These splits are so powerful that you can very easily isolate a single word or even a single letter.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![text exploder plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-exploder-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## iExpressions 2
 
 Link: <https://aescripts.com/iexpressions/>
 
 If you want to effectively use the After Effects expressions even if you are not familiar with coding, iExpressions 2 is the text plugin to consider. It comes with 22 ready-to-use iExpressions that you can easily customize to fit into your project and it is so easy to use.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ## TextBox
 
 Link: <https://aescripts.com/textbox/>
@@ -52,6 +68,9 @@ If you want to create the perfect shape behind your text, then TextBox is a good
 
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Font Manager
 
 Link: <https://aescripts.com/font-manager/>
@@ -66,6 +85,9 @@ Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Fcartoon%5Fmoblur>
 
 This is the most ideal plugin to choose when you want to add motion trail to the graphics in your video, but you want them to appear very cartoony. If you have used the motion blur effect in After Effects, Cartoon Moblur will behave in a similar function, but it is more suited to 2D, flat or minimal graphics. Some of the factors that you can customize include the length of the blur (shutter angle), color, and opacity.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![cartoon moblur plugin](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-moblur-plugin.jpg)
 
 ## Shadow Studio
@@ -74,6 +96,9 @@ If you are looking for shadow styles that will go very well with your project, S
 
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## Texts Animation Bundle
 
 Link: <https://aedownload.com/download-texts-animation-bundle-free-videohive/>
@@ -82,6 +107,9 @@ This is a bundle of more than 80 different templates to add text effects to any 
 
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Artificial Intelligence Titles
 
 Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%5Frank=1>
@@ -98,6 +126,9 @@ This is another great text animation bundle with different options for just abou
 
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 On its own After Effects comes with so many post-production effects and features to make your project appear professional and well made. But if you would like to have a unique video production that stands head and shoulders above all others, plugins are a great way to do that. The good news is that After Effects allows for the use of plugins developed by third-party developers and some of the them like the text plugins, we have listed above can be very useful to a video’s production.
@@ -132,3 +163,38 @@ On its own After Effects comes with so many post-production effects and features
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-balance-tint-editor-pro/"><u>[New] Balance Tint Editor Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-practices-a-guide-to-optimal-mobile-video-reduction/"><u>[New] Best Practices  A Guide to Optimal Mobile Video Reduction</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-hardware-for-high-quality-livestreams/"><u>[Updated] Best Hardware for High-Quality Livestreams</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-blueprint-for-blending-video-content-into-curricula/"><u>[Updated] Blueprint for Blending Video Content Into Curricula</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-cartoonhub-complete-guide-and-assessment-2024/"><u>[Updated] CartoonHub Complete Guide & Assessment 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-10-best-srt-turbocharger-mods-compatible-with-os-x-and-win/"><u>2024 Approved  10 Best SRT Turbocharger Mods Compatible with OS X & Win</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-ace-your-adventures-with-gopro-tips/"><u>2024 Approved  Ace Your Adventures with GoPro Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-asmr-unraveled-enhancing-mental-wellness/"><u>2024 Approved  ASMR Unraveled  Enhancing Mental Wellness</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-balancing-acts-reducing-shakiness-for-better-gopro-vids/"><u>2024 Approved  Balancing Acts  Reducing Shakiness for Better GoPro Vids</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-photo-and-video-display-apps-from-xi-to-x/"><u>2024 Approved  Best Photo & Video Display Apps  From XI to X</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-engaging-full-degree-footage-with-adobe-premieres-state-of-the-art-tools/"><u>2024 Approved  Crafting Engaging Full Degree Footage with Adobe Premiere's State-of-the-Art Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-6-apps-to-translate-film-content-for-2024/"><u>Advanced 6 Apps to Translate Film Content for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/analyzing-the-financial-gains-of-podcasting/"><u>Analyzing the Financial Gains of Podcasting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audio-first-video-second-comparing-podcast-vs-youtube-for-2024/"><u>Audio First, Video Second? Comparing Podcast vs YouTube for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-6-video-translators-to-translate-video-for-2024/"><u>Best 6 Video Translators to Translate Video for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-matches-top-ten-gimbals-for-quality-shoots/"><u>Best Matches  Top Ten Gimbals for Quality Shoots</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comedic-calls-ringtones-best-picks-online-for-2024/"><u>Comedic Calls  Ringtones' Best Picks Online for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-guide-to-vsco-camera-app/"><u>Comprehensive Guide to VSCO Camera App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enablingdisabling-multitasking-in-safari-devices/"><u>Enabling/Disabling Multitasking in Safari Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-podcast-apps-android-editions-top-picks/"><u>Essential Podcast Apps  Android Edition's Top Picks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-artful-humor-chuckledrawings/"><u>In 2024, Artful Humor  ChuckleDrawings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-budget-deals-on-high-quality-gopros/"><u>In 2024, Budget Deals on High-Quality GoPros</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-buzzing-the-net-with-humor-your-comprehensive-guide-to-9gag/"><u>In 2024, Buzzing the Net with Humor  Your Comprehensive Guide to 9GAG</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-financial-forecasting-a-deep-dive-into-budgeting-strategies/"><u>Mastering the Art of Financial Forecasting  A Deep Dive Into Budgeting Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/money-smart-aerial-explorers-5-best-drones-for-less-than-100/"><u>Money-Smart Aerial Explorers  5 Best Drones for Less Than $100</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/preventing-shake-in-cellphone-recorded-movies/"><u>Preventing Shake in Cellphone-Recorded Movies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pro-level-scripting-solutions-in-ae/"><u>Pro-Level Scripting Solutions in AE</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/reviewing-microsofts-hololens-step-into-the-future/"><u>Reviewing Microsoft's HoloLens – Step Into the Future</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essential-role-of-voice-in-visual-content/"><u>The Essential Role of Voice in Visual Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-5-budget-friendly-camcorders-with-hd-quality/"><u>Top 5 Budget-Friendly Camcorders with HD Quality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visionary-vr-game-engines-transforming-2023s-gaming-landscape/"><u>Visionary VR Game Engines Transforming 2023'S Gaming Landscape</u></a></li>
+</ul></div>

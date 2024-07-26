@@ -1,7 +1,7 @@
 ---
 title: "Crafting Compelling Documentary Narratives for 2024"
-date: 2024-05-24T05:31:21.906Z
-updated: 2024-05-25T05:31:21.906Z
+date: 2024-07-25T05:20:34.739Z
+updated: 2024-07-26T05:20:34.739Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Crafting Compelling Documentary Narratives for 2024"
 excerpt: "This Article Describes Crafting Compelling Documentary Narratives for 2024"
 keywords: "DocuNarrative Crafting,Compelling Film Storytelling,Engaging Documentary Techniques,Stellar Documentary Scripts,Captivating Narratives,Powerful Doc Production,Dynamic Filmmaking Tactics"
-thumbnail: https://www.lifewire.com/thmb/PGv99t-EJhy91apG-ZcQliud5f0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-clean-a-flat-screen-tv-or-computer-monitor-2624703_final-5c18343bc9e77c00016deb61.png
+thumbnail: https://thmb.techidaily.com/377e38553991337f1398bdbfe5a8f44bdc61d9fc38dd827fd098be11d1cb15df.png
 ---
 
 ## Crafting Compelling Documentary Narratives
@@ -36,12 +36,23 @@ Hello guys, and welcome to another fantastic and informative article. Our today'
 * [Documentary script examples](#part4)
 * [Make your documentary script come true by using Filmora](#part5)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Part 1\. What is a Documentary?
 
 To write a good documentary script, you should first know what a documentary is. A documentary is a genre usually used for non-fiction or reality-based films. Such type of films includes researched based representation of a specific subject like interviews of peoples involved in it, official documents related to it, and many more. Sometimes they tell us facts about a particular topic that only very few of us know. They are also beneficial to raising social issues to the officials and making others aware of them. Now that you know what a documentary is let's move forward to our next step, three popular types of documentary scripts.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## Part 2\. Three popular types of a documentary script
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### 1\. Literary Style
 
 In this style, your only concerns are with the shooting ability of the text for which you should have camera sense, writing rhetorically (but not too much) with the text language literacy, and dividing the script into different paragraphs according to time space and scene. You don't have to describe the technical requirements of shooting in it.
@@ -68,6 +79,10 @@ Another thing that makes a documentary script best is that it should define the 
 
 Highlighting the characteristics of each scene of your script makes it much better and easy for others to understand. For example, if you have any fighting scene in your documentary film, you should have to define each thing that will be there and film it in your screenplay. Also, you can suggest or specify the location of each scene.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Visual Writing
 
 Visual Writing means you should make it clear in your script which will be there in a specific scene. Moreover, it would be best if you also described your character's situation. It is the most necessary thing in a documentary script, so you should never take it side.
@@ -96,6 +111,9 @@ As you can see in the following example of a documentary script of a screenplay 
 | Pictures of Albert Einstein and then his brain                 | However, he declined that he is brilliant.                                                                     |
 | Pictures of Albert Einstein Theories                           | But still, he is the one due to his various authentic and scientifically proven theories and experiments.      |
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5\. Make your documentary script come true by using Filmora
 
 The way you can make it happen after composing your documentary script for your film is ultimately what matters the most. Given that you have [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), you shouldn't worry. You may quickly and successfully use this to bring your documentary script to reality. We will therefore explain what you should do first and what Speed Ramping can do for your documentary. You must first record your documentary script screenplay, after which you must complete the following:
@@ -106,6 +124,9 @@ The way you can make it happen after composing your documentary script for your 
 
 1. Go to the [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) website and **Download** the Filmora software from it for free.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![download filmora software](https://images.wondershare.com/filmora/article-images/2022/07/write-a-good-documentary-script-1.jpg)
 
 2. Now **Click** on a **New Project** to create your first project in Filmora.
@@ -114,6 +135,9 @@ The way you can make it happen after composing your documentary script for your 
 
 3. After importing your media clips, you can double-click on your video clip to open the speed adjustment window. Then, choose **Speed > Speed Ramping**.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![double click on video clip](https://images.wondershare.com/filmora/article-images/2022/07/write-a-good-documentary-script-3.jpg)
 
 4. You can add smooth speed shift curves from Filmora to your documentary clips to experience the result. Attempting to alter the speed shift curve on your own is an option if you don't like them.
@@ -126,6 +150,9 @@ The way you can make it happen after composing your documentary script for your 
 
 6. After that, click on the **Export** button at the top bar. an exporting menu will appear on your screen from which you can choose the preferences about exporting your video, like its name, storage location, format, etc. Just wait until the export is finished.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 So, the last words for this educational post are that, as we all know, writing a script effectively makes your script the greatest. Similarly, in the documentary screenplay, writing a script that follows an effective manner and contains well-researched information based on authentic resources makes it the best. So that's why today we discuss this topic in this article to help those who want to make a good documentary screenplay but do not know how to write a good script. Also, for those who have already finished writing their documentary script but do not know how to make it happen, we hope that it will benefit all of you and that you enjoyed reading it. Thanks for reading it.
@@ -146,10 +173,16 @@ To write a good documentary script, you should first know what a documentary is.
 
 ## Part 2\. Three popular types of a documentary script
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Literary Style
 
 In this style, your only concerns are with the shooting ability of the text for which you should have camera sense, writing rhetorically (but not too much) with the text language literacy, and dividing the script into different paragraphs according to time space and scene. You don't have to describe the technical requirements of shooting in it.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Shot-Oriented
 
 In this one, you have to write a detailed description of the action and the images which will be there in your screenplay without considering the script's literary merits and readability. Also, in this style, each scene is divided into paragraphs, and before starting each section, the writer should have mentioned the scene's location, time, mirror, and number. In simple words, this script style provides more detailed and deep instructions about the film or a documentary screenplay.
@@ -160,18 +193,35 @@ The director usually uses this style of scripting. After the director of the fil
 
 ## Part 3\. Six basic theoretical knowledge about documentary script
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### 1\. Ensure the authenticity of the story
 
 The first and most important step in writing a documentary screenplay is to make sure the material and information you use is accurate. Moreover, if your documentary script is based on a true story, you should first confirm the veracity of the tale before drafting the script. It elevates the level of your script's content quality.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Define the key issues
 
 Another thing that makes a documentary script best is that it should define the critical issues of the topic upon which it relies. For example, writing a documentary script on a social problem, you should also define its key points. Also, you can add interviews of the experts, or the people involved in some story. It makes your documentary script more effective and influential for the audience.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### 3\. Highlight the characteristics of the scene
 
 Highlighting the characteristics of each scene of your script makes it much better and easy for others to understand. For example, if you have any fighting scene in your documentary film, you should have to define each thing that will be there and film it in your screenplay. Also, you can suggest or specify the location of each scene.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Visual Writing
 
 Visual Writing means you should make it clear in your script which will be there in a specific scene. Moreover, it would be best if you also described your character's situation. It is the most necessary thing in a documentary script, so you should never take it side.
@@ -200,6 +250,9 @@ As you can see in the following example of a documentary script of a screenplay 
 | Pictures of Albert Einstein and then his brain                 | However, he declined that he is brilliant.                                                                     |
 | Pictures of Albert Einstein Theories                           | But still, he is the one due to his various authentic and scientifically proven theories and experiments.      |
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5\. Make your documentary script come true by using Filmora
 
 The way you can make it happen after composing your documentary script for your film is ultimately what matters the most. Given that you have [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), you shouldn't worry. You may quickly and successfully use this to bring your documentary script to reality. We will therefore explain what you should do first and what Speed Ramping can do for your documentary. You must first record your documentary script screenplay, after which you must complete the following:
@@ -210,10 +263,17 @@ The way you can make it happen after composing your documentary script for your 
 
 1. Go to the [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) website and **Download** the Filmora software from it for free.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![download filmora software](https://images.wondershare.com/filmora/article-images/2022/07/write-a-good-documentary-script-1.jpg)
 
 2. Now **Click** on a **New Project** to create your first project in Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on new project button](https://images.wondershare.com/filmora/article-images/2022/07/write-a-good-documentary-script-2.jpg)
 
 3. After importing your media clips, you can double-click on your video clip to open the speed adjustment window. Then, choose **Speed > Speed Ramping**.
@@ -222,6 +282,9 @@ The way you can make it happen after composing your documentary script for your 
 
 4. You can add smooth speed shift curves from Filmora to your documentary clips to experience the result. Attempting to alter the speed shift curve on your own is an option if you don't like them.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add smooth speed shift curves](https://images.wondershare.com/filmora/article-images/2022/07/write-a-good-documentary-script-4.jpg)
 
 5. Then you can click on the **Audio Visualizer** button to use the audio-visual features in your documentary video, which makes your video more rhythmic.
@@ -230,6 +293,15 @@ The way you can make it happen after composing your documentary script for your 
 
 6. After that, click on the **Export** button at the top bar. an exporting menu will appear on your screen from which you can choose the preferences about exporting your video, like its name, storage location, format, etc. Just wait until the export is finished.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 So, the last words for this educational post are that, as we all know, writing a script effectively makes your script the greatest. Similarly, in the documentary screenplay, writing a script that follows an effective manner and contains well-researched information based on authentic resources makes it the best. So that's why today we discuss this topic in this article to help those who want to make a good documentary screenplay but do not know how to write a good script. Also, for those who have already finished writing their documentary script but do not know how to make it happen, we hope that it will benefit all of you and that you enjoyed reading it. Thanks for reading it.
@@ -258,3 +330,30 @@ So, the last words for this educational post are that, as we all know, writing a
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/3dr-a-compreran-users-journey-through-tech-aloneness-for-2024/"><u>'3DR'  A Compreran User's Journey Through Tech Aloneness for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-beginners-insight-into-av1-encoding/"><u>[Updated] A Beginner's Insight Into AV1 Encoding</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-achieve-flawless-imagery-how-to-remove-backgrounds-on-canva/"><u>[Updated] Achieve Flawless Imagery  How to Remove Backgrounds on Canva</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-assemble-films-for-streaming-organization/"><u>[Updated] Assemble Films for Streaming Organization</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-top-6-best-8k-cameras/"><u>[Updated] Top 6 Best 8K Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-analyzing-major-editions-and-phases-of-windows-movie-maker/"><u>2024 Approved  Analyzing Major Editions and Phases of Windows Movie Maker</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/apex-developers-in-the-realm-of-virtual-reality-for-2024/"><u>Apex Developers in the Realm of Virtual Reality for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/astro-bio-revolution-crafting-signature-whatsapp-identities/"><u>Astro-Bio Revolution  Crafting Signature WhatsApp Identities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/b-footage-techniques-for-creating-engaging-video-content/"><u>B-Footage Techniques for Creating Engaging Video Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/build-your-brand-memes-with-kinemaster/"><u>Build Your Brand  Memes with KineMaster</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/deciding-on-video-platforms-podcast-or-youtube/"><u>Deciding on Video Platforms  Podcast or YouTube?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dji-gopro-or-instax360-make-your-choice/"><u>DJi, GoPro, or InstaX360? Make Your Choice</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/firefox-pip-simplified-for-the-everyday-user/"><u>Firefox PIP  Simplified for the Everyday User</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-complete-rundown-top-10-digital-drawing-software-on-chrome/"><u>In 2024, A Complete Rundown  Top 10 Digital Drawing Software on Chrome</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-conduct-your-clicks-harmonize-images-and-sounds/"><u>In 2024, Conduct Your Clicks  Harmonize Images & Sounds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/laugh-loop-meme-treasures-for-diverse-events/"><u>Laugh Loop  Meme Treasures for Diverse Events</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/learn-to-craft-instagram-ringtones-with-us/"><u>Learn to Craft Instagram Ringtones with Us</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lights-camera-action-mastering-fundamental-shots-first/"><u>Lights, Camera, Action! Mastering Fundamental Shots First</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/plotting-precise-promotional-reels/"><u>Plotting Precise Promotional Reels</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/precision-and-performance-top-6-video-edits-on-macos-big-sur/"><u>Precision and Performance  Top 6 Video Edits on macOS Big Sur</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premium-internet-spots-for-glossy-3d-text-effects/"><u>Premium Internet Spots for Glossy 3D Text Effects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revolutionary-editing-video-tools-triumph-on-m1-power/"><u>Revolutionary Editing  Video Tools Triumph on M1 Power</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sj6-ultimate-face-off-with-xiaomis-yi-4k-genius/"><u>SJ6 Ultimate Face-Off with Xiaomi's Yi 4K Genius</u></a></li>
+</ul></div>

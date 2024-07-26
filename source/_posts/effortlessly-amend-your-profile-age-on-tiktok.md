@@ -1,7 +1,7 @@
 ---
 title: "Effortlessly Amend Your Profile Age on TikTok"
-date: 2024-05-24T04:33:34.301Z
-updated: 2024-05-25T04:33:34.301Z
+date: 2024-07-25T03:32:24.077Z
+updated: 2024-07-26T03:32:24.077Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Effortlessly Amend Your Profile Age on TikTok"
 excerpt: "This Article Describes Effortlessly Amend Your Profile Age on TikTok"
 keywords: "W11 Image Boost,Easy Image Upscale,W11 Photo Enhancement,Simple Image Amplify,Improve W11 Pictures,W11 Visual Upgrade,Streamlined Image Intensity"
-thumbnail: https://www.lifewire.com/thmb/an2sUUuxV4lgDigUv90Uy-5izas=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/samsung-soundbar-c1b91ce1db6644d09b8b7684262cb8b1.jpg
+thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a0a176db85647e2b441ce187.jpg
 ---
 
 ## Effortlessly Amend Your Profile Age on TikTok
@@ -24,6 +24,9 @@ The accounts of teens from 13 to 16 have been made private to minimize the negat
 
 ![change age on tiktok featured image](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Part 1: How to Change Your Age on TikTok
 
 The 13-year age restriction on TikTok is not only to protect minors from the harmful side of the internet. It is to comply with Children's Online Privacy Protection Act (COPPA) in the United States. To ensure that users don't cheat with age-requirement, TikTok has removed the option to edit the birthdate from the app.
@@ -36,6 +39,9 @@ Since TikTok has removed the feature to edit your birthdate from its app, you wi
 
 **Step 1:** Open your TikTok app and tap on "Profile" from the bottom right corner. Next, touch on "Three Lines" from the top right corner of the profile screen and access "Settings and Privacy."
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select settings and privacy](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-2.jpg)
 
 **Step 2:** Now navigate to the "Support & About" section and tap “Report a Problem.” Press "Account and Profile" on the next screen and tap "Editing Profile."
@@ -58,10 +64,25 @@ If you are underage, you should not try to create a new account with a false age
 
 **Step 2:** If you choose “Email or Phone,” you will need to provide your “Email” or “Phone” on the next screen. You will need to go through a verification CAPTCHA and, on the next screen, create a password for your account. Provide your correct birthdate and press "Next" to complete the account creation.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirm your birthdate](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-6.jpg)
 
 **Step 3:** You can also use your Google, Facebook, Apple, or Twitter account to create your TikTok account. Pressing any of these will take you to the respective app for login verification. Provide the confirmation, and your TikTok account will be created.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![select social media to sign up](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-7.jpg)
 
 ## Part 2: TikTok Video Editor – Filmora for Mobile
@@ -76,22 +97,38 @@ With its help, you can trim clips, add transition effects, insert music, and cha
 
 We have prepared you a video to help you better start your video editing journey with Filmora! If you any interests, please don’t miss it:
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Protecting underage teens and kids from the negative side of the internet is important. A simple online search can show many examples where harmful TikTok content affected minors to the extent of severe physical injuries. Thus, you should only learn **how to change your age on TikTok** if you are older than 16.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![filmora for mobile features](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-8.jpg)
 
 We have prepared you a video to help you better start your video editing journey with Filmora! If you any interests, please don’t miss it:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Protecting underage teens and kids from the negative side of the internet is important. A simple online search can show many examples where harmful TikTok content affected minors to the extent of severe physical injuries. Thus, you should only learn **how to change your age on TikTok** if you are older than 16.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora for mobile features](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-8.jpg)
 
 We have prepared you a video to help you better start your video editing journey with Filmora! If you any interests, please don’t miss it:
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Protecting underage teens and kids from the negative side of the internet is important. A simple online search can show many examples where harmful TikTok content affected minors to the extent of severe physical injuries. Thus, you should only learn **how to change your age on TikTok** if you are older than 16.
@@ -128,3 +165,35 @@ Protecting underage teens and kids from the negative side of the internet is imp
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-a-look-at-the-best-narrative-creators-on-youtube-in-23/"><u>[New] A Look at the Best Narrative Creators on YouTube in '23</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-big-sur-essentials-system-and-hardware-upgrade/"><u>[New] Big Sur Essentials  System and Hardware Upgrade</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-boost-tiktok-bio-presence-perfectly-pairing-it-with-linktree/"><u>[New] Boost TikTok Bio Presence  Perfectly Pairing It with Linktree</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-guide-to-iconic-covers-top-10-podcast-graphic-tips/"><u>2024 Approved  A Guide to Iconic Covers  Top 10 Podcast Graphic Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-thorough-exploration-of-kinesthetic-controls/"><u>2024 Approved  A Thorough Exploration of Kinesthetic Controls</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beginners-pathway-utilizing-fade-transitions/"><u>2024 Approved  Beginner's Pathway  Utilizing Fade Transitions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-bring-back-contrast-iphone-hdr-video-tips-for-premiere-pro-users/"><u>2024 Approved  Bring Back Contrast  IPhone HDR Video Tips for Premiere Pro Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-circulation-crafting-kit/"><u>2024 Approved  Circulation Crafting Kit</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/accessible-alternatives-googles-simplicity-versus-samsungs-innovation-for-2024/"><u>Accessible Alternatives  Google's Simplicity Versus Samsung's Innovation for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-tactics-for-backdrop-cleanup-in-figma-for-2024/"><u>Advanced Tactics for Backdrop Cleanup in Figma for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoidance-manual-how-to-skip-edgenuity-courses-without-penalty/"><u>Avoidance Manual  How to Skip Edgenuity Courses Without Penalty</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-8-sbt-to-srtr-conversion-tools-pcmac-compatibility/"><u>Best 8 SBT to SRTR Conversion Tools - PC/Mac Compatibility</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-color-accuracy-free-plus-paid-luts-for-canon-users-for-2024/"><u>Boost Color Accuracy  FREE + Paid LUTs for Canon Users for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/clearing-up-tips-for-preventing-gopro-haze/"><u>Clearing Up  Tips for Preventing GoPro Haze</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compiling-ultimate-list-of-virtual-controls-for-2024/"><u>Compiling Ultimate List of Virtual Controls for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crest-of-crafts-review-pinnacle-studio-evaluation/"><u>Crest of Crafts Review  Pinnacle Studio Evaluation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-team-coordination-through-thoughtful-office-spaces/"><u>Enhancing Team Coordination Through Thoughtful Office Spaces</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/flipping-fun-facts-into-memes-with-kinemaster/"><u>Flipping Fun Facts Into Memes with KineMaster</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-blogging-to-broadcasting-scaling-up-your-youtube-presence/"><u>From Blogging to Broadcasting  Scaling Up Your YouTube Presence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-acoustic-link-for-speakers/"><u>Innovative Acoustic Link for Speakers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/integrating-your-podcast-into-apple-music/"><u>Integrating Your Podcast Into Apple Music</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/methods-to-minimize-mobile-footage-jitter/"><u>Methods to Minimize Mobile Footage Jitter</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/periscope-unveiled-free-access-benefits-and-signing-up-guide/"><u>Periscope Unveiled  Free Access, Benefits & Signing Up Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-navigating-the-full-spectrum-of-storage-in-the-adobe-cloud-ecosystem/"><u>Step by Step  Navigating the Full Spectrum of Storage in the Adobe Cloud Ecosystem</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/timing-and-frequency-what-is-the-best-day-to-release-a-podcast/"><u>Timing & Frequency  What Is the Best Day to Release a Podcast?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-30-screen-selections-for-xbox-series-x-gamers-enhance-every-playtime/"><u>Top 30 Screen Selections for Xbox Series X Gamers - Enhance Every Playtime</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/understanding-user-generated-music-rights-on-instagram/"><u>Understanding User-Generated Music Rights on Instagram</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/which-video-player-triumphs-insight-on-vlc-vs-mx/"><u>Which Video Player Triumphs? Insight on VLC Vs. MX</u></a></li>
+</ul></div>

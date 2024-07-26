@@ -1,7 +1,7 @@
 ---
 title: "\"Unlock YouTube Comment Insights  A Comprehensible Guide\""
-date: 2024-05-24T05:17:40.347Z
-updated: 2024-05-25T05:17:40.347Z
+date: 2024-07-25T04:55:12.552Z
+updated: 2024-07-26T04:55:12.552Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Unlock YouTube Comment Insights: A Comprehensible Guide\""
 excerpt: "\"This Article Describes Unlock YouTube Comment Insights: A Comprehensible Guide\""
 keywords: "YouTube Insight Basics,YouTube Comment Analysis,Understanding YouTube Feedback,Unraveling YouTube Comments,Keyword Growth Strategy,Video Content Engagement,Social Media Interaction Guide"
-thumbnail: https://www.lifewire.com/thmb/OuVef_5haGHVKpJil20272Du6cI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/computer-internals-with-red-LED-and-RGB-GettyImages-ebb5630f80ee4f8e874dd787739ad3cb.jpg
+thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf4a7b3121bebc119dc83e730.jpg
 ---
 
 ## Unlock YouTube Comment Insights: A Comprehensible Guide
@@ -22,6 +22,9 @@ All social media has a comment section where in those who watch or follow you ar
 
 If you are a content creator who makes product reviews, the comment section is also one that will help the brand. Most brands want to have a voice on matters that affect them. The most powerful way to do that on YouTube is to make amazing videos on topics dear to your heart. But you don't want people to think of you as merely a broadcaster. Social media requires that you be social and make intelligent comments on your videos and those of others, showing that you are trying, and engaging with your audience.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to view comments on youtube](https://images.wondershare.com/filmora/article-images/2022/11/how-to-view-comments-on-youtube.jpg)
 
 Unfortunately, when it comes to comment, YouTube can be a little clunky and time consuming especially as your channel grows and you have more comments to respond to.
@@ -44,6 +47,9 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Comment on a YouTube Video
 
 Moderating comments that appear on your video is important (and we'll get to the details of that in a minute) but as a brand, you'll want to pipe up with your own commentary, too.
@@ -54,6 +60,9 @@ Each comment you leave is another reference and exposure to your brand (and a ch
 
 Step1 Below the video itself, find the comment section.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
@@ -76,12 +85,19 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
 Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
@@ -114,6 +130,9 @@ Comments history also contains the link to the video where you've left the comme
 
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -150,3 +169,35 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-acid-pro-examined-and-open-source-software-comparison/"><u>[New] ACID Pro Examined & Open-Source Software Comparison</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-bridging-shadows-and-highlights-the-lightroom-hdr-methodology/"><u>[New] Bridging Shadows and Highlights  The Lightroom HDR Methodology</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-captivating-images-with-intentional-leading-lines-iphone/"><u>[New] Captivating Images with Intentional Leading Lines (iPhone)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-soft-declines-in-volume-using-audacity/"><u>[New] Crafting Soft Declines in Volume Using Audacity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-the-ultimate-list-15-premier-mounts-for-gopro/"><u>[New] Crafting the Ultimate List  15 Premier Mounts for GoPro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-breakdown-of-pewdiepies-monthly-earning-trends/"><u>[Updated] Breakdown of PewDiePie's Monthly Earning Trends</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-choosing-between-podcast-and-youtube-for-content-delivery/"><u>[Updated] Choosing Between Podcast and YouTube for Content Delivery</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-chorus-choice-windows-11s-audio-enhancement-guidebook/"><u>[Updated] Chorus Choice  Windows 11'S Audio Enhancement Guidebook</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-codec-rivalry-assessing-the-next-step-in-video-encoding/"><u>[Updated] Codec Rivalry  Assessing the Next Step in Video Encoding</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2023s-leading-pc-vr-headsets-revealed-for-2024/"><u>2023'S Leading PC VR Headsets Revealed for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-full-analysis-of-the-lightroom-application-for-android/"><u>A Full Analysis of the Lightroom Application for Android</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoiding-the-samsung-gear-360-hurdle-top-camera-alternatives-of-2023/"><u>Avoiding the Samsung Gear 360 Hurdle - Top Camera Alternatives of 2023</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-free-memes-unlock-humor-in-everyday-life-for-2024/"><u>Best FREE Memes  Unlock Humor in Everyday Life for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-joy-online-kapwing-meme-studio/"><u>Capture Joy Online  Kapwing Meme Studio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/easy-change-overs-at-your-fingertips-the-best-10-websites/"><u>Easy Change-Overs at Your Fingertips  The Best 10 Websites</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-guide-to-the-top-10-streamers/"><u>Essential Guide to the Top 10 Streamers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/experts-choice-in-4k-capture-top-camera-list/"><u>Expert's Choice in 4K Capture  Top Camera List</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensively-understanding-cloud-storage-with-adobe-and-why-you-should-compare/"><u>In 2024, Comprehensively Understanding Cloud Storage with Adobe and Why You Should Compare</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-approaches-to-macos-subtitles-editing/"><u>Innovative Approaches to macOS Subtitles Editing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/integrating-zoom-seamlessly-with-tiktok-live-streams/"><u>Integrating Zoom Seamlessly with TikTok Live Streams</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastery-guide-to-flawless-srt-file-construction/"><u>Mastery Guide to Flawless SRT File Construction</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revolutionizing-reality-expertly-reviewed-peripherals/"><u>Revolutionizing Reality  Expertly Reviewed Peripherals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/stay-ahead-of-the-curve-top-task-filled-ideas-for-maximizing-your-podcast-experience/"><u>Stay Ahead of the Curve  Top Task-Filled Ideas for Maximizing Your Podcast Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/storage-exploration-how-many-vids-can-64128gb-hold/"><u>Storage Exploration  How Many Vids Can 64/128GB Hold?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/strategies-to-extend-gopro-battery-hours/"><u>Strategies to Extend GoPro Battery Hours</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamline-your-footage-iphones-shortening-methods/"><u>Streamline Your Footage  IPhone's Shortening Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-evaluation-of-samsungs-image-editing-software/"><u>The Ultimate Evaluation of Samsung's Image Editing Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tips-for-prolonging-gopros-energy-stamina/"><u>Tips for Prolonging GoPro's Energy Stamina</u></a></li>
+</ul></div>

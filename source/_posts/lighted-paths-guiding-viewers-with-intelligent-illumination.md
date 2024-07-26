@@ -1,7 +1,7 @@
 ---
 title: "\"Lighted Paths  Guiding Viewers with Intelligent Illumination\""
-date: 2024-05-24T04:22:26.709Z
-updated: 2024-05-25T04:22:26.709Z
+date: 2024-07-25T03:10:11.283Z
+updated: 2024-07-26T03:10:11.283Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Lighted Paths: Guiding Viewers with Intelligent Illumination\""
 excerpt: "\"This Article Describes Lighted Paths: Guiding Viewers with Intelligent Illumination\""
 keywords: "Lighted Journey,Bright Trails,Smart Lights,Illuminated Way,Guideful Luminescence,Intelligent Pathways,Enlightened Streets"
-thumbnail: https://www.lifewire.com/thmb/ptJRWjuxgGi4z_RocHeofAowbvw=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/kilian-seiler-PZLgTUAhxMM-unsplash-3c3f238654c44171a5febe7a0f5749c5.jpg
+thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06b50eb65c4dc48b9a72515ec.jpg
 ---
 
 ## Lighted Paths: Guiding Viewers with Intelligent Illumination
@@ -22,6 +22,9 @@ Many people are wondering how to set up lighting for video shooting. While there
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. How-to Guide
 
 **_1) Preparation_**
@@ -46,6 +49,9 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ##### Step1 Set the Key Light
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
@@ -58,6 +64,10 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ##### Step3 Set the Backlight
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -66,6 +76,9 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
@@ -80,6 +93,9 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 **Using Key Light only**
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
 **Using Key Light + Fill + Backlight**
@@ -90,6 +106,9 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 ## Summary
@@ -126,3 +145,38 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-7-exceptional-drone-gimbals-unveiled/"><u>[New] 7 Exceptional Drone Gimbals Unveiled</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-aniworld-complete-app-audit-2024-edition/"><u>[New] AniWorld Complete App Audit - 2024 Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-aurora-hdr-vs-standard-imagery-quality-analysis/"><u>[New] Aurora HDR vs Standard Imagery Quality Analysis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-top-10-best-gopro-cases-review/"><u>[New] Top 10 Best GoPro Cases Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-bridging-the-gap-enhancing-your-edits-with-inshot-transitions/"><u>[Updated] Bridging the Gap  Enhancing Your Edits with Inshot Transitions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-conquering-remote-work-mastering-the-use-of-zoom-and-gmail/"><u>[Updated] Conquering Remote Work  Mastering the Use of Zoom and Gmail</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-craftsmanship-in-photos-and-videos-the-ultimate-8-mobile-enhancement-tools/"><u>[Updated] Craftsmanship in Photos & Videos  The Ultimate 8 Mobile Enhancement Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capture-the-action-the-fastest-most-effective-home-filmmaking-tricks/"><u>2024 Approved  Capture the Action  The Fastest, Most Effective Home Filmmaking Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-clearer-views-the-top-10-online-photo-fixes/"><u>2024 Approved  Clearer Views  The Top 10 Online Photo Fixes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/amplify-visual-impact-mastering-the-art-of-applying-luts-with-obs-studio/"><u>Amplify Visual Impact  Mastering the Art of Applying LUTs with OBS Studio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/complete-scrutiny-of-cutmatic-editor/"><u>Complete Scrutiny of CutMatic Editor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-your-content-tips-for-top-tiktok-edits/"><u>Elevate Your Content  Tips for Top TikTok Edits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/excellence-on-screen-the-top-15-in-stop-motion-cinema/"><u>Excellence on Screen  The Top 15 in Stop Motion Cinema</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exclusive-selection-best-desktop-pcs/"><u>Exclusive Selection  Best Desktop Pcs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/finding-lost-iphone-x-heres-what-you-can-do/"><u>Finding Lost iPhone X? Here's What You Can Do</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harnessing-pip-feature-a-comprehensive-guide/"><u>Harnessing PIP Feature  A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-comprehensible-approach-to-masterful-gopro-studio-edits/"><u>In 2024, A Comprehensible Approach to Masterful GoPro Studio Edits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-asus-proart-4k-ultra-a-pro-artists-dream-display/"><u>In 2024, ASUS ProArt 4K Ultra  A Pro Artist's Dream Display</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-beaming-brilliance-for-android-video-creation/"><u>In 2024, Beaming Brilliance for Android Video Creation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/making-every-gift-discovery-special/"><u>Making Every Gift Discovery Special</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/masterlist-of-top-17-apps-to-purge-photos-edges/"><u>Masterlist of Top 17 Apps to Purge Photos' Edges</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/propel-your-workflow-final-cut-pros-must-have-tools/"><u>Propel Your Workflow  Final Cut Pro’s Must-Have Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/snapchat-tricks-unleashing-yourself-with-a-cartoon-lens/"><u>Snapchat Tricks  Unleashing Yourself with a Cartoon Lens</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/speak-with-synthetic-voices-chromebooks-leading-online-text-to-speech-apps/"><u>Speak with Synthetic Voices  Chromebook's Leading Online Text-to-Speech Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlining-your-figma-project-with-clean-backgrounds/"><u>Streamlining Your Figma Project with Clean Backgrounds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-profiting-off-reddit-13-ways-here/"><u>The Ultimate Guide to Profiting Off Reddit - 13 Ways Here</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/uncovering-the-practical-benefits-of-photo-stability-features/"><u>Uncovering the Practical Benefits of Photo Stability Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-your-creative-potential-with-audio-edits-in-canva-videos/"><u>Unlock Your Creative Potential with Audio Edits in Canva Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visionaries-at-work-a-look-into-the-six-dominant-nftos/"><u>Visionaries at Work  A Look Into the Six Dominant NFTOs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/years-exclusive-gems-in-depth-look-at-the-best-15-youtube-unboxers-2024/"><u>Year's Exclusive Gems  In-Depth Look at the Best 15 YouTube Unboxers, 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/your-journey-through-telegrams-web-functionality/"><u>Your Journey Through Telegram's Web Functionality</u></a></li>
+</ul></div>

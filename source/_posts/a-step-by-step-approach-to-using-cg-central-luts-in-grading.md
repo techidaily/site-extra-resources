@@ -1,7 +1,7 @@
 ---
 title: "\"A Step-by-Step Approach to Using CG Central LUTs in Grading\""
-date: 2024-05-24T04:04:53.943Z
-updated: 2024-05-25T04:04:53.943Z
+date: 2024-07-25T02:31:52.808Z
+updated: 2024-07-26T02:31:52.808Z
 tags: 
   - screen-recording
   - ai video
@@ -24,12 +24,18 @@ Color Grading Central is a company created by Denver Riddle, who is currently in
 
 [Color Grading Central](https://www.colorgradingcentral.com/) is an online resource that develops color grading video information products and tools. Color Grading Central is an online resource that develops color grading video information products and tools.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![color grading central](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-1.jpg)
 
 LUTs or Look Up Tables are nothing more than a table of numbers that apply a color transformation to an image. However, what makes color gradation LUTs unique is their ability to apply predetermined sets of mathematical formulas to the existing colors of your video to change those colors to achieve the desired result. Now it's possible to accurately imitate all the subtle nuances and color shifts of your favorite movie!
 
 The Color Grading Central LUTs effect is stylish and cinematic.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Part 2\. How to use Luts from color grading central to color grading for movies?
 
 ![color grading for movies](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-2.jpg)
@@ -46,6 +52,9 @@ First, the two LUT formats work differently. **A 1D LUT** (usually. lut format) 
 
 The other two types of LUTs can be either 1D or 3D LUTs, but these days they are most often 3D LUTs. The difference between them is when in the process you use them and for what purpose.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![luts in movies](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-3.jpg)
 
 An input or camera LUT used at the beginning of the color correction process adjusts the footage so that the color correction tools work correctly. Color corrected recordings that require an input or camera LUT without one can lead to unexpected and unsatisfactory results.
@@ -64,12 +73,24 @@ Cinematic LUTs are pre-saved settings that make color grading easy and efficient
 
 LUTs are shared in the .cube file format, which is supported by the most popular video editors, such as DaVinci Resolve, Premiere Pro CC, After Effects CC, and Sony Vegas.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ### 1\. [Ground Control Color: 13 Free LUTs](https://www.groundcontrolcolor.com/free-luts.html)
 
 Ground Control Color specializes in creating color LUTs for different cameras and recording formats. In addition to having an impressive line of products, they also give away a great selection of thirteen free LUTs for video editors.
 
 From the "Free LUTs" page, users can download ten free conversion LUTs and three stylistic color LUTs.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ground control color](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-4.jpg)
 
 ### 2\. [Color Grading Central: 7 Free LUTs, Color Presets, and Grains](http://www.colorgradingcentral.com/)
@@ -90,6 +111,9 @@ This free pack of Movie Look LUTs draws inspiration from seven modern movies, in
 
 If you want to add a dramatic and cinematic feel to your footage, use this free LUT pack from SmallHD.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![smallhd](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-6.jpg)
 
 ### 4\. [Frank Glencairn: Free Vintage LUT](https://frankglencairn.wordpress.com/2014/01/15/everything-looks-better-on-kodachrome-k-tone-lut/)
@@ -100,14 +124,23 @@ Frank Glencairn created a great K-Tone LUT designed to mimic the style of vintag
 
 Now you can replicate the look with retro-looking reds, blues, and yellows with this free LUT.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![frank glencairn](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. [Lutify.me: 7 Free Luts](https://lutify.me/free-luts/)
 
 Ok, so the LUTs included in this pack require a few extra steps to download. Lutify requires you to sign up for a 14-day trial of LUTs Previewer.
 
 The good news is that you can register, download the LUT, and then cancel. Or hey, who knows, you might even like their software offering and stick with the program.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![lutify me](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-8.jpg)
 
 ## Part 4\. How to do color grading in Filmora?
@@ -132,6 +165,9 @@ In summary, we've seen some different color grading LUTs that simplify the color
 
 </article
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 In summary, we've seen some different color grading LUTs that simplify the color grading process. However, [Filmora Pro](https://tools.techidaily.com/wondershare/filmora/download/) remains the best because no converter can beat its excellent color correction tool and convincing features of vignette, light, and flare, etc.
@@ -164,3 +200,37 @@ In summary, we've seen some different color grading LUTs that simplify the color
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-a-4k-odyssey-begins-here-exploring-the-eizo-cg318-4k-monitor/"><u>[New] A 4K Odyssey Begins Here – Exploring the EIZO CG318-4K Monitor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-practices-for-b-roll-utilization/"><u>[New] Best Practices for B-Roll Utilization</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comparative-analysis-luminances-hdr-prowess/"><u>[New] Comparative Analysis  Luminance's HDR Prowess</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-10-best-screenshot-enhancers-iphoneandroid-sticker-magic/"><u>[Updated] 10 Best Screenshot Enhancers  IPhone/Android Sticker Magic</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-detailed-guidance-how-to-change-or-customize-your-ringtone-on-an-iphone/"><u>[Updated] A Detailed Guidance  How To Change Or Customize Your Ringtone On An iPhone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-boost-engagement-changing-numbers-effectively-on-tiktok/"><u>[Updated] Boost Engagement  Changing Numbers Effectively on TikTok</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-conversion-wizardry-zip-to-subrip-transformation/"><u>[Updated] Conversion Wizardry  ZIP to SubRip Transformation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-professional-drones-an-in-depth-pilots-list/"><u>2024 Approved  Best Professional Drones – An In-Depth Pilot’s List</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/assessing-different-versions-available-for-windows-movie-maker/"><u>Assessing Different Versions Available for Windows Movie Maker</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/banishing-vibration-effects-in-uav-videos-for-2024/"><u>Banishing Vibration Effects in UAV Videos for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/closing-an-outdated-linkedin-profile-a-step-by-step-guide/"><u>Closing an Outdated LinkedIn Profile  A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compreenasian-guide-to-beautiful-collage-making/"><u>Compreenasian Guide to Beautiful Collage Making</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-compelling-group-imagery-without-the-hassle-using-picshot-for-2024/"><u>Crafting Compelling Group Imagery Without the Hassle, Using Picshot for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhance-browsing-with-chromes-pip-technique/"><u>Enhance Browsing with Chrome’s PIP Technique</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-tiktok-visuals-through-zoom-mastery/"><u>Enhancing TikTok Visuals Through Zoom Mastery</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enthusiastic-exchanges-chatting-with-your-subscribers/"><u>Enthusiastic Exchanges  Chatting With Your Subscribers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-guide-to-youtubes-premier-unboxers/"><u>Essential Guide to YouTube's Premier Unboxers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-steps-from-production-to-apple-store-placement/"><u>Essential Steps  From Production to Apple Store Placement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-tips-for-sprucing-up-photos-top-10-mobile-apps-list/"><u>Expert Tips for Sprucing Up Photos  Top 10 Mobile Apps List</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-script-to-airwaves-step-by-step-guide-for-ios-audio-recording/"><u>From Script to Airwaves  Step-by-Step Guide for iOS Audio Recording</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gratis-business-presentation-boosting-plugins-and-templates/"><u>Gratis Business Presentation Boosting Plugins & Templates</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-androids-premier-gaming-application-decoding-the-kinemaster-experience/"><u>In 2024, Android's Premier Gaming Application - Decoding the KineMaster Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-array-of-unique-video-cameras-by-type/"><u>In 2024, Array of Unique Video Cameras by Type</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capturing-photographs-from-movies-in-windows-photos-app-for-savvy-users/"><u>In 2024, Capturing Photographs From Movies in Windows Photos App for Savvy Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/movavis-video-creation-tool-an-overview-of-plus-2024/"><u>Movavi's Video Creation Tool  An Overview of Plus 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/stay-steady-in-virtual-reality-with-htcs-tips/"><u>Stay Steady in Virtual Reality with HTC's Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-guide-to-creating-virtual-space-with-iphone/"><u>Step-by-Step Guide to Creating Virtual Space with iPhone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-and-craft-of-documentary-writing/"><u>The Art and Craft of Documentary Writing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-next-step-for-gopro-cameras-hero4-hero5/"><u>The Next Step for GoPro Cameras (Hero4, Hero5)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-free-templates-for-engaging-presentations-and-slideshows/"><u>Top 10 Free Templates for Engaging Presentations and Slideshows</u></a></li>
+</ul></div>

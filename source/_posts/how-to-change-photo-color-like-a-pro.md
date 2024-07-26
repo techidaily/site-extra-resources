@@ -1,7 +1,7 @@
 ---
 title: "How to Change Photo Color Like A Pro?"
-date: 2024-05-24T04:25:29.821Z
-updated: 2024-05-25T04:25:29.821Z
+date: 2024-07-25T03:15:45.235Z
+updated: 2024-07-26T03:15:45.235Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes How to Change Photo Color Like A Pro?"
 excerpt: "This Article Describes How to Change Photo Color Like A Pro?"
 keywords: "Pro Photoshop Tips,Altering Image Colors,Masterful Photo Editing,Professional Color Adjustment,Improve Picture Hues,Expertise in Photo Palette,Skilled Image Transformation"
-thumbnail: https://www.lifewire.com/thmb/P3hB6tFikUScsduyvJradG34nT0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/5332755892_99f55416a7_b-kenny-louie-5804eaff5f9b5805c2b40553.jpg
+thumbnail: https://thmb.techidaily.com/fd4e779227951f738339902ec6bf865ee57c2e0e824658f017eeb7cc4b43fd88.jpg
 ---
 
 ## How to Change Photo Color Like A Pro?
@@ -26,6 +26,9 @@ So instead of hiring various models, you can still display your collection by ch
 
 In this section, we will give you some beneficial tips and guidelines to change the photo color through [Adobe Photoshop](https://www.adobe.com/products/photoshop.html). Moreover, we will also mention a photo color editor online to change the colors instantly.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Tip 1: Add Any Color to Your Shirt
 
 Do you want to change the color of any particular shirt in the photo? Then use Adobe Photoshop and open its main interface. Go to its "Quick Selection" tool and select around the shirt to change its color. Now go to the bottom right and click on "New Adjustment Layer," and tap on "Hue and Saturation.”
@@ -36,8 +39,15 @@ On the tab of hue and saturation, you can use hue, saturation, and brightness to
 
 Another way to change the color of the shirt is by navigating to the “Solid Color Adjustment Layer.” After that, you just need to apply the "Hue and Saturation Layer" to the previous layer to make the color changes quickly. Now blend the colors by either using hue or color mode to adjust the layers.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![select hue or color mode](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ### 2\. Tips 2: Use Black and White Colors
 
 Another option in Adobe Photoshop photo color editor to add black or white color to the shirt is by using the "Hue and Saturation Adjustment Layer.” For this, you need to create a group and then apply a layer mask to it by reducing its saturation. After that, you can apply a hue and saturation adjustment layer to it to have a white or black effect on the shirt.
@@ -46,14 +56,24 @@ The reason for using different adjustment layers is that it can produce natural 
 
 Now do the tuning by navigating to the layer mask and also select the layers. After that, Tap on "CTRL+E" to merge all the settings and layers, and you will get your desired color.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![use sliders to black or white](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-3.jpg)
 
 ### 3\. Tip 3: Add Color to White Object
 
 If you want to add color to your black or white shirt, you can do it by “Hue and Saturation Adjustment Layer.” On this layer, tap on “Colorize” and choose the color you want to add. Another technique is to create a “Fill Adjustment Layer” and then change the blending mode into “Multiple.” Now, click on the “Color Picker,” and you can pick and choose your preferred color. If you want to add a dark color rather than a subtle color, change the mode to “Screen.”
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![ pick the color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ### 4\. Tip 4: Use Direct Selection Color Picker
 
 Through the direct selection color picker, you can change the color of an object instantly. For this, create a “Hue and Saturation Adjustment Layer,” click any part of the picture to change its color. Now drag the sliders of saturation to change the color accordingly. On the reset adjustment layer, you can pick the color from the direct selection, such as from the drop-down menu, you can select colors like reds, blues, greens, and blues.
@@ -74,6 +94,9 @@ After clicking on the color range option, a pop-up window will appear from which
 
 Afterward, create a group in which add layers, mask, and adjustment layers to change the saturation, color, and brightness of the selected area accurately. To only change the color, drag the sliders of hue to do it instantly.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![change hue for changing color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-8.jpg)
 
 ### 6\. Tip 6: Use Blend IF
@@ -86,18 +109,27 @@ Similarly, if you drag the “Blend IF” sliders towards white pints, it can hi
 
 This method only hides color based on their luminance values; however, this loads the entire layer when loading the active pixels. Regardless, this can be changed into transparency. For this, you need to select the layer by right-clicking and selecting the option of “Convert to Smart Object.”
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![convert to smart object](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-10.jpg)
 
 It helps the user create transparency across the layer. After hiding the layer and coming back to another object-specific layer, you can create a certain change in effect through adjustment layers. For instance, you can create a “Hue and Saturation” adjustment layer. With the above settings, Photoshop applies this as a layer mask for you. Use the sliders across the set layer to change the color across the selected areas.
 
 ![select your new color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7\. Tip 7: Use Online Photo Editor to Change Colors
 
 If you don’t have an offline tool like Adobe Photoshop, you can use an online photo color editor to replace the colors quickly. In this part, we will suggest [BeFunky](https://www.befunky.com/) photo color editor change the photo colors efficiently.
 
 To change the color, navigate to this tool and upload the images. Then, head to the “Replace Color” option from the left section and click on it. On the menu of “Replace Color,” select the box next to “Source Color” to choose the color you want to replace. Use an eyedropper to select any color for your image.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select source color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-12.jpg)
 
 To increase or decrease the intensity of your color, use the “Tolerance” option, and drag it accordingly. If you want to change the hue of the source color, click on the box next to “Target Color.” If you have accidentally applied any color on some part, you can head to erase tab and can remove the alterations from the brush.
@@ -132,3 +164,32 @@ Changing the color of a photo can save us a lot of work done and effort. To effo
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-boosting-playback-speed-guidelines-for-secure-sound-enhancement/"><u>[New] Boosting Playback Speed  Guidelines for Secure Sound Enhancement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-calculating-best-podcast-debut-days/"><u>[New] Calculating Best Podcast Debut Days</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-cinematic-expertise-top-15-innovative-gopro-action-cam-look-ups/"><u>[New] Cinematic Expertise  Top 15 Innovative GoPro Action Cam Look-Ups</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-action-camera-showdown-unmatched-seventh-lineup-wetproof/"><u>[Updated] Action Camera Showdown  Unmatched Seventh Lineup Wetproof</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-life-in-motion-top-mobile-cameras-for-steady-videos/"><u>[Updated] Capture Life in Motion  Top Mobile Cameras for Steady Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-amusingscreen-join-the-video-making-party/"><u>2024 Approved  AmusingScreen  Join the Video Making Party</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-bridging-moments-a-kinemaster-guide-to-transitions/"><u>2024 Approved  Bridging Moments  A Kinemaster Guide to Transitions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/5-best-hd-hunting-cameras-reviewed/"><u>5 Best HD Hunting Cameras Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-approach-harnessing-watch-for-mac-unlock-for-2024/"><u>Advanced Approach  Harnessing Watch for Mac Unlock for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/asmrs-role-in-better-nights-expert-vocal-guides/"><u>ASMR's Role in Better Nights  Expert Vocal Guides</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-video-making-smartphones-announced-here-for-2024/"><u>Best Video-Making Smartphones Announced Here for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dial-up-your-facebook-video-faster-essential-software-revealed/"><u>Dial-Up Your Facebook Video Faster  Essential Software Revealed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-amplify-your-voice-expert-insights-on-podcast-editing-in-garageband/"><u>In 2024, Amplify Your Voice  Expert Insights on Podcast Editing in GarageBand</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-the-perfect-ringtone-for-your-ios-device/"><u>In 2024, Crafting the Perfect Ringtone for Your iOS Device</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/joke-fusion-best-meme-concepts-for-special-occasions/"><u>Joke Fusion  Best Meme Concepts for Special Occasions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/key-destinations-enhancing-youtube-video-impact/"><u>Key Destinations Enhancing YouTube Video Impact</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/probing-into-asuss-proart-pa-329q-professional-4k-display-review-insights/"><u>Probing Into Asus's ProArt PA 329Q – Professional 4K Display Review Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sharpen-zoom-conversations-eliminate-distortion/"><u>Sharpen Zoom Conversations  Eliminate Distortion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/skyrocket-space-utilization-top-20-cost-free-storage-providers-up-to-1tb/"><u>Skyrocket Space Utilization - Top 20 Cost-Free Storage Providers (Up To 1TB)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/snapshot-scribbles-10-top-writing-aids-for-image-capture-iosandroid/"><u>Snapshot Scribbles  10 Top Writing Aids for Image Capture (iOS/Android)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essential-guide-to-zooming-with-gmail-emails-professionally/"><u>The Essential Guide to Zooming with Gmail Emails Professionally</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-meta-and-omni-versions/"><u>The Ultimate Guide to Meta & Omni Versions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-transformation-tutorial-sdr-to-high-dynamic-range-video-upgrading/"><u>The Ultimate Transformation Tutorial  SDR to High-Dynamic Range Video Upgrading</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-heavy-lift-drones/"><u>Top 10 Heavy Lift Drones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-tips-for-meme-magic-with-kinemaster/"><u>Top Tips for Meme Magic with KineMaster</u></a></li>
+</ul></div>

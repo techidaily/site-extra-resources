@@ -1,7 +1,7 @@
 ---
 title: "\"Photo Frenzy  Stories of Popularity\""
-date: 2024-05-24T04:40:11.225Z
-updated: 2024-05-25T04:40:11.225Z
+date: 2024-07-25T03:46:19.505Z
+updated: 2024-07-26T03:46:19.505Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Photo Frenzy: Stories of Popularity\""
 excerpt: "\"This Article Describes Photo Frenzy: Stories of Popularity\""
 keywords: "PhotoFrenzyPopularity,StoriesOfPopularPhotos,PopulArtsInPhotography,FrenzyPhotoTrends,PopularityInSnapshots,VisualStoryPopularity,PhotoFameChronicles"
-thumbnail: https://www.lifewire.com/thmb/wbiCW2fndNE2mzhK9d4Z_drL6z0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/tclsclass-0185b3ecd41d454589d2a9984629b919.jpg
+thumbnail: https://thmb.techidaily.com/bae70dc1da321109f70e787435e8a7bf8638e992652aa5e9b27c3e355526ca4c.jpg
 ---
 
 ## Photo Frenzy: Stories of Popularity
@@ -22,6 +22,9 @@ A stock photo meme is an image or video you use to communicate a specific idea. 
 
 So, what are the most popular stock photo memes, and how did they reach this status? Keep reading to find out more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Part1: Hide the Pain Harold
 
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
@@ -51,6 +54,9 @@ Another popular stock image meme is Distracted Boyfriend. It features the stock 
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
 
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
@@ -64,12 +70,18 @@ Since then, the meme continues to enjoy mass popularity, including:
 
 The latest version of Distracted boyfriend is a compilation of photos featuring the three models, with the last one showing the women hanging out.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
 ## Part3: I Bet He's Thinking About Other Women
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
 
 The meme features a couple in bed with the stock photo meme guy in contemplation and the woman facing him with a concerned look. At first glance, the image shows a couple experiencing relationship problems, with the original caption showing the woman worrying that the man is thinking about other women.
@@ -82,6 +94,9 @@ A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In
 
 * Redditor GallowBoob received 34,700 points and 350 comments within 24 hours of posting it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
 
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
@@ -94,8 +109,14 @@ According to sources, the stock photo meme was first featured on Twitter in Dece
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## Part4: Bonjour Bear
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
 
 Unlike the previous stock image memes, Bonjour Bear was not an instant hit among netizens. The stock image was posted online in 2016 by Uryadnikov Sergey and featured a polar bear peeking through its winter den. However, it began causing a buzz in early 2019, following a Reddit post that included hilarious captions.
@@ -113,8 +134,14 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Part5: FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Can you use stock photos for memes?
 
 Yes, you can use stock photos for memes. However, you need to obtain them from royalty-free stock photo providers such as Shutterstock and Pexels. In addition, ensure you understand the license requirements before using the photo.
@@ -125,6 +152,9 @@ This is because not all stock photo providers offer their images with a creative
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Can you use watermarked stock photos to create memes?
 
 No. Before using watermarked images to create memes, you must get verifiable permission from the rights holder. This is because it violates copyright law and can result in heavy fines or even prison time in extreme circumstances.
@@ -161,3 +191,46 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-android-lens-mastery-techniques-and-apps/"><u>[New] Android Lens Mastery  Techniques & Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-free-and-paid-drawing-apps-for-windows/"><u>[New] Best Free and Paid Drawing Apps for Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capturing-time-in-pixels-slomo-apps-full-review-2024/"><u>[New] Capturing Time in Pixels  SloMo App's Full Review, 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-chromatic-shift-strategies-for-skilled-alteration/"><u>[New] Chromatic Shift Strategies for Skilled Alteration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-conquer-the-digital-landscape-10-steps-towards-dominating-smm/"><u>[New] Conquer the Digital Landscape  10 Steps Towards Dominating SMM</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-androids-cream-of-the-crop-podcasts/"><u>[Updated] Android's Cream of the Crop Podcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-toy-quadcopters-reviewed-kids-edition/"><u>[Updated] Best Toy Quadcopters Reviewed (Kids Edition)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-breaking-the-boundaries-vr-film-production-essentials-top-9/"><u>[Updated] Breaking the Boundaries  VR Film Production Essentials (Top 9)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-color-techniques-incorporating-luts-for-cinematic-flair/"><u>2024 Approved  Advanced Color Techniques  Incorporating Luts for Cinematic Flair</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-drone-buddies-kids-most-enjoyed-toy-companions/"><u>2024 Approved  Best Drone Buddies  Kids' Most Enjoyed Toy Companions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-complete-guide-to-using-google-docs-for-speech-recognition/"><u>2024 Approved  Complete Guide to Using Google Docs for Speech Recognition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/androids-best-podcast-discoveries/"><u>Android's Best Podcast Discoveries</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-academy-for-storytellers-top-8-recommendations/"><u>Best Academy for Storytellers – [Top 8 Recommendations]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/blueprinting-breathtaking-film-prologues/"><u>Blueprinting Breathtaking Film Prologues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/budget-4k-cameras-for-beginners-for-2024/"><u>Budget 4K Cameras for Beginners for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/budget-calculation-for-shooting-a-music-video-for-2024/"><u>Budget Calculation for Shooting a Music Video for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/digital-duo-dynamics-joining-instagram-and-tiktok-powerfully/"><u>Digital Duo Dynamics  Joining Instagram and TikTok Powerfully</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exclusive-top-8-gear-in-the-vr-sphere/"><u>Exclusive Top 8 Gear in the VR Sphere</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-amateur-to-professional-iphone-filmmaking-8-key-tips/"><u>From Amateur to Professional iPhone Filmmaking (8 Key Tips)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/full-guide-to-download-windows-movie-maker-60/"><u>Full Guide to Download Windows Movie Maker 6.0</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/groundbreaking-no-cost-image-editors-unveiled/"><u>Groundbreaking No-Cost Image Editors Unveiled</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-use-supplemental-video-sequences-effectively/"><u>How to Use Supplemental Video Sequences Effectively</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-visual-magic-the-power-of-luts-in-ar-environments/"><u>In 2024, Crafting Visual Magic  The Power of LUTs in AR Environments</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/insiders-guide-to-the-vr-lexicon-essentials/"><u>Insider's Guide to the VR Lexicon Essentials</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/internet-joke-architect/"><u>Internet Joke Architect</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-your-iphone-lens-essential-techniques-for-nature-pics/"><u>Mastering Your iPhone Lens  Essential Techniques for Nature Pics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/modern-photo-editing-wonders-frame-integration-essentials-2023/"><u>Modern Photo Editing Wonders  Frame Integration Essentials, 2023</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimizing-video-clarity-with-iphone-zoom/"><u>Optimizing Video Clarity with iPhone Zoom</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfecting-your-purses-expertise-in-haul-videography/"><u>Perfecting Your Purses  Expertise in Haul Videography</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-steadicam-recommendations-for-professional-dslr-workflows/"><u>Prime Steadicam Recommendations for Professional DSLR Workflows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/smiles-to-text-where-to-find-amusing-tones/"><u>Smiles to Text  Where to Find Amusing Tones?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/superior-battery-packs-and-charger-systems-for-hero5/"><u>Superior Battery Packs and Charger Systems for Hero5</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/supreme-cyber-seminar-sorter/"><u>Supreme Cyber Seminar Sorter</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-5-budget-friendly-windows-screen-recorders-2023-edition/"><u>Top 5 Budget-Friendly Windows Screen Recorders – 2023 Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-ranked-audio-respeeders-mobile-desktop/"><u>Top-Ranked Audio Respeeders (Mobile, Desktop)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-the-power-of-zoom-your-win10-journey-begins-here/"><u>Unleash the Power of Zoom  Your Win10 Journey Begins Here</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-iphone-features-podcast-audiophiles-guide/"><u>Unveiling iPhone Features - Podcast Audiophiles Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/windows-10-treasures-exciting-new-apps-and-games-await/"><u>Windows 10 Treasures  Exciting New Apps & Games Await</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/your-ultimate-list-for-mp4-players/"><u>Your Ultimate List for MP4 Players</u></a></li>
+</ul></div>

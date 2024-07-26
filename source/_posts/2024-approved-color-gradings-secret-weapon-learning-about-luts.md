@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Color Grading's Secret Weapon  Learning About LUTs\""
-date: 2024-05-24T05:31:15.915Z
-updated: 2024-05-25T05:31:15.915Z
+date: 2024-07-25T05:20:23.782Z
+updated: 2024-07-26T05:20:23.782Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Color Grading's Secret Weapon: Learning About LUTs\""
 excerpt: "\"This Article Describes 2024 Approved: Color Grading's Secret Weapon: Learning About LUTs\""
 keywords: "Lut Essentials,Color Grading Tips,Lut Basics Learn,Editing LUT Guide,Mastering Luts Quickly,Lut Techniques for Pros,Film Edits with Luts"
-thumbnail: https://www.lifewire.com/thmb/rkiS0gItVB_lCMmc-zDrWXPfg-k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/yellowstone-ff7a6608623f4010a075db8a853c3eaa.jpg
+thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e42aa2cadb4595040f5c4520.jpg
 ---
 
 ## Color Grading's Secret Weapon: Learning About LUTs
@@ -50,12 +50,18 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How to use LUTs using Photoshop CC?
 
 LUTs come pre-installed with programs, but you may also purchase them online and add them to your software. You may even buy a look from your favorite film or television show. In Photoshop, LUTs are simple to apply. You can begin in Photoshop with the original photo, which is an image that was captured locally, unprocessed, and straight out of the camera.
 
 1. Select the Adjustment Layer icon from the drop-down menu.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
 Choose Adjustment Layer
@@ -64,6 +70,9 @@ Choose Adjustment Layer
 2. The Properties inspector will appear. Window>Properties.
 3. Select Load 3D LUT. A list of LUTs that come with Photoshop will appear.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
 
 load 3d lut
@@ -74,6 +83,9 @@ load 3d lut
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
@@ -95,6 +107,9 @@ Grow Together
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 Closing Thoughts:
@@ -105,6 +120,9 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 Closing Thoughts:
@@ -137,3 +155,35 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-a-film-enthusiasts-guide-to-mastery-with-gopro/"><u>[New] A Film Enthusiast's Guide to Mastery with GoPro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-10-leading-resources-for-premium-vector-data/"><u>[Updated] 10 Leading Resources for Premium Vector Data</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-sound-choices-essential-downloads-guide/"><u>[Updated] Best Sound Choices  Essential Downloads Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-choosing-the-best-mac-mkv-players-guide/"><u>[Updated] Choosing the Best Mac MKV Players Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-cinematic-basics-unveiled-fundamental-shots-explained-clearly/"><u>2024 Approved  Cinematic Basics Unveiled  Fundamental Shots Explained Clearly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-conquer-the-webcam-world-with-ease/"><u>2024 Approved  Conquer the Webcam World with Ease</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-closer-look-at-sonys-s6700-enhancements-for-2024/"><u>A Closer Look at Sony's S6700 Enhancements for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/add-motion-blur-effect-to-photos-in-photoshop/"><u>Add Motion Blur Effect to Photos in Photoshop</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advancing-photo-viewing-in-windows-11-merge-artistic-layers-and-soundtracks-for-2024/"><u>Advancing Photo Viewing in Windows 11  Merge Artistic Layers and Soundtracks for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/blending-binaries-digital-photographic-techniques-for-2024/"><u>Blending Binaries  Digital Photographic Techniques for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-image-impact-top-iphone-and-android-sticker-augmenting-tools/"><u>Boost Image Impact  Top iPhone and Android Sticker Augmenting Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/breaking-free-from-virtual-reality-discomfort-for-2024/"><u>Breaking Free From Virtual Reality Discomfort for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-star-stirred-stories-for-your-whatsapp-bio-for-2024/"><u>Crafting Star-Stirred Stories for Your WhatsApp Bio for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dynamic-image-narration-toolbox/"><u>Dynamic Image Narration Toolbox</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-design-top-tier-tips-from-canva-experts/"><u>Elevate Design  Top-Tier Tips From Canva Experts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-customer-engagement-with-personalized-marketing-strategies/"><u>Enhancing Customer Engagement with Personalized Marketing Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harnessing-gopros-power-for-compelling-time-lapse-clips/"><u>Harnessing GoPro's Power for Compelling Time-Lapse Clips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-playstation-5-and-xbox-series-x-games-consoles-ranked/"><u>In 2024, Best PlayStation 5 & Xbox Series X Games Consoles Ranked</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/indoor-natural-lighting-tips/"><u>Indoor Natural Lighting Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/inexpensive-quality-camera-solutions/"><u>Inexpensive Quality Camera Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/inside-the-world-of-facetune-a-comprehensive-photography-tool/"><u>Inside the World of Facetune  A Comprehensive Photography Tool</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/os-bridging-virtualmix-pro/"><u>OS-Bridging VirtualMix Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/proficient-techniques-securely-embedding-a-url-in-tiktok-profiles/"><u>Proficient Techniques  Securely Embedding a URL in TikTok Profiles</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/superior-pc-experience-innovation-at-your-fingertips/"><u>Superior PC Experience  Innovation at Your Fingertips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tactical-steps-to-download-securely-free-vlc-media-on-mac/"><u>Tactical Steps to Download Securely Free VLC Media on MAC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-dynamic-image-backdrops-for-video-editing/"><u>Top 10 Dynamic Image Backdrops for Video Editing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-premium-luts-available-for-free/"><u>Top 10 Premium LUTs, Available for FREE</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleashing-the-power-of-time-lapse-photography-using-gopro/"><u>Unleashing the Power of Time-Lapse Photography Using GoPro</u></a></li>
+</ul></div>

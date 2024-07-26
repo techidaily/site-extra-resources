@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, A Step-by-Step Approach to Typography Addition in AE\""
-date: 2024-05-24T03:57:49.808Z
-updated: 2024-05-25T03:57:49.808Z
+date: 2024-07-25T02:12:35.751Z
+updated: 2024-07-26T02:12:35.751Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, A Step-by-Step Approach to Typography Addition in AE\""
 excerpt: "\"This Article Describes In 2024, A Step-by-Step Approach to Typography Addition in AE\""
 keywords: "Typography Adjustment (AE),Typeface Enhancement (AE),AE Font Addition Steps,Typography Upgrade AE,AE Typeface Improvement Guide,Adding Fonts to AE (Method),Enhanced Typography in AE"
-thumbnail: https://www.lifewire.com/thmb/WpEjByZxjDiu1dRhYVfqcDWX2LU=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Phones_GettyImages-1314284781_ORIG_d3sign._CROPPEDjpg-c1cb62860b3e4228b51aa8566e84abb0.jpg
+thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4734b479814370ac29d24cc7.jpg
 ---
 
 ## A Step-by-Step Approach to Typography Addition in AE
@@ -30,25 +30,40 @@ Thus, selecting a proper font for the video becomes necessary in the post-produc
 
 * For adding the Adobe Fonts to After Effects, you will first need to enable them by signing in to the Creative Cloud application on your desktop. To do that, first, open the Creative Cloud, navigate to Assets, and click on Fonts.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![enable fonts adobe after effects](https://images.wondershare.com/filmora/article-images/2022/07/enable-fonts-adobe-after-effects.jpg)
 
 * This will direct you to the official website of Adobe Fonts where you can enable the fonts for your After Effects application. Once you are done with that click on the "Browse Fonts" and then in the opened tab, you will see a variety of fonts with their specified categories.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![browse fonts adobe](https://images.wondershare.com/filmora/article-images/2022/07/browse-fonts-adobe.jpg)
 
 * These fonts are classified according to several attributes such as weight, height, and contrast and are created by certified typographers. Once you have found any font that you like, click on the "Activate" button and the theme will be installed on your Adobe After Effects.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![activitate all fonts after effects](https://images.wondershare.com/filmora/article-images/2022/07/activitate-all-fonts-after-effects.jpg)
 
 * Now keep the Creative Cloud application up and running in your system and then open your After Effects application. There navigate to "Graphics" and then select "Add Fonts from Adobe Fonts".
 * You can also use the font dropdown menu as a shortcut to use the fonts instantly. In Adobe After Effects interface, you can then select the "Character" panel to add or change the fonts to your videos.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Types of Fonts in After Effects
 
 Adobe After Effects provides a ton of families of fonts that can be added and used in video projects. These fonts are available on the Create Cloud application and also on the official website of adobe. Also, these fonts are categorized according to their height, weight, contrast as well as other attributes. And each of these fonts is shown with a preview saying "Typography" which can be selected instantly.
 
 Some of the most famous fonts such as "typewriter", "Cursive Handwriting" and many more are categorized under their family of fonts and are very easy to access. Along with this, you can also select fonts with different character strokes and can alter their features while adding to your videos.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. How to use text effects in After Effects?
 
 Adding text effects in Adobe After Effects is very easy and you can use these effects by following these steps:
@@ -84,6 +99,9 @@ These features also include adding texts and changing the fonts of those texts o
 * When you double click on the text effect, you get more text editing tools such as "font, size, alignment, color, etc." for the text. This also provides an animation tab where you can animate your texts.
 * After you are done, click "save" and the text effects will be added to your videos successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 The article discussed the detailed process of **how to add font to Adobe After Effects** application. The descriptive process of adding texts to video projects using After Effects have also been discussed throughout the article and the available alternatives that can help users with the same feature. I also discussed the various types of fonts that are available to the users in the application interface. These fonts are very easy to access and use. I hope this article will help in easing up the whole process of video editing using After Effects.
@@ -105,6 +123,9 @@ These features also include adding texts and changing the fonts of those texts o
 * When you double click on the text effect, you get more text editing tools such as "font, size, alignment, color, etc." for the text. This also provides an animation tab where you can animate your texts.
 * After you are done, click "save" and the text effects will be added to your videos successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 The article discussed the detailed process of **how to add font to Adobe After Effects** application. The descriptive process of adding texts to video projects using After Effects have also been discussed throughout the article and the available alternatives that can help users with the same feature. I also discussed the various types of fonts that are available to the users in the application interface. These fonts are very easy to access and use. I hope this article will help in easing up the whole process of video editing using After Effects.
@@ -133,3 +154,31 @@ The article discussed the detailed process of **how to add font to Adobe After E
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-aimp-pro-541-wmsps-advanced-desktop-companion/"><u>[New] AIMP Pro 5.41  WMSP's Advanced Desktop Companion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comprehensive-degree-of-view-analysis/"><u>[New] Comprehensive Degree of View Analysis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-covert-creativity-easy-photo-fixes-for-starters/"><u>[Updated] Covert Creativity  Easy Photo Fixes for Starters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-benqs-bl2711u-showcase-the-quest-for-perfect-4k-visual-fidelity/"><u>2024 Approved  BenQ's BL2711U Showcase  The Quest for Perfect 4K Visual Fidelity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-brand-synergy-in-the-age-of-digital-partnerships/"><u>2024 Approved  Brand Synergy in the Age of Digital Partnerships</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/29-visionary-metaverse-projects-elucidating-potentialities/"><u>29 Visionary Metaverse Projects Elucidating Potentialities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/asmr-benefits-unveiled-your-mental-gain/"><u>ASMR Benefits Unveiled – Your Mental Gain</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audiextractoreview-free-audio-tools-new-horizon-for-2024/"><u>AudiExtractoReview  Free Audio Tool's New Horizon for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chromes-picture-in-picture-capabilities-explained-for-2024/"><u>Chrome's Picture-In-Picture Capabilities Explained for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/content-creation-showdown-twitch-versus-youtube-explored-for-2024/"><u>Content Creation Showdown  Twitch Versus YouTube Explored for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/convert-spoken-words-into-text-effortlessly-using-ms-word-for-2024/"><u>Convert Spoken Words Into Text Effortlessly Using MS Word for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-oculus-rift-adventures-for-gamers/"><u>Essential Oculus Rift Adventures for Gamers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/foremost-zooid-beginnings-guide/"><u>Foremost Zooid Beginnings Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-fix-iphone-camera-not-focusing-problem/"><u>How to Fix iPhone Camera Not Focusing Problem</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-boosting-skypes-performance-with-advanced-zoom-functionalities/"><u>In 2024, Boosting Skype's Performance with Advanced Zoom Functionalities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-complete-scrutiny-of-cutmatic-editor/"><u>In 2024, Complete Scrutiny of CutMatic Editor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-macro-and-close-up-photography-tips/"><u>IPhone Macro and Close-Up Photography Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/magix-music-maker-2024-revolutionizing-home-recording-experience/"><u>Magix Music Maker 2024  Revolutionizing Home Recording Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-zooms-video-enhancements-filter-techniques/"><u>Mastering Zoom's Video Enhancements  Filter Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/precision-in-proportion-finding-aspect-ratio-perfection/"><u>Precision in Proportion  Finding Aspect Ratio Perfection</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revealing-the-top-notch-free-srt-translators-for-your-needs/"><u>Revealing the Top-Notch FREE SRT Translators for Your Needs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/subtitle-extraction-from-zip-archives-the-srt-solution/"><u>Subtitle Extraction From ZIP Archives – The Srt Solution</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-importance-of-b-roll-diversity-in-filmmaking/"><u>The Importance of B-Roll Diversity in Filmmaking</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-hdri-magic-compreranial-sdr-to-high-dynamic-range-upgrade/"><u>Unlock HDRI Magic  Compreranial SDR to High Dynamic Range Upgrade</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Beyond Basic Editing  Innovative Use of LUTs for Photography\""
-date: 2024-05-24T05:24:22.435Z
-updated: 2024-05-25T05:24:22.435Z
+date: 2024-07-25T05:07:26.213Z
+updated: 2024-07-26T05:07:26.213Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Beyond Basic Editing: Innovative Use of LUTs for Photography\""
 excerpt: "\"This Article Describes 2024 Approved: Beyond Basic Editing: Innovative Use of LUTs for Photography\""
 keywords: "Lut Editing Basics,Creative Photography Luts,Advanced Photo Edits,LUTs in Imaging,Enhanced Image Processing,Creative Color Grading,LUT Techniques for Pros"
-thumbnail: https://www.lifewire.com/thmb/lLYHqCTs7XmTl252WxDe2fhEmnE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/183817512-56a1044a3df78cafdaa7de62.jpg
+thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8ac9ff5b071dc373f5d27eae7.jpg
 ---
 
 ## Beyond Basic Editing: Innovative Use of LUTs for Photography
@@ -38,6 +38,18 @@ Lookup Tables help you save a lot of work and time during the editing process. T
 
 LUTs also aid in the organization of your post-production processes. You must know when to use LUTs, just as you must know when to use other components of the editing process. It assists in getting the work done more effectively after you master the pattern and processes to follow.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How will LUTs change your photography?
 
 Photo editors who are searching for that extra oomph to take their images to the next level adore LUTs. Photographers who wish to save time without losing the excellent quality and aesthetic outcomes that come with hours of minor, manual slider tweaks will benefit significantly from LUTs. You can give your photos a professional look they deserve with just one click. Using the same LUT or a modest selection of LUTs across the board can also help you create consistency throughout a particular photo set or an entire portfolio.
@@ -50,6 +62,9 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to use LUTs using Photoshop CC?
 
 LUTs come pre-installed with programs, but you may also purchase them online and add them to your software. You may even buy a look from your favorite film or television show. In Photoshop, LUTs are simple to apply. You can begin in Photoshop with the original photo, which is an image that was captured locally, unprocessed, and straight out of the camera.
@@ -64,6 +79,9 @@ Choose Adjustment Layer
 2. The Properties inspector will appear. Window>Properties.
 3. Select Load 3D LUT. A list of LUTs that come with Photoshop will appear.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
 
 load 3d lut
@@ -74,6 +92,9 @@ load 3d lut
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
@@ -95,6 +116,9 @@ Grow Together
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 Closing Thoughts:
@@ -105,6 +129,9 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 Closing Thoughts:
@@ -137,3 +164,35 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-behind-the-scenes-to-the-best-free-meme-designs/"><u>[New] Behind-The-Scenes to the Best FREE Meme Designs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-beyond-the-norm-a-review-of-the-4kcg318-display-by-eizo/"><u>[New] Beyond the Norm  A Review of the 4KCG318 Display by EIZO</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comprehensively-understanding-hands-directive-controls/"><u>[New] Comprehensively Understanding Hands' Directive Controls</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-beginners-strategy-boosting-business-via-telegram-marketing/"><u>[Updated] A Beginner’s Strategy  Boosting Business via Telegram Marketing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-accessible-alternatives-googles-simplicity-versus-samsungs-innovation/"><u>[Updated] Accessible Alternatives  Google's Simplicity Versus Samsung's Innovation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-are-reviews-on-merchandise-streamed-for-cash/"><u>[Updated] Are Reviews on Merchandise Streamed for Cash?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-back-track-technique-reverse-video-in-ios-devices/"><u>[Updated] Back-Track Technique  Reverse Video in iOS Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-browse-these-top-10-online-markets-for-one-of-a-kind-gift-boxes/"><u>2024 Approved  Browse These Top 10 Online Markets for One-of-a-Kind Gift Boxes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/addressing-video-lag-on-photo-booth-experience-for-2024/"><u>Addressing Video Lag on Photo Booth Experience for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/behind-the-scenes-the-magic-of-quantum-hdr/"><u>Behind the Scenes  The Magic of Quantum HDR</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-guide-understanding-google-podcasts/"><u>Comprehensive Guide  Understanding Google Podcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensively-understanding-iphone-audio-acquisition-for-2024/"><u>Comprehensively Understanding iPhone Audio Acquisition for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-ways-of-shooting-with-a-fisheye-lens/"><u>Cutting-Edge Ways of Shooting with a Fisheye Lens</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/digital-dynamics-pro-strategies-to-switch-shades/"><u>Digital Dynamics  Pro Strategies to Switch Shades</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/embedding-yt-tracks-in-movie-frameworks/"><u>Embedding YT Tracks in Movie Frameworks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fiscal-flyers-list-least-expensive-drones-in-market/"><u>Fiscal Flyers' List  Least Expensive Drones in Market</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/frame-your-life-with-iphones-top-10-photo-rules/"><u>Frame Your Life with iPhone's Top 10 Photo Rules</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/haptic-realities-now/"><u>Haptic Realities Now</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-comprehensive-look-at-uploading-images-to-youtube/"><u>In 2024, A Comprehensive Look at Uploading Images to YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-callers-audio-logger-iphone-24/"><u>In 2024, Caller's Audio Logger  IPhone '24</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-conquer-mixer-broadcasting-on-macos-systems/"><u>In 2024, Conquer Mixer Broadcasting on macOS Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/insiders-guide-to-powerful-win10-habits/"><u>Insider's Guide to Powerful Win10 Habits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-finding-pixel-tone-sites/"><u>Mastering the Art of Finding Pixel Tone Sites</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-path-to-personalization-adjusting-snapchat-videos-pace/"><u>The Path to Personalization  Adjusting Snapchat Videos' Pace</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tips-to-trim-down-lag-during-xbox-zoom-sessions/"><u>Tips to Trim Down Lag During Xbox-Zoom Sessions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-vr-films-that-you-should-never-miss/"><u>Top VR Films That You Should Never Miss</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transform-communication-top-free-mac-text-to-speech-software-rankings/"><u>Transform Communication  Top Free Mac Text-to-Speech Software Rankings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unpacking-the-benefits-of-lgs-4k-sync-monitors/"><u>Unpacking the Benefits of LG's 4K Sync Monitors</u></a></li>
+</ul></div>

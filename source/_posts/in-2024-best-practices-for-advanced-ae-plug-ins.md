@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Best Practices for Advanced AE Plug-Ins\""
-date: 2024-06-27T14:34:29.894Z
-updated: 2024-06-28T14:34:29.894Z
+date: 2024-07-25T02:42:06.172Z
+updated: 2024-07-26T02:42:06.172Z
 tags: 
   - screen-recording
   - ai video
@@ -26,14 +26,24 @@ Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Ftextdelay/>
 
 TextDelay is a native plugin, meaning that you will find it already installed on After Effects. As the name suggests, you can use TextDelay to delay any other text transformations that you may add to the text and it allows you to delay these transformations by word, line, or even character. It comes with a range selector that allows you to have precise control over which characters can get the effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## TextExploder
 
 Link: <https://aescripts.com/textexploder/>
 
 TextExploder is an After Effects plugin that is developed by MamoWorld and it allows you to split the text layers in After Effects into words, lines, characters, and more. These splits are so powerful that you can very easily isolate a single word or even a single letter.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![text exploder plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-exploder-plugin.jpg)
 
 ## iExpressions 2
@@ -44,12 +54,22 @@ If you want to effectively use the After Effects expressions even if you are not
 
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## TextBox
 
 Link: <https://aescripts.com/textbox/>
 
 If you want to create the perfect shape behind your text, then TextBox is a good text plugin to consider. This is a native After Effects plugin, meaning that you will not need to install it and the shapes it creates can be very easily customized. It updates the shapes you create automatically and adds them to the text layer, making it the most ideal solution to create closed captions, lower thirds, and subtitles.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
 
 ## Font Manager
@@ -68,18 +88,30 @@ This is the most ideal plugin to choose when you want to add motion trail to the
 
 ![cartoon moblur plugin](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-moblur-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Shadow Studio
 
 If you are looking for shadow styles that will go very well with your project, Shadow Studio is a good plugin to get. It offers you a wide variety of shadow styles including radial, inner, soft, and long shadows. Most people find it an easier and more affordable way to add soft shadows as compared to traditional methods like raytracing. It is also quite easy to use, meaning that shadow effects that would take hours to complete can be done in a matter of minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Texts Animation Bundle
 
 Link: <https://aedownload.com/download-texts-animation-bundle-free-videohive/>
 
 This is a bundle of more than 80 different templates to add text effects to any text in After Effects. All the templates in the bundle are easily customizable and the plugin is very easy to use, allowing you to create amazing text effects in just a few clicks. The templates are modeled from various titles, quotes, and stories, so there is a little bit of something for everyone. Plus, the bundle gets constant updates and you are likely to get new templates with each update.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
 
 ## Artificial Intelligence Titles
@@ -98,6 +130,9 @@ This is another great text animation bundle with different options for just abou
 
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 On its own After Effects comes with so many post-production effects and features to make your project appear professional and well made. But if you would like to have a unique video production that stands head and shoulders above all others, plugins are a great way to do that. The good news is that After Effects allows for the use of plugins developed by third-party developers and some of the them like the text plugins, we have listed above can be very useful to a video’s production.
@@ -132,3 +167,41 @@ On its own After Effects comes with so many post-production effects and features
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-best-balanced-tripods-for-dslr-phone-and-tablet-videos/"><u>[New] Best Balanced Tripods for DSLR, Phone, and Tablet Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-live-stream-tools-xsplit-or-obs/"><u>[New] Best Live Stream Tools  XSplit or OBS?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-how-to-create-a-live-stream-online/"><u>[New] How to Create a Live Stream Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-choices-elite-ringtone-developers-iphone/"><u>[Updated] Best Choices  Elite Ringtone Developers iPhone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beyond-reality-boundaries-the-vr-journey-continues/"><u>2024 Approved  Beyond Reality Boundaries  The VR Journey Continues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-characters-animation-basics-in-wmm/"><u>2024 Approved  Crafting Characters  Animation Basics in WMM</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-full-analysis-of-the-lightroom-application-for-android-for-2024/"><u>A Full Analysis of the Lightroom Application for Android for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/amp-up-creativity-premiere-pro-templates-free/"><u>Amp Up Creativity  Premiere Pro Templates, FREE</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beacon-of-ringtone-richness-online/"><u>Beacon of Ringtone Richness Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/breathe-life-into-photos-using-blur-effects-in-illustrator/"><u>Breathe Life Into Photos  Using Blur Effects in Illustrator</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-the-moment-advanced-tips-for-iphone-silhouettes-for-2024/"><u>Capturing the Moment  Advanced Tips for iPhone Silhouettes for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/circular-innovator-box/"><u>Circular Innovator Box</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/competing-camerasdrones-gopro-max-dji-action-insta360/"><u>Competing Cameras/Drones  GoPro Max, DJi Action, Insta360</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-lessons-apt-color-adjustment-tips/"><u>Essential Lessons  Apt Color Adjustment Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gps-companions-top-10-drones-that-stay-close/"><u>GPS Companions  Top 10 Drones That Stay Close</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/heartfelt-thanks-otu-selection-at-your-fingertips/"><u>Heartfelt Thanks  OTU Selection at Your Fingertips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hearthsongs-the-quintessential-playlist-for-engagement/"><u>Hearthsongs  The Quintessential Playlist for Engagement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-add-narration-to-your-videos-for-2024/"><u>How to Add Narration to Your Videos for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ideal-choices-for-comprehensive-movement-recording/"><u>Ideal Choices for Comprehensive Movement Recording</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-breaking-barriers-on-frozen-grounds-olympic-snowboard-speed-showdown/"><u>In 2024, Breaking Barriers on Frozen Grounds - Olympic Snowboard Speed Showdown</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/integrating-luts-for-dynamic-color-correction-in-premiere-pro/"><u>Integrating LUTs for Dynamic Color Correction in Premiere Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/integrating-subtitles-into-your-online-social-videography-efforts/"><u>Integrating Subtitles Into Your Online Social Videography Efforts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-start-marketing-tricks-elevating-your-brands-reach/"><u>Quick-Start Marketing Tricks  Elevating Your Brand's Reach</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/scrutinizing-dji-drone-goggle-specifications/"><u>Scrutinizing DJI Drone Goggle Specifications</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/speedy-shot-techniques-to-boost-home-filmmaking/"><u>Speedy Shot Techniques to Boost Home Filmmaking</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-navigation-in-telegram-web-app/"><u>Step-by-Step Navigation in Telegram Web App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essential-companion-for-advanced-win10-users/"><u>The Essential Companion for Advanced Win10 Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-blueprint-for-windows-11-adoption/"><u>The Ultimate Blueprint for Windows 11 Adoption</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-best-4k-monitors-for-mac/"><u>Top 10 Best 4K Monitors for Mac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transform-your-imagery-with-ar-and-accessible-luts/"><u>Transform Your Imagery with AR & Accessible LUTs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/twitch-replay-magic-stream-control-secrets/"><u>Twitch Replay Magic  Stream Control Secrets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/universalviewers-guide-2024-worldwide-selection-and-local-options/"><u>UniversalViewers Guide 2024  Worldwide Selection & Local Options</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unraveling-instagrams-video-sideways-quandary/"><u>Unraveling Instagram's Video Sideways Quandary</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unrestricted-media-playback-free-on-windows-and-macos/"><u>Unrestricted Media Playback  FREE on Windows & MacOS</u></a></li>
+</ul></div>

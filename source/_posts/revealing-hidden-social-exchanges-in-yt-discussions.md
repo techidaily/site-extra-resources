@@ -1,7 +1,7 @@
 ---
 title: "Revealing Hidden Social Exchanges in YT Discussions"
-date: 2024-05-24T04:57:09.569Z
-updated: 2024-05-25T04:57:09.569Z
+date: 2024-07-25T04:17:21.630Z
+updated: 2024-07-26T04:17:21.630Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Revealing Hidden Social Exchanges in YT Discussions"
 excerpt: "This Article Describes Revealing Hidden Social Exchanges in YT Discussions"
 keywords: "Social YT Exchange Analysis,Uncovering YT Dialogue,YT Interaction Insights,Peer Youtube Comments Study,Hidden YT Community Conversations,YT Discourse Deep Dive,Youtuber Social Dynamics"
-thumbnail: https://www.lifewire.com/thmb/1giCJ_GI0g5IPS2wzD1NWNQqoBs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-see-who-shared-your-tiktok-5271091-8fc5445938ed433d830a2b5275079c62.jpg
+thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad7a99594a73a26d6b57f4450.jpg
 ---
 
 ## Revealing Hidden Social Exchanges in YT Discussions
@@ -63,8 +63,14 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -81,6 +87,9 @@ But, if you want to retrace the videos you commented on and the videos/comments 
 
 Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
 Step2 Scroll down a little bit and click the **More** button.
@@ -93,6 +102,9 @@ Step3 Click the **Comments** section.
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
 
 To see videos/comments you liked or disliked, please follow these steps as continuation:
@@ -103,6 +115,9 @@ Step4 In the **Google My Activity** tab, click **Other activity**.
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![your comment likes and dislikes](https://images.wondershare.com/filmora/article-images/2022/11/your-comment-likes-and-dislikes.jpg)
 
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
@@ -115,6 +130,9 @@ This article tells you that you can't see who liked or disliked a comment, but y
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -165,6 +183,10 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -181,6 +203,9 @@ But, if you want to retrace the videos you commented on and the videos/comments 
 
 Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
 Step2 Scroll down a little bit and click the **More** button.
@@ -189,10 +214,22 @@ Step2 Scroll down a little bit and click the **More** button.
 
 Step3 Click the **Comments** section.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
 
 To see videos/comments you liked or disliked, please follow these steps as continuation:
@@ -203,6 +240,14 @@ Step4 In the **Google My Activity** tab, click **Other activity**.
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![your comment likes and dislikes](https://images.wondershare.com/filmora/article-images/2022/11/your-comment-likes-and-dislikes.jpg)
 
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
@@ -211,6 +256,9 @@ Now you will see the videos you liked or disliked and also the comments you like
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
@@ -285,3 +333,42 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-accelerated-adventures-fastest-flash-games-on-devices/"><u>[New] Accelerated Adventures  Fastest Flash Games on Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-advanced-directors-toolkit-powerdirector-24/"><u>[New] Advanced Directors' Toolkit  PowerDirector '24</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-cinematographic-savoir-faire-food-videographers-essentials/"><u>[New] Cinematographic Savoir-Faire  Food Videographer's Essentials</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-avoiding-simulated-reality-ills-strategies-and-tips/"><u>2024 Approved  Avoiding Simulated Reality Ills  Strategies and Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-assortment-professional-webcam-supports/"><u>2024 Approved  Best Assortment  Professional Webcam Supports</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-conversion-guide-for-avi-media-to-web-ready-gif-in-filmora/"><u>2024 Approved  Comprehensive Conversion Guide for AVI Media to Web-Ready GIF in Filmora</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-guide-to-microsoft-azure-transcription-service/"><u>2024 Approved  Comprehensive Guide to Microsoft Azure Transcription Service</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-creating-captivating-iphone-lengthened-photos/"><u>2024 Approved  Creating Captivating iPhone Lengthened Photos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/5-ultimate-platforms-for-high-quality-text-embellishments/"><u>5 Ultimate Platforms for High-Quality Text Embellishments</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-decade-of-innovation-in-online-cricket-streaming-for-2024/"><u>A Decade of Innovation in Online Cricket Streaming for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-decades-best-anime-opening-songs-compiled-for-2024/"><u>A Decade's Best  Anime Opening Songs Compiled for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/apex-of-scripting-soundscapes/"><u>Apex of Scripting Soundscapes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/command-the-field-with-a-customized-in-game-character-voice-in-free-fire-for-2024/"><u>Command the Field with a Customized In-Game Character Voice in Free Fire for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compact-cameras-for-mobile-cinematography/"><u>Compact Cameras for Mobile Cinematography</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-viral-vignettes-for-2024/"><u>Crafting Viral Vignettes for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-visual-stories-a-detailed-magix-video-pro-x-review-for-2024/"><u>Crafting Visual Stories  A Detailed Magix Video Pro X Review for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/embark-on-a-funimate-adventure/"><u>Embark on a Funimate Adventure</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ideal-programs-for-creating-video-from-pictures/"><u>Ideal Programs for Creating Video From Pictures</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-complete-concise-introduction-to-mastering-final-cut-pro-techniques/"><u>In 2024, A Complete, Concise Introduction to Mastering Final Cut Pro Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-achieving-visual-excellence-with-the-best-4k-monitors-on-the-market/"><u>In 2024, Achieving Visual Excellence with the Best 4K Monitors on the Market</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-avoiding-compression-larger-youtube-videos/"><u>In 2024, Avoiding Compression  Larger YouTube Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lace-footage-with-music-using-premiere-pro/"><u>Lace Footage with Music Using Premiere Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leading-20-free-open-source-pubg-galleries/"><u>Leading 20 Free, Open Source PUBG Galleries</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfect-your-images-with-dynamic-text-tools/"><u>Perfect Your Images with Dynamic Text Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/powerdirector-unleashed-in-depth-2024-analysis-and-guide/"><u>PowerDirector Unleashed  In-Depth 2024 Analysis and Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/rank-the-best-comparative-study-of-6-hdmi-21-monitors/"><u>Rank the Best  Comparative Study of 6 HDMI 2.1 Monitors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-20-word-formula-to-skyrocket-your-business-reach/"><u>The 20-Word Formula to Skyrocket Your Business Reach</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-battle-of-video-players-vlc-vs-mx/"><u>The Battle of Video Players  VLC Vs. MX</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essential-tutorial-for-making-memes-on-9gag/"><u>The Essential Tutorial for Making Memes on 9GAG</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-online-photo-cropting-accuracy/"><u>The Ultimate Guide to Online Photo Cropting Accuracy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-30-slept-on-speech-to-text-apps-for-macos-users/"><u>Top 30 Slept-On Speech to Text Apps for macOS Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-budget-friendly-gopro-adds/"><u>Ultimate Budget-Friendly GoPro Adds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-your-full-potential-top-ideas-for-productive-podcast-sessions/"><u>Unleash Your Full Potential  Top Ideas for Productive Podcast Sessions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visual-virtuosity-unveiled-a-close-look-at-the-z32x-4k-monitor/"><u>Visual Virtuosity Unveiled  A Close Look at the Z32X 4K Monitor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/yi-cameras-edge-in-cinematic-quality-4k-capture/"><u>Yi Camera's Edge in Cinematic Quality 4K Capture</u></a></li>
+</ul></div>

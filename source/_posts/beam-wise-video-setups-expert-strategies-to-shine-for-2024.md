@@ -1,7 +1,7 @@
 ---
 title: "\"Beam-Wise Video Setups  Expert Strategies to Shine for 2024\""
-date: 2024-05-24T04:16:39.928Z
-updated: 2024-05-25T04:16:39.928Z
+date: 2024-07-25T02:58:42.418Z
+updated: 2024-07-26T02:58:42.418Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Beam-Wise Video Setups: Expert Strategies to Shine for 2024\""
 excerpt: "\"This Article Describes Beam-Wise Video Setups: Expert Strategies to Shine for 2024\""
 keywords: "Beam Optimization Tips,Wise Lighting Techniques,Expert Visual Setup,Professional Illumination Guide,Video Production Efficiency,Strategic Camera Positioning,Brightness Control Methods"
-thumbnail: https://www.lifewire.com/thmb/SPyegmDXMFzk4L3Y3-2c5z4H3WI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/samsungtvhomepage-58f0d708245a4140bb4bbad8ea0cfc26.jpg
+thumbnail: https://thmb.techidaily.com/3dc1e13d990f9f4ed1b30979889fa15d157b3da05c97d832955a545581c7804d.jpg
 ---
 
 ## Beam-Wise Video Setups: Expert Strategies to Shine
@@ -52,12 +52,18 @@ The key light is the main light that illuminates the subject. You can place it i
 
 ##### Step2 Set the Fill Light
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -66,10 +72,16 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
@@ -84,12 +96,18 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 **Using Key Light + Fill + Backlight**
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 ## Summary
@@ -126,3 +144,38 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-accelerated-learning-quick-start-to-becoming-a-lut-expert/"><u>[New] Accelerated Learning  Quick Start to Becoming a LUT Expert</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-audience-allure-spinning-solo-podcasts-that-go-viral/"><u>[New] Audience Allure  Spinning Solo Podcasts That Go Viral</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-chronology-of-success-best-release-schedule/"><u>[New] Chronology of Success  Best Release Schedule</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-chuckles-unleashed-best-sites-for-funny-tones/"><u>[New] Chuckles Unleashed  Best Sites for Funny Tones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-captivating-vlog-narratives/"><u>[New] Crafting Captivating Vlog Narratives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-10-best-face-editing-app-for-android-and-iphone/"><u>2024 Approved  10 Best Face Editing App for Android and iPhone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-choreographing-cinema-sounds-in-the-windows-11-space/"><u>2024 Approved  Choreographing Cinema Sounds in the Windows 11 Space</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/add-music-to-whatsapp-status-for-2024/"><u>Add Music to WhatsApp Status for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-selective-softness-in-mobile-photography/"><u>Advanced Selective Softness in Mobile Photography</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bending-space-and-time-vrs-cinematic-innovation/"><u>Bending Space and Time  VR's Cinematic Innovation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-3d-lut-development-course/"><u>Comprehensive 3D LUT Development Course</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-your-4k-entertainment-tvs-vs-projection-technology/"><u>Elevating Your 4K Entertainment  TVs vs Projection Technology</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/eliminate-background-in-images-with-ease-using-canva/"><u>Eliminate Background in Images with Ease Using Canva</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-recording-to-broadcast-masterful-podcast-editing-with-garageband/"><u>From Recording to Broadcast  Masterful Podcast Editing with GarageBand</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hilarity-renderings-kapwings-image-craft/"><u>Hilarity Renderings  Kapwing's Image Craft</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/illustrators-playground-navigating-through-top-8-iphone-drawing-tools/"><u>Illustrators' Playground  Navigating Through Top 8 iPhone Drawing Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-stepwise-strategy-to-make-mark-with-memes-at-9gag/"><u>In 2024, A Stepwise Strategy to Make Mark with Memes at 9GAG</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-add-music-to-powerpoint/"><u>In 2024, Add Music to PowerPoint</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-calculated-viewing-time-for-a-standard-20mb-film/"><u>In 2024, Calculated Viewing Time for a Standard 20Mb Film</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-a-winning-live-broadcast-essentials-and-strategies/"><u>In 2024, Crafting a Winning Live Broadcast  Essentials and Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-stunning-photography-mastering-hdr-merging-in-lightroom/"><u>In 2024, Crafting Stunning Photography  Mastering HDR Merging in Lightroom</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/maximize-video-experience-enable-pip-on-youtube-ios/"><u>Maximize Video Experience  Enable PIP on YouTube iOS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-world-of-lut-based-color-correction/"><u>Navigating the World of LUT-Based Color Correction</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/precision-in-color-expert-guides-on-adjustment-and-grading/"><u>Precision in Color  Expert Guides on Adjustment & Grading</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/reimagining-editing-processes-the-revolutionary-world-of-magix-video-pro-x/"><u>Reimagining Editing Processes  The Revolutionary World of Magix Video Pro X</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-complete-guide-to-collage-aesthetics/"><u>The Complete Guide to Collage Aesthetics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ifunny-meme-journey-downloading-made-easy/"><u>The iFunny Meme Journey  Downloading Made Easy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-pillars-of-profitable-digital-marketing/"><u>The Pillars of Profitable Digital Marketing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-premier-intro-list-for-panzoids/"><u>The Premier Intro List for Panzoids</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-top-8-premium-free-srt-translation-solutions/"><u>Unveiling Top 8 Premium Free SRT Translation Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/winning-at-movie-watching-leading-windows-phone-apps/"><u>Winning at Movie Watching  Leading Windows Phone Apps</u></a></li>
+</ul></div>

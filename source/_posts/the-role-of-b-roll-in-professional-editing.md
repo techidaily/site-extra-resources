@@ -1,7 +1,7 @@
 ---
 title: "The Role of B Roll in Professional Editing"
-date: 2024-07-06T17:44:30.931Z
-updated: 2024-07-07T17:44:30.931Z
+date: 2024-07-25T01:41:22.501Z
+updated: 2024-07-26T01:41:22.501Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ B roll is a phrase used to describe supplemental video, which is frequently used
 
 Now that we know that, let's dive in!
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## 1\. B roll In TV And Movies
 
 Broll is an acronym for "background" or "behind," respectively. It usually refers to extra footage captured with a movie camera while keeping the lighting consistent between scenes in the movie industry. When the filmmaker doesn't want to show any dialogue or action on screen but needs some movement within the frame, it might be utilized as filler.
@@ -32,6 +35,10 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -40,6 +47,9 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. What types of b roll are there?
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
@@ -52,10 +62,16 @@ Aerial B roll is the solution when you like to show your viewers where your film
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
@@ -66,6 +82,9 @@ When you are sharing a narrative that has been told in the past or that has hist
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Pick-up shots
 
 A pick-up is a tiny shot added to previously captured material. Re-shoots involve redoing entire scenes. Both types of shots are commonly added during film editing to fix, logic, continuity, or quality flaws. These photos happen a while after the sets have been taken down, clothes and props stowed, and the actors and crew have gone on to new projects.
@@ -110,3 +129,34 @@ We sincerely hope that this post will be of use to you in making your films more
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-48-hour-memelore-creation-via-kinemaster/"><u>[New] 48-Hour Memelore  Creation via KineMaster</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-balanced-tripods-for-dslr-phone-and-tablet-videos/"><u>[New] Best Balanced Tripods for DSLR, Phone, and Tablet Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-live-stream-tools-xsplit-or-obs/"><u>[New] Best Live Stream Tools  XSplit or OBS?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-full-analysis-of-the-lightroom-application-for-android-for-2024/"><u>A Full Analysis of the Lightroom Application for Android for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/competing-camerasdrones-gopro-max-dji-action-insta360/"><u>Competing Cameras/Drones  GoPro Max, DJi Action, Insta360</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/conquer-the-digital-landscape-10-steps-towards-dominating-smm-for-2024/"><u>Conquer the Digital Landscape  10 Steps Towards Dominating SMM for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhance-your-iphone-photos-with-top-8-selfie-sticks/"><u>Enhance Your Iphone Photos with Top 8 Selfie Sticks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-lessons-apt-color-adjustment-tips/"><u>Essential Lessons  Apt Color Adjustment Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-premium-gif-software-for-iphone-users/"><u>Exploring Premium GIF Software for iPhone Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/free-range-riffs-and-rhythms-in-free-fire/"><u>Free Range Riffs and Rhythms in Free Fire</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hearthsongs-the-quintessential-playlist-for-engagement/"><u>Hearthsongs  The Quintessential Playlist for Engagement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-run-a-giveaway-facebook-post/"><u>How to Run a Giveaway Facebook Post</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-basic-understanding-of-digital-lore-making/"><u>In 2024, Basic Understanding of Digital Lore Making</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-becoming-a-onestream-pro-tips-and-tricks-from-the-pros/"><u>In 2024, Becoming a OneStream Pro  Tips and Tricks From the Pros</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-bargain-4k-camera-deals/"><u>In 2024, Best Bargain 4K Camera Deals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-closer-look-strategies-in-virtual-world-of-roblox/"><u>In 2024, Closer Look Strategies in Virtual World of Roblox</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/integrating-luts-for-dynamic-color-correction-in-premiere-pro/"><u>Integrating LUTs for Dynamic Color Correction in Premiere Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/live-media-masters-choice-vmix-vs-wirecast-for-professionals/"><u>Live Media Masters Choice  VMix Vs. Wirecast for Professionals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfect-pairing-of-tiktok-bio-and-linktree-connection/"><u>Perfect Pairing of TikTok Bio & Linktree Connection</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pro-3-analysis-how-ion-is-redefining-the-action-video-landscape/"><u>Pro 3 Analysis - How ION Is Redefining the Action Video Landscape</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-start-marketing-tricks-elevating-your-brands-reach/"><u>Quick-Start Marketing Tricks  Elevating Your Brand's Reach</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/screenscout-quest-uncovering-affordable-tiktok-visuals-without-a-cost/"><u>ScreenScout Quest  Uncovering Affordable TikTok Visuals Without a Cost</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seeking-the-finest-pixel-ringtones-online/"><u>Seeking the Finest Pixel Ringtones Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/system-requirements-guide-for-the-latest-mac-os-release/"><u>System Requirements Guide for the Latest Mac OS Release</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transform-your-imagery-with-ar-and-accessible-luts/"><u>Transform Your Imagery with AR & Accessible LUTs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transforming-low-light-footage-in-iphone-ease/"><u>Transforming Low-Light Footage in Iphone Ease</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unrestricted-media-playback-free-on-windows-and-macos/"><u>Unrestricted Media Playback  FREE on Windows & MacOS</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Crafting Characters  The Art of 3D Text Design\""
-date: 2024-06-19T13:57:58.987Z
-updated: 2024-06-20T13:57:58.987Z
+date: 2024-07-25T04:07:28.657Z
+updated: 2024-07-26T04:07:28.657Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,9 @@ Step2 Click on the **Type tool** and click anywhere on your blank canvas. Then, 
 
 Step3 Now, look at the bottom-right corner of the program. Find the **Font** settings and change your font type and size to anything you want.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change font illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-font.png)
 
 Step4 Next, choose any color you want for your text from the panel on the screen's left side. Just remember to click on your text first before you start changing colors.
@@ -50,6 +53,9 @@ Step4 Next, choose any color you want for your text from the panel on the screen
 
 Step5 Align the text to make it easier to edit and move around the canvas later. Just click on it and then click on the three buttons in the image below. This section is located at the bottom-right corner of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![align text in illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-align.png)
 
 Step6 Up next, you need to turn on your 3D Effects panel if it still needs to be activated. To do this, click on **Window** → **3D and Materials.** Then, look at the right side of the screen, and you will see the panel pop up.
@@ -58,6 +64,9 @@ Step6 Up next, you need to turn on your 3D Effects panel if it still needs to be
 
 Step7 Click on the box icon on the right side of the screen and select **“Extrude”** This will instantly transform your text into a 3D model.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![turn text into three d](https://images.wondershare.com/filmora/article-images/adobe-illustrator-panel.png)
 
 Step8 Now, all left to do is experiment with the settings in this panel and adjust how you want your 3D text to look. You can adjust its width, rotation, presets, angle, perspective, and so on. Just play around with the settings until you find your ideal result.
@@ -76,6 +85,9 @@ You might not believe it, but there's an even more accessible and less expensive
 
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Create a 3D Text Effect In Filmora?
 
 The steps are simple. Just follow them precisely as you see here, and you won't have any problems.
@@ -84,6 +96,9 @@ Step1 Download Filmora and run the program. Once it opens, click on **New Projec
 
 Step2 Head to the **Titles** tab and search for the **“3D Illustration**” title. Then, drag it into the Timeline. You can also find several other 3D titles. If you like another one better, drag that one instead of the one we mentioned here.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
@@ -96,10 +111,17 @@ If you want to learn more about Filmora’s fantastic features, please watch the
 
 ## Conclusion
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 Both programs will get the job done if you use Adobe Illustrator or Filmora for your 3D text effect. The main difference is that it will be easier with Filmora. The choice is yours. Have fun![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ### How to Create a 3D Text Effect In Filmora?
 
 The steps are simple. Just follow them precisely as you see here, and you won't have any problems.
@@ -108,10 +130,16 @@ Step1 Download Filmora and run the program. Once it opens, click on **New Projec
 
 Step2 Head to the **Titles** tab and search for the **“3D Illustration**” title. Then, drag it into the Timeline. You can also find several other 3D titles. If you like another one better, drag that one instead of the one we mentioned here.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
 
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
@@ -146,3 +174,38 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-advanced-directors-toolkit-powerdirector-24/"><u>[New] Advanced Directors' Toolkit  PowerDirector '24</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-cinematographic-savoir-faire-food-videographers-essentials/"><u>[New] Cinematographic Savoir-Faire  Food Videographer's Essentials</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-avoiding-simulated-reality-ills-strategies-and-tips/"><u>2024 Approved  Avoiding Simulated Reality Ills  Strategies and Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breathless-battles-olympic-short-track/"><u>2024 Approved  Breathless Battles  Olympic Short Track</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-guide-to-microsoft-azure-transcription-service/"><u>2024 Approved  Comprehensive Guide to Microsoft Azure Transcription Service</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-creating-captivating-iphone-lengthened-photos/"><u>2024 Approved  Creating Captivating iPhone Lengthened Photos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-decade-of-innovation-in-online-cricket-streaming-for-2024/"><u>A Decade of Innovation in Online Cricket Streaming for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-decades-best-anime-opening-songs-compiled-for-2024/"><u>A Decade's Best  Anime Opening Songs Compiled for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-slow-mo-magic-with-gopro-hero-10/"><u>Capturing Slow-Mo Magic with GoPro Hero 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/command-the-field-with-a-customized-in-game-character-voice-in-free-fire-for-2024/"><u>Command the Field with a Customized In-Game Character Voice in Free Fire for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compact-cameras-for-mobile-cinematography/"><u>Compact Cameras for Mobile Cinematography</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-visual-stories-a-detailed-magix-video-pro-x-review-for-2024/"><u>Crafting Visual Stories  A Detailed Magix Video Pro X Review for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/embark-on-a-funimate-adventure/"><u>Embark on a Funimate Adventure</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-retro-effects-for-modern-video-creation/"><u>Essential Retro Effects for Modern Video Creation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-complete-concise-introduction-to-mastering-final-cut-pro-techniques/"><u>In 2024, A Complete, Concise Introduction to Mastering Final Cut Pro Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-achieving-visual-excellence-with-the-best-4k-monitors-on-the-market/"><u>In 2024, Achieving Visual Excellence with the Best 4K Monitors on the Market</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-value-for-money-in-budget-4k-cameras-(1000/"><u>In 2024, Best Value for Money in Budget 4K Cameras (<$1,000)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lace-footage-with-music-using-premiere-pro/"><u>Lace Footage with Music Using Premiere Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfect-your-images-with-dynamic-text-tools/"><u>Perfect Your Images with Dynamic Text Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/powerdirector-unleashed-in-depth-2024-analysis-and-guide/"><u>PowerDirector Unleashed  In-Depth 2024 Analysis and Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/rank-the-best-comparative-study-of-6-hdmi-21-monitors/"><u>Rank the Best  Comparative Study of 6 HDMI 2.1 Monitors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlining-audacity-for-superior-audio-capture/"><u>Streamlining Audacity for Superior Audio Capture</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-20-word-formula-to-skyrocket-your-business-reach/"><u>The 20-Word Formula to Skyrocket Your Business Reach</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-battle-of-video-players-vlc-vs-mx/"><u>The Battle of Video Players  VLC Vs. MX</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essential-tutorial-for-making-memes-on-9gag/"><u>The Essential Tutorial for Making Memes on 9GAG</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-online-photo-cropting-accuracy/"><u>The Ultimate Guide to Online Photo Cropting Accuracy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-30-slept-on-speech-to-text-apps-for-macos-users/"><u>Top 30 Slept-On Speech to Text Apps for macOS Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-budget-friendly-gopro-adds/"><u>Ultimate Budget-Friendly GoPro Adds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-your-full-potential-top-ideas-for-productive-podcast-sessions/"><u>Unleash Your Full Potential  Top Ideas for Productive Podcast Sessions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visual-virtuosity-unveiled-a-close-look-at-the-z32x-4k-monitor/"><u>Visual Virtuosity Unveiled  A Close Look at the Z32X 4K Monitor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/yi-cameras-edge-in-cinematic-quality-4k-capture/"><u>Yi Camera's Edge in Cinematic Quality 4K Capture</u></a></li>
+</ul></div>

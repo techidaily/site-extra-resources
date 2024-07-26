@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Accessing Hidden Social Engagement in Video Streams"
-date: 2024-05-24T03:44:24.177Z
-updated: 2024-05-25T03:44:24.177Z
+date: 2024-07-25T01:50:05.240Z
+updated: 2024-07-26T01:50:05.240Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Accessing Hidden Social Engagement in Video Streams"
 excerpt: "This Article Describes In 2024, Accessing Hidden Social Engagement in Video Streams"
 keywords: "Video Stream Insight,Social View Access,Hidden Engagement Analysis,Streamed User Interaction,Unseen Content Impact,Deep Social Data,Engaged Viewer Metrics"
-thumbnail: https://www.lifewire.com/thmb/Wrv6Rby5K8-rR9VDRqGpwRTiO_M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/14511925043_956d7ff9af_k-580112be3df78cbc28cc6e94.jpg
+thumbnail: https://thmb.techidaily.com/2531084f8c85679ae61e8759b52e3fe4836202538838ce8ab82c47df34846229.jpg
 ---
 
 ## Accessing Hidden Social Engagement in Video Streams
@@ -22,6 +22,9 @@ People nowadays can express their feelings and opinions online through social me
 
 People can watch, like, share, comment on, and upload videos using the YouTube service. You can access this video service on PCs, laptops, tablets, and mobile phones.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Are YouTube's Primary Purposes?
 
 * Users can look up and view videos.
@@ -31,6 +34,9 @@ People can watch, like, share, comment on, and upload videos using the YouTube s
 * Users can follow or subscribe to other YouTube channels.
 * To arrange videos and combine them together, make playlists.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Use YouTube?
 
 YouTube is the second-largest web browser after Google. Every minute, YouTube receives more than 100 hours of video. Whether you're disseminating information to students or marketing activities, it's among the most significant ways to reach a large audience. Some of the benefits of YouTube are listed below.
@@ -65,6 +71,9 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -89,6 +98,10 @@ Step2 Scroll down a little bit and click the **More** button.
 
 Step3 Click the **Comments** section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
@@ -107,10 +120,17 @@ Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Cl
 
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
@@ -147,6 +167,10 @@ Because understanding how to comment is only one aspect of the issue; very impor
 
 Try making a joke, pointing out something amusing, providing helpful information, or expressing sympathy or concern for a fan. Additionally, a simple thumbs-up or heart can go a long way to demonstrate that you are paying attention even if you aren't feeling very friendly (we all have bad days, it's OK!).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Did you know what a Highlighted comment is?
 
 A highlighted comment on YouTube aims to draw the content creator's attention with an automated feature.
@@ -181,6 +205,9 @@ But, if you want to retrace the videos you commented on and the videos/comments 
 
 Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
 Step2 Scroll down a little bit and click the **More** button.
@@ -189,6 +216,9 @@ Step2 Scroll down a little bit and click the **More** button.
 
 Step3 Click the **Comments** section.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
@@ -207,10 +237,17 @@ Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Cl
 
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
@@ -247,6 +284,9 @@ Because understanding how to comment is only one aspect of the issue; very impor
 
 Try making a joke, pointing out something amusing, providing helpful information, or expressing sympathy or concern for a fan. Additionally, a simple thumbs-up or heart can go a long way to demonstrate that you are paying attention even if you aren't feeling very friendly (we all have bad days, it's OK!).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Did you know what a Highlighted comment is?
 
 A highlighted comment on YouTube aims to draw the content creator's attention with an automated feature.
@@ -285,3 +325,39 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-build-your-affordable-virtual-reality-headgear-using-google-cards/"><u>[New] Build Your Affordable Virtual Reality Headgear Using Google Cards</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-balance-tint-editor-pro/"><u>[Updated] Balance Tint Editor Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-guide-to-online-image-sharpening/"><u>2024 Approved  Advanced Guide to Online Image Sharpening</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-blend-pictures-with-computers-easily/"><u>2024 Approved  Blend Pictures with Computers Easily</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-closer-views-using-videoleap-software/"><u>2024 Approved  Closer Views Using Videoleap Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-step-further-elite-video-editing-hacks-for-tiktok-for-2024/"><u>A Step Further  Elite Video Editing Hacks for TikTok for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aligning-objectives-brands-and-youtube-collaborative-moves/"><u>Aligning Objectives  Brands and YouTube Collaborative Moves</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/blur-free-photography-ranked-10-best-web-editing-tools-for-2024/"><u>Blur-Free Photography  Ranked 10 Best Web Editing Tools for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/captivating-content-the-essential-six-video-formats-for-2024/"><u>Captivating Content  The Essential Six Video Formats for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/drone-design-changes-experiment-for-free-subscribe-for-paid-access/"><u>Drone Design Changes - Experiment for Free, Subscribe for Paid Access</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-your-iphone-game-with-smart-gif-storage-strategies/"><u>Elevate Your iPhone Game with Smart GIF Storage Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-beyond-facebooks-borders-a-users-guide-to-hidden-activities/"><u>Exploring Beyond Facebooks' Borders - A User’s Guide to Hidden Activities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/full-assessment-hero4-black-capabilities/"><u>Full Assessment  Hero4 Black Capabilities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ghostly-glimpses-video-review/"><u>Ghostly Glimpses  Video Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-boosting-your-zoom-meetings-chromebook-edition/"><u>In 2024, Boosting Your Zoom Meetings  Chromebook Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-brightening-up-your-videography-gopro-fog-free-techniques/"><u>In 2024, Brightening Up Your Videography  GoPro Fog-Free Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-complete-manual-integrating-srt-into-mp4-files/"><u>In 2024, Complete Manual  Integrating SRT Into MP4 Files</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/incorporating-slug-lines-into-headlines-and-titles/"><u>Incorporating Slug Lines Into Headlines & Titles</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/reimagining-time-flow-a-thorough-2024-app-review/"><u>Reimagining Time Flow  A Thorough 2024 App Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/select-8-dynamic-backgrounds-for-your-mbp/"><u>Select 8 Dynamic Backgrounds for Your MBP</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/shadowy-time-lapse-recording-methods/"><u>Shadowy Time-Lapse Recording Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/srt-conversion-masterclass-direct-route-to-sub/"><u>SRT Conversion Masterclass  Direct Route to SUB</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/starting-line-the-basics-of-picture-resolution/"><u>Starting Line  The Basics of Picture Resolution</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/starting-point-auditions-approach-to-soft-volume-increase/"><u>Starting Point  Audition's Approach to Soft Volume Increase</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-wise-approach-to-organize-youtube-content-into-chapters/"><u>Step-Wise Approach to Organize YouTube Content Into Chapters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamline-your-videos-with-these-top-12-players/"><u>Streamline Your Videos with These Top 12 Players</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-of-digital-cinema-a-detailed-analysis-of-lgs-31mu97-b-monitor/"><u>The Art of Digital Cinema - A Detailed Analysis of LG’s 31MU97-B Monitor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-20-keywords-for-stellar-marketing-strategies/"><u>Top 20 Keywords for Stellar Marketing Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transform-your-videos-with-simple-inshot-techniques/"><u>Transform Your Videos with Simple Inshot Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-iphone-editing-magic-shorter-smaller-videos/"><u>Unlock iPhone Editing Magic  Shorter, Smaller Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-potential-in-audio-design-with-magix-fusion-x/"><u>Unlocking Potential in Audio Design with Magix Fusion X</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/video-length-converting-hours-to-gb-storage/"><u>Video Length  Converting Hours to GB Storage</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"Transform Typography in After Effects With Premium Plug-Ins\""
-date: 2024-05-24T05:47:41.051Z
-updated: 2024-05-25T05:47:41.051Z
+date: 2024-07-25T05:50:07.505Z
+updated: 2024-07-26T05:50:07.505Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Transform Typography in After Effects With Premium Plug-Ins\""
 excerpt: "\"This Article Describes Transform Typography in After Effects With Premium Plug-Ins\""
 keywords: "\"AETypographyTransforms,AfterEffectsTypeUpgrade,PluginsEnhanceDesign,DesignTypographicShift,PremiumAETypeTools,TypographyInAEPlug-Ins,AEHighTypoQuality\""
-thumbnail: https://www.lifewire.com/thmb/wU7bqEJLxd7hKqXXCIIPcKbCflM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed-8f711a656ea6497c992a49bd81c31b60.jpeg
+thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8ba02388288320b33c5951f16.jpeg
 ---
 
 ## Transform Typography in After Effects With Premium Plug-Ins
@@ -28,12 +28,18 @@ TextDelay is a native plugin, meaning that you will find it already installed on
 
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## TextExploder
 
 Link: <https://aescripts.com/textexploder/>
 
 TextExploder is an After Effects plugin that is developed by MamoWorld and it allows you to split the text layers in After Effects into words, lines, characters, and more. These splits are so powerful that you can very easily isolate a single word or even a single letter.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![text exploder plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-exploder-plugin.jpg)
 
 ## iExpressions 2
@@ -44,12 +50,18 @@ If you want to effectively use the After Effects expressions even if you are not
 
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## TextBox
 
 Link: <https://aescripts.com/textbox/>
 
 If you want to create the perfect shape behind your text, then TextBox is a good text plugin to consider. This is a native After Effects plugin, meaning that you will not need to install it and the shapes it creates can be very easily customized. It updates the shapes you create automatically and adds them to the text layer, making it the most ideal solution to create closed captions, lower thirds, and subtitles.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
 
 ## Font Manager
@@ -58,8 +70,14 @@ Link: <https://aescripts.com/font-manager/>
 
 Font Manager is an After Effects text plugin that is useful when creating and working with animated typefaces. You can use it to create the most complex animated text graphics in just a few simple clicks. You will also find it very familiar to use as the user interface is similar to the Character Panel in After Effects.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## Cartoon Moblur
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Fcartoon%5Fmoblur>
@@ -80,14 +98,23 @@ Link: <https://aedownload.com/download-texts-animation-bundle-free-videohive/>
 
 This is a bundle of more than 80 different templates to add text effects to any text in After Effects. All the templates in the bundle are easily customizable and the plugin is very easy to use, allowing you to create amazing text effects in just a few clicks. The templates are modeled from various titles, quotes, and stories, so there is a little bit of something for everyone. Plus, the bundle gets constant updates and you are likely to get new templates with each update.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Artificial Intelligence Titles
 
 Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%5Frank=1>
 
 The Artificial Intelligence Titles is an After Effects text plugin that is designed to be the ultimate typographical solution. Once you have it in After Effects, you can enter any text and the plugin will automatically adjust the entire layout of the text. You can choose to create awesome text boxes, change the color, add special effects and even change the duration, speed, size, and positioning of the text. It also allows users to customize the text animation’s direction without using a keyframe.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
 ## Text Library
@@ -98,6 +125,9 @@ This is another great text animation bundle with different options for just abou
 
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 On its own After Effects comes with so many post-production effects and features to make your project appear professional and well made. But if you would like to have a unique video production that stands head and shoulders above all others, plugins are a great way to do that. The good news is that After Effects allows for the use of plugins developed by third-party developers and some of the them like the text plugins, we have listed above can be very useful to a video’s production.
@@ -132,3 +162,29 @@ On its own After Effects comes with so many post-production effects and features
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-access-all-movies-ioss-no1-freepluspaid-film-apps-guide/"><u>[Updated] Access All Movies  IOS's No.1, FREE+Paid Film Apps Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-practice-animation-series/"><u>[Updated] Best Practice Animation Series</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-audio-visual-innovators-group/"><u>2024 Approved  Audio-Visual Innovators Group</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-free-high-quality-streaming-tools-for-webm-video-files/"><u>2024 Approved  Best Free, High-Quality Streaming Tools for WebM Video Files</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/begin-animation-ease-in-transition-for-2024/"><u>Begin Animation  Ease-In Transition for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/deep-dive-the-high-tech-world-of-dji-phantom-3-professional/"><u>Deep Dive  The High-Tech World of DJI Phantom 3 Professional</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dreamscape-films-entering-vr-worlds/"><u>Dreamscape Films  Entering VR Worlds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-selfies-to-art-ios-android-face-editing-tools-guide/"><u>Elevate Selfies to Art  IOS, Android Face-Editing Tools Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/extensive-insights-deconstructing-the-dji-inspire-1/"><u>Extensive Insights  Deconstructing the DJI Inspire 1</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/immediate-image-revamp-the-six-top-iphone-object-removal-apps/"><u>Immediate Image Revamp  The Six Top iPhone Object-Removal Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/immersive-education-the-role-of-virtual-reality/"><u>Immersive Education  The Role of Virtual Reality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-10-top-ai-tools-to-invent-unique-podcast-names-online/"><u>In 2024, 10 Top AI Tools to Invent Unique Podcast Names Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-accessing-and-using-srt-audio-on-various-oses/"><u>In 2024, Accessing and Using SRT Audio on Various OSes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-acquiring-visuals-strategies-for-no-cost-picture-videos/"><u>In 2024, Acquiring Visuals  Strategies for No-Cost Picture Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-action-cameras-with-image-stabilization/"><u>In 2024, Best Action Cameras with Image Stabilization</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-brighter-horizons-is-intense-light-for-hdr-right/"><u>In 2024, Brighter Horizons  Is Intense Light for HDR Right?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-securing-cost-free-vlc-player-download-on-mac/"><u>Mastering the Art of Securing, Cost-Free VLC Player Download on Mac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimal-stabilization-for-mirrorless-with-gimbals/"><u>Optimal Stabilization for Mirrorless with Gimbals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seamlessly-stream-your-laptops-dvd-library/"><u>Seamlessly Stream Your Laptop's DVD Library</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/syncopate-screen-a-beginners-guide-to-mobile-video-making/"><u>Syncopate Screen  A Beginner's Guide to Mobile Video Making</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-list-of-top-15-affordable-photo-enhancement-tools/"><u>The Ultimate List of Top 15 Affordable Photo Enhancement Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/xsplit-collection-comprehensive-gaming-review/"><u>XSplit Collection  Comprehensive Gaming Review</u></a></li>
+</ul></div>

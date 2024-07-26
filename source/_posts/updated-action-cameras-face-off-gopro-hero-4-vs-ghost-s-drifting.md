@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Action Cameras Face Off  GoPro Hero 4 Vs. Ghost-S Drifting\""
-date: 2024-05-24T04:05:51.520Z
-updated: 2024-05-25T04:05:51.520Z
+date: 2024-07-25T02:36:06.225Z
+updated: 2024-07-26T02:36:06.225Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes [Updated] Action Cameras Face Off: GoPro Hero 4 Vs. Ghost-S Drifting\""
 excerpt: "\"This Article Describes [Updated] Action Cameras Face Off: GoPro Hero 4 Vs. Ghost-S Drifting\""
 keywords: "\"Hero 4 Vs. Ghost-S Drift,GoPro Hero 4 Comparison,Action Cameras Drifting Showdown,GoPro Hero 4 versus Ghost S,Best Action Cam for Drifting,Face Off: GoPro Hero 4,Drifting with GoPro Hero 4\""
-thumbnail: https://www.lifewire.com/thmb/sRg_08XfVq4XQxaZ8LbMjkBmMPo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-534572567-56facec43df78c784197b92d.jpg
+thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8ff0fa954ebc9cead95a6f721.jpg
 ---
 
 ## Action Cameras Face Off: GoPro Hero 4 Vs. Ghost-S Drifting
 
 # GoPro Hero4 Black VS Drift Ghost-S
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -79,6 +82,9 @@ thumbnail: https://www.lifewire.com/thmb/sRg_08XfVq4XQxaZ8LbMjkBmMPo=/400x300/fi
 
  • Drift Ghost S: In the box you will find the camera, battery, remote, a non waterproof type connector that allows easy access to mic ports and mini USB terminal, a universal clip, a wrist strap, two mount clips, one mini USB cable, one goggle mount and a microphone extension cable.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Drift-Ghost-S-accessories](https://images.wondershare.com/filmora/article-images/Drift_Ghost-S_accessories.jpg)
 
  • Hero 4 Black: This device usually comes with standard housing arrangement and to provide direct access to camera a skeleton backdoor is included. Other than this the box will have rechargeable battery, flat and curved adhesive mount, three way pivot arm, quick release buckles and Mini USB Cable.
@@ -145,6 +151,9 @@ Follow @Max Wales
 
  The complete comparison provided below in this article will help you to make decision about on which camera you must keep your eye in 2017:
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Complete Comparison
 
 #### Specs Comparison between Ghost-S and Hero4 Black
@@ -182,10 +191,16 @@ Follow @Max Wales
 
  Although this bullet shaped Ghost S action cam is bulkier and larger than most competing models but the advantage is that it can store a powerful battery inside. At the same time you will be able to access buttons on the top for all major controls like left/right navigation, Menu and power button that provides direct control over Select/Play and Record functions. A bright LED is provided to reflect the recording status all the time and on the back portion a removable cover is used to hide the 3.5 mm mic jack, Mini USB port, Mini HDMI, Micro SD and battery. A standard screw mount along with speaker is connected at right side.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Drift-Ghost-S-35832568-design](https://images.wondershare.com/filmora/article-images/Drift_Ghost-S_35832568_design.jpg)
 
  Hero 4 Black layout is really impressive with a Wi-Fi button on the right side and a special setting button that assists in immediate adjustment of camera modes. On the left side of the device, the removable cover is hiding Micro SD slot, Mini USB port and Micro HDMI port etc.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![gopro-hero4-black-design](https://images.wondershare.com/filmora/article-images/gopro-hero4-black-design.jpg)
 
 #### 2\.  Accessories in the Box
@@ -196,6 +211,9 @@ Follow @Max Wales
 
  • Hero 4 Black: This device usually comes with standard housing arrangement and to provide direct access to camera a skeleton backdoor is included. Other than this the box will have rechargeable battery, flat and curved adhesive mount, three way pivot arm, quick release buckles and Mini USB Cable.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![gopro-hero4-black-accessories](https://images.wondershare.com/filmora/article-images/gopro-hero4-black-accessories.jpg)
 
  Need more information about accessories?[Check Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -258,6 +276,9 @@ Follow @Max Wales
 
  The complete comparison provided below in this article will help you to make decision about on which camera you must keep your eye in 2017:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Complete Comparison
 
 #### Specs Comparison between Ghost-S and Hero4 Black
@@ -309,6 +330,9 @@ Follow @Max Wales
 
  • Hero 4 Black: This device usually comes with standard housing arrangement and to provide direct access to camera a skeleton backdoor is included. Other than this the box will have rechargeable battery, flat and curved adhesive mount, three way pivot arm, quick release buckles and Mini USB Cable.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![gopro-hero4-black-accessories](https://images.wondershare.com/filmora/article-images/gopro-hero4-black-accessories.jpg)
 
  Need more information about accessories?[Check Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -371,6 +395,9 @@ Follow @Max Wales
 
  The complete comparison provided below in this article will help you to make decision about on which camera you must keep your eye in 2017:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Complete Comparison
 
 #### Specs Comparison between Ghost-S and Hero4 Black
@@ -408,10 +435,16 @@ Follow @Max Wales
 
  Although this bullet shaped Ghost S action cam is bulkier and larger than most competing models but the advantage is that it can store a powerful battery inside. At the same time you will be able to access buttons on the top for all major controls like left/right navigation, Menu and power button that provides direct control over Select/Play and Record functions. A bright LED is provided to reflect the recording status all the time and on the back portion a removable cover is used to hide the 3.5 mm mic jack, Mini USB port, Mini HDMI, Micro SD and battery. A standard screw mount along with speaker is connected at right side.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Drift-Ghost-S-35832568-design](https://images.wondershare.com/filmora/article-images/Drift_Ghost-S_35832568_design.jpg)
 
  Hero 4 Black layout is really impressive with a Wi-Fi button on the right side and a special setting button that assists in immediate adjustment of camera modes. On the left side of the device, the removable cover is hiding Micro SD slot, Mini USB port and Micro HDMI port etc.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![gopro-hero4-black-design](https://images.wondershare.com/filmora/article-images/gopro-hero4-black-design.jpg)
 
 #### 2\.  Accessories in the Box
@@ -422,6 +455,9 @@ Follow @Max Wales
 
  • Hero 4 Black: This device usually comes with standard housing arrangement and to provide direct access to camera a skeleton backdoor is included. Other than this the box will have rechargeable battery, flat and curved adhesive mount, three way pivot arm, quick release buckles and Mini USB Cable.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![gopro-hero4-black-accessories](https://images.wondershare.com/filmora/article-images/gopro-hero4-black-accessories.jpg)
 
  Need more information about accessories?[Check Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -498,3 +534,33 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/10-best-face-editing-app-for-android-and-iphone/"><u>10 Best Face Editing App for Android and iPhone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/15-things-to-do-while-listening-to-podcasts/"><u>15 Things to Do While Listening to Podcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-guide-to-coloring-composition-with-confidence/"><u>2024 Approved  A Guide to Coloring Composition with Confidence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-new-era-of-immersive-storytelling/"><u>2024 Approved  A New Era of Immersive Storytelling</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-step-by-step-guide-to-mastering-quick-scrubbing/"><u>2024 Approved  A Step-by-Step Guide to Mastering Quick Scrubbing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-androids-best-in-sky-file-sanctuaries/"><u>2024 Approved  Android's Best In-Sky File Sanctuaries</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-arctic-athleticism-revealed-the-top-of-the-line-in-olympic-snowboard-cross/"><u>2024 Approved  Arctic Athleticism Revealed  The Top of the Line in Olympic Snowboard Cross</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-audience-advocacy-nurturing-connections-in-the-digital-age/"><u>2024 Approved  Audience Advocacy  Nurturing Connections in the Digital Age</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beginners-blueprint-for-launching-a-vlog-series-on-product-critiques/"><u>2024 Approved  Beginner's Blueprint for Launching a Vlog Series on Product Critiques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-boost-your-photo-game-on-android-smartphones/"><u>2024 Approved  Boost Your Photo Game on Android Smartphones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-bridging-reality-and-simulation/"><u>2024 Approved  Bridging Reality and Simulation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-bridging-the-gap-with-magix-music-maker-for-beginners/"><u>2024 Approved  Bridging the Gap with Magix Music Maker for Beginners</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-clearing-the-path-to-account-deactivation-on-linkedin/"><u>2024 Approved  Clearing the Path to Account Deactivation on LinkedIn</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-compress-to-caption-zip-to-srt-for-video-editors/"><u>2024 Approved  Compress to Caption  ZIP-to-SRT for Video Editors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-core-ideas-behind-online-story-crafting/"><u>2024 Approved  Core Ideas Behind Online Story Crafting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-unique-composition-through-montages/"><u>2024 Approved  Crafting Unique Composition Through Montages</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-comprehensible-guide-to-mastering-pixelated-photography-for-2024/"><u>A Comprehensible Guide to Mastering Pixelated Photography for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/achieving-professional-hdr-images-with-adobe-ps-for-2024/"><u>Achieving Professional HDR Images with Adobe PS for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/all-you-need-to-know-about-downloading-wm6-for-2024/"><u>All You Need to Know About Downloading WM6 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/apk-essentials-start-playing-funimate-now/"><u>APK Essentials  Start Playing Funimate Now</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/appreciation-roundup-premiumfree-outro-templates-for-2024/"><u>Appreciation Roundup  Premium/Free Outro Templates for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audience-friendly-guide-to-dji-inspire-2/"><u>Audience-Friendly Guide to DJI Inspire 2</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/behind-the-scenes-top-picks-of-monitors-and-tvs-for-xbox-series-x-gamers-for-2024/"><u>Behind-the-Scenes  Top Picks of Monitors & TVs for Xbox Series X Gamers for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beyond-the-screen-metaverse-vs-omniverse-dissected-for-2024/"><u>Beyond the Screen  Metaverse Vs. Omniverse Dissected for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-visuals-zoom-in-on-snapchat-content-for-2024/"><u>Boost Visuals  Zoom in on Snapchat Content for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/breaking-down-augmented-realitys-mysteries-for-2024/"><u>Breaking Down Augmented Reality's Mysteries for 2024</u></a></li>
+</ul></div>

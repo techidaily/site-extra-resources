@@ -1,7 +1,7 @@
 ---
 title: "Mastering Audio Diminishment in Lumafusion"
-date: 2024-07-06T17:44:30.133Z
-updated: 2024-07-07T17:44:30.133Z
+date: 2024-07-25T04:00:40.628Z
+updated: 2024-07-26T04:00:40.628Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,9 @@ There are several capabilities in Luma Fusion that make precise editing possible
 
 Step1 LumaFusion's default structure is comparable to that of many desktops editing programs: a multitrack timeline along the bottom, a media browser in the upper left, and a preview monitor that, depending on what you last chose, either displays a source clip or your timeline edit.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lumafusion timeline](https://images.wondershare.com/filmora/article-images/2022/07/lumafusion-timeline.jpg)
 
 Step2 LumaFusion allows for the automated synchronization of up to 12 camera sources and several audio tracks. When a clip is loaded into LumaFusion, touch on it to open it in the viewer and then adjust the start and finish points.
@@ -36,6 +39,9 @@ Step2 LumaFusion allows for the automated synchronization of up to 12 camera sou
 
 Step3 From the choices, choose the Cross Dissolve (Fade) transition. The transition should be placed at the very end of your music channel timeline. Tap on the Help & Settings menu to do this action. Look for Transition under the Settings menu and edit it to the appropriate duration. If you do this, your transition won't take effect until you add it again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![fade audio in luma fusion](https://images.wondershare.com/filmora/article-images/2022/07/fade-audio-in-luma-fusion.jpg)
 
 Beyond simple editing, LumaFusion excels in enhancing projects with a wide variety of built-in effects, transitions, titles, and color correction. It also has a limited (but excellent) collection of royalty-free music. Finally, LumaFusion Project Packages are a terrific solution to regularly backup a project for security or to complete altering it. After choosing Export, choose the Project Package from the list.
@@ -60,12 +66,18 @@ Now that you've downloaded the software's executable file, the next step is to i
 
 Drag and drop your sound recordings from the media library to the timeline at the bottom of the program when they have been successfully imported. You may now see your audio files inside the timeline, where you can easily crop the video or reduce the audio of the relevant audio file. You may utilize basic to sophisticated editing techniques inside the program. To choose the basic editor, just click on the video file within the timeline as shown below:
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 ##### Step3 Apply Fade Effects
 
 The fade-in audio button inside your audio file may be seen when you just hover over the audio file within the timeline and look for the white circle filled with pink hue at the beginning and finish of your audio file. On the other hand, to choose the fade-out audio, click and drag the pink circle that appears on the opposite end of the audio file in the timeline that you have chosen to fade out the music file.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![apply fade effects](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 ##### Step4 Share and export
@@ -74,12 +86,18 @@ After finishing the method for editing audio in Filmora, click the Export button
 
 In that window, you can select the MP3 format in the format customization box to continue with storing your file to your system. After making any necessary adjustments to the audio file, click the Export button below, which will ultimately direct you to the area on your PC where you want to store the audio.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Related FAQs about LumaFusion
 
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### 2\. How do you do transitions in LumaFusion?
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
@@ -116,6 +134,10 @@ In that window, you can select the MP3 format in the format customization box to
 
 ## Part 3\. Related FAQs about LumaFusion
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
@@ -124,6 +146,13 @@ Go to Clip Defaults to do that. You may change the Title and Transition lengths 
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### 3\. How to you split audio and video in LumaFusion?
 
 Within the timeline, tap anywhere and move the mouse left or right to divide a clip in half. The audio from your clip may then be separated in the timeline. To do so, choose the audio channel and then click the pencil-shaped edit button at the bottom of the screen. This will display a variety of choices, including tools for pan, distortion, and volume. The audio editing features in LumaFusion are virtually as spectacular as the visual options—and just as intimidating.
@@ -152,3 +181,38 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-add-music-to-powerpoint/"><u>[New] Add Music to PowerPoint</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-behind-the-numbers-earnings-in-podcasting/"><u>[New] Behind the Numbers  Earnings in Podcasting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-audiophiles-pathway-starting-with-the-fade-in-functionality/"><u>[Updated] Audiophile's Pathway  Starting with the Fade-In Functionality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-websites-for-premium-quality-vector-stock-images/"><u>10 Websites for Premium-Quality Vector Stock Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/6-alternative-apps-to-periscope-for-iphoneandroid-users-for-2024/"><u>6 Alternative Apps to Periscope for iPhone/Android Users for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-deep-dive-into-vscos-creative-palette-for-2024/"><u>A Deep Dive Into VSCO's Creative Palette for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/apple-m1-pro-versus-m1-max-unveiling-variations/"><u>Apple M1 Pro Versus M1 Max  Unveiling Variations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-gadgets-to-reduce-camera-jiggle-effects/"><u>Best Gadgets to Reduce Camera Jiggle Effects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-in-class-top-8-software-turning-subtitles-into-simplified-srt-format/"><u>Best in Class  Top 8 Software Turning Subtitles Into Simplified SRT Format</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-elegance-ideal-websites-for-photo-framing-for-2024/"><u>Capturing Elegance  Ideal Websites for Photo Framing for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/choosing-faithful-hymns-download-and-modify-guide/"><u>Choosing Faithful Hymns  Download and Modify Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-explanation-of-googles-automatic-transcription-technology/"><u>Comprehensive Explanation of Google's Automatic Transcription Technology</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cracking-the-cartoon-code-a-quick-guide-to-lenses-in-snapchat-for-2024/"><u>Cracking the Cartoon Code  A Quick Guide to Lenses in Snapchat for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/deep-dive-into-ustream-and-substitutes/"><u>Deep Dive Into Ustream & Substitutes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-web-crews-revolutionizing-av-media-creation/"><u>Elite Web Crews Revolutionizing Av Media Creation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/embed-musical-layers-into-premiere-pro-productions/"><u>Embed Musical Layers Into Premiere Pro Productions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hue-harmony-three-straightforward-tips-to-upgrade-your-photos/"><u>Hue Harmony  Three Straightforward Tips to Upgrade Your Photos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-360-degree-panoramic-stands/"><u>In 2024, 360-Degree Panoramic Stands</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-ai-driven-naming-tools-for-dynamic-podcast-titles/"><u>In 2024, AI-Driven Naming Tools for Dynamic Podcast Titles</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-celestial-canvas-unveiled-select-10-sites-for-high-quality-skies/"><u>In 2024, Celestial Canvas Unveiled  Select 10 Sites for High-Quality Skies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-constructing-coherent-cinematic-introductions/"><u>In 2024, Constructing Coherent Cinematic Introductions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-audio-tools-crafting-perfect-virtual-performances/"><u>Innovative Audio Tools  Crafting Perfect Virtual Performances</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-book-trailers-displayed/"><u>Innovative Book Trailers Displayed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigate-office-tasks-with-voice-recognition-in-microsoft-word/"><u>Navigate Office Tasks with Voice Recognition in Microsoft Word</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/novices-blueprint-for-easy-stressless-nft-making/"><u>Novice's Blueprint for Easy, Stressless NFT Making</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/preeminent-online-spaces-enhancing-youtube-traffic/"><u>Preeminent Online Spaces Enhancing YouTube Traffic</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ps5xbox-series-x-game-screens-the-ultimate-guide/"><u>PS5/Xbox Series X Game Screens  The Ultimate Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/simplify-your-schedule-using-free-clocks-wisely/"><u>Simplify Your Schedule  Using FREE Clocks Wisely</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/systematic-upgrade-procedures-for-macos-sierra-users/"><u>Systematic Upgrade Procedures for macOS Sierra Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-choice-elite-desktop-pcs/"><u>Ultimate Choice  Elite Desktop PCs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/virtual-exploration-real-understanding/"><u>Virtual Exploration, Real Understanding</u></a></li>
+</ul></div>

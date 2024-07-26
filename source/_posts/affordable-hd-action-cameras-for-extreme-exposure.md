@@ -1,7 +1,7 @@
 ---
 title: "Affordable HD Action Cameras for Extreme Exposure"
-date: 2024-05-24T03:16:14.663Z
-updated: 2024-05-25T03:16:14.663Z
+date: 2024-07-25T01:08:56.731Z
+updated: 2024-07-26T01:08:56.731Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "This Article Describes Affordable HD Action Cameras for Extreme Exposure"
 excerpt: "This Article Describes Affordable HD Action Cameras for Extreme Exposure"
 keywords: "\"HD Action Cam Afford,Expensive Camera Costs,HD Extreme Shooting,Low-Cost Action Cam,Budget-Friendly HD Cams,High Residual Cameras,Economic Extreme Video\""
-thumbnail: https://www.lifewire.com/thmb/AH9mqPzoPDVMP3GVRyEpC5WN6uM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/yandex_eng_logo-56a289a13df78cf772774ad4.png
+thumbnail: https://thmb.techidaily.com/4bc09bf00dd16476adc7181e127ad6390edb7499dd05b4708d5bc6f8d46016ec.png
 ---
 
 ## Affordable HD Action Cameras for Extreme Exposure
 
 # Top 7 Action and Sports Cameras Under $200
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -32,6 +35,9 @@ There is a massive supply of action cameras in the market available at different
 
 To ease the process of choosing the right one at a budget below $200, here are the top 7 suggested action cameras based on high customer ratings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Action and Sports Camera under $200
 
 #### **1.[FujiFilm FinePix XP90 HD- $159.03](https://www.amazon.com/gp/product/B01AJUG4IW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01AJUG4IW&linkId=d5f688a03fa8181f805338662cf2b039)**
@@ -73,6 +79,10 @@ This is a must buy 4k UHD action camera within a budget. The camera works excell
 
 #### **3. Sony HDR-AS50 HD- $198.00**
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![sony-hdr-as50-full-hd-action-camera](https://images.wondershare.com/filmora/article-images/sony-hdr-as50-full-hd-action-camera.jpg)
 
 This action camera has won high user ratings for offering high-end video and voice recording qualities. With this lightweight camera, you can capture videos at 1080p @ 60fps. With extended battery life, this device is best known for dashboard camera functioning.
@@ -203,6 +213,151 @@ This is a must buy 4k UHD action camera within a budget. The camera works excell
 
 #### **3. Sony HDR-AS50 HD- $198.00**
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+![sony-hdr-as50-full-hd-action-camera](https://images.wondershare.com/filmora/article-images/sony-hdr-as50-full-hd-action-camera.jpg)
+
+This action camera has won high user ratings for offering high-end video and voice recording qualities. With this lightweight camera, you can capture videos at 1080p @ 60fps. With extended battery life, this device is best known for dashboard camera functioning.
+
+ **Technical Specifications**
+
+| **• BitRate:** up to 50 Mbps/ Compatible support of 24Mbps when shooting videos in MP4 format | **• Battery:** 1240mAh(lasts up to 2 hours and 30 minutes for recording video at 1080P@30fps) |
+| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **• Memory Storage Support:** XC/ microSD/HC card                                             | **• Lens:** : f/ 2.8, 155°                                                                    |
+| **• Frame Rate:** 1080p@/60/50/30/25/24fps 720p @120/100/30/25fps                             | **• Image Resolution:** 12MP (4,608x2592)                                                     |
+| **• Media Format:** .MP4, JPEG                                                                | **• Connectivity:**Wi-Fi, Bluetooth, Micro-USB, APP                                           |
+| **• Waterproofing:** 60m thick protection with housing                                        | **• Image Sensor:** 1/2.3" Exmor R CMOS Sensor                                                |
+
+#### **4. JVC Adixxion GC-XA2- $159.95**
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![jvc-adixxion-gc-xa2](https://images.wondershare.com/filmora/article-images/jvc-adixxion-gc-xa2.jpg)
+
+This camera is widely popular among professional photographers looking to capture great series photos for time-lapse videos. The 16MP camera with Gyro digital image stabilization and EIS offers the best photos for postproduction editing to give documentary videos. You can go underwater up to 16.4 ft depth shooting images and videos without any hassles.
+
+ **Technical Specifications**
+
+| **• Image Sensor:** 8MP CMOS back-lit illumination                   | **• Memory Storage Support:** XC/MicroSD/HC card                       |
+| -------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| **• Lens:** f/ 2.4, 160°                                             | **• Frame Rate:** 1080p @60/30fps 960p@30fps 720p@60/30fps, 480 @30fps |
+| **• Battery:** 1400 mAh suffices 2hrs of 4K video                    | **• Image Resolution:** Ultra Resolution photo capturing-16MP          |
+| **• Media Format:** .MP4, JPEG                                       | **• Connectivity:** mini HDMI, mini USB, Wifi, App                     |
+| **• Waterproof:** 5M waterproofing protection (no housing provided ) | • 1.5 inches LCD display                                               |
+
+#### **5. [GoPro Hero Session- $199.99](https://www.amazon.com/gp/product/B01C80O0ZU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C80O0ZU&linkId=ec1526e83e4df54a4549147cb962f687)**[](https://www.amazon.com/gp/product/B01C80O0ZU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C80O0ZU&linkId=ec1526e83e4df54a4549147cb962f687)
+
+[gopro-hero-session](https://images.wondershare.com/filmora/article-images/gopro-hero-session.jpeg) ](https://www.amazon.com/gp/product/B01C80O0ZU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C80O0ZU&linkId=ec1526e83e4df54a4549147cb962f687)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01C80O0ZU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C80O0ZU&linkId=ec1526e83e4df54a4549147cb962f687)
+
+The GoPro Hero has a compact design featuring auto image rotation, built in dual microphone system, and much more. The camera has auto low light adjustments to achieve best results with underwater shooting under bright sunlight. The Protune and highlight tag allows best video processing. The waterproofing protection allows you to go up to 33 feet deep for underwater shooting.
+
+| **• Lens:**170°Wide-angle lens                                                                       | **• Memory Storage Support:** Micro SD card up to 32GB  |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| **• Image Sensor:**  8MP CMOS                                                                        | **• Battery:** 1030mAh                                  |
+| **• Image resolution:** 8MP resolution for still photo capturing                                     | **• Media format:** .MP4 and JPEG                       |
+| **• Frame Rates:** 1440p @ 30FPS 1080P @ 60/50/30/ 25fps 960P@ 60/50/30/25fps 720p @ 100/60/50/30fps | **• Connectivity:** Bluetooth and Wi-Fi, APP, Micro-USB |
+| **• Waterproof:** 10m (without case)                                                                 | • Captures 4:3 videos at 1080p at 60fps                 |
+
+#### **6. Veho VCC-005MUVI-NPNG HD- $138.49**
+
+![veho-vcc-005-muvi-npng-hd](https://images.wondershare.com/filmora/article-images/veho-vcc-005-muvi-npng-hd.jpg)
+
+The advanced camera design of Veho makes it flexible for various type of mounting to achieve the exact position during high motion video and photo capturing. Use from a range of mounting accessories and waterproof housing provided with the camera to capture all underwater details while diving.
+
+| **• Image Sensor:** 5 Megapixel 1/2.5" CMOS                             | **• Battery:** 1400 mAh (lasts up to 3hrs)       |
+| ----------------------------------------------------------------------- | ------------------------------------------------ |
+| **• Frame Rates:** 1080p @ 30fps; 960P@30fps, 720P@30/60fps, 480p@60fps | **• Display:** 1.5” LCD Screen                   |
+| **• Image resolution:** 8MP standard resolution for still photos        | **• Connectivity:** HDMI C (Mini) USB 2.0,       |
+| **• Lens:** f/2.8, 3x Optical Zoom, with 160° field of view             | **• Memory Storage:** microSD Up To 32 GB        |
+| **• Media format:**  .MOV, JPEG                                         | **• Waterproof:** 60m (protective case provided) |
+
+#### **7. Firefly 6s- $ 127**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![firefly-6s](https://images.wondershare.com/filmora/article-images/firefly%206s.jpg)
+
+If you are looking for 4K action camera under $150 with the drone mounting compatibility, the Firefly is one model definitely worth the money if you are a first time buyer. Avoid blurs and shakes during high motion aerial shooting with video stabilization. The ultra wide angle Fish-Eye lens give you best results with anti distortion.
+
+| **• Image Sensor:** Sony IMX078                      | **• Display:**0.65’’                                                                                                                                |
+| ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **• Chipset:** 96660 Novatek                         | **• Connectivity:** HDMI, Wi-Fi, USB Mini 2, and App                                                                                                |
+| **• Connectivity:** HDMI, Wi-Fi, USB Mini 2, and App | **• Battery:** 1600mAh (lasts up to 50 mins when shooting at 4K video at 25fps /1080p at 60fps. Lasts up to 1.5 hours when shooting 1080p at 30 fps |
+| **• Image resolution:** 12MP                         | **• Memory Storage:** 64GB Micro SDHC card support (to be purchased separately)                                                                     |
+| **• Media format:** .MP4, , JPEG                     | **• Waterproof:** 30m (housing case included)                                                                                                       |
+
+Looking for action cameras with lower budget?[Check Top 6 Cheapest Action Cameras to Buy Under $100 in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+The modern-day action cameras are for everyone interested to shoot something amazing while on the go. The advanced features and settings in these small and lightweight devices ease the camera mounting and shooting even for those who are not handy with professional photography techniques.
+
+There is a massive supply of action cameras in the market available at different price ranges. The cost depends on the technical configurations, the brand and other issues. The 4k resolution (highest resolution) cameras are the most expensive cameras in the market, some going beyond $400\. However, for work other than professional video shooting, the 1080p resolution works perfectly fine.
+
+To ease the process of choosing the right one at a budget below $200, here are the top 7 suggested action cameras based on high customer ratings.
+
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Best Action and Sports Camera under $200
+
+#### **1.[FujiFilm FinePix XP90 HD- $159.03](https://www.amazon.com/gp/product/B01AJUG4IW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01AJUG4IW&linkId=d5f688a03fa8181f805338662cf2b039)**
+
+[fujifilm-finepix%20-xp90-hd](https://images.wondershare.com/filmora/article-images/fujifilm-finepix%20-xp90-hd.jpg)](https://www.amazon.com/gp/product/B01AJUG4IW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01AJUG4IW&linkId=d5f688a03fa8181f805338662cf2b039)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01AJUG4IW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01AJUG4IW&linkId=d5f688a03fa8181f805338662cf2b039)
+
+ **Key Features**
+
+This camera configured with face detection has digital filters to shoot at different colors and light conditions. Offering high-end optical image stabilization and high dynamic range (HDR) video capturing features, the camera is perfect for shooting everything while you are in motion on adventure sports, diving etc. This freezerproof camera allows the users to capture videos at -10 Celsius temperature. It also has 30m waterproofing and 1.75m shockproof and dust resistance protection.
+
+ **Technical Specifications**
+
+| **• Image Sensor:** Back-lit 16MP CMOS          | **• Battery: NP-45S Li-ion battery**                      |
+| ----------------------------------------------- | --------------------------------------------------------- |
+| **• Memory Storage Support:** SDHC/SDXC/SD card | **• Lens:** f/3.9 - f/4.9, 5x Optical Zoom                |
+| **• Frame Rate:** 1080p @ 30/60 fps;            | **• Image Resolution:** 16MP                              |
+| **• Media Format:** .MOV, JPEG                  | **• Connectivity:** HDMI Type D, Wifi, App, Micro USB 2.0 |
+
+[Filmstock Stock Media Library](https://images.wondershare.com/filmora/article-images/filmora-and-filmstock.jpg)](https://filmstock.wondershare.com/creative-theme-sports?spm=rs.filmora%5Fweb&source%5Fchannel=seo%5Farticle)
+
+#### **2. [YI 4K action Camera](https://tools.techidaily.com/wondershare/filmora/download/)\- $199.99**
+
+[xiaomi-yi-4k](https://images.wondershare.com/filmora/article-images/xiaomi-yi-4k.jpg) ](https://www.amazon.com/gp/product/B016I5VQJE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B016I5VQJE&linkId=1fe5d9a62a2d51f7afceab6b6ca27770)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B016I5VQJE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B016I5VQJE&linkId=1fe5d9a62a2d51f7afceab6b6ca27770)
+
+This is a must buy 4k UHD action camera within a budget. The camera works excellent for novice users having the facilities such as electronic image stabilization and lens distortion correction. With high standard SoC processor and Ambrarella A9SE75 chipset, the camera gives greater durability and outstanding performance. It is worth mentioning that the camera model has the ability to suit different frame rates including 4K @30/25fps, which is the highest fps combination for industry standard video capturing.
+
+ **Technical Specifications**
+
+| **• Image Sensor:** 12 Megapixel 1/2.3" CMOS              | **• Frame Rate:** 4k 30/25fps, 2.5K 30/25fps, 1440p 60/50/30/25fps 1080p 120/100/60/50/30/25fps 960p 120/100/60/50fps 720p 240fps 480 240/200fps |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **• Battery:** 1400 mAh (suffices 2hrs of 4K video)       | **• Memory Storage Support:** microSD/HC/XC card                                                                                                 |
+| **• Lens:** f/ 2.8, 155°                                  | **• Image Resolution:** 12MP                                                                                                                     |
+| **• Media Format:** .MP4, JPEG                            | **• Connectivity:** 5GHz dual band Wifi, Bluetooth, Micro USB and App                                                                            |
+| **• Waterproofing:** 40m waterproofing with extra housing | **• Chipset:** Ambrarella A9SE75                                                                                                                 |
+
+#### **3. Sony HDR-AS50 HD- $198.00**
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![sony-hdr-as50-full-hd-action-camera](https://images.wondershare.com/filmora/article-images/sony-hdr-as50-full-hd-action-camera.jpg)
 
 This action camera has won high user ratings for offering high-end video and voice recording qualities. With this lightweight camera, you can capture videos at 1080p @ 60fps. With extended battery life, this device is best known for dashboard camera functioning.
@@ -292,6 +447,9 @@ There is a massive supply of action cameras in the market available at different
 
 To ease the process of choosing the right one at a budget below $200, here are the top 7 suggested action cameras based on high customer ratings.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Best Action and Sports Camera under $200
 
 #### **1.[FujiFilm FinePix XP90 HD- $159.03](https://www.amazon.com/gp/product/B01AJUG4IW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01AJUG4IW&linkId=d5f688a03fa8181f805338662cf2b039)**
@@ -333,6 +491,9 @@ This is a must buy 4k UHD action camera within a budget. The camera works excell
 
 #### **3. Sony HDR-AS50 HD- $198.00**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![sony-hdr-as50-full-hd-action-camera](https://images.wondershare.com/filmora/article-images/sony-hdr-as50-full-hd-action-camera.jpg)
 
 This action camera has won high user ratings for offering high-end video and voice recording qualities. With this lightweight camera, you can capture videos at 1080p @ 60fps. With extended battery life, this device is best known for dashboard camera functioning.
@@ -348,6 +509,9 @@ This action camera has won high user ratings for offering high-end video and voi
 
 #### **4. JVC Adixxion GC-XA2- $159.95**
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![jvc-adixxion-gc-xa2](https://images.wondershare.com/filmora/article-images/jvc-adixxion-gc-xa2.jpg)
 
 This camera is widely popular among professional photographers looking to capture great series photos for time-lapse videos. The 16MP camera with Gyro digital image stabilization and EIS offers the best photos for postproduction editing to give documentary videos. You can go underwater up to 16.4 ft depth shooting images and videos without any hassles.
@@ -391,136 +555,9 @@ The advanced camera design of Veho makes it flexible for various type of mountin
 
 #### **7. Firefly 6s- $ 127**
 
-![firefly-6s](https://images.wondershare.com/filmora/article-images/firefly%206s.jpg)
-
-If you are looking for 4K action camera under $150 with the drone mounting compatibility, the Firefly is one model definitely worth the money if you are a first time buyer. Avoid blurs and shakes during high motion aerial shooting with video stabilization. The ultra wide angle Fish-Eye lens give you best results with anti distortion.
-
-| **• Image Sensor:** Sony IMX078                      | **• Display:**0.65’’                                                                                                                                |
-| ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **• Chipset:** 96660 Novatek                         | **• Connectivity:** HDMI, Wi-Fi, USB Mini 2, and App                                                                                                |
-| **• Connectivity:** HDMI, Wi-Fi, USB Mini 2, and App | **• Battery:** 1600mAh (lasts up to 50 mins when shooting at 4K video at 25fps /1080p at 60fps. Lasts up to 1.5 hours when shooting 1080p at 30 fps |
-| **• Image resolution:** 12MP                         | **• Memory Storage:** 64GB Micro SDHC card support (to be purchased separately)                                                                     |
-| **• Media format:** .MP4, , JPEG                     | **• Waterproof:** 30m (housing case included)                                                                                                       |
-
-Looking for action cameras with lower budget?[Check Top 6 Cheapest Action Cameras to Buy Under $100 in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-The modern-day action cameras are for everyone interested to shoot something amazing while on the go. The advanced features and settings in these small and lightweight devices ease the camera mounting and shooting even for those who are not handy with professional photography techniques.
-
-There is a massive supply of action cameras in the market available at different price ranges. The cost depends on the technical configurations, the brand and other issues. The 4k resolution (highest resolution) cameras are the most expensive cameras in the market, some going beyond $400\. However, for work other than professional video shooting, the 1080p resolution works perfectly fine.
-
-To ease the process of choosing the right one at a budget below $200, here are the top 7 suggested action cameras based on high customer ratings.
-
-## Best Action and Sports Camera under $200
-
-#### **1.[FujiFilm FinePix XP90 HD- $159.03](https://www.amazon.com/gp/product/B01AJUG4IW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01AJUG4IW&linkId=d5f688a03fa8181f805338662cf2b039)**
-
-[fujifilm-finepix%20-xp90-hd](https://images.wondershare.com/filmora/article-images/fujifilm-finepix%20-xp90-hd.jpg)](https://www.amazon.com/gp/product/B01AJUG4IW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01AJUG4IW&linkId=d5f688a03fa8181f805338662cf2b039)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01AJUG4IW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01AJUG4IW&linkId=d5f688a03fa8181f805338662cf2b039)
-
- **Key Features**
-
-This camera configured with face detection has digital filters to shoot at different colors and light conditions. Offering high-end optical image stabilization and high dynamic range (HDR) video capturing features, the camera is perfect for shooting everything while you are in motion on adventure sports, diving etc. This freezerproof camera allows the users to capture videos at -10 Celsius temperature. It also has 30m waterproofing and 1.75m shockproof and dust resistance protection.
-
- **Technical Specifications**
-
-| **• Image Sensor:** Back-lit 16MP CMOS          | **• Battery: NP-45S Li-ion battery**                      |
-| ----------------------------------------------- | --------------------------------------------------------- |
-| **• Memory Storage Support:** SDHC/SDXC/SD card | **• Lens:** f/3.9 - f/4.9, 5x Optical Zoom                |
-| **• Frame Rate:** 1080p @ 30/60 fps;            | **• Image Resolution:** 16MP                              |
-| **• Media Format:** .MOV, JPEG                  | **• Connectivity:** HDMI Type D, Wifi, App, Micro USB 2.0 |
-
-[Filmstock Stock Media Library](https://images.wondershare.com/filmora/article-images/filmora-and-filmstock.jpg)](https://filmstock.wondershare.com/creative-theme-sports?spm=rs.filmora%5Fweb&source%5Fchannel=seo%5Farticle)
-
-#### **2. [YI 4K action Camera](https://tools.techidaily.com/wondershare/filmora/download/)\- $199.99**
-
-[xiaomi-yi-4k](https://images.wondershare.com/filmora/article-images/xiaomi-yi-4k.jpg) ](https://www.amazon.com/gp/product/B016I5VQJE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B016I5VQJE&linkId=1fe5d9a62a2d51f7afceab6b6ca27770)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B016I5VQJE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B016I5VQJE&linkId=1fe5d9a62a2d51f7afceab6b6ca27770)
-
-This is a must buy 4k UHD action camera within a budget. The camera works excellent for novice users having the facilities such as electronic image stabilization and lens distortion correction. With high standard SoC processor and Ambrarella A9SE75 chipset, the camera gives greater durability and outstanding performance. It is worth mentioning that the camera model has the ability to suit different frame rates including 4K @30/25fps, which is the highest fps combination for industry standard video capturing.
-
- **Technical Specifications**
-
-| **• Image Sensor:** 12 Megapixel 1/2.3" CMOS              | **• Frame Rate:** 4k 30/25fps, 2.5K 30/25fps, 1440p 60/50/30/25fps 1080p 120/100/60/50/30/25fps 960p 120/100/60/50fps 720p 240fps 480 240/200fps |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **• Battery:** 1400 mAh (suffices 2hrs of 4K video)       | **• Memory Storage Support:** microSD/HC/XC card                                                                                                 |
-| **• Lens:** f/ 2.8, 155°                                  | **• Image Resolution:** 12MP                                                                                                                     |
-| **• Media Format:** .MP4, JPEG                            | **• Connectivity:** 5GHz dual band Wifi, Bluetooth, Micro USB and App                                                                            |
-| **• Waterproofing:** 40m waterproofing with extra housing | **• Chipset:** Ambrarella A9SE75                                                                                                                 |
-
-#### **3. Sony HDR-AS50 HD- $198.00**
-
-![sony-hdr-as50-full-hd-action-camera](https://images.wondershare.com/filmora/article-images/sony-hdr-as50-full-hd-action-camera.jpg)
-
-This action camera has won high user ratings for offering high-end video and voice recording qualities. With this lightweight camera, you can capture videos at 1080p @ 60fps. With extended battery life, this device is best known for dashboard camera functioning.
-
- **Technical Specifications**
-
-| **• BitRate:** up to 50 Mbps/ Compatible support of 24Mbps when shooting videos in MP4 format | **• Battery:** 1240mAh(lasts up to 2 hours and 30 minutes for recording video at 1080P@30fps) |
-| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| **• Memory Storage Support:** XC/ microSD/HC card                                             | **• Lens:** : f/ 2.8, 155°                                                                    |
-| **• Frame Rate:** 1080p@/60/50/30/25/24fps 720p @120/100/30/25fps                             | **• Image Resolution:** 12MP (4,608x2592)                                                     |
-| **• Media Format:** .MP4, JPEG                                                                | **• Connectivity:**Wi-Fi, Bluetooth, Micro-USB, APP                                           |
-| **• Waterproofing:** 60m thick protection with housing                                        | **• Image Sensor:** 1/2.3" Exmor R CMOS Sensor                                                |
-
-#### **4. JVC Adixxion GC-XA2- $159.95**
-
-![jvc-adixxion-gc-xa2](https://images.wondershare.com/filmora/article-images/jvc-adixxion-gc-xa2.jpg)
-
-This camera is widely popular among professional photographers looking to capture great series photos for time-lapse videos. The 16MP camera with Gyro digital image stabilization and EIS offers the best photos for postproduction editing to give documentary videos. You can go underwater up to 16.4 ft depth shooting images and videos without any hassles.
-
- **Technical Specifications**
-
-| **• Image Sensor:** 8MP CMOS back-lit illumination                   | **• Memory Storage Support:** XC/MicroSD/HC card                       |
-| -------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| **• Lens:** f/ 2.4, 160°                                             | **• Frame Rate:** 1080p @60/30fps 960p@30fps 720p@60/30fps, 480 @30fps |
-| **• Battery:** 1400 mAh suffices 2hrs of 4K video                    | **• Image Resolution:** Ultra Resolution photo capturing-16MP          |
-| **• Media Format:** .MP4, JPEG                                       | **• Connectivity:** mini HDMI, mini USB, Wifi, App                     |
-| **• Waterproof:** 5M waterproofing protection (no housing provided ) | • 1.5 inches LCD display                                               |
-
-#### **5. [GoPro Hero Session- $199.99](https://www.amazon.com/gp/product/B01C80O0ZU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C80O0ZU&linkId=ec1526e83e4df54a4549147cb962f687)**[](https://www.amazon.com/gp/product/B01C80O0ZU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C80O0ZU&linkId=ec1526e83e4df54a4549147cb962f687)
-
-[gopro-hero-session](https://images.wondershare.com/filmora/article-images/gopro-hero-session.jpeg) ](https://www.amazon.com/gp/product/B01C80O0ZU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C80O0ZU&linkId=ec1526e83e4df54a4549147cb962f687)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01C80O0ZU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C80O0ZU&linkId=ec1526e83e4df54a4549147cb962f687)
-
-The GoPro Hero has a compact design featuring auto image rotation, built in dual microphone system, and much more. The camera has auto low light adjustments to achieve best results with underwater shooting under bright sunlight. The Protune and highlight tag allows best video processing. The waterproofing protection allows you to go up to 33 feet deep for underwater shooting.
-
-| **• Lens:**170°Wide-angle lens                                                                       | **• Memory Storage Support:** Micro SD card up to 32GB  |
-| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| **• Image Sensor:**  8MP CMOS                                                                        | **• Battery:** 1030mAh                                  |
-| **• Image resolution:** 8MP resolution for still photo capturing                                     | **• Media format:** .MP4 and JPEG                       |
-| **• Frame Rates:** 1440p @ 30FPS 1080P @ 60/50/30/ 25fps 960P@ 60/50/30/25fps 720p @ 100/60/50/30fps | **• Connectivity:** Bluetooth and Wi-Fi, APP, Micro-USB |
-| **• Waterproof:** 10m (without case)                                                                 | • Captures 4:3 videos at 1080p at 60fps                 |
-
-#### **6. Veho VCC-005MUVI-NPNG HD- $138.49**
-
-![veho-vcc-005-muvi-npng-hd](https://images.wondershare.com/filmora/article-images/veho-vcc-005-muvi-npng-hd.jpg)
-
-The advanced camera design of Veho makes it flexible for various type of mounting to achieve the exact position during high motion video and photo capturing. Use from a range of mounting accessories and waterproof housing provided with the camera to capture all underwater details while diving.
-
-| **• Image Sensor:** 5 Megapixel 1/2.5" CMOS                             | **• Battery:** 1400 mAh (lasts up to 3hrs)       |
-| ----------------------------------------------------------------------- | ------------------------------------------------ |
-| **• Frame Rates:** 1080p @ 30fps; 960P@30fps, 720P@30/60fps, 480p@60fps | **• Display:** 1.5” LCD Screen                   |
-| **• Image resolution:** 8MP standard resolution for still photos        | **• Connectivity:** HDMI C (Mini) USB 2.0,       |
-| **• Lens:** f/2.8, 3x Optical Zoom, with 160° field of view             | **• Memory Storage:** microSD Up To 32 GB        |
-| **• Media format:**  .MOV, JPEG                                         | **• Waterproof:** 60m (protective case provided) |
-
-#### **7. Firefly 6s- $ 127**
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![firefly-6s](https://images.wondershare.com/filmora/article-images/firefly%206s.jpg)
 
 If you are looking for 4K action camera under $150 with the drone mounting compatibility, the Firefly is one model definitely worth the money if you are a first time buyer. Avoid blurs and shakes during high motion aerial shooting with video stabilization. The ultra wide angle Fish-Eye lens give you best results with anti distortion.
@@ -566,3 +603,39 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-affordable-full-hd-cameras-for-stunts-and-sports/"><u>[New] Affordable Full HD Cameras for Stunts and Sports</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-assessing-the-right-level-of-luminosity-in-creative-hdr-ventures/"><u>[New] Assessing the Right Level of Luminosity in Creative HDR Ventures</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-avoiding-motion-illusions-tips-for-vr-users/"><u>[New] Avoiding Motion Illusions  Tips for VR Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/20plus-vivid-photo-assemblages-to-brighten-moods-for-2024/"><u>20+ Vivid Photo Assemblages to Brighten Moods for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-anchor-audios-to-corresponding-slides-in-ppt/"><u>2024 Approved  Anchor Audios to Corresponding Slides in PPT</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-appreciative-adjacencies-templates-for-any-spend-plan/"><u>2024 Approved  Appreciative Adjacencies  Templates for Any Spend Plan</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-15-online-photo-editors-you-should-try/"><u>2024 Approved  Best 15 Online Photo Editors You Should Try</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-down-crossfade-audio-dynamics-in-production/"><u>2024 Approved  Breaking Down Crossfade Audio Dynamics in Production</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/androids-best-in-sky-file-sanctuaries/"><u>Android's Best In-Sky File Sanctuaries</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/androids-premier-gaming-application-decoding-the-kinemaster-experience-for-2024/"><u>Android's Premier Gaming Application - Decoding the KineMaster Experience for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-your-photography-game-complimentary-basics-plus-expandable-paid-lut-options-for-2024/"><u>Boost Your Photography Game  Complimentary Basics + Expandable Paid LUT Options for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-visual-clarity-comprehensive-strategies-for-zooming-photos-and-videos/"><u>Boosting Visual Clarity  Comprehensive Strategies for Zooming Photos & Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/breaking-down-advanced-photographic-modes-for-enhanced-results/"><u>Breaking Down Advanced Photographic Modes for Enhanced Results</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/business-communication-essentials-free-slide-show-tools-for-2024/"><u>Business Communication Essentials – Free Slide Show Tools for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-character-adventures-windows-movie-maker-for-animators-for-2024/"><u>Crafting Character Adventures  Windows Movie Maker for Animators for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-dialogue-and-direction-in-film-scripts/"><u>Crafting Dialogue and Direction in Film Scripts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-vr-companies-for-the-next-decade/"><u>Essential VR Companies for the Next Decade</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-best-text-enhancements-in-after-effects/"><u>Exploring Best Text Enhancements in After Effects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/high-quality-hearables-leading-podcasters-on-googloud/"><u>High-Quality Hearables  Leading Podcasters on GooGloud</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/locate-the-best-bargains-on-gopro-cameras/"><u>Locate the Best Bargains on GoPro Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mixing-masterclass-for-dji-miniair-2-owners-no-cost-here/"><u>Mixing Masterclass for DJI Mini/Air 2 Owners - No Cost Here</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigate-the-maze-of-gopro-4k-an-editors-manual/"><u>Navigate the Maze of GoPro 4K  An Editor's Manual</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-fade-inout-processes-in-audacity/"><u>Navigating Fade-In/Out Processes in Audacity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimize-visual-output-with-free-luts-in-your-obs-studio-setup/"><u>Optimize Visual Output with Free LUTs in Your OBS Studio Setup</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/overcoming-virtual-reality-nausea/"><u>Overcoming Virtual Reality Nausea</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photo-extraction-techniques-for-windows-11-videos/"><u>Photo Extraction Techniques for Windows 11 Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premium-quality-transformer-for-video-enthusiasts/"><u>Premium Quality Transformer for Video Enthusiasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/speed-capture-faceoff-gopro-hero-4-challenges-ghost-s/"><u>Speed Capture Faceoff  GoPro Hero 4 Challenges Ghost-S</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-tips-for-turning-gopro-into-professionals-best-work/"><u>Step-by-Step Tips for Turning GoPro Into Professionals' Best Work</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-full-review-of-lgs-high-definition-monitoring-experience/"><u>The Full Review of LG's High Definition Monitoring Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-insiders-guide-to-time-lagged-masterpieces-with-your-android-phone/"><u>The Insider's Guide to Time-Lagged Masterpieces with Your Android Phone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-storytelling-through-scenery/"><u>Unveiling Storytelling Through Scenery</u></a></li>
+</ul></div>

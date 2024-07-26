@@ -1,7 +1,7 @@
 ---
 title: "Smooth Decline Techniques for Controlled Audio Reduction"
-date: 2024-07-06T17:44:32.419Z
-updated: 2024-07-07T17:44:32.419Z
+date: 2024-07-25T02:57:34.958Z
+updated: 2024-07-26T02:57:34.958Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,9 @@ It can create new sounds through drum machines as a result you can show your cre
 
 Step1 The first and foremost task to do is the successful installation of FL Studio. Getting the latest version of this will be useful for you as it has a lot of new features.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open fl studio](https://images.wondershare.com/filmora/article-images/2022/07/open-fl-studio.jpg)
 
 Step2 Open your FL Studio window on your pc or mac. Then, choose the right volume parameter for the creation of automation in your FL studio. You can do it using the mixer channel method.
@@ -54,6 +57,9 @@ However, if you are looking forward to the alternative option for FL Studio, [Fi
 
 Step1 The first thing you have to do is successfully install the Filmora software on your pc or mac. Before fading audio, you should have some basic knowledge about the keyframes. After creating the audio keyframes, you will see an audio panel like the below surface.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
@@ -64,16 +70,29 @@ Step3 If you want your audio to fade out, again go to the audio setting. Then dr
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## Related FAQs of FL Studio Audio Editing
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ### 1\. How to fade out FL studio mobile?
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. What is declicking mode FL studio?
 
 Declicking is an option that helps to remove ‘Clicks’ in the beginning or end. But when it comes to FL Studio, the meaning is a bit different. If you need to cut a part of your audio in FL Studio and later there arises a jump between two parts. This is known as declicking mode in FL Studio.
@@ -82,10 +101,16 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 
 Step1 The first thing you have to do is successfully install the Filmora software on your pc or mac. Before fading audio, you should have some basic knowledge about the keyframes. After creating the audio keyframes, you will see an audio panel like the below surface.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
@@ -130,3 +155,42 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-analyzing-dji-x4-fpv-helmet-functionality/"><u>[New] Analyzing DJI X4 FPV Helmet Functionality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-behind-the-scenes-with-viral-image-memes-and-stories/"><u>[New] Behind the Scenes with Viral Image Memes & Stories</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-boosting-reliability-verify-age-on-tiktok/"><u>[New] Boosting Reliability  Verify Age on TikTok</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-beginners-basics-of-video-clarity-and-sharpness/"><u>[Updated] Beginner's Basics of Video Clarity and Sharpness</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-buyers-best-guide-to-virtual-reality-cameras/"><u>[Updated] Buyer's Best Guide to Virtual Reality Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-advanced-pixlr-editing-hacks-for-stunning-photos-for-2024/"><u>10 Advanced Pixlr Editing Hacks for Stunning Photos for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/5-easy-steps-to-record-voice-on-your-windows-11-pc-for-2024/"><u>5 Easy Steps to Record Voice on Your Windows 11 PC for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/artistic-modifications-pic-editing-masterclass-for-2024/"><u>Artistic Modifications  Pic Editing Masterclass for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cinematic-basics-unveiled-fundamental-shots-explained-clearly/"><u>Cinematic Basics Unveiled  Fundamental Shots Explained Clearly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compact-guide-to-free-live-streaming-apps-on-mobile-devices/"><u>Compact Guide to Free Live Streaming Apps on Mobile Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compilation-of-top-5-mkv-apps-for-mac-for-2024/"><u>Compilation of Top 5 MKV Apps for Mac for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/converting-photographic-moments-into-cinematic-vignettes/"><u>Converting Photographic Moments Into Cinematic Vignettes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-audio-selections-for-clips-and-screenshots/"><u>Elite Audio Selections for Clips and Screenshots</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-depth-and-shadow-in-ai-text-art/"><u>Exploring Depth and Shadow in AI Text Art</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gopro-hero5-captured-life-review/"><u>GoPro Hero5 Captured Life Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/handhinas-and-lenses-for-journey-shots/"><u>Handhinas and Lenses for Journey Shots</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/highest-rated-mobile-video-enhancers-for-gopro-footage/"><u>Highest-Rated Mobile Video Enhancers for GoPro Footage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-10plus-iconic-ae-text-techniques-for-professionals/"><u>In 2024, 10+ Iconic AE Text Techniques for Professionals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-compreenas-guide-for-efficient-pip-integration-in-edge-browser/"><u>In 2024, A Compreenas Guide for Efficient PIP Integration in Edge Browser</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-accelerate-image-enhancement-top-15-pixlr-tips-for-speed-and-efficiency/"><u>In 2024, Accelerate Image Enhancement  Top 15 Pixlr Tips for Speed and Efficiency</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-editing-with-magix-vpx-features-on-steroids/"><u>In 2024, Advanced Editing with Magix VPX  Features on Steroids</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-china-on-ice-revelry-at-the-2022-beijing-olympics/"><u>In 2024, China on Ice  Revelry at the 2022 Beijing Olympics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-pixels-we-trust-a-guide-to-photomontages/"><u>In Pixels We Trust  A Guide to Photomontages</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/into-the-blueprint-cutting-edge-techniques-for-drones/"><u>Into the Blueprint  Cutting-Edge Techniques for Drones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/launch-day-calculus-for-successful-podcasts/"><u>Launch Day Calculus for Successful Podcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastered-listings-top-8-free-uhd-video-players-cross-platform-for-windows-pcandmac/"><u>Mastered Listings - Top 8 FREE UHD Video Players (Cross-Platform) for Windows PC&Mac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-the-nuances-of-softening-sounds-via-lumafusion/"><u>Mastering the Nuances of Softening Sounds via Lumafusion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-whatsapps-voice-exchange/"><u>Navigating WhatsApp's Voice Exchange</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/omni-angle-mounting-mechanisms/"><u>Omni-Angle Mounting Mechanisms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/painless-audio-progression-the-unobtrusive-way/"><u>Painless Audio Progression  The Unobtrusive Way</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfecting-titles-on-footage-step-by-step-tutorial-for-windows-photos-app/"><u>Perfecting Titles on Footage  Step-by-Step Tutorial for Windows Photos App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revitalize-your-shots-10-cost-free-expandable-with-additional-luts/"><u>Revitalize Your Shots  10 Cost-Free, Expandable With Additional LUTs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-auteurs-toolkit-5-critical-cinematographic-insights/"><u>The Auteur's Toolkit  5 Critical Cinematographic Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-5-innovative-vr-drones-collaborations/"><u>Top 5 Innovative VR Drones Collaborations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-notch-techniques-for-saving-online-radio-broadcasts/"><u>Top-Notch Techniques for Saving Online Radio Broadcasts</u></a></li>
+</ul></div>

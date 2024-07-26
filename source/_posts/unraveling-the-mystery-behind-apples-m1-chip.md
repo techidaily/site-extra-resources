@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery Behind Apple's M1 Chip"
-date: 2024-05-24T04:46:33.775Z
-updated: 2024-05-25T04:46:33.775Z
+date: 2024-07-25T03:58:23.672Z
+updated: 2024-07-26T03:58:23.672Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://www.lifewire.com/thmb/JH9ABBpQILZF0nd_xtnHpy6yUXI=/540x405/fi
 
 # What is Apple M1 Chip?
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -28,6 +31,205 @@ thumbnail: https://www.lifewire.com/thmb/JH9ABBpQILZF0nd_xtnHpy6yUXI=/540x405/fi
 
 Up until now, Apple has been using Intel processors for its Mac. That is about to change completely as Apple introduced the first Mac with a new **Apple M1** chip that uses ARM-64 bit architecture. It is Apple’s first custom silicon system on a chip that is being used in the new Macs. It was already being used in iPads and iPhones, and now it is being presented in the new MacBook Pro, MacBook Air, and MacBook mini.
 
+## What does the M1 chip mean for the new MacBook?
+
+The instruction set that is being used by the ARM technology is much more simplified than x86, thus, making it more energy-efficient. Up until today, Macs used Intel processors which had multiple chips for I/O, processor, security, and memory. The M1 chip unlike the Intel processors has combined all these chips into a single system on chip or SoC. This makes it more simple, efficient, and better at performance.
+
+M1 is also the first personal computer chip built with 5-nanometer process technology. Apple has managed to fit 16,000,000,000 transistors in a single M1 chip, which is more than any chip ever invented for personal computers.
+
+* **CPU**
+
+The CPU consists of 8 cores with 4 of them being high-performance and four high-efficiency cores. These cores can work alone unless they are needed to do high-performance tasks, in which case all 8 cores can work together. This technology makes at least 3.9 times faster than its Intel counterpart and gives the MacBook an amazing 20-hour playback on battery time.
+
+* **GPU**
+
+The GPU is an eight-core integrated chip with 2.6 teraflops of raw power output. The performance tests have revealed that running around 25,000 threads concurrently gives it a better performance than the GeForce GTX 1050 Ti.
+
+Normally, PCs need a separate chip for graphics performance, but Apple’s new integrated GPU gives it a huge performance edge with minimum power consumption. According to apple, it is the world’s fastest integrated graphics in a PC.
+
+* **Neural Engine**
+
+Apple’s latest neural engine has a 16-core design which enables it to execute 11 trillion operations per second. This means that video editors can frame a click intelligently and instantly. Apart from that, the software can make the details better and sharper in no time. The new neural engine gives apple 15x faster machine learning capabilities.
+
+![apple m1 chip](https://images.wondershare.com/filmora/Mac-articles/apple-m1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Apple M1 compared to Intel Processors
+
+The new Apple M1 chip is proving to be better than its old Intel base models. Here are a few comparisons:
+
+| **Specifications**    | **Apple M1**         | **Intel Core-i7** | **Intel Core-i9** |
+| --------------------- | -------------------- | ----------------- | ----------------- |
+| **Frequency**         | 3.2 GHz              | 2.6 GHz           | 5.3 GHz           |
+| **Cores**             | 8                    | 6                 | 10                |
+| **Turbo** (1 Core)    | None                 | 5.10 GHz          | 5.00 GHz          |
+| **Turbo** (All Cores) |                      | 3.20 GHz          | 4.70 GHz          |
+| **Core Architecture** | Hybrid (big. LITTLE) | Normal            | Normal            |
+
+* **Apple M1 VS Intel Core-i7**
+
+Apple M1 beats the Intel i7 speed by 2.8 times according to Apple. The graphics are significantly better and all that with the minimum usage of power. Apple claims that the battery can last up to 20 hours.
+
+According to a test between the new Apple Macbook with M1 chip vs Dell XPS 13 with 11th gen core-i7, the M1 performed way better than i7\. The first test was opening 50 apps simultaneously which apple won by a huge margin. While the M1 chip was able to open and run all the apps within a matter of seconds, the Dell XPS took its time to open those apps and once it did, they were unable to run. Apart from all that, the M1 fan was working efficiently and silently while Dell had overheated and almost hanged.
+
+When it came to testing the battery life, after 4 hours of intense gaming the Dell had a 7% battery left. The Macbook with M1 was still running at 30%. In benchmark performances, on single-core The M1 was 7% faster yet on multiple cores, the M1 was a whopping 63% faster than i7.
+
+There is also a $300 price difference between the two with Apple Macbook being the cheaper one.
+
+![Intel i7](https://images.wondershare.com/filmora/Mac-articles/Intel-i7.png)
+
+* **Apple M1 VS Intel Core-i9**
+
+When it comes to specifications the i9 takes a little of upper-hand in performance, but they also come in much more expensive PCs. Now even with all that, the most surprising aspect was that on Geekbench 5, the Apple M1 still outperformed the i9 on single-core by 23%; however, on multiple cores, the i9 was 19% faster than the new M1\.
+
+Keeping all that in mind, the M1 might still need to catch-up to the i9, but it certainly poses a huge threat for Intel as this is just Apple’s first experiment. One factor that also makes the i9 perform better is that it allows up to 128 GB of memory while the M1 only comes with 8 GB and 16 GB variants.
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Intel i9](https://images.wondershare.com/filmora/Mac-articles/Intel-i9.png)
+
+## What about the Apple computers with Intel Chips?
+
+The new M1 chip is only available in a limited number of systems as of now and Apple will still be making its PCs using the Intel chip. You’ll now have the option to choose either the M1 variant or the one with an Intel processor. Apple will however move towards installing the M1 chip in all of its Macs if the experiment goes well.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Is the M1 Chip Good for Video Editing?
+
+Definitely yes! The performance of M1 Chip on video editing is quite impressive. It can edit multiple 4-8K videos smoothly, and the rendering is faster than Intel. What you can’t say no to it - it is truly efficient. After conducting several editing tasks, there is still plenty of battery life. The only flaw would be if the video editor does not run natively on the M1 chip, you would not experience that much difference.
+
+**Learn More:** [Which Video Editor Works on M1 Chip](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Conclusion
+
+Apple has launched the M1 technology that has broken all the barriers of innovation in the personal computer world. It has recently been launched only on MacBook Pro, MacBook Air, and MacBook mini, but it is just a test phase which apple is nailing by the way.
+
+This is the first integrated chip for a personal computer that combines I/O, GPU, CPU, and memory together. Compared with its Intel counterparts, the M1 outperforms them by a huge margin. With 16 billion transistors and the highest CPU performance per watt, Apple has outdone itself with its new technology. Although it may have a few drawbacks it is quite new in the market and even in its initial phase, the M1 looks exceedingly promising.
+
+It would not be an exaggeration to claim this achievement as the setting stone for a new world of technology when it comes to personal computers.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Aug 18, 2022• Proven solutions
+
+Up until now, Apple has been using Intel processors for its Mac. That is about to change completely as Apple introduced the first Mac with a new **Apple M1** chip that uses ARM-64 bit architecture. It is Apple’s first custom silicon system on a chip that is being used in the new Macs. It was already being used in iPads and iPhones, and now it is being presented in the new MacBook Pro, MacBook Air, and MacBook mini.
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## What does the M1 chip mean for the new MacBook?
+
+The instruction set that is being used by the ARM technology is much more simplified than x86, thus, making it more energy-efficient. Up until today, Macs used Intel processors which had multiple chips for I/O, processor, security, and memory. The M1 chip unlike the Intel processors has combined all these chips into a single system on chip or SoC. This makes it more simple, efficient, and better at performance.
+
+M1 is also the first personal computer chip built with 5-nanometer process technology. Apple has managed to fit 16,000,000,000 transistors in a single M1 chip, which is more than any chip ever invented for personal computers.
+
+* **CPU**
+
+The CPU consists of 8 cores with 4 of them being high-performance and four high-efficiency cores. These cores can work alone unless they are needed to do high-performance tasks, in which case all 8 cores can work together. This technology makes at least 3.9 times faster than its Intel counterpart and gives the MacBook an amazing 20-hour playback on battery time.
+
+* **GPU**
+
+The GPU is an eight-core integrated chip with 2.6 teraflops of raw power output. The performance tests have revealed that running around 25,000 threads concurrently gives it a better performance than the GeForce GTX 1050 Ti.
+
+Normally, PCs need a separate chip for graphics performance, but Apple’s new integrated GPU gives it a huge performance edge with minimum power consumption. According to apple, it is the world’s fastest integrated graphics in a PC.
+
+* **Neural Engine**
+
+Apple’s latest neural engine has a 16-core design which enables it to execute 11 trillion operations per second. This means that video editors can frame a click intelligently and instantly. Apart from that, the software can make the details better and sharper in no time. The new neural engine gives apple 15x faster machine learning capabilities.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![apple m1 chip](https://images.wondershare.com/filmora/Mac-articles/apple-m1.jpg)
+
+## Apple M1 compared to Intel Processors
+
+The new Apple M1 chip is proving to be better than its old Intel base models. Here are a few comparisons:
+
+| **Specifications**    | **Apple M1**         | **Intel Core-i7** | **Intel Core-i9** |
+| --------------------- | -------------------- | ----------------- | ----------------- |
+| **Frequency**         | 3.2 GHz              | 2.6 GHz           | 5.3 GHz           |
+| **Cores**             | 8                    | 6                 | 10                |
+| **Turbo** (1 Core)    | None                 | 5.10 GHz          | 5.00 GHz          |
+| **Turbo** (All Cores) |                      | 3.20 GHz          | 4.70 GHz          |
+| **Core Architecture** | Hybrid (big. LITTLE) | Normal            | Normal            |
+
+* **Apple M1 VS Intel Core-i7**
+
+Apple M1 beats the Intel i7 speed by 2.8 times according to Apple. The graphics are significantly better and all that with the minimum usage of power. Apple claims that the battery can last up to 20 hours.
+
+According to a test between the new Apple Macbook with M1 chip vs Dell XPS 13 with 11th gen core-i7, the M1 performed way better than i7\. The first test was opening 50 apps simultaneously which apple won by a huge margin. While the M1 chip was able to open and run all the apps within a matter of seconds, the Dell XPS took its time to open those apps and once it did, they were unable to run. Apart from all that, the M1 fan was working efficiently and silently while Dell had overheated and almost hanged.
+
+When it came to testing the battery life, after 4 hours of intense gaming the Dell had a 7% battery left. The Macbook with M1 was still running at 30%. In benchmark performances, on single-core The M1 was 7% faster yet on multiple cores, the M1 was a whopping 63% faster than i7.
+
+There is also a $300 price difference between the two with Apple Macbook being the cheaper one.
+
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
+![Intel i7](https://images.wondershare.com/filmora/Mac-articles/Intel-i7.png)
+
+* **Apple M1 VS Intel Core-i9**
+
+When it comes to specifications the i9 takes a little of upper-hand in performance, but they also come in much more expensive PCs. Now even with all that, the most surprising aspect was that on Geekbench 5, the Apple M1 still outperformed the i9 on single-core by 23%; however, on multiple cores, the i9 was 19% faster than the new M1\.
+
+Keeping all that in mind, the M1 might still need to catch-up to the i9, but it certainly poses a huge threat for Intel as this is just Apple’s first experiment. One factor that also makes the i9 perform better is that it allows up to 128 GB of memory while the M1 only comes with 8 GB and 16 GB variants.
+
+![Intel i9](https://images.wondershare.com/filmora/Mac-articles/Intel-i9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
+## What about the Apple computers with Intel Chips?
+
+The new M1 chip is only available in a limited number of systems as of now and Apple will still be making its PCs using the Intel chip. You’ll now have the option to choose either the M1 variant or the one with an Intel processor. Apple will however move towards installing the M1 chip in all of its Macs if the experiment goes well.
+
+## Is the M1 Chip Good for Video Editing?
+
+Definitely yes! The performance of M1 Chip on video editing is quite impressive. It can edit multiple 4-8K videos smoothly, and the rendering is faster than Intel. What you can’t say no to it - it is truly efficient. After conducting several editing tasks, there is still plenty of battery life. The only flaw would be if the video editor does not run natively on the M1 chip, you would not experience that much difference.
+
+**Learn More:** [Which Video Editor Works on M1 Chip](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Conclusion
+
+Apple has launched the M1 technology that has broken all the barriers of innovation in the personal computer world. It has recently been launched only on MacBook Pro, MacBook Air, and MacBook mini, but it is just a test phase which apple is nailing by the way.
+
+This is the first integrated chip for a personal computer that combines I/O, GPU, CPU, and memory together. Compared with its Intel counterparts, the M1 outperforms them by a huge margin. With 16 billion transistors and the highest CPU performance per watt, Apple has outdone itself with its new technology. Although it may have a few drawbacks it is quite new in the market and even in its initial phase, the M1 looks exceedingly promising.
+
+It would not be an exaggeration to claim this achievement as the setting stone for a new world of technology when it comes to personal computers.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Aug 18, 2022• Proven solutions
+
+Up until now, Apple has been using Intel processors for its Mac. That is about to change completely as Apple introduced the first Mac with a new **Apple M1** chip that uses ARM-64 bit architecture. It is Apple’s first custom silicon system on a chip that is being used in the new Macs. It was already being used in iPads and iPhones, and now it is being presented in the new MacBook Pro, MacBook Air, and MacBook mini.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What does the M1 chip mean for the new MacBook?
 
 The instruction set that is being used by the ARM technology is much more simplified than x86, thus, making it more energy-efficient. Up until today, Macs used Intel processors which had multiple chips for I/O, processor, security, and memory. The M1 chip unlike the Intel processors has combined all these chips into a single system on chip or SoC. This makes it more simple, efficient, and better at performance.
@@ -72,6 +274,9 @@ When it came to testing the battery life, after 4 hours of intense gaming the De
 
 There is also a $300 price difference between the two with Apple Macbook being the cheaper one.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Intel i7](https://images.wondershare.com/filmora/Mac-articles/Intel-i7.png)
 
 * **Apple M1 VS Intel Core-i9**
@@ -82,6 +287,10 @@ Keeping all that in mind, the M1 might still need to catch-up to the i9, but it 
 
 ![Intel i9](https://images.wondershare.com/filmora/Mac-articles/Intel-i9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## What about the Apple computers with Intel Chips?
 
 The new M1 chip is only available in a limited number of systems as of now and Apple will still be making its PCs using the Intel chip. You’ll now have the option to choose either the M1 variant or the one with an Intel processor. Apple will however move towards installing the M1 chip in all of its Macs if the experiment goes well.
@@ -92,6 +301,9 @@ Definitely yes! The performance of M1 Chip on video editing is quite impressive.
 
 **Learn More:** [Which Video Editor Works on M1 Chip](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Apple has launched the M1 technology that has broken all the barriers of innovation in the personal computer world. It has recently been launched only on MacBook Pro, MacBook Air, and MacBook mini, but it is just a test phase which apple is nailing by the way.
@@ -134,8 +346,14 @@ Normally, PCs need a separate chip for graphics performance, but Apple’s new i
 
 Apple’s latest neural engine has a 16-core design which enables it to execute 11 trillion operations per second. This means that video editors can frame a click intelligently and instantly. Apart from that, the software can make the details better and sharper in no time. The new neural engine gives apple 15x faster machine learning capabilities.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![apple m1 chip](https://images.wondershare.com/filmora/Mac-articles/apple-m1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Apple M1 compared to Intel Processors
 
 The new Apple M1 chip is proving to be better than its old Intel base models. Here are a few comparisons:
@@ -168,6 +386,9 @@ Keeping all that in mind, the M1 might still need to catch-up to the i9, but it 
 
 ![Intel i9](https://images.wondershare.com/filmora/Mac-articles/Intel-i9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What about the Apple computers with Intel Chips?
 
 The new M1 chip is only available in a limited number of systems as of now and Apple will still be making its PCs using the Intel chip. You’ll now have the option to choose either the M1 variant or the one with an Intel processor. Apple will however move towards installing the M1 chip in all of its Macs if the experiment goes well.
@@ -178,178 +399,9 @@ Definitely yes! The performance of M1 Chip on video editing is quite impressive.
 
 **Learn More:** [Which Video Editor Works on M1 Chip](https://tools.techidaily.com/wondershare/filmora/download/)
 
-## Conclusion
-
-Apple has launched the M1 technology that has broken all the barriers of innovation in the personal computer world. It has recently been launched only on MacBook Pro, MacBook Air, and MacBook mini, but it is just a test phase which apple is nailing by the way.
-
-This is the first integrated chip for a personal computer that combines I/O, GPU, CPU, and memory together. Compared with its Intel counterparts, the M1 outperforms them by a huge margin. With 16 billion transistors and the highest CPU performance per watt, Apple has outdone itself with its new technology. Although it may have a few drawbacks it is quite new in the market and even in its initial phase, the M1 looks exceedingly promising.
-
-It would not be an exaggeration to claim this achievement as the setting stone for a new world of technology when it comes to personal computers.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Aug 18, 2022• Proven solutions
-
-Up until now, Apple has been using Intel processors for its Mac. That is about to change completely as Apple introduced the first Mac with a new **Apple M1** chip that uses ARM-64 bit architecture. It is Apple’s first custom silicon system on a chip that is being used in the new Macs. It was already being used in iPads and iPhones, and now it is being presented in the new MacBook Pro, MacBook Air, and MacBook mini.
-
-## What does the M1 chip mean for the new MacBook?
-
-The instruction set that is being used by the ARM technology is much more simplified than x86, thus, making it more energy-efficient. Up until today, Macs used Intel processors which had multiple chips for I/O, processor, security, and memory. The M1 chip unlike the Intel processors has combined all these chips into a single system on chip or SoC. This makes it more simple, efficient, and better at performance.
-
-M1 is also the first personal computer chip built with 5-nanometer process technology. Apple has managed to fit 16,000,000,000 transistors in a single M1 chip, which is more than any chip ever invented for personal computers.
-
-* **CPU**
-
-The CPU consists of 8 cores with 4 of them being high-performance and four high-efficiency cores. These cores can work alone unless they are needed to do high-performance tasks, in which case all 8 cores can work together. This technology makes at least 3.9 times faster than its Intel counterpart and gives the MacBook an amazing 20-hour playback on battery time.
-
-* **GPU**
-
-The GPU is an eight-core integrated chip with 2.6 teraflops of raw power output. The performance tests have revealed that running around 25,000 threads concurrently gives it a better performance than the GeForce GTX 1050 Ti.
-
-Normally, PCs need a separate chip for graphics performance, but Apple’s new integrated GPU gives it a huge performance edge with minimum power consumption. According to apple, it is the world’s fastest integrated graphics in a PC.
-
-* **Neural Engine**
-
-Apple’s latest neural engine has a 16-core design which enables it to execute 11 trillion operations per second. This means that video editors can frame a click intelligently and instantly. Apart from that, the software can make the details better and sharper in no time. The new neural engine gives apple 15x faster machine learning capabilities.
-
-![apple m1 chip](https://images.wondershare.com/filmora/Mac-articles/apple-m1.jpg)
-
-## Apple M1 compared to Intel Processors
-
-The new Apple M1 chip is proving to be better than its old Intel base models. Here are a few comparisons:
-
-| **Specifications**    | **Apple M1**         | **Intel Core-i7** | **Intel Core-i9** |
-| --------------------- | -------------------- | ----------------- | ----------------- |
-| **Frequency**         | 3.2 GHz              | 2.6 GHz           | 5.3 GHz           |
-| **Cores**             | 8                    | 6                 | 10                |
-| **Turbo** (1 Core)    | None                 | 5.10 GHz          | 5.00 GHz          |
-| **Turbo** (All Cores) |                      | 3.20 GHz          | 4.70 GHz          |
-| **Core Architecture** | Hybrid (big. LITTLE) | Normal            | Normal            |
-
-* **Apple M1 VS Intel Core-i7**
-
-Apple M1 beats the Intel i7 speed by 2.8 times according to Apple. The graphics are significantly better and all that with the minimum usage of power. Apple claims that the battery can last up to 20 hours.
-
-According to a test between the new Apple Macbook with M1 chip vs Dell XPS 13 with 11th gen core-i7, the M1 performed way better than i7\. The first test was opening 50 apps simultaneously which apple won by a huge margin. While the M1 chip was able to open and run all the apps within a matter of seconds, the Dell XPS took its time to open those apps and once it did, they were unable to run. Apart from all that, the M1 fan was working efficiently and silently while Dell had overheated and almost hanged.
-
-When it came to testing the battery life, after 4 hours of intense gaming the Dell had a 7% battery left. The Macbook with M1 was still running at 30%. In benchmark performances, on single-core The M1 was 7% faster yet on multiple cores, the M1 was a whopping 63% faster than i7.
-
-There is also a $300 price difference between the two with Apple Macbook being the cheaper one.
-
-![Intel i7](https://images.wondershare.com/filmora/Mac-articles/Intel-i7.png)
-
-* **Apple M1 VS Intel Core-i9**
-
-When it comes to specifications the i9 takes a little of upper-hand in performance, but they also come in much more expensive PCs. Now even with all that, the most surprising aspect was that on Geekbench 5, the Apple M1 still outperformed the i9 on single-core by 23%; however, on multiple cores, the i9 was 19% faster than the new M1\.
-
-Keeping all that in mind, the M1 might still need to catch-up to the i9, but it certainly poses a huge threat for Intel as this is just Apple’s first experiment. One factor that also makes the i9 perform better is that it allows up to 128 GB of memory while the M1 only comes with 8 GB and 16 GB variants.
-
-![Intel i9](https://images.wondershare.com/filmora/Mac-articles/Intel-i9.png)
-
-## What about the Apple computers with Intel Chips?
-
-The new M1 chip is only available in a limited number of systems as of now and Apple will still be making its PCs using the Intel chip. You’ll now have the option to choose either the M1 variant or the one with an Intel processor. Apple will however move towards installing the M1 chip in all of its Macs if the experiment goes well.
-
-## Is the M1 Chip Good for Video Editing?
-
-Definitely yes! The performance of M1 Chip on video editing is quite impressive. It can edit multiple 4-8K videos smoothly, and the rendering is faster than Intel. What you can’t say no to it - it is truly efficient. After conducting several editing tasks, there is still plenty of battery life. The only flaw would be if the video editor does not run natively on the M1 chip, you would not experience that much difference.
-
-**Learn More:** [Which Video Editor Works on M1 Chip](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Conclusion
-
-Apple has launched the M1 technology that has broken all the barriers of innovation in the personal computer world. It has recently been launched only on MacBook Pro, MacBook Air, and MacBook mini, but it is just a test phase which apple is nailing by the way.
-
-This is the first integrated chip for a personal computer that combines I/O, GPU, CPU, and memory together. Compared with its Intel counterparts, the M1 outperforms them by a huge margin. With 16 billion transistors and the highest CPU performance per watt, Apple has outdone itself with its new technology. Although it may have a few drawbacks it is quite new in the market and even in its initial phase, the M1 looks exceedingly promising.
-
-It would not be an exaggeration to claim this achievement as the setting stone for a new world of technology when it comes to personal computers.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Aug 18, 2022• Proven solutions
-
-Up until now, Apple has been using Intel processors for its Mac. That is about to change completely as Apple introduced the first Mac with a new **Apple M1** chip that uses ARM-64 bit architecture. It is Apple’s first custom silicon system on a chip that is being used in the new Macs. It was already being used in iPads and iPhones, and now it is being presented in the new MacBook Pro, MacBook Air, and MacBook mini.
-
-## What does the M1 chip mean for the new MacBook?
-
-The instruction set that is being used by the ARM technology is much more simplified than x86, thus, making it more energy-efficient. Up until today, Macs used Intel processors which had multiple chips for I/O, processor, security, and memory. The M1 chip unlike the Intel processors has combined all these chips into a single system on chip or SoC. This makes it more simple, efficient, and better at performance.
-
-M1 is also the first personal computer chip built with 5-nanometer process technology. Apple has managed to fit 16,000,000,000 transistors in a single M1 chip, which is more than any chip ever invented for personal computers.
-
-* **CPU**
-
-The CPU consists of 8 cores with 4 of them being high-performance and four high-efficiency cores. These cores can work alone unless they are needed to do high-performance tasks, in which case all 8 cores can work together. This technology makes at least 3.9 times faster than its Intel counterpart and gives the MacBook an amazing 20-hour playback on battery time.
-
-* **GPU**
-
-The GPU is an eight-core integrated chip with 2.6 teraflops of raw power output. The performance tests have revealed that running around 25,000 threads concurrently gives it a better performance than the GeForce GTX 1050 Ti.
-
-Normally, PCs need a separate chip for graphics performance, but Apple’s new integrated GPU gives it a huge performance edge with minimum power consumption. According to apple, it is the world’s fastest integrated graphics in a PC.
-
-* **Neural Engine**
-
-Apple’s latest neural engine has a 16-core design which enables it to execute 11 trillion operations per second. This means that video editors can frame a click intelligently and instantly. Apart from that, the software can make the details better and sharper in no time. The new neural engine gives apple 15x faster machine learning capabilities.
-
-![apple m1 chip](https://images.wondershare.com/filmora/Mac-articles/apple-m1.jpg)
-
-## Apple M1 compared to Intel Processors
-
-The new Apple M1 chip is proving to be better than its old Intel base models. Here are a few comparisons:
-
-| **Specifications**    | **Apple M1**         | **Intel Core-i7** | **Intel Core-i9** |
-| --------------------- | -------------------- | ----------------- | ----------------- |
-| **Frequency**         | 3.2 GHz              | 2.6 GHz           | 5.3 GHz           |
-| **Cores**             | 8                    | 6                 | 10                |
-| **Turbo** (1 Core)    | None                 | 5.10 GHz          | 5.00 GHz          |
-| **Turbo** (All Cores) |                      | 3.20 GHz          | 4.70 GHz          |
-| **Core Architecture** | Hybrid (big. LITTLE) | Normal            | Normal            |
-
-* **Apple M1 VS Intel Core-i7**
-
-Apple M1 beats the Intel i7 speed by 2.8 times according to Apple. The graphics are significantly better and all that with the minimum usage of power. Apple claims that the battery can last up to 20 hours.
-
-According to a test between the new Apple Macbook with M1 chip vs Dell XPS 13 with 11th gen core-i7, the M1 performed way better than i7\. The first test was opening 50 apps simultaneously which apple won by a huge margin. While the M1 chip was able to open and run all the apps within a matter of seconds, the Dell XPS took its time to open those apps and once it did, they were unable to run. Apart from all that, the M1 fan was working efficiently and silently while Dell had overheated and almost hanged.
-
-When it came to testing the battery life, after 4 hours of intense gaming the Dell had a 7% battery left. The Macbook with M1 was still running at 30%. In benchmark performances, on single-core The M1 was 7% faster yet on multiple cores, the M1 was a whopping 63% faster than i7.
-
-There is also a $300 price difference between the two with Apple Macbook being the cheaper one.
-
-![Intel i7](https://images.wondershare.com/filmora/Mac-articles/Intel-i7.png)
-
-* **Apple M1 VS Intel Core-i9**
-
-When it comes to specifications the i9 takes a little of upper-hand in performance, but they also come in much more expensive PCs. Now even with all that, the most surprising aspect was that on Geekbench 5, the Apple M1 still outperformed the i9 on single-core by 23%; however, on multiple cores, the i9 was 19% faster than the new M1\.
-
-Keeping all that in mind, the M1 might still need to catch-up to the i9, but it certainly poses a huge threat for Intel as this is just Apple’s first experiment. One factor that also makes the i9 perform better is that it allows up to 128 GB of memory while the M1 only comes with 8 GB and 16 GB variants.
-
-![Intel i9](https://images.wondershare.com/filmora/Mac-articles/Intel-i9.png)
-
-## What about the Apple computers with Intel Chips?
-
-The new M1 chip is only available in a limited number of systems as of now and Apple will still be making its PCs using the Intel chip. You’ll now have the option to choose either the M1 variant or the one with an Intel processor. Apple will however move towards installing the M1 chip in all of its Macs if the experiment goes well.
-
-## Is the M1 Chip Good for Video Editing?
-
-Definitely yes! The performance of M1 Chip on video editing is quite impressive. It can edit multiple 4-8K videos smoothly, and the rendering is faster than Intel. What you can’t say no to it - it is truly efficient. After conducting several editing tasks, there is still plenty of battery life. The only flaw would be if the video editor does not run natively on the M1 chip, you would not experience that much difference.
-
-**Learn More:** [Which Video Editor Works on M1 Chip](https://tools.techidaily.com/wondershare/filmora/download/)
-
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Apple has launched the M1 technology that has broken all the barriers of innovation in the personal computer world. It has recently been launched only on MacBook Pro, MacBook Air, and MacBook mini, but it is just a test phase which apple is nailing by the way.
@@ -390,3 +442,29 @@ Follow @Richard Bennett
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-apex-level-clarity-convert-high-res-videos/"><u>[New] Apex-Level Clarity  Convert High-Res Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-balancing-width-and-height-for-ultimate-videography/"><u>[New] Balancing Width and Height for Ultimate Videography</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-step-by-step-guide-for-erasing-image-backdrops-with-photopea/"><u>[Updated] A Step-by-Step Guide for Erasing Image Backdrops with Photopea</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/astral-expressions-top-30-bios-to-boost-your-signs-charm/"><u>Astral Expressions  Top 30 Bios to Boost Your Sign's Charm</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audio-endings-how-to-decrease-volume-gradually-in-pp/"><u>Audio Endings  How to Decrease Volume Gradually in PP</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bridging-the-gap-enhancing-your-edits-with-inshot-transitions-for-2024/"><u>Bridging the Gap  Enhancing Your Edits with Inshot Transitions for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cut-to-quality-perfecting-videos-with-enhancer-22/"><u>Cut to Quality  Perfecting Videos with Enhancer 2.2</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/engaging-book-video-snippets/"><u>Engaging Book Video Snippets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-flight-to-fun-mavic-airs-showdown-with-spark/"><u>From Flight to Fun  Mavic Air's Showdown with Spark</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-speed-up-windows-file-inspection/"><u>How To Speed Up Windows File Inspection</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-7-key-reddit-techniques-to-elevate-your-startups-brand-visibility/"><u>In 2024, 7 Key Reddit Techniques to Elevate Your Startup's Brand Visibility</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-audio-aficionados-quandary-pick-between-podcast-and-youtube/"><u>In 2024, Audio Aficionados' Quandary  Pick Between Podcast and YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-camera-compendium-best-in-class-filmmaking-gear/"><u>In 2024, Camera Compendium  Best in Class Filmmaking Gear</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-competitor-cameras-rising-the-ultimate-guide-to-substitutes-for-samsungs-gear-360/"><u>In 2024, Competitor Cameras Rising  The Ultimate Guide to Substitutes for Samsung's Gear 360</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-pure-designs-erasing-backgrounds-with-canva-expertise/"><u>In 2024, Crafting Pure Designs  Erasing Backgrounds with Canva Expertise</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/instant-transcription-absolutely-complimentary/"><u>Instant Transcription, Absolutely Complimentary</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-photography-simplified-adopt-these-10-easy-rules/"><u>IPhone Photography Simplified  Adopt These 10 Easy Rules</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/laughter-in-the-clouds-iphone/"><u>Laughter in the Clouds (iPhone)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/smoothly-softening-endings-audio-fades-made-simple-with-adobe-premiere-pro/"><u>Smoothly Softening Endings  Audio Fades Made Simple with Adobe Premiere Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/teleport-into-virtuality-top-10-mobile-vr-headsets-reviewed/"><u>Teleport Into Virtuality  Top 10 Mobile VR Headsets Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-picshot-difference-in-collage-mastery/"><u>The Picshot Difference in Collage Mastery</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/x-marked-moments-in-the-22-snowboard-games/"><u>X-Marked Moments in the '22 Snowboard Games</u></a></li>
+</ul></div>

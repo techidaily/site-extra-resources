@@ -1,7 +1,7 @@
 ---
 title: "\"Crafting a Compelling Video Story with B-Roll Variety\""
-date: 2024-05-24T03:17:45.426Z
-updated: 2024-05-25T03:17:45.426Z
+date: 2024-07-25T01:10:03.238Z
+updated: 2024-07-26T01:10:03.238Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Crafting a Compelling Video Story with B-Roll Variety\""
 excerpt: "\"This Article Describes Crafting a Compelling Video Story with B-Roll Variety\""
 keywords: "\"Storytelling Videos,B-Roll Essentials,Engaging Video Content,Creative Video Scripts,Visual Narrative Crafting,Diverse Footage Technique,Compelling Video Production\""
-thumbnail: https://www.lifewire.com/thmb/w9QDNLuB6AfQGlWCq3rP6KqIwcY=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/ComputersLaptops_MoMoProductions_GettyImages-1305309014_CROPPED-73522b11cda24bcdb21a9dc3b34adc76.jpg
+thumbnail: https://thmb.techidaily.com/6a3b42ee0f491feaaae6060437bee4c1fe86f210fd6ba7270c68a358652e000e.jpg
 ---
 
 ## Crafting a Compelling Video Story with B-Roll Variety
@@ -40,10 +40,16 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. What types of b roll are there?
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
@@ -52,20 +58,34 @@ Aerial B roll is the solution when you like to show your viewers where your film
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. Atmospheric b roll footage
 
 When you are sharing a narrative that has been told in the past or that has historical significance, incorporating archival material into your video gives your audience the opportunity to see the story as it occurred at the time. This is especially useful when you are discussing a narrative that has been experienced in the past or that has futuristic relevance.
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 6\. Pick-up shots
 
 A pick-up is a tiny shot added to previously captured material. Re-shoots involve redoing entire scenes. Both types of shots are commonly added during film editing to fix, logic, continuity, or quality flaws. These photos happen a while after the sets have been taken down, clothes and props stowed, and the actors and crew have gone on to new projects.
@@ -110,3 +130,31 @@ We sincerely hope that this post will be of use to you in making your films more
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-access-a-wide-range-of-content-via-12-streaming-apps/"><u>[New] Access a Wide Range of Content via 12 Streaming Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-5-best-toy-drones/"><u>[Updated] 5 Best Toy Drones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-aspiring-singers-try-these-leading-chrome-voice-tools-first/"><u>[Updated] Aspiring Singers, Try These Leading Chrome Voice Tools First</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-live-stream-tools-xsplit-or-obs/"><u>2024 Approved  Best Live Stream Tools  XSplit or OBS?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-cinematic-transformation-best-15-gopro-color-correction-look-ups-explored/"><u>2024 Approved  Cinematic Transformation  Best 15 GoPro Color Correction Look-Ups Explored</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-stunning-slideshows-on-iphone-series-13/"><u>2024 Approved  Crafting Stunning Slideshows on iPhone Series 13</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/30-must-try-mp4-gadgets-unveiled/"><u>30 Must-Try MP4 Gadgets Unveiled</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/backswing-crafting-bundle-for-2024/"><u>Backswing Crafting Bundle for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bebop-unleashed-the-parrots-aerial-showcase-review-for-2024/"><u>Bebop Unleashed  The Parrot's Aerial Showcase Review for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/celebrating-artistry-top-20-anime-melodies/"><u>Celebrating Artistry  Top 20 Anime Melodies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comparing-syma-x8c-to-previous-models-for-2024/"><u>Comparing Syma X8C to Previous Models for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/complete-breakdown-hero4-black-functionality/"><u>Complete Breakdown  Hero4 Black Functionality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-overview-of-whatsapp-voice-calls/"><u>Comprehensive Overview of WhatsApp Voice Calls</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/digital-melodies-where-to-grab-skype-ringtone-files/"><u>Digital Melodies  Where to Grab Skype Ringtone Files</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-ae-techniques-for-memorable-heads-ups/"><u>Essential AE Techniques for Memorable Heads-Ups</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harmonys-choice-top-10-songs-that-say-yes/"><u>Harmony's Choice  Top 10 Songs That Say 'Yes!'</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/instant-access-to-12-high-quality-livestreams/"><u>Instant Access to 12 High-Quality Livestreams</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/motion-magic-mixtures/"><u>Motion Magic Mixtures</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/no-expense-required-grab-your-custom-outro-scene/"><u>No Expense Required - Grab Your Custom Outro Scene</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimize-oust-and-outperform-youtube-titles-that-dominate/"><u>Optimize, Oust & Outperform  YouTube Titles That Dominate</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sns-vs-competitors-a-critical-hdr-software-comparison/"><u>SNS vs Competitors  A Critical HDR Software Comparison</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-guide-to-seamless-editing-of-full-spherical-video-content/"><u>Step-by-Step Guide to Seamless Editing of Full Spherical Video Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/superb-cyber-shops-for-handcrafted-gift-enclosures/"><u>Superb Cyber Shops for Handcrafted Gift Enclosures</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-list-of-online-havens-for-free-tamil-ringtones/"><u>The Ultimate List of Online Havens for Free Tamil Ringtones</u></a></li>
+</ul></div>

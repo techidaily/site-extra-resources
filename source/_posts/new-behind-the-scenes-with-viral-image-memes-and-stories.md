@@ -1,7 +1,7 @@
 ---
 title: "[New] Behind the Scenes with Viral Image Memes & Stories"
-date: 2024-05-24T04:37:43.754Z
-updated: 2024-05-25T04:37:43.754Z
+date: 2024-07-25T03:40:43.036Z
+updated: 2024-07-26T03:40:43.036Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Behind the Scenes with Viral Image Memes & Stories"
 excerpt: "This Article Describes [New] Behind the Scenes with Viral Image Memes & Stories"
 keywords: "\"Behind-the-Scenes Meme Insights,Meme Culture Deep Dive,Viral Images Unveiled,Stories in Viral Memes,Meme Creation Process,Behind the Meme Scene,Stories of Viral Photos\""
-thumbnail: https://www.lifewire.com/thmb/ET51ABCwWBTletzUuHrK9bZXzl8=/1000x333/filters:no_upscale():max_bytes(150000):strip_icc()/HowTo_Computers-28f36cf9111a4e14aa557ed6c6183653.png
+thumbnail: https://thmb.techidaily.com/d4527039f6a1a287d2df17fa899a5ac8403841092ccbbf441a17ff63d6863be1.png
 ---
 
 ## Behind the Scenes with Viral Image Memes & Stories
@@ -24,6 +24,9 @@ So, what are the most popular stock photo memes, and how did they reach this sta
 
 ## Part1: Hide the Pain Harold
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
 
 Since 2011, Hide the Pain Harold continues to rank as one of the world's most popular stock photo memes. Here are some numbers to show you how popular the meme is.
@@ -31,6 +34,9 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 * It also features on stock image sites such as Imgur, where user “someshitbag” has a gallery post titled Hide-the-pain-Harold. In addition, the page received over 880 thousand views during the first three weeks. Furthermore, it won Imgur's meme of the decade title in 2020 by receiving 10,954 votes (about 20%) of the 54,768 votes cast by Imgurians.
 * The meme appears on social media platforms such as Facebook, 4Chan, and Reddit. For example, a Facebook page titled Maurice has had over 10,000 likes since its creation in January 2014.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![meme appears on social media](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-2.jpg)
 
 * A text-to-speech YouTube video on the meme has over 492,000 views since going live in September 2015.
@@ -43,14 +49,23 @@ According to Andras, Hide the Pain Harold results from his vacation in Turkey. A
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## Part2: Distracted Boyfriend
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![distracted boyfriend](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-4.jpg)
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
 
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
@@ -64,18 +79,27 @@ Since then, the meme continues to enjoy mass popularity, including:
 
 The latest version of Distracted boyfriend is a compilation of photos featuring the three models, with the last one showing the women hanging out.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
 ## Part3: I Bet He's Thinking About Other Women
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
 
 The meme features a couple in bed with the stock photo meme guy in contemplation and the woman facing him with a concerned look. At first glance, the image shows a couple experiencing relationship problems, with the original caption showing the woman worrying that the man is thinking about other women.
 
 However, subsequent memes feature satirical themes. Here are some of the most popular versions and their popularity.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the most popular versions](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-8.jpg)
 
 A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In this version, the man wonders why there are so many Fast and the Furious movies.
@@ -113,6 +137,10 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## Part5: FAQs
 
 ### 1\. Can you use stock photos for memes?
@@ -125,6 +153,9 @@ This is because not all stock photo providers offer their images with a creative
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ### 3\. Can you use watermarked stock photos to create memes?
 
 No. Before using watermarked images to create memes, you must get verifiable permission from the rights holder. This is because it violates copyright law and can result in heavy fines or even prison time in extreme circumstances.
@@ -161,3 +192,37 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/jestful-journeys-an-in-depth-goofy-movie-review/"><u>'Jestful Journeys'  An In-Depth Goofy Movie Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-breaking-down-the-process-of-adding-fonts-to-ae-projects/"><u>[New] Breaking Down the Process of Adding Fonts to AE Projects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-complete-activity-inspection-guide/"><u>[New] Complete Activity Inspection Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-comprehensible-guide-to-mastering-pixelated-photography/"><u>[Updated] A Comprehensible Guide to Mastering Pixelated Photography</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-look-at-the-future-leading-photo-framing-apps/"><u>[Updated] A Look at the Future  Leading Photo Framing Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-newbies-blueprint-to-mastering-av1/"><u>[Updated] A Newbie's Blueprint to Mastering AV1</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-cloud-consortium-choices-best-spaces-revealed/"><u>2024 Approved  Cloud Consortium Choices  Best Spaces Revealed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/abbreviated-film-dialogue-scheme-for-2024/"><u>Abbreviated Film Dialogue Scheme for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/accelerated-photography-browser-for-11-os-users-for-2024/"><u>Accelerated Photography Browser for 11 OS Users for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audio-visual-elites-selecting-5-exceptional-creators-who-mix-sounds-for-2024/"><u>Audio-Visual Elites  Selecting 5 Exceptional Creators Who Mix Sounds for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/become-a-photo-editing-wizard-with-lunapic-expertise/"><u>Become a Photo Editing Wizard with LunaPic Expertise</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-clarity-in-web-exhibits-and-presentations-for-2024/"><u>Boosting Clarity in Web Exhibits and Presentations for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/breakthrough-beginnings-in-panzoids/"><u>Breakthrough Beginnings in Panzoids</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/decoding-sound-sequence-confluence-crossfading-explained/"><u>Decoding Sound Sequence Confluence  Crossfading Explained</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/demystifying-the-viva-video-interface/"><u>Demystifying the Viva Video Interface</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-your-iphone-photography-with-advanced-hdr-methods/"><u>Elevate Your iPhone Photography with Advanced HDR Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-eyewear-selection-best-5-vr-goggles-for-flight/"><u>Elite Eyewear Selection  Best 5 VR Goggles for Flight</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-criteria-in-searching-for-masterful-cinematographers/"><u>Essential Criteria in Searching for Masterful Cinematographers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-excellence-in-viewing-the-detailed-look-at-lgs-4k-display-model-31mu97-b/"><u>Exploring Excellence in Viewing - The Detailed Look at LG’s 4K Display, Model 31MU97-B</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-the-vivid-world-with-curved-images/"><u>Exploring the Vivid World with Curved Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-playground-to-pro-how-mavic-air-challenges-the-spark-dominance/"><u>From Playground to Pro  How Mavic Air Challenges the Spark Dominance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovate-with-windows-10s-newest-apps-and-games/"><u>Innovate with Windows 10'S Newest Apps and Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/laughter-unleashed-a-stepwise-strategy-for-making-impactful-gifs/"><u>Laughter Unleashed  A Stepwise Strategy for Making Impactful GIFs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/no-cost-no-trouble-video-introduction-kits/"><u>No-Cost, No-Trouble Video Introduction Kits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimal-conclusion-to-vr-journeys/"><u>Optimal Conclusion to VR Journeys</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/rapid-revamp-of-images-navigating-the-photos-editor-in-win10/"><u>Rapid Revamp of Images  Navigating the Photos Editor in WIN10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revolutionize-patient-engagement-with-ad-insights/"><u>Revolutionize Patient Engagement with Ad Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/textual-brilliance-in-media-exploring-the-best-effects/"><u>Textual Brilliance in Media  Exploring the Best Effects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-blueprint-for-selecting-exceptional-hdr-cameras/"><u>The Blueprint for Selecting Exceptional HDR Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-dji-spark-compact-drone-mastery-for-photographers/"><u>Unveiling the DJI Spark  Compact Drone Mastery for Photographers</u></a></li>
+</ul></div>

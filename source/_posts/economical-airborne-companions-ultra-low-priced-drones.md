@@ -1,7 +1,7 @@
 ---
 title: "\"Economical Airborne Companions  Ultra-Low Priced Drones\""
-date: 2024-05-24T05:31:39.398Z
-updated: 2024-05-25T05:31:39.398Z
+date: 2024-07-25T05:21:10.114Z
+updated: 2024-07-26T05:21:10.114Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes Economical Airborne Companions: Ultra-Low Priced Drones\""
 excerpt: "\"This Article Describes Economical Airborne Companions: Ultra-Low Priced Drones\""
 keywords: "\"Low Cost Drones,Economic UAVs,Cheap Drone Models,Budget Drones,Affordable Drones,Low-Priced Drones,Inexpensive Quadcopters\""
-thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flack-6b3c3167132c467db22bae39689c44ef.jpg
+thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d114b5800bdb87d98b552aa6d.jpg
 ---
 
 ## Economical Airborne Companions: Ultra-Low Priced Drones
 
 # Top 5 Affordable Drones under $500
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -28,6 +31,9 @@ thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/fi
 
  Finding the right drone for your needs is not always easy, especially when the price ranges vary so much. You usually find that there are people that are prepared to pay through the nose for the latest technology (usually those that use for business purposes) and the people that are just dipping their toes in the world of drones and video capture that want affordable drones that they won't be too heartbroken about should it crash. There's little middle ground where you can get quality at a price you can afford, however there are a few gems out there that give you the best of both worlds for drones under $500\. We have done the hard work so you don't have to and found drones cheap enough for all with great specifications for each all types of enthusiasts.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Top 6 affordable drones under $500
 
 | Product                               | Price   | Flight time | video resolution | Fliying range |
@@ -41,6 +47,9 @@ thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/fi
 
 #### DJI Phantom 3 Standard - Best drone under $500
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dji phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B013U0F6EQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013U0F6EQ&linkId=7eb3c6ed8291356e6acb86c74ddca833
@@ -158,6 +167,9 @@ thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/fi
 * 2D Flight Time: 8 to 9mins
 * 3D Flight Time: 5mins
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -185,6 +197,9 @@ Follow @Max Wales
 
 #### DJI Phantom 3 Standard - Best drone under $500
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dji phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B013U0F6EQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013U0F6EQ&linkId=7eb3c6ed8291356e6acb86c74ddca833
@@ -226,6 +241,9 @@ Follow @Max Wales
 
 #### Yuneec Breeze - The ultimate selfie drone for new and experienced pilots
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![yuneec breeze](https://images.wondershare.com/filmora/article-images/yuneec-breeze.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01LANE77M/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LANE77M&linkId=36ad7237fd26bf3cb5012480c0e0957a
@@ -279,6 +297,9 @@ Follow @Max Wales
 
 #### Walkera F210 3D Edition - Best racing drone
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![walkera f210 3d edition](https://images.wondershare.com/filmora/article-images/walkera-f210-3d-edition.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01EW0EPU4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01EW0EPU4&linkId=4c6a236382213dec0668e4971adfb53a
@@ -329,6 +350,9 @@ Follow @Max Wales
 
 #### DJI Phantom 3 Standard - Best drone under $500
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![dji phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B013U0F6EQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013U0F6EQ&linkId=7eb3c6ed8291356e6acb86c74ddca833
@@ -349,6 +373,9 @@ Follow @Max Wales
 
 #### Parrot Bebop - Best quadcopters for learning aerial photography and videography
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![parrot bebop](https://images.wondershare.com/filmora/article-images/parrot-bebop.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01K4U4O9S/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01K4U4O9S&linkId=559bfd9a35c5117ca75942a267175750
@@ -370,6 +397,9 @@ Follow @Max Wales
 
 #### Yuneec Breeze - The ultimate selfie drone for new and experienced pilots
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![yuneec breeze](https://images.wondershare.com/filmora/article-images/yuneec-breeze.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01LANE77M/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LANE77M&linkId=36ad7237fd26bf3cb5012480c0e0957a
@@ -396,6 +426,9 @@ Follow @Max Wales
 
 #### 3DR Solo - Best Drone for GoPro
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![3dr solo](https://images.wondershare.com/filmora/article-images/3dr-solo.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=6e3a0783ff748b66e7ccc673543bde8f
@@ -423,6 +456,14 @@ Follow @Max Wales
 
 #### Walkera F210 3D Edition - Best racing drone
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![walkera f210 3d edition](https://images.wondershare.com/filmora/article-images/walkera-f210-3d-edition.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01EW0EPU4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01EW0EPU4&linkId=4c6a236382213dec0668e4971adfb53a
@@ -473,6 +514,10 @@ Follow @Max Wales
 
 #### DJI Phantom 3 Standard - Best drone under $500
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![dji phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B013U0F6EQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013U0F6EQ&linkId=7eb3c6ed8291356e6acb86c74ddca833
@@ -514,6 +559,9 @@ Follow @Max Wales
 
 #### Yuneec Breeze - The ultimate selfie drone for new and experienced pilots
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![yuneec breeze](https://images.wondershare.com/filmora/article-images/yuneec-breeze.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01LANE77M/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LANE77M&linkId=36ad7237fd26bf3cb5012480c0e0957a
@@ -549,6 +597,9 @@ Follow @Max Wales
 
 #### UPair One Drone with 4K Camera Bundle
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![upair one drone with 4k camera bundle](https://images.wondershare.com/filmora/article-images/upair-one-drone-with-4k-camera-bundle.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01M0YYO87/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M0YYO87&linkId=d3373098f24af25a42abdd84a32e0366
@@ -622,3 +673,26 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-capture-the-big-one-best-fishing-camers-ranked/"><u>[New] Capture the Big One  Best Fishing Camers Ranked</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-step-by-step-approach-for-telegram-web-success/"><u>[Updated] A Step-By-Step Approach for Telegram Web Success</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-boost-tiktok-bio-presence-perfectly-pairing-it-with-linktree/"><u>[Updated] Boost TikTok Bio Presence  Perfectly Pairing It with Linktree</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comparing-high-end-drone-and-camera-tech/"><u>[Updated] Comparing High-End Drone & Camera Tech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-ae-excellence-select-best-templates-for-free-access/"><u>2024 Approved  AE Excellence  Select Best Templates for Free Access</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capture-brilliance-essential-lighting-hacks-for-iphone/"><u>2024 Approved  Capture Brilliance  Essential Lighting Hacks for IPhone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-in-class-top-10-streamers-with-a-comparative-edge/"><u>Best in Class  Top 10 Streamers with a Comparative Edge</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-pfr-rate-to-elevate-sluggish-video-flow/"><u>Best PFR Rate to Elevate Sluggish Video Flow</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/breaking-ground-in-editing-an-examination-of-the-vida-app-for-2024/"><u>Breaking Ground in Editing  An Examination of the Vida App for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-steps-to-utilizing-azures-speech-to-text-service-effectively/"><u>Essential Steps to Utilizing Azure's Speech-to-Text Service Effectively</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-acoustic-alerts-on-whatsapp-status/"><u>In 2024, Acoustic Alerts on WhatsApp Status</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-altering-images-a-photographers-toolkit/"><u>In 2024, Altering Images  A Photographer's Toolkit</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-breathe-life-into-your-visual-narrative-free-text-animation/"><u>In 2024, Breathe Life Into Your Visual Narrative  Free Text Animation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capturing-vistas-with-the-high-end-z32x-monitor/"><u>In 2024, Capturing Vistas with the High-End Z32X Monitor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-10-essential-stages-for-proficient-smm-expertise/"><u>Navigating 10 Essential Stages for Proficient SMM Expertise</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/precision-play-5-proven-techniques-for-zoomed-gameplay/"><u>Precision Play  5 Proven Techniques for Zoomed Gameplay</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/strategies-for-purchasing-clear-visual-content/"><u>Strategies for Purchasing Clear Visual Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-vlcs-full-potential-for-transforming-mp4-and-various-formats/"><u>Unlocking VLC's Full Potential for Transforming MP4 & Various Formats</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/your-ultimate-guide-to-the-best-affordable-online-video-effect-tools/"><u>Your Ultimate Guide to the Best Affordable Online Video Effect Tools</u></a></li>
+</ul></div>

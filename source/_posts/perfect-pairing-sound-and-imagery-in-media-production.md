@@ -1,7 +1,7 @@
 ---
 title: "\"Perfect Pairing  Sound & Imagery in Media Production\""
-date: 2024-05-24T04:12:52.701Z
-updated: 2024-05-25T04:12:52.701Z
+date: 2024-07-25T02:51:50.502Z
+updated: 2024-07-26T02:51:50.502Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Perfect Pairing: Sound & Imagery in Media Production\""
 excerpt: "\"This Article Describes Perfect Pairing: Sound & Imagery in Media Production\""
 keywords: "\"Media Production Artistry,Creative Media Designs,Image-Audio Sync Media,Producing Perfect Media,Imaginative Media Blend,Audio-Visual Media Craft,Sound Imagery Media Mix\""
-thumbnail: https://www.lifewire.com/thmb/8JZwZGtr8caBDhoilBDj6iOR2TI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungappstore-c0194a478ba54e90a798b3bb5ff4f6d5.jpg
+thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5af9f2c94189c8d2595dadf6.jpg
 ---
 
 ## Perfect Pairing: Sound & Imagery in Media Production
@@ -42,8 +42,14 @@ For the purpose of this article, I will be using the term “voiceover and “na
 
 But here's the good news: the way you add either option is the same in Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![add either option](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to add narration
 
 So the easiest way to add narration is directly to a project. The benefit of this is that you can record your narration inside Filmora while you watch the preview of your edited video.
@@ -54,6 +60,9 @@ A good example of this would be narrating a story on top of some still images an
 
 You put the playhead where you want to start recording and hit the microphone icon under the preview window.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hit microphone icon](https://images.wondershare.com/filmora/guide/stt-tts-srt-08.png)
 
 A 3-second countdown will pop up and start recording immediately after this countdown.
@@ -62,6 +71,10 @@ You can record your narration and click stop.
 
 After recording, you can trim and edit your narration, you can delete it and record it again, and can move it and edit it like any other feature.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Some Tips for Recording Narration
 
 Try playing the clip in the preview window to get a sense of what you want to say fits well with the space available in the project.
@@ -80,6 +93,10 @@ Practice adding it to your videos to see how it adds depth and dimension to your
 
 It can also help make a connection with your audience because you can be relating to the images on the screen as they watch them. This is effective in building your YouTube audience.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## Always use a good mic
 
 When adding voiceover or narration to your project, be sure to use a good USB microphone. A good quality sound will elevate your entire project and just requires a little planning.
@@ -88,6 +105,9 @@ When adding voiceover or narration to your project, be sure to use a good USB mi
 
 Also, be sure to check that your external microphone is selected when you start recording. There's nothing worse than nailing the perfect narration and realizing it was recorded with the built-in mic, not your USB microphone.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Should you use narration in your next project?
 
 The best way to learn something is by doing it. So the next time you record a video, think about how you could augment your video project with narration.
@@ -126,3 +146,29 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-4k-monitor-buying-guide-how-to-choose-the-right-monitor/"><u>[New] 4K Monitor Buying Guide  How to Choose the Right Monitor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-complete-review-of-the-latest-slomo-capture-application/"><u>[New] Complete Review of the Latest SloMo Capture Application</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-9gag-the-ultimate-resource-for-memetic-innovation/"><u>[Updated] 9GAG  The Ultimate Resource for Memetic Innovation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-an-anthology-of-admiration-highlighting-top-10-reddit-threads/"><u>2024 Approved  An Anthology of Admiration  Highlighting Top 10 Reddit Threads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-craft-a-chic-google-collage-in-minutes-not-hours/"><u>2024 Approved  Craft a Chic Google Collage in Minutes, Not Hours</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-video-making-smartphones-announced-here/"><u>Best Video-Making Smartphones Announced Here</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/blending-photography-and-sonic-artistry/"><u>Blending Photography & Sonic Artistry</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/budget-enthusiasts-choices-the-right-gopro-add-ons-for-newbies-for-2024/"><u>Budget Enthusiasts Choices  The Right GoPro Add-Ons for Newbies for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/build-a-facebook-image-tapestry-fast-for-2024/"><u>Build a Facebook Image Tapestry Fast for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exclusive-access-to-best-ae-templates/"><u>Exclusive Access to Best AE Templates</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comparative-analysis-of-ar-stickers-focusing-on-google/"><u>In 2024, Comparative Analysis of AR Stickers, Focusing on Google</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/key-websites-to-amplify-your-youtube-presence/"><u>Key Websites to Amplify Your YouTube Presence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/kinemasters-ultimate-green-screen-implementation-techniques/"><u>Kinemaster's Ultimate Green Screen Implementation Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/masterful-zoom-techniques-simple-iphone-solutions/"><u>Masterful Zoom Techniques  Simple iPhone Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/next-gen-odyssey-explore-the-best-of-windows-10s-apps-and-games/"><u>Next-Gen Odyssey  Explore the Best of Windows 10'S Apps & Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfecting-package-adventure-for-all/"><u>Perfecting Package Adventure for All</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pro-tips-for-crafting-and-sharing-content-on-reddit/"><u>Pro Tips for Crafting & Sharing Content on Reddit</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-illustrators-journey-navigating-for-success-in-designing/"><u>The Illustrator's Journey  Navigating for Success in Designing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-adding-a-link-in-your-tiktok-bio/"><u>The Ultimate Guide to Adding a Link in Your TikTok Bio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-implementing-podcast-seo/"><u>The Ultimate Guide to Implementing Podcast SEO</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/video-storage-assessment-for-128gb-drives/"><u>Video Storage Assessment for 128GB Drives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vr-shopping-experience-optimization/"><u>VR Shopping Experience Optimization</u></a></li>
+</ul></div>

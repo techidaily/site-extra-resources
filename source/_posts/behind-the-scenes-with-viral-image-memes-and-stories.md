@@ -1,7 +1,7 @@
 ---
 title: "Behind the Scenes with Viral Image Memes & Stories"
-date: 2024-05-24T05:43:55.301Z
-updated: 2024-05-25T05:43:55.301Z
+date: 2024-07-25T05:43:46.050Z
+updated: 2024-07-26T05:43:46.050Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Behind the Scenes with Viral Image Memes & Stories"
 excerpt: "This Article Describes Behind the Scenes with Viral Image Memes & Stories"
 keywords: "\"Behind-the-Scenes Meme Insights,Meme Culture Deep Dive,Viral Images Unveiled,Stories in Viral Memes,Meme Creation Process,Behind the Meme Scene,Stories of Viral Photos\""
-thumbnail: https://www.lifewire.com/thmb/gOgqwLvt0rf3-WdwEBSByMeqIHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1353420724-65161751b9924195880d3273e327cb54.jpg
+thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc6fdf0b1b999475eb2576da4.jpg
 ---
 
 ## Behind the Scenes with Viral Image Memes & Stories
@@ -22,6 +22,9 @@ A stock photo meme is an image or video you use to communicate a specific idea. 
 
 So, what are the most popular stock photo memes, and how did they reach this status? Keep reading to find out more.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## Part1: Hide the Pain Harold
 
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
@@ -43,10 +46,16 @@ According to Andras, Hide the Pain Harold results from his vacation in Turkey. A
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part2: Distracted Boyfriend
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![distracted boyfriend](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-4.jpg)
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
@@ -68,8 +77,14 @@ The latest version of Distracted boyfriend is a compilation of photos featuring 
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part3: I Bet He's Thinking About Other Women
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
 
 The meme features a couple in bed with the stock photo meme guy in contemplation and the woman facing him with a concerned look. At first glance, the image shows a couple experiencing relationship problems, with the original caption showing the woman worrying that the man is thinking about other women.
@@ -82,6 +97,9 @@ A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In
 
 * Redditor GallowBoob received 34,700 points and 350 comments within 24 hours of posting it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
 
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
@@ -90,10 +108,16 @@ The post references the Toy Story character Buzz Lightyear, with the man contemp
 
 According to sources, the stock photo meme was first featured on Twitter in December 2016.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part4: Bonjour Bear
 
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
@@ -104,6 +128,9 @@ Since then, internet users have continued to use the Bonjour Bear meme to refere
 
 * In this version, Bonjour Bear reacts to the discovery of a wound after using hand sanitizer. The post became popular during the COVID-19 pandemic when using hand sanitizer was at its peak.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![using hand sanitizer](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-12.jpg)
 
 In addition, the post received over 91,700 points, with 95% of upvotes, within a day on Reddit.
@@ -121,6 +148,9 @@ Yes, you can use stock photos for memes. However, you need to obtain them from r
 
 This is because not all stock photo providers offer their images with a creative commons license. For example, the Unsplash license allows you to use their stock images for personal or commercial use after making adjustments to the original.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Does copyright law protect memes?
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
@@ -161,3 +191,41 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-10-prime-free-images-hosts-ensure-picture-longevity/"><u>[New] 10 Prime Free Images Hosts, Ensure Picture Longevity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-adobes-shake-mitigation-in-photoshop-worth-it/"><u>[Updated] Adobe's Shake Mitigation in Photoshop, Worth It?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-audiovisual-appeal-essential-tips-for-podcast-logos/"><u>[Updated] Audiovisual Appeal  Essential Tips for Podcast Logos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-audiovisual-transition-mastery-in-adobe-premiere/"><u>[Updated] Audiovisual Transition Mastery in Adobe Premiere</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-balancing-intense-beats-with-fl-studios-easeful-dimming/"><u>[Updated] Balancing Intense Beats with FL Studio's Easeful Dimming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-video-zoom-editors-of-the-year-roundup/"><u>[Updated] Best Video Zoom Editors of the Year - Roundup</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-chuckle-chronicles-celebratory-gems-for-each-occasion/"><u>[Updated] Chuckle Chronicles  Celebratory Gems for Each Occasion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-androids-best-free-mp3-extraction-tools/"><u>2024 Approved  Android's Best Free MP3 Extraction Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-annual-salary-details-for-streaming-sensation-pewdiepie/"><u>2024 Approved  Annual Salary Details for Streaming Sensation PewDiePie</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beginners-guide-to-perfecting-gopro-footage/"><u>2024 Approved  Beginner's Guide to Perfecting GoPro Footage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-benchmark-analysis-djis-drone-phantom-3/"><u>2024 Approved  Benchmark Analysis  DJI's Drone Phantom 3</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-practices-for-writing-captivating-episode-summaries/"><u>2024 Approved  Best Practices for Writing Captivating Episode Summaries</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-chromebooks-finest-drawing-software-compared/"><u>2024 Approved  Chromebook's Finest Drawing Software Compared</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/5-low-cost-drones-maximum-performance-on-a-shoestring/"><u>5 Low-Cost Drones  Maximum Performance on a Shoestring</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-guide-to-excellence-full-screen-preview-in-premiere/"><u>Advanced Guide to Excellence  Full Screen Preview in Premiere</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/android-gallery-upload-on-iphone-device-for-2024/"><u>Android Gallery Upload on iPhone Device for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-moments-access-the-worlds-best-12-livestreams/"><u>Capture Moments  Access the World's Best 12 Livestreams</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/circles-vs-cubes-unraveling-camera-types-for-2024/"><u>Circles vs Cubes  Unraveling Camera Types for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dji-spark-and-you-a-comprehensive-review-of-portable-aerial-tech/"><u>DJI Spark and You  A Comprehensive Review of Portable Aerial Tech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dynamic-dialogues-animated-text-for-instagram-storytellers/"><u>Dynamic Dialogues  Animated Text for Instagram Storytellers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-record-with-flair-on-windows-10/"><u>How to Record with Flair on Windows 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/implementing-seamless-audio-diminishment/"><u>Implementing Seamless Audio Diminishment</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-practices-for-advanced-ae-plug-ins/"><u>In 2024, Best Practices for Advanced AE Plug-Ins</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ios-android-unite-how-to-download-and-make-your-own-whatsapp-tones/"><u>IOS, Android Unite  How to Download and Make Your Own WhatsApp Tones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphones-and-gifs-perfecting-your-visual-playlist/"><u>IPhones & GIFs  Perfecting Your Visual Playlist</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-a-standout-linkedin-profile/"><u>Mastering a Standout LinkedIn Profile</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-through-premium-hdr-camera-options/"><u>Navigating Through Premium HDR Camera Options</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/newcomers-elite-entryway-list-for-zooids/"><u>Newcomers’ Elite Entryway List for Zooids</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/rapid-file-transformation-from-srt-to-text-in-minutes/"><u>Rapid File Transformation  From SRT to Text in Minutes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sharpen-your-skills-with-these-essential-pixlr-tips/"><u>Sharpen Your Skills with These Essential Pixlr Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/steps-for-gradual-audio-dimming-with-lumafusion/"><u>Steps for Gradual Audio Dimming with Lumafusion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-solo-art-of-personalized-instagram-ringtone-making/"><u>The Solo Art of Personalized Instagram Ringtone Making</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-theta-s-a-full-camera-review/"><u>Unveiling Theta S  A Full Camera Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/zero-fee-techniques-for-vibrant-video-text-effects/"><u>Zero-Fee Techniques for Vibrant Video Text Effects</u></a></li>
+</ul></div>

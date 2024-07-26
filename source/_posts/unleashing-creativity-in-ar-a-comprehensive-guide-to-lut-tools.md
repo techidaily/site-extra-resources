@@ -1,7 +1,7 @@
 ---
 title: "\"Unleashing Creativity in AR  A Comprehensive Guide to LUT Tools\""
-date: 2024-06-19T13:57:49.504Z
-updated: 2024-06-20T13:57:49.504Z
+date: 2024-07-25T01:46:50.290Z
+updated: 2024-07-26T01:46:50.290Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,9 @@ To develop AR effects for mobile cameras, you can use the Mac and Windows augmen
 
 ![create a color gradient effect](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. How to use LUTs in Spark AR?
 
 **How to apply a color LUT to the whole scene in Spark AR:**
@@ -46,12 +49,19 @@ When you import a color LUT, compression is always set to None, and filtering is
 
 A patch graph is automatically set that applies a color LUT to the entire scene.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![apply to the whole scene](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-2.jpg)
 
 **The color LUT patch graph**
 
 The patch graph that renders the color gradation effect looks like this:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![color lut patch graph](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-3.jpg)
 
 **To create the effect:**
@@ -60,10 +70,16 @@ The patch graph that renders the color gradation effect looks like this:
 * ColorLUTShader looks up the RGBA values of this texture in the Tension color LUT array and converts them to a new green color. This will change the texture and create a gradient effect.
 * Finally, the Screen Output patch renders the green color.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Free LUTs resource for Spark AR
 
 Here are the best free LUTs resources for Spark AR:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Frost Zombie (Technical Showcase)
 
 Client filter pieces occasionally end up on the scrap heap. It was a poor Frost Zombie in this instance. Since this is one of my simpler filters, I felt it was okay to publish the build information. Four objects make up much of the scene: an EyeColor block, a custom canvas segmentation, a face mesh, and an emitter for the breath mist (my personal favorite). To show the layers used in generating the primary zombie texture, I also moved to Substance Painter. This is a demonstration of my methods rather than a step-by-step manual.
@@ -89,12 +105,21 @@ Even while using large image sequences is frequently discouraged, you can still 
 
 ![shockwave](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Transition Curves
 
 There are 11 distinct animation curves included with Spark AR in the Transition patch. Here is a helpful visual aid because it might be challenging to distinguish between a quartic and a quintic when working on a project. With the SDF circle doubled (to sharpen the edge) and inserted into the Patch Pack's alpha channel, the circles are likewise straightforward rectangles. Since RGB values are three times one, the object is white.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![transition curves](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Realistic Smoke
 
 By adding smoke to a scene, you can easily add a lot of detail and realism. Nothing revolutionary is happening here. The particle emitter creates flat planes of smoke texture that are forced upward. The force slowly shifts left and right as seen in the patch editor. The Fade particle script (created by Josh Beckwith) enlarges the particles and fades them out at the same time.
@@ -105,6 +130,9 @@ By adding smoke to a scene, you can easily add a lot of detail and realism. Noth
 
 Given how beautifully Glitter Rain was received, I believed it would be fitting to broaden the potential with an HDR setting. While Glitter Rain made use of two different colors, this technique makes use of an entirely colorless substance and gets its color information via HDR.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![rainbow glitter](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-9.jpg)
 
 ### Closing Thoughts
@@ -141,3 +169,26 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-complete-body-movement-report-2023/"><u>[New] Complete Body Movement Report 2023</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-compelling-podcast-intro-videos/"><u>[New] Crafting Compelling Podcast Intro Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-step-by-step-approach-to-lut-application-in-ae/"><u>[Updated] A Step-by-Step Approach to LUT Application in AE</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-breaking-down-virtual-realitys-mechanics/"><u>[Updated] Breaking Down Virtual Reality's Mechanics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-unlicensed-sounds-to-help-you-reach-zen-state-for-2024/"><u>10 Unlicensed Sounds to Help You Reach Zen State for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-access-your-screen-star-downloadable-rights/"><u>2024 Approved  Access Your Screen Star  Downloadable Rights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-authoritative-guide-to-premium-auto-camera-tech/"><u>2024 Approved  Authoritative Guide to Premium Auto Camera Tech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-create-your-own-whatsapp-ringtone-a-comprehensive-guide-to-ios-and-android/"><u>2024 Approved  Create Your Own WhatsApp Ringtone - A Comprehensive Guide to iOS & Android</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-stepwise-journey-through-the-world-of-professional-srt-creation-for-2024/"><u>A Stepwise Journey Through the World of Professional SRT Creation for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/accelerate-your-file-changing-game-srt-to-txt-in-a-flash-for-2024/"><u>Accelerate Your File Changing Game  SRT to TXT in a Flash for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoiding-the-overflow-how-to-edit-your-pile-up-of-tiktok-drafts/"><u>Avoiding the Overflow  How to Edit Your Pile-Up of TikTok Drafts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/building-your-signature-solo-podcast-series-for-2024/"><u>Building Your Signature Solo Podcast Series for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/curated-list-premium-android-collage-apps/"><u>Curated List  Premium Android Collage Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-the-fine-print-accurate-and-simple-zooming-methods/"><u>Discover the Fine Print  Accurate and Simple Zooming Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/free-windows-10-recorder-tools-a-comprehensive-updated-guide/"><u>Free Windows 10 Recorder Tools  A Comprehensive, Updated Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/journey-to-downloadability-free-photo-frames-on-demand/"><u>Journey to Downloadability  Free Photo Frames on Demand</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sound-brilliance-for-podcasters-top-10-microphones/"><u>Sound Brilliance for Podcasters  Top 10 Microphones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-list-best-7-camcorders-for-waterproof-use/"><u>The Ultimate List  Best 7 Camcorders for Waterproof Use</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unseen-approaches-to-bypass-online-educational-content/"><u>Unseen Approaches to Bypass Online Educational Content</u></a></li>
+</ul></div>

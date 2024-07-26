@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Adding Depth with 3D Text in Photoshop Workflows\""
-date: 2024-05-24T05:12:55.118Z
-updated: 2024-05-25T05:12:55.118Z
+date: 2024-07-25T04:46:10.871Z
+updated: 2024-07-26T04:46:10.871Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Adding Depth with 3D Text in Photoshop Workflows\""
 excerpt: "\"This Article Describes 2024 Approved: Adding Depth with 3D Text in Photoshop Workflows\""
 keywords: "\"SDR to HD,High-Def Upgrade,From SDR to HD,HDR Innovation,Next-Gen Editing,Enhanced Video Workflows,Advanced HDR Editing\""
-thumbnail: https://www.lifewire.com/thmb/cg-pvlQ-M_jrTyGYcdlhXW_MCvc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/inside-impero-cinema--central-region--asmara--eritrea----1174900385-f49e10d112a6451c89a8310bdb0ecc4e.jpg
+thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242da2e6ee8d5c9aeccc24af52d.jpg
 ---
 
 ## Adding Depth with 3D Text in Photoshop Workflows
@@ -28,6 +28,10 @@ Photoshop is not the easiest image editing software to use. It can get really co
 
 Step1 Open up Adobe Photoshop and create a New Document. Then, edit the document settings like this.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![new document photoshop](https://images.wondershare.com/filmora/article-images/new-adobe-photoshop.png)
 
 Step2 Select the **Type** tool and choose a color of your liking. Then, click anywhere on the blank canvas and type in your word.
@@ -36,6 +40,18 @@ Step2 Select the **Type** tool and choose a color of your liking. Then, click an
 
 Step3 Now, locate the **Layers** panel at the bottom-right corner of the screen. Click on **Layers** **→ right-click on your Text layer → select "New 3D Extrusion from Selected Layer".** Then, just click **Yes** on the new window that pops up.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![three d layer](https://images.wondershare.com/filmora/article-images/layer-adobe-photoshop.png)
 
 Step4 You are now editing in the 3D Workspace inside Photoshop. Here is where we will create the 3D text effect. First, click on the **Layers** panel **→ right-click on "Background" →** select **"Postcard".**
@@ -54,18 +70,30 @@ Step7 The next thing you need to do is add a light source. To do this, go back t
 
 Step8 You can now go to the Properties panel to adjust the 3D effects and light source effects even further. When you are done, simply click this highlighted button to render your creation.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![render three d text](https://images.wondershare.com/filmora/article-images/render-adobe-photoshop.png)
 
 Step9 We're almost done. The next step is to go back to the **Layers** tab → right-click on the **Background** layer → click on **"Convert to Smart Object".**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![convert to smart object](https://images.wondershare.com/filmora/article-images/convert-adobe-photoshop.png)
 
 Step10 Finally, from the upper-right corner drop-down button, select **Essentials**.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![convert back](https://images.wondershare.com/filmora/article-images/essentials-adobe-photoshop.png)
 
 There you have it. You can now export your 3D text image from Photoshop and you're done. Congratulations on learning how to make a 3D text effect in Photoshop.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## An Easier Way to Create a 3D Text Effect or Animation
 
 As we mentioned, Photoshop may get challenging to use, especially for complete beginners. What if there was an easier tool you can use and still get the same high-quality and professional-grade results?
@@ -78,12 +106,18 @@ There is. It's called [Filmora](https://tools.techidaily.com/wondershare/filmora
 
 Compared to Photoshop, Filmora is not only easier to use, but it's significantly more affordable as well. With that said, let's find out how you can create a 3D text effect in Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Make a 3D Text Effect in Filmora
 
 The steps are extremely simple. Just follow each exactly as you see it here and you will be done in no more than 5 minutes.
 
 Step1 First, you should download Filmora and install the program on your computer. Then, launch it and click on **New Project**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![open new project filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 Step2 Import a background video or image by going to **My Media** and selecting **Import Media.** From here, select any clip or image you want and hit **Open.** When it's imported, simply drag the clip to the Timeline below.
@@ -100,6 +134,9 @@ Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its set
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Creating 3D text with Photoshop is a good idea if you already know how to use the tool. If not, it's always smarter to use a simpler alternative that's much easier to use. As long as you get the same professional results, there's no reason not to use Filmora. In fact, there are many more benefits than drawbacks.
@@ -114,10 +151,16 @@ The steps are extremely simple. Just follow each exactly as you see it here and 
 
 Step1 First, you should download Filmora and install the program on your computer. Then, launch it and click on **New Project**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![open new project filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 Step2 Import a background video or image by going to **My Media** and selecting **Import Media.** From here, select any clip or image you want and hit **Open.** When it's imported, simply drag the clip to the Timeline below.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![import media files filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 Step3 Next, head over to **Titles** and search for "3D". Select any option you like and drag it to the Timeline, above your background clip.
@@ -158,3 +201,32 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-achromatic-no-more-blades-leap-to-ultra-hd-clarity/"><u>[New] Achromatic No More  Blade's Leap to Ultra-HD Clarity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-excellent-canon-temp-video-series/"><u>[New] Crafting Excellent Canon Temp Video Series</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-adding-music-to-photo-online/"><u>[Updated] Adding Music to Photo Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-aerial-capture-face-off-dji-mavic-2-vs-hero6-black/"><u>[Updated] Aerial Capture Face-Off  DJi Mavic 2 vs Hero6 Black</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-becoming-a-photo-wizard-expert-techniques-for-utilizing-photoshops-background-eraser-tool/"><u>[Updated] Becoming a Photo Wizard  Expert Techniques for Utilizing Photoshop's Background Eraser Tool</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-building-effective-podcast-rss-feeds/"><u>[Updated] Building Effective Podcast RSS Feeds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-choose-the-best-mac-livestream-software-today/"><u>[Updated] Choose the Best Mac Livestream Software Today</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-contrast-and-composition-theory-in-design/"><u>[Updated] Contrast and Composition  Theory in Design</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comparative-analysis-64-vs-128gb-video-holding-power/"><u>2024 Approved  Comparative Analysis  64 vs 128GB Video Holding Power</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensible-appraisal-gopro-slr4-silver-feature-report/"><u>2024 Approved  Comprehensible Appraisal  GoPro SLR4 Silver Feature Report</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/achieving-stable-images-in-action-cams-unsteady-world-for-2024/"><u>Achieving Stable Images in Action Cam's Unsteady World for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/benchmark-of-best-4k-youtube-to-mp3-video-processors/"><u>Benchmark of Best 4K YouTube to MP3 Video Processors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-practices-top-5-audio-recording-approaches-on-windows-11-platform-for-2024/"><u>Best Practices  Top 5 Audio Recording Approaches on Windows 11 Platform for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/entering-the-metaverse-discovering-6-rich-examples/"><u>Entering the Metaverse  Discovering 6 Rich Examples</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hands-on-with-hp-envy-27-pushing-screen-tech-to-limits/"><u>Hands-On with HP Envy 27  Pushing Screen Tech to Limits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hit-top-rank-firstrow-pursuits-outside-sports/"><u>Hit Top Rank  Firstrow Pursuits Outside Sports</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-beyond-beats-8-free-mp3-downloaders-transforming-android-into-a-spiritual-haven/"><u>In 2024, Beyond Beats  8 Free MP3 Downloaders Transforming Android Into a Spiritual Haven</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovating-color-grading-with-new-lut-techniques/"><u>Innovating Color Grading with New LUT Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/major-firstrow-pursuits-that-arent-games/"><u>Major Firstrow Pursuits That Aren't Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/master-the-art-of-radial-filtering-with-photoshop/"><u>Master the Art of Radial Filtering with Photoshop</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/popular-photos-the-backstory/"><u>Popular Photos  The Backstory</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/skew-it-right-a-step-by-step-guide-for-photo-warping/"><u>Skew It Right  A Step-by-Step Guide for Photo Warping</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essence-of-style-in-ae-title-design/"><u>The Essence of Style in AE Title Design</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-20-zero-cost-pubg-visual-anthologies/"><u>Top 20 Zero-Cost PUBG Visual Anthologies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-free-software-selection-8-advanced-low-cost-3d-vids-plugins/"><u>Top Free Software Selection  8 Advanced, Low-Cost 3D Vids Plugins</u></a></li>
+</ul></div>

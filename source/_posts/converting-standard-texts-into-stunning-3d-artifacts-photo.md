@@ -1,7 +1,7 @@
 ---
 title: "Converting Standard Texts Into Stunning 3D Artifacts PHOTO"
-date: 2024-05-24T04:18:47.184Z
-updated: 2024-05-25T04:18:47.184Z
+date: 2024-07-25T03:02:50.029Z
+updated: 2024-07-26T03:02:50.029Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Converting Standard Texts Into Stunning 3D Artifacts PHOTO"
 excerpt: "This Article Describes Converting Standard Texts Into Stunning 3D Artifacts PHOTO"
 keywords: "\"Movie From Photo Best Practices,Optimal Photo-To-Movie Methods,Premier Photography Video Techniques,Effective Photo Conversion to Film,Top Tips For Photos To Movies,Ideal Photo Transferring Processes,Standard Practices for Image-Based Videos\""
-thumbnail: https://www.lifewire.com/thmb/lhbJJfx9jw73NRKSxIbXOun2DPw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Tim-Cook-Apple-Event-d66973a623fa430baa705c97ec37efc2.jpg
+thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a44316e750df20403e0686bc2309.jpg
 ---
 
 ## Converting Standard Texts Into Stunning 3D Artifacts PHOTO
@@ -22,12 +22,18 @@ It's three times better than regular text. A 3D text looks more professional, mo
 
 Then, you'll learn about an alternative method that's actually much easier. It may not be as popular as Photoshop but you will be surprised by the professional results even a beginner can achieve with this.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Create a 3D Text Effect in Adobe Photoshop
 
 Photoshop is not the easiest image editing software to use. It can get really complex, really fast. But, with this, all you have to do is follow our steps. We'll try to make it as straightforward as possible.
 
 Step1 Open up Adobe Photoshop and create a New Document. Then, edit the document settings like this.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![new document photoshop](https://images.wondershare.com/filmora/article-images/new-adobe-photoshop.png)
 
 Step2 Select the **Type** tool and choose a color of your liking. Then, click anywhere on the blank canvas and type in your word.
@@ -40,28 +46,46 @@ Step3 Now, locate the **Layers** panel at the bottom-right corner of the screen.
 
 Step4 You are now editing in the 3D Workspace inside Photoshop. Here is where we will create the 3D text effect. First, click on the **Layers** panel **→ right-click on "Background" →** select **"Postcard".**
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit background](https://images.wondershare.com/filmora/article-images/postcard-adobe-photoshop.png)
 
 Step5 Now, without touching anything else, hold on to the **SHIFT** key and click on your text layer. This will select the text and background layer at the same time. Then, just hold on **CTRL + E / Cmnd + E**. This will merge the two layers.
 
 Step6 Next, go to the 3D panel. Here, simply click on your Text layer. Then, from the **Properties** panel above, select a **Shape Preset** to be applied to your current text.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![properties](https://images.wondershare.com/filmora/article-images/preset-adobe-photoshop.png)
 
 Step7 The next thing you need to do is add a light source. To do this, go back to the **3D Panel →** click on the **Lightbulb** button at the bottom **→** select **"New Infinite Light"**. Then, you can drag the circle in the middle of the text to set the direction of the light source.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![add light source photoshop](https://images.wondershare.com/filmora/article-images/light-adobe-photoshop.png)
 
 Step8 You can now go to the Properties panel to adjust the 3D effects and light source effects even further. When you are done, simply click this highlighted button to render your creation.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![render three d text](https://images.wondershare.com/filmora/article-images/render-adobe-photoshop.png)
 
 Step9 We're almost done. The next step is to go back to the **Layers** tab → right-click on the **Background** layer → click on **"Convert to Smart Object".**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![convert to smart object](https://images.wondershare.com/filmora/article-images/convert-adobe-photoshop.png)
 
 Step10 Finally, from the upper-right corner drop-down button, select **Essentials**.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![convert back](https://images.wondershare.com/filmora/article-images/essentials-adobe-photoshop.png)
 
 There you have it. You can now export your 3D text image from Photoshop and you're done. Congratulations on learning how to make a 3D text effect in Photoshop.
@@ -96,10 +120,16 @@ Step3 Next, head over to **Titles** and search for "3D". Select any option you l
 
 Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its settings. Type in your custom text, change its font, color, and other features.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Creating 3D text with Photoshop is a good idea if you already know how to use the tool. If not, it's always smarter to use a simpler alternative that's much easier to use. As long as you get the same professional results, there's no reason not to use Filmora. In fact, there are many more benefits than drawbacks.
@@ -130,6 +160,9 @@ Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its set
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Creating 3D text with Photoshop is a good idea if you already know how to use the tool. If not, it's always smarter to use a simpler alternative that's much easier to use. As long as you get the same professional results, there's no reason not to use Filmora. In fact, there are many more benefits than drawbacks.
@@ -158,3 +191,31 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-a-new-dimension-understanding-the-innovations-in-hp-envy-27-monitor/"><u>[New] A New Dimension  Understanding the Innovations in HP Envy 27 Monitor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-alternatives-to-googles-ar-interactive-graphics/"><u>[New] Alternatives to Google's AR Interactive Graphics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-avoiding-virtual-reality-nausea-tips-and-tricks/"><u>[New] Avoiding Virtual Reality Nausea  Tips and Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-balance-your-shots-best-camera-stabilizers-reviewed/"><u>[New] Balance Your Shots  Best Camera Stabilizers Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-creating-captivating-podcast-launch-screens/"><u>[New] Creating Captivating Podcast Launch Screens</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-apples-m1-processor-showdown-m1-pro-versus-m1-max-differences/"><u>[Updated] Apple’s M1 Processor Showdown  M1 Pro versus M1 Max Differences</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-5-simple-steps-to-quickly-improve-your-filmmaking-skills/"><u>2024 Approved  5 Simple Steps to Quickly Improve Your Filmmaking Skills</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-century-of-sparks-the-10-most-voted-on-reddit-posts/"><u>2024 Approved  A Century of Sparks  The 10 Most Voted on Reddit Posts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a6400s-visual-void-finding-video-fix/"><u>A6400's Visual Void - Finding Video Fix</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-techniques-for-360-video-editing-in-premiere/"><u>Advanced Techniques for 360° Video Editing in Premiere</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/assessing-streaming-quality-vlc-versus-mx-for-2024/"><u>Assessing Streaming Quality  VLC versus MX for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/basic-story-blueprint/"><u>Basic Story Blueprint</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-visual-storytelling-with-premiere-text-styles/"><u>Enhancing Visual Storytelling with Premiere Text Styles</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-cine-gear-for-every-aspiring-filmmaker/"><u>Essential Cine Gear for Every Aspiring Filmmaker</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fast-track-fps-the-ultimate-speedy-extension-guide/"><u>Fast-Track FPS  The Ultimate Speedy Extension Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gag-galore-a-treasury-of-no-cost-memes/"><u>Gag Galore  A Treasury of No-Cost Memes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-in-class-steadicam-equipment-for-drone-cinematography/"><u>In 2024, Best-in-Class Steadicam Equipment for Drone Cinematography</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastery-over-light-and-shadow-with-hdr-software/"><u>Mastery Over Light and Shadow with HDR Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/on-the-spot-aspect-ratio-switcheroo-tips/"><u>On-the-Spot Aspect Ratio Switcheroo Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/picmetamorphosis-techniques-for-shape-alteration/"><u>PicMetamorphosis  Techniques for Shape Alteration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/primeworldplus-local-complete-tv-content-at-fingertips/"><u>PrimeWorld+ Local  Complete TV Content at Fingertips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-fixes-to-keep-your-photos-app-fixed-on-win-11/"><u>Quick Fixes to Keep Your Photos App Fixed on Win 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seamless-listening-the-ipodcast-guidebook/"><u>Seamless Listening  The iPodcast Guidebook</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-combo-guide-zooming-into-facebook-streaming/"><u>The Ultimate Combo Guide  Zooming Into Facebook Streaming</u></a></li>
+</ul></div>

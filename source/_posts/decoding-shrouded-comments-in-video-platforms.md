@@ -1,7 +1,7 @@
 ---
 title: "Decoding Shrouded Comments in Video Platforms"
-date: 2024-05-24T04:01:57.530Z
-updated: 2024-05-25T04:01:57.530Z
+date: 2024-07-25T02:22:36.343Z
+updated: 2024-07-26T02:22:36.343Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Decoding Shrouded Comments in Video Platforms"
 excerpt: "This Article Describes Decoding Shrouded Comments in Video Platforms"
 keywords: "Video Platform Comments Analysis,Hidden Comment Decoding Video,Comment Encryption Cracking,Insider Comment Understanding,Deciphering Obscured Video Comments,Uncovering Veiled Video Talks,Interpreting Hidden Video Feedback"
-thumbnail: https://www.lifewire.com/thmb/lNAkScrvsB-R9SwnwBvh3Xg6SRU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/changing-default-document-formatting-google-docs-3540182-abec927a42574f869d293a125c23b780.png
+thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522af39269117f83ccabe84316f.png
 ---
 
 ## Decoding Shrouded Comments in Video Platforms
@@ -63,6 +63,10 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 ## How to See Liked Comments on YouTube?
@@ -81,6 +85,11 @@ But, if you want to retrace the videos you commented on and the videos/comments 
 
 Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
 Step2 Scroll down a little bit and click the **More** button.
@@ -99,6 +108,10 @@ To see videos/comments you liked or disliked, please follow these steps as conti
 
 Step4 In the **Google My Activity** tab, click **Other activity**.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![other activity youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/other-activity-youtube-comments.jpg)
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
@@ -163,6 +176,9 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 ## How to See Liked Comments on YouTube?
@@ -181,32 +197,54 @@ But, if you want to retrace the videos you commented on and the videos/comments 
 
 Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
 Step2 Scroll down a little bit and click the **More** button.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
 Step3 Click the **Comments** section.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
 
 To see videos/comments you liked or disliked, please follow these steps as continuation:
 
 Step4 In the **Google My Activity** tab, click **Other activity**.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![other activity youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/other-activity-youtube-comments.jpg)
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![your comment likes and dislikes](https://images.wondershare.com/filmora/article-images/2022/11/your-comment-likes-and-dislikes.jpg)
 
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
@@ -215,6 +253,9 @@ This article tells you that you can't see who liked or disliked a comment, but y
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -285,3 +326,31 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-a-step-by-step-guide-to-gopro-time-lapse-mastery/"><u>[New] A Step-by-Step Guide to GoPro Time-Lapse Mastery</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-assessing-different-versions-available-for-windows-movie-maker/"><u>[New] Assessing Different Versions Available for Windows Movie Maker</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-bringing-vision-to-life-the-art-of-post-color-enhancement/"><u>[New] Bringing Vision to Life  The Art of Post-Color Enhancement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comparing-digital-universes-meta-to-omni/"><u>[New] Comparing Digital Universes  Meta to Omni</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-4k-gimbal-picks-top-ten-mirrorless-companions/"><u>[Updated] 4K Gimbal Picks  Top Ten Mirrorless Companions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-photo-and-video-display-apps-from-ix-to-ios12/"><u>[Updated] Best Photo & Video Display Apps From IX to IOS12</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-clearer-photos-with-blur-effects-apps/"><u>[Updated] Clearer Photos with Blur Effects Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-compreenhensive-review-djis-new-drone-the-inspire-1/"><u>[Updated] Compreenhensive Review  DJI's New Drone, The Inspire 1</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-android-guide-for-backward-video-display/"><u>2024 Approved  Android Guide for Backward Video Display</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/acclaimed-cameras-for-expert-automotive-tracking-for-2024/"><u>Acclaimed Cameras for Expert Automotive Tracking for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/android-and-lightroom-review-a-full-examination/"><u>Android & Lightroom Review  A Full Examination</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/becoming-a-greenscreen-specialist-in-kinemasters-vfx-realm-for-2024/"><u>Becoming a Greenscreen Specialist in KineMaster's VFX Realm for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cloud-consortium-choices-best-spaces-revealed-for-2024/"><u>Cloud Consortium Choices  Best Spaces Revealed for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-techniques-for-youtube-photo-submissions/"><u>Essential Techniques for YouTube Photo Submissions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harness-the-power-of-gopro-for-captivating-time-lapse-videos/"><u>Harness the Power of GoPro for Captivating Time-Lapse Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/minimalist-approach-to-podcast-livestream/"><u>Minimalist Approach to Podcast Livestream</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/picture-posters-best-frame-enhancing-software-recommendations/"><u>Picture Posters  Best Frame-Enhancing Software Recommendations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premier-5-ios-backdrop-change-applications-for-iphones-x-8-7/"><u>Premier 5 iOS Backdrop Change Applications for iPhones (X, 8, 7)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premium-scenery-selections-for-streams/"><u>Premium Scenery Selections for Streams</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-viewer-iosandroidwindows-compatible/"><u>Prime Viewer  IOS/Android/Windows Compatible</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-guide-applying-on-screen-captions-to-photos-videos/"><u>Quick Guide  Applying On-Screen Captions to Photos Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-full-screen-preview-tutorials/"><u>Step-by-Step  Full Screen Preview Tutorials</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-places-to-find-music-for-podcast-intro/"><u>Top 10 Places to Find Music for Podcast Intro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-best-phones-for-your-gear-vr-experience/"><u>Unveiling the Best Phones for Your Gear VR Experience</u></a></li>
+</ul></div>

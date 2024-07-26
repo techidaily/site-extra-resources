@@ -1,7 +1,7 @@
 ---
 title: "Embellishing Visual Narratives with Fonts in AE"
-date: 2024-05-24T05:02:47.106Z
-updated: 2024-05-25T05:02:47.106Z
+date: 2024-07-25T04:27:11.354Z
+updated: 2024-07-26T04:27:11.354Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Embellishing Visual Narratives with Fonts in AE"
 excerpt: "This Article Describes Embellishing Visual Narratives with Fonts in AE"
 keywords: "Font Storytelling,Creative Typography,Visual Textual Art,Typeface Design,Font Narrative Techniques,Embellished Fonts,Aesthetic Typography"
-thumbnail: https://www.lifewire.com/thmb/zjPjlWJTSL68ZSlBHgpVNVEF0Y0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-disk-partition-software-tools-2624950-fad3ccc557d34ed89d53eff7538f5fdb.png
+thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e53299073754d2c1fe5d922072f.png
 ---
 
 ## Embellishing Visual Narratives with Fonts in AE
@@ -22,6 +22,9 @@ With the high demand for video consumption across the world, video editing has b
 
 After Effects is one of the most promising video editing applications available in the market. It facilitates its users with many editing features. One of such major functions of After Effects is it provides different fonts and text effects to its users. Here's a guide on **how to add fonts to After Effects**:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## Part 1\. How to add fonts to After Effects?
 
 Adding fonts to any video editor is a crucial part because texts add a story to the video projects. They have a great impact on the cinematic quality of any video. For informative videos, the style of font decides the tone in which the texts are displayed.
@@ -34,10 +37,16 @@ Thus, selecting a proper font for the video becomes necessary in the post-produc
 
 * This will direct you to the official website of Adobe Fonts where you can enable the fonts for your After Effects application. Once you are done with that click on the "Browse Fonts" and then in the opened tab, you will see a variety of fonts with their specified categories.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![browse fonts adobe](https://images.wondershare.com/filmora/article-images/2022/07/browse-fonts-adobe.jpg)
 
 * These fonts are classified according to several attributes such as weight, height, and contrast and are created by certified typographers. Once you have found any font that you like, click on the "Activate" button and the theme will be installed on your Adobe After Effects.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![activitate all fonts after effects](https://images.wondershare.com/filmora/article-images/2022/07/activitate-all-fonts-after-effects.jpg)
 
 * Now keep the Creative Cloud application up and running in your system and then open your After Effects application. There navigate to "Graphics" and then select "Add Fonts from Adobe Fonts".
@@ -71,6 +80,9 @@ If for some reason you don't want to use After Effects on your device to edit yo
 
 These features also include adding texts and changing the fonts of those texts on your video. And for users who want to edit texts or fonts in their videos using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), here is how you can do it:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![use filmora to edit device](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 * First open that video that you want to edit in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and then you will be available with a tab called "Titles" on the top. Select that and select any style of title that you want to edit. There is a preview window available to look at the text fonts and designs.
@@ -84,6 +96,9 @@ These features also include adding texts and changing the fonts of those texts o
 * When you double click on the text effect, you get more text editing tools such as "font, size, alignment, color, etc." for the text. This also provides an animation tab where you can animate your texts.
 * After you are done, click "save" and the text effects will be added to your videos successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 The article discussed the detailed process of **how to add font to Adobe After Effects** application. The descriptive process of adding texts to video projects using After Effects have also been discussed throughout the article and the available alternatives that can help users with the same feature. I also discussed the various types of fonts that are available to the users in the application interface. These fonts are very easy to access and use. I hope this article will help in easing up the whole process of video editing using After Effects.
@@ -96,6 +111,9 @@ These features also include adding texts and changing the fonts of those texts o
 
 * First open that video that you want to edit in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and then you will be available with a tab called "Titles" on the top. Select that and select any style of title that you want to edit. There is a preview window available to look at the text fonts and designs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![open wanted video to edit in filmora](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
 * Select the text style you want to add for your title and then drag it from the title's library to your timeline. An alternate way to add texts or such title font is to right-click on it and select the "Apply" option.
@@ -105,6 +123,9 @@ These features also include adding texts and changing the fonts of those texts o
 * When you double click on the text effect, you get more text editing tools such as "font, size, alignment, color, etc." for the text. This also provides an animation tab where you can animate your texts.
 * After you are done, click "save" and the text effects will be added to your videos successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 The article discussed the detailed process of **how to add font to Adobe After Effects** application. The descriptive process of adding texts to video projects using After Effects have also been discussed throughout the article and the available alternatives that can help users with the same feature. I also discussed the various types of fonts that are available to the users in the application interface. These fonts are very easy to access and use. I hope this article will help in easing up the whole process of video editing using After Effects.
@@ -133,3 +154,26 @@ The article discussed the detailed process of **how to add font to Adobe After E
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-best-7-multimedia-applications-for-macos/"><u>[New] Best 7 Multimedia Applications for MacOS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capturing-excellence-a-full-breakdown-of-sj-cam-s6/"><u>[New] Capturing Excellence  A Full Breakdown of SJ-CAM S6</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-community-resource-playing-games-without-limits/"><u>[New] Community Resource  Playing Games without Limits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-cutting-edge-tools-for-intro-edits-on-devices/"><u>[Updated] Best Cutting-Edge Tools for Intro Edits on Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-beyond-illusion-vr-timeline-explored/"><u>[Updated] Beyond Illusion  VR Timeline Explored</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-accelerate-your-creative-process-instagram-collage-tips/"><u>2024 Approved  Accelerate Your Creative Process  Instagram Collage Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/action-spectacle-evaluating-hero5b-vs-hero5-session-performance-for-2024/"><u>Action Spectacle  Evaluating Hero5B vs Hero5 Session Performance for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-engaging-dialogue-in-screenplays/"><u>Crafting Engaging Dialogue in Screenplays</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-editing-tiktok-edition-unveiled/"><u>Cutting-Edge Editing  TikTok Edition Unveiled</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/diy-movie-magic-speedy-hacks-for-aspiring-producers/"><u>DIY Movie Magic  Speedy Hacks for Aspiring Producers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/frame-flair-choosing-the-best-video-cameras-for-deliberate-moves/"><u>Frame Flair  Choosing the Best Video Cameras for Deliberate Moves</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-10-online-retailers-specialized-in-personalized-boxed-gifts/"><u>In 2024, 10 Online Retailers Specialized in Personalized Boxed Gifts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-compreenas-step-by-step-for-controlling-netflix-playback-rate/"><u>In 2024, A Compreenas Step-by-Step for Controlling Netflix Playback Rate</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-breathless-races-showcasing-2022s-elite-snowboard-cross-at-winter-olympics/"><u>In 2024, Breathless Races  Showcasing 2022'S Elite Snowboard Cross at Winter Olympics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/joining-the-digital-conversation-zooming-effortlessly-with-android/"><u>Joining the Digital Conversation  Zooming Effortlessly with Android</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-complexities-of-health-marketing-on-fb/"><u>Navigating the Complexities of Health Marketing on FB</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unique-choir-compositions-as-your-smartphone-tones/"><u>Unique Choir Compositions as Your Smartphone Tones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-efficient-remote-streaming-via-vlc-media-player/"><u>Unlock Efficient Remote Streaming via VLC Media Player</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vintage-verve-a-list-of-ringtones-online/"><u>Vintage Verve  A List of Ringtones Online</u></a></li>
+</ul></div>

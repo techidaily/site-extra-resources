@@ -1,7 +1,7 @@
 ---
 title: "\"Strategies to Avoid Overuse of B-Roll in Cinematography\""
-date: 2024-05-24T03:57:24.696Z
-updated: 2024-05-25T03:57:24.696Z
+date: 2024-07-25T02:11:50.265Z
+updated: 2024-07-26T02:11:50.265Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Strategies to Avoid Overuse of B-Roll in Cinematography\""
 excerpt: "\"This Article Describes Strategies to Avoid Overuse of B-Roll in Cinematography\""
 keywords: "\"Avoid B-Roll Abuse,Cinematography Strategy,Reduce B-Roll Usage,Proper B-Roll Technique,Editing Best Practices,Cinematic Balance Skills,Creative Video Filming\""
-thumbnail: https://www.lifewire.com/thmb/lmvkxaKrozRYqGTx380BkpJfGAc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-504331578-cheering-football-on-tv-5a231ffdaad52b00372ae2a6.jpg
+thumbnail: https://thmb.techidaily.com/7b4e6458caaa3e9950165c60cd6d036d2d81733c195f98fbf5326f59e3a1eeef.jpg
 ---
 
 ## Strategies to Avoid Overuse of B-Roll in Cinematography
@@ -44,28 +44,51 @@ On the other hand, cutaways can show how different people react to what is being
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. Atmospheric b roll footage
 
 When you are sharing a narrative that has been told in the past or that has historical significance, incorporating archival material into your video gives your audience the opportunity to see the story as it occurred at the time. This is especially useful when you are discussing a narrative that has been experienced in the past or that has futuristic relevance.
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### 6\. Pick-up shots
 
 A pick-up is a tiny shot added to previously captured material. Re-shoots involve redoing entire scenes. Both types of shots are commonly added during film editing to fix, logic, continuity, or quality flaws. These photos happen a while after the sets have been taken down, clothes and props stowed, and the actors and crew have gone on to new projects.
@@ -110,3 +133,28 @@ We sincerely hope that this post will be of use to you in making your films more
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-5-safest-and-most-enjoyable-quadcopters-for-kids/"><u>[New] 5 Safest and Most Enjoyable Quadcopters for Kids</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-list-of-the-best-8-sites-for-free-3d-text-psd-downloads/"><u>[New] A List of the Best 8 Sites for Free 3D Text PSD Downloads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-comprehensive-guide-standing-out-in-reddit-discussions/"><u>[Updated] A Comprehensive Guide  Standing Out in Reddit Discussions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-gallery-archive-websites/"><u>[Updated] Best Gallery Archive Websites</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-preferred-top-free-image-editing-and-overlay-apps-for-phones/"><u>10 Preferred Top-Free Image Editing & Overlay Apps for Phones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-virtual-laughter-the-metaverse-meme-journey/"><u>2024 Approved  Crafting Virtual Laughter  The Metaverse Meme Journey</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/changing-the-game-unveiling-top-6-in-nft-arts-and-culture/"><u>Changing the Game  Unveiling Top 6 in NFT Arts & Culture</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/collage-wizardry-secrets-unveiled-for-2024/"><u>Collage Wizardry  Secrets Unveiled for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dive-deep-into-gesture-recognition-systems/"><u>Dive Deep Into Gesture Recognition Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fcp-without-spending-practical-guide/"><u>FCP Without Spending – Practical Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/full-verdict-hero4-black-excellence/"><u>Full Verdict  Hero4 Black Excellence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-bridging-light-and-time-iphones-extended-exposure-techniques/"><u>In 2024, Bridging Light and Time  IPhone's Extended Exposure Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/intensified-interaction-through-advanced-zoom-settings/"><u>Intensified Interaction Through Advanced ZOOM Settings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/marvelous-monitors-top-10-macbooks-with-4k-resolution/"><u>Marvelous Monitors  Top 10 MacBooks with 4K Resolution</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/micro-movie-plot-draft/"><u>Micro-Movie Plot Draft</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-youtube-feedback-a-user-guide/"><u>Navigating YouTube Feedback  A User Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-tips-efficient-file-shifting-to-computer/"><u>Quick Tips  Efficient File Shifting to Computer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seamless-shooting-mastery-best-mobile-devices-with-ois-technology/"><u>Seamless Shooting Mastery  Best Mobile Devices with OIS Technology</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-t5s-complete-action-video-insight/"><u>The T5's Complete Action Video Insight</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-your-creative-spirit-from-images-to-videos-using-pixiz/"><u>Unleash Your Creative Spirit  From Images to Videos Using Pixiz</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visual-posts-made-easy-on-instagram/"><u>Visual Posts Made Easy on Instagram</u></a></li>
+</ul></div>

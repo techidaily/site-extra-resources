@@ -1,7 +1,7 @@
 ---
 title: "\"Drones Unveiled  Expert GoPro Karma Analysis\""
-date: 2024-05-24T05:07:36.936Z
-updated: 2024-05-25T05:07:36.936Z
+date: 2024-07-25T04:36:02.552Z
+updated: 2024-07-26T04:36:02.552Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes Drones Unveiled: Expert GoPro Karma Analysis\""
 excerpt: "\"This Article Describes Drones Unveiled: Expert GoPro Karma Analysis\""
 keywords: "\"GoPro Drone Review,Karma Drone Analysis,Drones Tech Insight,ProKarma Performance,High-Res Drone Shots,Expert Drones Guide,Aerial Photography Tips\""
-thumbnail: https://www.lifewire.com/thmb/lIGwtP-2kwYsesVXxH2xgRujv8A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-590171899-57ebf1035f9b586c355d2b27.jpg
+thumbnail: https://thmb.techidaily.com/946eb20cab96390f79aadddebd59f08cdd8697ebfd4d415c6dfeb99e2e1d4fd0.jpg
 ---
 
 ## Drones Unveiled: Expert GoPro Karma Analysis
 
 # GoPro Karma Drone Review
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -51,6 +54,9 @@ thumbnail: https://www.lifewire.com/thmb/lIGwtP-2kwYsesVXxH2xgRujv8A=/400x300/fi
 
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Detailed review for GoPro Karma
 
 #### 1\.  Price
@@ -130,6 +136,9 @@ Follow @Max Wales
 
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Detailed review for GoPro Karma
 
 #### 1\.  Price
@@ -164,6 +173,9 @@ Follow @Max Wales
 
 #### 5\.  Controller
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
@@ -186,6 +198,9 @@ Follow @Max Wales
 
  The GoPro Karma is this second or [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) has created and hopefully a much more refined version than the drones that GoPro first launched in October. The original version of the Karma drone was recalled just 16 days after its initial launch when many drones were losing connection and battery power at certain altitudes. GoPro discovered a fault with the battery popping out of place causing immediate power loss and returns the drone to the drawing board to produce improved versions of the device for release.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![gopro karma](https://images.wondershare.com/filmora/article-images/gopro-karma.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01N5V4HKQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N5V4HKQ&linkId=62a69de1ac6675d917158fa1421eceee)
@@ -194,6 +209,15 @@ Follow @Max Wales
 
  Apart from the battery latch, GoPro introduced auxiliary features such as a tilted horizon line for improved imaging as well as quieter propellers. The rerelease of the Karma drone is a much more polished product that is more suitable for reviewing as well as improved for general use. But does the Karma drone matchup with major contenders in the marketplace such as the Parrot or the DJI phantom line?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## Pros and cons of GoPro Karma
 
 **Pros**
@@ -251,6 +275,9 @@ Follow @Max Wales
 
 Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can be expensive when compared to the specifications on some of the other drones, if you do have some experience flying drones and you are looking for a great image quality, this could be the choice for you especially if you are looking for a portable drone.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -273,6 +300,9 @@ Follow @Max Wales
 
  Apart from the battery latch, GoPro introduced auxiliary features such as a tilted horizon line for improved imaging as well as quieter propellers. The rerelease of the Karma drone is a much more polished product that is more suitable for reviewing as well as improved for general use. But does the Karma drone matchup with major contenders in the marketplace such as the Parrot or the DJI phantom line?
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pros and cons of GoPro Karma
 
 **Pros**
@@ -322,6 +352,9 @@ Follow @Max Wales
 
 #### 5\.  Controller
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
@@ -330,6 +363,9 @@ Follow @Max Wales
 
 Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can be expensive when compared to the specifications on some of the other drones, if you do have some experience flying drones and you are looking for a great image quality, this could be the choice for you especially if you are looking for a portable drone.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -362,3 +398,29 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-10-memetic-design-innovators-choices/"><u>[New] 10 Memetic Design Innovators' Choices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-beneath-the-surface-secrets-to-professional-underwater-videos-with-gopro/"><u>[New] Beneath the Surface  Secrets to Professional Underwater Videos with GoPro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-beyond-expectations-the-latest-lg-tv-bp550-review/"><u>[New] Beyond Expectations  The Latest LG TV BP550 Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-all-you-need-to-know-about-podcast-funding/"><u>2024 Approved  All You Need To Know About Podcast Funding</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beyond-basic-editing-innovative-use-of-luts-for-photography/"><u>2024 Approved  Beyond Basic Editing  Innovative Use of LUTs for Photography</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-beginners-guide-to-editing-digits-in-tiktoks/"><u>A Beginner’s Guide to Editing Digits in TikToks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ace-the-art-of-shooting-on-a-green-screen/"><u>Ace the Art of Shooting on a Green Screen</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/achieving-muted-audibility-with-effortless-fading-in-lumafusion-for-2024/"><u>Achieving Muted Audibility with Effortless Fading in Lumafusion for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/androids-guide-to-spinning-and-combining-video-files/"><u>Android's Guide to Spinning & Combining Video Files</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audiovisual-conjuring-apples-artistic-blend-for-2024/"><u>Audiovisual Conjuring  Apple's Artistic Blend for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/clear-visuals-step-by-step-guide-for-picsart-backdrop-removal-for-2024/"><u>Clear Visuals  Step-By-Step Guide for Picsart Backdrop Removal for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/deluxe-low-cost-asmr-recording-options-for-enthusiasts/"><u>Deluxe Low-Cost ASMR Recording Options for Enthusiasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/efficiently-hosting-virtual-events-via-zoom-and-win11/"><u>Efficiently Hosting Virtual Events via Zoom & Win11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-your-multimedia-interaction-with-vlc-mac/"><u>Enhancing Your Multimedia Interaction with VLC (Mac)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-canvas-to-ledger-the-ultimate-list-of-nft-engines-for-artists/"><u>From Canvas to Ledger  The Ultimate List of NFT Engines for Artists</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harnessing-the-power-of-luts-for-high-quality-video-output/"><u>Harnessing the Power of LUTs for High-Quality Video Output</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-guide-to-free-os-compatible-players/"><u>In 2024, Comprehensive Guide to Free OS Compatible Players</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-tiktok-how-to-set-and-modify-your-profile-age/"><u>Mastering TikTok  How to Set & Modify Your Profile Age</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premium-action-recording-in-faceview-option/"><u>Premium Action Recording  In-Faceview Option</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/price-efficiency-index-top-cloud-stores-of-the-year/"><u>Price-Efficiency Index  Top Cloud Stores of the Year</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-choices-in-cinema-cameras-from-newbies-to-professionals/"><u>Prime Choices in Cinema Cameras  From Newbies to Professionals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-the-full-potential-of-zoom-and-fb-live-broadcasts/"><u>Unlocking the Full Potential of ZOOM & FB Live Broadcasts</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "How to Use Supplemental Video Sequences Effectively"
-date: 2024-05-24T05:18:44.806Z
-updated: 2024-05-25T05:18:44.806Z
+date: 2024-07-25T04:56:59.214Z
+updated: 2024-07-26T04:56:59.214Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes How to Use Supplemental Video Sequences Effectively"
 excerpt: "This Article Describes How to Use Supplemental Video Sequences Effectively"
 keywords: "Video Sequence Optimization,Efficient Video Integration,Video Enhancement Strategies,Incorporating Supplemental Videos,Multimedia Content Synergy,Effective Video Use Tips,Supplementary Video Techniques"
-thumbnail: https://www.lifewire.com/thmb/1giCJ_GI0g5IPS2wzD1NWNQqoBs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-see-who-shared-your-tiktok-5271091-8fc5445938ed433d830a2b5275079c62.jpg
+thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad7a99594a73a26d6b57f4450.jpg
 ---
 
 ## How to Use Supplemental Video Sequences Effectively
@@ -22,6 +22,9 @@ B roll is a phrase used to describe supplemental video, which is frequently used
 
 Now that we know that, let's dive in!
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. B roll In TV And Movies
 
 Broll is an acronym for "background" or "behind," respectively. It usually refers to extra footage captured with a movie camera while keeping the lighting consistent between scenes in the movie industry. When the filmmaker doesn't want to show any dialogue or action on screen but needs some movement within the frame, it might be utilized as filler.
@@ -32,6 +35,9 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -48,10 +54,16 @@ We'll examine the top 5 uses for B rolls across a variety of video genres and di
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
@@ -66,6 +78,9 @@ When you are sharing a narrative that has been told in the past or that has hist
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### 6\. Pick-up shots
 
 A pick-up is a tiny shot added to previously captured material. Re-shoots involve redoing entire scenes. Both types of shots are commonly added during film editing to fix, logic, continuity, or quality flaws. These photos happen a while after the sets have been taken down, clothes and props stowed, and the actors and crew have gone on to new projects.
@@ -76,6 +91,9 @@ If flaws were discovered during primary photography, the directors could have re
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 We sincerely hope that this post will be of use to you in making your films more cinematic. You not only know how to film and edit your videos utilizing B rolls, you also have an extremely effective hack that allows you to generate amazing videos using stock footage. This is both impressive and unique.
@@ -110,3 +128,38 @@ We sincerely hope that this post will be of use to you in making your films more
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-beyond-the-norm-a-review-of-the-4kcg318-display-by-eizo/"><u>[New] Beyond the Norm  A Review of the 4KCG318 Display by EIZO</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-captivating-content-the-essential-six-video-formats/"><u>[New] Captivating Content  The Essential Six Video Formats</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-beginners-strategy-boosting-business-via-telegram-marketing/"><u>[Updated] A Beginner’s Strategy  Boosting Business via Telegram Marketing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-accelerated-content-acquisition-with-funimate/"><u>[Updated] Accelerated Content Acquisition with Funimate</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-accessible-alternatives-googles-simplicity-versus-samsungs-innovation/"><u>[Updated] Accessible Alternatives  Google's Simplicity Versus Samsung's Innovation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-adepts-handbook-to-fullscreen-features-in-premiere-pro/"><u>[Updated] Adept's Handbook to Fullscreen Features in Premiere Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-guide-to-top-5-text-effects-downloading-sites/"><u>2024 Approved  A Guide to Top 5 Text Effects Downloading Sites</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/achieving-harmonic-transition-blends-for-2024/"><u>Achieving Harmonic Transition Blends for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/are-sellers-involved-in-monetizing-review-content-for-2024/"><u>Are Sellers Involved in Monetizing Review Content for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/asmr-mastery-your-guide-to-nighttime-relaxation/"><u>ASMR Mastery  Your Guide to Nighttime Relaxation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/b-roll-basics-strategies-for-creative-video-editing-for-2024/"><u>B Roll Basics  Strategies for Creative Video Editing for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/behind-the-scenes-the-magic-of-quantum-hdr/"><u>Behind the Scenes  The Magic of Quantum HDR</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-6-video-translators-to-translate-video/"><u>Best 6 Video Translators to Translate Video</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chromebooks-voice-alteration-guide-the-leading-online-text-to-speech-apps-for-2024/"><u>Chromebook's Voice Alteration Guide  The Leading Online Text-to-Speech Apps for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/design-your-digital-joke/"><u>Design Your Digital Joke</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dramatic-discourse-penning-powerful-narrative-dialogues/"><u>Dramatic Discourse  Penning Powerful Narrative Dialogues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhance-your-films-innovative-kinemaster-transitions/"><u>Enhance Your Films  Innovative Kinemaster Transitions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-tips-for-advanced-editing-in-gopro-studio/"><u>Essential Tips for Advanced Editing in GoPro Studio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-cluttered-canvases-to-crystal-clear-captures-using-photopea/"><u>From Cluttered Canvases to Crystal Clear Captures Using Photopea</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-parts-to-project-designing-your-own-4k-pc-workstation/"><u>From Parts to Project  Designing Your Own 4K PC Workstation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-blueprint-for-building-a-graphic-design-business/"><u>In 2024, Blueprint for Building a Graphic Design Business</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/inside-the-panasonic-hx-a1-a-buyers-guide-review/"><u>Inside the Panasonic HX-A1  A Buyer's Guide Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/insiders-guide-to-powerful-win10-habits/"><u>Insider's Guide to Powerful Win10 Habits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-finding-pixel-tone-sites/"><u>Mastering the Art of Finding Pixel Tone Sites</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/omnistreamer-2024-local-and-live-the-best-package/"><u>OmniStreamer 2024  Local & Live, The Best Package</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/selecting-the-superior-cloud-vaults-for-your-digital-needs/"><u>Selecting the Superior Cloud Vaults for Your Digital Needs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-guide-to-perfecting-tiktok-broadcast-on-zoom/"><u>Step-by-Step Guide to Perfecting TikTok Broadcast on Zoom</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-path-to-personalization-adjusting-snapchat-videos-pace/"><u>The Path to Personalization  Adjusting Snapchat Videos' Pace</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-sites-for-downloading-desired-youtube-ringtones/"><u>Top Sites for Downloading Desired YouTube Ringtones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transform-your-hauls-into-visual-stories/"><u>Transform Your Hauls Into Visual Stories</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-your-twitter-potential-premium-video-upload-tools/"><u>Unleash Your Twitter Potential  Premium Video Upload Tools</u></a></li>
+</ul></div>

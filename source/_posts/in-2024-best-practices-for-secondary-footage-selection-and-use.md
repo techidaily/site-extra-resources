@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Best Practices for Secondary Footage Selection and Use"
-date: 2024-06-19T13:57:53.419Z
-updated: 2024-06-20T13:57:53.419Z
+date: 2024-07-25T05:34:18.729Z
+updated: 2024-07-26T05:34:18.730Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ B roll is a phrase used to describe supplemental video, which is frequently used
 
 Now that we know that, let's dive in!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. B roll In TV And Movies
 
 Broll is an acronym for "background" or "behind," respectively. It usually refers to extra footage captured with a movie camera while keeping the lighting consistent between scenes in the movie industry. When the filmmaker doesn't want to show any dialogue or action on screen but needs some movement within the frame, it might be utilized as filler.
@@ -32,6 +35,9 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -56,10 +62,16 @@ Including archival material in your video allows your audience to experience a p
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. Atmospheric b roll footage
 
 When you are sharing a narrative that has been told in the past or that has historical significance, incorporating archival material into your video gives your audience the opportunity to see the story as it occurred at the time. This is especially useful when you are discussing a narrative that has been experienced in the past or that has futuristic relevance.
@@ -72,10 +84,16 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 We sincerely hope that this post will be of use to you in making your films more cinematic. You not only know how to film and edit your videos utilizing B rolls, you also have an extremely effective hack that allows you to generate amazing videos using stock footage. This is both impressive and unique.
@@ -110,3 +128,35 @@ We sincerely hope that this post will be of use to you in making your films more
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-comprehensive-exploration-of-3d-luts-in-image-processing/"><u>[New] Comprehensive Exploration of 3D LUTs in Image Processing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-wearable-camera-innovations/"><u>[Updated] Best Wearable Camera Innovations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-achieve-video-excellence-without-the-cost-of-fcp/"><u>2024 Approved  Achieve Video Excellence Without the Cost of FCP</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-a-scintillating-trailer-tale/"><u>2024 Approved  Crafting A Scintillating Trailer Tale</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/behind-the-curtain-the-hidden-costs-of-vr/"><u>Behind the Curtain  The Hidden Costs of VR</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/blending-sound-with-moving-pictures-hub/"><u>Blending Sound with Moving Pictures Hub</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/budget-deals-on-high-quality-gopros-for-2024/"><u>Budget Deals on High-Quality GoPros for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bypassing-costs-your-step-by-step-to-fcp/"><u>Bypassing Costs  Your Step-by-Step to FCP</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/envision-images-with-circular-focus-shift-ps/"><u>Envision Images with Circular Focus Shift PS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-fixed-frames-to-dynamic-circles-in-videos/"><u>From Fixed Frames to Dynamic Circles in Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fun-at-no-cost-top-quality-gratuitous-meme-templates/"><u>Fun at No Cost  Top Quality, Gratuitous Meme Templates</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/immaculatepixels-prograde-background-elimination/"><u>ImmaculatePixels  Prograde Background Elimination</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-10plus-best-photo-to-cartoon-softwares/"><u>In 2024, 10+ Best Photo to Cartoon Softwares</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-easy-hdr-a-step-by-step-guide/"><u>Mastering Easy HDR  A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-stealthy-sound-extinction-in-audacity/"><u>Mastering the Art of Stealthy Sound Extinction in Audacity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/meditative-tunes-top-free-sounds-to-unwind-and-relax/"><u>Meditative Tunes – Top Free Sounds to Unwind & Relax</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/multitasking-mastery-activities-while-embracing-soundtracks/"><u>Multitasking Mastery  Activities While Embracing Soundtracks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-transition-of-zip-to-subrip-srt-formats/"><u>Navigating the Transition of Zip to SubRip (SRT) Formats</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pivotal-movie-edits-ranked-by-professionals/"><u>Pivotal Movie Edits Ranked by Professionals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pro-zoom-functionality-tips-for-chromebook-devices/"><u>Pro Zoom Functionality Tips for Chromebook Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prodigy-machines-top-quality-computers-available/"><u>Prodigy Machines  Top-Quality Computers Available</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/reducing-decibels-gradually-in-fl/"><u>Reducing Decibels Gradually in FL</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/reversing-live-action-on-twitch-a-comprehensive-guide/"><u>Reversing Live Action on Twitch  A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/slidestream-creator-pro-macos/"><u>SlideStream Creator Pro (macOS)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-definitive-srt-file-generation-manual/"><u>The Definitive SRT File Generation Manual</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-insight-into-the-asus-proart-pa-329q-professional-monitor/"><u>The Ultimate Insight Into the Asus ProArt PA 329Q Professional Monitor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/video-creators-companion-selecting-perfect-camera-stabilizers/"><u>Video Creator's Companion  Selecting Perfect Camera Stabilizers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/your-simple-and-straightforward-pathway-to-nft-creation/"><u>Your Simple & Straightforward Pathway To NFT Creation</u></a></li>
+</ul></div>

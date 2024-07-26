@@ -1,7 +1,7 @@
 ---
 title: "InstaSong Rights Guidelines"
-date: 2024-05-24T05:41:06.741Z
-updated: 2024-05-25T05:41:06.741Z
+date: 2024-07-25T05:38:42.877Z
+updated: 2024-07-26T05:38:42.877Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes InstaSong Rights Guidelines"
 excerpt: "This Article Describes InstaSong Rights Guidelines"
 keywords: "SongRightsGuide,InstasongEdu,MusicLicensingInfo,CopyrightMusicUse,InstaSongPolicy,LicensingInstaSongs,AudioContentGuidance"
-thumbnail: https://www.lifewire.com/thmb/Mj0sGozDuM1JFhqS8K91E-CvQkU=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Email-Messaging_GettyImages-1205703732_scyther5_CROPPED_OVERLAY-b9a0b2d02d3f43968ce10002fabd1172.jpg
+thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7bf85c351306cae77a65bd05.jpg
 ---
 
 ## InstaSong Rights Guidelines
@@ -66,8 +66,14 @@ Copyright can be a tricky thing, especially when it comes to posting music video
 
 When you use FilmoragGo, you can be sure that your content will be safe to post on Instagram. So, go on and give it a try - your videos will thank you for it!
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![filmorago for editing instagram videos](https://images.wondershare.com/filmora/article-images/2023/01/copyright-music-on-instagram-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### (3) Exceptions For Asking Permission To Use The Music
 
 Here are some exceptions where you don’t need to ask for permission to use copyrighted music in your IG posts, reels, or Livestreams:
@@ -75,6 +81,9 @@ Here are some exceptions where you don’t need to ask for permission to use cop
 * **Using Your Own Music:** You have all the required rights to use your own music in your IG posts, Livestreams, or IGTV content.
 * **Public Domain Songs:** Public Domain Songs are music with no official owner or official copyright protection and can be used however you want. You can find such soundtracks on the [Open Music Archive,](http://www.openmusicarchive.org/) [PD Info](https://www.pdinfo.com/), and [IMSLP](https://imslp.org/wiki/Main%5FPage) websites.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open music archive for public domain songs for instagram](https://images.wondershare.com/filmora/article-images/2023/01/copyright-music-on-instagram-3.jpg)
 
 * **Royalty-Free Music:** It’s a type of music content where you have to give credit to the creator or pay some upfront for using their songs in your content. To learn more about this, [click here!](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -100,6 +109,9 @@ There are some conditions to playing music on your Instagram Live. For instance,
 
 Unfortunately, there's no simple rule on Instagram that says using 5, 15, or 30 seconds of a song is always an acceptable use. So using 30 seconds of copyrighted music on Instagram is not considered a safe bet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## What Do You Do When Instagram Blocks Your Video?
 
 Since Instagram uses an automated copyright detection system, your content might get blocked, muted, or removed. To avoid this from happening, you can place an appeal on the platform by following these steps:
@@ -110,10 +122,16 @@ If the original creator has reported you, their details will be displayed along 
 
 Step2 Read the notice that says you have permission to share the content in the video and tap the **“I agree”** option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![making appeal on instagram](https://images.wondershare.com/filmora/article-images/2023/01/copyright-music-on-instagram-4.jpg)
 
 Step3 Tap the **“Appeal”** button. You can anticipate a decision within 24 hours. If you have adhered to the rules and possess the authority to use copyrighted music in your content, Instagram should lift all limitations.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we’ve discussed **Instagram’s rules about copyrighted music,** how the platform detects copyrighted music, and some exceptions in which you don’t have to ask permission to use the music in your posts. We’ve also recommended using the Filmora app to avoid these issues.
@@ -126,6 +144,9 @@ Hopefully, you’ve found this article helpful and can now understand the dos an
 
 When you use FilmoragGo, you can be sure that your content will be safe to post on Instagram. So, go on and give it a try - your videos will thank you for it!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![filmorago for editing instagram videos](https://images.wondershare.com/filmora/article-images/2023/01/copyright-music-on-instagram-2.jpg)
 
 ### (3) Exceptions For Asking Permission To Use The Music
@@ -144,6 +165,10 @@ Here are some exceptions where you don’t need to ask for permission to use cop
 
 Below, you’ll find answers to common questions Instagram users ask about copyrighted music.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Does Instagram Have Its Own Copyright Music?
 
 Yes, Instagram offers a comprehensive library of royalty-free music you can use on your Stories and Reels. Simply click the “**Music**” icon while editing your post and find the soundtrack you want to add. This will, however, add a music sticker to your content.
@@ -152,14 +177,23 @@ Yes, Instagram offers a comprehensive library of royalty-free music you can use 
 
 Yes, you can use Live or recorded performances and music from the catalog in your IG Stories.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Can You Play Music On Instagram Live?
 
 There are some conditions to playing music on your Instagram Live. For instance, you can stream live artists' performances, play your own music, or add royalty-free soundtracks.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ### Can I Use 30 Seconds Of Copyright Music On Instagram?
 
 Unfortunately, there's no simple rule on Instagram that says using 5, 15, or 30 seconds of a song is always an acceptable use. So using 30 seconds of copyrighted music on Instagram is not considered a safe bet.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Do You Do When Instagram Blocks Your Video?
 
 Since Instagram uses an automated copyright detection system, your content might get blocked, muted, or removed. To avoid this from happening, you can place an appeal on the platform by following these steps:
@@ -170,10 +204,17 @@ If the original creator has reported you, their details will be displayed along 
 
 Step2 Read the notice that says you have permission to share the content in the video and tap the **“I agree”** option.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![making appeal on instagram](https://images.wondershare.com/filmora/article-images/2023/01/copyright-music-on-instagram-4.jpg)
 
 Step3 Tap the **“Appeal”** button. You can anticipate a decision within 24 hours. If you have adhered to the rules and possess the authority to use copyrighted music in your content, Instagram should lift all limitations.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we’ve discussed **Instagram’s rules about copyrighted music,** how the platform detects copyrighted music, and some exceptions in which you don’t have to ask permission to use the music in your posts. We’ve also recommended using the Filmora app to avoid these issues.
@@ -206,3 +247,44 @@ Hopefully, you’ve found this article helpful and can now understand the dos an
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-amplify-creativity-in-photography-innovative-pixlr-hacks/"><u>[New] Amplify Creativity in Photography  Innovative Pixlr Hacks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-audience-allure-spinning-solo-podcasts-that-go-viral/"><u>[New] Audience Allure  Spinning Solo Podcasts That Go Viral</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-captivating-vlog-narratives/"><u>[New] Crafting Captivating Vlog Narratives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-building-believable-characters-through-dialogue/"><u>[Updated] Building Believable Characters Through Dialogue</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-craft-excellence-top-10-free-drawing-tools-for-mac/"><u>[Updated] Craft Excellence  Top 10 Free Drawing Tools for Mac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-closer-look-at-the-metaverse-6-deep-dive-examples-reviewed/"><u>2024 Approved  A Closer Look at the Metaverse  6 Deep-Dive Examples Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-accessible-gamers-soundtrack-without-restrictions/"><u>2024 Approved  Accessible Gamers' Soundtrack Without Restrictions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-bedtime-videos-breakdown-stories-and-reviews/"><u>2024 Approved  Bedtime Videos Breakdown  Stories and Reviews</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-barriers-innovative-ways-to-hook-your-podcast-audience/"><u>2024 Approved  Breaking Barriers  Innovative Ways to Hook Your Podcast Audience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-choreographing-cinema-sounds-in-the-windows-11-space/"><u>2024 Approved  Choreographing Cinema Sounds in the Windows 11 Space</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-captivating-time-lapse-videos-a-simple-guide-with-gopro-studio/"><u>2024 Approved  Crafting Captivating Time-Lapse Videos  A Simple Guide with GoPro Studio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-compreenas-step-by-step-for-controlling-netflix-playback-rate-for-2024/"><u>A Compreenas Step-by-Step for Controlling Netflix Playback Rate for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-selective-softness-in-mobile-photography/"><u>Advanced Selective Softness in Mobile Photography</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/average-byte-gauge-for-a-24-hour-film-for-2024/"><u>Average Byte Gauge for a 24 Hour Film for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-tales-spun-8-divisions-of-cinematic-genres/"><u>Best Tales Spun  8 Divisions of Cinematic Genres</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/canva-expertise-ditching-image-backdrops-with-ease-for-2024/"><u>Canva Expertise  Ditching Image Backdrops with Ease for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-3d-lut-development-course/"><u>Comprehensive 3D LUT Development Course</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-compelling-content-on-reddit-a-stepwise-path/"><u>Crafting Compelling Content on Reddit - A Stepwise Path</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creative-directors-best-writing/"><u>Creative Directors' Best Writing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/easily-manage-your-stream-time-and-speed-on-netflix/"><u>Easily Manage Your Stream Time and Speed on Netflix</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-hd-imagery-comprehensive-guide-for-windows-enthusiasts/"><u>Elevate HD Imagery  Comprehensive Guide for Windows Enthusiasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-your-4k-entertainment-tvs-vs-projection-technology/"><u>Elevating Your 4K Entertainment  TVs vs Projection Technology</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-add-the-date-to-photo-for-2024/"><u>How to Add the Date to Photo for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/illustrators-playground-navigating-through-top-8-iphone-drawing-tools/"><u>Illustrators' Playground  Navigating Through Top 8 iPhone Drawing Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-10-speed-up-apps-for-mobile-music-and-podcasts/"><u>In 2024, 10 Speed-Up Apps for Mobile Music and Podcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-cinematic-blackout-mastery-in-premiere/"><u>In 2024, Cinematic Blackout Mastery in Premiere</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-concealed-crusaders-conflict-with-clarion-champion/"><u>In 2024, Concealed Crusader's Conflict with Clarion Champion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-a-winning-live-broadcast-essentials-and-strategies/"><u>In 2024, Crafting a Winning Live Broadcast  Essentials and Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-stunning-photography-mastering-hdr-merging-in-lightroom/"><u>In 2024, Crafting Stunning Photography  Mastering HDR Merging in Lightroom</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/movavis-leap-forward-the-2024-edition-of-video-proplus/"><u>Movavi's Leap Forward  The 2024 Edition of Video Pro+</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/speech-transcription-made-simple-utilizing-text-conversion-functionality-of-ms-word/"><u>Speech Transcription Made Simple  Utilizing Text Conversion Functionality of MS Word</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/strategic-unveiling-the-box-of-opportunity/"><u>Strategic Unveiling  The Box of Opportunity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/strategies-to-keep-windows-11-photos-app-running-smoothly/"><u>Strategies to Keep Windows 11 Photos App Running Smoothly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-choosing-top-subtitle-editors-online/"><u>The Ultimate Guide to Choosing Top Subtitle Editors Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-vr-headset-companies/"><u>Top VR Headset Companies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/virtual-experiences-galore-the-best-vr-playback-devices-for-pcs-revealed/"><u>Virtual Experiences Galore  The Best VR Playback Devices for PCs Revealed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/winning-at-movie-watching-leading-windows-phone-apps/"><u>Winning at Movie Watching  Leading Windows Phone Apps</u></a></li>
+</ul></div>

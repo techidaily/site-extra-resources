@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Photo Aesthetics  The Essence of LUTs\""
-date: 2024-05-24T03:43:55.993Z
-updated: 2024-05-25T03:43:55.993Z
+date: 2024-07-25T01:49:09.564Z
+updated: 2024-07-26T01:49:09.564Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Mastering Photo Aesthetics: The Essence of LUTs\""
 excerpt: "\"This Article Describes Mastering Photo Aesthetics: The Essence of LUTs\""
 keywords: "Photo Aesthetics Mastery,LUTs Aesthetic Guide,Picture Tone Enhancement,Color Grading Techniques,Visual Image Quality,Cinematic VFX Applications,Artistic Photography Editing"
-thumbnail: https://www.lifewire.com/thmb/BmUGyePyDcr1NWi-j3UYRsTPW4M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/LogitechG604LightspeedWirelessGamingMouse-a1c397211af7489f8408eed0ff759b55.jpeg
+thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666aaa24cc7d5f400170f744e3.jpeg
 ---
 
 ## Mastering Photo Aesthetics: The Essence of LUTs
@@ -50,12 +50,18 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to use LUTs using Photoshop CC?
 
 LUTs come pre-installed with programs, but you may also purchase them online and add them to your software. You may even buy a look from your favorite film or television show. In Photoshop, LUTs are simple to apply. You can begin in Photoshop with the original photo, which is an image that was captured locally, unprocessed, and straight out of the camera.
 
 1. Select the Adjustment Layer icon from the drop-down menu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
 Choose Adjustment Layer
@@ -74,6 +80,14 @@ load 3d lut
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
@@ -81,6 +95,9 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Here's the second one
 
 1. Open the LUT folder, which changes the version to your version.
@@ -95,6 +112,9 @@ Grow Together
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 Closing Thoughts:
@@ -105,6 +125,9 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 Closing Thoughts:
@@ -137,3 +160,37 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-bridging-moments-a-kinemaster-guide-to-transitions/"><u>[New] Bridging Moments  A Kinemaster Guide to Transitions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-of-the-best-in-drone-following-capabilities/"><u>[Updated] Best of the Best in Drone Following Capabilities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-best-online-destinations-for-accessible-images-for-2024/"><u>10 Best Online Destinations for Accessible Images for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-adventure-essentials-top-10-gopro-protectors-reviewed/"><u>2024 Approved  Adventure Essentials - Top 10 GoPro Protectors Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-boost-speech-intelligence-on-chrome-select-the-best-web-based-tools-for-change/"><u>2024 Approved  Boost Speech Intelligence on Chrome  Select the Best Web-Based Tools for Change</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-how-to-do-color-correction-in-gopro-studio/"><u>2024 Approved  How to Do Color Correction in GoPro Studio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bend-reality-in-adobe-a-comprehensive-guide-to-ph-warping/"><u>Bend Reality in Adobe  A Comprehensive Guide to PH Warping</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-storytelling-channels-for-impactful-yt-watching-for-2024/"><u>Best Storytelling Channels for Impactful YT Watching for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/carve-a-unique-meme-with-precision-today-for-2024/"><u>Carve a Unique Meme with Precision Today for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-conversion-guide-for-avi-media-to-web-ready-gif-in-filmora/"><u>Comprehensive Conversion Guide for AVI Media to Web-Ready GIF in Filmora</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compreran-list-efficient-platforms-for-downloading-your-favorite-tones/"><u>Compreran List  Efficient Platforms for Downloading Your Favorite Tones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/conquering-hdr-photography-with-ease/"><u>Conquering HDR Photography with Ease</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creating-compelling-podcast-openings/"><u>Creating Compelling Podcast Openings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/direct-download-dash-discovering-ifunnys-fun-laughter/"><u>Direct Download Dash  Discovering iFunny's Fun Laughter</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/download-apple-podcasts-instinctively/"><u>Download Apple Podcasts Instinctively</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/drone-motors-choose-the-5-best-motors-for-your-quadcopter/"><u>Drone Motors  Choose the 5 Best Motors for Your Quadcopter</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/eight-powerful-devices-for-prospective-filmora-alternatives/"><u>Eight Powerful Devices for Prospective Filmora Alternatives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elucidating-techniques-in-user-motion-detection/"><u>Elucidating Techniques in User Motion Detection</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/extensive-appraisal-hero4-black-capabilities/"><u>Extensive Appraisal  Hero4 Black Capabilities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fast-track-photo-and-video-editing-via-mobile-luts/"><u>Fast-Track Photo & Video Editing via Mobile LUTs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/golivebeam-simplified-method-to-broadcast-a-podcast-live/"><u>GoLiveBeam  Simplified Method to Broadcast a Podcast Live</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-beginners-blueprint-for-bolstering-youtube-believers/"><u>In 2024, A Beginner's Blueprint for Bolstering YouTube Believers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/laying-the-groundwork-for-av1-understanding/"><u>Laying The Groundwork for AV1 Understanding</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/master-the-art-of-subtitle-integration-on-wmp/"><u>Master the Art of Subtitle Integration on WMP</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/masterful-collage-techniques-for-instagram-excellence/"><u>Masterful Collage Techniques for Instagram Excellence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/missing-media-magic-no-videos-on-sony-a6400/"><u>Missing Media Magic  No Videos on Sony A6400</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pinnacle-of-performance-new-samsung-bdplus-review/"><u>Pinnacle of Performance - New Samsung BD+ Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-steps-for-adding-speech-to-text-in-powerpoint-slides/"><u>Quick Steps for Adding Speech-to-Text in PowerPoint Slides</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quintessential-plots-making-movies-great/"><u>Quintessential Plots Making Movies Great</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/turning-social-media-sounds-into-functional-phone-alarms/"><u>Turning Social Media Sounds Into Functional Phone Alarms</u></a></li>
+</ul></div>

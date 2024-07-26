@@ -1,7 +1,7 @@
 ---
 title: "\"Perfect Post-Editing  Eliminating Unwanted Picture Borders\""
-date: 2024-05-24T03:57:17.419Z
-updated: 2024-05-25T03:57:17.419Z
+date: 2024-07-25T02:11:40.204Z
+updated: 2024-07-26T02:11:40.204Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Perfect Post-Editing: Eliminating Unwanted Picture Borders\""
 excerpt: "\"This Article Describes Perfect Post-Editing: Eliminating Unwanted Picture Borders\""
 keywords: "Blur Border Removal,Professional Image Edits,Unwanted Borders Erase,Photo Smoothing Technique,Editing Out Borders,Quality Image Cleanup,Photography Edge Control"
-thumbnail: https://www.lifewire.com/thmb/CYDGZrlFjkiCzB8WEsEyoVjflXc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-whitelist-a-sender-or-domain-in-gmail-1172106-AA-v1-5b1d72d1eb97de00363eb294.PNG
+thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e3ca1f0dfa365e65b92b5c5b.PNG
 ---
 
 ## Perfect Post-Editing: Eliminating Unwanted Picture Borders
@@ -30,6 +30,10 @@ Photopea offers three options for removing the images' background, i.e., Magic W
 Magic Wand tool is responsible for instantly removing the background of an image with solid colors. In comparison, the Magic Cut tool lets you erase complicated backgrounds.  
 However, if the image is detailed, you have to select the object and remove the background manually. Below we've provided step-by-step guides to show you how you can use the Magic Wand and Magic Cut tools:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### 1\. How To Use The Magic Wand Tool To Remove The Image's Background
 
 Here's how to use the Magic Wand tool to **remove the image's background with Photopea**:
@@ -38,6 +42,9 @@ Step1 In the first step, launch a browser on your PC and visit the [Photopea](ht
 
 Step2 In the next step, click the **"Magic Wand"** tool from the left-side panel and click the background of your image to select it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![selecting the magic wand tool in photopea](https://images.wondershare.com/filmora/article-images/2023/03/selecting-the-magic-wand-tool-in-photopea.png)
 
 Step3 Now, simply press the **"Delete"** button on your keyboard to remove the background. However, if the tool did not select some parts of the image's background, you need to adjust the settings. Click the **"Ctrl+Z"** key to undo the selection.
@@ -50,6 +57,9 @@ Step4 Next, find the **"Tolerance"** option in the top toolbar and increase its 
 
 Step5 Alternatively, you can reduce the value to deselect the parts of your image. Once you change the value, click on the background and press the **"Delete"** button to remove it.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. How To Use Magic Cut To Remove The Image's Background
 
 If your picture has a complicated background, the following steps will help you use the Magic Cut tool to **remove the image's background with Photopea:**
@@ -90,12 +100,18 @@ To add a new background after removing the image's background, do the following 
 
 Step1 Click the **"File"** option from the top menu and select **"Open & Place..."**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![adding new background to image in photopea](https://images.wondershare.com/filmora/article-images/2023/03/adding-new-background-to-image-in-photopea.png)
 
 Step2 Choose the new background image from your system and click **"Open"** to import it to **"Photopea."**
 
 Step3 Now, click the **"Edit"** option from the top menu and select **"Transform" > "Scale."** Drag the handles to resize the background image and click **"Enter"** to apply the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![scaling the new background image](https://images.wondershare.com/filmora/article-images/2023/03/scaling-the-new-background-image.png)
 
 Step4 Under the **"Layers"** header in the right panel, drag the new image layer below the object layer, and the background will be applied to your object.
@@ -104,14 +120,23 @@ Step4 Under the **"Layers"** header in the right panel, drag the new image layer
 
 If you want to remove the BG of an image with just one click or of images in bulk, then Wondershare [PixCut](https://pixcut.wondershare.com/) is the best alternative option to Photopea, as it meets all these criteria. Below we've provided the reasons why this tool is the right option:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### AI-Based Background Remover
 
 PixCut's Artificial Intelligence-based background remover can erase the background of your images in just a few clicks. You can also use the **"Bulk Remove BG"** feature to erase the background of pictures in bulk.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Image Resizer
 
 With its Image Resizer tool, you can make your image smaller or larger in size to fulfill your requirements.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ### Manual Background Erase and Restore options
 
 PixCut also offers the "Erase & Restore" tool to help you remove or restore certain parts of your image after removing the background using the AI-based tool.
@@ -128,6 +153,9 @@ Once you've erased the background from your objects in PixCut, you can also add 
 
 PixCut also removes watermarks from your pictures, allowing you to bypass copyright restrictions and use images for commercial purposes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![wondershare pixcut](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut.png)
 
 ## You May Be Interested In: How To Get Free Images
@@ -138,6 +166,9 @@ Hopefully, you've found this guide helpful and can now make changes to your imag
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this detailed guide, we've explored **how to remove an image's background with Photopea** using the Magic Wand and Magic Cut tools or by manual selection. We've also explained how you can add a new background to your image file after removing the old one.
@@ -148,6 +179,9 @@ Additionally, we recommended using Wondershare PixCut as the best alternative to
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this detailed guide, we've explored **how to remove an image's background with Photopea** using the Magic Wand and Magic Cut tools or by manual selection. We've also explained how you can add a new background to your image file after removing the old one.
@@ -178,3 +212,34 @@ Additionally, we recommended using Wondershare PixCut as the best alternative to
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-5-good-book-trailer-examples/"><u>[New] 5 Good Book Trailer Examples</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-comprehensive-look-celebrating-15-outstanding-unboxing-vloggers/"><u>[Updated] A Comprehensive Look  Celebrating 15 Outstanding Unboxing Vloggers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-building-blocks-for-a-thriving-design-career/"><u>[Updated] Building Blocks for a Thriving Design Career</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-close-encounters-experiencing-roblox-at-greater-detail/"><u>[Updated] Close Encounters  Experiencing Roblox At Greater Detail</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-best-free-luts-with-download-links/"><u>10 Best Free LUTs with Download Links</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-amplify-creativity-in-photography-innovative-pixlr-hacks/"><u>2024 Approved  Amplify Creativity in Photography  Innovative Pixlr Hacks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-benefits-vs-drawbacks-in-vr-technology/"><u>2024 Approved  Benefits vs Drawbacks in VR Technology</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-chortlecraft-customize-funny-digital-images/"><u>2024 Approved  ChortleCraft  Customize Funny Digital Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-comprehensive-examination-of-lg-27ud68-display-tech-for-2024/"><u>A Comprehensive Examination of LG 27UD68 Display Tech for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/behind-the-scenes-with-viral-image-memes-and-stories/"><u>Behind the Scenes with Viral Image Memes & Stories</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-live-streaming-services-ranked-your-in-depth-comparison-for-2024/"><u>Best Live Streaming Services Ranked  Your In-Depth Comparison for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/core-concepts-in-moving-graphic-artistry-for-2024/"><u>Core Concepts in Moving Graphic Artistry for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/declutter-your-tiktok-drafters-efficient-edit-strategies/"><u>Declutter Your TikTok Drafters  Efficient Edit Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dell-p2715q-review-a-glimpse-into-ultra-hd-technology/"><u>Dell P2715Q Review  A Glimpse Into Ultra HD Technology</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/diving-into-av1-codec-mechanics/"><u>Diving Into AV1 Codec Mechanics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-video-creation-with-windows-xp-edition/"><u>Elevate Video Creation with Windows XP Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-video-conferencing-experience-zoom-and-chromeos/"><u>Elevating Video Conferencing Experience  Zoom & ChromeOS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-your-digital-photography-with-google-photos/"><u>Elevating Your Digital Photography with Google Photos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-becoming-a-picwarper-pro-with-top-editors/"><u>In 2024, Becoming a PicWarper Pro with Top Editors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-depth-guide-to-installation-of-wm6/"><u>In-Depth Guide to Installation of WM6</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-full-rotation-shoots-9-must-follow-rules/"><u>Mastering Full-Rotation Shoots  9 Must-Follow Rules</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/merging-youtube-soundtracks-to-cinematic-scenes/"><u>Merging YouTube Soundtracks to Cinematic Scenes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pioneering-tech-in-adventure-camera-gear/"><u>Pioneering Tech in Adventure Camera Gear</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-simple-grading-tactics/"><u>The Ultimate Guide to Simple Grading Tactics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-using-adobe-and-finding-substitutes/"><u>The Ultimate Guide to Using Adobe and Finding Substitutes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-action-cameras-for-surfing/"><u>Top 10 Action Cameras for Surfing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-iphone-photo-hacks-to-enhance-your-landscapes/"><u>Top iPhone Photo Hacks to Enhance Your Landscapes</u></a></li>
+</ul></div>

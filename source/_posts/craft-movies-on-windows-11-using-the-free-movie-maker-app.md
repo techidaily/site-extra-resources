@@ -1,7 +1,7 @@
 ---
 title: "Craft Movies on Windows 11 Using the Free Movie Maker App"
-date: 2024-05-24T03:21:05.474Z
-updated: 2024-05-25T03:21:05.474Z
+date: 2024-07-25T01:13:59.480Z
+updated: 2024-07-26T01:13:59.480Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Craft Movies on Windows 11 Using the Free Movie Maker App"
 excerpt: "This Article Describes Craft Movies on Windows 11 Using the Free Movie Maker App"
 keywords: "Win11 FreeMovieMaker,CraftWinsXP,MovieMakerAppFree,WindowsCinemaCreation,XPFreeMovieTool,MoviesOnWin10,VideoCraftWin11"
-thumbnail: https://www.lifewire.com/thmb/ER0mmosFujwpQra4QqwbCfT8TDc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/xboxonescreenshot-5aa2f62e642dca003622cd40.png
+thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c432e7b5caac8bd0f3cdf48f.png
 ---
 
 ## Craft Movies on Windows 11 Using the Free Movie Maker App
@@ -22,6 +22,9 @@ Microsoft's video editing tool, movie maker, which debuted 19 years ago, did not
 
 The corporation reportedly acquired the editing suite Clipchamp last year, and it is reportedly accessible as an "inbox" app for Windows 11\. It will therefore be pre-installed alongside other applications like Microsoft Family. In Windows 11, Clipchamp is intended to take the place of Windows Movie Maker as a video editing program. A recognizable user interface, including templates, project bins, timeline, and more, is provided by Clipchamp for **Windows movie maker 11**. Styles, stock media, transitions and. Filters are all included in the asset libraries that are supplied.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1\. Use Clipchamp Video Maker
 
 With the help of Clipchamp, anyone can easily create videos, even those without any prior editing skills. In Windows 10 and Windows 11, you may create videos using the new program Clipchamp. The editing program Clipchamp, which Microsoft purchased last year, is superior to earlier programs like Windows Movie Maker. For work, social networking, or to document significant occasions, you may use Clipchamp on Windows to produce intriguing new films. Let's check how to edit in Clipchamp **windows 11 movie maker.**
@@ -32,10 +35,16 @@ With the help of Clipchamp, anyone can easily create videos, even those without 
 
 * Drag and drop the video from the library to the timeline. One can tap on the "+" button to add a file directly to the timeline, and tap on "Add" to all media files.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag video to calipchamp editor](https://images.wondershare.com/filmora/article-images/2022/09/drag-video-to-calipchamp-editor.jpg)
 
 * After adding the videos to the timeline, you can start editing and viewing. Users can add numerous videos to the timeline and edit them.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Trim the video clip**
 
 * For trimming the unwanted parts, you can select the video on the timeline and drag their edges to cut the part.
@@ -45,11 +54,17 @@ With the help of Clipchamp, anyone can easily create videos, even those without 
 * Choose the clips on the timeline, and move that scrubber to mention where you want to cut your clips.
 * After that, tap on the "scissor icon" on the top left.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **Play the clip on the timeline**
 
 * Playing the clips on the timeline is necessary. You can move that scrubber to select the position where you want to start the video.
 * Tap on the Play button, or you can also hit the spacebar on the keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **Zoom in and out of the timeline**
 
 * If you want to zoom in on the video, then use the + button and use the - button to zoom out.
@@ -62,6 +77,10 @@ With the help of Clipchamp, anyone can easily create videos, even those without 
 
 * One can even add audio files to the video. You can drag the Audio from the computer to the library area. You can choose the audio file from the library.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![add music windows 11 movie maker](https://images.wondershare.com/filmora/article-images/2022/09/add-music-windows-11-movie-maker.jpg)
 
 * After you have loaded the file, you can drag it to the timeline.
@@ -80,21 +99,33 @@ With the help of Clipchamp, anyone can easily create videos, even those without 
 
 * After you have finished your edits, you can save the file in MP4 and tap on the export option in the right corner of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2\. Edit Videos in Windows 11 with Photos App
 
 Windows has always offered methods for searching and displaying photos because it is a relatively flexible operating system. However, with Windows 11, Microsoft tried combining browsing, organizing, and viewing into a single program and some simple editing.
 
 The outcome, the innocently named "Photos" app, can be pretty confusing. You can do anything with your photographs and videos, thanks to the Photos experience. Compare, edit, view, construct albums and create movies with ease of your priceless memories. While keeping you involved in the experience, it displays all of the goods from that place and lets you navigate to other pictures.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Add the file
 
 * You can tap on the "ADD" option, select "From the PC" from the overlay menu, and choose the desired video from the storage drive.
 * After importing the videos from photos, you can see the storyboard screen to edit the video.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### Add title card
 
 * Tap on the "Add title card" option on your storyboard pane, which can result in adding some extra fame before selecting the video on the storyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Add color pallete
 
 * Choose the desired color from your color palette to change the background.
@@ -111,6 +142,9 @@ The outcome, the innocently named "Photos" app, can be pretty confusing. You can
 * You can tap "Filters" on the storyboard pane, choose one, but tap on individual thumbnails on the sidebar.
 * After applying the preferred filter, tap on the "Done" button from the bottom section, and click on confirm and apply.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ### Export the video
 
 * After you are done with your edit, you can tap "Finish Video" on the top section of the window.
@@ -169,6 +203,10 @@ In this article, you have learned about various video editors available on Windo
 
 Tap on "New Project" and enter the video editor. Register your product by tapping on the "Register" option. You can visit the "File" menu in the upper section, click "Project setting," and choose aspect ratio.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![click on create a video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 ##### Step2Trim and edit the unwanted parts
@@ -183,6 +221,9 @@ One can add numerous clips, but each clip will get placed after the previously a
 
 You have now successfully removed the unnecessary parts from video clips. You will need to detach audio files and add music and transitions to the clips. Tap on the text icon to add subtitles to the video.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![tap on the text icon](https://images.wondershare.com/filmora/guide/select-boris-effect.png)
 
 You can get various templates in the software, which you can use for the video.
@@ -193,6 +234,9 @@ One can utilize numerous software filters to add exciting colors to the clip. Dr
 
 Once you finish your edits, you can easily save and publish them.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## The Bottom Line
 
 In this article, you have learned about various video editors available on Windows 11 and an alternative. You can choose your video editors according to your preference and comfortability. Each video editor has unique features, and everyone can deliver the best user results. Clipchamp is the superior alternative option for previous Windows movie makers and comes with lots of features. If you want professional video editing, you can choose Clipchamp or [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -225,3 +269,30 @@ In this article, you have learned about various video editors available on Windo
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-array-of-unique-video-cameras-by-type/"><u>[Updated] Array of Unique Video Cameras by Type</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-beyond-low-definition-the-ultimate-path-from-sdr-to-hdri-video/"><u>[Updated] Beyond Low Definition  The Ultimate Path From SDR to HDRI Video</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-conquer-color-chaos-discover-essential-tutorials-and-techniques/"><u>[Updated] Conquer Color Chaos - Discover Essential Tutorials and Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-acoustic-alerts-on-whatsapp-status/"><u>2024 Approved  Acoustic Alerts on WhatsApp Status</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-strategies-for-endless-online-spaces/"><u>2024 Approved  Advanced Strategies for Endless Online Spaces</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-conquer-color-chaos-discover-essential-tutorials-and-techniques/"><u>2024 Approved  Conquer Color Chaos - Discover Essential Tutorials and Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beyond-imagination-vrs-present-future-prospects-for-2024/"><u>Beyond Imagination  VR's Present, Future Prospects for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/diy-football-viewing-watch-record-cut-on-the-cheap/"><u>DIY Football Viewing  Watch, Record, Cut on the Cheap</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dynamic-games-best-flash-fueled-fun-for-phonespcs/"><u>Dynamic Games  Best Flash-Fueled Fun for Phones/PCs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/editors-full-report-on-videocraft-suite-new-horizons-in-editing/"><u>Editor's Full Report on VideoCraft Suite - New Horizons in Editing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exclusive-imagery-tale-constructor/"><u>Exclusive Imagery Tale Constructor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/flawless-illustration-from-photographs-cross-platform-compatibility/"><u>Flawless Illustration From Photographs  Cross-Platform Compatibility</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/futures-finest-gaming-the-ultimate-list-of-new-psvr-titles/"><u>Future's Finest Gaming  The Ultimate List of New PSVR Titles</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-batch-background-erasure-in-affinity-photo/"><u>Mastering Batch Background Erasure in Affinity Photo</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/next-gen-sky-dome-cutting-edge-cloud-services-of-2024/"><u>Next-Gen Sky Dome  Cutting-Edge Cloud Services of 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfecting-aerial-images-key-factors-in-picking-a-gimbal/"><u>Perfecting Aerial Images  Key Factors in Picking a Gimbal</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photo-masters-list-the-best-6-4k-dslr-cameras-today/"><u>Photo Masters List  The Best 6 4K DSLR Cameras Today</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/push-boundaries-in-image-editing-expert-distortion-techniques/"><u>Push Boundaries in Image Editing  Expert Distortion Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sleep-aid-asmr-techniques-unveiled/"><u>Sleep Aid  ASMR Techniques Unveiled</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/smart-strategies-to-modify-user-numbers-on-tiktok/"><u>Smart Strategies to Modify User Numbers on TikTok</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/srt-explained-essential-aspects-and-more/"><u>SRT Explained  Essential Aspects and More</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-tier-psd-artistry-tweaks/"><u>Top-Tier PSD Artistry Tweaks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/weighing-in-virtual-reality-pros-and-cons/"><u>Weighing In  Virtual Reality Pros & Cons</u></a></li>
+</ul></div>

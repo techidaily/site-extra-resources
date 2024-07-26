@@ -1,7 +1,7 @@
 ---
 title: "Exploring Mozilla's Split Screen Technique in Firefox"
-date: 2024-05-24T04:11:16.363Z
-updated: 2024-05-25T04:11:16.363Z
+date: 2024-07-25T02:48:50.563Z
+updated: 2024-07-26T02:48:50.563Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Exploring Mozilla's Split Screen Technique in Firefox"
 excerpt: "This Article Describes Exploring Mozilla's Split Screen Technique in Firefox"
 keywords: "\"Firefox Split Screen,Mozilla Tech Innovation,Multitasking Firefox,Browser Snap Display,Cross-Browser Split Views,Firefox Efficient Use,Dual-Pane Browsing Firefox\""
-thumbnail: https://www.lifewire.com/thmb/zBEl_bEu07nfTMzj3iet9cEOY3E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Kruzadar2-997fddec8bfa45e5895b020f282d02aa.jpg
+thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b086086a9248bc69fcf254fa.jpg
 ---
 
 ## Exploring Mozilla's Split Screen Technique in Firefox
@@ -22,8 +22,14 @@ Using your PC to watch films while working on something else has recently been p
 
 This feature is an important tool to help you multitask by dragging videos from web pages and navigating to another tab so you can continue working on other tabs while the video keeps playing. In this article, you will understand everything about this feature and how to enable this feature.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![the firefox]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. How Picture-in-Picture Mode Works
 
 Picture-in-Picture allows for simple tab navigation without interfering with the video you are viewing. Enabling this feature allows your videos to play in a tiny overlay utilizing a separate video player. Users may move, resize and even pin the player on the screen. You may even switch between tabs without interfering with video playing.
@@ -52,11 +58,17 @@ Here's how to activate picture-in-picture video control in Firefox**:**
 2. Click on the 3 horizontal lines in the top-right menu.
 3. Choose the **Options/Settings** from the menu list. This opens the settings mode and its general model.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![choose the options/settings]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-2.jpg)
 
 1. Scroll down in the General mode to locate the **Browsing** settings option.
 2. Here, you will see a list of browsing settings; click to select the '**Enable picture in picture video controls'**, and check the box.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![a list of browsing settings]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-3.jpg)
 
 Following the above procedure, you may now see the Firefox Picture-in-Picture symbol in the video streaming player. Whenever you visit a streaming site, a symbol for pip mode appears as an overlay on the video screen.
@@ -71,6 +83,13 @@ You can load only a single video using the above guideline. Suppose you want to 
 4. Repeat the preceding steps on the same page or in a separate tab to open several movies.
 5. Firefox plays the new video above the first. Drag and drop it anywhere to display both.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![the new video above the first]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-5.jpg)
 
 By following these steps, videos appear on the screen at the same time. For all tabs containing open videos, the main Firefox window shows a "play" symbol. Even if you dismiss Firefox, numerous videos will continue to play in other programs or on your desktop.
@@ -81,12 +100,21 @@ Sometimes, the PiP mode can disturb necessary research or task that needs your f
 
 ![click the following icon]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## Part 4\. Other tips about Picture-in-Picture Mode in Firefox
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1 Picture-in-Picture extension in Firefox
 
 Another mode of having your picture-in-picture mode on Firefox is using the available add-on features. You can access several add-on extensions available on Firefox by tapping the **Menu** button. Locate the [add-on menu item](https://addons.mozilla.org/en-US/firefox/) and click it. Once it loads, you can use the search bar at the top right corner to select your preferred picture-in-picture add-on.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2 Keyboard shortcuts about Picture-in-Picture in Firefox
 
 It is also possible to enable and disable the picture-in-picture mode using keyboard shortcuts. To get this done, use the key combination of **'Ctrl + Shift + \]'**. By simultaneously holding these keys, Firefox will launch the relevant video on the web page into a picture-in-picture mode. However, if the feature has been enabled before pressing the key combination, it automatically disables the feature.
@@ -103,6 +131,9 @@ After opening the tab, drag the application up, then scroll down to the bottom r
 
 On Firefox, this mode is always on by default, but when the picture-in-picture feature is not working; follow the step-by-step guideline explained above to enable it manually. Once you perform these procedures using the keyboard shortcut or settings mode, it will start working.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How do I resize the picture-in-picture window in Firefox?
 
 You can, of course, resize it and move it wherever you want. Hold down the left click and move it with your mouse to do this. Simply place your cursor in a corner to expand or shrink the window.
@@ -141,3 +172,38 @@ Picture-in-Picture is a nice feature that helps you increase productivity while 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-adapt-video-dimensions-anytime-anywhere/"><u>[New] Adapt Video Dimensions Anytime, Anywhere</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-compreayers-guide-to-selecting-a-top-4k-lens/"><u>[Updated] A Compreayer's Guide to Selecting a Top 4K Lens</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-step-by-step-guide-to-set-your-tiktok-track-as-ringtone/"><u>[Updated] A Step-by-Step Guide to Set Your TikTok Track as Ringtone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-drones-for-gopro/"><u>[Updated] Best Drones for GoPro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-conquer-the-art-of-slow-motion-expert-guide-to-making-beautifully-extended-video-online-using-photo-apps/"><u>[Updated] Conquer the Art of Slow Motion  Expert Guide to Making Beautifully Extended Video Online Using Photo Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-adobes-photo-jiggle-decrease-enhancing-or-eliminating/"><u>2024 Approved  Adobe's Photo Jiggle Decrease  Enhancing or Eliminating?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-bridge-the-gap-in-airdrop-transfers-solutions-for-iphones-ipads-and-macs/"><u>2024 Approved  Bridge the Gap in Airdrop Transfers  Solutions for iPhones, iPads & Macs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-compact-cost-effective-spherical-video-capture-systems/"><u>2024 Approved  Compact, Cost-Effective Spherical Video Capture Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-4k-odyssey-begins-here-exploring-the-eizo-cg318-4k-monitor-for-2024/"><u>A 4K Odyssey Begins Here – Exploring the EIZO CG318-4K Monitor for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/amplify-your-youtube-audience-three-livestream-strategies/"><u>Amplify Your YouTube Audience  Three Livestream Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/auditory-storytelling-in-cinematic-openings/"><u>Auditory Storytelling in Cinematic Openings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compreeved-insight-androids-version-of-photoshop-lightroom-for-2024/"><u>Compreeved Insight  Android's Version of Photoshop - Lightroom for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-the-best-video-aspect-ratio-experience-for-2024/"><u>Crafting the Best Video Aspect Ratio Experience for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enabling-adaptive-hdr-mode-in-windows-11-os/"><u>Enabling Adaptive HDR Mode in Windows 11 OS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhance-real-time-broadcasts-our-picks-for-9-prime-filters/"><u>Enhance Real-Time Broadcasts  Our Picks for 9 Prime Filters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-endorsed-ae-text-tools/"><u>Expert-Endorsed AE Text Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-samsungs-ue590-4k-gamer-monitor/"><u>Exploring Samsung's UE590 4K Gamer Monitor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-create-a-successful-live-stream/"><u>How to Create A Successful Live Stream</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-metaverse-adventures-to-share-with-pals/"><u>In 2024, Best Metaverse Adventures to Share with Pals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-top-notch-gopro-cinematography-step-by-step/"><u>In 2024, Crafting Top-Notch GoPro Cinematography  Step by Step</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-live-undo-on-twitch-essential-tips-and-strategies/"><u>Mastering Live Undo on Twitch  Essential Tips and Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-zoom-on-xbox-a-step-by-step-guide/"><u>Mastering Zoom on Xbox  A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-world-of-cost-free-text-animation-techniques/"><u>Navigating the World of Cost-Free Text Animation Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-your-first-stride-into-snapseed-land/"><u>Navigating Your First Stride Into Snapseed Land</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/nostalgic-notions-integrating-timeless-vhs-effects-into-modern-video-production/"><u>Nostalgic Notions  Integrating Timeless VHS Effects Into Modern Video Production</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/reactivate-windows-photo-viewer-with-ease-win-11/"><u>Reactivate Windows Photo Viewer with Ease (Win 11)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-and-science-of-compelling-headlines/"><u>The Art & Science of Compelling Headlines</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tips-for-dynamic-animations-using-movie-maker/"><u>Tips for Dynamic Animations Using Movie Maker</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unplug-and-replay-twitch-livestream-techniques/"><u>Unplug and Replay  Twitch Livestream Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-spectrum-simple-fixes-for-perfect-photoshop-palette-adjustments/"><u>Unveiling the Spectrum  Simple Fixes for Perfect Photoshop Palette Adjustments</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/zenith-of-races-olympic-x-snow-highlights/"><u>Zenith of Races - Olympic X-Snow Highlights</u></a></li>
+</ul></div>

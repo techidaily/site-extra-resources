@@ -1,7 +1,7 @@
 ---
 title: "[Updated] 15 Top Free Slow Motion Video Recording Apps for iPhone/Android"
-date: 2024-05-24T04:08:58.631Z
-updated: 2024-05-25T04:08:58.631Z
+date: 2024-07-25T02:44:54.624Z
+updated: 2024-07-26T02:44:54.624Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] 15 Top Free Slow Motion Video Recording Apps for iPhone/Android"
 excerpt: "This Article Describes [Updated] 15 Top Free Slow Motion Video Recording Apps for iPhone/Android"
 keywords: "GoPro Video Editing iOS,Top Editing Apps iOS,Best Video Tools Android,Top Android Editors,Premium GoPro Editing,IPhone Editing Software,Android Video Enhancer"
-thumbnail: https://www.lifewire.com/thmb/-PqPLcCaxGLc23vO2NcYLrrVNWo=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/jongsun-lee-F-pSZO_jeE8-unsplash-f3e7cedccf0c468eacc22b2b9b161def.jpg
+thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b411786ceebe675ffa9f20381.jpg
 ---
 
 ## 15 Top Free Slow Motion Video Recording Apps for iPhone/Android
@@ -36,6 +36,9 @@ The built-in iPhone Camera app is ideal for the majority of photography scenario
 
 Photographs, movies, time-lapse films, and slow-motion recordings may all be captured in high resolution with this program. What’s more, the [Portrait mode](https://tools.techidaily.com/wondershare/filmora/download/) allows you to blur the backdrop of your portrait shots to create a more professional-looking image. Additionally, the Portrait Lighting tool allows you to create studio lighting effects.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![capture slo mo iphone](https://images.wondershare.com/filmora/article-images/capture-slo-mo-iphone.jpg)
 
 Apart from these, you get to make slow-motion videos using the iPhone built-in camera. All you have to do is click on the Slo-Mo option on the camera display, choose the best frame rate for your video on the upper right corner between 120FPS and 240 FPS, choose the zoom level from 0.5x to 2x, and guess what? You've got a slo-mo video on iPhone.
@@ -73,6 +76,9 @@ Slow-motion options include "Super Slow-Mo" and "Slow Motion," with the former b
 * More space may be accommodated in the frame.
 * Every situation may be accommodated by a different method.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### 3\. [FiLMiC Pro](https://www.filmicpro.com/)
 
 **Supported OS**: Android and iOS
@@ -102,6 +108,10 @@ With 24fps playback and 2x slower than real-time film, you'll get 48fps: 24fps t
 * Streamlined HDMI Output for video monitoring and webcams.
 * Zoom control using a ramped rocker lever.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ### 4\. [Slow Motion Video FX: Fast & Slow-Mo Editor](https://play.google.com/store/apps/details?id=com.mobile.bizo.slowmotion&hl=en&gl=US)
 
 **Supported OS:** Android
@@ -110,6 +120,9 @@ Compared to other slow-motion video applications for Android, Slow Motion Video 
 
 Although the smooth action of the camera might cause the movie to become sluggish, this program can change your usual speed video into an unearthly fast-moving film with incredible clarity. The ability to modify the video speed for a particular video region is another outstanding feature of this application.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![slow motion video fx fast slow mo editor recorder](https://images.wondershare.com/filmora/article-images/slow-motion-video-fx-fast-slow-mo-editor-recorder.jpg)
 
 You have the option of selecting a video speed between 0 and 1 in the range of 0 and 1\. Make use of a value that is less than one for slow-motion video recordings.
@@ -125,6 +138,9 @@ The most excellent feature of the program is that it also enables you to create 
 * Focus on the object
 * Change the light settings, contrast, saturation, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### 5\. [SlowCam](https://apps.apple.com/us/app/slowcam/id711410659)
 
 **Supported OS**: iOS
@@ -133,6 +149,9 @@ It is designed specifically for recording slow-motion films at the highest frame
 
 Starting from the beginning, choose the frame rate at which you want to capture the video, then press and hold (you may modify this to continuous recording) the record button to begin recording.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![slowcam slow motion camera app](https://images.wondershare.com/filmora/article-images/slowcam-slow-motion-camera-app.jpg)
 
 The frame rate of SlowCam video is **60 fps.** Slow motion video may also be recorded at 30 frames per second on the iPhone 4 and 4s. At 30 frames per second, your video will be saved to your Camera Roll when it's finished.
@@ -155,6 +174,9 @@ SloPro is one of the most popular slow-motion video programs available in the ap
 
 It is possible to record high-quality video in slow motion at an incredible 60 frames per second with the new SloPro for iOS application.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![slopro slow motion app iphone](https://images.wondershare.com/filmora/article-images/slopro-slow-motion-app-iphone.jpg)
 
 It is possible to classify slow effects into three main categories: optical flow, frame blending, and ghosting. You may purchase an upgrade to the app's pro version using the in-app purchase function of the app.
@@ -223,6 +245,9 @@ In recent years, smartphone cameras have advanced to the point that they can cap
 
 In the camera app on your Samsung Galaxy phone, you should be able to capture slow-motion films, depending on your phone's configuration. High-end Galaxy phones even include a slow-motion option that shoots at 960 frames per second.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![samsung slo mo camera captuer options](https://images.wondershare.com/filmora/article-images/samsung-slo-mo-camera-captuer-options.jpg)
 
 Slow-motion options include "Super Slow-Mo" and "Slow Motion," with the former being the more popular of the two. The "Super" mode records at **960 frames per second**, while the standard slow-motion mode records 240\. Please select the one you'd want to use by tapping it.
@@ -275,6 +300,9 @@ Compared to other slow-motion video applications for Android, Slow Motion Video 
 
 Although the smooth action of the camera might cause the movie to become sluggish, this program can change your usual speed video into an unearthly fast-moving film with incredible clarity. The ability to modify the video speed for a particular video region is another outstanding feature of this application.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![slow motion video fx fast slow mo editor recorder](https://images.wondershare.com/filmora/article-images/slow-motion-video-fx-fast-slow-mo-editor-recorder.jpg)
 
 You have the option of selecting a video speed between 0 and 1 in the range of 0 and 1\. Make use of a value that is less than one for slow-motion video recordings.
@@ -320,6 +348,9 @@ SloPro is one of the most popular slow-motion video programs available in the ap
 
 It is possible to record high-quality video in slow motion at an incredible 60 frames per second with the new SloPro for iOS application.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![slopro slow motion app iphone](https://images.wondershare.com/filmora/article-images/slopro-slow-motion-app-iphone.jpg)
 
 It is possible to classify slow effects into three main categories: optical flow, frame blending, and ghosting. You may purchase an upgrade to the app's pro version using the in-app purchase function of the app.
@@ -335,6 +366,9 @@ It is possible to classify slow effects into three main categories: optical flow
 * Split-screen option
 * Torch
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 7\. [Slow Motion Video Maker – Slow Motion Camera](https://play.google.com/store/apps/details?id=com.videoeditor.slowmotionvideo)
 
 **Supported OS**: Android
@@ -380,6 +414,10 @@ Apart from these, you get to make slow-motion videos using the iPhone built-in c
 * Burst mode is a great way to capture fast-paced activity.
 * Take HDR images with the best possible exposure settings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### 2\. Samsung Camera App
 
 **Supported OS**: Android
@@ -388,6 +426,9 @@ In recent years, smartphone cameras have advanced to the point that they can cap
 
 In the camera app on your Samsung Galaxy phone, you should be able to capture slow-motion films, depending on your phone's configuration. High-end Galaxy phones even include a slow-motion option that shoots at 960 frames per second.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![samsung slo mo camera captuer options](https://images.wondershare.com/filmora/article-images/samsung-slo-mo-camera-captuer-options.jpg)
 
 Slow-motion options include "Super Slow-Mo" and "Slow Motion," with the former being the more popular of the two. The "Super" mode records at **960 frames per second**, while the standard slow-motion mode records 240\. Please select the one you'd want to use by tapping it.
@@ -403,6 +444,10 @@ Slow-motion options include "Super Slow-Mo" and "Slow Motion," with the former b
 * More space may be accommodated in the frame.
 * Every situation may be accommodated by a different method.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### 3\. [FiLMiC Pro](https://www.filmicpro.com/)
 
 **Supported OS**: Android and iOS
@@ -440,6 +485,9 @@ Compared to other slow-motion video applications for Android, Slow Motion Video 
 
 Although the smooth action of the camera might cause the movie to become sluggish, this program can change your usual speed video into an unearthly fast-moving film with incredible clarity. The ability to modify the video speed for a particular video region is another outstanding feature of this application.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![slow motion video fx fast slow mo editor recorder](https://images.wondershare.com/filmora/article-images/slow-motion-video-fx-fast-slow-mo-editor-recorder.jpg)
 
 You have the option of selecting a video speed between 0 and 1 in the range of 0 and 1\. Make use of a value that is less than one for slow-motion video recordings.
@@ -463,6 +511,9 @@ It is designed specifically for recording slow-motion films at the highest frame
 
 Starting from the beginning, choose the frame rate at which you want to capture the video, then press and hold (you may modify this to continuous recording) the record button to begin recording.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![slowcam slow motion camera app](https://images.wondershare.com/filmora/article-images/slowcam-slow-motion-camera-app.jpg)
 
 The frame rate of SlowCam video is **60 fps.** Slow motion video may also be recorded at 30 frames per second on the iPhone 4 and 4s. At 30 frames per second, your video will be saved to your Camera Roll when it's finished.
@@ -477,6 +528,9 @@ Most importantly, the software will render the previously taken video in the bac
 * Support for 240 frames per second (iPhone 6/6+), 120 frames per second (iPhone 5s+), 60 frames per second (iPhone 5/5C, iPad mini), and 30 frames per second (iPad mini) (other devices).
 * Set the focus and exposure points simultaneously or individually (double tap to reset).
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 6\. [SloPro](http://www.sloproapp.com/)
 
 **Supported OS:** iOS
@@ -510,6 +564,9 @@ You may pick between four different video speeds: 1/4x, 1/2x, 1.25x, and 4.0x. Y
 
 The ability to swiftly and reverse or backward your video in a matter of seconds is provided without any difficulty. This feature is also accessible in the free version; there is no need to pay for the premium version to reverse the video.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![slow motion video maker slow motion camera app](https://images.wondershare.com/filmora/article-images/slow-motion-video-maker-slow-motion-camera-app.jpg)
 
 The rest of the features are similar to those available in other video editing software, such as the ability to include music in your movie, trim out any unwanted sections of the film, and upload your video on social media sharing sites.
@@ -553,6 +610,10 @@ In recent years, smartphone cameras have advanced to the point that they can cap
 
 In the camera app on your Samsung Galaxy phone, you should be able to capture slow-motion films, depending on your phone's configuration. High-end Galaxy phones even include a slow-motion option that shoots at 960 frames per second.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![samsung slo mo camera captuer options](https://images.wondershare.com/filmora/article-images/samsung-slo-mo-camera-captuer-options.jpg)
 
 Slow-motion options include "Super Slow-Mo" and "Slow Motion," with the former being the more popular of the two. The "Super" mode records at **960 frames per second**, while the standard slow-motion mode records 240\. Please select the one you'd want to use by tapping it.
@@ -568,6 +629,9 @@ Slow-motion options include "Super Slow-Mo" and "Slow Motion," with the former b
 * More space may be accommodated in the frame.
 * Every situation may be accommodated by a different method.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. [FiLMiC Pro](https://www.filmicpro.com/)
 
 **Supported OS**: Android and iOS
@@ -578,6 +642,9 @@ As our smartphones become more and more capable of replacing classic DSLR camera
 
 FiLMiC Pro has also been utilized to produce professional music videos, and it gives you access to all of the capabilities you'll need.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![filmic pro slo mo capture mode](https://images.wondershare.com/filmora/article-images/filmic-pro-slo-mo-capture-mode.jpg)
 
 Consider the following scenario: you'd want to film footage in slow motion. FiLMiC can assist you in determining your options, such as setting the frame rate, selecting speed, etc.
@@ -642,6 +709,9 @@ Most importantly, the software will render the previously taken video in the bac
 * Support for 240 frames per second (iPhone 6/6+), 120 frames per second (iPhone 5s+), 60 frames per second (iPhone 5/5C, iPad mini), and 30 frames per second (iPad mini) (other devices).
 * Set the focus and exposure points simultaneously or individually (double tap to reset).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 6\. [SloPro](http://www.sloproapp.com/)
 
 **Supported OS:** iOS
@@ -650,6 +720,18 @@ SloPro is one of the most popular slow-motion video programs available in the ap
 
 It is possible to record high-quality video in slow motion at an incredible 60 frames per second with the new SloPro for iOS application.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![slopro slow motion app iphone](https://images.wondershare.com/filmora/article-images/slopro-slow-motion-app-iphone.jpg)
 
 It is possible to classify slow effects into three main categories: optical flow, frame blending, and ghosting. You may purchase an upgrade to the app's pro version using the in-app purchase function of the app.
@@ -665,6 +747,18 @@ It is possible to classify slow effects into three main categories: optical flow
 * Split-screen option
 * Torch
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7\. [Slow Motion Video Maker – Slow Motion Camera](https://play.google.com/store/apps/details?id=com.videoeditor.slowmotionvideo)
 
 **Supported OS**: Android
@@ -675,6 +769,9 @@ You may pick between four different video speeds: 1/4x, 1/2x, 1.25x, and 4.0x. Y
 
 The ability to swiftly and reverse or backward your video in a matter of seconds is provided without any difficulty. This feature is also accessible in the free version; there is no need to pay for the premium version to reverse the video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![slow motion video maker slow motion camera app](https://images.wondershare.com/filmora/article-images/slow-motion-video-maker-slow-motion-camera-app.jpg)
 
 The rest of the features are similar to those available in other video editing software, such as the ability to include music in your movie, trim out any unwanted sections of the film, and upload your video on social media sharing sites.
@@ -716,3 +813,28 @@ Now that you know all the best **Slow Motion Camera Apps** on the market, you ha
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-best-scripting-solutions-for-ae/"><u>[New] Best Scripting Solutions for AE</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capture-clarity-optimal-tripods-for-iphone-and-android/"><u>[New] Capture Clarity  Optimal Tripods for iPhone & Android</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-beyond-imagination-exploring-ar-worlds/"><u>[Updated] Beyond Imagination  Exploring AR Worlds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-collage-alchemy-transforming-scraps-into-art/"><u>[Updated] Collage Alchemy  Transforming Scraps Into Art</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-ace-the-sky-best-drones-and-their-precision-editing-companions/"><u>2024 Approved  Ace the Sky  Best Drones & Their Precision Editing Companions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-techniques-for-sharing-srt-data-on-vimeo-and-linkedin/"><u>2024 Approved  Advanced Techniques for Sharing SRT Data on Vimeo and LinkedIn</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/adjusting-youtube-video-scale-effectively/"><u>Adjusting YouTube Video Scale Effectively</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beginners-guide-to-the-top-10-filmmaking-cameras/"><u>Beginner's Guide to the Top 10 Filmmaking Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/budget-saving-stratospheric-storage-for-heavy-dumps-for-2024/"><u>Budget-Saving Stratospheric Storage for Heavy Dumps for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-meme-creation-app/"><u>Cutting-Edge Meme Creation App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-the-dynamics-of-fb-video-speeds/"><u>Exploring the Dynamics of FB Video Speeds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-download-free-picture-frame-videos/"><u>How to Download Free Picture Frame Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-boost-iphone-photographic-finesse-with-essential-additions/"><u>In 2024, Boost iPhone Photographic Finesse with Essential Additions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/one-ear-beats-issue-repair-path/"><u>One-Ear Beats Issue Repair Path</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/picsart-secret-conceal-faces-easily/"><u>Picsart Secret  Conceal Faces Easily</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-listings-photoplustune-recording-software-innovations/"><u>Prime Listings  Photo+Tune Recording Software Innovations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/real-world-perceptions-of-vllo/"><u>Real-World Perceptions of VLLO</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/superior-methods-transforming-pinterest-visuals-into-audios/"><u>Superior Methods  Transforming Pinterest Visuals Into Audios</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-photoshop-guide-to-text-becoming-3d/"><u>The Ultimate Photoshop Guide to Text Becoming 3D</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tips-for-a-smooth-transition-into-vr-worlds/"><u>Tips for a Smooth Transition Into VR Worlds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-5-audio-capture-techniques-for-window-warriors/"><u>Top 5 Audio Capture Techniques for Window Warriors</u></a></li>
+</ul></div>

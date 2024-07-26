@@ -1,7 +1,7 @@
 ---
 title: "[Updated] A Peek Into the Viral World of Stock Photo Memes"
-date: 2024-05-24T05:11:18.488Z
-updated: 2024-05-25T05:11:18.488Z
+date: 2024-07-25T04:43:06.281Z
+updated: 2024-07-26T04:43:06.281Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] A Peek Into the Viral World of Stock Photo Memes"
 excerpt: "This Article Describes [Updated] A Peek Into the Viral World of Stock Photo Memes"
 keywords: "\"Photo Meme Trends,Viral Stock Memes,Shareable Photo Content,Meme Marketing Tactics,Image-Based Humor,Social Media Memes,Stock Photos Going Viral\""
-thumbnail: https://www.lifewire.com/thmb/9W5WO_ywvBNq_CBfexvVw3IvbV4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/womanusinglaptopfrustrated_small-5c50cd76c9e77c00016f382a.jpg
+thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a88766153a92e1f9e8401a4428c9fb.jpg
 ---
 
 ## A Peek Into the Viral World of Stock Photo Memes
@@ -24,6 +24,13 @@ So, what are the most popular stock photo memes, and how did they reach this sta
 
 ## Part1: Hide the Pain Harold
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
 
 Since 2011, Hide the Pain Harold continues to rank as one of the world's most popular stock photo memes. Here are some numbers to show you how popular the meme is.
@@ -43,6 +50,10 @@ According to Andras, Hide the Pain Harold results from his vacation in Turkey. A
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Part2: Distracted Boyfriend
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
@@ -68,8 +79,14 @@ The latest version of Distracted boyfriend is a compilation of photos featuring 
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part3: I Bet He's Thinking About Other Women
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
 
 The meme features a couple in bed with the stock photo meme guy in contemplation and the woman facing him with a concerned look. At first glance, the image shows a couple experiencing relationship problems, with the original caption showing the woman worrying that the man is thinking about other women.
@@ -82,6 +99,9 @@ A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In
 
 * Redditor GallowBoob received 34,700 points and 350 comments within 24 hours of posting it.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
 
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
@@ -90,12 +110,18 @@ The post references the Toy Story character Buzz Lightyear, with the man contemp
 
 According to sources, the stock photo meme was first featured on Twitter in December 2016.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
 ## Part4: Bonjour Bear
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
 
 Unlike the previous stock image memes, Bonjour Bear was not an instant hit among netizens. The stock image was posted online in 2016 by Uryadnikov Sergey and featured a polar bear peeking through its winter den. However, it began causing a buzz in early 2019, following a Reddit post that included hilarious captions.
@@ -104,6 +130,9 @@ Since then, internet users have continued to use the Bonjour Bear meme to refere
 
 * In this version, Bonjour Bear reacts to the discovery of a wound after using hand sanitizer. The post became popular during the COVID-19 pandemic when using hand sanitizer was at its peak.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![using hand sanitizer](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-12.jpg)
 
 In addition, the post received over 91,700 points, with 95% of upvotes, within a day on Reddit.
@@ -113,6 +142,9 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part5: FAQs
 
 ### 1\. Can you use stock photos for memes?
@@ -121,6 +153,9 @@ Yes, you can use stock photos for memes. However, you need to obtain them from r
 
 This is because not all stock photo providers offer their images with a creative commons license. For example, the Unsplash license allows you to use their stock images for personal or commercial use after making adjustments to the original.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ### 2\. Does copyright law protect memes?
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
@@ -161,3 +196,36 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-advanced-techniques-to-manage-safe-area-multitasking/"><u>[New] Advanced Techniques to Manage Safe Area Multitasking</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-18-steps-to-make-your-instagram-unboxing-content-stand-out/"><u>[Updated] 18 Steps to Make Your Instagram Unboxing Content Stand Out</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-boosted-presentation-pace-speeding-slide-transitions/"><u>[Updated] Boosted Presentation Pace  Speeding Slide Transitions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-unbeatable-face-editing-tools-for-iphone-and-samsungs-for-2024/"><u>10 Unbeatable Face-Editing Tools for iPhone & Samsungs for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-step-by-step-guide-to-gopro-time-lapse-mastery/"><u>2024 Approved  A Step-by-Step Guide to GoPro Time-Lapse Mastery</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-showcasing-book-trailers/"><u>2024 Approved  Best Showcasing Book Trailers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-closer-look-at-immersive-virtual-reality-tech-for-2024/"><u>A Closer Look at Immersive Virtual Reality Tech for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-tools-for-broadcasting-professionals-for-2024/"><u>Advanced Tools for Broadcasting Professionals for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/asus-mg28uq-monitor-review-bridging-the-high-res-divide/"><u>ASUS MG28UQ Monitor Review  Bridging the High-Res Divide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beyond-expectations-the-latest-lg-tv-bp550-review-for-2024/"><u>Beyond Expectations  The Latest LG TV BP550 Review for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-dj-game-free-easy-online-beat-detectors-revealed-for-2024/"><u>Boosting DJ Game  Free, Easy Online Beat Detectors Revealed for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/charting-the-course-to-cash-how-much-does-pewdopeep-make-in-2024/"><u>Charting the Course to Cash  How Much Does PewDoPeep Make, In 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/choosing-a-gimbal-for-smooth-drone-photos-and-videos/"><u>Choosing a Gimbal for Smooth Drone Photos and Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/clockwise-conundrum-video-undo-for-iphone-users/"><u>Clockwise Conundrum  Video Undo for iPhone Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/conquer-your-first-successful-zoom-call/"><u>Conquer Your First Successful Zoom Call</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-compelling-narratives-key-market-words-and-phrases-for-2024/"><u>Crafting Compelling Narratives  Key Market Words and Phrases for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-guide-to-5-windows-11-features-for-audio-recording-professionals/"><u>Essential Guide to 5 Windows 11 Features for Audio Recording Professionals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/extraordinary-assessment-and-alternative-choices/"><u>Extraordinary Assessment & Alternative Choices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hdr-advantages-in-video-workflow-over-traditional-sdr/"><u>HDR Advantages in Video Workflow Over Traditional SDR</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hear-got-music-top-sites-to-download-ringtones/"><u>Hear GoT Music - Top Sites to Download Ringtones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/humorhub-generate-hilarious-jokes-and-gifs-easily/"><u>HumorHub  Generate Hilarious Jokes and GIFs Easily</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-complete-guide-to-morphvox-voice-changer-find-the-best-way/"><u>In 2024, Complete Guide to MorphVOX Voice Changer  Find the Best Way</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/learn-to-link-zoom-effortlessly-with-email-clients-like-gmail/"><u>Learn to Link Zoom Effortlessly with Email Clients Like Gmail</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-windows-color-rich-video-landscape/"><u>Navigating Windows' Color-Rich Video Landscape</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/palette-playbook-utilizing-theoretical-knowledge/"><u>Palette Playbook  Utilizing Theoretical Knowledge</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-creators-of-screenplay-world/"><u>Prime Creators of Screenplay World</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/strategies-for-smooth-srt-exports-post-premiere/"><u>Strategies for Smooth SRT Exports Post-Premiere</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-6-devices-for-global-video-communication/"><u>Top 6 Devices for Global Video Communication</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transfer-secrets-top-5-tactics-to-move-files-onto-your-pc/"><u>Transfer Secrets  Top 5 Tactics to Move Files Onto Your PC</u></a></li>
+</ul></div>

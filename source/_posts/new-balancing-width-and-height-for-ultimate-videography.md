@@ -1,7 +1,7 @@
 ---
 title: "[New] Balancing Width and Height for Ultimate Videography"
-date: 2024-05-24T05:32:35.112Z
-updated: 2024-05-25T05:32:35.112Z
+date: 2024-07-25T05:22:59.428Z
+updated: 2024-07-26T05:22:59.428Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Balancing Width and Height for Ultimate Videography"
 excerpt: "This Article Describes [New] Balancing Width and Height for Ultimate Videography"
 keywords: "\"Video Balance Ratio,WideVid Proportion,Height to Width in Video,Aspect Ratios Mastery,Optimal Vid Dimensions,Videography Scaling Tips,High-Quality Video Layout\""
-thumbnail: https://www.lifewire.com/thmb/1tfn1xCFnroYT88eooqQPieucuw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/CherieKloss1-c0ada8b85c6a4e1d819a441e25dbfeb1.jpeg
+thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3a23bf93996d4e40618dadce.jpeg
 ---
 
 ## Balancing Width and Height for Ultimate Videography
@@ -28,10 +28,16 @@ With that said, let's dive right into it!
 
 Aspect ratio is a digital image projection attribute describing the distance between the width and the height of an image. The dimensions are also defined as shapes such as a square which is 4:3\. A rectangle represents the 16:9 standard high definition aspect ratio, and inverted what you see on phones, that will be 9:16\. 9 refers to the width and 16 to the height.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Commonly used aspect ratios
 
 There is no same aspect ratio that is used across all social media platforms. Depending on which social media platform you are planning to upload, you have to make sure you have the correct aspect ratio for your target audience. The optimal viewing experience is what matters.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 16:9 Widescreen
 
 This aspect ratio is recognized as the worldwide reference format for film, mobile devides, DSLR cameras, streaming platforms, social media platforms, and many more. It is known as landscape viewing which include 720p, 1080p HD and 4K resolution.
@@ -44,14 +50,23 @@ This resolution is originally used in older television screens, which transforme
 
 The 9:16 aspect ratio has become the mainstream resolution for smartphones for easier viewing of videos. This resolution allows for the vertical display of videos on tablets and phones, meaning that it allows videos to play while the device is being held in its upright position. This works ideally for Facebook, Instagram, Snapchat, YouTube Shorts, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 21:9 Cinematic Widescreen
 
 The 21:9 resolution is designed for filming ultra-wide screen movies that gives the viewer a theater-like feeling. It's mostly used to display films and movies in anamorphic formats. Just like on ultra-wide monitors, it allows the video to be shown across the entire screen, giving you a cinema-like experience. This resolution contributes to a broader viewing experience in any shape or form.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Which aspect ratio should I choose?
 
 Depending on your project, broadcast location and filming options, here you can find an overview of which platforms are using which resolutions and how you can use that to improve your filming and viewer experience.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Facebook
 
 Facebook is one of the most used website across the world on both computer and the mobile app. This is a great platform to let people discover your content. In order to please new viewers, let's look at the resolutions Facebook supports and which one would be your best option depending on your content.
@@ -94,6 +109,9 @@ When talking about Instagram, which is very similar to Facebook, use these aspec
 
 9:16 for IGTV
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### TikTok
 
 Before Musical.ly users were migrated to a new platform called TikTok in 2018, it has been the leader on the board for a long time, and here are the recommended resolutions we think give the best results. Tik Tok allows you to share short videos, and is used by young people as an outlet to show their talents whether it's dancing, singing, cooking, comedy or any other form of entertainment they can express and use on the platform. There's also a feature to work together and collaborate with other Tik Tok creators across the globe.
@@ -104,6 +122,9 @@ Before Musical.ly users were migrated to a new platform called TikTok in 2018, i
 
 1:1; 16:9 or 9:16 for TikTok advertisements
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. How to adjust the aspect ratio of a video?
 
 A very important point we'd like to mention is that we don't recommend changing the aspect ratio after filming, because it could harm the video quality and we think it's best to choose the aspect ratio on your phone or camera before filming, besides that we have some great tips for optimizing your video for the watching experience below.
@@ -152,3 +173,27 @@ Having your video tested on multiple devices will allow you to see a preview of 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-clearer-view-deeper-insight-zoom-techniques-in-videoleap/"><u>[New] Clearer View, Deeper Insight  Zoom Techniques in Videoleap</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-charting-your-path-strategies-that-lead-to-1m-audience/"><u>[Updated] Charting Your Path  Strategies That Lead to 1M Audience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-action-in-motion-best-surfing-cams-of-2023-update/"><u>2024 Approved  Action in Motion  Best Surfing Cams of 2023 Update</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-creativity-android-photography-guide/"><u>2024 Approved  Capturing Creativity  Android Photography Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-charting-the-course-visual-content-in-educational-endeavors/"><u>2024 Approved  Charting the Course  Visual Content in Educational Endeavors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/breaking-barriers-how-to-enjoy-virtual-journeys/"><u>Breaking Barriers  How to Enjoy Virtual Journeys</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/charting-course-videos-as-catalysts-in-teaching-for-2024/"><u>Charting Course  Videos as Catalysts in Teaching for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creative-composition-ideal-apps-for-ios-and-android/"><u>Creative Composition  Ideal Apps for iOS and Android</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-edits-complimentary-image-enhancer-app/"><u>Elevate Edits - Complimentary Image Enhancer App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/examining-instagrams-unusual-video-aspect-ratio-anomalies/"><u>Examining Instagram's Unusual Video Aspect Ratio Anomalies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-beijings-glacial-gala-the-olympics-of-winter-2022/"><u>In 2024, Beijing's Glacial Gala  The Olympics of Winter, 2022</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-bypassing-hurdles-seamless-pc-file-integration-tips-and-tricks/"><u>In 2024, Bypassing Hurdles  Seamless PC File Integration Tips and Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-compensated-analysis-the-vlog-perspective-on-goods/"><u>In 2024, Compensated Analysis  The Vlog Perspective on Goods?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-calm-conclusions-fading-out-audio-effects-in-adobe-premiere-pro/"><u>In 2024, Crafting Calm Conclusions  Fading Out Audio Effects in Adobe Premiere Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/no-pay-unlock-fcp-paths-to-a-free-edit-suite/"><u>No Pay? Unlock FCP  Paths to a Free Edit Suite</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/spectral-savvy-applying-color-science/"><u>Spectral Savvy  Applying Color Science</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-editing-game-changer-fcps-best-10-plugins/"><u>The Editing Game Changer  FCP's Best 10 Plugins</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-mac-exclusive-free-drawing-platforms/"><u>Top 10 Mac-Exclusive Free Drawing Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vlc-media-player-review-and-alternatives/"><u>VLC Media Player Review and Alternatives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/whimsical-videoland-assessment/"><u>Whimsical Videoland Assessment</u></a></li>
+</ul></div>

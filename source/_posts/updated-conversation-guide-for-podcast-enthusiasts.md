@@ -1,7 +1,7 @@
 ---
 title: "Updated Conversation Guide for Podcast Enthusiasts"
-date: 2024-05-24T05:46:17.588Z
-updated: 2024-05-25T05:46:17.588Z
+date: 2024-07-25T05:47:43.304Z
+updated: 2024-07-26T05:47:43.304Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,9 @@ The best podcast questions to ask guests differ according to your niche and the 
 
 The best way is to divide your questions into different categories.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Great Icebreaker/Intro Questions
 
 Icebreaker questions are used to begin an interview or meeting. These are personal questions to learn more about one another quickly. For example, the prompt might be "share your name, role, and what you usually do during the weekend." These questions aim to have fun, create points of connection between guests, and build confidence in speaking in front of the group.
@@ -49,6 +52,9 @@ Here are some icebreaker questions that you can ask to start an interview.
 9. What is one of your greatest challenges in life?
 10. How did you meet your spouse or partner?
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Leading Question
 
 A leading question suggests a particular answer to the question that the questioner desires. These questions mostly have a yes or no answer. However, if you extract your question from the answer just given by the guest of the podcast, it is also a leading question.
@@ -73,10 +79,16 @@ Some leading questions that you can ask are discussed below.
 14. Can you give an example?
 15. What do you suggest to our audience who are facing the same problems?
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Comparison Questions
 
 In an interview, a comparison question is one where you ask a person what he prefers between these two things. This type of question can also advance the discussion of the topic. Besides, you can get a deeper understanding of what guests think and feel about this podcast episode.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![comparison questions](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-4.jpg)
 
 You can ask questions from the comparison questions given below.
@@ -133,6 +145,18 @@ You can get the best information from the person you are interviewing if you do 
 
 As an interviewer, "why" is your most powerful tool. Guests usually provide surface-level information or opinions. The follow-up question of "why" makes them go further and give deeper details. It will also help your audience understand correctly what the guest wants to say.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What happened next?
 
 If your guest is overwhelmed by the emotions and has stopped before completing his answer, help him achieve it by asking, "What Happened Next?" Use a softer tone while asking this question.
@@ -141,6 +165,9 @@ If your guest is overwhelmed by the emotions and has stopped before completing h
 
 Sometimes you want the guest to answer your questions with feelings and emotions. Making your guest answer your questions while drenched in emotions can take your podcast to the next level. Questions like "What were your feelings when this happened?" can take the guest back to the past and make him answer your question with full emotions.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Mirror your guest
 
 Repeat the same few last words that a guest just said when he finishes his thought, and by doing that, you're creating an intonation that's sort of like a question. It's another way to permit the person you're interviewing to keep going. For example, your question might go like this. Perhaps you're asking somebody about his favorite software of the year that they've used in video editing.
@@ -158,6 +185,9 @@ So you see how this can continue to move forward by simply mirroring your guest.
 
 The best thing you can extract from someone in a podcast is their story. If you want to pull out a story from someone, phrase it like this, "Tell me about a time when..." After this question, your job is to sit back, listen, and not interrupt the guest.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## Part 4\. Podcast Questions to Avoid Asking
 
 Avoiding asking wrong questions is as important as asking good questions. Some questions will negatively impact your podcast's quality, so avoid asking such questions. Here are some questions that you should not ask.
@@ -168,10 +198,16 @@ Avoiding asking wrong questions is as important as asking good questions. Some q
 * Similarly, avoid asking questions to which you can predict the answer will be a "no."
 * Avoid questions that might offend your guest.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## Part 5\. Should I Send an Advance Interview Questions Podcast?
 
 Yes, you can send interview questions to guests. Therefore, they get time to prepare interesting responses. Also, they may think about their answers or type out lengthy responses. Either way, they'll feel more comfortable and help you make better content.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Take Your Content to the Next Level and Gets Shared
 
 A podcast is only as good as the questions being asked. By carefully choosing which questions to ask and which to avoid, you can take your content to the next level. It also enhances the interest of listeners.
@@ -208,3 +244,26 @@ Consider the following when picking which of the above questions to use on your 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/chuckles-and-chortles-reviewing-the-goofy-movie-on-vhs/"><u>'Chuckles and Chortles' - Reviewing The Goofy Movie on VHS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-audio-dimming-techniques-in-logic-pro/"><u>[New] Audio Dimming Techniques in Logic Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-big-waters-better-views-top-5-fishing-cams/"><u>[New] Big Waters, Better Views - Top 5 Fishing Cams</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-blueprint-for-blending-video-content-into-curricula/"><u>[New] Blueprint for Blending Video Content Into Curricula</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-must-have-luts-to-transform-your-lightroom-images/"><u>10 Must-Have LUTs to Transform Your LightRoom Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-amusing-tones-bestringeonsite-roundup/"><u>2024 Approved  Amusing Tones  Bestringeonsite Roundup</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-complete-walkthrough-mastering-adobe-cloud-services/"><u>2024 Approved  Complete Walkthrough  Mastering Adobe Cloud Services</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-conquer-the-cutting-edge-with-advanced-pixlr-tricks/"><u>2024 Approved  Conquer the Cutting-Edge with Advanced Pixlr Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/budget-conscious-skydrive-keepers-mass-file-basket-savings/"><u>Budget-Conscious Skydrive Keepers  Mass File Basket Savings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/burst-to-blast-android-apps-transform-slow-motion/"><u>Burst to Blast  Android Apps Transform Slow Motion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creative-auditory-shifts-with-premiere-pro/"><u>Creative Auditory Shifts with Premiere Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-online-repositories-12-sites-with-free-photography-samples/"><u>Essential Online Repositories - 12 Sites with Free Photography Samples</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expanding-creative-horizons-with-custom-fonts-in-after-effects/"><u>Expanding Creative Horizons with Custom Fonts in After Effects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/getting-to-know-picsart-better-with-a-complete-2024-reveal-and-tutorial/"><u>Getting to Know PicsArt Better with a Complete 2024 Reveal & Tutorial</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-play-your-iphone-videos-backward/"><u>How to Play Your iPhone Videos Backward</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/integrated-marketing-campaigns-for-brand-and-video-platforms/"><u>Integrated Marketing Campaigns for Brand and Video Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/learn-to-get-c-span-footage-at-no-charge/"><u>Learn to Get C-Span Footage at No Charge</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfect-photo-motion-blur-with-adobe-photoshop-tips/"><u>Perfect Photo Motion Blur with Adobe Photoshop Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premium-handheld-mounts-precision-and-stability-combined/"><u>Premium Handheld Mounts  Precision and Stability Combined</u></a></li>
+</ul></div>

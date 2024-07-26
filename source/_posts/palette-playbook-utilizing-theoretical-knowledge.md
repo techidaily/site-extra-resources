@@ -1,7 +1,7 @@
 ---
 title: "\"Palette Playbook  Utilizing Theoretical Knowledge\""
-date: 2024-05-24T04:40:10.132Z
-updated: 2024-05-25T04:40:10.132Z
+date: 2024-07-25T03:46:17.283Z
+updated: 2024-07-26T03:46:17.283Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Palette Playbook: Utilizing Theoretical Knowledge\""
 excerpt: "\"This Article Describes Palette Playbook: Utilizing Theoretical Knowledge\""
 keywords: "\"Palette Theory Basics,Creative Use of Color,Design Know-How Guide,Artistic Tools Mastery,Theorist's Colour Playbook,Learning Color Dynamics,Essential Art Strategies\""
-thumbnail: https://www.lifewire.com/thmb/ptJRWjuxgGi4z_RocHeofAowbvw=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/kilian-seiler-PZLgTUAhxMM-unsplash-3c3f238654c44171a5febe7a0f5749c5.jpg
+thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06b50eb65c4dc48b9a72515ec.jpg
 ---
 
 ## Palette Playbook: Utilizing Theoretical Knowledge
@@ -28,6 +28,9 @@ Color theory consists of many elements that could fill a library on its own but 
 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Color Wheel
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
@@ -36,10 +39,18 @@ Using red, green and blue as primary colors we can mix the colors to one another
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Color Harmony
 
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
@@ -50,10 +61,16 @@ The blue lines represent what is known as split contrasting colors and these wil
 
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## But How Do I Use This
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
 
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
@@ -64,6 +81,9 @@ As you can see from this example the base color for the scene is a dark blue/pur
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 By including this into your thought process when creating videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) you will achieve well balanced and harmonious content for your viewer to enjoy and create better engagement. It's not by chance these things happen though, it's through research and planning that the most iconic scenes and characters are created and this is just one small brick in the foundations of content creation. With practice this will become second nature to you and that is the main goal of this guide.
@@ -98,3 +118,44 @@ By including this into your thought process when creating videos with [Filmora](
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-advanced-directors-toolkit-powerdirector-24/"><u>[New] Advanced Directors' Toolkit  PowerDirector '24</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-cinematographic-savoir-faire-food-videographers-essentials/"><u>[New] Cinematographic Savoir-Faire  Food Videographer's Essentials</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-avoiding-simulated-reality-ills-strategies-and-tips/"><u>2024 Approved  Avoiding Simulated Reality Ills  Strategies and Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breathless-battles-olympic-short-track/"><u>2024 Approved  Breathless Battles  Olympic Short Track</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-guide-to-microsoft-azure-transcription-service/"><u>2024 Approved  Comprehensive Guide to Microsoft Azure Transcription Service</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-creating-captivating-iphone-lengthened-photos/"><u>2024 Approved  Creating Captivating iPhone Lengthened Photos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-decade-of-innovation-in-online-cricket-streaming-for-2024/"><u>A Decade of Innovation in Online Cricket Streaming for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-decades-best-anime-opening-songs-compiled-for-2024/"><u>A Decade's Best  Anime Opening Songs Compiled for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/apex-of-scripting-soundscapes/"><u>Apex of Scripting Soundscapes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-slow-mo-magic-with-gopro-hero-10/"><u>Capturing Slow-Mo Magic with GoPro Hero 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/command-the-field-with-a-customized-in-game-character-voice-in-free-fire-for-2024/"><u>Command the Field with a Customized In-Game Character Voice in Free Fire for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compact-cameras-for-mobile-cinematography/"><u>Compact Cameras for Mobile Cinematography</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-visual-stories-a-detailed-magix-video-pro-x-review-for-2024/"><u>Crafting Visual Stories  A Detailed Magix Video Pro X Review for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/embark-on-a-funimate-adventure/"><u>Embark on a Funimate Adventure</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-retro-effects-for-modern-video-creation/"><u>Essential Retro Effects for Modern Video Creation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hone-your-image-by-removing-surroundings/"><u>Hone Your Image by Removing Surroundings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-complete-concise-introduction-to-mastering-final-cut-pro-techniques/"><u>In 2024, A Complete, Concise Introduction to Mastering Final Cut Pro Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-achieving-visual-excellence-with-the-best-4k-monitors-on-the-market/"><u>In 2024, Achieving Visual Excellence with the Best 4K Monitors on the Market</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-value-for-money-in-budget-4k-cameras-(1000/"><u>In 2024, Best Value for Money in Budget 4K Cameras (<$1,000)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lace-footage-with-music-using-premiere-pro/"><u>Lace Footage with Music Using Premiere Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/launchpad-for-newcomers-creating-a-successful-product-evaluation-vlog/"><u>Launchpad for Newcomers  Creating a Successful Product Evaluation Vlog</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-comfort-10-tips-for-vr/"><u>Mastering Comfort  10 Tips for VR</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/must-see-upgrades-in-vr-armor/"><u>Must-See Upgrades in VR Armor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfect-your-images-with-dynamic-text-tools/"><u>Perfect Your Images with Dynamic Text Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/powerdirector-unleashed-in-depth-2024-analysis-and-guide/"><u>PowerDirector Unleashed  In-Depth 2024 Analysis and Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premium-slow-motion-mobile-photography-and-video-apps-iosandroid/"><u>Premium Slow Motion Mobile Photography & Video Apps iOS/Android</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/rank-the-best-comparative-study-of-6-hdmi-21-monitors/"><u>Rank the Best  Comparative Study of 6 HDMI 2.1 Monitors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlining-audacity-for-superior-audio-capture/"><u>Streamlining Audacity for Superior Audio Capture</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-20-word-formula-to-skyrocket-your-business-reach/"><u>The 20-Word Formula to Skyrocket Your Business Reach</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-battle-of-video-players-vlc-vs-mx/"><u>The Battle of Video Players  VLC Vs. MX</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essential-tutorial-for-making-memes-on-9gag/"><u>The Essential Tutorial for Making Memes on 9GAG</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-online-photo-cropting-accuracy/"><u>The Ultimate Guide to Online Photo Cropting Accuracy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-30-slept-on-speech-to-text-apps-for-macos-users/"><u>Top 30 Slept-On Speech to Text Apps for macOS Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-budget-friendly-gopro-adds/"><u>Ultimate Budget-Friendly GoPro Adds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-your-full-potential-top-ideas-for-productive-podcast-sessions/"><u>Unleash Your Full Potential  Top Ideas for Productive Podcast Sessions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visual-virtuosity-unveiled-a-close-look-at-the-z32x-4k-monitor/"><u>Visual Virtuosity Unveiled  A Close Look at the Z32X 4K Monitor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/yi-cameras-edge-in-cinematic-quality-4k-capture/"><u>Yi Camera's Edge in Cinematic Quality 4K Capture</u></a></li>
+</ul></div>

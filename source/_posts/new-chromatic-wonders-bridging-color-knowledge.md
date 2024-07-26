@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Chromatic Wonders  Bridging Color Knowledge\""
-date: 2024-07-06T17:44:24.451Z
-updated: 2024-07-07T17:44:24.451Z
+date: 2024-07-25T02:59:18.884Z
+updated: 2024-07-26T02:59:18.884Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ So, you've heard about color theory but don't know what it is or how to use it a
 
 If you are more selective with your colors in your videos or imagery the viewer will find this aesthetically pleasing and may be more engaged in your content. This includes anything from logo design all the way to props for your shot. When creating your videos within Filmora it is good practice to think about your composition in all aspects including color theory and with the guide hopefully you will have a better understanding of how you can influence your color palette.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is Color Theory
 
 Color theory consists of many elements that could fill a library on its own but for this guide we will focus on two key elements. The color wheel and color harmony. By understanding the color wheel and color harmony you can hand pick which colors to add or use in your pieces to create a well-balanced viewing experience which can help in viewer engagement and enjoyment.
@@ -32,6 +35,9 @@ There are many color wheels out there and all require understanding and research
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
@@ -40,6 +46,9 @@ As you can see, we have every color available in this wheel and they are arrange
 
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
@@ -50,6 +59,9 @@ The blue lines represent what is known as split contrasting colors and these wil
 
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## But How Do I Use This
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
@@ -60,10 +72,16 @@ In this scene the director decided that the backdrop should complement the top t
 
 As you can see from this example the base color for the scene is a dark blue/purple and using the analogous color of pink they created a point of interest within the scene that doesn't look out of place. This is a very good way to pull the viewers eyes towards something you want them to take in above all else.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 By including this into your thought process when creating videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) you will achieve well balanced and harmonious content for your viewer to enjoy and create better engagement. It's not by chance these things happen though, it's through research and planning that the most iconic scenes and characters are created and this is just one small brick in the foundations of content creation. With practice this will become second nature to you and that is the main goal of this guide.
@@ -98,3 +116,42 @@ By including this into your thought process when creating videos with [Filmora](
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-behind-the-scenes-to-the-best-free-meme-designs/"><u>[New] Behind-The-Scenes to the Best FREE Meme Designs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-compelling-mp4-player-selections-reviewed/"><u>[New] Compelling MP4 Player Selections Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comprehensively-understanding-hands-directive-controls/"><u>[New] Comprehensively Understanding Hands' Directive Controls</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-are-reviews-on-merchandise-streamed-for-cash/"><u>[Updated] Are Reviews on Merchandise Streamed for Cash?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-back-track-technique-reverse-video-in-ios-devices/"><u>[Updated] Back-Track Technique  Reverse Video in iOS Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-bridging-the-gap-enhancing-your-edits-with-inshot-transitions/"><u>[Updated] Bridging the Gap  Enhancing Your Edits with Inshot Transitions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-conquering-remote-work-mastering-the-use-of-zoom-and-gmail/"><u>[Updated] Conquering Remote Work  Mastering the Use of Zoom and Gmail</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-browse-these-top-10-online-markets-for-one-of-a-kind-gift-boxes/"><u>2024 Approved  Browse These Top 10 Online Markets for One-of-a-Kind Gift Boxes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-clearer-views-the-top-10-online-photo-fixes/"><u>2024 Approved  Clearer Views  The Top 10 Online Photo Fixes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/addressing-video-lag-on-photo-booth-experience-for-2024/"><u>Addressing Video Lag on Photo Booth Experience for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/choreographing-a-dynamic-trailer-sequence/"><u>Choreographing a Dynamic Trailer Sequence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-guide-understanding-google-podcasts/"><u>Comprehensive Guide  Understanding Google Podcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensively-understanding-iphone-audio-acquisition-for-2024/"><u>Comprehensively Understanding iPhone Audio Acquisition for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-ways-of-shooting-with-a-fisheye-lens/"><u>Cutting-Edge Ways of Shooting with a Fisheye Lens</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/digital-dynamics-pro-strategies-to-switch-shades/"><u>Digital Dynamics  Pro Strategies to Switch Shades</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/embedding-yt-tracks-in-movie-frameworks/"><u>Embedding YT Tracks in Movie Frameworks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exclusive-selection-best-desktop-pcs/"><u>Exclusive Selection  Best Desktop Pcs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fiscal-flyers-list-least-expensive-drones-in-market/"><u>Fiscal Flyers' List  Least Expensive Drones in Market</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/frame-your-life-with-iphones-top-10-photo-rules/"><u>Frame Your Life with iPhone's Top 10 Photo Rules</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/haptic-realities-now/"><u>Haptic Realities Now</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harnessing-pip-feature-a-comprehensive-guide/"><u>Harnessing PIP Feature  A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/high-end-streaming-gear-for-professionals/"><u>High-End Streaming Gear for Professionals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-comprehensive-look-at-uploading-images-to-youtube/"><u>In 2024, A Comprehensive Look at Uploading Images to YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-asus-proart-4k-ultra-a-pro-artists-dream-display/"><u>In 2024, ASUS ProArt 4K Ultra  A Pro Artist's Dream Display</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-callers-audio-logger-iphone-24/"><u>In 2024, Caller's Audio Logger  IPhone '24</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-conquer-mixer-broadcasting-on-macos-systems/"><u>In 2024, Conquer Mixer Broadcasting on macOS Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-picks-for-live-tv-access-and-streaming/"><u>Prime Picks for Live TV Access and Streaming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlining-your-figma-project-with-clean-backgrounds/"><u>Streamlining Your Figma Project with Clean Backgrounds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-closer-insight-in-roblox-games/"><u>The Ultimate Guide to Closer Insight in Roblox Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tips-to-trim-down-lag-during-xbox-zoom-sessions/"><u>Tips to Trim Down Lag During Xbox-Zoom Sessions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-vr-films-that-you-should-never-miss/"><u>Top VR Films That You Should Never Miss</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transform-communication-top-free-mac-text-to-speech-software-rankings/"><u>Transform Communication  Top Free Mac Text-to-Speech Software Rankings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-your-creative-potential-with-audio-edits-in-canva-videos/"><u>Unlock Your Creative Potential with Audio Edits in Canva Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unpacking-the-benefits-of-lgs-4k-sync-monitors/"><u>Unpacking the Benefits of LG's 4K Sync Monitors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/watermark-warriors-10-best-tools-unveiled/"><u>Watermark Warriors  10 Best Tools Unveiled</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Core Ideas Behind Online Story Crafting"
-date: 2024-05-24T05:49:57.406Z
-updated: 2024-05-25T05:49:57.406Z
+date: 2024-07-25T05:53:55.344Z
+updated: 2024-07-26T05:53:55.344Z
 tags: 
   - screen-recording
   - ai video
@@ -13,17 +13,23 @@ categories:
 description: "This Article Describes [Updated] Core Ideas Behind Online Story Crafting"
 excerpt: "This Article Describes [Updated] Core Ideas Behind Online Story Crafting"
 keywords: "StoryCraftOnline,DigitalNarrativeBuild,WebStoryCreation,NarrativesOnline,ContentWebCraft,OnlineTaleDesign,ScriptDigitalArt"
-thumbnail: https://www.lifewire.com/thmb/asCAao3Tfs8ZxVZumyLz52-mVek=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-increase-internet-speed-5181475-b6fd84098c634a04a6934302184c5b1b.jpg
+thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc10a8c5dcc535bfa16bc60ba0.jpg
 ---
 
 ## Core Ideas Behind Online Story Crafting
 
 The manner in wherein stories are shared, however, has altered. **Digital storytelling** **video** has become a potent tool for connecting and communicating with others in a way that was before unimaginable because of the combination of media creation technologies and the internet.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![knowledge and power of a digital story](https://images.wondershare.com/filmora/article-images/2022/11/knowledge-and-power-of-digital-story-1.jpg)
 
 This article will focus on digital storytelling, including the development and practices that can help you create digital storytelling videos quickly and easily.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## Part I: Definition of Digital Storytelling
 
 **“Digital storytelling”** is a simple, creative method by which individuals with limited or no experience in virtual machine filmmaking learn how to show a personal story in the form of multiple films. The resources utilized to express a story and convey a message include films, photography, animation, and music. These stories may distribute more widely and swiftly than ever through online platforms like webpages, journals, and social media sharing sites.
@@ -32,6 +38,9 @@ This article will focus on digital storytelling, including the development and p
 
 Additionally, digital storytelling can include a variety of digital narratives. A rising number of businesses are taking note and investigating the potential applications of a digital story. It is frequently employed to refer to filmmaking in general, and it has recently been used to describe commercial and non-profit advertising and promotion efforts.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Part II. Development of Digital Storytelling
 
 Dana Atchley and Joe Lambert of the Center for Digital Storytelling started the digital storytelling advancement in 1994 by teaching others how to create digital stories. Although the power of storytelling has existed for thousands of years, it has only recently become possible for storytellers to **"become digital"** because of the advancement of personal computers and friendly modern communications.
@@ -42,6 +51,9 @@ High goals and outdated technologies coexisted throughout this period. Browsers 
 
 In this regard, the Center for Digital Storytelling developed a digital story that emphasized first-person narratives that framed memories as potent stories using visuals, audio, and music. The capacity to add graphics and narration to stories gives them a unique significance for both the author and the audience of virtual storytelling.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ### Power of Digital Storytelling Compared to Traditional Storytelling
 
 Compared to traditional storytelling, digital storytelling is far more integrative and incorporates non-linguistic factors that give rise to new narratives. Images, visual effects, and soundtracks are not merely additions to the story; they are crucial and inseparable components. As a result, digital storytelling demands variety, multisensory stimulation, and a variety of media channels.
@@ -54,6 +66,14 @@ While oral and written stories in traditional storytelling will only focus on li
 
 **_Note:_** Visit [**Wondershare Filmora9: Discover the Power of Storytelling**](https://youtu.be/eryg29f294U) if you're interested in learning how to create a digital storytelling video example.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Part III. Practices of Digital Storytelling
 
 People are enticed to interact with stories and take measures as a result of seeing them because of the structure of digital storytelling and the ease with which they are shared.
@@ -88,6 +108,9 @@ Using specialized storylines, you may utilize brand storytelling to enhance your
 
 The power of storytelling is the cornerstone of all effective social media networks. Accordingly, one of the fascinating methods for delivering messages and information is through a digital story. A digital narrative can help make your material more relatable, fascinating, and worthy of following on your chosen social network.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![the art of modern storytelling in social networks](https://images.wondershare.com/filmora/article-images/2022/11/art-of-modern-storytelling-in-social-networks-6.jpg)
 
 Social networking platforms can also convey stories about your company, products, or anything else to engage your audience through digital storytelling. Regardless of how simple or insignificant it may seem, each piece of data you publish supports the digital narrative you're trying to tell.
@@ -122,6 +145,9 @@ With the most recent improvements, [Wondershare Filmora](https://tools.techidail
 
 (DOWNLOAD ICONS - Try it free)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **_Note:_** Visit [**Filmora**](https://www.prnewswire.com/news-releases/boost-video-storytelling-with-wondershare-filmora-11-5-through-powerful-features-and-a-community-to-inspire-301598990.html) for more information on creating a digital storytelling video.
@@ -130,6 +156,9 @@ With the most recent improvements, [Wondershare Filmora](https://tools.techidail
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Bottom Line
 
 Everybody has a narrative, but the craft of digital storytelling can transform a story into something profound. Digital storytelling inevitably becomes a more potent and crucial instrument for engagement, provision of services, and social impact as more people use social media to keep informed and engaged.
@@ -138,6 +167,9 @@ Everybody has a narrative, but the craft of digital storytelling can transform a
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part III. Practices of Digital Storytelling
 
 People are enticed to interact with stories and take measures as a result of seeing them because of the structure of digital storytelling and the ease with which they are shared.
@@ -184,6 +216,9 @@ Digital storytelling is utilized in numerous contexts, such as when victims of a
 
 Additionally, youtube digital storytelling in public relations campaigns is crucial because it enables businesses to better engage with their target market and ultimately sway their opinions toward their marketing objectives. Another illustration would be that immigrants and newcomers are sharing their stories or the stories of their families to promote advocacy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## Part IV. Essential Techniques for Making an Effective Digital Storytelling Video
 
 Digital storytelling, at its best, can be a potent tool for democratizing the record by involving individuals and groups whose views may otherwise go unheard.
@@ -206,6 +241,9 @@ With the most recent improvements, [Wondershare Filmora](https://tools.techidail
 
 (DOWNLOAD ICONS - Try it free)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **_Note:_** Visit [**Filmora**](https://www.prnewswire.com/news-releases/boost-video-storytelling-with-wondershare-filmora-11-5-through-powerful-features-and-a-community-to-inspire-301598990.html) for more information on creating a digital storytelling video.
@@ -246,3 +284,29 @@ Everybody has a narrative, but the craft of digital storytelling can transform a
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-aural-alchemy-transforming-imovie-videos-with-music/"><u>[New] Aural Alchemy  Transforming iMovie Videos with Music</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capturing-heights-in-focus-examining-the-mavic-pro/"><u>[New] Capturing Heights in Focus  Examining the Mavic Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-choosing-spiritual-audio-for-your-cellphone/"><u>[New] Choosing Spiritual Audio for Your Cellphone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-beginning-with-windows-10-sound-recording/"><u>[Updated] Beginning with Windows 10 Sound Recording</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-apples-finest-free-apps-to-perfect-your-selfies/"><u>2024 Approved  Apple's Finest FREE Apps to Perfect Your Selfies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-boosting-your-macs-potential-with-sierra-update-steps/"><u>2024 Approved  Boosting Your Mac's Potential with Sierra Update Steps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-cloud-service-pricing-a-comparative-look/"><u>2024 Approved  Cloud Service Pricing  A Comparative Look</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-rundown-top-8-exceptional-free-online-translation-platforms-for-2024/"><u>A Rundown  Top 8 Exceptional Free Online Translation Platforms for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-playstation-5-and-xbox-series-x-games-consoles-ranked-for-2024/"><u>Best PlayStation 5 & Xbox Series X Games Consoles Ranked for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-brand-awareness-with-selective-marketing-vernacular-for-2024/"><u>Boost Brand Awareness with Selective Marketing Vernacular for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/curate-chuckling-cartoons/"><u>Curate Chuckling Cartoons</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-premium-video-apps-for-windows-os/"><u>Cutting Edge  Premium Video Apps for Windows OS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-visual-revolution-integrating-3d-effects-into-your-photoshop-layouts/"><u>In 2024, A Visual Revolution  Integrating 3D Effects Into Your Photoshop Layouts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-apex-creatives-review-studio-25-scrutiny-year-2023/"><u>In 2024, Apex Creatives Review  Studio 25 Scrutiny, Year 2023</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-top-10-collage-apps-for-android-top-picks/"><u>In 2024, Top 10 Collage Apps for Android (Top Picks)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/next-level-vr-tools-top-8-selection/"><u>Next-Level VR Tools  Top 8 Selection</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimized-motion-the-creme-de-la-liste-of-srt-upgrades-for-pc-and-mac/"><u>Optimized Motion  The Crème De La Liste of SRT Upgrades for PC and Mac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimizing-your-workflow-efficiently-editing-360-degree-videos-in-premiere-pro/"><u>Optimizing Your Workflow  Efficiently Editing 360 Degree Videos in Premiere Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-free-enhancement-tool-for-pics-onlineapp/"><u>Prime Free Enhancement Tool for Pics Online/App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamline-your-iphone-jpegpng-to-pdf-file-processing/"><u>Streamline Your iPhone  JPEG/PNG to PDF File Processing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-photoshop-enthusiasts-guide-to-mastering-colors/"><u>The Photoshop Enthusiast's Guide to Mastering Colors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unraveling-the-mystery-behind-apples-m1-chip/"><u>Unraveling the Mystery Behind Apple's M1 Chip</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Top Camera/Phone Gimbal – Optimal Pan & Tilt Stability"
-date: 2024-05-24T04:54:07.308Z
-updated: 2024-05-25T04:54:07.308Z
+date: 2024-07-25T04:11:58.384Z
+updated: 2024-07-26T04:11:58.384Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Top Camera/Phone Gimbal – Optimal Pan & Tilt Stability"
 excerpt: "This Article Describes Top Camera/Phone Gimbal – Optimal Pan & Tilt Stability"
 keywords: "\"Gimbal Stabilizer,Pan Tilt Gimbal,Stable Mobile Cam,Optimal Gimbal PT,Panoramic Videography,Camera Stability,High-Quality Gimbals\""
-thumbnail: https://www.lifewire.com/thmb/pOkByEjDQfGUJyqDzFJ4mpWuXnA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-453316837-56a6a5b93df78cf7728f9379.jpg
+thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eaca41f020a72559cf27e30f77.jpg
 ---
 
 ## Top Camera/Phone Gimbal – Optimal Pan & Tilt Stability
@@ -63,6 +63,13 @@ _With 180°/ 360° object tracking._
 
 **Pricing: $200**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### 2\. Apai Genie
 
 Smart, intuitive, and a true genie for videography lovers, Apai Genie is an auto-follow camera mount that can make your life more aesthetic, easily.
@@ -142,6 +149,9 @@ _With 200° tilt and 300° pan object tracking._
 
 **Pricing: $99**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. PivoPod
 
 Do you dream of a cameraman that follows you around, obeys your commands on the flick of your finger, captures your precious moments most beautifully, and doesn’t get drained out too soon? With unbeatable features, unreal precision, unprecedented tracking sensitivity, and super attractive price, PivoPod might just be the auto-tracking camera mount you’re looking for.
@@ -175,6 +185,9 @@ _With 360° object tracking._
 
 All in all, each camera mount comes with its own USP, and you have to make a choice based on your priorities. When on a tight budget, you can compromise a bit on visual flexibility and go for Zhiyun Smooth 4\. For your DSLRs, nothing can beat Crane 2, just like Pivo is an undefeatable frontrunner for mobile phones.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -224,6 +237,9 @@ _With 180°/ 360° object tracking._
 
 **Pricing: $200**
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### 2\. Apai Genie
 
 Smart, intuitive, and a true genie for videography lovers, Apai Genie is an auto-follow camera mount that can make your life more aesthetic, easily.
@@ -251,6 +267,10 @@ _Comes with 360° object tracking._
 
 Want to get video creation done with AI? Check these [AI video editing software](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ### 3\. Zhiyun Crane 2
 
 If barrel shots worry you or if the payload has been a problem, Zhiyum Crane 2 comes with features you badly need and ones you didn’t even know you needed.
@@ -278,6 +298,10 @@ _Comes with 360° object tracking._
 
 **Pricing: 383.55 - 543.53 (discounted)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### 4\. Zhiyun Smooth 4
 
 This one lives up to its tagline, ‘born for the mobile filmmakers’ owing to its superior features that assist you in creating professional content. Being an extremely efficient, precision and speed-driven auto-tracking camera mount, Zhiyun Smooth 4 is definitely a catch. Especially with the jaw-dropping price that it is offered at.
@@ -332,10 +356,21 @@ _With 360° object tracking._
 
 **Pricing: $109**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## **Which Camera Mount Should You Buy?**
 
 All in all, each camera mount comes with its own USP, and you have to make a choice based on your priorities. When on a tight budget, you can compromise a bit on visual flexibility and go for Zhiyun Smooth 4\. For your DSLRs, nothing can beat Crane 2, just like Pivo is an undefeatable frontrunner for mobile phones.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -354,10 +389,16 @@ We are halfway past 2020, and it’s time we put technology to good use and shoo
 
 Who said flying solo is a challenge for artists? Focus all your creativity on creating content and letting one of these auto-follow camera mounts take care of the technical part for you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Top 5 Auto Tracking Camera Mounts 2020
 
 Let’s take a look at the top auto-tracking camera mounts you can buy in 2020.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### 1\. PicBot
 
 If we’re discussing auto-tracking camera mount, PicBot definitely deserves mention. With this mount, in one click, or no clicks at all, you can become a professional visual content creator.
@@ -412,6 +453,9 @@ _Comes with 360° object tracking._
 
 Want to get video creation done with AI? Check these [AI video editing software](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Zhiyun Crane 2
 
 If barrel shots worry you or if the payload has been a problem, Zhiyum Crane 2 comes with features you badly need and ones you didn’t even know you needed.
@@ -464,6 +508,9 @@ _With 200° tilt and 300° pan object tracking._
 
 **Pricing: $99**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ### 5\. PivoPod
 
 Do you dream of a cameraman that follows you around, obeys your commands on the flick of your finger, captures your precious moments most beautifully, and doesn’t get drained out too soon? With unbeatable features, unreal precision, unprecedented tracking sensitivity, and super attractive price, PivoPod might just be the auto-tracking camera mount you’re looking for.
@@ -493,6 +540,15 @@ _With 360° object tracking._
 
 **Pricing: $109**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## **Which Camera Mount Should You Buy?**
 
 All in all, each camera mount comes with its own USP, and you have to make a choice based on your priorities. When on a tight budget, you can compromise a bit on visual flexibility and go for Zhiyun Smooth 4\. For your DSLRs, nothing can beat Crane 2, just like Pivo is an undefeatable frontrunner for mobile phones.
@@ -546,6 +602,9 @@ _With 180°/ 360° object tracking._
 
 **Pricing: $200**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ### 2\. Apai Genie
 
 Smart, intuitive, and a true genie for videography lovers, Apai Genie is an auto-follow camera mount that can make your life more aesthetic, easily.
@@ -600,6 +659,9 @@ _Comes with 360° object tracking._
 
 **Pricing: 383.55 - 543.53 (discounted)**
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Zhiyun Smooth 4
 
 This one lives up to its tagline, ‘born for the mobile filmmakers’ owing to its superior features that assist you in creating professional content. Being an extremely efficient, precision and speed-driven auto-tracking camera mount, Zhiyun Smooth 4 is definitely a catch. Especially with the jaw-dropping price that it is offered at.
@@ -690,3 +752,34 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-a-drones-leap-into-clarity-q500-reviewed/"><u>[New] A Drone's Leap Into Clarity - Q500 Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-add-srt-to-mp4-like-a-pro-2024s-ultimate-manual/"><u>[Updated] Add SRT to MP4 Like a Pro  2024’S Ultimate Manual</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-becoming-a-pro-the-ultimate-guide-to-microsofts-movie-maker-in-win11/"><u>2024 Approved  Becoming a Pro  The Ultimate Guide to Microsoft's Movie Maker in Win11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-complete-kinetics-exploration/"><u>2024 Approved  Complete Kinetics Exploration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-creating-captivating-reels-the-role-of-background-music/"><u>2024 Approved  Creating Captivating Reels  The Role of Background Music</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/animatedworld-comprehensive-review-2024/"><u>AnimatedWorld Comprehensive Review 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/breaking-free-from-virtual-reality-discomfort/"><u>Breaking Free From Virtual Reality Discomfort</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/changing-up-the-sound-how-to-customize-your-iphone-tunes-for-2024/"><u>Changing Up the Sound  How to Customize Your iPhone Tunes for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chromatic-creativity-enhancing-your-craft-for-2024/"><u>Chromatic Creativity  Enhancing Your Craft for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/craftsmits-and-cinematography-precision-in-aspect-ratios/"><u>Craftsmits and Cinematography  Precision in Aspect Ratios</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creativeslideshows-macos-sierra-edition/"><u>CreativeSlideshows  MacOS Sierra Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-10-free-high-quality-live-stream-apps-for-iphones-and-androids/"><u>Discover 10 Free, High-Quality Live Stream Apps for iPhones and Androids</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-filmmakers-speedy-setup-secrets-for-diy-projects/"><u>Expert Filmmaker's Speedy Setup Secrets for DIY Projects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-artistic-ventures-on-ios-the-bestiary-of-the-top-8-drawing-apps/"><u>In 2024, Artistic Ventures on iOS  The Bestiary of the Top 8 Drawing Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-compelling-media-with-narrative-overlays/"><u>In 2024, Crafting Compelling Media with Narrative Overlays</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-quality-podcasts-iphone-and-ipad-tips-for-intense-interviewing/"><u>In 2024, Crafting Quality Podcasts  IPhone & iPad Tips for Intense Interviewing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-depth-cost-analysis-for-new-podcasters/"><u>In-Depth Cost Analysis for New Podcasters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/instantly-accessorizing-ios-and-android-with-whatsapp-ringtones/"><u>Instantly Accessorizing iOS and Android with WhatsApp Ringtones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/kickstart-cinematic-craft-install-xp-movie-maker/"><u>Kickstart Cinematic Craft  Install XP Movie Maker</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/kinemaster-for-everyday-memers/"><u>KineMaster for Everyday Memers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revamping-videography-the-story-of-nikon-1j5s-4k-achievement/"><u>Revamping Videography  The Story of Nikon 1J5’s 4K Achievement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/shaping-the-unexpected-a-guide-to-photo-warp-and-bend/"><u>Shaping the Unexpected  A Guide to Photo Warp and Bend</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/superior-smartphone-editors-elevating-your-gopro-shots/"><u>Superior Smartphone Editors Elevating Your GoPro Shots</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-blueprint-of-successful-video-endorsements/"><u>The Blueprint of Successful Video Endorsements</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-virtual-world-cinema-lineup/"><u>Ultimate Virtual World Cinema Lineup</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-energy-and-stamina-discover-the-ultimate-playlist-to-boost-workouts/"><u>Unleash Energy and Stamina  Discover the Ultimate Playlist to Boost Workouts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vantage-point-critique/"><u>Vantage Point Critique</u></a></li>
+</ul></div>

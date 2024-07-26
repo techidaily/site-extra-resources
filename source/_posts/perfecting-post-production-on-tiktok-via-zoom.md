@@ -1,7 +1,7 @@
 ---
 title: "\"Perfecting Post-Production on TikTok via Zoom\""
-date: 2024-05-24T04:55:33.680Z
-updated: 2024-05-25T04:55:33.680Z
+date: 2024-07-25T04:14:38.569Z
+updated: 2024-07-26T04:14:38.569Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Perfecting Post-Production on TikTok via Zoom\""
 excerpt: "\"This Article Describes Perfecting Post-Production on TikTok via Zoom\""
 keywords: "\"Zoom Post-Prod Techniques,TikTok Editing Mastery,Perfecting TikTok Edits,TikTok Video Enhancement,Zoom for TikTok Filmmaking,Advanced TikTok Production,Post-Production on TikTok\""
-thumbnail: https://www.lifewire.com/thmb/eyPEW_zh-5Xw0J7hoJ-kChdCQ1M=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-transfer-data-from-ps4-to-ps5-3392eb400af3482fabad65cabb2a1a91.jpg
+thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc721b43b4dca709d022c56e41.jpg
 ---
 
 ## Perfecting Post-Production on TikTok via Zoom
@@ -22,6 +22,9 @@ In recent times, TikTok has become a major social media platform and along with 
 
 And one of the main functions of any video editing application is that the user should be able to zoom into videos to showcase specific areas of the video or to make a unique transition. In this article, we are going to learn about face zoom TikTok and how one user can use the Zoom function and make videos with it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1\. Zoom on TikTok while creating a new video
 
 With its growing popularity, TikTok has been adding many features to its video editing front. And one of such major functions of TikTok is to zoom the video as per your preference. There are two ways in which a user can zoom the video on TikTok.
@@ -30,6 +33,9 @@ The first one involves zooming in while recording the video and the second one i
 
 * First, open the TikTok application and click on the plus "+" icon that will help you to create a new video. This plus icon is placed at the bottom of the TikTok interface.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create a new video tiktok](https://images.wondershare.com/filmora/article-images/2022/07/create-a-new-video-tiktok.jpg)
 
 * When you tap on the "+" icon, the recording interface will open up. Now, select the duration of the video by tapping the "clock" icon on the left-hand side of the screen. After selecting a set duration, you will find a red shutter button which you will need to hold to start the recording.
@@ -37,6 +43,9 @@ The first one involves zooming in while recording the video and the second one i
 * Alternatively, you can use one finger to pinch into the screen while holding the shutter icon with another finger and this will ultimately help you achieve a zoom effect on your video.
 * For zooming out, you can move your finger towards the shutter button or pinch out and then save the video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. How to Zoom an existing TikTok video
 
 TikTok is known to provide a vast number of filters as well as editing tools that can create stunning videos with very less effort. And the zoom effect is one of such important functions of video making. If you are new to this then you should know that either you can apply a zoom while creating the video or after recording it. So, for any reason, if you forgot to apply zoom in or zoom out while recording, then you can easily apply this effect while editing it. To zoom TikTok video, you will need to follow these steps:
@@ -48,11 +57,17 @@ TikTok is known to provide a vast number of filters as well as editing tools tha
 
 * Here you will need to find an effect namely the "zoom effect" and tapping on it will apply the effect to your video.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose zoom effect tiktok](https://images.wondershare.com/filmora/article-images/2022/07/choose-zoom-effect-tiktok.jpg)
 
 * You can drag the marker of the timeline to set the beginning of the effect on your video. Then press the zoom effect and release it where you want the zoom effect to end.
 * Then save the video and the effect will be applied successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## Part 3\. How to face zoom TikTok
 
 One of the main reasons why TikTok is so popular amongst users is because its developers give extensive effort to creating amazing effects and filters for the interface. While Snapchat may have been the first application that brought the trend of filters, TikTok has created a whole another level of hype for such effects. And face zoom on TikTok is such a popular option that is used by billions of users.
@@ -67,6 +82,9 @@ And if you are new to this platform, you can follow these steps to use this face
 
 * The filter icon background is of turquoise color. You will need to tap on that and your face zoom effect will be activated.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![activitate face zoom effect](https://images.wondershare.com/filmora/article-images/2022/07/activitate-face-zoom-effect.jpg)
 
 * Alternatively, you can also go to the effects page and the search bar and then type "Face Zoom" on the text box, followed by a search click to find the TikTok facezoom filter more easily.
@@ -107,3 +125,42 @@ TikTok has become more than just a social media platform and these days almost e
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-are-bloggers-getting-cash-for-product-insights/"><u>[New] Are Bloggers Getting Cash for Product Insights?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-cinematic-perfection-mastering-the-top-5-techniques/"><u>[New] Cinematic Perfection  Mastering the Top 5 Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-control-over-your-spotify-default-podcast-recommendations/"><u>[New] Control Over Your Spotify Default Podcast Recommendations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-guide-to-outstanding-hdr-cameras/"><u>[Updated] A Guide to Outstanding HDR Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-step-by-step-guide-to-making-engaging-audio-promos/"><u>[Updated] A Step-by-Step Guide to Making Engaging Audio Promos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-audacity-workshop-eloquent-silent-transitions/"><u>[Updated] Audacity Workshop  Eloquent Silent Transitions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-clever-ways-to-neglect-edge-academy-vids/"><u>[Updated] Clever Ways to Neglect EDGE Academy Vids</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-accessible-and-quality-the-best-10-online-passport-photo-tools-revealed/"><u>2024 Approved  Accessible & Quality  The Best 10 Online Passport Photo Tools Revealed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-an-in-depth-guide-to-periscope-recording-procedures/"><u>2024 Approved  An In-Depth Guide to Periscope Recording Procedures</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beginners-top-8-camera-options-35mm-to-pands/"><u>2024 Approved  Beginner’s Top 8 Camera Options (35Mm to P&S)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-in-class-8-webcams-perfect-for-streaming-professionals/"><u>2024 Approved  Best-in-Class 8 Webcams Perfect For Streaming Professionals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/360-degree-camera-spectrum-versus-three-dimensional-outputs/"><u>360-Degree Camera Spectrum versus Three-Dimensional Outputs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/apples-m1-max-attachments-a-detailed-guide-for-2024/"><u>Apple’s M1 Max Attachments  A Detailed Guide for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beginners-guide-to-best-entry-level-cams-2024/"><u>Beginner's Guide to Best Entry-Level Cams 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bright-ideas-elevate-your-video-with-strategic-lighting/"><u>Bright Ideas  Elevate Your Video with Strategic Lighting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-vivacut-analysis-and-editors-blueprint/"><u>Comprehensive VivaCut Analysis & Editor's Blueprint</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/craft-excellence-top-10-free-drawing-tools-for-mac-for-2024/"><u>Craft Excellence  Top 10 Free Drawing Tools for Mac for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-clear-accessible-podcast-xml-files-for-listeners/"><u>Crafting Clear, Accessible Podcast XML Files for Listeners</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-accessories-reviewing-the-best-in-vr/"><u>Cutting-Edge Accessories  Reviewing the Best in VR</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-visuals-with-paradox-creation/"><u>Enhancing Visuals with Paradox Creation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-tips-for-creating-videos-with-windows-8-moviemaker/"><u>Essential Tips for Creating Videos with Windows 8 MovieMaker</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/free-access-to-10-superior-lut-resources/"><u>Free Access to 10 Superior LUT Resources</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/illuminate-iphone-clips-simple-solutions-to-lighten-video/"><u>Illuminate iPhone Clips  Simple Solutions to Lighten Video</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-2022-beijing-games-a-chilly-snapshot/"><u>In 2024, 2022 Beijing Games  A Chilly Snapshot</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-adapt-video-dimensions-anytime-anywhere/"><u>In 2024, Adapt Video Dimensions Anytime, Anywhere</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-androids-premier-8-apps-harmonizing-free-and-paid-videomosaic-experience/"><u>In 2024, Android's Premier 8 Apps  Harmonizing Free & Paid Videomosaic Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-blending-apple-music-with-cinematic-content/"><u>In 2024, Blending Apple Music with Cinematic Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-breathe-life-into-tweets-animating-insta-story-texts/"><u>In 2024, Breathe Life Into Tweets  Animating Insta Story Texts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-convert-songs-to-calls-essential-websites-for-youtubetones-extraction/"><u>In 2024, Convert Songs to Calls  Essential Websites for YoutubeTones Extraction</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-depth-shots-the-art-of-closing-in-on-movies/"><u>In-Depth Shots  The Art of Closing in on Movies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/journey-through-the-metaverse-6-illustrative-examples/"><u>Journey Through the Metaverse  6 Illustrative Examples</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lgs-monitor-marvel-an-exhaustive-look-at-ultra-clear-technology/"><u>LG's Monitor Marvel  An Exhaustive Look at Ultra-Clear Technology</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tapping-into-asmrs-potential-for-self-improvement/"><u>Tapping Into ASMR's Potential for Self-Improvement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-encore-list-top-pick-for-digital-music-tones/"><u>The Encore List  Top Pick for Digital Music Tones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vlc-and-mpc-showdown-whats-your-preference-for-video/"><u>VLC and MPC Showdown  What's Your Preference for Video?</u></a></li>
+</ul></div>

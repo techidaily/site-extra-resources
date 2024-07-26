@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Audio Storytelling in Media Production Masterclass"
-date: 2024-05-24T04:15:11.475Z
-updated: 2024-05-25T04:15:11.475Z
+date: 2024-07-25T02:55:32.940Z
+updated: 2024-07-26T02:55:32.940Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Audio Storytelling in Media Production Masterclass"
 excerpt: "This Article Describes [Updated] Audio Storytelling in Media Production Masterclass"
 keywords: "Media Production SEO,Audio Storytelling Class,Masterclass Media Skills,Producing Audio Stories,Media SEO Basics,Sound Storytelling Tips,Creative Media Training"
-thumbnail: https://www.lifewire.com/thmb/k634jL7WWQtyro9CdwkyFmFzEGA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Neo-QLED-vs-OLED-8eb18283c4fe49f3a8c583443f2b89b6.jpg
+thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a720808faf7dee8c99a861a3.jpg
 ---
 
 ## Audio Storytelling in Media Production Masterclass
@@ -24,6 +24,9 @@ And when you learn how to use this technique the right way, your YouTube videos 
 
 I'll be demonstrating how to add voiceovers and narrations in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to help you step up your video creation game.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## Voiceover or Narration?
 
 But first, what's the difference between a voiceover and a narration? Truth be told, there is quite a bit of overlap between the two.
@@ -54,6 +57,9 @@ A good example of this would be narrating a story on top of some still images an
 
 You put the playhead where you want to start recording and hit the microphone icon under the preview window.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![hit microphone icon](https://images.wondershare.com/filmora/guide/stt-tts-srt-08.png)
 
 A 3-second countdown will pop up and start recording immediately after this countdown.
@@ -62,6 +68,9 @@ You can record your narration and click stop.
 
 After recording, you can trim and edit your narration, you can delete it and record it again, and can move it and edit it like any other feature.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Some Tips for Recording Narration
 
 Try playing the clip in the preview window to get a sense of what you want to say fits well with the space available in the project.
@@ -72,6 +81,9 @@ You can edit pauses or weak parts out of the voiceover to trim it up. But if it 
 
 Fortunately, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) comes equipped with video b-roll which is another great option. When using b-roll, it's better to use multiple shorter clips than one longer clip in most cases. But adding the same b-roll clip near the beginning and another section of the same b-roll clip, later on, should help you match the length of your narration to the video timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Narration is a great storytelling device
 
 Narration is a fantastic tool to have in your arsenal as a young filmmaker. It allows you to quickly communicate feelings, backstory, and context quickly and effectively.
@@ -80,10 +92,16 @@ Practice adding it to your videos to see how it adds depth and dimension to your
 
 It can also help make a connection with your audience because you can be relating to the images on the screen as they watch them. This is effective in building your YouTube audience.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Always use a good mic
 
 When adding voiceover or narration to your project, be sure to use a good USB microphone. A good quality sound will elevate your entire project and just requires a little planning.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use good microphone](https://images.wondershare.com/filmora/article-images/2022/11/use-good-microphone.jpg)
 
 Also, be sure to check that your external microphone is selected when you start recording. There's nothing worse than nailing the perfect narration and realizing it was recorded with the built-in mic, not your USB microphone.
@@ -126,3 +144,28 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-boost-iphone-photographic-finesse-with-essential-additions/"><u>[New] Boost iPhone Photographic Finesse with Essential Additions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-cost-free-webm-viewing-a-list-of-industry-standouts/"><u>[New] Cost-Free WebM Viewing  A List of Industry Standouts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-comprehensive-guide-to-embellishing-images-and-vids-in-windows-10s-photo-app/"><u>[Updated] A Comprehensive Guide to Embellishing Images and Vids in Windows 10'S Photo App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-accelerated-approach-eliminating-signatures-quickly/"><u>[Updated] Accelerated Approach  Eliminating Signatures Quickly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-creativity-ios-and-android-writing-apps-roundup/"><u>[Updated] Capture Creativity  IOS & Android Writing Apps Roundup</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-best-web-based-tools-for-clearing-up-fuzzy-images/"><u>10 Best Web-Based Tools for Clearing Up Fuzzy Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-brush-boldly-beyond-professionals-palette-play/"><u>2024 Approved  Brush Boldly Beyond - Professionals' Palette Play</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-symphony-of-sounds-no-cost-software-for-personalized-voice-modification-for-2024/"><u>A Symphony of Sounds  No-Cost Software for Personalized Voice Modification for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/add-mp3-elements-to-ppt-display-panels-for-2024/"><u>Add MP3 Elements to PPT Display Panels for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-the-perfect-virtual-space-with-zooms-features-for-2024/"><u>Crafting the Perfect Virtual Space with Zoom's Features for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-through-the-noise-with-video-endorsements/"><u>Cutting Through the Noise with Video Endorsements</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-recommendations-the-highest-rated-18-video-recorders-now/"><u>Expert Recommendations  The Highest-Rated 18 Video Recorders Now</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ffmpeg-and-its-proficiency-in-original-audio-extraction/"><u>FFmpeg and Its Proficiency in Original Audio Extraction</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/high-visibility-features-mastering-snapchats-star/"><u>High-Visibility Features  Mastering Snapchat's Star</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-step-by-step-tutorial-starting-and-joining-a-zoom-meeting-on-android/"><u>In 2024, A Step-by-Step Tutorial  Starting & Joining a Zoom Meeting on Android</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-animators-toolkit-samples/"><u>In 2024, Advanced Animator's Toolkit Samples</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-sound-choices-essential-downloads-guide/"><u>In 2024, Best Sound Choices  Essential Downloads Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-choose-wisely-top-10-expert-picked-gopro-housing/"><u>In 2024, Choose Wisely  Top 10 Expert-Picked GoPro Housing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-choreographing-ideal-canon-sequential-shots/"><u>In 2024, Choreographing Ideal Canon Sequential Shots</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-full-spectrum-analysis-of-lgs-high-definition-screen/"><u>The Full Spectrum Analysis of LG’s High-Definition Screen</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tips-and-tricks-for-effective-azure-speech-to-text-use/"><u>Tips and Tricks for Effective Azure Speech-to-Text Use</u></a></li>
+</ul></div>

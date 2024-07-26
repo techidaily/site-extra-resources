@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ableton Tricks to Subtly Lower Track Amplitude"
-date: 2024-05-24T04:45:17.962Z
-updated: 2024-05-25T04:45:17.962Z
+date: 2024-07-25T03:55:59.612Z
+updated: 2024-07-26T03:55:59.612Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ As a result of its distinctive method of loop-based composition, Ableton live fa
 
 One of the most user-friendly pieces of music software ever created is Ableton Live. With a little instruction, you can quickly master Ableton fade and produce recordings of studio-caliber. Since then, Ableton has emerged as one of the top names in electronic music production. Live is a robust DAW with mature capabilities that can be used to produce any kind of music, although it works especially well with certain processes. Follow this guide to learn about Ableton fade in detail.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Part 1\. 2 Ways to Fade audio in Ableton
 
 You've certainly heard the terms "audio fade-in" and "audio fade-out" a few times as a newbie, and you may be wondering what they mean and how you might apply them to your films. Crossfading clips on the same track is easier and only needs one track, however crossfading clips on different tracks allows you to apply independent audio effects processing and gives greater flexibility in structuring the fade curves. Both strategies may be helpful for organizing and creating sounds.
@@ -30,14 +33,23 @@ You've certainly heard the terms "audio fade-in" and "audio fade-out" a few time
 
 To avoid any clicks, turn on Create Fades on Clip Edges in the Record/Warp/Launch section of Live's Preferences. The beginning and ending of the Clip will each have a little fade.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create fades warp fades](https://images.wondershare.com/filmora/article-images/2022/08/create-fades-warp-fades.jpg)
 
 You must disable the automated mode in order to alter the clip fades. You may accomplish this by doing the following:
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable automated mode ableton](https://images.wondershare.com/filmora/article-images/2022/08/disable-automated-mode-ableton.jpg)
 
 The fade-in and fade-out handles should display when you hover the mouse icon over the audio clip you want to fade. In case, if they don't, hit 'A' on your keyboard to make them appear. Then, you hold down the mouse button while left-clicking on the handle you wish to fade and lowering the fader.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Way 2\. Using the MIDI Track
 
 In the method 2, you can use it on MIDI track. It will load the Utility effect to the specified MIDI track wherever you drag it on the track. Left-click on the little box in the bottom right corner of the DAW to view the Utility effect on your track. Follow the procedure below to do so.
@@ -45,6 +57,9 @@ Live's ability to easily clean up the beginning and conclusion of audio samples 
 
 ![midi track ableton](https://images.wondershare.com/filmora/article-images/2022/08/midi-track-ableton.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Alternative way to Fade Audio without Ableton
 
 As you are now aware with the phrase audio fade-in/fade-out, it is now time to implement this unique effect using a user-friendly tool. For this reason, we have provided [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which will allow you to learn how to implement this feature using the Filmora video editing interface. The finest feature of this all-in-one package software is that it is a convenient and simple platform, especially for novices. Since audio fading is your main worry, it is obvious for you to choose this program.
@@ -75,6 +90,9 @@ Following the import of your media files into Filmora, you must drag the files o
 
 The primary step in this respect is how to begin fading-in/fading-out your audio files using Filmora, which is presented here. The nicest feature of the Filmora is how easy you can use these methods from the timeline. To do so, center your attention on your audio file inside the timeline; after you've chosen it, the two icons will appear above the audio file. Drag the first one to the length you want to conduct the audio fade-in option, as shown:
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fade in or fade out audio](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 ##### Step5Edit and Export Your Video/Sound
@@ -91,6 +109,9 @@ On that note, if you are happy with how your voice has changed, right now could 
 
 For budding music producers and performers, the Ableton Live Lite edition's free assortment of keyboards and midi controllers makes it a fantastic starting place. Fades may also be initiated in Live Lite by pressing the Clip Fade button. Drag the square icon in the upper left or right of an audio clip to manually change the duration of the Fades.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. How to Fade in Ableton?
 
 We can create Fade in or Fade Out, which induce a progressive rise or drop in loudness, using audio clips. The little white squares at each corner of the clip allow you to adjust these two settings. The Fade In, which can be found at the start of each clip, enables a progressive rise in loudness. For this, we will drag a corner of a clip that is directly next to another clip to the clip we want.
@@ -119,18 +140,27 @@ We'll walk you through the process of utilizing this platform for audio fade-in/
 
 Following the import of your media files into Filmora, you must drag the files onto the program's timeline. Your media files may be edited using all available methods in the timeline. Simply right-click on the particular audio file and choose "Edit Audio" from the list to use Filmora's audio editor as seen below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![open up audio editor of filmora](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 ##### Step4Fade-in/Fade-out Audio
 
 The primary step in this respect is how to begin fading-in/fading-out your audio files using Filmora, which is presented here. The nicest feature of the Filmora is how easy you can use these methods from the timeline. To do so, center your attention on your audio file inside the timeline; after you've chosen it, the two icons will appear above the audio file. Drag the first one to the length you want to conduct the audio fade-in option, as shown:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![fade in or fade out audio](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 ##### Step5Edit and Export Your Video/Sound
 
 Filmora features a built-in video editing toolbox in addition to an audio editor. Within the app, you may use editing methods ranging from simple to advanced. Simply click on the video file inside the timeline as shown below to choose the basic editor:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![edit and export your video sound](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
 
 On that note, if you are happy with how your voice has changed, right now could be the greatest moment to preserve it or perhaps record it. All popular video and audio formats, including MP3, are supported. To do this, click "Export" and choose "File Format." Select the necessary configuration from the rundown by clicking the Format button. The specific document will be saved to the specified directory on a computer.
@@ -141,6 +171,9 @@ On that note, if you are happy with how your voice has changed, right now could 
 
 For budding music producers and performers, the Ableton Live Lite edition's free assortment of keyboards and midi controllers makes it a fantastic starting place. Fades may also be initiated in Live Lite by pressing the Clip Fade button. Drag the square icon in the upper left or right of an audio clip to manually change the duration of the Fades.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. How to Fade in Ableton?
 
 We can create Fade in or Fade Out, which induce a progressive rise or drop in loudness, using audio clips. The little white squares at each corner of the clip allow you to adjust these two settings. The Fade In, which can be found at the start of each clip, enables a progressive rise in loudness. For this, we will drag a corner of a clip that is directly next to another clip to the clip we want.
@@ -177,3 +210,43 @@ In essence, Ableton just refuses to display fades on certain songs. Fades won't 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/21-edition-spotlight-the-new-era-of-sports-betting-in-vegas-pro/"><u>'21 Edition Spotlight – The New Era of Sports Betting in Vegas Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/11-easy-to-produce-vlog-projects-at-home/"><u>11 Easy-to-Produce Vlog Projects at Home</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2023s-top-free-premiere-pro-masterpieces/"><u>2023'S Top Free Premiere Pro Masterpieces</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-10plus-best-photo-to-cartoon-softwares/"><u>2024 Approved  10+ Best Photo to Cartoon Softwares</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-guide-to-the-best-5-book-tt-examples/"><u>2024 Approved  A Guide to the Best 5 Book TT Examples</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-achieving-prominence-with-apples-listings/"><u>2024 Approved  Achieving Prominence with Apple's Listings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-aerial-drone-transformation-trial-with-first-20-free-lutts/"><u>2024 Approved  Aerial Drone Transformation - Trial with First 20 FREE LUTTs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-affordable-4k-lens-and-recorders/"><u>2024 Approved  Affordable 4K Lens & Recorders</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-audacitys-guide-to-effortless-audio-transitions/"><u>2024 Approved  Audacity's Guide to Effortless Audio Transitions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-auditory-dramaturgy-at-its-peak/"><u>2024 Approved  Auditory Dramaturgy at Its Peak</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-behind-the-scenes-changing-video-pace-in-social-media/"><u>2024 Approved  Behind the Scenes  Changing Video Pace in Social Media</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-10-websites-for-premium-quality-vector-stock-images/"><u>2024 Approved  Best 10 Websites for Premium-Quality Vector Stock Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-camcorders-featuring-direct-faceviewing/"><u>2024 Approved  Best Camcorders Featuring Direct FaceViewing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-drone-buys-the-top-5-pro-picks/"><u>2024 Approved  Best Drone Buys - The Top 5 Pro Picks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-free-after-effects-title-templates/"><u>2024 Approved  Best Free After Effects Title Templates</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-big-sur-breakdown-understanding-the-latest-macos-update/"><u>2024 Approved  Big Sur Breakdown  Understanding the Latest macOS Update</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-blur-no-more-top-10-web-photo-sharpening-apps/"><u>2024 Approved  Blur No More! Top 10 Web Photo Sharpening Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-boost-your-media-creation-skills-a-detailed-walkthrough-of-movie-maker-on-windows-8/"><u>2024 Approved  Boost Your Media Creation Skills  A Detailed Walkthrough of Movie Maker on Windows 8</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-chorus-of-chats-music-infusion-in-whatsapp/"><u>2024 Approved  Chorus of Chats  Music Infusion in WhatsApp</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-constructing-characters-settings-and-stories/"><u>2024 Approved  Constructing Characters, Settings & Stories</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-controlling-video-flow-on-your-screens-window-netflix/"><u>2024 Approved  Controlling Video Flow on Your Screen's Window (Netflix)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-a-cinematic-short-blending-images-and-melodies/"><u>2024 Approved  Crafting a Cinematic Short  Blending Images and Melodies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-your-virtual-alter-ego-in-a-metaverse-setting/"><u>2024 Approved  Crafting Your Virtual Alter Ego in a Metaverse Setting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-top-10-collage-apps-for-android-top-picks/"><u>2024 Approved  Top 10 Collage Apps for Android (Top Picks)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/6-vital-video-forms-for-captivated-viewers-for-2024/"><u>6 Vital Video Forms for Captivated Viewers for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/7-best-monitors-for-photo-editing-worth-trying/"><u>7 Best Monitors for Photo Editing Worth Trying</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-comprehensive-guide-to-lut-customization-in-premiere-pro-workflows-for-2024/"><u>A Comprehensive Guide to LUT Customization in Premiere Pro Workflows for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-step-by-step-premiere-pro-for-softening-soundtracks/"><u>A Step-by-Step Premiere Pro for Softening Soundtracks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/adept-methods-for-mass-acquiring-videos-on-tiktok-app/"><u>Adept Methods for Mass Acquiring Videos on TikTok App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/all-encompassing-mobility-review/"><u>All-Encompassing Mobility Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/amplifying-visuals-android-video-guide/"><u>Amplifying Visuals  Android Video Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/assessing-the-video-capacity-of-64gb-drives/"><u>Assessing the Video Capacity of 64Gb Drives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoid-abrupt-jumps-perfecting-inshot-transitions-for-2024/"><u>Avoid Abrupt Jumps  Perfecting Inshot Transitions for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoiding-ambiguity-clear-dating-of-digital-pics/"><u>Avoiding Ambiguity  Clear Dating of Digital Pics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-productivity-on-your-mac-an-overview-of-great-tts-apps-for-2024/"><u>Boost Productivity on Your Mac  An Overview of Great TTS Apps for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-your-drone-experience-with-these-11-items-for-2024/"><u>Boosting Your Drone Experience with These 11 Items for 2024</u></a></li>
+</ul></div>

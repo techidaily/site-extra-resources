@@ -1,7 +1,7 @@
 ---
 title: "\"Trending Picture Tales  History Revealed\""
-date: 2024-05-24T03:57:32.513Z
-updated: 2024-05-25T03:57:32.513Z
+date: 2024-07-25T02:12:05.339Z
+updated: 2024-07-26T02:12:05.339Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Trending Picture Tales: History Revealed\""
 excerpt: "\"This Article Describes Trending Picture Tales: History Revealed\""
 keywords: "Trendy Picture Stories,History in Pictures,Historical Visuals,Popular Tale Illusions,Enlightening Illustrated Histories,Timeless Image Narratives,Vivid Past Revelations"
-thumbnail: https://www.lifewire.com/thmb/o7l_Dn7Ptjx09bR0D-TWUViQhpU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Neurons-c0191b68778e4529a26a159c12733ed9.jpg
+thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212abb381c555dc4e79829ce23.jpg
 ---
 
 ## Trending Picture Tales: History Revealed
@@ -31,6 +31,9 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 * It also features on stock image sites such as Imgur, where user “someshitbag” has a gallery post titled Hide-the-pain-Harold. In addition, the page received over 880 thousand views during the first three weeks. Furthermore, it won Imgur's meme of the decade title in 2020 by receiving 10,954 votes (about 20%) of the 54,768 votes cast by Imgurians.
 * The meme appears on social media platforms such as Facebook, 4Chan, and Reddit. For example, a Facebook page titled Maurice has had over 10,000 likes since its creation in January 2014.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![meme appears on social media](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-2.jpg)
 
 * A text-to-speech YouTube video on the meme has over 492,000 views since going live in September 2015.
@@ -39,10 +42,17 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 
 According to Andras, Hide the Pain Harold results from his vacation in Turkey. A professional photographer contacted him to do stock image modeling. During the shoot, the photographer kept telling him to smile, resulting in some photos of Andras appearing to force a smile. This expression led to netizens using his image to express situations where the forced smile is masking your true feelings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![do stock image modeling](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-3.jpg)
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part2: Distracted Boyfriend
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
@@ -64,10 +74,17 @@ Since then, the meme continues to enjoy mass popularity, including:
 
 The latest version of Distracted boyfriend is a compilation of photos featuring the three models, with the last one showing the women hanging out.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part3: I Bet He's Thinking About Other Women
 
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
@@ -94,6 +111,9 @@ According to sources, the stock photo meme was first featured on Twitter in Dece
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Part4: Bonjour Bear
 
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
@@ -113,18 +133,30 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## Part5: FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### 1\. Can you use stock photos for memes?
 
 Yes, you can use stock photos for memes. However, you need to obtain them from royalty-free stock photo providers such as Shutterstock and Pexels. In addition, ensure you understand the license requirements before using the photo.
 
 This is because not all stock photo providers offer their images with a creative commons license. For example, the Unsplash license allows you to use their stock images for personal or commercial use after making adjustments to the original.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Does copyright law protect memes?
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Can you use watermarked stock photos to create memes?
 
 No. Before using watermarked images to create memes, you must get verifiable permission from the rights holder. This is because it violates copyright law and can result in heavy fines or even prison time in extreme circumstances.
@@ -161,3 +193,37 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-amplify-clarity-in-cloud-calls-zooming-out-distortion/"><u>[New] Amplify Clarity in Cloud Calls  Zooming Out Distortion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-childs-drone-pick-top-five-suggestions/"><u>[New] Child's Drone Pick  Top Five Suggestions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-time-capsule-in-digital-form-storing-historic-pictures/"><u>[Updated] A Time Capsule in Digital Form  Storing Historic Pictures</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-15-crucial-strategies-for-accessing-international-sport-events/"><u>2024 Approved  15 Crucial Strategies for Accessing International Sport Events</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-accurate-ranking-top-10-gratuitous-srt-file-tools/"><u>2024 Approved  Accurate Ranking  Top 10 Gratuitous Srt File Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-android-and-ios-the-finest-virtual-experiences/"><u>2024 Approved  Android and iOS  The Finest Virtual Experiences</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-chuckle-cache-timed-humor-categorized-by-occasion/"><u>2024 Approved  Chuckle Cache  Timed Humor Categorized by Occasion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/decisional-balance/"><u>Decisional Balance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-the-small-stuff-zooming-into-roblox-pixels/"><u>Discover the Small Stuff  Zooming Into Roblox Pixels</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/effortless-downloads-choose-from-amongst-4-best-sites/"><u>Effortless Downloads  Choose From Amongst 4 Best Sites</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elaborate-inspection-gopro-silver-hero4-unit-test/"><u>Elaborate Inspection  GoPro Silver HERO4 Unit Test</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-photo-beauty-with-top-10-iphoneandroid-stickers-apps/"><u>Elevate Photo Beauty with Top 10 iPhone/Android Stickers Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-visuals-no-cost-with-some-color-correction-tools/"><u>Elevate Visuals  No Cost with Some Color Correction Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/empowering-yourself-with-knowledge-of-google-photos-features/"><u>Empowering Yourself with Knowledge of Google Photos Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/excellent-applications-for-image-to-video-conversion/"><u>Excellent Applications for Image to Video Conversion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/finding-the-ideal-media-player-vlc-versus-mx-player/"><u>Finding the Ideal Media Player  VLC versus MX Player</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fusionflix-your-all-inclusive-tv-streaming-companion/"><u>FusionFlix  Your All-Inclusive TV Streaming Companion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/grandest-directors-trailers/"><u>Grandest Director's Trailers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-10-best-mp4-players-for-music-enthusiasts/"><u>In 2024, 10 Best MP4 Players for Music Enthusiasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-cloud-haven-discovering-the-quintessential-savers-for-your-files/"><u>In 2024, Cloud Haven  Discovering the Quintessential Savers for Your Files</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-mood-and-atmosphere-through-post-color-tweaks/"><u>In 2024, Crafting Mood and Atmosphere Through Post-Color Tweaks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seamless-video-conferencing-zoom-and-xbox-playground/"><u>Seamless Video Conferencing  Zoom & Xbox Playground</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/slumber-solutions-through-asmr-advisors-choice/"><u>Slumber Solutions Through ASMR  Advisors' Choice</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-of-conducting-engaging-interviews/"><u>The Art of Conducting Engaging Interviews</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultrawide-uhd-dilemranc-which-monitor-wins/"><u>The Ultrawide-UHD Dilemranc  Which Monitor Wins?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-smartphone-vr-gadgets-uncovered/"><u>Top 10 Smartphone VR Gadgets Uncovered</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unique-soundscapes-for-your-one-person-show/"><u>Unique Soundscapes for Your One-Person Show</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-power-of-vsco-color-grading/"><u>Unveiling the Power of VSCO Color Grading</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/video-flipping-mystery-on-the-social-media-platform/"><u>Video Flipping Mystery on the Social Media Platform</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/video-testimonial-why-its-so-important-for-marketing/"><u>Video Testimonial! Why It's So Important for Marketing</u></a></li>
+</ul></div>

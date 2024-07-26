@@ -1,7 +1,7 @@
 ---
 title: "\"From Trip Diary to Hype-Inducing Haul  The Editor's Playbook\""
-date: 2024-07-06T17:44:35.121Z
-updated: 2024-07-07T17:44:35.121Z
+date: 2024-07-25T01:17:09.943Z
+updated: 2024-07-26T01:17:09.943Z
 tags: 
   - screen-recording
   - ai video
@@ -26,12 +26,18 @@ A haul is usually a large amount of something that has been collected or won. An
 
 People nowadays are searching for something that they want to buy from the wide range of worldly goods out there. And that's where the Youtubers/ vloggers came in. They share their videos on YouTube wherein viewers can get some sort of review with a particular item. Like for example, I bought a t-shirt from the Old City of Jerusalem. I'll show the t-shirt itself; I'll tell what kind of fabric it has. Is it good or not in my own opinion. Where can someone buy it and how much does it cost? So, from there; viewers can decide for themselves if they're going to purchase that particular t-shirt in the future or not.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Things that you need if you want to make a haul video
 
 That's very simple. If you hoard stuffs for yourself or for your love ones out there, then that's basically all you need.
 
 ![things to make haul video](https://images.wondershare.com/filmora/article-images/2022/07/things-to-make-haul-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Categories of haul videos
 
 You can categorize your haul video into:
@@ -46,6 +52,9 @@ You can categorize your haul video into:
 
 **Israel Haul** \- (things that you bought here in Israel of course) often times that's my title and I just highlight the place/s where I bought those stuffs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![israel haul video](https://images.wondershare.com/filmora/article-images/2022/07/israel-haul-video.jpg)
 
 **Souvenir Haul** \- is one of my favorite hauls because I got the chance to share stunning pieces that I got from the Old City of Jerusalem. My favorite place here in the Holy Land, I have to mention. So, if you're planning to visit Israel anytime soon, please include the Old City of Jerusalem in your bucket lists. You'll be dumbfounded by everything surrounding that religious place. Believe me!
@@ -54,6 +63,9 @@ You can categorize your haul video into:
 
 **Christmas Haul** \- you can definitely guess what's into that particular haul. Stuffs that I bought during the Yuletide season. Because as we all know, “Christmas is the season of giving”.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![christmas haul video](https://images.wondershare.com/filmora/article-images/2022/07/christmas-haul-video.jpg)
 
 And once you're done filming the video itself, now it's time to edit it.
@@ -68,22 +80,35 @@ A haul video is a kind of video that I love to edit. I like to showcase things. 
 
 First thing first, like all the videos that I'm editing, we need to drag all our video clips to the timeline of our video editor.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![drag video clip haul](https://images.wondershare.com/filmora/article-images/2022/07/drag-video-clip-haul.jpg)
 
 By the way, before we proceed. I'm using Wondershare Filmora as my video editor if you want to know, just for the record.
 
 Cutting all the unnecessary information that I've said during the video, so that we can work as fast as we can afterwards. Just point the timeline scale to the specific part of the video you want to cut and then click the scissor icon.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cut unneed haul clips](https://images.wondershare.com/filmora/article-images/2022/07/cut-unneed-haul-clips.jpg)
 
 Next is highlight the part of the video that you want to delete and click the trash bin icon and you're ready to go the next part of it, that you need to omit once again. Just do the same process until you get rid of all the unnecessary part of the video.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![cut unneed haul clips 02](https://images.wondershare.com/filmora/article-images/2022/07/cut-unneed-haul-clips-02.jpg)
 
 Once we're done with the cutting part, we're now entering the most exciting part of editing for me at least. Adding all those special effects, sound effects, background music, text, lower third green screen and more. And what you can see in the image below is the default add-on I always attach to all of my videos on YouTube, my default social media watermark on the upper-right corner of it. And usually, it's static and I added it until the end of a video, just to remind the viewers all of my social media platforms.
 
 **Tip**: If you want to be a YouTuber/vlogger like us, choose a name that really represents your personal being and make it as simple as it can be, easily to memorize and just one name for all of your social media platforms. In that case, your viewers can easily search your name throughout those said online rostrums.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose name for haul video](https://images.wondershare.com/filmora/article-images/2022/07/choose-name-for-haul-video.jpg)
 
 The image below shows how I started to market the shirt that I bought from Adidas. What kind of fabric it has, is it suitable for the weather in the Philippines because I want to send it way back home and what particular size it is?
@@ -94,6 +119,9 @@ I add a pop-up image and that image was the name of the online seller wherein I 
 
 Next is I added a text to emphasize the price of the t-shirt and as you can see, I just chose the simplest title I got. There are lots of Titles to choose from as you can see in the image below. Choose what you think suits best for your video.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![add text to haul video](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-haul-video.jpg)
 
 What I love about haul video, is that I know what to add throughout the video itself because it's the same process actually. I need to describe the item first, then add a pop-up image of the seller or even place where I bought the item, and its price. Everything you need to know basically. So, in the image below; I insert the name of the Facebook Page where I bought that Tribal inspired shirt. When it comes to street wear, there's no better brand than **_Tribal Philippines_**. It is a brand supported by many great artists, especially in music, if you want to know it's origin.
@@ -118,16 +146,25 @@ And if you're looking for a simple but powerful video editor for Personal Comput
 
 First thing first, like all the videos that I'm editing, we need to drag all our video clips to the timeline of our video editor.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![drag video clip haul](https://images.wondershare.com/filmora/article-images/2022/07/drag-video-clip-haul.jpg)
 
 By the way, before we proceed. I'm using Wondershare Filmora as my video editor if you want to know, just for the record.
 
 Cutting all the unnecessary information that I've said during the video, so that we can work as fast as we can afterwards. Just point the timeline scale to the specific part of the video you want to cut and then click the scissor icon.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cut unneed haul clips](https://images.wondershare.com/filmora/article-images/2022/07/cut-unneed-haul-clips.jpg)
 
 Next is highlight the part of the video that you want to delete and click the trash bin icon and you're ready to go the next part of it, that you need to omit once again. Just do the same process until you get rid of all the unnecessary part of the video.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![cut unneed haul clips 02](https://images.wondershare.com/filmora/article-images/2022/07/cut-unneed-haul-clips-02.jpg)
 
 Once we're done with the cutting part, we're now entering the most exciting part of editing for me at least. Adding all those special effects, sound effects, background music, text, lower third green screen and more. And what you can see in the image below is the default add-on I always attach to all of my videos on YouTube, my default social media watermark on the upper-right corner of it. And usually, it's static and I added it until the end of a video, just to remind the viewers all of my social media platforms.
@@ -188,3 +225,34 @@ And if you're looking for a simple but powerful video editor for Personal Comput
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-a-comprehensive-guide-to-crafting-stellar-podcast-sneak-peeks/"><u>[New] A Comprehensive Guide to Crafting Stellar Podcast Sneak Peeks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-new-era-of-visual-narratives-full-rotation/"><u>[New] A New Era of Visual Narratives  Full Rotation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-beyond-the-screen-jaunt-vrs-spectacular-world/"><u>[New] Beyond the Screen  Jaunt VR's Spectacular World</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-canons-lut-collection-maximize-image-impact-free-and-paid-choices/"><u>[New] Canon’s LUT Collection  Maximize Image Impact - FREE & Paid Choices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-conquer-the-connection-mastering-insta-tik-linkage/"><u>[New] Conquer the Connection  Mastering Insta-Tik Linkage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-an-impressive-online-brand-presence/"><u>[New] Crafting an Impressive Online Brand Presence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-amp-up-creativity-premiere-pro-templates-free/"><u>[Updated] Amp Up Creativity  Premiere Pro Templates, FREE</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-14-text-animation-examples/"><u>[Updated] Best 14 Text Animation Examples</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-of-breed-exceptional-episodes-on-google-podcasts/"><u>[Updated] Best of Breed  Exceptional Episodes on Google Podcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-accelerate-android-videos-from-sluggish-to-swift/"><u>2024 Approved  Accelerate Android Videos From Sluggish to Swift</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-blending-primary-and-b-roll-for-smooth-transitions/"><u>2024 Approved  Blending Primary and B-Roll for Smooth Transitions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-strategies-for-exceptional-color-grading-via-3d-lut-filters/"><u>Advanced Strategies for Exceptional Color Grading via 3D LUT Filters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/altered-realities-image-warping-insights-for-2024/"><u>Altered Realities  Image Warping Insights for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bestiary-of-no-cost-iphone-enhancement-apps-for-ultimate-selfies-for-2024/"><u>Bestiary of No-Cost iPhone Enhancement Apps for Ultimate Selfies for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-photo-skills-speed-and-simplicity-with-windows-10-paint-app/"><u>Boosting Photo Skills  Speed & Simplicity with Windows 10 Paint App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/craft-cinematic-magic-try-these-7-color-tricks/"><u>Craft Cinematic Magic  Try These 7 Color Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-actions-while-absorbing-audio-tales/"><u>Essential Actions While Absorbing Audio Tales</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-online-marketing-strategies-for-newcomers/"><u>Essential Online Marketing Strategies for Newcomers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gopro-hero5-session-review/"><u>GoPro Hero5 Session Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-winter-olympics-2022-highlights/"><u>In 2024, Winter Olympics 2022 Highlights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/secrets-of-selecting-the-best-nba-live-feed/"><u>Secrets of Selecting the Best NBA Live Feed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/syncing-scores-and-screenplays-top-tunes-for-video-unboxing/"><u>Syncing Scores and Screenplays  Top Tunes for Video Unboxing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-intricacies-of-crafting-a-virtual-experience/"><u>The Intricacies of Crafting a Virtual Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tomtoms-actioncam-series-a-new-chapter/"><u>TomTom's ActionCam Series - A New Chapter</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-android-cloud-saving-tools/"><u>Top Android Cloud Saving Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/under-100-budget-friendly-action-cams-top-choices-guide/"><u>Under-$100 Budget-Friendly Action Cams – Top Choices Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/write-striking-introductions-insights-and-demonstrations/"><u>Write Striking Introductions  Insights & Demonstrations</u></a></li>
+</ul></div>

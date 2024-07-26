@@ -1,7 +1,7 @@
 ---
 title: "Premium Extensions for After Effects Magic"
-date: 2024-05-24T05:33:34.647Z
-updated: 2024-05-25T05:33:34.647Z
+date: 2024-07-25T05:24:43.988Z
+updated: 2024-07-26T05:24:43.988Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Premium Extensions for After Effects Magic"
 excerpt: "This Article Describes Premium Extensions for After Effects Magic"
 keywords: "\"AE Premium Extension,Magic AE Upgrade,Extended AE Capabilities,Premium AE Tools,Enhanced AE Features,High-End AE Add-Ons,Elite AE Extensions\""
-thumbnail: https://www.lifewire.com/thmb/fj7LHxQR3xXkmWG7B0RVwIMdJVY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/DemetriusGray-370f2f60b93b4808b029f80359cc8244.jpg
+thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f188240e22025a6fa593d0f053ec.jpg
 ---
 
 ## Premium Extensions for After Effects Magic
@@ -28,6 +28,9 @@ TextDelay is a native plugin, meaning that you will find it already installed on
 
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## TextExploder
 
 Link: <https://aescripts.com/textexploder/>
@@ -36,12 +39,18 @@ TextExploder is an After Effects plugin that is developed by MamoWorld and it al
 
 ![text exploder plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-exploder-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## iExpressions 2
 
 Link: <https://aescripts.com/iexpressions/>
 
 If you want to effectively use the After Effects expressions even if you are not familiar with coding, iExpressions 2 is the text plugin to consider. It comes with 22 ready-to-use iExpressions that you can easily customize to fit into your project and it is so easy to use.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
 ## TextBox
@@ -50,22 +59,37 @@ Link: <https://aescripts.com/textbox/>
 
 If you want to create the perfect shape behind your text, then TextBox is a good text plugin to consider. This is a native After Effects plugin, meaning that you will not need to install it and the shapes it creates can be very easily customized. It updates the shapes you create automatically and adds them to the text layer, making it the most ideal solution to create closed captions, lower thirds, and subtitles.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Font Manager
 
 Link: <https://aescripts.com/font-manager/>
 
 Font Manager is an After Effects text plugin that is useful when creating and working with animated typefaces. You can use it to create the most complex animated text graphics in just a few simple clicks. You will also find it very familiar to use as the user interface is similar to the Character Panel in After Effects.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Cartoon Moblur
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Fcartoon%5Fmoblur>
 
 This is the most ideal plugin to choose when you want to add motion trail to the graphics in your video, but you want them to appear very cartoony. If you have used the motion blur effect in After Effects, Cartoon Moblur will behave in a similar function, but it is more suited to 2D, flat or minimal graphics. Some of the factors that you can customize include the length of the blur (shutter angle), color, and opacity.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cartoon moblur plugin](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-moblur-plugin.jpg)
 
 ## Shadow Studio
@@ -90,6 +114,9 @@ The Artificial Intelligence Titles is an After Effects text plugin that is desig
 
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Text Library
 
 Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
@@ -98,6 +125,9 @@ This is another great text animation bundle with different options for just abou
 
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 On its own After Effects comes with so many post-production effects and features to make your project appear professional and well made. But if you would like to have a unique video production that stands head and shoulders above all others, plugins are a great way to do that. The good news is that After Effects allows for the use of plugins developed by third-party developers and some of the them like the text plugins, we have listed above can be very useful to a video’s production.
@@ -132,3 +162,30 @@ On its own After Effects comes with so many post-production effects and features
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-21-vegas-pro-insights-an-expert-breakdown/"><u>[New] '21 Vegas Pro Insights – An Expert Breakdown</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-birds-eye-view-duel-dji-pro-max-against-gopro-hero6/"><u>[New] Bird's Eye View Duel  DJI Pro Max Against GoPro HERO6</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-captivating-android-time-lapses-ideas-and-strategies-2024/"><u>[New] Captivating Android Time-Lapses  Ideas and Strategies 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-aerial-autonomy-groups/"><u>[Updated] Aerial Autonomy Groups</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-bridging-the-gap-an-introduction-to-av1/"><u>[Updated] Bridging the Gap  An Introduction to AV1</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-building-a-better-movie-utilizing-windows-11s-movie-maker/"><u>[Updated] Building a Better Movie  Utilizing Windows 11'S Movie Maker</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/15-pioneering-youtube-tutorials-for-flawless-product-reviews/"><u>15 Pioneering YouTube Tutorials for Flawless Product Reviews</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-accelerating-or-decelerating-mastering-snapchats-timeline-controls/"><u>2024 Approved  Accelerating or Decelerating  Mastering Snapchat's Timeline Controls</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/acquiring-vivid-clipart-without-investment/"><u>Acquiring Vivid Clipart Without Investment</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-6-value-proposition-affordable-4k-projectors-for-2024/"><u>Best 6 Value Proposition  Affordable 4K Projectors for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-engaging-shots-using-strategic-leading-lines-iphone-for-2024/"><u>Capture Engaging Shots Using Strategic Leading Lines (iPhone) for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/concealed-viewers-guide-to-instagram-live-broadcasting-without-attention/"><u>Concealed Viewers' Guide to Instagram Live Broadcasting Without Attention</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/craft-individual-humor-masterpieces-online-for-2024/"><u>Craft Individual Humor Masterpieces Online for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-take-on-acid-pro-and-competitive-analysis/"><u>Expert Take on ACID Pro and Competitive Analysis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-sound-to-sight-choosing-between-audio-and-video-media/"><u>From Sound to Sight  Choosing Between Audio and Video Media</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-sound-communication-on-whatsapp/"><u>Mastering Sound Communication on WhatsApp</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfect-photos-on-iphone-illumination-secrets/"><u>Perfect Photos on IPhone  Illumination Secrets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premium-memory-device-for-sony-a7s-cameras/"><u>Premium Memory Device for Sony A7S Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/real-time-voice-to-action-no-price-tag/"><u>Real-Time Voice to Action, No Price Tag</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/synthesis-of-song-elements-the-crossfade-approach/"><u>Synthesis of Song Elements  The Crossfade Approach</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-selfie-stick-showdown-for-iphone-8-winners/"><u>The Ultimate Selfie Stick Showdown for iPhone (#8 Winners)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-high-quality-blu-ray-software-variants-pcmac/"><u>Top 10  High-Quality Blu-Ray Software Variants (PC/Mac)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-premier-selection-top-12-free-video-apps-and-players-pctabletsmartphone/"><u>Unveiling the Premier Selection  Top 12 Free Video Apps & Players (PC/Tablet/Smartphone)</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Capturing Motion  Canon Camera Time-Lapse Basics\""
-date: 2024-05-24T05:05:34.662Z
-updated: 2024-05-25T05:05:34.662Z
+date: 2024-07-25T04:32:12.079Z
+updated: 2024-07-26T04:32:12.079Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Capturing Motion: Canon Camera Time-Lapse Basics\""
 excerpt: "\"This Article Describes 2024 Approved: Capturing Motion: Canon Camera Time-Lapse Basics\""
 keywords: "\"Canon Time-Lapse Photography,LAPSE Capture Techniques,Basic Time-Lapse Cams,Motion Photography Secrets,Static to Dynamic: Time-Lapse,Camera Tutorials,Canon Basics for Lapse Shots\""
-thumbnail: https://www.lifewire.com/thmb/I74clBXGRTAv06mvwebkyWFQNPw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Apple-WWCD23-Vision-Pro-spatial-video-230605-4dfd1ee93eb24abcbe7b0e4622768422.jpg
+thumbnail: https://thmb.techidaily.com/475e778db07011aff476548fbdaa46272592bc242d2a4144096bc7b432d20837.jpg
 ---
 
 ## Capturing Motion: Canon Camera Time-Lapse Basics
@@ -36,6 +36,9 @@ Let's explore the time-lapse world in the comfort of your home or when you are c
 
 **1:-** Change your Canon camera settings to the Time-lapse movie by tapping on the menu and searching Timelapse Movie mode in your menu.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enable time lapse on canon](https://images.wondershare.com/filmora/article-images/enable-time-lapse-canon-camera.jpg)
 
 **2:-** Tap on the info button to access the setting for the interval time and the no. of shots.
@@ -62,6 +65,9 @@ Let's explore the time-lapse world in the comfort of your home or when you are c
 
 **Focus on the camera:-** Always ensure that the equipment and camera are in sight while you are shooting and safe.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4\. Extra: How to Edit Timelapse Video on Computer
 
 We all love time-lapse videos; be it sunset, busy traffic movement, or cloud movement, we always wonder how they are made. Also, it is an excellent technique mainly used to create highly fast-paced videos by creating a time illusion. Moreover, time-lapse videos are primarily used to capture highly slow-paced subjects. They take a lot of time to record, like flower blooming, sunset, or sunrise.
@@ -74,6 +80,9 @@ Let's see how to edit your time-lapse video on it.
 
 You will have to import the clips to your library.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![drag files into filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
@@ -96,6 +105,9 @@ You will have to right-click on your clip in the timeline to choose the duration
 
 If you have the necessary changes and previewed the video, then you can save the video. Also, now, you can export it to the output of video footage. Your **Canon r5 time-lapse** is ready.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Now, you are aware of how to shoot time-lapse with your Canon camera. After you have captured the clips, you can edit your clips in Filmora. Also, this is done to make the video more attractive and presentable for your social media or projects. Now, what are you waiting for? Grab your camera and shoot some magical moments.
@@ -106,6 +118,58 @@ Now, you are aware of how to shoot time-lapse with your Canon camera. After you 
 
 After importing the video, you must drag it to the video column. Choose a loaded video and tap on the "Play" button. When playing the video, you must drag a slide bar. Then, tap on the "Split" icon to cut the unnecessary parts.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![tap reels on facebook app](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
+
+##### Step 3 \- Speed up creating a time-lapse video
+
+You will have to right-click on your clip in the timeline to choose the duration and speed. After choosing all of this, a window will appear. You must adjust the speed and drag the slider to the right to increase the video speed. After that, you can click on "Ok." Now, you can preview the video by tapping on the Play button. Also, you should know that Filmora supports up to 0.01x slow motion and 100x fast.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
+![uniform speed on filmora](https://images.wondershare.com/filmora/guide/uniform-speed-2.png)
+
+##### Step 4 \- Export the video
+
+If you have the necessary changes and previewed the video, then you can save the video. Also, now, you can export it to the output of video footage. Your **Canon r5 time-lapse** is ready.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+## Conclusion
+
+Now, you are aware of how to shoot time-lapse with your Canon camera. After you have captured the clips, you can edit your clips in Filmora. Also, this is done to make the video more attractive and presentable for your social media or projects. Now, what are you waiting for? Grab your camera and shoot some magical moments.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+##### Step 2 \- Cut out the unnecessary part for time lapse editing
+
+After importing the video, you must drag it to the video column. Choose a loaded video and tap on the "Play" button. When playing the video, you must drag a slide bar. Then, tap on the "Split" icon to cut the unnecessary parts.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![tap reels on facebook app](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
 
 ##### Step 3 \- Speed up creating a time-lapse video
@@ -128,28 +192,9 @@ Now, you are aware of how to shoot time-lapse with your Canon camera. After you 
 
 After importing the video, you must drag it to the video column. Choose a loaded video and tap on the "Play" button. When playing the video, you must drag a slide bar. Then, tap on the "Split" icon to cut the unnecessary parts.
 
-![tap reels on facebook app](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
-
-##### Step 3 \- Speed up creating a time-lapse video
-
-You will have to right-click on your clip in the timeline to choose the duration and speed. After choosing all of this, a window will appear. You must adjust the speed and drag the slider to the right to increase the video speed. After that, you can click on "Ok." Now, you can preview the video by tapping on the Play button. Also, you should know that Filmora supports up to 0.01x slow motion and 100x fast.
-
-![uniform speed on filmora](https://images.wondershare.com/filmora/guide/uniform-speed-2.png)
-
-##### Step 4 \- Export the video
-
-If you have the necessary changes and previewed the video, then you can save the video. Also, now, you can export it to the output of video footage. Your **Canon r5 time-lapse** is ready.
-
-## Conclusion
-
-Now, you are aware of how to shoot time-lapse with your Canon camera. After you have captured the clips, you can edit your clips in Filmora. Also, this is done to make the video more attractive and presentable for your social media or projects. Now, what are you waiting for? Grab your camera and shoot some magical moments.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-##### Step 2 \- Cut out the unnecessary part for time lapse editing
-
-After importing the video, you must drag it to the video column. Choose a loaded video and tap on the "Play" button. When playing the video, you must drag a slide bar. Then, tap on the "Split" icon to cut the unnecessary parts.
-
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap reels on facebook app](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
 
 ##### Step 3 \- Speed up creating a time-lapse video
@@ -190,3 +235,41 @@ Now, you are aware of how to shoot time-lapse with your Canon camera. After you 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-5-essential-sites-revolutionizing-how-we-style-text/"><u>[New] 5 Essential Sites Revolutionizing How We Style Text</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-accessing-the-ultimate-10-lists-of-vector-pics-sites/"><u>[New] Accessing the Ultimate 10 Lists of Vector Pics Sites</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capturing-radiance-advanced-techniques-in-ps-hdr/"><u>[New] Capturing Radiance  Advanced Techniques in PS HDR</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-clarityai-creatives-unleash-editing-potential/"><u>[New] ClarityAI Creatives  Unleash Editing Potential</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-achieving-gentle-growth-of-silence-in-audio-production/"><u>[Updated] Achieving Gentle Growth of Silence in Audio Production</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-asus-proart-pa32u-4k-hdr-professional-monitor-review/"><u>2024 Approved  ASUS ProArt PA32U 4K HDR Professional Monitor Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beginners-blueprint-to-blend-brighten-and-balance/"><u>2024 Approved  Beginner's Blueprint to Blend, Brighten & Balance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/9-best-watermark-apps-for-iphone-how-to-watermark-photos-on-iphone/"><u>9 Best Watermark Apps for iPhone - How to Watermark Photos on iPhone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ai-name-magic-selecting-the-best-tools-for-your-podcast-titles/"><u>AI Name Magic  Selecting the Best Tools for Your Podcast Titles</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audio-storytelling-in-media-production-masterclass/"><u>Audio Storytelling in Media Production Masterclass</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/craft-engaging-yt-titles-in-a-flash/"><u>Craft Engaging YT Titles in a Flash</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-a-perfect-power-pair-lipo-and-drones-for-2024/"><u>Crafting a Perfect Power Pair  LiPo and Drones for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-camera-experience-mavic-pro-review/"><u>Elevating Camera Experience - Mavic Pro Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-your-skills-with-our-full-periscope-guide/"><u>Elevating Your Skills with Our Full Periscope Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/eliminating-lag-in-iphone-timelapse-videos/"><u>Eliminating Lag in iPhone Timelapse Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-android-viewing-latest-in-vr-and-360-videos/"><u>Enhancing Android Viewing - Latest in VR & 360 Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-productivity-with-azure-voice-recognition/"><u>Enhancing Productivity with Azure Voice Recognition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/framefusion-matrix-the-ultimate-montage-craft/"><u>FrameFusion Matrix  The Ultimate Montage Craft</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ideal-mobile-editing-platforms-for-dji-imagery/"><u>Ideal Mobile Editing Platforms for DJi Imagery</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-comprehensive-look-at-securing-background-visuals/"><u>In 2024, A Comprehensive Look at Securing Background Visuals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-comprehensive-tutorial-for-srt-filters-in-social-space/"><u>In 2024, A Comprehensive Tutorial for SRT Filters in Social Space</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-techniques-for-precise-online-image-cropping/"><u>In 2024, Advanced Techniques for Precise Online Image Cropping</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-clearing-photos-expert-background-takedown-in-photopea/"><u>In 2024, Clearing Photos  Expert Background Takedown in Photopea</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/instagram-stories-learn-to-modify-video-velocity/"><u>Instagram Stories  Learn to Modify Video Velocity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-selecting-premium-free-srt-translation-services/"><u>Mastering the Art of Selecting Premium Free SRT Translation Services</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/notable-top-5-lightweight-action-recording-units/"><u>Notable Top 5 Lightweight Action Recording Units</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/retrace-mechanic-setup/"><u>Retrace Mechanic Setup</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/reverse-call-quality-declines-on-zoom-platforms/"><u>Reverse Call Quality Declines on Zoom Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seconds-needed-to-watch-an-hd-20mb-video/"><u>Seconds Needed to Watch an HD 20MB Video</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-best-10-final-cut-pro-plugins-ever/"><u>The Best 10 Final Cut Pro Plugins Ever</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-fastest-path-to-amazing-iphone-time-lapses/"><u>The Fastest Path to Amazing iPhone Time-Lapses</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-list-of-sites-to-download-stylish-text-files/"><u>Ultimate List of Sites to Download Stylish Text Files</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/underwater-cinematography-avoiding-blur-and-grain-with-a-gopro/"><u>Underwater Cinematography  Avoiding Blur and Grain with a GoPro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unifying-online-collaboration-tools-skype-and-zoom/"><u>Unifying Online Collaboration Tools  Skype & Zoom</u></a></li>
+</ul></div>

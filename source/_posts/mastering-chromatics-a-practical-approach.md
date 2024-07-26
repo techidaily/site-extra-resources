@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Chromatics  A Practical Approach\""
-date: 2024-05-24T03:29:10.830Z
-updated: 2024-05-25T03:29:10.830Z
+date: 2024-07-25T01:26:19.808Z
+updated: 2024-07-26T01:26:19.808Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Mastering Chromatics: A Practical Approach\""
 excerpt: "\"This Article Describes Mastering Chromatics: A Practical Approach\""
 keywords: "Chromatic Mastery,Color Theory Basics,Artistic Chromatics,Creative Chromatics,Practical Chromatics,Chroma Techniques,Paint Chromatics"
-thumbnail: https://www.lifewire.com/thmb/rEb0Xlhrv5GpD6J2vjepAoiozrE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-482141903-596b8b353df78c57f4a8de02.jpg
+thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b059873f4809f00d7b660fc375.jpg
 ---
 
 ## Mastering Chromatics: A Practical Approach
@@ -36,10 +36,17 @@ Using red, green and blue as primary colors we can mix the colors to one another
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## Color Harmony
 
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
@@ -50,20 +57,32 @@ The blue lines represent what is known as split contrasting colors and these wil
 
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## But How Do I Use This
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
 
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
 
 As you can see from this example the base color for the scene is a dark blue/purple and using the analogous color of pink they created a point of interest within the scene that doesn't look out of place. This is a very good way to pull the viewers eyes towards something you want them to take in above all else.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 By including this into your thought process when creating videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) you will achieve well balanced and harmonious content for your viewer to enjoy and create better engagement. It's not by chance these things happen though, it's through research and planning that the most iconic scenes and characters are created and this is just one small brick in the foundations of content creation. With practice this will become second nature to you and that is the main goal of this guide.
@@ -98,3 +117,28 @@ By including this into your thought process when creating videos with [Filmora](
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-blitz-through-edits-with-windows-11-pro-tips/"><u>[New] Blitz Through Edits with Windows 11 Pro Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-budget-enthusiasts-choices-the-right-gopro-add-ons-for-newbies/"><u>[New] Budget Enthusiasts Choices  The Right GoPro Add-Ons for Newbies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-aural-artistry-the-intersection-of-sound-and-image-on-insta/"><u>[Updated] Aural Artistry  The Intersection of Sound and Image on Insta</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-compelling-spotify-campaigns-a-practical-guide/"><u>[Updated] Crafting Compelling Spotify Campaigns  A Practical Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-green-screen-strategies-for-professional-streamers/"><u>Cutting-Edge Green Screen Strategies for Professional Streamers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/decoding-the-legal-labyrinth-of-sharing-music-on-instagram/"><u>Decoding the Legal Labyrinth of Sharing Music on Instagram</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/echoing-elegance-find-pristine-ringtone-archives-online/"><u>Echoing Elegance  Find Pristine Ringtone Archives Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-expectations-innovative-gift-box-experiences/"><u>Elevating Expectations  Innovative Gift Box Experiences</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-podcast-scriptwriting-skills-demystified-examples-included/"><u>Essential Podcast Scriptwriting Skills Demystified (Examples Included)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gopro-hero4-black-vs-drift-ghost-s-which-one-is-better/"><u>GoPro Hero4 Black VS Drift Ghost-S  Which One Is Better?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-alternative-software-for-laptoppc-video-editing/"><u>In 2024, Alternative Software for Laptop/PC Video Editing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-tools-top-cell-phones-for-creatives/"><u>Innovative Tools  Top Cell Phones for Creatives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/macos-11-big-sur-essential-guide-for-upgrades/"><u>MacOS 11 Big Sur  Essential Guide for Upgrades</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-iphone-scaling-images-quickly/"><u>Mastering iPhone  Scaling Images Quickly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mirthmaker-join-and-start-your-humor-storytelling/"><u>MirthMaker  Join & Start Your Humor Storytelling</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-tips-uploading-to-apple-podcast-network/"><u>Quick Tips  Uploading to Apple Podcast Network</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/slendersky-saver-economic-storage-for-voluminous-files/"><u>SlenderSky Saver - Economic Storage for Voluminous Files</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/snapseed-advanced-usage-insights/"><u>Snapseed Advanced Usage Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/speed-it-up-crafting-beautiful-timelapse-videos-on-galaxy/"><u>Speed It Up  Crafting Beautiful Timelapse Videos on Galaxy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-secrets-to-steering-clear-of-vr-sickness/"><u>The Secrets to Steering Clear of VR Sickness</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/what-is-triller-a-platform-that-challenges-traditional-video-sites/"><u>What Is Triller? A Platform That Challenges Traditional Video Sites</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Interweaving Art and Science in Colors"
-date: 2024-05-24T04:22:26.166Z
-updated: 2024-05-25T04:22:26.166Z
+date: 2024-07-25T03:10:10.546Z
+updated: 2024-07-26T03:10:10.546Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Interweaving Art and Science in Colors"
 excerpt: "This Article Describes Interweaving Art and Science in Colors"
 keywords: "\"Color & Design Fusion,Art+Science in Hues,Interwoven Color Theory,Creative Art Techniques,Aesthetic Art-Science Synergy,Harmonious Art Colors,Innovative Artistic Palette\""
-thumbnail: https://www.lifewire.com/thmb/x4ELePcuvTvISiLzV5DQ1wwDvMw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Microsoft-Build-small-d7911de8b5f5459498b2c3a4536591fc.jpg
+thumbnail: https://thmb.techidaily.com/071483303e8a1f6026bf0da4b7a67ab78d5daef3d5d188bd12d3a2359c4d77ed.jpg
 ---
 
 ## Interweaving Art and Science in Colors
@@ -32,6 +32,9 @@ There are many color wheels out there and all require understanding and research
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
@@ -40,6 +43,9 @@ As you can see, we have every color available in this wheel and they are arrange
 
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
@@ -50,20 +56,32 @@ The blue lines represent what is known as split contrasting colors and these wil
 
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## But How Do I Use This
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
 
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
 
 As you can see from this example the base color for the scene is a dark blue/purple and using the analogous color of pink they created a point of interest within the scene that doesn't look out of place. This is a very good way to pull the viewers eyes towards something you want them to take in above all else.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 By including this into your thought process when creating videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) you will achieve well balanced and harmonious content for your viewer to enjoy and create better engagement. It's not by chance these things happen though, it's through research and planning that the most iconic scenes and characters are created and this is just one small brick in the foundations of content creation. With practice this will become second nature to you and that is the main goal of this guide.
@@ -98,3 +116,31 @@ By including this into your thought process when creating videos with [Filmora](
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-advanced-shade-realist-app/"><u>[Updated] Advanced Shade Realist App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-asmr-unveiled-benefits-for-your-well-being/"><u>[Updated] ASMR Unveiled  Benefits for Your Well-Being</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-bridging-the-gap-enhancing-skype-with-zooms-features/"><u>[Updated] Bridging the Gap  Enhancing Skype with Zoom's Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-complete-rotation-recording-versus-stereo-capture/"><u>[Updated] Complete Rotation Recording Versus Stereo Capture</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-close-encounters-experiencing-roblox-at-greater-detail/"><u>2024 Approved  Close Encounters  Experiencing Roblox At Greater Detail</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beginners-backstage-pass-to-photo-tricks-for-2024/"><u>Beginner's Backstage Pass to Photo Tricks for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-quality-podcasts-iphone-and-ipad-tips-for-intense-interviewing-for-2024/"><u>Crafting Quality Podcasts  IPhone & iPad Tips for Intense Interviewing for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-images-the-secret-to-subtracting-backdrops-in-photopea/"><u>Enhancing Images  The Secret to Subtracting Backdrops in Photopea</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-the-gopro-hero5-sessions/"><u>Exploring the GoPro Hero5 Sessions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-amusing-registration-journey/"><u>In 2024, Amusing Registration Journey</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-an-inside-look-at-magix-vpxs-advanced-techniques/"><u>In 2024, An Inside Look at Magix VPX's Advanced Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capture-perfection-optimal-use-of-zoom-feature-for-photos-and-videos/"><u>In 2024, Capture Perfection  Optimal Use of Zoom Feature for Photos & Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-close-up-power-in-videoleap-zooming-made-easy/"><u>In 2024, Close-Up Power in VideoLeap  Zooming Made Easy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-how-to-create-360-degree-photosimages-with-fisheye-lens/"><u>In 2024, How to Create 360 Degree Photos/Images with Fisheye Lens</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovate-laughter-through-adobe-creation/"><u>Innovate Laughter, Through Adobe Creation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lg-27uhd68-screen-a-detailed-freesync-analysis/"><u>LG 27UHD68 Screen  A Detailed FreeSync Analysis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/podcastpivot-avoiding-dacasts-pitfalls/"><u>PodcastPivot  Avoiding DaCast's Pitfalls</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premier-stream-gear-with-superior-360-degree-cameras/"><u>Premier Stream Gear with Superior 360-Degree Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/starting-with-av1-an-essential-overview/"><u>Starting with AV1  An Essential Overview</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-turning-on-windows-11s-high-dynamic-range-mode/"><u>Step-by-Step  Turning On Windows 11'S High Dynamic Range Mode</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-premium-list-live-streaming-with-local-channel-support-2024/"><u>The Premium List  Live Streaming with Local Channel Support, 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-androids-premium-music-video-watching-apps/"><u>The Ultimate Guide to Android's Premium Music Video Watching Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-fastest-flip-screen-games-on-desktops-and-phones/"><u>Top 10 Fastest Flip-Screen Games on Desktops & Phones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-tier-templates-for-zooid-introduction/"><u>Top-Tier Templates for Zooid Introduction</u></a></li>
+</ul></div>

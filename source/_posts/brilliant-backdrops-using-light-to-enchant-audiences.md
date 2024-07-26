@@ -1,7 +1,7 @@
 ---
 title: "\"Brilliant Backdrops  Using Light to Enchant Audiences\""
-date: 2024-05-24T04:17:10.433Z
-updated: 2024-05-25T04:17:10.433Z
+date: 2024-07-25T02:59:45.488Z
+updated: 2024-07-26T02:59:45.488Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Brilliant Backdrops: Using Light to Enchant Audiences\""
 excerpt: "\"This Article Describes Brilliant Backdrops: Using Light to Enchant Audiences\""
 keywords: "\"Lighting Magic,Enchanted Audience,Dazzling Backgrounds,Eye-Catching Sets,Captivating Lights,Stunning Visuals,Illuminated Stage\""
-thumbnail: https://www.lifewire.com/thmb/JqeWwiSiHl2mePI1yAdAfzGario=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/woman-using-laptop-on-diving-board-at-poolside-468840349-58d553785f9b584683dfa24c.jpg
+thumbnail: https://thmb.techidaily.com/1ce0f809b5f53bee55ecc4e59e4fc7fd703e674d56363d25b6490a7057e74118.jpg
 ---
 
 ## Brilliant Backdrops: Using Light to Enchant Audiences
@@ -22,6 +22,10 @@ Many people are wondering how to set up lighting for video shooting. While there
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## Part 1\. How-to Guide
 
 **_1) Preparation_**
@@ -52,6 +56,9 @@ The key light is the main light that illuminates the subject. You can place it i
 
 ##### Step2 Set the Fill Light
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
@@ -66,6 +73,10 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
@@ -74,6 +85,9 @@ Then, we also have a LED ring light that shines toward the camera. The light add
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
 After setting up all the lighting above, you can take a look at the comparison below:
@@ -90,8 +104,19 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -126,3 +151,39 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/92-chuckle-fest-an-analyzed-goofy-film-vhs-for-2024/"><u>'92 Chuckle Fest'  An Analyzed Goofy Film VHS for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-ultimate-websites-for-stunning-hdr-skies-for-2024/"><u>10 Ultimate Websites for Stunning HDR Skies for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2023s-fastest-route-to-convert-srt-to-txt-files/"><u>2023'S Fastest Route to Convert SRT to TXT Files</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-10-exceptional-cost-saving-passport-portrait-maker-applications/"><u>2024 Approved  10 Exceptional, Cost-Saving Passport Portrait Maker Applications</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-achieve-peak-performance-with-win11-and-zoom-integration/"><u>2024 Approved  Achieve Peak Performance with Win11 & Zoom Integration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-color-grading-techniques-with-luts-for-after-effects-users/"><u>2024 Approved  Advanced Color Grading Techniques with LUTs for After Effects Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-archive-artistry-seamlessly-fuse-infinite-no-charge-cloud-and-premium-subscriptions/"><u>2024 Approved  Archive Artistry  Seamlessly Fuse Infinite, No-Charge Cloud & Premium Subscriptions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-are-critiques-on-items-compensated-monetarily/"><u>2024 Approved  Are Critiques on Items Compensated Monetarily?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-asmr-and-you-understanding-its-healing-power/"><u>2024 Approved  ASMR and You  Understanding Its Healing Power</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-asmr-benefits-unveiled-your-mental-gain/"><u>2024 Approved  ASMR Benefits Unveiled – Your Mental Gain</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-av1-compression-a-beginners-overview/"><u>2024 Approved  AV1 Compression  A Beginner's Overview</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beam-brighter-adopting-the-playful-cartoon-lens-on-snapchat/"><u>2024 Approved  Beam Brighter  Adopting the Playful Cartoon Lens on Snapchat</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-become-a-color-grading-pro-utilizing-luts-within-adobes-suite/"><u>2024 Approved  Become a Color Grading Pro  Utilizing LUTs Within Adobe's Suite</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-boosting-playback-speed-guidelines-for-secure-sound-enhancement/"><u>2024 Approved  Boosting Playback Speed  Guidelines for Secure Sound Enhancement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-brighten-your-surroundings-with-21plus-collage-wonders/"><u>2024 Approved  Brighten Your Surroundings with 21+ Collage Wonders</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-photos-from-moving-frames-on-windows-11/"><u>2024 Approved  Capturing Photos From Moving Frames on Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-chart-topping-storytellers-to-follow-on-youtube-this-year/"><u>2024 Approved  Chart-Topping Storytellers to Follow on YouTube This Year</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-community-shared-music-collections-copyright-free/"><u>2024 Approved  Community-Shared Music Collections (Copyright-Free)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-the-core-plot/"><u>2024 Approved  Crafting the Core Plot</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-compreomed-approach-to-filmmaking-mastering-movie-maker-windows-8-techniques-for-2024/"><u>A Compreomed Approach to Filmmaking  Mastering Movie Maker (Windows 8) Techniques for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/accelerating-mp4-playback-speeding-up-presentations-for-2024/"><u>Accelerating MP4 Playback  Speeding Up Presentations for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/amplify-your-status-music-in-whatsapp/"><u>Amplify Your Status  Music in WhatsApp</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/androidiphone-top-10-vr-gaming-picks/"><u>Android/iPhone Top 10 VR Gaming Picks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/appreciative-adjacencies-templates-for-any-spend-plan-for-2024/"><u>Appreciative Adjacencies  Templates for Any Spend Plan for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/assessing-gopro-hero5-session-quality-for-2024/"><u>Assessing GoPro Hero5 Session Quality for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avatar-genius-the-easy-guide-to-metaverse-creation-for-2024/"><u>Avatar Genius  The Easy Guide to Metaverse Creation for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-of-both-worlds-exclusive-11-bridge-camera-guide/"><u>Best of Both Worlds  Exclusive 11 Bridge Camera Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-starter-cameras-for-child-filmmakers-in-splashy-settings-for-2024/"><u>Best Starter Cameras For Child Filmmakers in Splashy Settings for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-your-competitive-edge-with-custom-vocal-alteration-techniques-in-free-fire-gaming-no-charge-for-2024/"><u>Boost Your Competitive Edge with Custom Vocal Alteration Techniques in Free Fire Gaming (No Charge!) For 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-visuals-implementing-filters-on-devices/"><u>Boosting Visuals  Implementing Filters on Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-your-voices-impact-free-user-friendly-changes-available/"><u>Boosting Your Voice's Impact – Free, User-Friendly Changes Available</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/breaking-down-complex-gif-concepts-for-beginners/"><u>Breaking Down Complex GIF Concepts for Beginners</u></a></li>
+</ul></div>

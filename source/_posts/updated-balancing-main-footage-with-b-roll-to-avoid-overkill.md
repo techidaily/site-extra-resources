@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Balancing Main Footage with B-Roll to Avoid Overkill\""
-date: 2024-05-24T05:51:10.297Z
-updated: 2024-05-25T05:51:10.297Z
+date: 2024-07-25T05:55:59.940Z
+updated: 2024-07-26T05:55:59.940Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,9 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -44,22 +47,39 @@ On the other hand, cutaways can show how different people react to what is being
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Atmospheric b roll footage
 
 When you are sharing a narrative that has been told in the past or that has historical significance, incorporating archival material into your video gives your audience the opportunity to see the story as it occurred at the time. This is especially useful when you are discussing a narrative that has been experienced in the past or that has futuristic relevance.
@@ -110,3 +130,27 @@ We sincerely hope that this post will be of use to you in making your films more
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-audio-docking-systems-for-immersive-experience/"><u>[New] Audio Docking Systems for Immersive Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capture-creativity-with-smartphones-best-apps/"><u>[New] Capture Creativity with Smartphones' Best Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-advanced-techniques-for-precise-online-image-cropping/"><u>[Updated] Advanced Techniques for Precise Online Image Cropping</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-android-gallery-upload-on-iphone-device/"><u>[Updated] Android Gallery Upload on iPhone Device</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-av1-decoded-a-novices-introduction/"><u>2024 Approved  AV1 Decoded  A Novice's Introduction</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-complete-breakdown-the-dji-inspire-1-uav/"><u>2024 Approved  Complete Breakdown  The DJI Inspire 1 UAV</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/artistry-in-motion-compelling-selection-of-3d-animation-software-for-2024/"><u>Artistry in Motion  Compelling Selection of 3D Animation Software for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/assessing-vlcs-competitors-and-contenders/"><u>Assessing VLC's Competitors and Contenders</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/asus-mg28uq-monitor-review-bridging-the-high-res-divide-for-2024/"><u>ASUS MG28UQ Monitor Review  Bridging the High-Res Divide for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/clearing-clutter-background-removal/"><u>Clearing Clutter  Background Removal</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/driving-down-the-charts-a-compreranble-seo-approach-for-podcasters/"><u>Driving Down the Charts  A Compreranble Seo Approach for Podcasters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-complete-analysis-of-theta-ss-advanced-tech/"><u>In 2024, Complete Analysis of Theta S's Advanced Tech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-captivating-intros-for-podcasts/"><u>In 2024, Crafting Captivating Intros for Podcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/magnify-memories-unaltered-resolution/"><u>Magnify Memories  Unaltered Resolution</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastery-in-making-advanced-tiktok-editing-techniques/"><u>Mastery in Making  Advanced TikTok Editing Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-quest-for-clean-photo-archives/"><u>Navigating the Quest for Clean Photo Archives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/overcoming-firs-display-issues-in-face-to-face-conferencing/"><u>Overcoming Fir's Display Issues in Face-to-Face Conferencing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/samsung-photo-editor-review-pros-con-features-and-guide/"><u>Samsung Photo Editor Review - Pros, Con, Features, and Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/selecting-the-perfect-screen-ultrawide-or-uhd-4k/"><u>Selecting the Perfect Screen  UltraWide or UHD 4K?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/youtube-ringtone-archives-essential-download-sites-revealed/"><u>YouTube Ringtone Archives  Essential Download Sites Revealed</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"Duration Calculation  A 20 Megabit Video\""
-date: 2024-05-24T04:25:21.544Z
-updated: 2024-05-25T04:25:21.544Z
+date: 2024-07-25T03:15:29.120Z
+updated: 2024-07-26T03:15:29.120Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Duration Calculation: A 20 Megabit Video\""
 excerpt: "\"This Article Describes Duration Calculation: A 20 Megabit Video\""
 keywords: "Video Duration Insight,Megabit Video Timing,Shortcut to Video Length,Mbit Video Time Estimate,Calculate Video Playtime,Quick Video Length Compute,Measuring 20Mb Video Duration"
-thumbnail: https://www.lifewire.com/thmb/h1uQ70G3WrivjMChLK0le7avCS0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ImagefromiOS5-ca6e3fd0fecb4cf8b7022b98e9e1ffaf.jpg
+thumbnail: https://thmb.techidaily.com/e874e7774ed1bae47e14908261fcbf31de304eed1c8fec16cc5f931b201e9fca.jpg
 ---
 
 ## Duration Calculation: A 20 Megabit Video
@@ -96,6 +96,9 @@ Take note that Lowering the bitrate can help you compress your media files. The 
 
 * Magisto ( Supports IOS, Android, Online )
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-4.jpg)
 
 Magisto, which is owned by Vimeo, allows you to create amazing videos in three simple steps: You'll start by selecting your video editing style (the type of story you want to tell), then the photos and video clips you want to include, and finally, music from Magisto's built-in library.
@@ -144,6 +147,9 @@ How many video minutes are there per gigabyte? One GB of digital storage may hol
 
 How many minutes of video is 100 megabytes of data used? A YouTube video that lasts 20 minutes uses about 100MB.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
 
 Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
@@ -176,12 +182,18 @@ This user-friendly app uses artificial intelligence (AI) to organize your footag
 
 * ActivePresenter ( Supports Windows, Mac )
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-5.jpg)
 
 ActivePresenter is a watermark-free screen recorder and video editor. Screencast movies, manuals, presentations, documentation, and interactive training demonstrations are all possible with it. The software's full-featured editor allows you to edit audio and video, change the look and feel of content, and choose branched situations simply and effectively. Because ActivePresenter supports HTML5 and can interact with Learning Management Systems, the content developed with it may be sent to any device and platform.
 
 * Openshot ( Supports Windows, Mac )
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-6.jpg)
 
 OpenShot is a free and versatile video editing and creation program. You may use the software to create professional-looking movies out of your photos, videos, and music files. Subtitles, special effects, and transitions can all be readily added. The videos that are made can be exported to DVD, Xbox 360, Vimeo, YouTube, and a variety of other formats.
@@ -216,6 +228,9 @@ How many video minutes are there per gigabyte? One GB of digital storage may hol
 
 How many minutes of video is 100 megabytes of data used? A YouTube video that lasts 20 minutes uses about 100MB.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
 
 Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
@@ -230,6 +245,9 @@ Then, on the Video or Audio timeline, drag and drop your video or audio file. Se
 
 * **Change the video or audio file's bitrate.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
 
 After that, select SETTINGS. You can modify audio settings like encoder, sample rate, channel, and bitrate, as well as video parameters like encoder, frame rate, resolution, and bitrate, in the new window that appears. Simply select the needed value from the bitrate list to change the bitrate.
@@ -254,6 +272,10 @@ ActivePresenter is a watermark-free screen recorder and video editor. Screencast
 
 * Openshot ( Supports Windows, Mac )
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-6.jpg)
 
 OpenShot is a free and versatile video editing and creation program. You may use the software to create professional-looking movies out of your photos, videos, and music files. Subtitles, special effects, and transitions can all be readily added. The videos that are made can be exported to DVD, Xbox 360, Vimeo, YouTube, and a variety of other formats.
@@ -288,6 +310,9 @@ How many video minutes are there per gigabyte? One GB of digital storage may hol
 
 How many minutes of video is 100 megabytes of data used? A YouTube video that lasts 20 minutes uses about 100MB.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
 
 Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
@@ -296,12 +321,18 @@ Run Video Editor after installing it. Then, on your computer, click the "Import"
 
 * **Choose a video to watch.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-2.jpg)
 
 Then, on the Video or Audio timeline, drag and drop your video or audio file. Select your preferred video or audio format by clicking EXPORT. Click the Device tab and select the right device from the list of presets if you want to play the completed file on a mobile device like an iPhone, iPad, iPad, or Zune.
 
 * **Change the video or audio file's bitrate.**
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
 
 After that, select SETTINGS. You can modify audio settings like encoder, sample rate, channel, and bitrate, as well as video parameters like encoder, frame rate, resolution, and bitrate, in the new window that appears. Simply select the needed value from the bitrate list to change the bitrate.
@@ -320,6 +351,9 @@ This user-friendly app uses artificial intelligence (AI) to organize your footag
 
 * ActivePresenter ( Supports Windows, Mac )
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-5.jpg)
 
 ActivePresenter is a watermark-free screen recorder and video editor. Screencast movies, manuals, presentations, documentation, and interactive training demonstrations are all possible with it. The software's full-featured editor allows you to edit audio and video, change the look and feel of content, and choose branched situations simply and effectively. Because ActivePresenter supports HTML5 and can interact with Learning Management Systems, the content developed with it may be sent to any device and platform.
@@ -384,3 +418,38 @@ How many minutes of video is 100 megabytes of data used? A YouTube video that la
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-10-best-free-image-hosting-sites-never-lost-your-photos/"><u>[New] 10 Best Free Image Hosting Sites [Never Lost Your Photos]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-amusement-ringers-curated-list-of-comical-downloads/"><u>[New] Amusement Ringers  Curated List of Comical Downloads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comparing-syma-x8c-to-previous-models/"><u>[New] Comparing Syma X8C to Previous Models</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comprehensive-lookup-experience-the-world-in-virtual-reality/"><u>[New] Comprehensive Lookup  Experience the World in Virtual Reality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-10-superior-text-conversion-tools-for-mac-enthusiasts/"><u>[Updated] 10 Superior Text Conversion Tools for Mac Enthusiasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-achieve-clean-canvases-the-picart-backdrop-removal-art/"><u>[Updated] Achieve Clean Canvases  The PicArt Backdrop Removal Art</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-memorable-titles-a-comprehensible-ae-approach/"><u>[Updated] Crafting Memorable Titles  A Comprehensible AE Approach</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-av1s-edge-in-efficiency-over-vp9/"><u>2024 Approved  AV1's Edge in Efficiency Over VP9</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-boost-your-visuals-video-enhance-pro-22-guide/"><u>2024 Approved  Boost Your Visuals - Video Enhance Pro 2.2 Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-a-perfect-photomontage-like-a-pro/"><u>2024 Approved  Crafting a Perfect PhotoMontage Like a Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-depth-3d-text-designs-in-illustrator/"><u>2024 Approved  Crafting Depth  3D Text Designs in Illustrator</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/all-inclusive-guide-what-is-googles-podcast-service/"><u>All-Inclusive Guide  What Is Google's Podcast Service?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/artisans-nexus-reports-in-depth-studio-scrutiny-2023-edition-for-2024/"><u>Artisan's Nexus Reports  In-Depth Studio Scrutiny, 2023 Edition for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/combined-imagery-and-action-mastering-iphone-recording/"><u>Combined Imagery & Action  Mastering iPhone Recording</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-sierras-icloud-drives-the-full-experience/"><u>Comprehensive Sierra's iCloud Drives – The Full Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/different-options-for-googles-ar-enhancements/"><u>Different Options for Google's Ar Enhancements</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-the-best-practices-for-5-windows-11-audio-capture-methods/"><u>Discover the Best Practices for 5 Windows 11 Audio Capture Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-free-web-converters-top-10-jpeg-to-gif-changers/"><u>Essential Free Web Converters  Top 10 JPEG-to-GIF Changers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/experience-ultimate-quality-leading-4k-converters/"><u>Experience Ultimate Quality  Leading 4K Converters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/extensive-review-gopro-hero4-slr4-black-edition/"><u>Extensive Review  GoPro Hero4 SLR4 Black Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-sky-to-screen-advanced-methods-in-drone-video-editing/"><u>From Sky to Screen  Advanced Methods in Drone Video Editing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/giggle-geniuses-selecting-superior-memery-apps/"><u>Giggle Geniuses  Selecting Superior Memery Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-pilots-best-friend-critical-uav-addons-and-replacements/"><u>In 2024, A Pilot's Best Friend  Critical UAV Addons and Replacements</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-pexels-a-photographers-toolkit/"><u>Mastering Pexels  A Photographer's Toolkit</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/must-see-vr-platforms-and-places/"><u>Must-See VR Platforms and Places</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ready-for-screen-talent-access-agreement/"><u>Ready for Screen  Talent Access Agreement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/secrets-of-seamless-video-editing-using-windows-11-tools/"><u>Secrets of Seamless Video Editing Using Windows 11 Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/strategies-to-reinforce-stability-in-windows-10-photo-viewer/"><u>Strategies to Reinforce Stability in Windows 10 Photo Viewer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-10-most-admirable-photo-frame-apps/"><u>The 10 Most Admirable Photo Frame Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-evolved-examination-of-sony-bdp-s3700/"><u>The Evolved Examination of Sony BDP-S3700</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-your-creativity-with-photoshops-radial-blur-and-shadow-tools/"><u>Unlock Your Creativity with Photoshop's Radial Blur & Shadow Tools</u></a></li>
+</ul></div>

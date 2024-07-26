@@ -1,7 +1,7 @@
 ---
 title: "The Transformative Role of LUTs in Visual Artistry"
-date: 2024-05-24T04:14:39.154Z
-updated: 2024-05-25T04:14:39.154Z
+date: 2024-07-25T02:54:41.380Z
+updated: 2024-07-26T02:54:41.380Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Transformative Role of LUTs in Visual Artistry"
 excerpt: "This Article Describes The Transformative Role of LUTs in Visual Artistry"
 keywords: "VizArt LUTs,LUT Inspiration,LUT Impact,LUT Creative Use,LUT Artistic Shift,Visual Arts LUTs,LUT Transformation"
-thumbnail: https://www.lifewire.com/thmb/pbRceAcoghvRMMccR6CoxE6HcdQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-535152209-5c6792b6c9e77c00013b3a85.jpg
+thumbnail: https://thmb.techidaily.com/545f7379c0befa5a44cab74ccb395e1f4653a53c66c0461613d4a49d7a7f9a57.jpg
 ---
 
 ## The Transformative Role of LUTs in Visual Artistry
@@ -50,12 +50,18 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## How to use LUTs using Photoshop CC?
 
 LUTs come pre-installed with programs, but you may also purchase them online and add them to your software. You may even buy a look from your favorite film or television show. In Photoshop, LUTs are simple to apply. You can begin in Photoshop with the original photo, which is an image that was captured locally, unprocessed, and straight out of the camera.
 
 1. Select the Adjustment Layer icon from the drop-down menu.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
 Choose Adjustment Layer
@@ -64,6 +70,9 @@ Choose Adjustment Layer
 2. The Properties inspector will appear. Window>Properties.
 3. Select Load 3D LUT. A list of LUTs that come with Photoshop will appear.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
 
 load 3d lut
@@ -74,6 +83,9 @@ load 3d lut
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
@@ -81,6 +93,9 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Here's the second one
 
 1. Open the LUT folder, which changes the version to your version.
@@ -105,6 +120,9 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 Closing Thoughts:
@@ -137,3 +155,27 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-carving-out-your-place-in-the-design-world/"><u>[New] Carving Out Your Place in the Design World</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-gpus-for-ultra-hd-video-production/"><u>[Updated] Best GPUs for Ultra HD Video Production</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-chuckle-chronicles-best-free-top-rated-comic-designs/"><u>[Updated] Chuckle Chronicles  Best Free, Top-Rated Comic Designs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-contrast-in-colors-crafting-cinematic-moods/"><u>[Updated] Contrast in Colors  Crafting Cinematic Moods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-comprehensive-guide-to-bringing-vividness-to-your-videos-sdr-hdr-conversion/"><u>2024 Approved  A Comprehensive Guide to Bringing Vividness to Your Videos  SDR-HDR Conversion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-complete-strategy-for-superior-animoji-use-on-iphone-x/"><u>A Complete Strategy for Superior Animoji Use on iPhone X</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/apple-m1-demystified-the-tech-leap-forward/"><u>Apple M1 Demystified  The Tech Leap Forward</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-your-macs-potential-with-sierra-update-steps-for-2024/"><u>Boosting Your Mac's Potential with Sierra Update Steps for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/budgeting-basics-starting-a-successful-podcast/"><u>Budgeting Basics  Starting a Successful Podcast</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-adventures-in-high-definition-with-intova-x/"><u>Capturing Adventures in High Definition With Intova X</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/curated-list-top-5-engaging-book-trailers/"><u>Curated List  Top 5 Engaging Book Trailers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-learning-through-educational-videos/"><u>Enhancing Learning Through Educational Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-thorough-introduction-to-gdocs-speech-to-text-capabilities/"><u>In 2024, A Thorough Introduction to GDoc's Speech-to-Text Capabilities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premium-templates-for-panzoid-introduction/"><u>Premium Templates for Panzoid Introduction</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pro-chromebook-zoom-usage-techniques/"><u>Pro Chromebook Zoom Usage Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/start-crafting-movies-xp-edition-install-guide/"><u>Start Crafting Movies  Xp Edition Install Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-clean-image-borders-on-canva/"><u>The Ultimate Guide to Clean Image Borders on Canva</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-nba-experience-top-15-ways-to-watch-games-online/"><u>The Ultimate NBA Experience - Top 15 Ways to Watch Games Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-practices-to-personalize-snapchat-video-playback/"><u>Top Practices to Personalize Snapchat Video Playback</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transform-your-ideas-into-videos-with-the-power-of-movie-maker-windows-11-edition/"><u>Transform Your Ideas Into Videos with the Power of Movie Maker, Windows 11 Edition</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Assessment of DJI Phantom 3 Aerial Tech"
-date: 2024-05-24T05:02:09.799Z
-updated: 2024-05-25T05:02:09.799Z
+date: 2024-07-25T04:26:09.439Z
+updated: 2024-07-26T04:26:09.439Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,17 @@ categories:
 description: "This Article Describes [Updated] Assessment of DJI Phantom 3 Aerial Tech"
 excerpt: "This Article Describes [Updated] Assessment of DJI Phantom 3 Aerial Tech"
 keywords: "Drone Tech Assessment,Aerial Drones Performance,DJI Phantom Innovation,Flight Tech Evaluation,Phantom 3 Testing,UAS Technology Review,Aerial Systems Analysis"
-thumbnail: https://www.lifewire.com/thmb/6z0a8cFMVaZA_GXCSlvB66vbixE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Recycling-Center-GettyImages-184843198-5946db965f9b58d58a547958.jpg
+thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c1487439cf5694d3a9ccaf02.jpg
 ---
 
 ## Assessment of DJI Phantom 3 Aerial Tech
 
 # Review for DJI Phantom 3 Standard
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -28,8 +32,24 @@ thumbnail: https://www.lifewire.com/thmb/6z0a8cFMVaZA_GXCSlvB66vbixE=/400x300/fi
 
  DJI is well known for impressive drone designs and Phantom 3 Standard is a wonderful addition to its quadcopter series. This device provides total [flight time](https://tools.techidaily.com/wondershare/filmora/download/) of 25 minutes and can move up to 1.2 miles with one charge. The added 4k resolution ability with advanced stabilization feature improves its recording focus. Beginners will love to use its return to home feature along with GPS, sensor stabilization and flight path control abilities.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Complete review for DJ Phantom 3 Standard
 
 #### Pros and Cons
@@ -78,6 +98,9 @@ thumbnail: https://www.lifewire.com/thmb/6z0a8cFMVaZA_GXCSlvB66vbixE=/400x300/fi
 
  The Phantom 3 standard quadcopter consists of two control parts: one is the standard hardware based remote control part and another is the software application that works on android as well as iOS devices. With this remote control unit you can avail incredible flying experience but the app can have autonomous control over it. The remote control unit generally possesses a simple white box type antenna, few switches, two control sticks and dial on the sides. It does not possess any display but a set of few LEDs that provide continuous battery level indication.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard-controller.jpg)
 
  By using specially designed control sticks you can easily move the motors in desired direction. On the other side, the advanced application provides easy controls to flight modes, GPS, signal strength and battery level monitoring. The bottom portion of application indicates speed, altitude, heading and other location based details. Map will help users to gain full control over live view details and it will update the hybrid or satellite based location information on the go.
@@ -90,6 +113,9 @@ thumbnail: https://www.lifewire.com/thmb/6z0a8cFMVaZA_GXCSlvB66vbixE=/400x300/fi
 
  Phantom 3 Standard is able to capture videos with three different modes: HD, HHD and 2.7 K resolution level; whereas, you can enjoy stills with 12MP capabilities. All the resulting videos of Phantom device use to be of excellent quality with crystal clear details and all movements are reflected with very smooth and clean fashion. The great news is here that phantom 3 offers intuitive control video settings and one can make easy adjustments to avail soft, real and fuzzy videos.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -104,8 +130,14 @@ Follow @Max Wales
 
  DJI is well known for impressive drone designs and Phantom 3 Standard is a wonderful addition to its quadcopter series. This device provides total [flight time](https://tools.techidaily.com/wondershare/filmora/download/) of 25 minutes and can move up to 1.2 miles with one charge. The added 4k resolution ability with advanced stabilization feature improves its recording focus. Beginners will love to use its return to home feature along with GPS, sensor stabilization and flight path control abilities.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Complete review for DJ Phantom 3 Standard
 
 #### Pros and Cons
@@ -154,6 +186,9 @@ Follow @Max Wales
 
  The Phantom 3 standard quadcopter consists of two control parts: one is the standard hardware based remote control part and another is the software application that works on android as well as iOS devices. With this remote control unit you can avail incredible flying experience but the app can have autonomous control over it. The remote control unit generally possesses a simple white box type antenna, few switches, two control sticks and dial on the sides. It does not possess any display but a set of few LEDs that provide continuous battery level indication.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard-controller.jpg)
 
  By using specially designed control sticks you can easily move the motors in desired direction. On the other side, the advanced application provides easy controls to flight modes, GPS, signal strength and battery level monitoring. The bottom portion of application indicates speed, altitude, heading and other location based details. Map will help users to gain full control over live view details and it will update the hybrid or satellite based location information on the go.
@@ -162,6 +197,23 @@ Follow @Max Wales
 
 #### Camera (Video and Camera Image)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard-camera.jpg)
 
  Phantom 3 Standard is able to capture videos with three different modes: HD, HHD and 2.7 K resolution level; whereas, you can enjoy stills with 12MP capabilities. All the resulting videos of Phantom device use to be of excellent quality with crystal clear details and all movements are reflected with very smooth and clean fashion. The great news is here that phantom 3 offers intuitive control video settings and one can make easy adjustments to avail soft, real and fuzzy videos.
@@ -182,6 +234,9 @@ Follow @Max Wales
 
 ![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Complete review for DJ Phantom 3 Standard
 
 #### Pros and Cons
@@ -350,3 +405,32 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-8-best-free-websites-for-3d-text-psd-files/"><u>2024 Approved  8 Best Free Websites for 3D Text PSD Files</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-8-cutting-edge-skins-perfect-for-your-laptop/"><u>2024 Approved  8 Cutting-Edge Skins Perfect for Your Laptop</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-strategies-for-enhancing-footage-with-gopro-studio/"><u>2024 Approved  Advanced Strategies for Enhancing Footage with GoPro Studio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-budget-friendly-high-quality-ae-templates/"><u>2024 Approved  Best Budget-Friendly, High-Quality AE Templates</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-of-the-best-8-cameras-for-top-streaming-experience/"><u>2024 Approved  Best of the Best  8 Cameras for Top Streaming Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-online-houses-purchasing-unique-tailored-boxed-gifts/"><u>2024 Approved  Best Online Houses  Purchasing Unique, Tailored Boxed Gifts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-webp-converters-convert-webp-to-jpg/"><u>2024 Approved  Best WebP Converters  Convert WebP to JPG</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-building-captivating-visual-puzzles-a-mosaic-journey/"><u>2024 Approved  Building Captivating Visual Puzzles  A Mosaic Journey</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capture-the-airwaves-a-beginners-internet-radio-guide/"><u>2024 Approved  Capture the Airwaves  A Beginner's Internet Radio Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-seamless-image-transfers-across-operating-systems/"><u>2024 Approved  Crafting Seamless Image Transfers Across Operating Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-creating-captivating-inshot-edits-with-grace/"><u>2024 Approved  Creating Captivating Inshot Edits with Grace</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/5-best-mac-software-for-cutting-edge-media-production/"><u>5 Best Mac Software for Cutting-Edge Media Production</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-step-by-step-guide-to-gopro-time-lapse-mastery-for-2024/"><u>A Step-by-Step Guide to GoPro Time-Lapse Mastery for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/accelerate-artistic-edits-with-windows-11-for-2024/"><u>Accelerate Artistic Edits with Windows 11 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/achieving-flawless-aerial-shots-the-best-gimbals-for-drones/"><u>Achieving Flawless Aerial Shots  The Best Gimbals for Drones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/adding-tunes-to-your-ios-clips-three-no-cost-ways-explored/"><u>Adding Tunes to Your iOS Clips – Three No-Cost Ways Explored</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-guide-to-using-luts-for-professional-image-editors/"><u>Advanced Guide to Using LUTs for Professional Image Editors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/air-lift-extraordinaire-top-industrial-drones/"><u>Air-Lift Extraordinaire  Top Industrial Drones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audio-aficionados-quandary-pick-between-podcast-and-youtube/"><u>Audio Aficionados' Quandary  Pick Between Podcast and YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/average-byte-gauge-for-a-24-hour-film/"><u>Average Byte Gauge for a 24 Hour Film</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bedtime-videos-breakdown-stories-and-reviews-for-2024/"><u>Bedtime Videos Breakdown  Stories and Reviews for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beginners-blueprint-for-green-screen-in-kinemaster/"><u>Beginner's Blueprint for Green Screen in KineMaster</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-of-the-best-hexacopter-drone-reviews-for-2024/"><u>Best of the Best  Hexacopter Drone Reviews for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/blend-audio-and-visuals-editing-music-in-canva-videos/"><u>Blend Audio & Visuals  Editing Music in Canva Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-zoom-screen-sharpness-essential-tips/"><u>Boosting Zoom Screen Sharpness  Essential Tips</u></a></li>
+</ul></div>

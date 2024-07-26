@@ -1,7 +1,7 @@
 ---
 title: "The Art of Monitoring YouTube Discussions"
-date: 2024-05-24T04:27:27.149Z
-updated: 2024-05-25T04:27:27.149Z
+date: 2024-07-25T03:20:47.057Z
+updated: 2024-07-26T03:20:47.057Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,9 @@ Not only does it show your fans followers that you care about what they have to 
 
 For YouTubers who are serious about growing their channel and making their brand profitable, you know by now that there are certain tricks and strategies that you have to apply and put in place to make your YouTube channel what you want it to be.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Advantage of YouTube comments
 
 If you're wondering whether you really need to monitor your YouTube comments, here are three compelling reasons why you should:
@@ -44,6 +47,9 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Comment on a YouTube Video
 
 Moderating comments that appear on your video is important (and we'll get to the details of that in a minute) but as a brand, you'll want to pipe up with your own commentary, too.
@@ -54,6 +60,9 @@ Each comment you leave is another reference and exposure to your brand (and a ch
 
 Step1 Below the video itself, find the comment section.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
@@ -82,12 +91,18 @@ Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
 Step6 Make the necessary edits and choose “Save”.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Highlighted Comments and Replies on YouTube
 
 Among the comments you see on a video, you might notice some that YouTube has labeled “Highlighted Comment.” that label is specific to you, and only appears in your comments list. YouTube that you have a particular interest in a section of comments.
@@ -112,6 +127,9 @@ Retrieve a comment so that you can share it with others outside of YouTube.
 
 Comments history also contains the link to the video where you've left the comment along with the date and time when the comment was made. Clicking on this link will open the video page with your comment highlighted at the top of the comment section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
 ## Conclusion
@@ -150,3 +168,46 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-audio-aesthetics-in-whatsapp-updates/"><u>[New] Audio Aesthetics in WhatsApp Updates</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-beginners-blueprint-for-green-screen-in-kinemaster/"><u>[New] Beginner's Blueprint for Green Screen in KineMaster</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-engaging-full-degree-footage-with-adobe-premieres-state-of-the-art-tools/"><u>[New] Crafting Engaging Full Degree Footage with Adobe Premiere's State-of-the-Art Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-adjustment-tips-for-subtle-audio-reduction-in-logic-pro/"><u>[Updated] Adjustment Tips for Subtle Audio Reduction in Logic Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-aesthetic-ambience-selecting-premium-backgrounds-from-the-comfort-of-home/"><u>[Updated] Aesthetic Ambience  Selecting Premium Backgrounds From the Comfort of Home</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-creativity-iosandroids-best-caption-apps/"><u>[Updated] Capture Creativity  IOS/Android’s Best Caption Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-cg318-4k-unveiled-eizos-high-res-monitor-review/"><u>[Updated] CG318-4K Unveiled  EIZO's High-Res Monitor Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-changing-photo-colors-with-ease/"><u>[Updated] Changing Photo Colors with Ease</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-artful-iphone-snaps-master-these-top-10-design-tactics/"><u>[Updated] Crafting Artful iPhone Snaps - Master These Top 10 Design Tactics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-8-innovative-tablets-changing-the-face-of-photo-editing-landscape/"><u>2024 Approved  8 Innovative Tablets Changing the Face of Photo Editing Landscape</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-closer-look-at-the-vegaspro-19-makeover/"><u>2024 Approved  A Closer Look at the VegasPro '19 Makeover</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-achieving-subtle-volume-diminishment-in-logic-pro/"><u>2024 Approved  Achieving Subtle Volume Diminishment in Logic Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-androids-fastest-video-speed-adjusters/"><u>2024 Approved  Android's Fastest Video Speed Adjusters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-asus-proart-hdr-master-the-4k-quest-continues/"><u>2024 Approved  ASUS ProArt HDR Master  The 4K Quest Continues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ableton-live-mastering-volume-dampening/"><u>Ableton Live  Mastering Volume Dampening</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-system-stitching-gopro-images-into-a-circular-videography-canvas/"><u>Advanced System  Stitching GoPro Images Into a Circular Videography Canvas</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beats-and-bits-video-sound-mixing-on-win11-for-2024/"><u>Beats & Bits  Video Sound Mixing on Win11 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chortle-circle-spooky-androids-with-a-twist/"><u>Chortle Circle  Spooky Androids with a Twist</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/conduct-a-symphony-on-the-ppt-stage-for-2024/"><u>Conduct a Symphony on the PPT Stage for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/constructing-the-ideal-setup-for-advanced-4k-video-production-for-2024/"><u>Constructing the Ideal Setup for Advanced 4K Video Production for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/easy-steps-to-free-online-and-offline-animation/"><u>Easy Steps to Free Online & Offline Animation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-guide-to-slow-motion-video-capturing-with-gopro-hero-10/"><u>Expert Guide to Slow Motion Video Capturing with GoPro Hero 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/foolproof-method-for-adding-a-link-to-your-tiktok-bio/"><u>Foolproof Method for Adding a Link to Your TikTok Bio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-blazing-lanes-at-sochi-2022-games/"><u>In 2024, Blazing Lanes at Sochi 2022 Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-budget-cameras-with-bold-action-features-and-quality/"><u>In 2024, Budget Cameras with Bold Action Features and Quality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-hdr-photography-tips-and-tricks/"><u>IPhone HDR Photography  Tips & Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/master-multi-screen-video-streaming-with-microsoft-edges-pip/"><u>Master Multi-Screen Video Streaming with Microsoft Edge's PIP</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/nexus-nightlife-virtual-theater-realm/"><u>Nexus Nightlife  Virtual Theater Realm</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pinnacle-ai-image-manipulation-suite/"><u>Pinnacle AI Image Manipulation Suite</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pro-level-video-edits-made-simple-in-windows-11/"><u>Pro-Level Video Edits Made Simple in Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prove-your-worth-in-the-world-of-photography-essential-pixlr-skills/"><u>Prove Your Worth in the World of Photography  Essential Pixlr Skills</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/shutter-wisdom-tips-for-astounding-image-finishes/"><u>Shutter Wisdom  Tips for Astounding Image Finishes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-up-your-slide-shows-with-these-top-10-free-resources/"><u>Step Up Your Slide Shows with These Top 10 Free Resources</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlined-aesthetics-incorporating-visual-effects-in-videos-pcmobile/"><u>Streamlined Aesthetics  Incorporating Visual Effects in Videos (PC/Mobile)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tactics-for-integrating-multimedia-into-lessons/"><u>Tactics for Integrating Multimedia Into Lessons</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleashing-the-power-of-free-copyright-free-image-repositories/"><u>Unleashing the Power of Free, Copyright-Free Image Repositories</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-nearby-nuggets-your-essential-locale-lens-for-a-smoother-journey/"><u>Unlocking Nearby Nuggets  Your Essential Locale Lens for a Smoother Journey</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-top-6-nft-environments-for-creatives/"><u>Unveiling the Top 6 NFT Environments for Creatives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/virtualitys-voyage-an-overview/"><u>Virtuality’s Voyage  An Overview</u></a></li>
+</ul></div>

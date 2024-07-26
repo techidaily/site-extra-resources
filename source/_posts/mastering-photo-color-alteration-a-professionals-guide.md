@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Photo Color Alteration  A Professional's Guide\""
-date: 2024-05-24T03:27:38.112Z
-updated: 2024-05-25T03:27:38.112Z
+date: 2024-07-25T01:24:10.033Z
+updated: 2024-07-26T01:24:10.033Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Mastering Photo Color Alteration: A Professional's Guide\""
 excerpt: "\"This Article Describes Mastering Photo Color Alteration: A Professional's Guide\""
 keywords: "Color Correction Basics,Image Hue Adjustment,Color Enhancement Tips,Expert Photo Editing,Advanced Alteration Techniques,Professional Photo Mods,Aesthetic Color Shifts"
-thumbnail: https://www.lifewire.com/thmb/4iKe1VoJcOmQkhqBBEAP0axpvWA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/BrieLarsonRemembering-69becbb726af45609a2397c425581c9b.png
+thumbnail: https://thmb.techidaily.com/848032c0813eed1e619997cdd0bea2d2fe7603582b1ae72dd2c30508b513eea6.png
 ---
 
 ## Mastering Photo Color Alteration: A Professional's Guide
@@ -22,6 +22,9 @@ Many professional photographers and editors change the photo colors to use the s
 
 So instead of hiring various models, you can still display your collection by changing the color of outfits tactfully. In this article, we will discuss the tips to change photo color effortlessly through a photo color editor and online tool.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Tips To Change Photo Color Like A Pro
 
 In this section, we will give you some beneficial tips and guidelines to change the photo color through [Adobe Photoshop](https://www.adobe.com/products/photoshop.html). Moreover, we will also mention a photo color editor online to change the colors instantly.
@@ -52,6 +55,9 @@ Now do the tuning by navigating to the layer mask and also select the layers. Af
 
 If you want to add color to your black or white shirt, you can do it by “Hue and Saturation Adjustment Layer.” On this layer, tap on “Colorize” and choose the color you want to add. Another technique is to create a “Fill Adjustment Layer” and then change the blending mode into “Multiple.” Now, click on the “Color Picker,” and you can pick and choose your preferred color. If you want to add a dark color rather than a subtle color, change the mode to “Screen.”
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ pick the color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-4.jpg)
 
 ### 4\. Tip 4: Use Direct Selection Color Picker
@@ -62,20 +68,35 @@ At the bottom of the options, you can see two points that will tell you about yo
 
 ![ change specific color to another color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. Tip 5: Choose Object Color Range
 
 Do you want to change the color of a specific part of the image? You can do this on Adobe Photoshop photo color editor by going to the "Quick Selection Tool" and then applying the colors, but it may leave edges and curves of the object. So, the recommended way is to navigate to the “Select” tab and then click on “Color Range” from its drop-down menu.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![access color range option](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-6.jpg)
 
 After clicking on the color range option, a pop-up window will appear from which tap on “Selection.” You can view your image on the preview window and can select the whole back using the “Selection” tool.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select complete object](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-7.jpg)
 
 Afterward, create a group in which add layers, mask, and adjustment layers to change the saturation, color, and brightness of the selected area accurately. To only change the color, drag the sliders of hue to do it instantly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![change hue for changing color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Tip 6: Use Blend IF
 
 If you want to change the color of leaves on a tree, you can use the “Blend IF” option of Adobe Photoshop to precisely do the changes. Start with duplicating the existing layer and then hiding the second layer. Double click on the layer to open the menu and then use “Blend IF” sliders. This option works when you drag the sliders to black points, and it automatically hides the dark pixels of your photo.
@@ -86,6 +107,9 @@ Similarly, if you drag the “Blend IF” sliders towards white pints, it can hi
 
 This method only hides color based on their luminance values; however, this loads the entire layer when loading the active pixels. Regardless, this can be changed into transparency. For this, you need to select the layer by right-clicking and selecting the option of “Convert to Smart Object.”
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![convert to smart object](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-10.jpg)
 
 It helps the user create transparency across the layer. After hiding the layer and coming back to another object-specific layer, you can create a certain change in effect through adjustment layers. For instance, you can create a “Hue and Saturation” adjustment layer. With the above settings, Photoshop applies this as a layer mask for you. Use the sliders across the set layer to change the color across the selected areas.
@@ -98,10 +122,16 @@ If you don’t have an offline tool like Adobe Photoshop, you can use an online 
 
 To change the color, navigate to this tool and upload the images. Then, head to the “Replace Color” option from the left section and click on it. On the menu of “Replace Color,” select the box next to “Source Color” to choose the color you want to replace. Use an eyedropper to select any color for your image.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select source color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-12.jpg)
 
 To increase or decrease the intensity of your color, use the “Tolerance” option, and drag it accordingly. If you want to change the hue of the source color, click on the box next to “Target Color.” If you have accidentally applied any color on some part, you can head to erase tab and can remove the alterations from the brush.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![choose target color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-13.jpg)
 
 ## Conclusion
@@ -132,3 +162,31 @@ Changing the color of a photo can save us a lot of work done and effort. To effo
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-assessing-the-right-level-of-luminosity-in-creative-hdr-ventures/"><u>[New] Assessing the Right Level of Luminosity in Creative HDR Ventures</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-avoiding-motion-illusions-tips-for-vr-users/"><u>[New] Avoiding Motion Illusions  Tips for VR Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-budget-videography-choosing-the-best-panoramic-cameras/"><u>[Updated] Budget Videography  Choosing the Best Panoramic Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-appreciative-adjacencies-templates-for-any-spend-plan/"><u>2024 Approved  Appreciative Adjacencies  Templates for Any Spend Plan</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-down-crossfade-audio-dynamics-in-production/"><u>2024 Approved  Breaking Down Crossfade Audio Dynamics in Production</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-building-your-hyperlapse-filmmaking-toolkit/"><u>2024 Approved  Building Your Hyperlapse Filmmaking Toolkit</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aerial-vistas-at-their-best-xiaomi-drone-4k-analysis-for-2024/"><u>Aerial Vistas at Their Best – Xiaomi Drone 4K Analysis for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-free-and-paid-canvas-creations-apps-for-pc-users-for-2024/"><u>Best Free & Paid Canvas Creations Apps for PC Users for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-visual-clarity-comprehensive-strategies-for-zooming-photos-and-videos/"><u>Boosting Visual Clarity  Comprehensive Strategies for Zooming Photos & Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/breaking-down-advanced-photographic-modes-for-enhanced-results/"><u>Breaking Down Advanced Photographic Modes for Enhanced Results</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/converting-video-content-from-twitter-to-an-audiophile-written-mp3-format/"><u>Converting Video Content From Twitter to an Audiophile' Written MP3 Format</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-character-adventures-windows-movie-maker-for-animators-for-2024/"><u>Crafting Character Adventures  Windows Movie Maker for Animators for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-dialogue-and-direction-in-film-scripts/"><u>Crafting Dialogue and Direction in Film Scripts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/decision-time-for-codecs-are-you-with-av1-or-vp9/"><u>Decision Time for Codecs  Are You with Av1 or VP9?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-vr-companies-for-the-next-decade/"><u>Essential VR Companies for the Next Decade</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-best-text-enhancements-in-after-effects/"><u>Exploring Best Text Enhancements in After Effects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/high-quality-hearables-leading-podcasters-on-googloud/"><u>High-Quality Hearables  Leading Podcasters on GooGloud</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mixing-masterclass-for-dji-miniair-2-owners-no-cost-here/"><u>Mixing Masterclass for DJI Mini/Air 2 Owners - No Cost Here</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-fade-inout-processes-in-audacity/"><u>Navigating Fade-In/Out Processes in Audacity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/speed-capture-faceoff-gopro-hero-4-challenges-ghost-s/"><u>Speed Capture Faceoff  GoPro Hero 4 Challenges Ghost-S</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-tips-for-turning-gopro-into-professionals-best-work/"><u>Step-by-Step Tips for Turning GoPro Into Professionals' Best Work</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-future-of-display-technology-with-eizos-high-res-monitor/"><u>The Future of Display Technology with EIZO's High-Res Monitor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-insiders-guide-to-time-lagged-masterpieces-with-your-android-phone/"><u>The Insider's Guide to Time-Lagged Masterpieces with Your Android Phone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-storytelling-through-scenery/"><u>Unveiling Storytelling Through Scenery</u></a></li>
+</ul></div>

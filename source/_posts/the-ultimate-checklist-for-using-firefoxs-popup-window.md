@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Checklist for Using Firefox's Popup Window"
-date: 2024-05-24T03:52:25.190Z
-updated: 2024-05-25T03:52:25.190Z
+date: 2024-07-25T02:03:35.849Z
+updated: 2024-07-26T02:03:35.849Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Ultimate Checklist for Using Firefox's Popup Window"
 excerpt: "This Article Describes The Ultimate Checklist for Using Firefox's Popup Window"
 keywords: "Firefox Popup Guide,Firefox Popups Tips,Firefox Window Shortcut,Firefox Popup Blocker,Firefox Popup Features,Firefox Popup Usage,Efficient Firefox Windows"
-thumbnail: https://www.lifewire.com/thmb/yftj5hGeNzNsBIlx2Nku1eqIeZs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/header-3ea828e2fee7476096c67e4c3863b37b.jpg
+thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b46385efb03b48baabde0ba89ee.jpg
 ---
 
 ## The Ultimate Checklist for Using Firefox's Popup Window
@@ -57,6 +57,9 @@ Here's how to activate picture-in-picture video control in Firefox**:**
 1. Scroll down in the General mode to locate the **Browsing** settings option.
 2. Here, you will see a list of browsing settings; click to select the '**Enable picture in picture video controls'**, and check the box.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![a list of browsing settings]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-3.jpg)
 
 Following the above procedure, you may now see the Firefox Picture-in-Picture symbol in the video streaming player. Whenever you visit a streaming site, a symbol for pip mode appears as an overlay on the video screen.
@@ -71,10 +74,16 @@ You can load only a single video using the above guideline. Suppose you want to 
 4. Repeat the preceding steps on the same page or in a separate tab to open several movies.
 5. Firefox plays the new video above the first. Drag and drop it anywhere to display both.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![the new video above the first]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-5.jpg)
 
 By following these steps, videos appear on the screen at the same time. For all tabs containing open videos, the main Firefox window shows a "play" symbol. Even if you dismiss Firefox, numerous videos will continue to play in other programs or on your desktop.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## Part 3\. How to Disable the Picture-in-Picture Mode
 
 Sometimes, the PiP mode can disturb necessary research or task that needs your full concentration. In this scenario, disabling the Picture-in-Picture mode is a way to get your task done with the optimum attention. If you want to turn off Picture-in-Picture mode and return to the video tab, hover over the video, then click the following icon **“X”**.
@@ -83,18 +92,30 @@ Sometimes, the PiP mode can disturb necessary research or task that needs your f
 
 ## Part 4\. Other tips about Picture-in-Picture Mode in Firefox
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### 4.1 Picture-in-Picture extension in Firefox
 
 Another mode of having your picture-in-picture mode on Firefox is using the available add-on features. You can access several add-on extensions available on Firefox by tapping the **Menu** button. Locate the [add-on menu item](https://addons.mozilla.org/en-US/firefox/) and click it. Once it loads, you can use the search bar at the top right corner to select your preferred picture-in-picture add-on.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2 Keyboard shortcuts about Picture-in-Picture in Firefox
 
 It is also possible to enable and disable the picture-in-picture mode using keyboard shortcuts. To get this done, use the key combination of **'Ctrl + Shift + \]'**. By simultaneously holding these keys, Firefox will launch the relevant video on the web page into a picture-in-picture mode. However, if the feature has been enabled before pressing the key combination, it automatically disables the feature.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![the key combination]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-7.jpg)
 
 ## Part 5\. FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How do I keep the picture-in-picture window always on top?
 
 After opening the tab, drag the application up, then scroll down to the bottom right corner to select the desk pin. Finally, click on the tab opened with the pin cursor, and it will be on top always.
@@ -103,10 +124,17 @@ After opening the tab, drag the application up, then scroll down to the bottom r
 
 On Firefox, this mode is always on by default, but when the picture-in-picture feature is not working; follow the step-by-step guideline explained above to enable it manually. Once you perform these procedures using the keyboard shortcut or settings mode, it will start working.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How do I resize the picture-in-picture window in Firefox?
 
 You can, of course, resize it and move it wherever you want. Hold down the left click and move it with your mouse to do this. Simply place your cursor in a corner to expand or shrink the window.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Picture-in-Picture is a nice feature that helps you increase productivity while multitasking. You can successfully enable and disable this feature by following our step-by-step guide outlined in this article. After carefully reading this article, you should also be able to pin, resize and fix any issue related to picture-in-picture in Firefox.
@@ -141,3 +169,33 @@ Picture-in-Picture is a nice feature that helps you increase productivity while 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-affordable-asmr-capturing-selecting-premium-gear-for-budget-conscious-users/"><u>[New] Affordable ASMR Capturing  Selecting Premium Gear for Budget-Conscious Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-breaking-into-solos-creating-popular-podcasts/"><u>[New] Breaking Into Solos  Creating Popular Podcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-budget-breakdown-funding-the-art-of-song-capture/"><u>[New] Budget Breakdown  Funding The Art of Song Capture</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-amplify-your-minecraft-experience-five-simple-techniques/"><u>[Updated] Amplify Your Minecraft Experience  Five Simple Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-av1-versus-vp9-the-ultimate-codec-showdown/"><u>[Updated] AV1 Versus VP9  The Ultimate Codec Showdown</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-avoiding-fuzzy-edges-in-picart-picture-processing/"><u>[Updated] Avoiding Fuzzy Edges in PicArt Picture Processing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-beginners-tips-shooting-hero5-time-lapse-footage/"><u>[Updated] Beginner's Tips  Shooting Hero5 Time-Lapse Footage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-best-srt-turbocharger-mods-compatible-with-os-x-and-win/"><u>10 Best SRT Turbocharger Mods Compatible with OS X & Win</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-audiences-choice-in-drama-writings/"><u>2024 Approved  Audience's Choice in Drama Writings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-combining-chords-and-pictures-in-the-cloud/"><u>2024 Approved  Combining Chords & Pictures in the Cloud</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-comparative-study-pre-and-post-vegaspro-19/"><u>A Comparative Study  Pre and Post-VegasPro '19</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-guide-to-formulating-successful-product-sponsorships-in-youtubespace-for-2024/"><u>A Guide to Formulating Successful Product Sponsorships in YouTubespace for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-photographic-distortion-tactics/"><u>Advanced Photographic Distortion Tactics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aesthetic-enhancement-font-integration-for-ae-for-2024/"><u>Aesthetic Enhancement  Font Integration for AE for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-approved-tempo-transformation-software-index/"><u>Expert-Approved Tempo Transformation Software Index</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/game-masters-unleashed-an-in-depth-look-at-kinemaster-on-android/"><u>Game Masters Unleashed  An In-Depth Look at KineMaster on Android</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-record-and-incorporate-speech-into-powerpoint-decks/"><u>How to Record & Incorporate Speech Into PowerPoint Decks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-androidiphone-photo-overlay-wonders-top-10-free-tools-ranked/"><u>In 2024, Android/iPhone Photo Overlay Wonders – Top 10 Free Tools Ranked</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-ascend-to-million-view-milestone-with-this-guide/"><u>In 2024, Ascend to Million View Milestone with This Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-digital-layer-combinations-at-home/"><u>Mastering Digital Layer Combinations at Home</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-flight-a-look-at-dji-phantom-3-professional/"><u>Mastering Flight  A Look at DJI Phantom 3 Professional</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premium-lineup-best-8-devices-for-superior-uhd-viewing/"><u>Premium Lineup  Best 8 Devices for Superior UHD Viewing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-dell-p2715qs-stunning-4k-visuals/"><u>The Ultimate Guide to Dell P2715Q's Stunning 4K Visuals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transforming-text-the-illustrator-3d-approach/"><u>Transforming Text  The Illustrator 3D Approach</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transition-videos-to-tweets-effortlessly/"><u>Transition Videos to Tweets Effortlessly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-creativity-with-these-14-exceptional-text-animations/"><u>Unleash Creativity with These 14 Exceptional Text Animations</u></a></li>
+</ul></div>

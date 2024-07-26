@@ -1,7 +1,7 @@
 ---
 title: "\"Hidden Gems in Window 11'S Interface  Top 30 Tips and Tricks Unveiled\""
-date: 2024-05-24T05:29:56.310Z
-updated: 2024-05-25T05:29:56.310Z
+date: 2024-07-25T05:18:04.593Z
+updated: 2024-07-26T05:18:04.593Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Hidden Gems in Window 11'S Interface: Top 30 Tips and Tricks Unveiled\""
 excerpt: "\"This Article Describes Hidden Gems in Window 11'S Interface: Top 30 Tips and Tricks Unveiled\""
 keywords: "\"Windows 11 Hidden Secrets,UI Tips for Windows 11,Top 30 Window 11 Tricks,Window 11 Interface Hacks,Unveiling Windows 11 Tips,Mastering Windows 11 UI,30 Pro Tips: Windows 11 Interface\""
-thumbnail: https://www.lifewire.com/thmb/M8nTiwLLAFZesyB_EbKXIxGR1nU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1148422594-c785d515e0a34d2dba107f88fb475071.jpg
+thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816dfbd913fea0d2186dd349bdd.jpg
 ---
 
 ## Hidden Gems in Window 11'S Interface: Top 30 Tips and Tricks Unveiled
@@ -34,12 +34,18 @@ With the increased number of notifications in Windows 11, you might get annoyed.
 
 ![turn off unnecessary notifications](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Minimize Applications
 
 Minimizing Applications allows you to minimize the extra tabs as a whole rather than doing it individually. You have to hold the tab that you are using by left-clicking and shaking it. It will minimize all extra tabs. The same process can be done to restore the minimized windows.
 
 This feature can be activated through Windows Settings and then by clicking on ‘Multi-Tasking.' Switch on the toggle switch next to ‘Title Bar Window Shake,' and it is ready to use.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![minimize applications by shaking](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-2.jpg)
 
 ### 3\. Shortcut Keys
@@ -60,6 +66,9 @@ The updated technology allows you to have better control over the privacy of you
 
 ![disable unwanted ads](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 6\. Voice Typing Feature
 
 The coolest thing about Windows 11 that most people don’t know is the ‘Voice Typing’ feature. You might have experienced this before in your iPhones or Android devices, but this is new for Windows to have voice typing built-in. Press ‘Windows Key + H’ when you are in a text box and then start speaking. By using the mic button from the pop-out menu, you can start using the feature.
@@ -72,8 +81,14 @@ Using Widgets and Chats helps the user have a quick chat with people that they l
 
 However, some people do not like using this kind of stuff. They don’t even prefer crowding their taskbar. For such cases, you can turn them off from the toggle switches that are available in the ‘Show or Hide the buttons that appear on Taskbar' or 'Taskbar Items. '
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![disable widgets and other items](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 8\. Block Trackers and Pop-up
 
 Another brilliant Windows 11 tip and trick is that it lets you block the pop-ups and also the tracking. For that, open Microsoft Edge and head over to the 3 dots on the top right corner to open 'Settings.' From the left panel in Settings, look for 'Privacy, Search and Services.' By default, it is set to 'Balanced.' You are suggested to select the 'Strict' option so that all the harmful trackers are blocked.
@@ -86,16 +101,28 @@ Every app we install has our location, but with Windows 11, we can change our de
 
 For changing your default location, hit the ‘Set Default’ button on the right side of the screen. This will open the Map. Now, enter the location that you want to have, and lastly, click on the ‘Change’ button in the top left corner.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change windows 11 location](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 10\. Bring Folders on Start
 
 Windows 11 tips and tricks also include bringing back the folders on the start menu. Windows 11 have a built-in setting that shows the folders next to the power button on the Start Menu. You can also personalize things.
 
 For that, press ‘Win + I’ and then select 'Personalization.' Now, choose 'Start,' and after that, select 'Folders.' At this point, select the system folders that you want to see on the Start Menu. You can flip the switch to 'On.'
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![bring folders to windows 11 start](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The Bottom Line
 
 This article is like a cherry on the cake for Windows lovers. The update of Windows 10 to Windows 11 is already the big news for them, but now, after going through the secret and hidden Windows 11 tips and tricks, the fans will be more than happy. The article has shared 10 secret tips that will amaze you.
@@ -112,10 +139,20 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
@@ -144,3 +181,41 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-achieving-professional-hdr-images-with-adobe-ps/"><u>[New] Achieving Professional HDR Images with Adobe PS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-advanced-8-visual-boosts-for-online-broadcasts/"><u>[New] Advanced 8 Visual Boosts for Online Broadcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-audio-callback-logger-for-iphone-2024/"><u>[New] Audio Callback Logger for iPhone 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capture-heights-with-dji-spark-the-small-drone-selfie-powerhouse/"><u>[New] Capture Heights with DJI Spark  The Small Drone Selfie Powerhouse</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comprehensive-guide-to-vsco-image-enhancement/"><u>[New] Comprehensive Guide to VSCO Image Enhancement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-thorough-evaluation-of-the-high-resolution-dell-p2715q-monitor/"><u>[Updated] A Thorough Evaluation of the High-Resolution Dell P2715Q Monitor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-creating-an-auditory-ambiance-choosing-background-music-for-trailers/"><u>[Updated] Creating an Auditory Ambiance  Choosing Background Music for Trailers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-must-try-facial-editors-on-iphones-and-samsungs/"><u>10 Must-Try Facial Editors on iPhones and Samsungs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-10-solutions-to-chromes-missing-video-while-using-facebook/"><u>2024 Approved  10 Solutions to Chrome's Missing Video While Using Facebook</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-step-by-step-tutorial-for-speech-transcription-in-word/"><u>2024 Approved  A Step-by-Step Tutorial for Speech Transcription in Word</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-adding-chronological-markers-to-youtube-media/"><u>2024 Approved  Adding Chronological Markers to YouTube Media</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-asymmetric-soothing-sound-the-best-asmr-gear-without-a-heavy-price-tag/"><u>2024 Approved  Asymmetric Soothing Sound  The Best ASMR Gear Without a Heavy Price Tag</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beyond-spectacle-delving-into-vrs-negatives/"><u>2024 Approved  Beyond Spectacle  Delving Into VR's Negatives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-barriers-7-top-tools-for-artists-transforming-into-nfts/"><u>2024 Approved  Breaking Barriers  7 Top Tools for Artists Transforming Into NFTs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-stability-mastering-shaky-images/"><u>2024 Approved  Capturing Stability  Mastering Shaky Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-cinematic-illumination-a-filmmakers-path-to-stunning-colors/"><u>2024 Approved  Cinematic Illumination  A Filmmaker's Path to Stunning Colors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/5-rapid-steps-unearthing-disappeared-reddit-posts-for-2024/"><u>5 Rapid Steps  Unearthing Disappeared Reddit Posts for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/average-playback-period-in-high-res-20mb-content-for-2024/"><u>Average Playback Period in High-Res 20MB Content for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-tips-for-procuring-unlocked-picture-frame-videos/"><u>Expert Tips for Procuring Unlocked Picture Frame Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-boredom-to-laughter-your-kinemaster-guide/"><u>From Boredom to Laughter  Your KineMaster Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/image-innovation-for-windows-and-mac-photo-to-cartoon-software/"><u>Image Innovation for Windows & Mac  Photo-to-Cartoon Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-animators-artistry-archives/"><u>In 2024, Animator's Artistry Archives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-audience-accumulation-expedition-tutorials-1mplus-milestone/"><u>In 2024, Audience Accumulation Expedition  Tutorial's 1M+ Milestone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-aural-alchemy-transforming-sound-tracks-in-logic-pro-x/"><u>In 2024, Aural Alchemy  Transforming Sound Tracks In Logic Pro X</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-boosting-vividness-in-iphone-videos-three-keys-unveiled/"><u>In 2024, Boosting Vividness in iPhone Videos – Three Keys Unveiled</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-classic-comedy-time-machine-the-goofy-tape-journey/"><u>In 2024, Classic Comedy Time Machine  The Goofy Tape Journey</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-through-video-editing-landscape-with-movies-maker-on-windows-8/"><u>Navigating Through Video Editing Landscape with Movies Maker on Windows 8</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/next-level-graphic-cards-for-4k-titles/"><u>Next-Level Graphic Cards for 4K Titles</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revolutionizing-image-capture-with-ios-11-updates/"><u>Revolutionizing Image Capture with iOS 11 Updates</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/superior-introductory-editors-for-mobile-apps/"><u>Superior Introductory Editors for Mobile Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-cameras-for-drifting-gopro-vs-ghost-s-showdown/"><u>Top Cameras for Drifting  GoPro Vs. Ghost-S Showdown</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-software-selection-for-video-from-photos/"><u>Ultimate Software Selection for Video From Photos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-powerhouse-q500-typhoon/"><u>Unveiling the Powerhouse  Q500 Typhoon</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/video-previews-easily-accessible-for-all/"><u>Video Previews Easily Accessible for All</u></a></li>
+</ul></div>

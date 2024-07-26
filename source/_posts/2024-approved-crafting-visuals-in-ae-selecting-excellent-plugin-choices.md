@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Crafting Visuals in AE  Selecting Excellent Plugin Choices\""
-date: 2024-05-24T04:38:06.718Z
-updated: 2024-05-25T04:38:06.718Z
+date: 2024-07-25T03:41:34.472Z
+updated: 2024-07-26T03:41:34.472Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes 2024 Approved: Crafting Visuals in AE: Selecting Excellent Plugin Choices\""
 excerpt: "\"This Article Describes 2024 Approved: Crafting Visuals in AE: Selecting Excellent Plugin Choices\""
 keywords: "\"AE Visual Crafting,Plugin Selection Tips,AE Excellence Tools,Effective AE Plugins,AE Plugin Guide,Top AE Plug-Ins,Quality AE Graphics\""
-thumbnail: https://www.lifewire.com/thmb/4yyTl7MKn_iYQkYcgHkPBGkXxu4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/kilian-seiler-PZLgTUAhxMM-unsplash-b385dd48498742aea28827a455b88525.jpg
+thumbnail: https://thmb.techidaily.com/d62120d0f92dda8643d1fb18ba050a4238aed422d93382b937c3fa171ed251d1.jpg
 ---
 
 ## Crafting Visuals in AE: Selecting Excellent Plugin Choices
 
 Adobe After Effects remains one of the most powerful ways to edit videos. One of the main reasons users find it so useful is the ability to customize the video editing process by adding different kinds of plugins to the program. If you are looking to add unique and fancy text to the video you are working on, then these text plugins for After Effects will come in handy.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## TextDelay
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Ftextdelay/>
@@ -42,6 +45,9 @@ Link: <https://aescripts.com/iexpressions/>
 
 If you want to effectively use the After Effects expressions even if you are not familiar with coding, iExpressions 2 is the text plugin to consider. It comes with 22 ready-to-use iExpressions that you can easily customize to fit into your project and it is so easy to use.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
 ## TextBox
@@ -58,20 +64,32 @@ Link: <https://aescripts.com/font-manager/>
 
 Font Manager is an After Effects text plugin that is useful when creating and working with animated typefaces. You can use it to create the most complex animated text graphics in just a few simple clicks. You will also find it very familiar to use as the user interface is similar to the Character Panel in After Effects.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Cartoon Moblur
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Fcartoon%5Fmoblur>
 
 This is the most ideal plugin to choose when you want to add motion trail to the graphics in your video, but you want them to appear very cartoony. If you have used the motion blur effect in After Effects, Cartoon Moblur will behave in a similar function, but it is more suited to 2D, flat or minimal graphics. Some of the factors that you can customize include the length of the blur (shutter angle), color, and opacity.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![cartoon moblur plugin](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-moblur-plugin.jpg)
 
 ## Shadow Studio
 
 If you are looking for shadow styles that will go very well with your project, Shadow Studio is a good plugin to get. It offers you a wide variety of shadow styles including radial, inner, soft, and long shadows. Most people find it an easier and more affordable way to add soft shadows as compared to traditional methods like raytracing. It is also quite easy to use, meaning that shadow effects that would take hours to complete can be done in a matter of minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
 
 ## Texts Animation Bundle
@@ -80,6 +98,9 @@ Link: <https://aedownload.com/download-texts-animation-bundle-free-videohive/>
 
 This is a bundle of more than 80 different templates to add text effects to any text in After Effects. All the templates in the bundle are easily customizable and the plugin is very easy to use, allowing you to create amazing text effects in just a few clicks. The templates are modeled from various titles, quotes, and stories, so there is a little bit of something for everyone. Plus, the bundle gets constant updates and you are likely to get new templates with each update.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
 
 ## Artificial Intelligence Titles
@@ -88,14 +109,25 @@ Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%
 
 The Artificial Intelligence Titles is an After Effects text plugin that is designed to be the ultimate typographical solution. Once you have it in After Effects, you can enter any text and the plugin will automatically adjust the entire layout of the text. You can choose to create awesome text boxes, change the color, add special effects and even change the duration, speed, size, and positioning of the text. It also allows users to customize the text animation’s direction without using a keyframe.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Text Library
 
 Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
 
 This is another great text animation bundle with different options for just about any kind of project. But unlike other plugin bundles that only have a few effects to choose from, Text Library has thousands of templates to choose from. Once you have selected the template that you would like to use, you also get the option to customize the template to suit your project. You can customize the text, size, duration of the animation, and color. It is easy to use and is constantly updated to introduce even more templates with each update.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
 
 ## Conclusion
@@ -132,3 +164,43 @@ On its own After Effects comes with so many post-production effects and features
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-best-options-cheap-but-premium-4k-projector-systems/"><u>[New] Best Options  Cheap but Premium 4K Projector Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-4k-monitor-buying-guide-how-to-choose-the-right-monitor/"><u>[Updated] 4K Monitor Buying Guide  How to Choose the Right Monitor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-lifes-movement-integrating-motion-blur-into-face-photography-with-picsart/"><u>[Updated] Capture Life's Movement  Integrating Motion Blur Into Face Photography with Picsart</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-comprehensive-list-of-prime-tablets-for-photo-editing-lovers/"><u>2024 Approved  A Comprehensive List of Prime Tablets for Photo Editing Lovers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-accelerated-image-viewer-in-windows-environment/"><u>2024 Approved  Accelerated Image Viewer in Windows Environment</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capture-the-magic-of-moonlight-iphonely/"><u>2024 Approved  Capture the Magic of Moonlight iPhonely</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/androids-cream-of-the-crop-podcasts/"><u>Android's Cream of the Crop Podcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-practices-for-leveraging-b-roll-content-for-2024/"><u>Best Practices for Leveraging B-Roll Content for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/childs-delight-greatest-drone-selections/"><u>Child's Delight  Greatest Drone Selections</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/color-correcting-made-simple-with-adobe-ps/"><u>Color Correcting Made Simple with Adobe PS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/complete-guide-mastering-voice-recognition-in-google-documents/"><u>Complete Guide  Mastering Voice Recognition in Google Documents</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/conveniently-altering-resolution-on-ios-devices/"><u>Conveniently Altering Resolution on iOS Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/deep-dive-into-using-googles-speech-technology-for-document-editing/"><u>Deep Dive Into Using Google's Speech Technology for Document Editing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/detailed-analysis-of-the-latest-picsart-app-features/"><u>Detailed Analysis of the Latest PicsArt App Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/digital-decluttering-how-to-shun-surplus-backdrops-effectively/"><u>Digital Decluttering  How to Shun Surplus Backdrops Effectively</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/draw-deftly-delight-fast-win10s-pathway-to-proficient-picture-edits/"><u>Draw Deftly, Delight Fast  Win10's Pathway to Proficient Picture Edits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/effortlessly-preserve-your-linkedin-content-with-the-best-6-apps/"><u>Effortlessly Preserve Your LinkedIn Content with The Best 6 Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/embark-on-a-journey-through-augmented-space/"><u>Embark on a Journey Through Augmented Space</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-canvas-to-cryptos-select-7-nft-creating-powerhouses/"><u>From Canvas to Cryptos  Select 7 NFT-Creating Powerhouses</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ideal-matches-free-and-paid-ultra-hd-playback-tools-for-windows-macos/"><u>Ideal Matches  Free & Paid Ultra HD Playback Tools for Windows, macOS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-audio-softening-techniques-for-the-proficient-user-on-lumafusion/"><u>In 2024, Advanced Audio Softening Techniques for the Proficient User on Lumafusion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-cropping-and-focus-mastery/"><u>In 2024, Advanced Cropping and Focus Mastery</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-of-the-best-photo-overlays-and-text-editors-review/"><u>In 2024, Best of the Best  Photo Overlays & Text Editors Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ingenious-tactics-to-elevate-customer-feedback-visual-content/"><u>Ingenious Tactics to Elevate Customer Feedback Visual Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovate-personalized-digital-chuckle-comedy/"><u>Innovate Personalized Digital Chuckle Comedy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovation-meets-art-mastering-these-top-7-graders-methods/"><u>Innovation Meets Art  Mastering These Top 7 Graders' Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/master-video-editing-turn-your-avis-into-stylish-shareable-gifs-with-filmora/"><u>Master Video Editing  Turn Your AVIs Into Stylish, Shareable GIFs with Filmora</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/old-masters-legacy-images-without-limits/"><u>Old Masters' Legacy  Images Without Limits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/skyward-gazing-inside-the-world-of-x4-fpv-quads/"><u>Skyward Gazing  Inside the World of X4 FPV Quads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/strategy-cradle-nurturing-market-gains/"><u>Strategy Cradle  Nurturing Market Gains</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tailoring-windows-11-walls-to-perfection/"><u>Tailoring Windows 11 Walls to Perfection</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-healing-power-of-asmr-explained-here/"><u>The Healing Power of ASMR Explained Here</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-updated-comprehensive-bd-review-s3700/"><u>The Updated Comprehensive BD Review  S3700</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-6-budget-savvy-4k-large-screen-options/"><u>Top 6 Budget-Savvy 4K Large Screen Options</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/twist-your-world-unveiling-creative-distortions-in-adobe-ph/"><u>Twist Your World  Unveiling Creative Distortions in Adobe PH</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-your-phones-potential-the-ultimate-montage-application-guide/"><u>Unleash Your Phone's Potential  The Ultimate Montage Application Guide</u></a></li>
+</ul></div>

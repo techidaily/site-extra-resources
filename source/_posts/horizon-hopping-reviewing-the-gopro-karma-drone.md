@@ -1,7 +1,7 @@
 ---
 title: "\"Horizon Hopping  Reviewing the GoPro Karma Drone\""
-date: 2024-05-24T05:50:23.095Z
-updated: 2024-05-25T05:50:23.095Z
+date: 2024-07-25T05:54:41.734Z
+updated: 2024-07-26T05:54:41.734Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes Horizon Hopping: Reviewing the GoPro Karma Drone\""
 excerpt: "\"This Article Describes Horizon Hopping: Reviewing the GoPro Karma Drone\""
 keywords: "GoPro Karma Review,Karma Drone Guide,Drone Photography Horizon,Karma's Aerial Capability,Exploring Skies with Karma,Karma Drone 360 Experience,GoPro Karma Adventure Review"
-thumbnail: https://www.lifewire.com/thmb/vNiduGzd38MaH6SQoi23lWSaGTw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-122061346-f4d63be5cfde470e9b7192d89497b501.jpg
+thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec122694d578843a25c7f44c71.jpg
 ---
 
 ## Horizon Hopping: Reviewing the GoPro Karma Drone
 
 # GoPro Karma Drone Review
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -28,6 +31,9 @@ thumbnail: https://www.lifewire.com/thmb/vNiduGzd38MaH6SQoi23lWSaGTw=/400x300/fi
 
  The GoPro Karma is this second or [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) has created and hopefully a much more refined version than the drones that GoPro first launched in October. The original version of the Karma drone was recalled just 16 days after its initial launch when many drones were losing connection and battery power at certain altitudes. GoPro discovered a fault with the battery popping out of place causing immediate power loss and returns the drone to the drawing board to produce improved versions of the device for release.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![gopro karma](https://images.wondershare.com/filmora/article-images/gopro-karma.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01N5V4HKQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N5V4HKQ&linkId=62a69de1ac6675d917158fa1421eceee)
@@ -36,6 +42,9 @@ thumbnail: https://www.lifewire.com/thmb/vNiduGzd38MaH6SQoi23lWSaGTw=/400x300/fi
 
  Apart from the battery latch, GoPro introduced auxiliary features such as a tilted horizon line for improved imaging as well as quieter propellers. The rerelease of the Karma drone is a much more polished product that is more suitable for reviewing as well as improved for general use. But does the Karma drone matchup with major contenders in the marketplace such as the Parrot or the DJI phantom line?
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pros and cons of GoPro Karma
 
 **Pros**
@@ -107,6 +116,9 @@ Follow @Max Wales
 
  The GoPro Karma is this second or [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) has created and hopefully a much more refined version than the drones that GoPro first launched in October. The original version of the Karma drone was recalled just 16 days after its initial launch when many drones were losing connection and battery power at certain altitudes. GoPro discovered a fault with the battery popping out of place causing immediate power loss and returns the drone to the drawing board to produce improved versions of the device for release.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![gopro karma](https://images.wondershare.com/filmora/article-images/gopro-karma.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01N5V4HKQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N5V4HKQ&linkId=62a69de1ac6675d917158fa1421eceee)
@@ -164,6 +176,9 @@ Follow @Max Wales
 
 #### 5\.  Controller
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
@@ -194,6 +209,9 @@ Follow @Max Wales
 
  Apart from the battery latch, GoPro introduced auxiliary features such as a tilted horizon line for improved imaging as well as quieter propellers. The rerelease of the Karma drone is a much more polished product that is more suitable for reviewing as well as improved for general use. But does the Karma drone matchup with major contenders in the marketplace such as the Parrot or the DJI phantom line?
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pros and cons of GoPro Karma
 
 **Pros**
@@ -243,6 +261,10 @@ Follow @Max Wales
 
 #### 5\.  Controller
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
@@ -251,6 +273,13 @@ Follow @Max Wales
 
 Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can be expensive when compared to the specifications on some of the other drones, if you do have some experience flying drones and you are looking for a great image quality, this could be the choice for you especially if you are looking for a portable drone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -273,6 +302,9 @@ Follow @Max Wales
 
  Apart from the battery latch, GoPro introduced auxiliary features such as a tilted horizon line for improved imaging as well as quieter propellers. The rerelease of the Karma drone is a much more polished product that is more suitable for reviewing as well as improved for general use. But does the Karma drone matchup with major contenders in the marketplace such as the Parrot or the DJI phantom line?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pros and cons of GoPro Karma
 
 **Pros**
@@ -288,6 +320,18 @@ Follow @Max Wales
 
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Detailed review for GoPro Karma
 
 #### 1\.  Price
@@ -362,3 +406,40 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-amplify-clarity-in-cloud-calls-zooming-out-distortion/"><u>[New] Amplify Clarity in Cloud Calls  Zooming Out Distortion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-childs-drone-pick-top-five-suggestions/"><u>[New] Child's Drone Pick  Top Five Suggestions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-beginners-guide-to-zoom-room-preparation/"><u>[Updated] A Beginner's Guide to Zoom Room Preparation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-time-capsule-in-digital-form-storing-historic-pictures/"><u>[Updated] A Time Capsule in Digital Form  Storing Historic Pictures</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-15-crucial-strategies-for-accessing-international-sport-events/"><u>2024 Approved  15 Crucial Strategies for Accessing International Sport Events</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-accurate-ranking-top-10-gratuitous-srt-file-tools/"><u>2024 Approved  Accurate Ranking  Top 10 Gratuitous Srt File Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-android-and-ios-the-finest-virtual-experiences/"><u>2024 Approved  Android and iOS  The Finest Virtual Experiences</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-apex-recommendations-exquisite-iphone-ringtone-designers/"><u>2024 Approved  Apex Recommendations  Exquisite iPhone Ringtone Designers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-chuckle-cache-timed-humor-categorized-by-occasion/"><u>2024 Approved  Chuckle Cache  Timed Humor Categorized by Occasion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/decisional-balance/"><u>Decisional Balance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-the-small-stuff-zooming-into-roblox-pixels/"><u>Discover the Small Stuff  Zooming Into Roblox Pixels</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elaborate-inspection-gopro-silver-hero4-unit-test/"><u>Elaborate Inspection  GoPro Silver HERO4 Unit Test</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-photo-beauty-with-top-10-iphoneandroid-stickers-apps/"><u>Elevate Photo Beauty with Top 10 iPhone/Android Stickers Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-visuals-no-cost-with-some-color-correction-tools/"><u>Elevate Visuals  No Cost with Some Color Correction Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/empowering-yourself-with-knowledge-of-google-photos-features/"><u>Empowering Yourself with Knowledge of Google Photos Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/excellent-applications-for-image-to-video-conversion/"><u>Excellent Applications for Image to Video Conversion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/finding-the-ideal-media-player-vlc-versus-mx-player/"><u>Finding the Ideal Media Player  VLC versus MX Player</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/freelancers-dream-top-free-3d-text-psd-arsenal/"><u>Freelancer’s Dream  Top FREE 3D Text PSD Arsenal</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fusionflix-your-all-inclusive-tv-streaming-companion/"><u>FusionFlix  Your All-Inclusive TV Streaming Companion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/grandest-directors-trailers/"><u>Grandest Director's Trailers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-10-best-mp4-players-for-music-enthusiasts/"><u>In 2024, 10 Best MP4 Players for Music Enthusiasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-cloud-haven-discovering-the-quintessential-savers-for-your-files/"><u>In 2024, Cloud Haven  Discovering the Quintessential Savers for Your Files</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-mood-and-atmosphere-through-post-color-tweaks/"><u>In 2024, Crafting Mood and Atmosphere Through Post-Color Tweaks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-simplified-live-streaming/"><u>Mastering the Art of Simplified LIVE Streaming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seamless-video-conferencing-zoom-and-xbox-playground/"><u>Seamless Video Conferencing  Zoom & Xbox Playground</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/slumber-solutions-through-asmr-advisors-choice/"><u>Slumber Solutions Through ASMR  Advisors' Choice</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-of-conducting-engaging-interviews/"><u>The Art of Conducting Engaging Interviews</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultrawide-uhd-dilemranc-which-monitor-wins/"><u>The Ultrawide-UHD Dilemranc  Which Monitor Wins?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-smartphone-vr-gadgets-uncovered/"><u>Top 10 Smartphone VR Gadgets Uncovered</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unique-soundscapes-for-your-one-person-show/"><u>Unique Soundscapes for Your One-Person Show</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-power-of-vsco-color-grading/"><u>Unveiling the Power of VSCO Color Grading</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/video-flipping-mystery-on-the-social-media-platform/"><u>Video Flipping Mystery on the Social Media Platform</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/video-testimonial-why-its-so-important-for-marketing/"><u>Video Testimonial! Why It's So Important for Marketing</u></a></li>
+</ul></div>

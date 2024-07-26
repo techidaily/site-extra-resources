@@ -1,7 +1,7 @@
 ---
 title: "\"Figma Mastery  Techniques to Eliminate Disruptive Backdrops\""
-date: 2024-05-24T05:10:35.924Z
-updated: 2024-05-25T05:10:35.924Z
+date: 2024-07-25T04:41:40.939Z
+updated: 2024-07-26T04:41:40.939Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Figma Mastery: Techniques to Eliminate Disruptive Backdrops\""
 excerpt: "\"This Article Describes Figma Mastery: Techniques to Eliminate Disruptive Backdrops\""
 keywords: "\"GoPro Timelapse Tips,Mastering GoPro Lapses,Timelapse Pro Guide,Basics to Proficiency in Timelapse,Advanced GoPro Shooting,Timelapse Techniques for GoPro,GoPro Time-Lapse Expertise\""
-thumbnail: https://www.lifewire.com/thmb/GEh6yikW2dAwe3RKl5habYgW_jc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/hulu-5804f6075f9b5805c2cbae24.png
+thumbnail: https://thmb.techidaily.com/6c0361031673718dd65b08f3b6f24eb590de40f0c8e00739939cad23b109e68b.png
 ---
 
 ## Figma Mastery: Techniques to Eliminate Disruptive Backdrops
@@ -26,6 +26,18 @@ To make things easier, we've written a comprehensive step-by-step guide on **rem
 
 So, keep reading to find out about removing an image's background in Figma!
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Best Option to Remove Image's Background in Figma
 
 As aforementioned, **Figma** does not offer a **Background Remover** tool but comes with a Plugins menu to help you find the required tool.
@@ -58,6 +70,9 @@ Here's how you can get the PixCut plugin in Figma and use it to remove the backg
 
 Step1 First, open a browser, visit the [Figma website](https://www.figma.com), and sign in to your account. On the main page, click **"Import File,"** select your image from your PC and click **"Open"** to upload it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![importing image to figma to remove background](https://images.wondershare.com/filmora/article-images/2023/03/importing-image-to-figma-to-remove-background.png)
 
 Once the import process is complete, click **"Done"** in the pop-up window and open your image. Now, click the "**Main Menu"** icon and choose **"Plugins" > "Find More Plugins"** from the drop-down menu.
@@ -68,6 +83,9 @@ To get the APPkey, visit **"Wondershare PixCut,"** log in to your account using 
 
 Step3 Paste the Appkey in the pop-up window in Figma and click **"Save."** Now, click the **"Main Menu"** icon and navigate to **"Plugins" > "PixCut Background Remover" > "Run."**
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![running the pixcut plugin in figma](https://images.wondershare.com/filmora/article-images/2023/03/running-the-pixcut-plugin-in-figma.png)
 
 The program will start running the plugin, and the background of your image will disappear. Click the **"Export"** option and save your file on your system.
@@ -76,6 +94,9 @@ The program will start running the plugin, and the background of your image will
 
 Apart from using PixCut Plugin in Figma, there are some alternatives that you can use to remove the image's background in Figma:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### (1) When Images Are With Transparent or Solid Colour Backgrounds
 
 Follow these tips to remove the background of images with transparent or solid color:
@@ -83,6 +104,9 @@ Follow these tips to remove the background of images with transparent or solid c
 * When saving your images from programs like Photoshop, make sure to save them with transparent background. This way, when you import it to Figma, the BG will be removed automatically.
 * If your image has a solid background, import it to Figma and use the **"Edit Color"** tool to change the BG to transparent.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### (2) 3 Other Figma Plugins
 
 You can use the following **Figma plugins to remove the image background**:
@@ -111,6 +135,9 @@ Another alternative is to use any tool that **removes the image background onlin
 
 To use the Remove BG tool, visit its website, drop your image file, or click the **"Upload"** option to import your file. Now, wait for the program to process your image and then click **"Download"** to save your picture. Afterward, you can import it to Figma for further editing.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Video Tutorial - How to remove background from images in Figma in 2minutes
 
 Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
@@ -141,10 +168,17 @@ Another alternative is to use any tool that **removes the image background onlin
 
 To use the Remove BG tool, visit its website, drop your image file, or click the **"Upload"** option to import your file. Now, wait for the program to process your image and then click **"Download"** to save your picture. Afterward, you can import it to Figma for further editing.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## Video Tutorial - How to remove background from images in Figma in 2minutes
 
 Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we've explored the step-by-step process of how to remove background in Figma using the PixCut plugin. We've also explained the reasons why you should use this tool.
@@ -177,3 +211,33 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-behind-the-scenes-how-apples-m1-max-attachments-work/"><u>[New] Behind-the-Scenes  How Apple’s M1 Max Attachments Work</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-boosting-dj-game-free-easy-online-beat-detectors-revealed/"><u>[New] Boosting DJ Game  Free, Easy Online Beat Detectors Revealed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-complete-morphvox-audio-transformation-blueprint/"><u>[New] Complete MorphVOX Audio Transformation Blueprint</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-10-best-free-photo-collage-apps-for-iphone/"><u>[Updated] 10 Best FREE Photo Collage Apps for iPhone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-constructing-premium-canon-timelapse-movies/"><u>[Updated] Constructing Premium Canon Timelapse Movies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-the-ultimate-quadcopter-engine-arsenal/"><u>[Updated] Crafting the Ultimate Quadcopter Engine Arsenal</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-affordable-asmr-microphones-with-peak-performance-quality-crest/"><u>2024 Approved  Affordable ASMR Microphones with Peak Performance, Quality Crest</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/are-apples-new-processors-revolutionizing-editing-tech-in-2024/"><u>Are Apple's New Processors Revolutionizing Editing Tech, In 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-8-filter-packs-for-dynamic-video-streaming-for-2024/"><u>Best 8 Filter Packs for Dynamic Video Streaming for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-data-buffering-option-for-sony-a7c/"><u>Best Data Buffering Option for Sony A7C</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-practices-in-apple-podcast-file-formatting/"><u>Best Practices in Apple Podcast File Formatting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-your-youtube-views-a-strategy-guide-for-2024/"><u>Boosting Your YouTube Views  A Strategy Guide for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/choosing-screen-clarity-is-ultrawide-or-uhd-4k-better-in-2024/"><u>Choosing Screen Clarity  Is UltraWide or UHD 4K Better, In 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/craft-your-photos-in-minutes-learning-lunapic-for-2024/"><u>Craft Your Photos in Minutes  Learning LunaPic for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/determining-your-promotion-budget-on-youtube/"><u>Determining Your Promotion Budget on YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discovering-the-30-most-recommended-steadicams-for-dslr-cinematographers/"><u>Discovering the 30 Most Recommended Steadicams for DSLR Cinematographers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/editors-deep-dive-into-pixelcut-pro-latest-features-in-review/"><u>Editor's Deep Dive Into PixelCut Pro - Latest Features in Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-tips-on-inshot-film-splits/"><u>Expert Tips on Inshot Film Splits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-tips-to-elevate-iphone-picture-quality/"><u>Expert Tips to Elevate iPhone Picture Quality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-the-best-of-android-does-pickup-lead-photo-editing-tools/"><u>Exploring the Best of Android  Does PickUp Lead Photo Editing Tools?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/inside-and-out-a-full-guide-to-theta-s-features/"><u>Inside & Out  A Full Guide to Theta S Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/omni-angle-equipment-for-immersive-shoots/"><u>Omni-Angle Equipment for Immersive Shoots</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/professional-photography-enhanced-by-top-luts-in-lightroom/"><u>Professional Photography Enhanced by Top LUTs in LightRoom</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-gamers-crossroads-oculus-or-playstation-vr/"><u>The Ultimate Gamer’s Crossroads  Oculus or PlayStation VR?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-face-cropping-tools/"><u>The Ultimate Guide to Face Cropping Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/utilizing-in-presentation-speech-to-text-functionality-in-powerpoint/"><u>Utilizing In-Presentation Speech-to-Text Functionality in PowerPoint</u></a></li>
+</ul></div>

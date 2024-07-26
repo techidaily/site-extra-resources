@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Best Practices for B-Roll Utilization\""
-date: 2024-05-24T03:36:24.644Z
-updated: 2024-05-25T03:36:24.644Z
+date: 2024-07-25T01:37:28.725Z
+updated: 2024-07-26T01:37:28.725Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Best Practices for B-Roll Utilization\""
 excerpt: "\"This Article Describes [New] Best Practices for B-Roll Utilization\""
 keywords: "Broll Video Use,Effective Reruns,Creative Reshoots,Highlight Reels,Vignette Filming,Clip Show Techniques,Supplementary Footage"
-thumbnail: https://www.lifewire.com/thmb/Z73u58LZkbkGL5EnRK85VTxYLlE=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/messaging-5b40e35ec9e77c0037b03f3c.jpg
+thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ecd8a0532a8cb17367d809b46.jpg
 ---
 
 ## Best Practices for B-Roll Utilization
@@ -22,6 +22,9 @@ B roll is a phrase used to describe supplemental video, which is frequently used
 
 Now that we know that, let's dive in!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## 1\. B roll In TV And Movies
 
 Broll is an acronym for "background" or "behind," respectively. It usually refers to extra footage captured with a movie camera while keeping the lighting consistent between scenes in the movie industry. When the filmmaker doesn't want to show any dialogue or action on screen but needs some movement within the frame, it might be utilized as filler.
@@ -40,14 +43,23 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. What types of b roll are there?
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
@@ -60,12 +72,18 @@ B roll footage can be used to tell a story that supports the narrative of your v
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ### 5\. Atmospheric b roll footage
 
 When you are sharing a narrative that has been told in the past or that has historical significance, incorporating archival material into your video gives your audience the opportunity to see the story as it occurred at the time. This is especially useful when you are discussing a narrative that has been experienced in the past or that has futuristic relevance.
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 6\. Pick-up shots
 
 A pick-up is a tiny shot added to previously captured material. Re-shoots involve redoing entire scenes. Both types of shots are commonly added during film editing to fix, logic, continuity, or quality flaws. These photos happen a while after the sets have been taken down, clothes and props stowed, and the actors and crew have gone on to new projects.
@@ -110,3 +128,31 @@ We sincerely hope that this post will be of use to you in making your films more
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-advanced-zoom-practices-for-chromebook-users/"><u>[New] Advanced Zoom Practices for Chromebook Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-budget-savvy-shoppers-best-cameras/"><u>[New] Budget-Savvy Shoppers' Best Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-meaningful-communication-in-the-comment-section/"><u>[New] Crafting Meaningful Communication in the Comment Section</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-acquiring-safe-gratis-vlc-media-player-on-macos-systems/"><u>[Updated] Acquiring Safe, Gratis VLC Media Player on macOS Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-combined-imagery-and-action-mastering-iphone-recording/"><u>[Updated] Combined Imagery & Action  Mastering iPhone Recording</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-compact-cinematic-story-guide/"><u>[Updated] Compact Cinematic Story Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comparative-review-samsungs-imaging-suite-2023-edition/"><u>2024 Approved  Comparative Review  Samsung's Imaging Suite, 2023 Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-complete-guide-to-cleaning-up-figma-canvases/"><u>2024 Approved  Complete Guide to Cleaning Up Figma Canvases</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/9-superior-editing-platforms-for-every-drone-operators-level-for-2024/"><u>9 Superior Editing Platforms for Every Drone Operator's Level for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/artful-stop-motion-animation-the-best-15-films-for-2024/"><u>Artful Stop-Motion Animation - The Best 15 Films for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/character-development-through-authentic-dialogue/"><u>Character Development Through Authentic Dialogue</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/choosing-top-8-free-ai-powered-srt-translators/"><u>Choosing Top 8 Free, AI-Powered SRT Translators</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-the-ease-of-sound-liberation-with-pazeras-tools/"><u>Discover the Ease of Sound Liberation with Pazera's Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dive-deep-into-digital-artistry-picsarts-ultimate-edition/"><u>Dive Deep Into Digital Artistry  PicsArt's Ultimate Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exclusive-insight-into-selecting-the-top-5-digital-title-makers/"><u>Exclusive Insight Into Selecting the Top 5 Digital Title Makers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exclusive-photo-safekeeping-top-free-and-paid-cloud-storage-solutions/"><u>Exclusive Photo Safekeeping  Top Free & Paid Cloud Storage Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/free-versatile-tools-for-amateurs-and-professionals-in-ar/"><u>Free, Versatile Tools for Amateurs & Professionals in AR</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-log-your-favorites-6-proven-methods-for-webcast-capture/"><u>How to Log Your Favorites  6 Proven Methods for Webcast Capture</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/humorhub-quick-and-quirky-images/"><u>HumorHub  Quick & Quirky Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/magical-voice-change-tools-for-efficient-calls/"><u>Magical Voice Change Tools for Efficient Calls</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/melodic-lenswork-capturing-soundscapes-on-ios/"><u>Melodic Lenswork  Capturing Soundscapes on iOS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premier-top-8-4k-blu-ray-playback-machines/"><u>Premier Top 8 4K Blu-Ray Playback Machines</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/reimagining-text-in-photographyvideo/"><u>Reimagining Text in Photography/Video</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-picshots-role-in-easy-collage-crafting/"><u>Unveiling Picshot's Role in Easy Collage Crafting</u></a></li>
+</ul></div>

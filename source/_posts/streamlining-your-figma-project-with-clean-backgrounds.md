@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Your Figma Project with Clean Backgrounds"
-date: 2024-05-24T03:47:24.358Z
-updated: 2024-05-25T03:47:24.358Z
+date: 2024-07-25T01:55:17.698Z
+updated: 2024-07-26T01:55:17.698Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Streamlining Your Figma Project with Clean Backgrounds"
 excerpt: "This Article Describes Streamlining Your Figma Project with Clean Backgrounds"
 keywords: "Video Prod Streamline,Clear Sounds in Video,Enhanced Video Quality,Audio Clarity for Videos,Efficient Video Creation,Sound Effects Optimize,Simplified Video Production"
-thumbnail: https://www.lifewire.com/thmb/xoj9YPxPAH01wV7Yk9lbephb9tY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/178665671_HighRes-56a532a83df78cf77286de1b.jpg
+thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165b0175087b89427fe82c8e76.jpg
 ---
 
 ## Streamlining Your Figma Project with Clean Backgrounds
@@ -32,6 +32,9 @@ As aforementioned, **Figma** does not offer a **Background Remover** tool but co
 
 Since you want to remove the image's background, there is no better plugin than [Wondershare PixCut](https://pixcut.wondershare.com/), a free tool that helps you erase your picture's BG instantly. With this plugin, you can edit up to files per day, and that too in high-quality resolution.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Why Use The PixCut Tool?
 
 Here's how the PixCut tool stands out from the rest of the image editing tools available in the digital market:
@@ -52,12 +55,18 @@ This function lets you use brushstrokes to remove watermarks from your target pi
 
 With its Image Englargement feature, you can expand the size of your picture up to 400% without losing the quality.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to use PixCut to remove the background in Figma
 
 Here's how you can get the PixCut plugin in Figma and use it to remove the background in just three simple steps:
 
 Step1 First, open a browser, visit the [Figma website](https://www.figma.com), and sign in to your account. On the main page, click **"Import File,"** select your image from your PC and click **"Open"** to upload it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![importing image to figma to remove background](https://images.wondershare.com/filmora/article-images/2023/03/importing-image-to-figma-to-remove-background.png)
 
 Once the import process is complete, click **"Done"** in the pop-up window and open your image. Now, click the "**Main Menu"** icon and choose **"Plugins" > "Find More Plugins"** from the drop-down menu.
@@ -68,10 +77,16 @@ To get the APPkey, visit **"Wondershare PixCut,"** log in to your account using 
 
 Step3 Paste the Appkey in the pop-up window in Figma and click **"Save."** Now, click the **"Main Menu"** icon and navigate to **"Plugins" > "PixCut Background Remover" > "Run."**
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![running the pixcut plugin in figma](https://images.wondershare.com/filmora/article-images/2023/03/running-the-pixcut-plugin-in-figma.png)
 
 The program will start running the plugin, and the background of your image will disappear. Click the **"Export"** option and save your file on your system.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Other Options To Remove Image's Background In Figma
 
 Apart from using PixCut Plugin in Figma, there are some alternatives that you can use to remove the image's background in Figma:
@@ -103,6 +118,9 @@ Step2 **Right-click** on the image in the editor and click **"Plugins."**
 
 Step3 Select **"Find More Plugins"** and use the search option in the pop-up window to find the plugin you need.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
 ### (3) Using Online Removers
@@ -141,10 +159,16 @@ Another alternative is to use any tool that **removes the image background onlin
 
 To use the Remove BG tool, visit its website, drop your image file, or click the **"Upload"** option to import your file. Now, wait for the program to process your image and then click **"Download"** to save your picture. Afterward, you can import it to Figma for further editing.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Video Tutorial - How to remove background from images in Figma in 2minutes
 
 Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we've explored the step-by-step process of how to remove background in Figma using the PixCut plugin. We've also explained the reasons why you should use this tool.
@@ -177,3 +201,31 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-cinema-crafting-excellence-top-5-camera-skills-to-hone/"><u>[New] Cinema Crafting Excellence  Top 5 Camera Skills to Hone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-practices-for-youtube-to-mpeg-format-switching/"><u>[Updated] Best Practices for YouTube to MPEG Format Switching</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-unboxing-content-in-youtube-the-2024-edition/"><u>[Updated] Best Unboxing Content in YouTube - The 2024 Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-breakdown-average-monthly-earning-for-podcasters/"><u>[Updated] Breakdown  Average Monthly Earning for Podcasters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-bring-life-to-stills-motion-blur-technique/"><u>[Updated] Bring Life to Stills  Motion Blur Technique</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-7-leading-mac-video-player-options/"><u>2024 Approved  7 Leading Mac Video Player Options</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-airpods-isolated-cure-strategies/"><u>2024 Approved  Airpods Isolated? Cure Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-creating-an-auditory-ambiance-choosing-background-music-for-trailers/"><u>2024 Approved  Creating an Auditory Ambiance  Choosing Background Music for Trailers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-team-engagement-with-zoom-techniques-on-msteams/"><u>Boosting Team Engagement with ZOOM Techniques on MSTEAMS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compre-written-guide-to-the-latest-videoshow-version-for-2024/"><u>Compre Written Guide to the Latest VideoShow Version for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-compelling-movies-implementing-fade-techniques/"><u>Crafting Compelling Movies  Implementing Fade Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/engaging-readers-with-strategic-reddit-sharing-techniques/"><u>Engaging Readers with Strategic Reddit Sharing Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-5-pro-drones-for-skilled-drone-pilots/"><u>Essential 5 Pro Drones for Skilled Drone Pilots</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/funimate-insiders-path-to-flawless-downloads/"><u>Funimate Insider's Path to Flawless Downloads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-complete-guide-to-dynamic-range-and-curves/"><u>In 2024, A Complete Guide to Dynamic Range and Curves</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-audioadventurers-venturing-without-dacast/"><u>In 2024, AudioAdventurers  Venturing Without DaCast</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-camera-prospectus-ranking-the-top-5-superior-motion-cameras/"><u>In 2024, Camera Prospectus  Ranking the Top 5 Superior Motion Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-content-creators-dilemrante-podcasts-vs-youtube-as-a-platform/"><u>In 2024, Content Creators' Dilemrante  Podcasts Vs. YouTube as a Platform</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-cost-cutting-camera-options-discover-top-6-cheap-action-cams/"><u>In 2024, Cost-Cutting Camera Options  Discover Top 6 Cheap ACTION Cams</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-depth-analysis-of-lgs-latest-360-cameras-for-the-year-2023/"><u>In-Depth Analysis of LG's Latest 360 Cameras for the Year 2023</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/instant-insight-into-once-lost-reddit-topics/"><u>Instant Insight Into Once Lost Reddit Topics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphones-guide-creating-your-first-music-video/"><u>IPhone's Guide  Creating Your First Music Video</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfect-blueprint-for-installing-wm6-version-60/"><u>Perfect Blueprint for Installing WM6 Version 6.0</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-tier-visual-data-vaults/"><u>Top-Tier Visual Data Vaults</u></a></li>
+</ul></div>

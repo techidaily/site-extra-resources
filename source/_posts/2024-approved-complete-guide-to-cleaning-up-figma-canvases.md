@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Complete Guide to Cleaning Up Figma Canvases\""
-date: 2024-05-24T05:31:18.093Z
-updated: 2024-05-25T05:31:18.093Z
+date: 2024-07-25T05:20:27.910Z
+updated: 2024-07-26T05:20:27.910Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Complete Guide to Cleaning Up Figma Canvases\""
 excerpt: "\"This Article Describes 2024 Approved: Complete Guide to Cleaning Up Figma Canvases\""
 keywords: "MP4 Enhancement Tips,SRT Mastery in Video Editing,Optimal Video Integration,MP4 Quality Boosting Guide,Advanced SRT Usage,Streamlined Video Insertion,Improving Video with SRT"
-thumbnail: https://www.lifewire.com/thmb/URfhDakQRolYp20WmiqrjjYoMks=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/familyroadtrippodcasts-e4b22e7c5ac143eabcded615bbc3a823.jpg
+thumbnail: https://thmb.techidaily.com/a23b6166dff1d71405deccff3c580ba47c280d1fae23b982db1e3d6f2479cd12.jpg
 ---
 
 ## Complete Guide to Cleaning Up Figma Canvases
@@ -26,6 +26,9 @@ To make things easier, we've written a comprehensive step-by-step guide on **rem
 
 So, keep reading to find out about removing an image's background in Figma!
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## The Best Option to Remove Image's Background in Figma
 
 As aforementioned, **Figma** does not offer a **Background Remover** tool but comes with a Plugins menu to help you find the required tool.
@@ -58,6 +61,9 @@ Here's how you can get the PixCut plugin in Figma and use it to remove the backg
 
 Step1 First, open a browser, visit the [Figma website](https://www.figma.com), and sign in to your account. On the main page, click **"Import File,"** select your image from your PC and click **"Open"** to upload it.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![importing image to figma to remove background](https://images.wondershare.com/filmora/article-images/2023/03/importing-image-to-figma-to-remove-background.png)
 
 Once the import process is complete, click **"Done"** in the pop-up window and open your image. Now, click the "**Main Menu"** icon and choose **"Plugins" > "Find More Plugins"** from the drop-down menu.
@@ -68,6 +74,9 @@ To get the APPkey, visit **"Wondershare PixCut,"** log in to your account using 
 
 Step3 Paste the Appkey in the pop-up window in Figma and click **"Save."** Now, click the **"Main Menu"** icon and navigate to **"Plugins" > "PixCut Background Remover" > "Run."**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![running the pixcut plugin in figma](https://images.wondershare.com/filmora/article-images/2023/03/running-the-pixcut-plugin-in-figma.png)
 
 The program will start running the plugin, and the background of your image will disappear. Click the **"Export"** option and save your file on your system.
@@ -76,6 +85,9 @@ The program will start running the plugin, and the background of your image will
 
 Apart from using PixCut Plugin in Figma, there are some alternatives that you can use to remove the image's background in Figma:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ### (1) When Images Are With Transparent or Solid Colour Backgrounds
 
 Follow these tips to remove the background of images with transparent or solid color:
@@ -105,16 +117,34 @@ Step3 Select **"Find More Plugins"** and use the search option in the pop-up win
 
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### (3) Using Online Removers
 
 Another alternative is to use any tool that **removes the image background online**. For example, we recommend using the [Remove BG tool](https://www.remove.bg/).
 
 To use the Remove BG tool, visit its website, drop your image file, or click the **"Upload"** option to import your file. Now, wait for the program to process your image and then click **"Download"** to save your picture. Afterward, you can import it to Figma for further editing.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Video Tutorial - How to remove background from images in Figma in 2minutes
 
 Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we've explored the step-by-step process of how to remove background in Figma using the PixCut plugin. We've also explained the reasons why you should use this tool.
@@ -133,6 +163,9 @@ Step2 **Right-click** on the image in the editor and click **"Plugins."**
 
 Step3 Select **"Find More Plugins"** and use the search option in the pop-up window to find the plugin you need.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
 ### (3) Using Online Removers
@@ -177,3 +210,40 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-an-in-depth-guide-to-every-element-of-srt/"><u>[New] An In-Depth Guide to Every Element of SRT</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-appreciation-bundle-ultimate-selection-of-templates/"><u>[New] Appreciation Bundle  Ultimate Selection of Templates</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-caption-kings-and-queens-top-10-mobile-writing-aids-iosandroid/"><u>[New] Caption Kings and Queens  Top 10 Mobile Writing Aids (iOS/Android)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-15-ways-to-make-most-of-your-podcast-time/"><u>[Updated] 15 Ways to Make Most of Your Podcast Time</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-av1-unveiled-for-the-curious-novice/"><u>[Updated] AV1 Unveiled  For the Curious Novice</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-and-compose-best-writing-apps-for-photos-iosandroid/"><u>[Updated] Capture and Compose  Best Writing Apps for Photos (iOS/Android)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-review-navigating-adobe-cloud-plus-comparing-rivals/"><u>[Updated] Comprehensive Review  Navigating Adobe Cloud + Comparing Rivals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-10-best-mp4-players-for-music-enthusiasts/"><u>2024 Approved  10 Best MP4 Players for Music Enthusiasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-10-premium-image-editing-overlays-free-for-android-and-iphone-users/"><u>2024 Approved  10 Premium Image Editing Overlays Free for Android & iPhone Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-audio-aesthetics-in-whatsapp-updates/"><u>2024 Approved  Audio Aesthetics in WhatsApp Updates</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beat-the-sickening-of-virtual-reality/"><u>2024 Approved  Beat the Sickening of Virtual Reality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-boosting-ppt-media-rendering-velocity/"><u>2024 Approved  Boosting PPT Media Rendering Velocity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-comprehensive-overview-of-google-photos-use/"><u>A Comprehensive Overview of Google Photos Use</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-deep-dive-into-competitive-ar-stickers-outside-google-for-2024/"><u>A Deep Dive Into Competitive AR Stickers Outside Google for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-cameras-in-phones-for-professional-videos/"><u>Best Cameras in Phones for Professional Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/color-grading-mastery-utilizing-cg-centrals-standardized-looks-for-2024/"><u>Color Grading Mastery  Utilizing CG Central's Standardized Looks for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/convert-your-srt-files-for-free-with-top-websites/"><u>Convert Your SRT Files for FREE with Top Websites</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/freely-stream-your-films-easy-to-use-mov-player-software/"><u>Freely Stream Your Films  Easy-to-Use MOV PLAYER Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/giggle-graph-meme-trends-by-occasion-type/"><u>Giggle Graph  Meme Trends by Occasion Type</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-crop-image-online/"><u>How To Crop Image Online?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-audioadvisor-dacast-and-what-it-should-be/"><u>In 2024, AudioAdvisor  DaCast & What It Should Be</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovating-connectivity-the-moto-z2-reviewed/"><u>Innovating Connectivity  The Moto Z2 Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/inside-look-magix-video-pro-x/"><u>Inside Look  Magix Video Pro X</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leveraging-vlc-media-player-for-remote-streaming/"><u>Leveraging VLC Media Player for Remote Streaming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/personalized-and-no-cost-ending-music-samples-available/"><u>Personalized & No-Cost Ending Music Samples Available</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premier-promises-the-art-of-the-podcast-prelude/"><u>Premier Promises  The Art of the Podcast Prelude</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pro-convertors-guide-top-10-online-free-transformers-listed/"><u>Pro Convertors Guide  Top 10 Online, Free Transformers Listed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sculpting-soft-amplitude-in-fl-studio-tracks/"><u>Sculpting Soft Amplitude in FL Studio Tracks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/secure-your-shots-above-all-unlimited-free-options-and-premium-subscription-picks/"><u>Secure Your Shots Above All  Unlimited Free Options & Premium Subscription Picks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-impact-of-weather-on-syma-x8c-performance/"><u>The Impact of Weather on Syma X8C Performance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-live-setting-picks/"><u>Ultimate Live Setting Picks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/video-editing-apps-to-streamline-your-post-production/"><u>Video Editing Apps to Streamline Your Post-Production</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/who-takes-the-crown-in-free-video-playback-vlc-vs-mpc/"><u>Who Takes the Crown in Free Video Playback? VLC Vs. MPC</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide to Premium Extensions"
-date: 2024-05-24T03:17:50.377Z
-updated: 2024-05-25T03:17:50.377Z
+date: 2024-07-25T01:10:07.709Z
+updated: 2024-07-26T01:10:07.709Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "This Article Describes Essential Guide to Premium Extensions"
 excerpt: "This Article Describes Essential Guide to Premium Extensions"
 keywords: "\"Premium Extensions Basics,Quality Extension Tips,Upgrade with Premium Exts,Extend with Top Choices,High-End Extension Guide,Selecting Best Exts,Elite Extension Options\""
-thumbnail: https://www.lifewire.com/thmb/5RTbarRW5EYz-SZovd7jyZM6TIY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/update-3362089_1920-e52cc32797cc4803ab2f51a0139e4875.jpg
+thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0d30358349d319e43f0bdaa3.jpg
 ---
 
 ## Essential Guide to Premium Extensions
 
 Adobe After Effects remains one of the most powerful ways to edit videos. One of the main reasons users find it so useful is the ability to customize the video editing process by adding different kinds of plugins to the program. If you are looking to add unique and fancy text to the video you are working on, then these text plugins for After Effects will come in handy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## TextDelay
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Ftextdelay/>
@@ -28,6 +31,9 @@ TextDelay is a native plugin, meaning that you will find it already installed on
 
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## TextExploder
 
 Link: <https://aescripts.com/textexploder/>
@@ -36,6 +42,9 @@ TextExploder is an After Effects plugin that is developed by MamoWorld and it al
 
 ![text exploder plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-exploder-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## iExpressions 2
 
 Link: <https://aescripts.com/iexpressions/>
@@ -50,6 +59,10 @@ Link: <https://aescripts.com/textbox/>
 
 If you want to create the perfect shape behind your text, then TextBox is a good text plugin to consider. This is a native After Effects plugin, meaning that you will not need to install it and the shapes it creates can be very easily customized. It updates the shapes you create automatically and adds them to the text layer, making it the most ideal solution to create closed captions, lower thirds, and subtitles.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
 
 ## Font Manager
@@ -58,20 +71,36 @@ Link: <https://aescripts.com/font-manager/>
 
 Font Manager is an After Effects text plugin that is useful when creating and working with animated typefaces. You can use it to create the most complex animated text graphics in just a few simple clicks. You will also find it very familiar to use as the user interface is similar to the Character Panel in After Effects.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## Cartoon Moblur
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Fcartoon%5Fmoblur>
 
 This is the most ideal plugin to choose when you want to add motion trail to the graphics in your video, but you want them to appear very cartoony. If you have used the motion blur effect in After Effects, Cartoon Moblur will behave in a similar function, but it is more suited to 2D, flat or minimal graphics. Some of the factors that you can customize include the length of the blur (shutter angle), color, and opacity.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cartoon moblur plugin](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-moblur-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Shadow Studio
 
 If you are looking for shadow styles that will go very well with your project, Shadow Studio is a good plugin to get. It offers you a wide variety of shadow styles including radial, inner, soft, and long shadows. Most people find it an easier and more affordable way to add soft shadows as compared to traditional methods like raytracing. It is also quite easy to use, meaning that shadow effects that would take hours to complete can be done in a matter of minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
 
 ## Texts Animation Bundle
@@ -90,6 +119,9 @@ The Artificial Intelligence Titles is an After Effects text plugin that is desig
 
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Text Library
 
 Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
@@ -132,3 +164,32 @@ On its own After Effects comes with so many post-production effects and features
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-15plus-destinations-for-cost-free-imagery-harvesting/"><u>[New] 15+ Destinations for Cost-Free Imagery Harvesting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-analyzing-time-of-playback-in-a-20mb-film/"><u>[New] Analyzing Time of Playback in a 20Mb Film</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-action-hunting-cameras-of-2023/"><u>[New] Best Action Hunting Cameras of 2023</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-chill-vibes-at-the-beijing-winter-olympics-2022/"><u>[New] Chill Vibes at the Beijing Winter Olympics 2022</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-cinematic-brilliance-mastering-video-lighting-techniques/"><u>[Updated] Cinematic Brilliance  Mastering Video Lighting Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-create-edges-of-images-with-rotational-softness-blend-psx/"><u>[Updated] Create Edges of Images with Rotational Softness Blend PSX</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-chilly-competition-unveiling-highlights-of-2022s-snowboard-cross-showdown/"><u>2024 Approved  Chilly Competition  Unveiling Highlights of 2022'S Snowboard Cross Showdown</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-commercial-ventures-enhanced-by-virtual-engineering/"><u>2024 Approved  Commercial Ventures Enhanced by Virtual Engineering</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-complete-survey-lightroom-app-unpacked-android/"><u>2024 Approved  Complete Survey  Lightroom App Unpacked (Android)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/achieve-proficiency-in-audio-upload-with-google-for-2024/"><u>Achieve Proficiency in Audio Upload with Google for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/building-endorsements-strategically/"><u>Building Endorsements Strategically</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/clear-and-bright-optimizing-visuals-in-zoom-calls-for-2024/"><u>Clear and Bright  Optimizing Visuals in Zoom Calls for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cloud-consortium-choices-best-spaces-revealed/"><u>Cloud Consortium Choices  Best Spaces Revealed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/complete-analysis-breaking-down-the-google-podcast-app-for-2024/"><u>Complete Analysis  Breaking Down the Google Podcast App for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehending-drone-systems-mechanics-and-applications-explained-for-2024/"><u>Comprehending Drone Systems  Mechanics and Applications Explained for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-visuals-with-these-top-pixlr-tips/"><u>Elevate Visuals with These Top Pixlr Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/everything-you-need-to-know-before-upgrading/"><u>Everything You Need To Know Before Upgrading</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-analyzing-the-features-of-vegaspros-latest-release/"><u>In 2024, Analyzing the Features of VegasPro's Latest Release</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-compelling-narratives-with-wmm-and-animation-techniques/"><u>In 2024, Crafting Compelling Narratives with WMM and Animation Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/microsoft-azure-unlocking-speech-to-text-potential/"><u>Microsoft Azure  Unlocking Speech-to-Text Potential</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfect-flying-companions-the-top-kids-drones/"><u>Perfect Flying Companions  The Top Kids' Drones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/phantom-camera-control-series/"><u>Phantom Camera Control Series</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/shield-identity-in-images-the-most-effective-cropping-tools/"><u>Shield Identity in Images  The Most Effective Cropping Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/understanding-periscope-features-pricing-and-how-to-join/"><u>Understanding Periscope  Features, Pricing & How To Join</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-the-secrets-of-advanced-virtualization/"><u>Unlocking the Secrets of Advanced Virtualization</u></a></li>
+</ul></div>

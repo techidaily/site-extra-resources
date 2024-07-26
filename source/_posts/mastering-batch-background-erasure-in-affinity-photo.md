@@ -1,7 +1,7 @@
 ---
 title: "Mastering Batch Background Erasure in Affinity Photo"
-date: 2024-05-24T03:16:35.408Z
-updated: 2024-05-25T03:16:35.408Z
+date: 2024-07-25T01:09:09.783Z
+updated: 2024-07-26T01:09:09.783Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Mastering Batch Background Erasure in Affinity Photo"
 excerpt: "This Article Describes Mastering Batch Background Erasure in Affinity Photo"
 keywords: "\"Photo Erase Tech,Easy Photo Blur,Digital Shutter Silence,Clearer Imagery,Noise-Free Pictures,Quick Background Wipe,HDR Erase Method\""
-thumbnail: https://www.lifewire.com/thmb/R2EAcV3wZUv2LpJtJ6Pbo23Xsuk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-752179111-e4cc13e6bc184d0cb0ccfca448ce9aa0.jpg
+thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5dbda3843a3191dbeadf76d9d.jpg
 ---
 
 ## Mastering Batch Background Erasure in Affinity Photo
@@ -22,6 +22,9 @@ Affinity Photo is an image editor developed by Serif Ltd. in 2009 and is used by
 
 No matter you are a professional content creator or a newbie, we'll be discussing how to remove background in Affinity Photo. Let's explore how to use the good editing tool to be free of the stressful editing process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## How to Remove Affinity Photo to Remove Image's Background
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
@@ -38,6 +41,9 @@ Now access the **Pixel Persona** section in the left corner of the software scre
 
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
@@ -50,12 +56,19 @@ Step4 Next, zoom in on your subject. Press & hold the ALT key on your keyboard, 
 
 Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** menu. A red mask will be applied to your subject, giving you an idea of how your image will look once you remove the background. Zoom in and if any details are excluded, paint them over. Once you are satisfied, click **"Apply"** to save your changes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![refining the outline around the image to remove background in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/refining-the-outline-around-the-image-to-remove-background-in-affinity-designer.png)
 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Remove a Busy Background in Affinity Designer
 
 If you want to remove a busy background of an image in the Affinity Designer software, follow these steps carefully:
@@ -109,6 +122,9 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article discusses **removing a background in Affinity Photo**, whether the image has a white or a busy BG.
@@ -119,12 +135,18 @@ And if you have any interests in finding free images to expand your resource, yo
 
 Hopefully, this article and video can help you create ideal images!
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
@@ -177,3 +199,31 @@ Hopefully, this article and video can help you create ideal images!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-avoiding-the-overflow-how-to-edit-your-pile-up-of-tiktok-drafts/"><u>[New] Avoiding the Overflow  How to Edit Your Pile-Up of TikTok Drafts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-beats-and-brilliance-creating-soundtracked-instagram-feeds/"><u>[New] Beats & Brilliance  Creating Soundtracked Instagram Feeds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-comprehensive-breakdown-unleash-the-potential-with-magix-vpx/"><u>[Updated] A Comprehensive Breakdown  Unleash the Potential with Magix VPX</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-microphone-combinations-for-superior-4k-audio-and-visuals/"><u>2024 Approved  Best Microphone Combinations for Superior 4K Audio and Visuals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-every-view-not-just-a-flat-slice-of-reality/"><u>2024 Approved  Capturing Every View, Not Just a Flat Slice of Reality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-charting-the-course-visual-content-in-educational-endeavors/"><u>2024 Approved  Charting the Course  Visual Content in Educational Endeavors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/at-the-helm-of-augmented-perception-tools-for-2024/"><u>At the Helm of Augmented Perception Tools for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/clear-cut-strategies-for-watermark-free-photography/"><u>Clear-Cut Strategies for Watermark-Free Photography</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/economical-airborne-companions-ultra-low-priced-drones/"><u>Economical Airborne Companions  Ultra-Low Priced Drones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/editmaster-insights-extensive-coverage/"><u>EditMaster Insights – Extensive Coverage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essentials-of-film-color-enhancement/"><u>Essentials of Film Color Enhancement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/excellence-in-film-gear-2024s-picks/"><u>Excellence in Film Gear  2024'S Picks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-the-high-fidelity-world-of-samsungs-4k-s8/"><u>Exploring the High-Fidelity World of Samsung's 4K S8</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-audioarchitects-building-without-dacast/"><u>In 2024, AudioArchitects  Building Without DaCast</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-compensated-analysis-the-vlog-perspective-on-goods/"><u>In 2024, Compensated Analysis  The Vlog Perspective on Goods?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/metaverse-vs-multimetaverse-key-distinctions-and-comparison/"><u>Metaverse Vs. Multimetaverse  Key Distinctions and Comparison</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigate-network-needs-skilled-approaches-to-file-movement-on-computer/"><u>Navigate Network Needs  Skilled Approaches to File Movement on Computer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-professional-lands-cooked-by-audacity/"><u>Navigating the Professional Lands Cooked by Audacity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/online-jest-builder/"><u>Online Jest Builder</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revamp-your-chat-audio-experience-with-a-personalized-whatsapp-ringtone/"><u>Revamp Your Chat Audio Experience with a Personalized WhatsApp Ringtone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/songsyncing-simplified-your-guide-to-turning-tamil-music-into-alerts/"><u>SongSyncing Simplified  Your Guide to Turning Tamil Music Into Alerts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-into-windows-xp-a-filmmakers-companion/"><u>Step Into Windows XP  A Filmmaker's Companion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/time-honored-vhs-hacks-a-curators-choice-of-visual-tricks/"><u>Time-Honored VHS Hacks  A Curator’s Choice of Visual Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/windows-hdri-a-users-editing-handbook/"><u>Windows HDRI  A User’s Editing Handbook</u></a></li>
+</ul></div>

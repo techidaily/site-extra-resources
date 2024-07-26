@@ -1,7 +1,7 @@
 ---
 title: "\"From Locked Archives to Layman's Subtitles  The Zip To Srt Method\""
-date: 2024-05-24T04:33:40.877Z
-updated: 2024-05-25T04:33:40.877Z
+date: 2024-07-25T03:32:35.921Z
+updated: 2024-07-26T03:32:35.921Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes From Locked Archives to Layman's Subtitles: The Zip To Srt Method\""
 excerpt: "\"This Article Describes From Locked Archives to Layman's Subtitles: The Zip To Srt Method\""
 keywords: "From Archives To Subtitles,Zip To SRT Conversion,Archive Translation Tool,Simple SRT Creation,Layman's Video Captions,Zip File Subtitle Maker,Easy Srt From Locked Files"
-thumbnail: https://www.lifewire.com/thmb/ffNLpc-c3s41hXlKLIHluWIm158=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed3-811dc04ac827434a8a7e6390258c8ae1.png
+thumbnail: https://thmb.techidaily.com/b4646e6c7dd57e63be8305e5fc613622e6d7e19134ef2ba8ba5fe989f296bf0b.png
 ---
 
 ## From Locked Archives to Layman's Subtitles: The Zip To Srt Method
@@ -40,10 +40,16 @@ Step1 Open File Explorer on your PC and locate the .zip file that contains .srt.
 
 Step2 Right-click on the ZIP file and select ‘Extract All’ from the pop-up list. By doing so, the zip wizard will appear.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select extract all](https://images.wondershare.com/filmora/article-images/2022/07/extract-srt-from-zip-file-1.jpg)
 
 Step3 Now, click on ‘Browse’ and select the location where you want to save the folder. Then, hit the ‘Extract’ button to unzip the archive and save the file to the folder you select.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![click on browse](https://images.wondershare.com/filmora/article-images/2022/07/extract-srt-from-zip-file-2.jpg)
 
 ## Part 3: How to Get SRT file in a Zip File with zip-to-srt Online Converters
@@ -56,6 +62,9 @@ Step1 Open [Ezyzip](https://www.ezyzip.com/convert-zip-to-srt.html) on your comp
 
 Step2 Click on 'Select zip file to convert' and upload the zip file that contains the SRT file that you intend to extract. You can also drag-n-drop the file to Ezyzip.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![click on select zip file to convert](https://images.wondershare.com/filmora/article-images/2022/07/extract-srt-from-zip-file-3.jpg)
 
 Step3 Once you upload the ZIP, the tool will instantly list all SRT files in the ZIP archive.
@@ -78,6 +87,9 @@ Step2 Browse and locate the ZIP file that you want to extract SRT from.
 
 Step3 Tap on the ZIP file to preview its content. Then tap ‘Extract’ to extract the SRT files in the ZIP file.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![tap extract to extract srt files](https://images.wondershare.com/filmora/article-images/2022/07/extract-srt-from-zip-file-5.jpg)
 
 Step4 Finally, tap on ‘Done’ to complete the process.
@@ -94,6 +106,9 @@ Step2 Hold down the ZIP file and select ‘Quick Look’ from the pop-up list > 
 
 Step3 Now, locate the SRT file and use the Share icon at the bottom left corner of your screen to save it to your device. You can open the SRT file afterward!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![save srt file](https://images.wondershare.com/filmora/article-images/2022/07/extract-srt-from-zip-file-7.jpg)
 
 ## Part 5: The Best Way to Edit SRT Subtitles After Extracting them in a Zip
@@ -113,6 +128,9 @@ The software is very straightforward to utilize, and another excellent thing is 
 * Boasts a very clean interface that makes it easy to operate by all users.
 * Lightweight software and it doesn't compromise computer functionality.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Edit SRT with Filmora Software
 
 Firstly, make sure you've downloaded and installed I've [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) software on your computer.
@@ -125,10 +143,25 @@ Step2 Use the ‘Import’ button to upload fbe SRT file on your computer or jus
 
 Step3 Move the SRT file to the Timeline and right-click it > select ‘Advanced Edit’.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![select advanced edit](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-srt-with-filmora-2.jpg)
 
 Step4 Edit the SRT file according to your requirements. You can edit time.code, change subtitles, and do lots more.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit srt file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-srt-with-filmora-3.jpg)
 
 Step5 After you've completed the editing process, right-click on the ‘SRT’ file from the timeline. Then, choose ‘Export Subtitle File’ from the pop-up list and save it the SRT file to a preferred location on your computer.
@@ -147,6 +180,9 @@ The main reason why .srt subtitle files of a movie are provided in zip files is 
 
 Since you now understand that it's impossible to convert .zip to .srt, the big question is how do you get SRT file out of ZIP? Well, read on to find an answer.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Get SRT file in a Zip File without software
 
 There are several reasons ways to get SRT file in a Zip file, and amazingly, you can do so without software. Yes, all you just have to do is to unzip the zip file and extract the SRT file itself.
@@ -157,12 +193,30 @@ Step1 Open File Explorer on your PC and locate the .zip file that contains .srt.
 
 Step2 Right-click on the ZIP file and select ‘Extract All’ from the pop-up list. By doing so, the zip wizard will appear.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select extract all](https://images.wondershare.com/filmora/article-images/2022/07/extract-srt-from-zip-file-1.jpg)
 
 Step3 Now, click on ‘Browse’ and select the location where you want to save the folder. Then, hit the ‘Extract’ button to unzip the archive and save the file to the folder you select.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on browse](https://images.wondershare.com/filmora/article-images/2022/07/extract-srt-from-zip-file-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: How to Get SRT file in a Zip File with zip-to-srt Online Converters
 
 If you don't want to go through the process of unzipping the ZIP file that contains your .srt file yourself, you can employ a zip to srt line converter to help you perform the operation quickly and easily.
@@ -179,6 +233,9 @@ Step3 Once you upload the ZIP, the tool will instantly list all SRT files in the
 
 Step4 Finally, hit the ‘Save’ button right in front of the SRT file to save the individual SRT to your local drive or you can just use the ‘Save All’ button to save the files as a folder.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hit save button](https://images.wondershare.com/filmora/article-images/2022/07/extract-srt-from-zip-file-4.jpg)
 
 ## Part 4: How to Extract SRT file in a Zip File on Android or Ios
@@ -195,6 +252,14 @@ Step2 Browse and locate the ZIP file that you want to extract SRT from.
 
 Step3 Tap on the ZIP file to preview its content. Then tap ‘Extract’ to extract the SRT files in the ZIP file.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![tap extract to extract srt files](https://images.wondershare.com/filmora/article-images/2022/07/extract-srt-from-zip-file-5.jpg)
 
 Step4 Finally, tap on ‘Done’ to complete the process.
@@ -211,6 +276,10 @@ Step2 Hold down the ZIP file and select ‘Quick Look’ from the pop-up list > 
 
 Step3 Now, locate the SRT file and use the Share icon at the bottom left corner of your screen to save it to your device. You can open the SRT file afterward!
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![save srt file](https://images.wondershare.com/filmora/article-images/2022/07/extract-srt-from-zip-file-7.jpg)
 
 ## Part 5: The Best Way to Edit SRT Subtitles After Extracting them in a Zip
@@ -230,6 +299,9 @@ The software is very straightforward to utilize, and another excellent thing is 
 * Boasts a very clean interface that makes it easy to operate by all users.
 * Lightweight software and it doesn't compromise computer functionality.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Edit SRT with Filmora Software
 
 Firstly, make sure you've downloaded and installed I've [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) software on your computer.
@@ -282,3 +354,43 @@ The article above has covered everything about converting zip to srt with or wit
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-9-quick-fixes-for-safaris-disrupted-streaming/"><u>[New] 9 Quick Fixes for Safari's Disrupted Streaming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-adapt-video-dimensions-anytime-anywhere/"><u>[New] Adapt Video Dimensions Anytime, Anywhere</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-bypassing-common-drone-mistakes-with-this-essential-checklist/"><u>[New] Bypassing Common Drone Mistakes with This Essential Checklist</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-chic-and-stylish-beauty-videos/"><u>[Updated] Chic and Stylish Beauty Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-corporate-crown-best-cloud-keepers/"><u>[Updated] Corporate Crown  Best Cloud Keepers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-2020s-windows-updates-a-quick-overview/"><u>2024 Approved  2020'S Windows Updates  A Quick Overview</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-guide-to-free-access-of-c-spans-broadcasted-content/"><u>2024 Approved  A Guide to Free Access of C-Span's Broadcasted Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-androids-top-podcast-apps-showdown-6-innovators-revealed/"><u>2024 Approved  Android's Top Podcast Apps Showdown  6 Innovators Revealed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beyond-the-norm-a-review-of-the-4kcg318-display-by-eizo/"><u>2024 Approved  Beyond the Norm  A Review of the 4KCG318 Display by EIZO</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-cinema-in-your-palm-three-cost-effective-techniques-to-blend-beats-and-videos-on-iphone/"><u>2024 Approved  Cinema in Your Palm – Three Cost-Effective Techniques to Blend Beats and Videos on iPhone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-compact-cost-effective-spherical-video-capture-systems/"><u>2024 Approved  Compact, Cost-Effective Spherical Video Capture Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-memes-with-ease-top-7-tools-unveiled/"><u>2024 Approved  Crafting Memes with Ease  Top 7 Tools Unveiled</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-4k-odyssey-begins-here-exploring-the-eizo-cg318-4k-monitor-for-2024/"><u>A 4K Odyssey Begins Here – Exploring the EIZO CG318-4K Monitor for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/amplify-your-youtube-audience-three-livestream-strategies/"><u>Amplify Your YouTube Audience  Three Livestream Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoiding-shaky-drone-imagery-with-top-tier-gimbals-for-2024/"><u>Avoiding Shaky Drone Imagery with Top-Tier Gimbals for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-cloud-storage-apps-for-android-2024-rankings/"><u>Best-Cloud-Storage-Apps-for-Android-2024-Rankings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-and-conquer-mastering-visual-storytelling-for-2024/"><u>Capture and Conquer  Mastering Visual Storytelling for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creating-spiritual-ringtone-options-free-downloads-explained/"><u>Creating Spiritual Ringtone Options  Free Downloads Explained</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/direct-effortlessness-in-podcast-transmissions/"><u>Direct Effortlessness in Podcast Transmissions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-essentials-the-ultimate-collection-of-cardboard-vr-games/"><u>Elite Essentials  The Ultimate Collection of Cardboard VR Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhance-your-footage-the-top-15-luts-for-gopro-videos/"><u>Enhance Your Footage  The Top 15 LUTs for GoPro Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-silence-to-symphony-adding-audio-elements-to-instareels/"><u>From Silence to Symphony  Adding Audio Elements to InstaReels</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-create-a-successful-live-stream/"><u>How to Create A Successful Live Stream</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-extract-audio-from-tweets-and-save-as-mp3s/"><u>How to Extract Audio From Tweets and Save as MP3s</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-androids-top-choice-does-pickup-beat-other-photo-editors/"><u>In 2024, Android's Top Choice  Does PickUp Beat Other Photo Editors?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-apple-melodies-enhancing-visual-storytelling/"><u>In 2024, Apple Melodies Enhancing Visual Storytelling</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-metaverse-adventures-to-share-with-pals/"><u>In 2024, Best Metaverse Adventures to Share with Pals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-beyond-reality-jaunt-vr-breakdown/"><u>In 2024, Beyond Reality  Jaunt VR Breakdown</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-tiktok-audio-crafting-it-as-your-perfect-ringtone/"><u>Mastering TikTok Audio  Crafting It as Your Perfect Ringtone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/summit-series-of-ultimate-4k-touch-screens/"><u>Summit Series of Ultimate 4K Touch Screens</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essential-guide-to-video-hue-correction-11-steps/"><u>The Essential Guide to Video Hue Correction (11 Steps)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-vanguard-of-virtual-storage-top-choices/"><u>The Vanguard of Virtual Storage  Top Choices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tips-for-dynamic-animations-using-movie-maker/"><u>Tips for Dynamic Animations Using Movie Maker</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transforming-ordinary-sessions-into-visual-extravaganzas-in-zoom/"><u>Transforming Ordinary Sessions Into Visual Extravaganzas in Zoom</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-list-of-quick-pace-audio-apps/"><u>Ultimate List of Quick-Pace Audio Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/zenith-of-races-olympic-x-snow-highlights/"><u>Zenith of Races - Olympic X-Snow Highlights</u></a></li>
+</ul></div>

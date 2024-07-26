@@ -1,7 +1,7 @@
 ---
 title: "\"YI's High-Res Action Recorder  A Deep Dive Review\""
-date: 2024-05-24T04:51:00.986Z
-updated: 2024-05-25T04:51:00.986Z
+date: 2024-07-25T04:06:28.401Z
+updated: 2024-07-26T04:06:28.401Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes YI's High-Res Action Recorder: A Deep Dive Review\""
 excerpt: "\"This Article Describes YI's High-Res Action Recorder: A Deep Dive Review\""
 keywords: "\"Yi Action Recorder HD,High Res Video Capture,Yi Action Cam Test,In-Depth YI Recorder,Pro Action Record HD,Deep Dive Camera Review,Advanced YI Recorder Features\""
-thumbnail: https://www.lifewire.com/thmb/Um8hBcjRvx1rjVH1wzKXGuOrrZU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/OnePlus12R-6ad235dd079f49769ee85f0ce837c606.jpeg
+thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122bf6da59a50363496db13c6d.jpeg
 ---
 
 ## YI's High-Res Action Recorder: A Deep Dive Review
 
 # YI 4K Action Camera Review
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -39,6 +42,9 @@ thumbnail: https://www.lifewire.com/thmb/Um8hBcjRvx1rjVH1wzKXGuOrrZU=/400x300/fi
 
  Let us start with the hardware part. Yi 4k looks almost same as that of GoPro device, even the waterproof case appears somewhat like GoPro product. Some resemblance is found in mobile applications as well as in mounting systems. The front side of Yi 4k is equipped with a lens and LED that provides current camera status indication. The 2.2 inch wide LCD screen is protected with Gorilla Glass whereas on top portion you will find holes for speaker and dual microphone. On the right side, a small flap is covering MicroUSB charging port and the left side is left bare.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![yi-4k-product](https://images.wondershare.com/filmora/article-images/yi-4k-product.jpg)
 
 #### Specifications
@@ -73,6 +79,9 @@ thumbnail: https://www.lifewire.com/thmb/Um8hBcjRvx1rjVH1wzKXGuOrrZU=/400x300/fi
 
  Want to know more about the best accessories for Xiaomi Yi 4K action camera? Check [Best Accessories for YI 4K Action Camera in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![yi-4k-unboxing-](https://images.wondershare.com/filmora/article-images/yi-4k-unboxing-.jpg)
 
 #### Features
@@ -260,6 +269,9 @@ Follow @Max Wales
 
 **You may also like:** [Top 15 Best Action Cameras >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Complete Review for Yi 4k Action Camera
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01FU9ZIMU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FU9ZIMU&linkId=8ffea9b2da130000b205cf9367ce3ccf
@@ -303,6 +315,9 @@ Follow @Max Wales
 
  Want to know more about the best accessories for Xiaomi Yi 4K action camera? Check [Best Accessories for YI 4K Action Camera in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![yi-4k-unboxing-](https://images.wondershare.com/filmora/article-images/yi-4k-unboxing-.jpg)
 
 #### Features
@@ -359,6 +374,9 @@ Follow @Max Wales
 
  Need more information?[Check GoPro Hero5 Black vs Xiaomi Yi 4K Action Camera](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -384,6 +402,9 @@ Follow @Max Wales
 
  Let us start with the hardware part. Yi 4k looks almost same as that of GoPro device, even the waterproof case appears somewhat like GoPro product. Some resemblance is found in mobile applications as well as in mounting systems. The front side of Yi 4k is equipped with a lens and LED that provides current camera status indication. The 2.2 inch wide LCD screen is protected with Gorilla Glass whereas on top portion you will find holes for speaker and dual microphone. On the right side, a small flap is covering MicroUSB charging port and the left side is left bare.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![yi-4k-product](https://images.wondershare.com/filmora/article-images/yi-4k-product.jpg)
 
 #### Specifications
@@ -474,6 +495,9 @@ Follow @Max Wales
 
  Need more information?[Check GoPro Hero5 Black vs Xiaomi Yi 4K Action Camera](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -506,3 +530,35 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/1-general-trivia-challenge-web-series/"><u>1 General Trivia Challenge Web Series</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/11-easy-to-produce-vlog-projects-at-home/"><u>11 Easy-to-Produce Vlog Projects at Home</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/15-best-cine-luts-for-gopro-action-cam/"><u>15 Best Cine LUTs for Gopro Action Cam</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-step-by-step-pathway-to-adding-sound-in-adobe-premiere/"><u>2024 Approved  A Step-by-Step Pathway to Adding Sound in Adobe Premiere</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-aerial-drone-transformation-trial-with-first-20-free-lutts/"><u>2024 Approved  Aerial Drone Transformation - Trial with First 20 FREE LUTTs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-audio-recording-mastery-in-windows-10-part-2/"><u>2024 Approved  Audio Recording Mastery in Windows 10, Part 2</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-auditory-dramaturgy-at-its-peak/"><u>2024 Approved  Auditory Dramaturgy at Its Peak</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-avoiding-common-mistakes-in-macos-mixer-streaming/"><u>2024 Approved  Avoiding Common Mistakes in MacOS Mixer Streaming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-drone-buys-the-top-5-pro-picks/"><u>2024 Approved  Best Drone Buys - The Top 5 Pro Picks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-humor-picture-processor/"><u>2024 Approved  Best Humor Picture Processor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-platforms-maximizing-your-youtube-reach/"><u>2024 Approved  Best Platforms  Maximizing Your YouTube Reach</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-blur-no-more-top-10-web-photo-sharpening-apps/"><u>2024 Approved  Blur No More! Top 10 Web Photo Sharpening Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-boost-your-media-creation-skills-a-detailed-walkthrough-of-movie-maker-on-windows-8/"><u>2024 Approved  Boost Your Media Creation Skills  A Detailed Walkthrough of Movie Maker on Windows 8</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-bridging-the-gap-enhancing-your-edits-with-inshot-transitions/"><u>2024 Approved  Bridging the Gap  Enhancing Your Edits with Inshot Transitions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-budget-aerial-photography-top-100-drones-compared/"><u>2024 Approved  Budget Aerial Photography  Top $100 Drones Compared</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-building-a-professional-online-network-hub/"><u>2024 Approved  Building a Professional Online Network Hub</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-choose-wisely-top-10-expert-picked-gopro-housing/"><u>2024 Approved  Choose Wisely  Top 10 Expert-Picked GoPro Housing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-chorus-of-chats-music-infusion-in-whatsapp/"><u>2024 Approved  Chorus of Chats  Music Infusion in WhatsApp</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-controlling-video-flow-on-your-screens-window-netflix/"><u>2024 Approved  Controlling Video Flow on Your Screen's Window (Netflix)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-visual-dynamics-illustrator-motion-blur-tips/"><u>2024 Approved  Crafting Visual Dynamics  Illustrator Motion Blur Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/7-best-monitors-for-photo-editing-worth-trying/"><u>7 Best Monitors for Photo Editing Worth Trying</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/accessing-zoom-directly-from-google-mail-interface/"><u>Accessing Zoom Directly From Google Mail Interface</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/affordable-high-definition-top-mirrorless-cameras-(1k-for-2024/"><u>Affordable High-Definition  Top Mirrorless Cameras (<$1K) for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/androids-photography-hub-is-pickup-at-the-top-of-its-class-for-2024/"><u>Android's Photography Hub  Is PickUp at the Top of Its Class for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/apple-macbook-air-vs-pro-which-m1-laptop-is-better/"><u>Apple MacBook Air Vs. Pro  Which M1 Laptop Is Better?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/awaken-your-inner-warrior-with-these-films/"><u>Awaken Your Inner Warrior with These Films</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-productivity-on-your-mac-an-overview-of-great-tts-apps-for-2024/"><u>Boost Productivity on Your Mac  An Overview of Great TTS Apps for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-story-impact-with-customized-video-speed-settings/"><u>Boost Story Impact with Customized Video Speed Settings</u></a></li>
+</ul></div>

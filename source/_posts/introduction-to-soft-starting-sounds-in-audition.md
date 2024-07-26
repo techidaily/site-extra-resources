@@ -1,7 +1,7 @@
 ---
 title: "\"Introduction to Soft-Starting Sounds in Audition\""
-date: 2024-05-24T03:19:50.423Z
-updated: 2024-05-25T03:19:50.423Z
+date: 2024-07-25T01:12:00.643Z
+updated: 2024-07-26T01:12:00.643Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Introduction to Soft-Starting Sounds in Audition\""
 excerpt: "\"This Article Describes Introduction to Soft-Starting Sounds in Audition\""
 keywords: "Audit Sound Introduction,Soft Start Sounds,Audio Preview Basics,Gradual Volume Increase,Calm Audio Onset,Gentle Sounding Beginnings,Subtle Volume Rise"
-thumbnail: https://www.lifewire.com/thmb/6cfWgGiacV0hIPesk10niWAAjo8=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/Streaming_GettyImages-1317927924_grinvalds_CROPPED-71ab52546b8b477ca2c0788bc26d150f.jpg
+thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066afd0af7e2373c813aa6b6f85.jpg
 ---
 
 ## Introduction to Soft-Starting Sounds in Audition
@@ -28,6 +28,9 @@ The multitrack view includes a comprehensive set of non-destructive editing tool
 
 Consider adjusting the level of a clip to create it more audible. In audio transitions, fading is widely used. With Fade it, the sound begins silently and slowly increases to full volume. With Adobe audition fade out, the audio begins at full volume and slightly declines to silence.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start adobe audition audio edit](https://images.wondershare.com/filmora/article-images/2022/08/start-adobe-audition-audio-edit_.jpg)
 
 If you have audio that starts quite abruptly and you'd like to add a fade, Audition makes this very easy. Here are some steps to follow:
@@ -35,12 +38,18 @@ If you have audio that starts quite abruptly and you'd like to add a fade, Audit
 * First, you have to do successful installation completion of Adobe Audition software.
 * Open Adobe Audition and then opt for the selection of your desired audio file. You will notice that where it is dark, you will get a square broken into 2 triangles, one at the top left and one at the top right.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![2 triangles square](https://images.wondershare.com/filmora/article-images/2022/08/2-triangles-square.jpg)
 
 * Now, if you point these out, you will spot them on every piece of audio you open and if you hover the mouse over that, the left one is called Fade In. The right one is Fade Out.
 * Now, if you pull the Heads-Up Display out of the way and click and then drag right on the icon, you will see a fade in there which is a little bit longer than you need.
 * If you go up to your Effects menu and go to your Amplitude and Compression section, you have got a Fade Envelope and a Gain Envelope.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![amplitude and compression adobe audition](https://images.wondershare.com/filmora/article-images/2022/08/amplitude-and-compression-adobe-audition.jpg)
 
 * Now, if you choose Fade Envelope and of course, it is giving you the fade right the way through the audio. It will adjust for you and this is based on a Smooth Fade In.
@@ -51,6 +60,9 @@ If you have audio that starts quite abruptly and you'd like to add a fade, Audit
 * If you click on this yellow line, you can drag it in situ and reshape it any way you want and you can create any kind of stepped fade you want.
 * If you go back into your effects, go back into Amplitude and Compression and this time, Choose Gain envelope. Now, you will get the yellow line flowing right the way through the audio.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![gain envelop adobe audition](https://images.wondershare.com/filmora/article-images/2022/08/gain-envelop-adobe-audition.jpg)
 
 * Now exactly, in the same way, you can go in and begin to make adjustments. Now, when you make a selection here, Audition compresses your adjustments into that selected region. You will need to be a little careful about that when working with these effects. So, you can add fades very easily at any time by clicking on the handles at the top right and left of Waveform Display, or you can use dedicated effects for the purpose.
@@ -70,6 +82,9 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 * First, do the installation of Filmora software from the home screen and set the default procedure for a successful installation, and then open it. Now, to your timeline, add your desired audio file, and then, opt for double-clicking on the same for opening the Audio editing menu.
 * Drag the sliders and set fade-in along with fade-out effects.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set effects](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 * There is an alternative to this. You may opt for the selection of fade icons that is on the left and/or right side of the waveform portion so you are able to fade in and/or fade out faster.
@@ -78,14 +93,23 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 
 ## Part 3\. Related FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. How do you fade in multitrack in Audition?
 
 If you want to fade in and fade out two clips at the same time, then controlling just one track or multiple tracks will allow you to do fades on multiple audios inside the multitrack in Adobe Audition.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. How do you do a master fade in Audition?
 
 Select the option of amplifying the effects i.e., amplitude and compression. Do the necessary adjustments there. Then, go to effects and click on Special, and from there, select Mastering.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Adobe Audition fade-out greyed out?
 
 Fade-in and fade-out options are available in the top-left and right corners of the waveform. Right-clicking in the project panel will produce no ability to work in the audition. That option is called grey out. Whatever you want to look for won't work in this view.
@@ -117,6 +141,9 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 
 If you want to fade in and fade out two clips at the same time, then controlling just one track or multiple tracks will allow you to do fades on multiple audios inside the multitrack in Adobe Audition.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. How do you do a master fade in Audition?
 
 Select the option of amplifying the effects i.e., amplitude and compression. Do the necessary adjustments there. Then, go to effects and click on Special, and from there, select Mastering.
@@ -125,6 +152,9 @@ Select the option of amplifying the effects i.e., amplitude and compression. Do 
 
 Fade-in and fade-out options are available in the top-left and right corners of the waveform. Right-clicking in the project panel will produce no ability to work in the audition. That option is called grey out. Whatever you want to look for won't work in this view.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Adobe Audition has always been a powerful platform for audio editing. But as every coin has its two faces so is the case with this also. Due to the expensive price of a monthly subscription, not everyone will be able to use this and get the benefits from using this. Though if you want to excel in audio editing, you should go for a subscription. If you are doing podcasting or video editing and looking for a complementary product for your projects, Audition is a perfect match. This is particularly if you have already worked with other best-leading Adobe software like Photoshop or Premiere.
@@ -157,3 +187,29 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-bridging-gaps-between-vision-and-execution-in-filmora-editing/"><u>[New] Bridging Gaps Between Vision and Execution in Filmora Editing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beginners-guide-to-the-top-10-filmmaking-cameras/"><u>2024 Approved  Beginner's Guide to the Top 10 Filmmaking Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aesthetic-adjustments-iphones-pro-image-cropping-apps-for-2024/"><u>Aesthetic Adjustments  IPhone's Pro Image Cropping Apps for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/an-in-depth-examination-of-samsungs-picture-editing-tech-for-2024/"><u>An In-Depth Examination of Samsung’s Picture Editing Tech for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-android-photo-editor-is-pickup-top-in-2024/"><u>Best Android Photo Editor  Is PickUp Top, In 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/budget-friendly-filmmaking-choose-the-best-6-action-cameras-for-2024/"><u>Budget-Friendly Filmmaking  Choose the Best 6 Action Cameras for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-editing-experts-snapscape-magic-unveiled/"><u>Elite Editing Experts  SnapScape Magic Unveiled</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-use-zoom-for-win10-pc/"><u>How to Use Zoom for Win10 PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-craft-the-harmony-editing-and-merging-sounds-in-windows-11-videos/"><u>In 2024, Craft the Harmony  Editing & Merging Sounds in Windows 11 Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-flash-optimization-tips/"><u>IPhone Flash Optimization Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leading-e-stores-for-securely-downloading-youtube-ringtones/"><u>Leading E-Stores for Securely Downloading YouTube Ringtones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leveraging-look-up-table-techniques-for-richer-images-in-pscc/"><u>Leveraging Look-Up Table Techniques for Richer Images in PSCC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lighted-paths-guiding-viewers-with-intelligent-illumination/"><u>Lighted Paths  Guiding Viewers with Intelligent Illumination</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-end-video-refresher-resolution-renaissance/"><u>Top-End Video Refresher  Resolution Renaissance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tracing-the-evolutionary-path-of-windows-movie-maker/"><u>Tracing the Evolutionary Path of Windows Movie Maker</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-your-creativity-with-these-under-1k-4k-cameras/"><u>Unlock Your Creativity with These Under-$1k 4K Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unraveling-best-practices-for-effective-fb-healthcare-promos/"><u>Unraveling Best Practices for Effective FB Healthcare Promos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveil-clearer-visuals-essential-tips-for-zooming-on-snapchat/"><u>Unveil Clearer Visuals  Essential Tips for Zooming on Snapchat</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/user-insights-on-vllo/"><u>User Insights on VLLO</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vital-social-spaces-maximizing-business-outreach-and-impact/"><u>Vital Social Spaces Maximizing Business Outreach and Impact</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/why-cant-i-see-video-on-sony-a6400/"><u>Why Can’t I See Video on Sony A6400?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/zipping-and-textifying-a-guide-to-crafting-srt-from-zip/"><u>Zipping and Textifying  A Guide to Crafting Srt From Zip</u></a></li>
+</ul></div>

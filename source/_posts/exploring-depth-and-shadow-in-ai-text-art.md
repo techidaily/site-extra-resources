@@ -1,7 +1,7 @@
 ---
 title: "Exploring Depth and Shadow in AI Text Art"
-date: 2024-05-24T05:22:00.402Z
-updated: 2024-05-25T05:22:00.402Z
+date: 2024-07-25T05:03:02.246Z
+updated: 2024-07-26T05:03:02.246Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Exploring Depth and Shadow in AI Text Art"
 excerpt: "This Article Describes Exploring Depth and Shadow in AI Text Art"
 keywords: "\"AI Text Art Shadows,Deep Learning Texture,Text Art Depth Analysis,Shadows in Text AI,AI-Generated Art Depths,AI Text Realism,Shadow Techniques in Text AI\""
-thumbnail: https://www.lifewire.com/thmb/rfNHMWk0UUPWr_UnZFdoraz8Kkg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/DiskDriveStethoscopeGettyImages-585acf823df78ce2c3ed2484.jpg
+thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f66023f1145d44d12b2eec67b831.jpg
 ---
 
 ## Exploring Depth and Shadow in AI Text Art
@@ -22,6 +22,9 @@ It takes 10 minutes. Even if you've never used Adobe Illustrator before, you wil
 
 This guide will show you the step-by-step process of creating a 3D text effect in Adobe Illustrator. So, if you're ready, let's begin.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## What You Need to Create a 3D Text Effect in Adobe Illustrator
 
 All you need are ten minutes of your time and the Adobe Illustrator application. Oh yes, and you need a little bit of imagination as well. That's all there is to it.
@@ -42,6 +45,9 @@ Step2 Click on the **Type tool** and click anywhere on your blank canvas. Then, 
 
 Step3 Now, look at the bottom-right corner of the program. Find the **Font** settings and change your font type and size to anything you want.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change font illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-font.png)
 
 Step4 Next, choose any color you want for your text from the panel on the screen's left side. Just remember to click on your text first before you start changing colors.
@@ -50,6 +56,9 @@ Step4 Next, choose any color you want for your text from the panel on the screen
 
 Step5 Align the text to make it easier to edit and move around the canvas later. Just click on it and then click on the three buttons in the image below. This section is located at the bottom-right corner of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![align text in illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-align.png)
 
 Step6 Up next, you need to turn on your 3D Effects panel if it still needs to be activated. To do this, click on **Window** → **3D and Materials.** Then, look at the right side of the screen, and you will see the panel pop up.
@@ -58,14 +67,23 @@ Step6 Up next, you need to turn on your 3D Effects panel if it still needs to be
 
 Step7 Click on the box icon on the right side of the screen and select **“Extrude”** This will instantly transform your text into a 3D model.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![turn text into three d](https://images.wondershare.com/filmora/article-images/adobe-illustrator-panel.png)
 
 Step8 Now, all left to do is experiment with the settings in this panel and adjust how you want your 3D text to look. You can adjust its width, rotation, presets, angle, perspective, and so on. Just play around with the settings until you find your ideal result.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![three d illustrator settings](https://images.wondershare.com/filmora/article-images/adobe-illustrator-settings.png)
 
 Step9 Finally, it's time to export the image, and you're all done.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Alternative Way to Create 3D Text Animation
 
 You might not believe it, but there's an even more accessible and less expensive way to create 3D text effects. You can use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Compared to Illustrator, Filmora is much better for beginners and more affordable.
@@ -102,6 +120,9 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ### How to Create a 3D Text Effect In Filmora?
 
 The steps are simple. Just follow them precisely as you see here, and you won't have any problems.
@@ -110,6 +131,9 @@ Step1 Download Filmora and run the program. Once it opens, click on **New Projec
 
 Step2 Head to the **Titles** tab and search for the **“3D Illustration**” title. Then, drag it into the Timeline. You can also find several other 3D titles. If you like another one better, drag that one instead of the one we mentioned here.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
@@ -120,6 +144,18 @@ Step4 Finally, import a video in Filmora and drag it under the text into the Tim
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Both programs will get the job done if you use Adobe Illustrator or Filmora for your 3D text effect. The main difference is that it will be easier with Filmora. The choice is yours. Have fun!
@@ -148,3 +184,44 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-accessing-hidden-reaction-mechanisms-of-youtube-users/"><u>[New] Accessing Hidden Reaction Mechanisms of YouTube Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-converting-srt-into-sub-quick-effective-ways/"><u>[New] Converting SRT Into SUB  Quick, Effective Ways</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-command-prompt-wizardry-opening-srt-in-winosx/"><u>[Updated] Command Prompt Wizardry  Opening SRT in Win/OSX</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-engaging-narration-for-your-video-projects/"><u>[Updated] Crafting Engaging Narration for Your Video Projects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-ace-your-gameplay-innovative-tvs-to-boost-your-xbox-series-x-adventure/"><u>2024 Approved  Ace Your Gameplay  Innovative TVs to Boost Your Xbox Series X Adventure</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-androids-favorite-is-pickup-superior-to-other-photo-editors/"><u>2024 Approved  Android’s Favorite  Is PickUp Superior to Other Photo Editors?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-buddy-list-in-the-virtual-realm-games/"><u>2024 Approved  Best Buddy List in the Virtual Realm Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beyond-imagination-vr-powered-movies/"><u>2024 Approved  Beyond Imagination  VR-Powered Movies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-footage-from-above-drone-filming-tips/"><u>2024 Approved  Capturing Footage From Above  Drone Filming Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-clarity-counts-how-to-zoom-into-every-aspect-of-google-meet-calls/"><u>2024 Approved  Clarity Counts  How to Zoom Into Every Aspect of Google Meet Calls</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/assemble-amusing-artifacts-for-2024/"><u>Assemble Amusing Artifacts for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audio-experts-choice-best-6-microphone-picks-for-online-broadcasting-for-2024/"><u>Audio Experts' Choice  Best 6 Microphone Picks for Online Broadcasting for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beyond-the-screen-arvr-infused-inspirational-sayings/"><u>Beyond the Screen  AR/VR-Infused Inspirational Sayings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-your-drive-top-10-windows-and-os-x-mods-elevating-srt-power/"><u>Boost Your Drive  Top 10 Windows & OS X Mods Elevating SRT Power</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/can-128gb-hold-extensive-video-content-in-2024/"><u>Can 128GB Hold Extensive Video Content, In 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chill-vibes-at-the-beijing-winter-olympics-2022/"><u>Chill Vibes at the Beijing Winter Olympics 2022</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creating-captivating-solo-content-that-strikes-gold-for-2024/"><u>Creating Captivating Solo Content that Strikes Gold for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crystal-clear-viewing-evaluating-the-best-8k-monitors/"><u>Crystal Clear Viewing  Evaluating the Best 8K Monitors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/drones-deciphered-understanding-their-functions-and-designs/"><u>Drones Deciphered  Understanding Their Functions & Designs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dusk-to-dawn-expert-iphone-low-light-techniques/"><u>Dusk to Dawn  Expert iPhone Low Light Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-10-online-subtitle-cutting-apps/"><u>Essential 10 Online Subtitle Cutting Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/finding-value-in-sport-photography-cameras-for-the-price-conscious/"><u>Finding Value in Sport Photography – Cameras for the Price-Conscious</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/floating-frames-the-ultimate-guide-to-pip-with-netflix/"><u>Floating Frames  The Ultimate Guide to PIP with Netflix</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-save-top-cloud-providers-rates/"><u>How to Save  Top Cloud Providers' Rates</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-turn-off-youtube-video-preview-all-platform-solution/"><u>How to Turn Off YouTube Video Preview? [All Platform Solution]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-achieving-teleportation-magic-illusions/"><u>In 2024, Achieving Teleportation Magic Illusions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-balancing-act-weaving-b-roll-into-main-scenes/"><u>In 2024, Balancing Act  Weaving B Roll Into Main Scenes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-ideas-to-boost-package-prelude-joy/"><u>Innovative Ideas to Boost Package Prelude Joy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-photo-edits-partially-blurring-content/"><u>Innovative Photo Edits  Partially Blurring Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/learn-to-cropping-and-composition-the-audio-visual-balance-in-canvas/"><u>Learn to Cropping & Composition  The Audio-Visual Balance in Canvas</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mystical-camera-pause-strategies/"><u>Mystical Camera Pause Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/shopping-spree-simplified-the-compreenas-guide-to-creating-and-crafting-haul-vids/"><u>Shopping Spree Simplified  The Compreenas Guide to Creating & Crafting Haul Vids</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-1-live-music-broadcasts/"><u>Top 1 Live Music Broadcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-8-free-sites-for-accessing-3d-text-psd-images/"><u>Top 8 Free Sites for Accessing 3D Text PSD Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transform-your-imagery-with-these-mobile-montage-leaders/"><u>Transform Your Imagery with These Mobile Montage Leaders</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/untangling-aerial-vehicles-a-guide-to-drones-operation/"><u>Untangling Aerial Vehicles  A Guide to Drones' Operation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-photoshops-power-with-3d-lut-techniques/"><u>Unveiling Photoshop's Power with 3D LUT Techniques</u></a></li>
+</ul></div>

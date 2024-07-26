@@ -1,7 +1,7 @@
 ---
 title: "Digital Chromatic Conventions in Media Production"
-date: 2024-07-06T17:44:26.589Z
-updated: 2024-07-07T17:44:26.589Z
+date: 2024-07-25T04:29:55.120Z
+updated: 2024-07-26T04:29:55.120Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/253a511a8eebe03ad95bca3519e71144f55137cbd
 
 Everyone in the video editing world is full of lively and beautiful colors — just like the world we live in every day. But, if you've ever shot any film on a smartphone or a digital camera, you've probably observed the colors you see in real life don't always match up to what you want to see on your screen. In this article, you will grasp how and when to use the color grading process by stylizing the color scheme of your footage and its importance in your everyday film and video projects.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![color grading panel filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-panel-filmora.jpg)
 
 ## What is Color Grading?
@@ -36,6 +39,10 @@ Color grading and color correction are processes that happen throughout postprod
 
 To summarize, Color grading can be used to make both technical and creative changes. Colorists use color grading for artistic purposes to ensure that the film's carefully curated color palette conveys a specific atmosphere, style, or emotion.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Why is Color Grading Important?
 
 **Color grading establish a picture's first impression**
@@ -50,6 +57,9 @@ The communication of emotion and story through the lens is one of the most power
 
 One of the most intimidating challenges a photographer or vlogger faces is creating a unique style that can result in a brand for their work. Making a visual style that viewers can recognize at a glance can tremendously impact the growth of a photographer's career. Color grading plays a vital part in that process. Customers will often come to you with a wide range of different photography outputs. By defining a consistent color grading work, you can tie it all into a dense brand that reflects strongly on you and construct a distinctive value that provides you something to sell that only you can offer to people.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to use Color Grading in Wondershare Filmora?
 
 There are many color grading software available on your Windows PC or Mac. Still, here I will show you how to use the Color grading and color tuning features in Wondershare Filmora video editing software. Filmora's natural interface allows learners or semi-pros to master this video editor speedily. And, the color tuning tools in Filmora are powerful enough.
@@ -90,6 +100,10 @@ Color Panel Window - to perform color correction in Wondershare Filmora, switch 
 
 Here, there are two options to select: The Color correction. It offers different readily-made presets you can use to color your video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![open color correction filmora](https://images.wondershare.com/filmora/article-images/2022/08/open-color-correction-filmora.jpg)
 
 ##### Step2Select the specific video portion
@@ -98,6 +112,18 @@ Here, there are two options to select: The Color correction. It offers different
 
 First, you need to select the specific video portion you want to change the color. Just click the scissor icon or what we call split tool. In this case, I split the 2nd video when I zoom in on the subject.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![split video into clips fx](https://images.wondershare.com/filmora/article-images/2022/08/split-video-into-clips-fx.jpg)
 
 * And I selected the end portion of the video. After that, choose the part of the video.
@@ -116,6 +142,10 @@ In the Presets tab, there are different templates, including Common, 3D LUT, Vig
 
 Once you've finished correcting the video color, press Play and go over the whole video through the previewing window. If satisfied with the result, click the "Export" button to transport your video. Click the Settings button to modify settings if needed. You can save the new videos in different formats under the Format tab. If you want to play the edit file on devices like Tablet, iPad, Kindle Fire, PSP, Xbox, etc., go to the "Devices" tab and select the configured preset for the specific model. You can also upload the video output on Youtube for better preservation.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![preview and save video filmora](https://images.wondershare.com/filmora/article-images/2022/08/preview-and-save-video-filmora.jpg)
 
 **Using the Color Panel Window**
@@ -124,12 +154,18 @@ Once you've finished correcting the video color, press Play and go over the whol
 
 You can modify the temperature, tint, white balance, contrast, saturation, and brightness and apply 3D LUT directly and quickly in this editing panel.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![color panel windows filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-panel-windows-filmora.jpg)
 
 ##### Step2Color grading with Wondershare Filmora
 
 Click the button Advanced at the lower corner, then the color grading window will pop up, and you can explore your settings and options.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![color grading with filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-with-filmora.jpg)
 
 **Color Histogram**
@@ -200,3 +236,27 @@ Overall, Color grading is the process of video editing to have an excellent look
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-a-step-by-step-guide-to-implementing-lut-effects-in-premiere-pro/"><u>[New] A Step-by-Step Guide to Implementing LUT Effects in Premiere Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-symphony-of-sounds-no-cost-software-for-personalized-voice-modification/"><u>[New] A Symphony of Sounds  No-Cost Software for Personalized Voice Modification</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-advanced-techniques-for-precise-online-image-cropping/"><u>[New] Advanced Techniques for Precise Online Image Cropping</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-becoming-a-pro-at-visual-effects-creation/"><u>[New] Becoming a Pro at Visual Effects Creation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-practices-for-controlling-music-speed-on-spotify/"><u>[Updated] Best Practices for Controlling Music Speed on Spotify</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-all-facets-of-adobes-storage-system-and-its-equivalents-in-the-market/"><u>2024 Approved  All Facets of Adobe's Storage System & Its Equivalents in the Market</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-your-video-subtitle-skills-using-these-top-online-aids/"><u>Boost Your Video Subtitle Skills Using These Top Online Aids</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-stunning-slideshows-on-iphone-series-13-for-2024/"><u>Crafting Stunning Slideshows on iPhone Series 13 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-edit-text-in-image-photo-text-editor-online-and-app/"><u>How to Edit Text in Image? [Photo Text Editor Online and App]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-abletons-soften-sound-strategies/"><u>In 2024, Ableton's Soften Sound Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-audiovisual-expertise-selecting-top-video-minds/"><u>In 2024, Audiovisual Expertise  Selecting Top Video Minds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-beginners-pathway-photos-transformed-into-videos-via-pixiz/"><u>In 2024, Beginner's Pathway  Photos Transformed Into Videos via Pixiz</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capturing-adventures-the-ultra-30-action-cam-reviewed/"><u>In 2024, Capturing Adventures  The Ultra 30 Action Cam Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-champion-smartphones-top-picks-for-excellent-video-quality/"><u>In 2024, Champion Smartphones  Top Picks for Excellent Video Quality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-photography-guide-turn-photos-on-their-heels/"><u>IPhone Photography Guide  Turn Photos on Their Heels</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/launching-a-video-channel-dedicated-to-new-and-used-product-reviews/"><u>Launching a Video Channel Dedicated to New and Used Product Reviews</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-mobile-technology-for-dji-visual-storytelling/"><u>Mastering Mobile Technology for DJi Visual Storytelling</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/proven-subtitle-editors-the-comprehensive-top-10-list-online/"><u>Proven Subtitle Editors – The Comprehensive Top 10 List (Online)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/srt-conversion-made-simple-xml-ssa-ttml-and-more/"><u>SRT Conversion Made Simple  XML, SSA, TTML, and More</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-tunes-palette-for-video-storytelling/"><u>Top Tunes Palette for Video Storytelling</u></a></li>
+</ul></div>

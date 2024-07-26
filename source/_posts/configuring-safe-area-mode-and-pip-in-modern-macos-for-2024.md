@@ -1,7 +1,7 @@
 ---
 title: "Configuring Safe Area Mode & PIP in Modern MacOS for 2024"
-date: 2024-05-24T05:48:25.799Z
-updated: 2024-05-25T05:48:25.799Z
+date: 2024-07-25T05:51:23.306Z
+updated: 2024-07-26T05:51:23.306Z
 tags: 
   - screen-recording
   - ai video
@@ -22,8 +22,15 @@ The picture-in-picture feature is one of the standards and latest innovations in
 
 Thanks to this invention, users can reply to customers' emails while closing a new lead on Facetime. This article will teach you how to enable and disable the picture in picture mode in Safari on Mac, iPhone, and iPad. Stick with us!
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reply emails](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-in-safari-for-mac-iphone-ipad-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## Part 1\. How to enable and disable picture in picture in Safari for Mac
 
 Picture-in-Picture PiP mode is a feature that allows you to view movies in a tiny floating window while surfing another website in Safari or doing something else on your Mac. It remains in the foreground of your screen regardless of which new program you start on your PC.
@@ -47,12 +54,19 @@ Let's have a look at how to use Picture in Picture in Safari on Mac:
 
 You can see that utilizing Picture in Picture in Safari for Mac is simple, straightforward, and adaptable. Let's look at how to get the most of this feature now.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ### Using Picture in Picture (PiP) on Mac
 
 When you enable this feature, the video will shrink and move to a corner on Mac's screen while still playing. You can perform several tasks to your taste as you keep watching and working. If you feel the size is too small or big, you can resize it by dragging any corner of the video. Furthermore, you can click and pull it to any side of the window if it disturbs your view.
 
 There is a play and pause button available also as well as the forward and backward if you wish to perform any of these activities. And again, you can decide to turn off this feature by repeating the procedure where you locate the small sound icon. But here, you select the mute this tab instead or click the "**X"** button at the top left corner to stop the video.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## Part 2\. How to enable and disable picture in picture in Safari for iPhone
 
 As we have discussed earlier, users have a way to enable the picture in picture mode before launching iOS14, where the feature is incorporated in the settings. Thanks to Apple's new APIs, this functionality is no longer limited to watching videos while working on other apps with iOS 15\. However, the following procedure is how you can enable the picture in picture mode on your iPhone.
@@ -61,6 +75,9 @@ As we have discussed earlier, users have a way to enable the picture in picture 
 * Search for **Picture in Picture** in the **General** section and click on the option.
 * Once it opens, you will see a toggle button for **Start PiP Automatically**; turn it **ON** to enable it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![start pip automatically](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-in-safari-for-mac-iphone-ipad-3.jpg)
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
@@ -77,6 +94,9 @@ To move the window to any screen part, simply tap and hold the video to drag and
 
 To perform this minimizing feature, grab the window and move it to either side of the screen's edge. In doing so, the window will disappear, and you will keep hearing the sound only. But, on the screen side, where you move the window, you will see an arrow and a grabber indicating its presence, and you can use it to revive the video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![move the window to screen's edge](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-in-safari-for-mac-iphone-ipad-5.jpg)
 
 ## Part 3\. How to enable and disable picture in picture in Safari for iPad
@@ -100,12 +120,18 @@ Aside from Safari, the Picture-in-Picture mode is available in other standard pr
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Using the Picture in Picture feature on iPhones
 
 Once you lunch this feature on iOS 14 or greater versions, it automatically shrinks to the top or bottom side of the screen. Here, you can perform several activities with the features, including resizing, moving, and aligning the video with the window. In the case of aligning, depending on your choice, it could be to the screen's top right, bottom right, top left, and bottom left.
 
 To move the window to any screen part, simply tap and hold the video to drag and place it on any part of the screen you want. Another fantastic feature the iPhone offers is that it allows you to minimize the picture-in-picture window, and you will keep listening to the audio part of the video while working on other apps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![move the window to any screen part](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-in-safari-for-mac-iphone-ipad-4.jpg)
 
 To perform this minimizing feature, grab the window and move it to either side of the screen's edge. In doing so, the window will disappear, and you will keep hearing the sound only. But, on the screen side, where you move the window, you will see an arrow and a grabber indicating its presence, and you can use it to revive the video.
@@ -123,6 +149,9 @@ The picture in picture mode has been available on the iPad long before it was in
 
 Above all, you need to have it in the back of your mind that regardless of how you enable this feature, the app or website needs to support the picture in picture mode to work correctly. However, almost all website supports this feature, with YouTube being the top supporter.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Going through emails in the morning while viewing news videos in Picture-in-Picture mode can help you save time. You don't have to launch a new Safari window or rely on Split View, which consumes important screen space while multitasking.
@@ -157,3 +186,45 @@ Aside from Safari, the Picture-in-Picture mode is available in other standard pr
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/3dr-a-compreran-users-journey-through-tech-aloneness-for-2024/"><u>'3DR'  A Compreran User's Journey Through Tech Aloneness for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-aural-elements-in-online-visuals/"><u>[New] Aural Elements in Online Visuals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-7-top-budget-friendly-digital-camera-editing-tools/"><u>[Updated] 7 Top Budget-Friendly Digital Camera Editing Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-beginners-insight-into-av1-encoding/"><u>[Updated] A Beginner's Insight Into AV1 Encoding</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-assemble-films-for-streaming-organization/"><u>[Updated] Assemble Films for Streaming Organization</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-core-concepts-in-moving-graphic-artistry/"><u>[Updated] Core Concepts in Moving Graphic Artistry</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-top-6-best-8k-cameras/"><u>[Updated] Top 6 Best 8K Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-accelerated-learning-quick-start-to-becoming-a-lut-expert/"><u>2024 Approved  Accelerated Learning  Quick Start to Becoming a LUT Expert</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-analyzing-major-editions-and-phases-of-windows-movie-maker/"><u>2024 Approved  Analyzing Major Editions and Phases of Windows Movie Maker</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-chroma-chronicles-expertise-in-color-crafting/"><u>2024 Approved  Chroma Chronicles  Expertise in Color Crafting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/7-innovative-approaches-to-color-correction-for-2024/"><u>7 Innovative Approaches to Color Correction for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-speed-adjustment-techniques-in-media-editing/"><u>Advanced Speed Adjustment Techniques in Media Editing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/apex-developers-in-the-realm-of-virtual-reality-for-2024/"><u>Apex Developers in the Realm of Virtual Reality for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/astro-bio-revolution-crafting-signature-whatsapp-identities/"><u>Astro-Bio Revolution  Crafting Signature WhatsApp Identities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/b-footage-techniques-for-creating-engaging-video-content/"><u>B-Footage Techniques for Creating Engaging Video Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/build-your-brand-memes-with-kinemaster/"><u>Build Your Brand  Memes with KineMaster</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/conveniently-captivated-by-ifunnys-humor-hub-for-2024/"><u>Conveniently Captivated by iFunny's Humor Hub for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/converse-with-computers-for-free/"><u>Converse with Computers for Free</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/deciding-on-video-platforms-podcast-or-youtube/"><u>Deciding on Video Platforms  Podcast or YouTube?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dji-gopro-or-instax360-make-your-choice/"><u>DJi, GoPro, or InstaX360? Make Your Choice</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/firefox-pip-simplified-for-the-everyday-user/"><u>Firefox PIP  Simplified for the Everyday User</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/generate-brand-identity-accessible-logo-templates-and-editing/"><u>Generate Brand Identity  Accessible Logo Templates & Editing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hand-tracking-insights-detailed-exploration/"><u>Hand Tracking Insights  Detailed Exploration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-complete-rundown-top-10-digital-drawing-software-on-chrome/"><u>In 2024, A Complete Rundown  Top 10 Digital Drawing Software on Chrome</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-conduct-your-clicks-harmonize-images-and-sounds/"><u>In 2024, Conduct Your Clicks  Harmonize Images & Sounds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-characters-the-art-of-3d-text-design/"><u>In 2024, Crafting Characters  The Art of 3D Text Design</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/laugh-loop-meme-treasures-for-diverse-events/"><u>Laugh Loop  Meme Treasures for Diverse Events</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/learn-to-craft-instagram-ringtones-with-us/"><u>Learn to Craft Instagram Ringtones with Us</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/master-subtitles-from-srt-with-3-steps/"><u>Master Subtitles From SRT with 3 Steps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-key-scenes-in-video-production/"><u>Mastering Key Scenes in Video Production</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/plotting-precise-promotional-reels/"><u>Plotting Precise Promotional Reels</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/precision-and-performance-top-6-video-edits-on-macos-big-sur/"><u>Precision and Performance  Top 6 Video Edits on macOS Big Sur</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/realtime-av-enthusiasts-community/"><u>RealTime AV Enthusiasts Community</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/secure-storage-system-5-ways-to-upload-files/"><u>Secure Storage System  5 Ways to Upload Files</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sj6-ultimate-face-off-with-xiaomis-yi-4k-genius/"><u>SJ6 Ultimate Face-Off with Xiaomi's Yi 4K Genius</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-instructions-for-crafting-and-installing-whatsapp-alerts/"><u>Step-By-Step Instructions for Crafting & Installing WhatsApp Alerts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-upgrade-ultimatum-going-from-previous-windows/"><u>The Upgrade Ultimatum  Going From Previous Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-watchers-whispers-essential-websites-for-got-sound-files/"><u>The Watchers' Whispers  Essential Websites for GoT Sound Files</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Attenuating Audio Gradually in FL Projects"
-date: 2024-06-19T13:58:01.487Z
-updated: 2024-06-20T13:58:01.487Z
+date: 2024-07-25T01:34:52.299Z
+updated: 2024-07-26T01:34:52.299Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,9 @@ It can create new sounds through drum machines as a result you can show your cre
 
 Step1 The first and foremost task to do is the successful installation of FL Studio. Getting the latest version of this will be useful for you as it has a lot of new features.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![open fl studio](https://images.wondershare.com/filmora/article-images/2022/07/open-fl-studio.jpg)
 
 Step2 Open your FL Studio window on your pc or mac. Then, choose the right volume parameter for the creation of automation in your FL studio. You can do it using the mixer channel method.
@@ -54,22 +57,43 @@ However, if you are looking forward to the alternative option for FL Studio, [Fi
 
 Step1 The first thing you have to do is successfully install the Filmora software on your pc or mac. Before fading audio, you should have some basic knowledge about the keyframes. After creating the audio keyframes, you will see an audio panel like the below surface.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## Related FAQs of FL Studio Audio Editing
 
 ### 1\. How to fade out FL studio mobile?
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
@@ -82,6 +106,15 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 
 Step1 The first thing you have to do is successfully install the Filmora software on your pc or mac. Before fading audio, you should have some basic knowledge about the keyframes. After creating the audio keyframes, you will see an audio panel like the below surface.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
@@ -98,10 +131,16 @@ No matter which audio editing software, what matters is the learning outcome. Le
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. What is declicking mode FL studio?
 
 Declicking is an option that helps to remove ‘Clicks’ in the beginning or end. But when it comes to FL Studio, the meaning is a bit different. If you need to cut a part of your audio in FL Studio and later there arises a jump between two parts. This is known as declicking mode in FL Studio.
@@ -130,3 +169,33 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-20plus-humorous-metaverse-memes-and-diy-creation-guide/"><u>[New] 20+ Humorous Metaverse Memes & DIY Creation Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-2024s-leading-cloud-services-pricing-ranked/"><u>[Updated] 2024'S Leading Cloud Services Pricing Ranked</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-apex-cameras-capturing-sporting-triumphs/"><u>[Updated] Apex Cameras Capturing Sporting Triumphs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-complete-biomechanical-study-2023/"><u>[Updated] Complete Biomechanical Study 2023</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-review-lg-27ud88-w-oled-4k-hdr-tv/"><u>[Updated] Comprehensive Review  LG 27UD88-W OLED 4K HDR TV</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-best-free-live-streaming-apps-for-android-and-iphone-for-2024/"><u>10 Best Free Live Streaming Apps for Android and iPhone for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-guide-to-enhancing-obs-with-free-lut-downloads/"><u>2024 Approved  A Guide to Enhancing OBS with Free LUT Downloads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-adobes-shake-mitigation-in-photoshop-worth-it/"><u>2024 Approved  Adobe's Shake Mitigation in Photoshop, Worth It?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-audio-blending-identifying-the-10-finest-mixers-for-podcasters/"><u>2024 Approved  Audio Blending  Identifying the 10 Finest Mixers for Podcasters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-clearer-photos-with-blur-effects-apps/"><u>2024 Approved  Clearer Photos with Blur Effects Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-4k-hdtv-monitors-for-gameplay-excellence/"><u>Best 4K HDTV Monitors for Gameplay Excellence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-desktop-computers-for-2024/"><u>Best Desktop Computers for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-sources-for-pixel-ringtone-downloads-for-2024/"><u>Best Sources for Pixel Ringtone Downloads for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/budget-conscious-shooters-7-best-4k-cameras-for-2024/"><u>Budget-Conscious Shooters' 7 Best 4K Cameras for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-your-meme-game-with-proven-9gag-methods/"><u>Elevate Your Meme Game with Proven 9GAG Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-recommended-sub-to-srt-tools-top-8-guide-reviewed/"><u>Expert Recommended Sub to SRT Tools  Top 8 Guide Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/explore-creativity-best-drawing-software-for-ipados/"><u>Explore Creativity  Best Drawing Software for iPadOS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harmonizing-tracks-understanding-crossfades/"><u>Harmonizing Tracks  Understanding Crossfades</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/masterful-modulation-how-to-switch-up-your-characters-speech-in-free-fire/"><u>Masterful Modulation  How to Switch Up Your Character's Speech in Free Fire</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/nighttime-nirvana-with-asmr-select-artists/"><u>Nighttime Nirvana with ASMR  Select Artists</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/shield-identities-blurring-techniques-for-photos/"><u>Shield Identities  Blurring Techniques for Photos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-vision-quest-samsung-galaxy-s8s-4k-prowess/"><u>The Ultimate Vision Quest  Samsung Galaxy S8's 4K Prowess</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/virtual-horizons-where-is-the-new-frontier-of-vr/"><u>Virtual Horizons  Where Is the New Frontier of VR?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visual-storytelling-scribing-text-over-image-realms-online/"><u>Visual Storytelling  Scribing Text over Image Realms Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vr-surgical-training-and-planning-systems/"><u>VR Surgical Training and Planning Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/zero-degrees-to-glory-peak-sports-in-cold-climates/"><u>Zero Degrees to Glory  Peak Sports in Cold Climates</u></a></li>
+</ul></div>

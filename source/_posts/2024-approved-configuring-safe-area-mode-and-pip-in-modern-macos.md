@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Configuring Safe Area Mode & PIP in Modern MacOS\""
-date: 2024-05-24T03:19:11.795Z
-updated: 2024-05-25T03:19:11.795Z
+date: 2024-07-25T01:11:19.186Z
+updated: 2024-07-26T01:11:19.186Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Configuring Safe Area Mode & PIP in Modern MacOS\""
 excerpt: "\"This Article Describes 2024 Approved: Configuring Safe Area Mode & PIP in Modern MacOS\""
 keywords: "SafeAreaMMacOSSetup,PIPConfigForMacOS,MacOSPIPMode,SafeModeConfigMAC,MACOSPIPAdjustment,ModernMacOSSafeArea,SecurePIPMacOSSettings"
-thumbnail: https://www.lifewire.com/thmb/vmRvggsBE9toSpXM8p1WS8O5Wjc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6-things-to-consider-before-buying-a-gaming-pc-5221042-8a79710a1e4549edbc357125123fb04e.jpg
+thumbnail: https://thmb.techidaily.com/290af97afad1802ce323c8e9ce6f1c1f031089327fdc749a381a84624fdbd2f2.jpg
 ---
 
 ## Configuring Safe Area Mode & PIP in Modern MacOS
@@ -22,8 +22,14 @@ The picture-in-picture feature is one of the standards and latest innovations in
 
 Thanks to this invention, users can reply to customers' emails while closing a new lead on Facetime. This article will teach you how to enable and disable the picture in picture mode in Safari on Mac, iPhone, and iPad. Stick with us!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![reply emails](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-in-safari-for-mac-iphone-ipad-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. How to enable and disable picture in picture in Safari for Mac
 
 Picture-in-Picture PiP mode is a feature that allows you to view movies in a tiny floating window while surfing another website in Safari or doing something else on your Mac. It remains in the foreground of your screen regardless of which new program you start on your PC.
@@ -53,6 +59,9 @@ When you enable this feature, the video will shrink and move to a corner on Mac'
 
 There is a play and pause button available also as well as the forward and backward if you wish to perform any of these activities. And again, you can decide to turn off this feature by repeating the procedure where you locate the small sound icon. But here, you select the mute this tab instead or click the "**X"** button at the top left corner to stop the video.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. How to enable and disable picture in picture in Safari for iPhone
 
 As we have discussed earlier, users have a way to enable the picture in picture mode before launching iOS14, where the feature is incorporated in the settings. Thanks to Apple's new APIs, this functionality is no longer limited to watching videos while working on other apps with iOS 15\. However, the following procedure is how you can enable the picture in picture mode on your iPhone.
@@ -61,8 +70,23 @@ As we have discussed earlier, users have a way to enable the picture in picture 
 * Search for **Picture in Picture** in the **General** section and click on the option.
 * Once it opens, you will see a toggle button for **Start PiP Automatically**; turn it **ON** to enable it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![start pip automatically](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-in-safari-for-mac-iphone-ipad-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** You perform the above procedure also to disable the feature. However, in the case of disabling the option, you turn **OFF** the toggle button for **Start PiP Automatically** to disable this function.
@@ -73,6 +97,9 @@ Once you lunch this feature on iOS 14 or greater versions, it automatically shri
 
 To move the window to any screen part, simply tap and hold the video to drag and place it on any part of the screen you want. Another fantastic feature the iPhone offers is that it allows you to minimize the picture-in-picture window, and you will keep listening to the audio part of the video while working on other apps.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![move the window to any screen part](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-in-safari-for-mac-iphone-ipad-4.jpg)
 
 To perform this minimizing feature, grab the window and move it to either side of the screen's edge. In doing so, the window will disappear, and you will keep hearing the sound only. But, on the screen side, where you move the window, you will see an arrow and a grabber indicating its presence, and you can use it to revive the video.
@@ -100,6 +127,9 @@ Aside from Safari, the Picture-in-Picture mode is available in other standard pr
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Using the Picture in Picture feature on iPhones
 
 Once you lunch this feature on iOS 14 or greater versions, it automatically shrinks to the top or bottom side of the screen. Here, you can perform several activities with the features, including resizing, moving, and aligning the video with the window. In the case of aligning, depending on your choice, it could be to the screen's top right, bottom right, top left, and bottom left.
@@ -112,6 +142,9 @@ To perform this minimizing feature, grab the window and move it to either side o
 
 ![move the window to screen's edge](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-in-safari-for-mac-iphone-ipad-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Part 3\. How to enable and disable picture in picture in Safari for iPad
 
 The picture in picture mode has been available on the iPad long before it was incorporated into other Apple products. However, enabling it on the iPad is one of the easiest things to do. Furthermore, disabling this feature follows the procedure you followed when enabling it. Following the procedures highlighted below will help you enable and disable PiP on your iPad:
@@ -123,6 +156,9 @@ The picture in picture mode has been available on the iPad long before it was in
 
 Above all, you need to have it in the back of your mind that regardless of how you enable this feature, the app or website needs to support the picture in picture mode to work correctly. However, almost all website supports this feature, with YouTube being the top supporter.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Going through emails in the morning while viewing news videos in Picture-in-Picture mode can help you save time. You don't have to launch a new Safari window or rely on Split View, which consumes important screen space while multitasking.
@@ -157,3 +193,30 @@ Aside from Safari, the Picture-in-Picture mode is available in other standard pr
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-compelling-podcast-intros-tips-and-samples/"><u>[New] Crafting Compelling Podcast Intros  Tips & Samples</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-androids-creme-de-la-creme-for-fast-vid-fixing/"><u>2024 Approved  Android's Crème De La Crème for Fast Vid Fixing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-down-the-barriers-effective-rtmp-streaming-in-premiere/"><u>2024 Approved  Breaking Down the Barriers  Effective RTMP Streaming in Premiere</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-beginners-pathway-to-running-a-product-evaluation-podcast/"><u>A Beginner's Pathway to Running a Product Evaluation Podcast</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/auditory-illusions-video-meets-apple-music-for-2024/"><u>Auditory Illusions  Video Meets Apple Music for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-hd-cameras-for-comprehensive-social-media-broadcasts-for-2024/"><u>Best HD Cameras for Comprehensive Social Media Broadcasts for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bridging-silent-images-and-vocal-melodies/"><u>Bridging Silent Images and Vocal Melodies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-compelling-content-on-reddit-a-stepwise-path-for-2024/"><u>Crafting Compelling Content on Reddit - A Stepwise Path for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-how-to-tailor-your-snapchat-videos-speed-and-tempo/"><u>Discover How To Tailor Your Snapchat Videos' Speed & Tempo</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dissecting-the-difference-360-video-and-vr-filmmaking/"><u>Dissecting the Difference  360 Video and VR Filmmaking</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-techniques-to-compress-and-adjust-iphone-videos/"><u>Essential Techniques to Compress and Adjust iPhone Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-balanced-mounts-capture-clear-shots-every-time/"><u>In 2024, Best Balanced Mounts  Capture Clear Shots Every Time</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-smartphone-video-recording-assistants/"><u>In 2024, Best Smartphone Video Recording Assistants</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capture-and-convert-photos-into-dynamic-videos-in-pixiz/"><u>In 2024, Capture and Convert  Photos Into Dynamic Videos in Pixiz</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-analysis-the-power-of-sj-cam-s6/"><u>In 2024, Comprehensive Analysis  The Power of SJ-CAM S6</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-unique-photos-with-ps-distortions/"><u>In 2024, Crafting Unique Photos with PS Distortions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/instant-image-perfection-advanced-cropping-guide/"><u>Instant Image Perfection - Advanced Cropping Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-instagram-the-ultimate-guide-to-viral-popularity/"><u>Mastering Instagram  The Ultimate Guide to Viral Popularity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-periscope-understanding-features-pricing-and-registration-steps/"><u>Navigating Periscope  Understanding Features, Pricing & Registration Steps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-solution-of-iphone-x-face-id-not-working/"><u>The Ultimate Solution of iPhone X Face ID Not Working</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-methods-for-effective-youtube-transcoding/"><u>Top 10 Methods for Effective YouTube Transcoding</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-5-audio-experiences-on-iphones/"><u>Top 5 Audio Experiences on iPhones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-8-premium-mp3-extraction-software-android/"><u>Unveiling 8 Premium MP3 Extraction Software (Android)</u></a></li>
+</ul></div>

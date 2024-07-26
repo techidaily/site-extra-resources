@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  A Beginner's Guide to Understanding YouTube Responses\""
-date: 2024-05-24T04:43:36.634Z
-updated: 2024-05-25T04:43:36.634Z
+date: 2024-07-25T03:52:50.834Z
+updated: 2024-07-26T03:52:50.834Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: A Beginner's Guide to Understanding YouTube Responses\""
 excerpt: "\"This Article Describes 2024 Approved: A Beginner's Guide to Understanding YouTube Responses\""
 keywords: "YouTubE Response Basics,Youth Sdk Guide,Yt RespoNts Insight,BeginerYt Replay Analysis,UnderstndYouTube Feedback,YouTube Rspns For Novices,Grasping Ytb Replies"
-thumbnail: https://www.lifewire.com/thmb/zPbrz0xYT6-e-Siew_kTQcwmGaI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/MayHabib-d884611c85bf4b909b33ee1410d6544b.jpeg
+thumbnail: https://thmb.techidaily.com/a9e60c359d76678f8aad5193db4d1713b6255faff22e113abbe3abedfe2cc94d.jpeg
 ---
 
 ## A Beginner's Guide to Understanding YouTube Responses
@@ -28,6 +28,9 @@ Unfortunately, when it comes to comment, YouTube can be a little clunky and time
 
 Want to become the master of moderation? Read on for everything you need to know about comments on YouTube, and get that conversation going. This is another article to help you make the best out of your YouTube channel.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What is YouTube Comment
 
 YouTube comments are an opportunity for the site's 1.7 million unique monthly visitors to share what they love, hate or simply must troll. It's like the internet own personal Thunderdome, but while it can be a place for negativity, YouTube comments can also be a powerful opportunity for positive community building and engagement.
@@ -72,16 +75,26 @@ To manage your comments on YouTube using a PC, the operating system does not mat
 
 Step1 Open your chosen browser, head to YouTube, then sign in to your Google/YouTube account if not already signed in.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
 Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
@@ -96,6 +109,9 @@ For example, you might click on a notification, and YouTube takes you to a parti
 
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Deleting YouTube Comments?
 
 If you consume a lot of YouTube content, you've likely posted hundreds or even thousands of comments on various channels. You might want to:
@@ -114,6 +130,9 @@ Comments history also contains the link to the video where you've left the comme
 
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -150,3 +169,33 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-comprehensive-analysis-updated-s3700-bd-player/"><u>[New] Comprehensive Analysis  Updated S3700 BD Player</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-12-leading-free-video-viewing-apps-for-loving-watchers-worldwide/"><u>[Updated] 12 Leading Free Video Viewing Apps for Loving Watchers Worldwide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-ai-driven-video-title-strategy-for-maximum-impact/"><u>[Updated] AI-Driven Video Title Strategy for Maximum Impact</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-androids-top-visual-adjustment-tools/"><u>[Updated] Android's Top Visual Adjustment Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-guide-to-iphone-podcast-downloads/"><u>[Updated] Comprehensive Guide to iPhone Podcast Downloads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-step-by-step-srt-mp4-enhancement/"><u>[Updated] Comprehensive Step-by-Step SRT MP4 Enhancement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-2023s-best-cam-recorders-a-curated-selection-of-18/"><u>2024 Approved  2023'S Best Cam Recorders  A Curated Selection of 18</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-boosting-your-youtube-views-a-strategy-guide/"><u>2024 Approved  Boosting Your YouTube Views  A Strategy Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-brightening-edge-of-android-videos-easy-steps-unveiled/"><u>2024 Approved  Brightening Edge of Android Videos - Easy Steps Unveiled</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-the-skyline-drone-cinematography-tips/"><u>2024 Approved  Capturing the Skyline  Drone Cinematography Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/25plus-best-practices-for-crafting-witty-metaverse-visual-jokes-for-2024/"><u>25+ Best Practices for Crafting Witty Metaverse Visual Jokes for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/all-encompassing-look-at-the-ricoh-theta-s-design-for-2024/"><u>All-Encompassing Look at the Ricoh Theta S Design for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-picks-no-charging-high-definition-video-players-for-pcmacos-for-2024/"><u>Best Picks  No-Charging, High Definition Video Players for PC/MacOS for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-walkthrough-of-wmps-cd-handling-for-2024/"><u>Comprehensive Walkthrough of WMP's CD Handling for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dial-up-dominance-a-guide-to-visual-podcast-identity/"><u>Dial-Up Dominance  A Guide to Visual Podcast Identity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-catch-footage-cameras-top-5-list/"><u>Elite Catch Footage Cameras - Top 5 List</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-black-and-white-to-richness-embracing-hdrs-power/"><u>From Black and White to Richness  Embracing HDR's Power</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/horizon-hopping-reviewing-the-gopro-karma-drone/"><u>Horizon Hopping  Reviewing the GoPro Karma Drone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-10-premier-photo-frame-apps/"><u>In 2024, 10 Premier Photo Frame Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-assembling-visual-slices-photo-montage-techniques/"><u>In 2024, Assembling Visual Slices  Photo Montage Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-begin-your-clip-and-cut-career-with-xps-editor/"><u>In 2024, Begin Your Clip-and-Cut Career with XP's Editor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-color-perfection-the-essential-list-of-best-luts-for-lightroom-users/"><u>In 2024, Color Perfection  The Essential List of Best LUTs for LightRoom Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/insight-into-imovies-border-adjustments/"><u>Insight Into iMovie's Border Adjustments</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/launch-your-fortune-on-periscope-live-chats/"><u>Launch Your Fortune on Periscope Live Chats</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mobile-virtual-realms-the-best-10-headsets-ranking/"><u>Mobile Virtual Realms  The Best 10 Headsets Ranking</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/total-cost-breakdown-from-zero-to-full-broadcast/"><u>Total Cost Breakdown  From Zero to Full Broadcast</u></a></li>
+</ul></div>

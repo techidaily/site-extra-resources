@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Boosted Presentation Pace  Speeding Slide Transitions\""
-date: 2024-05-24T05:13:08.813Z
-updated: 2024-05-25T05:13:08.813Z
+date: 2024-07-25T04:46:34.547Z
+updated: 2024-07-26T04:46:34.547Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Boosted Presentation Pace: Speeding Slide Transitions\""
 excerpt: "\"This Article Describes 2024 Approved: Boosted Presentation Pace: Speeding Slide Transitions\""
 keywords: "Metaverse Basics,Metaverse Exploration,Metaverse Instances,Virtual Reality Insight,Digital World Understanding,Metaverse Complexity,Intricate Metaverse Scenarios"
-thumbnail: https://www.lifewire.com/thmb/xXXXABZAmSAt0BL3NSr1kTD8CVM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/tesla-bot-f6353f76ae214924916445da1da620ca.png
+thumbnail: https://thmb.techidaily.com/b3d61cb315de3688d633dcaa1de969d34c57d2ef4835c89401c3246551696a45.png
 ---
 
 ## Boosted Presentation Pace: Speeding Slide Transitions
@@ -36,10 +36,16 @@ Why Not Customize the Video Speed Before Adding it to PowerPoint? Try This!
 
 [Change Video Speed](https://tools.techidaily.com/wondershare/filmora/download/) [Change Video Speed](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Change PowerPoint Video Playback Speed to Speed Up Video
 
 The process that is given below explains how you can modify (increase or decrease) the playback speed of a video in PowerPoint:
@@ -52,16 +58,25 @@ Launch Microsoft PowerPoint on your Windows computer (Microsoft PowerPoint 2019 
 
 From the left pane of the **PowerPoint Options** box that opens up, click to select the **Customize Ribbon** category, and from the **Main Tabs** list in the right window, check the **Developer** box. Click **OK** from the bottom to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enable powerpoint developer option](https://images.wondershare.com/filmora/article-images/enable-powerpoint-developer-option.jpg)
 
 **Step 2: Add a Windows Media Player Instance**
 
 Back on the main interface, go to the **Developer** tab. Click **More Controls** from the **Controls** section of the ribbon.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![powerpoint controls](https://images.wondershare.com/filmora/article-images/powerpoint-controls.jpg)
 
 When the **More Controls** box appears, scroll down and click to select **Windows Media Player**, and click **OK** from the bottom.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![powerpoint more controls windows media player](https://images.wondershare.com/filmora/article-images/powerpoint-more-controls-windows-media-player.jpg)
 
 Back on the canvas, click and drag the mouse to the scale that you want the size of Windows Media Player to be.
@@ -78,6 +93,9 @@ A smooth tool to [edit video](https://tools.techidaily.com/wondershare/filmora/d
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -106,6 +124,380 @@ Next, go to the **Advanced** tab, and increase the value of the **Rate** field t
 
 **Note:** Make sure to save the file as ‘PowerPoint Macro-Enabled Presentation’ to retain the customized preferences of Windows Media Player.
 
+![filmora box](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
+
+Filmora Video Speed Changer
+
+#### Change Video Speed with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Filmora video speed changer offers speed templates to changing speed in 1-click. You can reedit or add more keyframes to speed up and slow down the video according to your needs.
+
+[Start Video Speed Changing](https://tools.techidaily.com/wondershare/filmora/download/) [Start Video Speed Changing](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
+[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Part 2: How to Change the Speed of a PowerPoint Animation
+
+In addition to modifying the playback speed of the video that you have imported to PowerPoint presentation, you can even customize the overall duration of the animations that each of the slides the app has.
+
+Although you can customize the speed for each object individually, increasing or decreasing the animation speed in a single go not only saves you a lot of time but also simplifies the entire customization process as well.
+
+The method that is given below explains how you can change the speed of a PowerPoint animation of a slide:
+
+**Step 1: Get to the Target Slide**
+
+Launch Microsoft PowerPoint and open the presentation that has the animations that you want to speed up, and go to the target slide.
+
+**Step 2: Change the Speed of the Animations**
+
+Go to the **Animation** tab from the top. Press **Ctrl** \+ **A** to select all the objects on the canvas. Now, modify the value in the **Duration** field that is present in the **Timing** section of the ribbon.
+
+Where increasing the duration slows down the animation speed, decreasing it speeds up the animation. Simply put, the value in the duration field is inversely proportional to the speed of the animation.
+
+![change animation speed powerpoint](https://images.wondershare.com/filmora/article-images/change-animation-speed-powerpoint.jpg)
+
+**Note:** You can follow the same procedure to manage the animation speed for all the slides in the presentation.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 3: FAQs About Change PPT Speed
+
+**Q1) Why is my video lagging in PowerPoint?**
+
+There could be several reasons for this. Some of the common ones are listed below:
+
+* You may have not configured the playback speed correctly (To fix this, go to the Windows Media Player Properties box as explained earlier, and configure various resolution and speed options accordingly)
+* Your GPU is old, and doesn’t support the resolution of the video clip (To fix this, go to File > Info > Compress Media and choose a lower resolution) (Choose Presentation Quality on the Microsoft PowerPoint 2010 – PowerPoint 2016 versions)
+* Hardware acceleration is turned off. (To fix this, go to File > Options > Advanced > Display and uncheck the ‘Display Slide Show hardware graphics acceleration’ box)
+
+**Q2) Why I cannot insert video in PowerPoint?**
+
+You may want to check if the video is of a compatible format. It would be good to use an MP4 video as it integrates seamlessly with most applications.
+
+**Q3) Which video format is best for PowerPoint?**
+
+Listed below are some of the formats that PowerPoint supports:
+
+* \*.asf
+* \*.avi
+* \*.mp4, \*.m4v, \*.mov
+* \*.mpg, \*.mpeg
+* \*.wmv
+
+However, considering the popularity and compatibility, MP4 is the format that is suggested by many professionals.
+
+**Q4) Why PowerPoint cannot play media?**
+
+Some most common reasons for this issue include:
+
+* **Incompatible Media** – To fix this, go to File > Info and click ‘Optimize Compatibility’ (The tile will automatically appear if the presentation has an incompatible media file)
+* **Unrecognized Format** – To fix this, check if the format of the video is supported by PowerPoint. If not, consider using an effective converter like Wondershare UniConverter to convert the clip to a compatible format before importing
+* **Missing Codecs** – To fix this, install the required codecs on your PC. Nevertheless, if you’re using an MP4 file, it is unlikely that you encounter such an issue
+* **Overly Populated ‘Temp’ Folder** – To fix this, type **%TEMP%** in the search box, and press **Enter**. Now, press **Ctrl** \+ **A** to select all the contents, and hit **Delete** to get rid of them. Next, restart the computer and try again to see if the issue is fixed
+
+02 [Change the Speed of a PowerPoint Animation](#part2)
+
+03 [FAQs About Change PPT Speed](#part3)
+
+Why Not Customize the Video Speed Before Adding it to PowerPoint? Try This!
+
+[**Filmora Video Speed Changer**](https://tools.techidaily.com/wondershare/filmora/download/) offers video speed-changing templates to automatically reset the video speed. Of course, you can manually slow down the speed of a part of the video to emphasize the important part or speed up to get a quick view. It's all up to you!
+
+[Change Video Speed](https://tools.techidaily.com/wondershare/filmora/download/) [Change Video Speed](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
+[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Part 1: How to Change PowerPoint Video Playback Speed to Speed Up Video
+
+The process that is given below explains how you can modify (increase or decrease) the playback speed of a video in PowerPoint:
+
+**Step 1: Enable the Developer Tab**
+
+Launch Microsoft PowerPoint on your Windows computer (Microsoft PowerPoint 2019 on a PC running Windows 11 is used here for illustrations), and start with a blank presentation. Next, go to **File** from the menu bar at the top, and click **Options** from the bottom of the navigation bar on the left.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![powerpoint options](https://images.wondershare.com/filmora/article-images/powerpoint-options.jpg)
+
+From the left pane of the **PowerPoint Options** box that opens up, click to select the **Customize Ribbon** category, and from the **Main Tabs** list in the right window, check the **Developer** box. Click **OK** from the bottom to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+![enable powerpoint developer option](https://images.wondershare.com/filmora/article-images/enable-powerpoint-developer-option.jpg)
+
+**Step 2: Add a Windows Media Player Instance**
+
+Back on the main interface, go to the **Developer** tab. Click **More Controls** from the **Controls** section of the ribbon.
+
+![powerpoint controls](https://images.wondershare.com/filmora/article-images/powerpoint-controls.jpg)
+
+When the **More Controls** box appears, scroll down and click to select **Windows Media Player**, and click **OK** from the bottom.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+![powerpoint more controls windows media player](https://images.wondershare.com/filmora/article-images/powerpoint-more-controls-windows-media-player.jpg)
+
+Back on the canvas, click and drag the mouse to the scale that you want the size of Windows Media Player to be.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![place windows media player window powerpoint](https://images.wondershare.com/filmora/article-images/place-windows-media-player-window-powerpoint.jpg)
+
+Click **Enable ActiveX** when PowerPoint prompts for, to add a new instance of Windows Media Player.
+
+![powerpoint enable activex](https://images.wondershare.com/filmora/article-images/powerpoint-enable-activex.jpg)
+
+#### Video Speed Editor
+
+A smooth tool to [edit video](https://tools.techidaily.com/wondershare/filmora/download/) speed on your PC and Mac, you can speed up, slow down, use key frame and more.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
+![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
+
+**Step 3: Select the Source Video and Customize the Playback Speed**
+
+Right-click anywhere on **Windows Media Player**, and click **Property Sheet** from the context menu that comes up.
+
+![powerpoint property sheet](https://images.wondershare.com/filmora/article-images/powerpoint-property-sheet.jpg)
+
+From the **Properties** box, double-click the **Custom** option from the **Alphabetic** tab.
+
+![customize powerpoint properties](https://images.wondershare.com/filmora/article-images/customize-powerpoint-properties.jpg)
+
+On the **Windows Media Player Properties** box, make sure that you are on the **General** tab, click **Browse** from the **Source** section, and browse for and select the source video.
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![windows media player properties setting powerpoint](https://images.wondershare.com/filmora/article-images/windows-media-player-properties-setting-powerpoint.jpg)
+
+Next, go to the **Advanced** tab, and increase the value of the **Rate** field that is present in the **Controls settings** section. Click **OK** when done to save the changes and close the box. Close the **Properties** box as well. Finally, press **F5** on the keyboard to preview the presentation with the increased video speed.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
+![media player properties advanced settings powerpoint](https://images.wondershare.com/filmora/article-images/media-player-properties-advanced-settings-powerpoint.jpg)
+
+**Note:** Defining 2 in the ‘Rate’ field increases the playback speed of the video by 2x. Likewise, specifying the 0.5 value reduces the speed to half.
+
+**Note:** Make sure to save the file as ‘PowerPoint Macro-Enabled Presentation’ to retain the customized preferences of Windows Media Player.
+
+![filmora box](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
+
+Filmora Video Speed Changer
+
+#### Change Video Speed with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Filmora video speed changer offers speed templates to changing speed in 1-click. You can reedit or add more keyframes to speed up and slow down the video according to your needs.
+
+[Start Video Speed Changing](https://tools.techidaily.com/wondershare/filmora/download/) [Start Video Speed Changing](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+## Part 2: How to Change the Speed of a PowerPoint Animation
+
+In addition to modifying the playback speed of the video that you have imported to PowerPoint presentation, you can even customize the overall duration of the animations that each of the slides the app has.
+
+Although you can customize the speed for each object individually, increasing or decreasing the animation speed in a single go not only saves you a lot of time but also simplifies the entire customization process as well.
+
+The method that is given below explains how you can change the speed of a PowerPoint animation of a slide:
+
+**Step 1: Get to the Target Slide**
+
+Launch Microsoft PowerPoint and open the presentation that has the animations that you want to speed up, and go to the target slide.
+
+**Step 2: Change the Speed of the Animations**
+
+Go to the **Animation** tab from the top. Press **Ctrl** \+ **A** to select all the objects on the canvas. Now, modify the value in the **Duration** field that is present in the **Timing** section of the ribbon.
+
+Where increasing the duration slows down the animation speed, decreasing it speeds up the animation. Simply put, the value in the duration field is inversely proportional to the speed of the animation.
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![change animation speed powerpoint](https://images.wondershare.com/filmora/article-images/change-animation-speed-powerpoint.jpg)
+
+**Note:** You can follow the same procedure to manage the animation speed for all the slides in the presentation.
+
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Part 3: FAQs About Change PPT Speed
+
+**Q1) Why is my video lagging in PowerPoint?**
+
+There could be several reasons for this. Some of the common ones are listed below:
+
+* You may have not configured the playback speed correctly (To fix this, go to the Windows Media Player Properties box as explained earlier, and configure various resolution and speed options accordingly)
+* Your GPU is old, and doesn’t support the resolution of the video clip (To fix this, go to File > Info > Compress Media and choose a lower resolution) (Choose Presentation Quality on the Microsoft PowerPoint 2010 – PowerPoint 2016 versions)
+* Hardware acceleration is turned off. (To fix this, go to File > Options > Advanced > Display and uncheck the ‘Display Slide Show hardware graphics acceleration’ box)
+
+**Q2) Why I cannot insert video in PowerPoint?**
+
+You may want to check if the video is of a compatible format. It would be good to use an MP4 video as it integrates seamlessly with most applications.
+
+**Q3) Which video format is best for PowerPoint?**
+
+Listed below are some of the formats that PowerPoint supports:
+
+* \*.asf
+* \*.avi
+* \*.mp4, \*.m4v, \*.mov
+* \*.mpg, \*.mpeg
+* \*.wmv
+
+However, considering the popularity and compatibility, MP4 is the format that is suggested by many professionals.
+
+**Q4) Why PowerPoint cannot play media?**
+
+Some most common reasons for this issue include:
+
+* **Incompatible Media** – To fix this, go to File > Info and click ‘Optimize Compatibility’ (The tile will automatically appear if the presentation has an incompatible media file)
+* **Unrecognized Format** – To fix this, check if the format of the video is supported by PowerPoint. If not, consider using an effective converter like Wondershare UniConverter to convert the clip to a compatible format before importing
+* **Missing Codecs** – To fix this, install the required codecs on your PC. Nevertheless, if you’re using an MP4 file, it is unlikely that you encounter such an issue
+* **Overly Populated ‘Temp’ Folder** – To fix this, type **%TEMP%** in the search box, and press **Enter**. Now, press **Ctrl** \+ **A** to select all the contents, and hit **Delete** to get rid of them. Next, restart the computer and try again to see if the issue is fixed
+
+02 [Change the Speed of a PowerPoint Animation](#part2)
+
+03 [FAQs About Change PPT Speed](#part3)
+
+Why Not Customize the Video Speed Before Adding it to PowerPoint? Try This!
+
+[**Filmora Video Speed Changer**](https://tools.techidaily.com/wondershare/filmora/download/) offers video speed-changing templates to automatically reset the video speed. Of course, you can manually slow down the speed of a part of the video to emphasize the important part or speed up to get a quick view. It's all up to you!
+
+[Change Video Speed](https://tools.techidaily.com/wondershare/filmora/download/) [Change Video Speed](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Part 1: How to Change PowerPoint Video Playback Speed to Speed Up Video
+
+The process that is given below explains how you can modify (increase or decrease) the playback speed of a video in PowerPoint:
+
+**Step 1: Enable the Developer Tab**
+
+Launch Microsoft PowerPoint on your Windows computer (Microsoft PowerPoint 2019 on a PC running Windows 11 is used here for illustrations), and start with a blank presentation. Next, go to **File** from the menu bar at the top, and click **Options** from the bottom of the navigation bar on the left.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![powerpoint options](https://images.wondershare.com/filmora/article-images/powerpoint-options.jpg)
+
+From the left pane of the **PowerPoint Options** box that opens up, click to select the **Customize Ribbon** category, and from the **Main Tabs** list in the right window, check the **Developer** box. Click **OK** from the bottom to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
+![enable powerpoint developer option](https://images.wondershare.com/filmora/article-images/enable-powerpoint-developer-option.jpg)
+
+**Step 2: Add a Windows Media Player Instance**
+
+Back on the main interface, go to the **Developer** tab. Click **More Controls** from the **Controls** section of the ribbon.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
+![powerpoint controls](https://images.wondershare.com/filmora/article-images/powerpoint-controls.jpg)
+
+When the **More Controls** box appears, scroll down and click to select **Windows Media Player**, and click **OK** from the bottom.
+
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![powerpoint more controls windows media player](https://images.wondershare.com/filmora/article-images/powerpoint-more-controls-windows-media-player.jpg)
+
+Back on the canvas, click and drag the mouse to the scale that you want the size of Windows Media Player to be.
+
+![place windows media player window powerpoint](https://images.wondershare.com/filmora/article-images/place-windows-media-player-window-powerpoint.jpg)
+
+Click **Enable ActiveX** when PowerPoint prompts for, to add a new instance of Windows Media Player.
+
+![powerpoint enable activex](https://images.wondershare.com/filmora/article-images/powerpoint-enable-activex.jpg)
+
+#### Video Speed Editor
+
+A smooth tool to [edit video](https://tools.techidaily.com/wondershare/filmora/download/) speed on your PC and Mac, you can speed up, slow down, use key frame and more.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
+
+**Step 3: Select the Source Video and Customize the Playback Speed**
+
+Right-click anywhere on **Windows Media Player**, and click **Property Sheet** from the context menu that comes up.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
+![powerpoint property sheet](https://images.wondershare.com/filmora/article-images/powerpoint-property-sheet.jpg)
+
+From the **Properties** box, double-click the **Custom** option from the **Alphabetic** tab.
+
+![customize powerpoint properties](https://images.wondershare.com/filmora/article-images/customize-powerpoint-properties.jpg)
+
+On the **Windows Media Player Properties** box, make sure that you are on the **General** tab, click **Browse** from the **Source** section, and browse for and select the source video.
+
+![windows media player properties setting powerpoint](https://images.wondershare.com/filmora/article-images/windows-media-player-properties-setting-powerpoint.jpg)
+
+Next, go to the **Advanced** tab, and increase the value of the **Rate** field that is present in the **Controls settings** section. Click **OK** when done to save the changes and close the box. Close the **Properties** box as well. Finally, press **F5** on the keyboard to preview the presentation with the increased video speed.
+
+![media player properties advanced settings powerpoint](https://images.wondershare.com/filmora/article-images/media-player-properties-advanced-settings-powerpoint.jpg)
+
+**Note:** Defining 2 in the ‘Rate’ field increases the playback speed of the video by 2x. Likewise, specifying the 0.5 value reduces the speed to half.
+
+**Note:** Make sure to save the file as ‘PowerPoint Macro-Enabled Presentation’ to retain the customized preferences of Windows Media Player.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora box](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 Filmora Video Speed Changer
@@ -191,6 +583,9 @@ Why Not Customize the Video Speed Before Adding it to PowerPoint? Try This!
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Change PowerPoint Video Playback Speed to Speed Up Video
 
 The process that is given below explains how you can modify (increase or decrease) the playback speed of a video in PowerPoint:
@@ -213,14 +608,24 @@ Back on the main interface, go to the **Developer** tab. Click **More Controls**
 
 When the **More Controls** box appears, scroll down and click to select **Windows Media Player**, and click **OK** from the bottom.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![powerpoint more controls windows media player](https://images.wondershare.com/filmora/article-images/powerpoint-more-controls-windows-media-player.jpg)
 
 Back on the canvas, click and drag the mouse to the scale that you want the size of Windows Media Player to be.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![place windows media player window powerpoint](https://images.wondershare.com/filmora/article-images/place-windows-media-player-window-powerpoint.jpg)
 
 Click **Enable ActiveX** when PowerPoint prompts for, to add a new instance of Windows Media Player.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![powerpoint enable activex](https://images.wondershare.com/filmora/article-images/powerpoint-enable-activex.jpg)
 
 #### Video Speed Editor
@@ -239,6 +644,9 @@ A smooth tool to [edit video](https://tools.techidaily.com/wondershare/filmora/d
 
 Right-click anywhere on **Windows Media Player**, and click **Property Sheet** from the context menu that comes up.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![powerpoint property sheet](https://images.wondershare.com/filmora/article-images/powerpoint-property-sheet.jpg)
 
 From the **Properties** box, double-click the **Custom** option from the **Alphabetic** tab.
@@ -247,312 +655,16 @@ From the **Properties** box, double-click the **Custom** option from the **Alpha
 
 On the **Windows Media Player Properties** box, make sure that you are on the **General** tab, click **Browse** from the **Source** section, and browse for and select the source video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![windows media player properties setting powerpoint](https://images.wondershare.com/filmora/article-images/windows-media-player-properties-setting-powerpoint.jpg)
 
 Next, go to the **Advanced** tab, and increase the value of the **Rate** field that is present in the **Controls settings** section. Click **OK** when done to save the changes and close the box. Close the **Properties** box as well. Finally, press **F5** on the keyboard to preview the presentation with the increased video speed.
 
-![media player properties advanced settings powerpoint](https://images.wondershare.com/filmora/article-images/media-player-properties-advanced-settings-powerpoint.jpg)
-
-**Note:** Defining 2 in the ‘Rate’ field increases the playback speed of the video by 2x. Likewise, specifying the 0.5 value reduces the speed to half.
-
-**Note:** Make sure to save the file as ‘PowerPoint Macro-Enabled Presentation’ to retain the customized preferences of Windows Media Player.
-
-![filmora box](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
-
-Filmora Video Speed Changer
-
-#### Change Video Speed with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Filmora video speed changer offers speed templates to changing speed in 1-click. You can reedit or add more keyframes to speed up and slow down the video according to your needs.
-
-[Start Video Speed Changing](https://tools.techidaily.com/wondershare/filmora/download/) [Start Video Speed Changing](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
-
-[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Part 2: How to Change the Speed of a PowerPoint Animation
-
-In addition to modifying the playback speed of the video that you have imported to PowerPoint presentation, you can even customize the overall duration of the animations that each of the slides the app has.
-
-Although you can customize the speed for each object individually, increasing or decreasing the animation speed in a single go not only saves you a lot of time but also simplifies the entire customization process as well.
-
-The method that is given below explains how you can change the speed of a PowerPoint animation of a slide:
-
-**Step 1: Get to the Target Slide**
-
-Launch Microsoft PowerPoint and open the presentation that has the animations that you want to speed up, and go to the target slide.
-
-**Step 2: Change the Speed of the Animations**
-
-Go to the **Animation** tab from the top. Press **Ctrl** \+ **A** to select all the objects on the canvas. Now, modify the value in the **Duration** field that is present in the **Timing** section of the ribbon.
-
-Where increasing the duration slows down the animation speed, decreasing it speeds up the animation. Simply put, the value in the duration field is inversely proportional to the speed of the animation.
-
-![change animation speed powerpoint](https://images.wondershare.com/filmora/article-images/change-animation-speed-powerpoint.jpg)
-
-**Note:** You can follow the same procedure to manage the animation speed for all the slides in the presentation.
-
-## Part 3: FAQs About Change PPT Speed
-
-**Q1) Why is my video lagging in PowerPoint?**
-
-There could be several reasons for this. Some of the common ones are listed below:
-
-* You may have not configured the playback speed correctly (To fix this, go to the Windows Media Player Properties box as explained earlier, and configure various resolution and speed options accordingly)
-* Your GPU is old, and doesn’t support the resolution of the video clip (To fix this, go to File > Info > Compress Media and choose a lower resolution) (Choose Presentation Quality on the Microsoft PowerPoint 2010 – PowerPoint 2016 versions)
-* Hardware acceleration is turned off. (To fix this, go to File > Options > Advanced > Display and uncheck the ‘Display Slide Show hardware graphics acceleration’ box)
-
-**Q2) Why I cannot insert video in PowerPoint?**
-
-You may want to check if the video is of a compatible format. It would be good to use an MP4 video as it integrates seamlessly with most applications.
-
-**Q3) Which video format is best for PowerPoint?**
-
-Listed below are some of the formats that PowerPoint supports:
-
-* \*.asf
-* \*.avi
-* \*.mp4, \*.m4v, \*.mov
-* \*.mpg, \*.mpeg
-* \*.wmv
-
-However, considering the popularity and compatibility, MP4 is the format that is suggested by many professionals.
-
-**Q4) Why PowerPoint cannot play media?**
-
-Some most common reasons for this issue include:
-
-* **Incompatible Media** – To fix this, go to File > Info and click ‘Optimize Compatibility’ (The tile will automatically appear if the presentation has an incompatible media file)
-* **Unrecognized Format** – To fix this, check if the format of the video is supported by PowerPoint. If not, consider using an effective converter like Wondershare UniConverter to convert the clip to a compatible format before importing
-* **Missing Codecs** – To fix this, install the required codecs on your PC. Nevertheless, if you’re using an MP4 file, it is unlikely that you encounter such an issue
-* **Overly Populated ‘Temp’ Folder** – To fix this, type **%TEMP%** in the search box, and press **Enter**. Now, press **Ctrl** \+ **A** to select all the contents, and hit **Delete** to get rid of them. Next, restart the computer and try again to see if the issue is fixed
-
-02 [Change the Speed of a PowerPoint Animation](#part2)
-
-03 [FAQs About Change PPT Speed](#part3)
-
-Why Not Customize the Video Speed Before Adding it to PowerPoint? Try This!
-
-[**Filmora Video Speed Changer**](https://tools.techidaily.com/wondershare/filmora/download/) offers video speed-changing templates to automatically reset the video speed. Of course, you can manually slow down the speed of a part of the video to emphasize the important part or speed up to get a quick view. It's all up to you!
-
-[Change Video Speed](https://tools.techidaily.com/wondershare/filmora/download/) [Change Video Speed](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
-
-[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Part 1: How to Change PowerPoint Video Playback Speed to Speed Up Video
-
-The process that is given below explains how you can modify (increase or decrease) the playback speed of a video in PowerPoint:
-
-**Step 1: Enable the Developer Tab**
-
-Launch Microsoft PowerPoint on your Windows computer (Microsoft PowerPoint 2019 on a PC running Windows 11 is used here for illustrations), and start with a blank presentation. Next, go to **File** from the menu bar at the top, and click **Options** from the bottom of the navigation bar on the left.
-
-![powerpoint options](https://images.wondershare.com/filmora/article-images/powerpoint-options.jpg)
-
-From the left pane of the **PowerPoint Options** box that opens up, click to select the **Customize Ribbon** category, and from the **Main Tabs** list in the right window, check the **Developer** box. Click **OK** from the bottom to save the changes.
-
-![enable powerpoint developer option](https://images.wondershare.com/filmora/article-images/enable-powerpoint-developer-option.jpg)
-
-**Step 2: Add a Windows Media Player Instance**
-
-Back on the main interface, go to the **Developer** tab. Click **More Controls** from the **Controls** section of the ribbon.
-
-![powerpoint controls](https://images.wondershare.com/filmora/article-images/powerpoint-controls.jpg)
-
-When the **More Controls** box appears, scroll down and click to select **Windows Media Player**, and click **OK** from the bottom.
-
-![powerpoint more controls windows media player](https://images.wondershare.com/filmora/article-images/powerpoint-more-controls-windows-media-player.jpg)
-
-Back on the canvas, click and drag the mouse to the scale that you want the size of Windows Media Player to be.
-
-![place windows media player window powerpoint](https://images.wondershare.com/filmora/article-images/place-windows-media-player-window-powerpoint.jpg)
-
-Click **Enable ActiveX** when PowerPoint prompts for, to add a new instance of Windows Media Player.
-
-![powerpoint enable activex](https://images.wondershare.com/filmora/article-images/powerpoint-enable-activex.jpg)
-
-#### Video Speed Editor
-
-A smooth tool to [edit video](https://tools.techidaily.com/wondershare/filmora/download/) speed on your PC and Mac, you can speed up, slow down, use key frame and more.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
-
-[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
-
-**Step 3: Select the Source Video and Customize the Playback Speed**
-
-Right-click anywhere on **Windows Media Player**, and click **Property Sheet** from the context menu that comes up.
-
-![powerpoint property sheet](https://images.wondershare.com/filmora/article-images/powerpoint-property-sheet.jpg)
-
-From the **Properties** box, double-click the **Custom** option from the **Alphabetic** tab.
-
-![customize powerpoint properties](https://images.wondershare.com/filmora/article-images/customize-powerpoint-properties.jpg)
-
-On the **Windows Media Player Properties** box, make sure that you are on the **General** tab, click **Browse** from the **Source** section, and browse for and select the source video.
-
-![windows media player properties setting powerpoint](https://images.wondershare.com/filmora/article-images/windows-media-player-properties-setting-powerpoint.jpg)
-
-Next, go to the **Advanced** tab, and increase the value of the **Rate** field that is present in the **Controls settings** section. Click **OK** when done to save the changes and close the box. Close the **Properties** box as well. Finally, press **F5** on the keyboard to preview the presentation with the increased video speed.
-
-![media player properties advanced settings powerpoint](https://images.wondershare.com/filmora/article-images/media-player-properties-advanced-settings-powerpoint.jpg)
-
-**Note:** Defining 2 in the ‘Rate’ field increases the playback speed of the video by 2x. Likewise, specifying the 0.5 value reduces the speed to half.
-
-**Note:** Make sure to save the file as ‘PowerPoint Macro-Enabled Presentation’ to retain the customized preferences of Windows Media Player.
-
-![filmora box](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
-
-Filmora Video Speed Changer
-
-#### Change Video Speed with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Filmora video speed changer offers speed templates to changing speed in 1-click. You can reedit or add more keyframes to speed up and slow down the video according to your needs.
-
-[Start Video Speed Changing](https://tools.techidaily.com/wondershare/filmora/download/) [Start Video Speed Changing](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
-
-[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Part 2: How to Change the Speed of a PowerPoint Animation
-
-In addition to modifying the playback speed of the video that you have imported to PowerPoint presentation, you can even customize the overall duration of the animations that each of the slides the app has.
-
-Although you can customize the speed for each object individually, increasing or decreasing the animation speed in a single go not only saves you a lot of time but also simplifies the entire customization process as well.
-
-The method that is given below explains how you can change the speed of a PowerPoint animation of a slide:
-
-**Step 1: Get to the Target Slide**
-
-Launch Microsoft PowerPoint and open the presentation that has the animations that you want to speed up, and go to the target slide.
-
-**Step 2: Change the Speed of the Animations**
-
-Go to the **Animation** tab from the top. Press **Ctrl** \+ **A** to select all the objects on the canvas. Now, modify the value in the **Duration** field that is present in the **Timing** section of the ribbon.
-
-Where increasing the duration slows down the animation speed, decreasing it speeds up the animation. Simply put, the value in the duration field is inversely proportional to the speed of the animation.
-
-![change animation speed powerpoint](https://images.wondershare.com/filmora/article-images/change-animation-speed-powerpoint.jpg)
-
-**Note:** You can follow the same procedure to manage the animation speed for all the slides in the presentation.
-
-## Part 3: FAQs About Change PPT Speed
-
-**Q1) Why is my video lagging in PowerPoint?**
-
-There could be several reasons for this. Some of the common ones are listed below:
-
-* You may have not configured the playback speed correctly (To fix this, go to the Windows Media Player Properties box as explained earlier, and configure various resolution and speed options accordingly)
-* Your GPU is old, and doesn’t support the resolution of the video clip (To fix this, go to File > Info > Compress Media and choose a lower resolution) (Choose Presentation Quality on the Microsoft PowerPoint 2010 – PowerPoint 2016 versions)
-* Hardware acceleration is turned off. (To fix this, go to File > Options > Advanced > Display and uncheck the ‘Display Slide Show hardware graphics acceleration’ box)
-
-**Q2) Why I cannot insert video in PowerPoint?**
-
-You may want to check if the video is of a compatible format. It would be good to use an MP4 video as it integrates seamlessly with most applications.
-
-**Q3) Which video format is best for PowerPoint?**
-
-Listed below are some of the formats that PowerPoint supports:
-
-* \*.asf
-* \*.avi
-* \*.mp4, \*.m4v, \*.mov
-* \*.mpg, \*.mpeg
-* \*.wmv
-
-However, considering the popularity and compatibility, MP4 is the format that is suggested by many professionals.
-
-**Q4) Why PowerPoint cannot play media?**
-
-Some most common reasons for this issue include:
-
-* **Incompatible Media** – To fix this, go to File > Info and click ‘Optimize Compatibility’ (The tile will automatically appear if the presentation has an incompatible media file)
-* **Unrecognized Format** – To fix this, check if the format of the video is supported by PowerPoint. If not, consider using an effective converter like Wondershare UniConverter to convert the clip to a compatible format before importing
-* **Missing Codecs** – To fix this, install the required codecs on your PC. Nevertheless, if you’re using an MP4 file, it is unlikely that you encounter such an issue
-* **Overly Populated ‘Temp’ Folder** – To fix this, type **%TEMP%** in the search box, and press **Enter**. Now, press **Ctrl** \+ **A** to select all the contents, and hit **Delete** to get rid of them. Next, restart the computer and try again to see if the issue is fixed
-
-02 [Change the Speed of a PowerPoint Animation](#part2)
-
-03 [FAQs About Change PPT Speed](#part3)
-
-Why Not Customize the Video Speed Before Adding it to PowerPoint? Try This!
-
-[**Filmora Video Speed Changer**](https://tools.techidaily.com/wondershare/filmora/download/) offers video speed-changing templates to automatically reset the video speed. Of course, you can manually slow down the speed of a part of the video to emphasize the important part or speed up to get a quick view. It's all up to you!
-
-[Change Video Speed](https://tools.techidaily.com/wondershare/filmora/download/) [Change Video Speed](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
-
-[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Part 1: How to Change PowerPoint Video Playback Speed to Speed Up Video
-
-The process that is given below explains how you can modify (increase or decrease) the playback speed of a video in PowerPoint:
-
-**Step 1: Enable the Developer Tab**
-
-Launch Microsoft PowerPoint on your Windows computer (Microsoft PowerPoint 2019 on a PC running Windows 11 is used here for illustrations), and start with a blank presentation. Next, go to **File** from the menu bar at the top, and click **Options** from the bottom of the navigation bar on the left.
-
-![powerpoint options](https://images.wondershare.com/filmora/article-images/powerpoint-options.jpg)
-
-From the left pane of the **PowerPoint Options** box that opens up, click to select the **Customize Ribbon** category, and from the **Main Tabs** list in the right window, check the **Developer** box. Click **OK** from the bottom to save the changes.
-
-![enable powerpoint developer option](https://images.wondershare.com/filmora/article-images/enable-powerpoint-developer-option.jpg)
-
-**Step 2: Add a Windows Media Player Instance**
-
-Back on the main interface, go to the **Developer** tab. Click **More Controls** from the **Controls** section of the ribbon.
-
-![powerpoint controls](https://images.wondershare.com/filmora/article-images/powerpoint-controls.jpg)
-
-When the **More Controls** box appears, scroll down and click to select **Windows Media Player**, and click **OK** from the bottom.
-
-![powerpoint more controls windows media player](https://images.wondershare.com/filmora/article-images/powerpoint-more-controls-windows-media-player.jpg)
-
-Back on the canvas, click and drag the mouse to the scale that you want the size of Windows Media Player to be.
-
-![place windows media player window powerpoint](https://images.wondershare.com/filmora/article-images/place-windows-media-player-window-powerpoint.jpg)
-
-Click **Enable ActiveX** when PowerPoint prompts for, to add a new instance of Windows Media Player.
-
-![powerpoint enable activex](https://images.wondershare.com/filmora/article-images/powerpoint-enable-activex.jpg)
-
-#### Video Speed Editor
-
-A smooth tool to [edit video](https://tools.techidaily.com/wondershare/filmora/download/) speed on your PC and Mac, you can speed up, slow down, use key frame and more.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
-
-[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
-
-**Step 3: Select the Source Video and Customize the Playback Speed**
-
-Right-click anywhere on **Windows Media Player**, and click **Property Sheet** from the context menu that comes up.
-
-![powerpoint property sheet](https://images.wondershare.com/filmora/article-images/powerpoint-property-sheet.jpg)
-
-From the **Properties** box, double-click the **Custom** option from the **Alphabetic** tab.
-
-![customize powerpoint properties](https://images.wondershare.com/filmora/article-images/customize-powerpoint-properties.jpg)
-
-On the **Windows Media Player Properties** box, make sure that you are on the **General** tab, click **Browse** from the **Source** section, and browse for and select the source video.
-
-![windows media player properties setting powerpoint](https://images.wondershare.com/filmora/article-images/windows-media-player-properties-setting-powerpoint.jpg)
-
-Next, go to the **Advanced** tab, and increase the value of the **Rate** field that is present in the **Controls settings** section. Click **OK** when done to save the changes and close the box. Close the **Properties** box as well. Finally, press **F5** on the keyboard to preview the presentation with the increased video speed.
-
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![media player properties advanced settings powerpoint](https://images.wondershare.com/filmora/article-images/media-player-properties-advanced-settings-powerpoint.jpg)
 
 **Note:** Defining 2 in the ‘Rate’ field increases the playback speed of the video by 2x. Likewise, specifying the 0.5 value reduces the speed to half.
@@ -654,3 +766,32 @@ Some most common reasons for this issue include:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-cognitive-conclave-selective-general-knowledge-channels/"><u>[New] Cognitive Conclave  Selective General Knowledge Channels</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/20plus-cool-metaverse-memes-and-how-to-make-your-own-memes/"><u>20+ Cool Metaverse Memes and How to Make Your Own Memes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-peek-behind-windows-curtain-top-30-undisclosed-tips-for-windows-11/"><u>2024 Approved  A Peek Behind Window's Curtain  Top 30 Undisclosed Tips for Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-champions-list-best-call-alert-tunes-for-iphones/"><u>2024 Approved  Champion's List  Best Call Alert Tunes for iPhones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-craft-perfection-transforming-your-vhs-graphics-online/"><u>2024 Approved  Craft Perfection  Transforming Your VHS Graphics Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-captivating-titles-with-ae/"><u>2024 Approved  Crafting Captivating Titles with AE</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-4k-odyssey-begins-here-exploring-the-eizo-cg318-4k-monitor/"><u>A 4K Odyssey Begins Here – Exploring the EIZO CG318-4K Monitor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/behind-the-scenes-of-making-memes-funny-for-2024/"><u>Behind-the-Scenes of Making Memes Funny for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exclusive-hats-review-best-action-cameras-on-two-wheels/"><u>Exclusive Hats Review  Best Action Cameras on Two Wheels</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/explore-the-power-of-pip-on-modern-edge-browser/"><u>Explore the Power of PIP on Modern Edge Browser</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harness-power-of-persuasion-with-these-tips-for-reddit/"><u>Harness Power of Persuasion with These Tips for Reddit</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-comparative-look-at-rgb-and-srgb-for-designers/"><u>In 2024, A Comparative Look at Rgb and Srgb for Designers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-become-a-pixlr-wizard-10-easy-tricks-for-exceptional-edits/"><u>In 2024, Become a Pixlr Wizard  10 Easy Tricks for Exceptional Edits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-gear-vr-a-comprehensive-phone-compatibility-list-2023/"><u>Mastering Gear VR  A Comprehensive Phone Compatibility List 2023</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photo-puzzles-crafted-spark-joy-and-inspiration/"><u>Photo Puzzles Crafted  Spark Joy and Inspiration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photography-at-the-tip-of-your-fingers-top-10-apps/"><u>Photography at the Tip of Your Fingers – Top 10 Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/projector-or-tv-optimal-choice-for-excellent-4k-display-experience/"><u>Projector or TV  Optimal Choice for Excellent 4K Display Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-complete-mac-book-on-srt-file-handling/"><u>The Complete Mac Book on SRT File Handling</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essential-how-to-securely-downloading-gratis-vlc-on-macos/"><u>The Essential How-To  Securely Downloading Gratis VLC on MACOS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-edit-suite-apps-and-devices-tools-listed/"><u>Top Edit Suite (Apps & Devices) Tools Listed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-the-full-spectrum-of-vlc-player-capabilities/"><u>Unlocking the Full Spectrum of VLC Player Capabilities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-filmoras-most-attractive-edits/"><u>Unveiling Filmora's Most Attractive Edits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-ultimate-vr-experience-the-htc-vive-story/"><u>Unveiling the Ultimate VR Experience  The HTC Vive Story</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/which-action-cam-wins-max-360-vs-hero-11-analysis/"><u>Which Action Cam Wins  Max 360 vs Hero 11 Analysis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/zerocomplicationlivecast-your-simple-pathway-to-livestreaming-a-podcast/"><u>ZeroComplicationLivecast  Your Simple Pathway to Livestreaming a Podcast</u></a></li>
+</ul></div>

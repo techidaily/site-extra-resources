@@ -1,7 +1,7 @@
 ---
 title: "\"Sculpt the Subject  Mastering the Art of Background Takedown\""
-date: 2024-05-24T03:21:40.633Z
-updated: 2024-05-25T03:21:40.633Z
+date: 2024-07-25T01:14:58.026Z
+updated: 2024-07-26T01:14:58.026Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Sculpt the Subject: Mastering the Art of Background Takedown\""
 excerpt: "\"This Article Describes Sculpt the Subject: Mastering the Art of Background Takedown\""
 keywords: "BgImgAcquireSkill,ImagProcCraft,BackGrdImagePrt,PhotoBackGrdArt,CrafTImgGainLsk,GrdImgFrmProce,ArtImgBckMng"
-thumbnail: https://www.lifewire.com/thmb/BW2Lher3W3SF0AiM8EKoxi1zUQw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-597071115-37c5865742de421eafc8b7da4cc5a618.jpg
+thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0cd1ef1d90d54872beba93f1.jpg
 ---
 
 ## Sculpt the Subject: Mastering the Art of Background Takedown
@@ -24,12 +24,18 @@ Removing the background from a picture can be tedious and time-consuming, especi
 
 So, if you're ready to find out how to **remove the image's background with Photopea**, then let's get started!
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Use Photopea To Remove The Image's Background
 
 Photopea offers three options for removing the images' background, i.e., Magic Wand Tool, Magic Cut, and manual selection.  
 Magic Wand tool is responsible for instantly removing the background of an image with solid colors. In comparison, the Magic Cut tool lets you erase complicated backgrounds.  
 However, if the image is detailed, you have to select the object and remove the background manually. Below we've provided step-by-step guides to show you how you can use the Magic Wand and Magic Cut tools:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### 1\. How To Use The Magic Wand Tool To Remove The Image's Background
 
 Here's how to use the Magic Wand tool to **remove the image's background with Photopea**:
@@ -38,6 +44,9 @@ Step1 In the first step, launch a browser on your PC and visit the [Photopea](ht
 
 Step2 In the next step, click the **"Magic Wand"** tool from the left-side panel and click the background of your image to select it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![selecting the magic wand tool in photopea](https://images.wondershare.com/filmora/article-images/2023/03/selecting-the-magic-wand-tool-in-photopea.png)
 
 Step3 Now, simply press the **"Delete"** button on your keyboard to remove the background. However, if the tool did not select some parts of the image's background, you need to adjust the settings. Click the **"Ctrl+Z"** key to undo the selection.
@@ -66,6 +75,9 @@ You can modify the brush size using the drop-down icon at the top-right of the w
 
 Step4 Once satisfied with your changes, click **"OK"** to save your settings and remove the background.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### 3\. Select the Subject Manually When The Image Is Detailed
 
 Although Magic Cut can handle difficult photos, there are also more precise tools available in Photopea that can help you erase the background from your images through manual selection. However, this process will be slower if your image is very detailed.
@@ -82,6 +94,9 @@ Step3 In the next step, select your object as precisely as possible. Now, right-
 
 Step4 Finally, hit the **"Delete"** button to remove the background.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## A Bonus Tip: How To Add The New Background After Removing The Image's Background
 
 Now that you've removed the BG from your images, you might want to add a new one. Luckily, Photopea can help you with this.
@@ -90,12 +105,18 @@ To add a new background after removing the image's background, do the following 
 
 Step1 Click the **"File"** option from the top menu and select **"Open & Place..."**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![adding new background to image in photopea](https://images.wondershare.com/filmora/article-images/2023/03/adding-new-background-to-image-in-photopea.png)
 
 Step2 Choose the new background image from your system and click **"Open"** to import it to **"Photopea."**
 
 Step3 Now, click the **"Edit"** option from the top menu and select **"Transform" > "Scale."** Drag the handles to resize the background image and click **"Enter"** to apply the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![scaling the new background image](https://images.wondershare.com/filmora/article-images/2023/03/scaling-the-new-background-image.png)
 
 Step4 Under the **"Layers"** header in the right panel, drag the new image layer below the object layer, and the background will be applied to your object.
@@ -108,6 +129,9 @@ If you want to remove the BG of an image with just one click or of images in bul
 
 PixCut's Artificial Intelligence-based background remover can erase the background of your images in just a few clicks. You can also use the **"Bulk Remove BG"** feature to erase the background of pictures in bulk.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Image Resizer
 
 With its Image Resizer tool, you can make your image smaller or larger in size to fulfill your requirements.
@@ -116,6 +140,9 @@ With its Image Resizer tool, you can make your image smaller or larger in size t
 
 PixCut also offers the "Erase & Restore" tool to help you remove or restore certain parts of your image after removing the background using the AI-based tool.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### Background Change
 
 PixCut gives you the option to change the removed background to something more unique using the presets available on the platform or by adding your own templates/images.
@@ -128,8 +155,15 @@ Once you've erased the background from your objects in PixCut, you can also add 
 
 PixCut also removes watermarks from your pictures, allowing you to bypass copyright restrictions and use images for commercial purposes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![wondershare pixcut](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut.png)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## You May Be Interested In: How To Get Free Images
 
 Hopefully, you've found this guide helpful and can now make changes to your image's background without much effort. Last but not least, we have provided you with a video how to get more free images from a user-friendly video editor - [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). If you have any interests, you can watch it:
@@ -178,3 +212,34 @@ Additionally, we recommended using Wondershare PixCut as the best alternative to
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-10-steps-to-become-a-successful-smm/"><u>[New] 10 Steps to Become a Successful SMM</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-beyond-reality-mastering-the-subtleties-of-ps-distortions/"><u>[New] Beyond Reality  Mastering the Subtleties of PS Distortions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-illusions-the-art-of-time-and-space-manipulation/"><u>[New] Crafting Illusions  The Art of Time & Space Manipulation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-9-steps-to-combat-chromes-video-blackout/"><u>[Updated] 9 Steps to Combat Chrome's Video Blackout</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-binaural-bliss-broken-recovery-steps/"><u>[Updated] Binaural Bliss Broken  Recovery Steps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-boost-your-productivity-mastering-zoom-within-the-gmail-framework/"><u>[Updated] Boost Your Productivity  Mastering Zoom Within the Gmail Framework</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-comprehensive-guide-to-focusing-on-your-iphone-camera/"><u>2024 Approved  A Comprehensive Guide to Focusing on Your iPhone Camera</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-auroras-approach-to-hdv-standing-out-or-same-old/"><u>2024 Approved  Aurora's Approach to HDV  Standing Out or Same Old</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-captivating-collections-frames-and-organizers-of-the-future/"><u>2024 Approved  Captivating Collections  Frames & Organizers of the Future</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-guide-to-fine-tuning-your-google-meet-experience/"><u>A Guide to Fine-Tuning Your Google Meet Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-survey-life-through-the-spinning-sphere-of-samsung-for-2024/"><u>Comprehensive Survey  Life Through the Spinning Sphere of Samsung for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/digital-glow-up-video-quality-boosting-tools-list/"><u>Digital Glow-Up  Video Quality Boosting Tools List</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dreaming-shutterbugs-guide-top-6-4k-dslr-cameras/"><u>Dreaming Shutterbugs Guide  Top 6 4K DSLR Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ideal-hues-the-ultimate-guide-to-color-enhancement-11-steps/"><u>Ideal Hues  The Ultimate Guide to Color Enhancement (11 Steps)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-tiktok-edit-tricks-to-boost-creativity/"><u>In 2024, Advanced TikTok Edit Tricks to Boost Creativity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-androids-ultimate-guide-to-photo-editors-is-pickup-a-contender/"><u>In 2024, Android’s Ultimate Guide to Photo Editors  Is PickUp a Contender?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/jumpstart-to-understanding-av1-codecs/"><u>Jumpstart to Understanding AV1 Codecs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/laughlineup-app-become-a-master-at-memes/"><u>LaughLineup App - Become a Master at Memes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/learn-to-harness-funimates-downloading-power/"><u>Learn to Harness Funimate's Downloading Power</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastery-levels-explained-for-google-photos-users/"><u>Mastery Levels Explained for Google Photos Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/nine-techniques-for-reversing-livestream-engagement/"><u>Nine Techniques for Reversing Livestream Engagement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/peak-performance-pfv-settings-for-easy-movement/"><u>Peak Performance PFV Settings for Easy Movement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/polaroid-xs-100i-action-camera-review/"><u>Polaroid XS 100I Action Camera Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prophotomaster-the-ai-enhanced-editing-edge/"><u>ProPhotoMaster  The AI-Enhanced Editing Edge</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlined-approaches-for-efficient-gif-design/"><u>Streamlined Approaches for Efficient GIF Design</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/uniting-realms-a-comparative-study-of-mr-ar-and-vr-technologies/"><u>Uniting Realms  A Comparative Study of MR, AR, and VR Technologies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/your-complete-guide-to-understanding-srt-fundamentals/"><u>Your Complete Guide to Understanding SRT Fundamentals</u></a></li>
+</ul></div>

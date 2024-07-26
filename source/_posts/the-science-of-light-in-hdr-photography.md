@@ -1,7 +1,7 @@
 ---
 title: "The Science of Light in HDR Photography"
-date: 2024-05-24T03:54:01.594Z
-updated: 2024-05-25T03:54:01.594Z
+date: 2024-07-25T02:06:15.507Z
+updated: 2024-07-26T02:06:15.507Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Science of Light in HDR Photography"
 excerpt: "This Article Describes The Science of Light in HDR Photography"
 keywords: "\"HDR Photograpy Lighting,High-Dynamic Range Science,Light Techniques HDR Photo,HDR Shots Science Methods,Dynamic Range Science HDR,Light HDR Photography Science,HDR Photo Light Science\""
-thumbnail: https://www.lifewire.com/thmb/6CZu7SnYk3e0uxANpY66fUZIA7w=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/zoomupdate05-9290ece0b4704500aedcbd5db5d69016.jpg
+thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4b5a03be31336b43fbf43c35.jpg
 ---
 
 ## The Science of Light in HDR Photography
@@ -39,6 +39,9 @@ People often find it challenging to shoot a perfect HDR photograph from a phone 
 
 HDR portraits are best captured when your subject is still and the camera is also fixed on a tripod. So first, we will talk about how to shoot still portraits and then moving portraits.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Still HDR Portraits
 
 You can create a high-quality HDR portrait by following these simple steps.
@@ -68,10 +71,16 @@ So almost all DSLRs come with this beneficial feature of bracketing. You can che
 
 Usually, three shots are ideal for HDR portraits as the chances of moving decrease. Nowadays, many latest DSLRs have the option of automatic exposure bracketing as it provides the photographer with different levels of exposure in a single click without spending valuable time adjusting camera settings.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![moving decrease](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-2.jpg)
 
 Once you are done with your bracketing settings, all you have to do is press and hold the shutter, and your specified number of photos will be taken, each with a different exposure value.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ### Some Useful Tips to Remember
 
 1. **Try to Keep the Subject Still**
@@ -108,6 +117,9 @@ Shooting moving portraits in HDR can get a bit difficult because of blurring and
 
 **Solution 3\.** DSLRs with high-quality exposure and depth sensors can also help shoot HDR moving portraits.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## How to Edit and Merge Images to Create an HDR Portrait?
 
 After you have shot the images, the next step is to merge and edit them on photoshop or any other software to create a single perfect portrait.
@@ -118,6 +130,9 @@ Hundreds of editing software are available but here we are going to talk about p
 
 * First, when you open Photoshop, go to **Files >** **Automate > Merge to HDR pro,** Or click on **Tools > Photoshop > Merge to HDR pro**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tools photoshop merge to hdr pro](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-4.jpg)
 
 * Click on **Browse** and select the images you want to merge.
@@ -127,6 +142,9 @@ Hundreds of editing software are available but here we are going to talk about p
 
 * After the images are loaded, a dialogue box will appear on the right side with all the tools you need to edit your HDR portrait.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![edit hdr portrait](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-6.jpg)
 
 * Tick on the option of **Remove ghosts** to avoid any halos in the editing process.
@@ -170,6 +188,9 @@ The first and most crucial part of your camera setting is to choose between two 
 | You have more control over your camera settings.                                                                                    | The camera itself matches the aperture value with the appropriate shutter speed.                                                                               |
 | Suitable for professionals.                                                                                                         | Suitable for beginners.                                                                                                                                        |
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![camera setting](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-1.jpg)
 
 So it is your choice which mode you want to use. Both work perfectly with HDR photography.
@@ -206,6 +227,9 @@ You should adjust the focus manually instead of autofocus, as it may shift the f
 
 ![autofocus should be off](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### HDR Effects on Phone Camera
 
 Of course, everyone can't use a DSLR camera for shooting HDR portraits as the process is a bit difficult and requires some expertise. But you can achieve the same effects on your mobile phone. Many latest mobiles offer HDR features in their camera. Unlike the bracketing effect of professional cameras, mobile usually takes only one picture and then you can edit by using some third-party app. Hundreds of these photo editing apps allow you to change the brightness and contrast of your image to create a _"pseudo"_ HDR image.
@@ -234,15 +258,24 @@ Hundreds of editing software are available but here we are going to talk about p
 
 * First, when you open Photoshop, go to **Files >** **Automate > Merge to HDR pro,** Or click on **Tools > Photoshop > Merge to HDR pro**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tools photoshop merge to hdr pro](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-4.jpg)
 
 * Click on **Browse** and select the images you want to merge.
 * Before clicking the OK button, you can tick on the **Attempt to Automatically Align Source Images** option so that minor artifacts introduced while shooting the images can be removed by photoshop.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![removed by photoshop](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-5.jpg)
 
 * After the images are loaded, a dialogue box will appear on the right side with all the tools you need to edit your HDR portrait.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![edit hdr portrait](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-6.jpg)
 
 * Tick on the option of **Remove ghosts** to avoid any halos in the editing process.
@@ -257,6 +290,9 @@ Once you are done with all the adjustments, you'll finally have your perfect HDR
 
 If you are not satisfied with your resulting portrait image, you can further edit it in Lightroom or Photoshop.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## Final Words
 
 HDR portraits are way better than conventional portrait images as they bring out the photograph's fine details that are impossible to achieve otherwise.
@@ -291,3 +327,39 @@ It is not as difficult as it seems to shoot an HDR portrait. We have made it as 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-achieve-flawless-imagery-how-to-remove-backgrounds-on-canva/"><u>[New] Achieve Flawless Imagery  How to Remove Backgrounds on Canva</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-breaking-into-the-top-1m-youtube-view-hacks-revealed/"><u>[New] Breaking Into the Top 1M  YouTube View Hacks Revealed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-chip-synergy-flawless-video-editing-redefined-by-m1s-efficiency/"><u>[New] Chip Synergy  Flawless Video Editing Redefined by M1's Efficiency</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-new-era-of-business-with-vr-integration/"><u>[Updated] A New Era of Business with VR Integration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-no-fee-apps-your-guide-to-downloading-pinterest-content/"><u>[Updated] Best No-Fee Apps  Your Guide to Downloading Pinterest Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-boost-your-iphone-videography-skills-master-these-8-essentials/"><u>[Updated] Boost Your iPhone Videography Skills  Master These 8 Essentials</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-tomtom-bandit-action-camera-review/"><u>[Updated] TomTom Bandit Action Camera Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2022-speed-skating-spectacle/"><u>2022 Speed Skating Spectacle</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-online-hubs-sky-high-dynamic-range-photography/"><u>2024 Approved  Best Online Hubs  Sky High Dynamic Range Photography</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-stunning-hdr-portraits-step-by-step-instructions/"><u>2024 Approved  Capturing Stunning HDR Portraits  Step-by-Step Instructions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/asus-proart-pa-329q-unveiled-a-critical-perspective-on-a-high-end-monitor/"><u>Asus ProArt PA 329Q Unveiled  A Critical Perspective on a High-End Monitor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/baleful-blackness-clashing-with-splendid-silverliness/"><u>Baleful Blackness Clashing with Splendid Silverliness</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-book-trailers-for-impact/"><u>Best Book Trailers for Impact</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/choreographing-ideal-canon-time-lapse-shots-for-2024/"><u>Choreographing Ideal Canon Time-Lapse Shots for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-list-of-no-download-online-gif-to-video-converters/"><u>Comprehensive List of No-Download Online GIF to Video Converters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/conquering-vr-lexicon-for-beginners/"><u>Conquering VR Lexicon for Beginners</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/craft-humor-for-giphy-network-for-2024/"><u>Craft Humor for Giphy Network for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/drone-category-definitions/"><u>Drone Category Definitions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/extensive-circular-camera-assessment/"><u>Extensive Circular Camera Assessment</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-sub-to-srt-with-ease-uncover-our-top-8-software-picks-for-desktop-systems/"><u>From SUB to SRT with Ease! Uncover Our Top 8 Software Picks for Desktop Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-pictures-tale-adding-meaningful-text-to-images-for-macwindows/"><u>In 2024, A Picture's Tale  Adding Meaningful Text to Images for Mac/Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-building-an-effective-streamlined-podcasts-rss-feed/"><u>In 2024, Building an Effective, Streamlined Podcast's RSS Feed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comparing-standard-video-to-immersive-vr-experiences/"><u>In 2024, Comparing Standard Video to Immersive, VR Experiences</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/movavis-latest-leap-in-video-editing-a-close-review-on-the-2024-version/"><u>Movavi’s Latest Leap in Video Editing – A Close Review on the 2024 Version</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfecting-your-view-the-10-finest-iphoneipad-videoplays/"><u>Perfecting Your View  The 10 Finest iPhone/iPad Videoplays</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pioneering-simple-sound-shifts-in-pubg/"><u>Pioneering Simple Sound Shifts in PUBG</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/strategies-for-sustaining-viewer-interest-in-online-events/"><u>Strategies for Sustaining Viewer Interest in Online Events</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-modern-shoppers-guide-to-360-degree-imaging-tech/"><u>The Modern Shopper's Guide to 360-Degree Imaging Tech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-affordable-innovative-ae-templates/"><u>The Ultimate Guide to Affordable, Innovative AE Templates</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-non-contact-sensing/"><u>The Ultimate Guide to Non-Contact Sensing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-utility-watch-opens-your-macdevice/"><u>Ultimate Utility  Watch Opens Your MacDevice</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-future-of-smartphone-video-with-s8s-4k/"><u>Unveiling the Future of Smartphone Video with S8’s 4K</u></a></li>
+</ul></div>

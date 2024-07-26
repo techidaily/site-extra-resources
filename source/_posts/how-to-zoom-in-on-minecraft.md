@@ -1,7 +1,7 @@
 ---
 title: "How to Zoom in on Minecraft"
-date: 2024-05-24T05:12:13.070Z
-updated: 2024-05-25T05:12:13.070Z
+date: 2024-07-25T04:44:48.605Z
+updated: 2024-07-26T04:44:48.605Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes How to Zoom in on Minecraft"
 excerpt: "This Article Describes How to Zoom in on Minecraft"
 keywords: "\"Zoom MiniGloM,Close-Up MCView,Enhance Minecraft Visibility,Adjust MC Scope,Increase Minecraft Detail,Tighten Minecraft Scene,Sharpen Minecraft Look\""
-thumbnail: https://www.lifewire.com/thmb/wbiCW2fndNE2mzhK9d4Z_drL6z0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/tclsclass-0185b3ecd41d454589d2a9984629b919.jpg
+thumbnail: https://thmb.techidaily.com/bae70dc1da321109f70e787435e8a7bf8638e992652aa5e9b27c3e355526ca4c.jpg
 ---
 
 ## How to Zoom in on Minecraft
@@ -30,6 +30,9 @@ Step1 To access the in-game menu, launch a game and hit the Esc key on your keyb
 
 Step2 In the game menu, choose the Options... button.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![minecraft game menu options](https://images.wondershare.com/filmora/article-images/2022/07/minecraft-game-menu-options.jpg)
 
 Step3 Now, use the slider to alter your range of vision. The slider will be positioned in the center by default. To get a closer look at your surroundings, click on it and move it to the left of your screen. However, moving the FOV slider all the way to the left also means that you won't be able to see as much during gameplay.
@@ -48,10 +51,16 @@ You may utilize the accessibility features in mac OS to get a zooming option whi
 
 Step1 Select "Activate" next to "System Preferences" at the bottom of the dock. Select System Preferences from the drop-down menu that appears when you click on the Apple logo in the top-left corner of your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![zoom minecraft preferences](https://images.wondershare.com/filmora/article-images/2022/07/zoom-minecraft-preferences.jpg)
 
 Step2 Select accessibility from the menu. To tick the box next to the zoom option on the left side of the bar, choose "Use scroll gesture with zooming modifier keys." To inspect it, use the zoom option. Use the change key, which is accessed via the control key, to automatically zoom in on the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![zoom accessibilty macos](https://images.wondershare.com/filmora/article-images/2022/07/zoom-accessibilty-macos.jpg)
 
 Step3 To change the alteration key, click on the arrow that is pointing down and next to the box. Then, choose the command, option, or control key that you like.
@@ -70,6 +79,9 @@ Follow these instructions to install OptiFine and add the zooming ability to you
 
 Step1 Install the Minecraft OptiFine Mod on your PC in the first step. Visit the OptiFine Mod website and choose "Preview versions" to examine the most recent version of the most innovative Minecraft 1.15 beta. To use the most recent update in Minecraft. Similarly, if you don't already have one, download and install the most recent Java SE Development Kit on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![install minecraft optifine mod](https://images.wondershare.com/filmora/article-images/2022/07/install-minecraft-optifine-mod.jpg)
 
 ![Note](https://images.wondershare.com/assets/images-common/icon-note.png)
@@ -78,10 +90,18 @@ Step1 Install the Minecraft OptiFine Mod on your PC in the first step. Visit the
 
 Step2 Double-click the downloaded OptiFine file to open it and finish the installation. The OptiFine Mod has been added to Minecraft as of late. Check to see whether the OptiFine mod has been loaded into the game by using the Minecraft launcher.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![install optifine file](https://images.wondershare.com/filmora/article-images/2022/07/install-optifine-file.jpg)
 
 Step3 Start the launcher in Minecraft in the next step. If OptiFine does not appear in the drop-down menu, click Installations at the top of the launcher. Then click New in the top-left corner of the screen. Write OptiFine to install. From the Version menu, choose the version that has OptiFine in the title.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![start launcher in minecraft](https://images.wondershare.com/filmora/article-images/2022/07/start-launcher-in-minecraft.jpg)
 
 Step4 Verify that OptiFine Mod is loaded into the program by checking this box. You may now see OptiFine on the bottom left of the Play option. If you can't see that, pick OptiFine by tapping the box next to the play choice; it is often the most recent release.
@@ -90,6 +110,9 @@ Step4 Verify that OptiFine Mod is loaded into the program by checking this box. 
 
 Step5 In the Minecraft launch, choose the Play option and click to load a game. While playing the game, hit the keyboard's "c" key to close in on the target in the center. This key may be used to zoom in at any time. Now that you have used the OptiFine Mod in Minecraft to zoom in, you may do so.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![click load minecraft game](https://images.wondershare.com/filmora/article-images/2022/07/click-load-minecraft-game.jpg)
 
 ## Way 4\. Using a Spyglass
@@ -102,6 +125,9 @@ Step1 Create a Spyglass by following the newest version guide of Minecraft.
 
 Step2 After that, put the Spyglass you just created in your menu bar and take a hold of it. When you use it, your eyesight will enlarge the area you are focusing on. The same effect as altering your FoV in the settings is achieved with this, but it is faster, simpler, and has more zooming. You cannot lower the FoV setting below 30 by altering it in the menu.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![spyglass options panel](https://images.wondershare.com/filmora/article-images/2022/07/spyglass-options-panel.jpg)
 
 Step3 However, you will always zoom in to 10% of your current Field of View while using your Spyglass. When using a spyglass, for instance, your zoom level will be 6 if your field of view is set to 60\. As a result, a Spyglass will allow you to see objects considerably further away.
@@ -110,6 +136,9 @@ Step3 However, you will always zoom in to 10% of your current Field of View whil
 
 Step4 On the crafting table, arrange 2 copper ingots and 1 amethyst shard in the exact same configuration as in the illustration below to create a spyglass.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![crafting table spyglass](https://images.wondershare.com/filmora/article-images/2022/07/crafting-table-spyglass.jpg)
 
 ## Way 5\. Use Zoomed-Out Maps
@@ -122,6 +151,9 @@ Step1 Gather the materials needed to make a map in the first step. These include
 
 Step2 Nine sheets of paper will be made from the sugar cane. Open the crafting table, and then put three pieces of sugar cane on each of the bottom squares to make them. To add paper to your inventory, click and drag it to the right-hand box's paper icon.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add paper to inventory](https://images.wondershare.com/filmora/article-images/2022/07/add-paper-to-inventory.jpg)
 
 Step3 At this point, we may start drawing a map. Put the compass in the center square of the handicraft grid, then fill up all the other squares with paper. Now that the crafts grid is open, fill each square with paper and set a compass in the center. To add the yellow piece of paper to the inventory, click and drag it over to the right.
@@ -142,6 +174,9 @@ With the above 5 ways, the finest video game, Minecraft, has now the accessibili
 
 Step2 Double-click the downloaded OptiFine file to open it and finish the installation. The OptiFine Mod has been added to Minecraft as of late. Check to see whether the OptiFine mod has been loaded into the game by using the Minecraft launcher.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![install optifine file](https://images.wondershare.com/filmora/article-images/2022/07/install-optifine-file.jpg)
 
 Step3 Start the launcher in Minecraft in the next step. If OptiFine does not appear in the drop-down menu, click Installations at the top of the launcher. Then click New in the top-left corner of the screen. Write OptiFine to install. From the Version menu, choose the version that has OptiFine in the title.
@@ -150,18 +185,27 @@ Step3 Start the launcher in Minecraft in the next step. If OptiFine does not app
 
 Step4 Verify that OptiFine Mod is loaded into the program by checking this box. You may now see OptiFine on the bottom left of the Play option. If you can't see that, pick OptiFine by tapping the box next to the play choice; it is often the most recent release.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![optifine controls zoom](https://images.wondershare.com/filmora/article-images/2022/07/optifine-controls-zoom.jpg)
 
 Step5 In the Minecraft launch, choose the Play option and click to load a game. While playing the game, hit the keyboard's "c" key to close in on the target in the center. This key may be used to zoom in at any time. Now that you have used the OptiFine Mod in Minecraft to zoom in, you may do so.
 
 ![click load minecraft game](https://images.wondershare.com/filmora/article-images/2022/07/click-load-minecraft-game.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Way 4\. Using a Spyglass
 
 In Minecraft, the spyglass is used to zoom in so that a player may see well at a greater distance than is typically feasible. This is incredibly helpful while exploring diverse biomes since it enhances your eyesight and makes it simple to find monsters or precious materials that are hidden from view. Players may now create a zooming item in Minecraft. The new Spyglass item that enables users to zoom in on certain places was introduced to Minecraft in the 1.17 release. The spyglass is a creatable item in Minecraft that enables users to alter their Field of Vision anytime they want to without visiting the settings page. On your Minecraft crafting table, you may create a spyglass.
 
 Step1 Create a Spyglass by following the newest version guide of Minecraft.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create a spyglass](https://images.wondershare.com/filmora/article-images/2022/07/create-a-spyglass.jpg)
 
 Step2 After that, put the Spyglass you just created in your menu bar and take a hold of it. When you use it, your eyesight will enlarge the area you are focusing on. The same effect as altering your FoV in the settings is achieved with this, but it is faster, simpler, and has more zooming. You cannot lower the FoV setting below 30 by altering it in the menu.
@@ -170,22 +214,35 @@ Step2 After that, put the Spyglass you just created in your menu bar and take a 
 
 Step3 However, you will always zoom in to 10% of your current Field of View while using your Spyglass. When using a spyglass, for instance, your zoom level will be 6 if your field of view is set to 60\. As a result, a Spyglass will allow you to see objects considerably further away.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![spyglass settings](https://images.wondershare.com/filmora/article-images/2022/07/spyglass-settings.jpg)
 
 Step4 On the crafting table, arrange 2 copper ingots and 1 amethyst shard in the exact same configuration as in the illustration below to create a spyglass.
 
 ![crafting table spyglass](https://images.wondershare.com/filmora/article-images/2022/07/crafting-table-spyglass.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Way 5\. Use Zoomed-Out Maps
 
 You might think about making a zoomed-out map of your planet in addition to providing a mod to zoom in for simpler navigation. The map may be useful for several reasons, including returning to a certain area, such as your home base. When playing Minecraft, you can make a map and utilize it to gain a zoomed-out perspective of your world.
 
 Step1 Gather the materials needed to make a map in the first step. These include a compass, a crafts table, and sugar cane (used to make paper).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![use zoom out maps](https://images.wondershare.com/filmora/article-images/2022/07/use-zoom-out-maps.jpg)
 
 Step2 Nine sheets of paper will be made from the sugar cane. Open the crafting table, and then put three pieces of sugar cane on each of the bottom squares to make them. To add paper to your inventory, click and drag it to the right-hand box's paper icon.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![add paper to inventory](https://images.wondershare.com/filmora/article-images/2022/07/add-paper-to-inventory.jpg)
 
 Step3 At this point, we may start drawing a map. Put the compass in the center square of the handicraft grid, then fill up all the other squares with paper. Now that the crafts grid is open, fill each square with paper and set a compass in the center. To add the yellow piece of paper to the inventory, click and drag it over to the right.
@@ -226,3 +283,28 @@ With the above 5 ways, the finest video game, Minecraft, has now the accessibili
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-3dlut-mobility-boost-image-and-video-quality/"><u>[New] 3DLUT Mobility  Boost Image & Video Quality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-aerial-capture-face-off-dji-mavic-2-vs-hero6-black/"><u>[New] Aerial Capture Face-Off  DJi Mavic 2 vs Hero6 Black</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-canons-spectral-conversion-paid-and-gratis-lut-tools/"><u>[New] Canon's Spectral Conversion  Paid & Gratis LUT Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-10-memetic-engineering-techniques/"><u>[Updated] 10 Memetic Engineering Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/1-minute-to-fade-to-black-in-premiere-pro-for-2024/"><u>1 Minute To Fade To Black In Premiere Pro for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-become-an-iconic-crafter-kapwings-meme-toolkit/"><u>2024 Approved  Become an Iconic Crafter  Kapwing's Meme Toolkit</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-and-compose-best-writing-apps-for-photos-iosandroid-for-2024/"><u>Capture and Compose  Best Writing Apps for Photos (iOS/Android) for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-video-services-for-performing-artists/"><u>Elite Video Services for Performing Artists</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhanced-4k-viewing-with-our-best-8-free-player-picks/"><u>Enhanced 4K Viewing with Our Best 8 Free Player Picks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exclusive-listing-leading-8-4k-ultra-hd-players/"><u>Exclusive Listing  Leading 8 4K Ultra HD Players</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/explore-the-past-reverse-video-on-ios-devices/"><u>Explore the Past  Reverse Video on iOS Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ideal-ringtones-picks-high-quality-destinations/"><u>Ideal Ringtones Picks  High-Quality Destinations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-18-steps-to-make-your-instagram-unboxing-content-stand-out/"><u>In 2024, 18 Steps to Make Your Instagram Unboxing Content Stand Out</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-brilliant-barrage-essential-gadgets-for-clips/"><u>In 2024, Brilliant Barrage  Essential Gadgets for Clips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-craft-a-captivating-story-integrating-images-on-instagram/"><u>In 2024, Craft a Captivating Story  Integrating Images on Instagram</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/learn-to-activate-picture-in-picture-viewing-on-iphones-youtube-app/"><u>Learn to Activate Picture-in-Picture Viewing on iPhone's Youtube App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-google-docs-transcription-functionality/"><u>Mastering Google Docs Transcription Functionality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/netflix-picture-in-picture-how-to-use-the-netflix-floating-window-feature/"><u>Netflix Picture-in-Picture - How to Use the Netflix Floating Window Feature</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-5-podcast-options-for-your-iphone-experience/"><u>Prime 5 Podcast Options for Your iPhone Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/rewiring-windows-photo-viewer-on-windows-10-two-methods-explored/"><u>Rewiring Windows Photo Viewer on Windows 10 - Two Methods Explored</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-of-incorporating-s2t-features-into-ppt/"><u>The Art of Incorporating S2T Features Into PPT</u></a></li>
+</ul></div>

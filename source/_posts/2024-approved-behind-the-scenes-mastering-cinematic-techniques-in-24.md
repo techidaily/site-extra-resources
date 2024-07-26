@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Behind the Scenes  Mastering Cinematic Techniques in '24\""
-date: 2024-05-24T04:26:21.867Z
-updated: 2024-05-25T04:26:21.867Z
+date: 2024-07-25T03:18:19.377Z
+updated: 2024-07-26T03:18:19.377Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Behind the Scenes: Mastering Cinematic Techniques in '24\""
 excerpt: "\"This Article Describes 2024 Approved: Behind the Scenes: Mastering Cinematic Techniques in '24\""
 keywords: "CinematicTechniqueMastery,BehindScenesFilmSecrets,CinemaEditingTricks,VisualEffectExpertise,FilmProductionTechniques,CinematographySecrets,Director'sToolkit"
-thumbnail: https://www.lifewire.com/thmb/W5SdHvmRm1AkZ_3S___KYhBKNBA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/linksys-classic-micro-router-pro-6-8b16a5f340964425bdb89a3cc2f42e5d.jpg
+thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036bc18134bd1752c7ab7f277b6.jpg
 ---
 
 ## Behind the Scenes: Mastering Cinematic Techniques in '24
@@ -32,10 +32,16 @@ Still, if you are on a budget, you can use some everyday household objects to ge
 
 Step 1 Attach your phone to the side of a door using duct tape or any strong tape that can hold your phone and not let it fall.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![smooth camera movement](https://images.wondershare.com/filmora/article-images/2022/12/smooth-camera-movement.gif)
 
 Step 2 Now open and close the door to get smooth camera movement.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tip 2\. DIY Light Focus and Control
 
 Shaping light is a crucial component of filmmaking, requiring command over creating and guiding shadows. You need to focus the light on the subjects rather than the background. Use the following methods to focus light on the point of interest.
@@ -56,6 +62,10 @@ Step 4 Plug in the LED strip and use this LED Panel for a broader light source.
 
 Alright! Let's check out how it looks in the video below.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![diy led panel](https://images.wondershare.com/filmora/article-images/2022/12/diy-led-panel.gif)
 
 ### DIY Light Flag
@@ -76,6 +86,9 @@ Let us see how it looks;
 
 ![diy light flag](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-flag.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ### DIY Black Wrap
 
 A black wrap is made of aluminum, so you can use aluminum foils to make black wrap at your home. Black wraps are used to shape and block light during filmmaking.
@@ -98,6 +111,9 @@ Here is a GIF attached for a better understanding of the steps.
 
 ![diy black wrap](https://images.wondershare.com/filmora/article-images/2022/12/diy-black-wrap.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### DIY Light Reflector
 
 A reflector is a piece of glass or any reflective surface that can redirect light to a specific spot. For example, use aluminum foil to make a Light Reflector at your home.
@@ -114,8 +130,14 @@ Step 3 Use the reflector to redirect light to your object.
 
 There is a GIF attached below to understand the steps visually.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![diy light reflector](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-reflector.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Tip 3\. DIY Light Diffuser
 
 In professional productions, light diffusers are frequently used to soften, level out the lighting, and lessen the harshness of shadows.
@@ -138,6 +160,9 @@ For a better understanding of the steps, watch the GIF attached below.
 
 ![diy light diffuser](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-diffuser.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## Tip 4\. Reveal Movement and 180° Presentation
 
 The most commonly used cinematic movements are the reveal and 180° presentation movements. A gimbal is needed to record these movements.
@@ -160,6 +185,9 @@ Here is a video showing how to record reveal movement.
 
 ![reveal movement](https://images.wondershare.com/filmora/article-images/2022/12/reveal-movement.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ### 180° Presentation Movement
 
 This Movement gives the subject a general look and displays more details of the surroundings and the subject.
@@ -178,6 +206,9 @@ A sample video attached below shows how to record 180 presentation movements.
 
 ![180 presentation movement](https://images.wondershare.com/filmora/article-images/2022/12/180-presentation-movement.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tip 5\. Create a Barrel Roll Shot
 
 A barrel roll shot is one of the most advanced and creative camera movements. A gimbal is required to produce a Barrel roll shot. But you can use a power drill and your phone to record this Movement.
@@ -234,3 +265,27 @@ After filming the videos, edit them using [Wondershare Filmora](https://tools.te
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-boost-iphone-photographic-finesse-with-essential-additions/"><u>[New] Boost iPhone Photographic Finesse with Essential Additions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-bright-beginnings-quick-ways-to-brighten-iphone-clips-and-more/"><u>[New] Bright Beginnings  Quick Ways to Brighten iPhone Clips and More</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-boost-photographic-vision-get-free-and-paid-lut-upgrades/"><u>[Updated] Boost Photographic Vision - Get FREE & Paid LUT Upgrades</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-creativity-ios-and-android-writing-apps-roundup/"><u>[Updated] Capture Creativity  IOS & Android Writing Apps Roundup</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-indispensable-fcp-enhancing-plugins/"><u>10 Indispensable FCP-Enhancing Plugins</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-behind-the-drone-a-close-look-at-dji-phantom-3-pros-features/"><u>2024 Approved  Behind the Drone  A Close Look at DJI Phantom 3 Pro's Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-brush-boldly-beyond-professionals-palette-play/"><u>2024 Approved  Brush Boldly Beyond - Professionals' Palette Play</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-symphony-of-sounds-no-cost-software-for-personalized-voice-modification-for-2024/"><u>A Symphony of Sounds  No-Cost Software for Personalized Voice Modification for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-the-perfect-virtual-space-with-zooms-features-for-2024/"><u>Crafting the Perfect Virtual Space with Zoom's Features for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-through-the-noise-with-video-endorsements/"><u>Cutting Through the Noise with Video Endorsements</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-8-premium-filters-to-upgrade-your-cam-feeds/"><u>Discover 8 Premium Filters to Upgrade Your Cam Feeds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhance-functionality-with-easy-sierra-system-installation/"><u>Enhance Functionality with Easy Sierra System Installation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-picks-top-10-rated-gopro-cases-revisited/"><u>Expert Picks - Top 10 Rated GoPro Cases Revisited</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ffmpeg-and-its-proficiency-in-original-audio-extraction/"><u>FFmpeg and Its Proficiency in Original Audio Extraction</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-step-by-step-tutorial-starting-and-joining-a-zoom-meeting-on-android/"><u>In 2024, A Step-by-Step Tutorial  Starting & Joining a Zoom Meeting on Android</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-sound-choices-essential-downloads-guide/"><u>In 2024, Best Sound Choices  Essential Downloads Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-choose-wisely-top-10-expert-picked-gopro-housing/"><u>In 2024, Choose Wisely  Top 10 Expert-Picked GoPro Housing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-full-spectrum-analysis-of-lgs-high-definition-screen/"><u>The Full Spectrum Analysis of LG’s High-Definition Screen</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tips-and-tricks-for-effective-azure-speech-to-text-use/"><u>Tips and Tricks for Effective Azure Speech-to-Text Use</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-the-secrets-to-enthralling-unboxing-content-on-insta/"><u>Unlock the Secrets to Enthralling Unboxing Content on Insta</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Easy Techniques for Bending Digital Pictures"
-date: 2024-05-24T04:44:27.903Z
-updated: 2024-05-25T04:44:27.903Z
+date: 2024-07-25T03:54:21.004Z
+updated: 2024-07-26T03:54:21.004Z
 tags: 
   - screen-recording
   - ai video
@@ -13,15 +13,21 @@ categories:
 description: "This Article Describes Easy Techniques for Bending Digital Pictures"
 excerpt: "This Article Describes Easy Techniques for Bending Digital Pictures"
 keywords: "Digital Picture Distortion,Easy Photo Bend Methods,Pixel Curving Tricks,Simplified Image Twisting,Digitally Bent Images,Photography Deformation Tech,Straightform Flexing Tips"
-thumbnail: https://www.lifewire.com/thmb/dVn4l0H_Q4lS9y54mPgaZ7x5VtA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/snow-tracks-of-senior-couple-walking-to-trees-and-mountain-range--sattelbergalm--tyrol--austria-592233383-c47ecd50c6ee406687da83916a3f2ff1.jpg
+thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd1c8126cb50df85aef146e19.jpg
 ---
 
 ## Easy Techniques for Bending Digital Pictures
 
 In this Photoshop tutorial, we're going to carve an image using four simple steps. Curving an image can be a great way to add some extra visual interest and dimension, and it's a technique that can be used with a wide range of images. So, let's get started!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/curve-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Simple Steps to Curve an Image in Photoshop
 
 ##### Step1Create a New Document
@@ -32,6 +38,9 @@ To keep things simple, let's start with a white canvas. Let's open a new documen
 
 After creating the new document, open the image that you want to curve. You may do so by going to File > Open in the menu bar or pressing Ctrl+O or Command+O on your keyboard. Once the image is open, go to Edit in the menu bar and select Place Embedded from the drop-down menu that appears. Select your image and click Place. The image will be placed on the canvas. If the document's size does not match that of the image, you will see a transformation box surrounding the image.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
 
 ##### Step3Warp the Image
@@ -60,14 +69,23 @@ The **Bend Direction** option rotates the angle of the bend.
 
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
 
 ##### Step4Save the Image
 
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 We hope this post has helped you learn how to curve an image in Photoshop. The best part about it? It's easy to do, and you can do it quickly. So, don't wait another minute! Get out there and start curving your images today (we know we are).
@@ -102,3 +120,31 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-audiophiles-dilemma-podcast-or-youtube-dominance/"><u>[Updated] Audiophile's Dilemma  Podcast or YouTube Dominance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-auditory-adventures-10-sound-hotspots-for-podcasts/"><u>[Updated] Auditory Adventures  10 Sound Hotspots for Podcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-deep-dive-into-luts-for-image-enhancement/"><u>2024 Approved  A Deep Dive Into LUTs for Image Enhancement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-animatedapp-full-guide-and-review-24-overview/"><u>2024 Approved  AnimatedApp Full Guide & Review '24 Overview</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-begin-animation-ease-in-transition/"><u>2024 Approved  Begin Animation  Ease-In Transition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-brand-awareness-through-opening/"><u>2024 Approved  Brand Awareness Through Opening</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comparative-review-dji-phantom-3-vs-competitors/"><u>2024 Approved  Comparative Review  DJI Phantom 3 vs Competitors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-connect-and-captivate-youtube-twitter-and-facebook-using-zoom/"><u>2024 Approved  Connect and Captivate  YouTube, Twitter & Facebook Using Zoom</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-constructing-premium-canon-timelapse-movies/"><u>2024 Approved  Constructing Premium Canon Timelapse Movies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/8-things-to-consider-before-buying-next-lens-for-4k-camera/"><u>8 Things to Consider Before Buying Next Lens for 4K Camera</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/an-insiders-look-at-toolwizs-photo-editing-features-for-2024/"><u>An Insider’s Look at Toolwiz's Photo Editing Features for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/androids-best-picks-for-dynamic-collage-designers/"><u>Android's Best Picks for Dynamic Collage Designers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/assessing-if-sns-hdr-deserves-your-investment-time-for-2024/"><u>Assessing If SNS HDR Deserves Your Investment Time for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-movie-scenes-as-single-image-snapshots-windows-10/"><u>Capturing Movie Scenes as Single Image Snapshots (Windows 10)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-a-submission-that-works-on-apples-platform-for-2024/"><u>Crafting a Submission that Works on Apple's Platform for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/demystifying-complex-srt-concepts-for-professionals/"><u>Demystifying Complex SRT Concepts for Professionals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/digital-artistry-in-depth-on-ps-distortion-techniques/"><u>Digital Artistry  In-Depth on PS Distortion Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-tips-ifunny-meme-download-and-use/"><u>In 2024, Comprehensive Tips  IFunny Meme Download & Use</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-depth-guide-to-the-best-photovideo-makers-with-harmonized-sounds/"><u>In-Depth Guide to the Best Photo/Video Makers with Harmonized Sounds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pioneering-techniques-in-documentary-scripting/"><u>Pioneering Techniques in Documentary Scripting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/procedure-for-effective-auditory-recordings-on-windows-11/"><u>Procedure for Effective Auditory Recordings on Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essential-guide-to-lut-applications-in-photoshop-cs6/"><u>The Essential Guide to LUT Applications in Photoshop CS6</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transforming-images-with-dynamic-mosaic-designs/"><u>Transforming Images with Dynamic Mosaic Designs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/whats-new-in-music-production-magix-studio-max-2024-insights/"><u>What's New in Music Production? Magix Studio Max 2024 Insights</u></a></li>
+</ul></div>

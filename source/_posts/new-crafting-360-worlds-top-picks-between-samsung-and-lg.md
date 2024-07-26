@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Crafting 360 Worlds  Top Picks Between Samsung & LG\""
-date: 2024-05-24T04:31:44.584Z
-updated: 2024-05-25T04:31:44.584Z
+date: 2024-07-25T03:29:09.192Z
+updated: 2024-07-26T03:29:09.192Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Crafting 360 Worlds: Top Picks Between Samsung & LG\""
 excerpt: "\"This Article Describes [New] Crafting 360 Worlds: Top Picks Between Samsung & LG\""
 keywords: "\"Samsung Vs. LG VR,LG Vs. Samsung 360,Samsung Oculus,LG Hololens,360-Degree Gaming Headsets,Top Smartphone VR,Comparing LG and Samsung\""
-thumbnail: https://www.lifewire.com/thmb/EVZ4ZqbJ0Qw7Ukb_4E0ULLesBrY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/reverse-tether-142309616-resized-56a62b765f9b58b7d0e045a4.jpg
+thumbnail: https://thmb.techidaily.com/5f63ba1e3593ebd7d73d1c72fb68eace0cd63a5c8a537d585a504e6de4ee75de.jpg
 ---
 
 ## Crafting 360 Worlds: Top Picks Between Samsung & LG
@@ -35,6 +35,201 @@ Samsung has launched its 360 gear with the release of Galaxy S7 and Samsung S7 E
 * [Part 4: Editing software comparison](#part4)
 * [Part 5: Conclusion](#part5)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![samsung gear 360 vs lg 360cam](https://images.wondershare.com/filmora/article-images/samsung-gear-360-vs-lg-360-cam.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1 Basic specs comparison
+
+_Below you can find the difference between both devices at a glance:_
+
+| **Spec**                 | **Samsung Gear 360**                          | **LG 360 Cam**                                   |
+| ------------------------ | --------------------------------------------- | ------------------------------------------------ |
+| **Price**                | Price                                         | $199                                             |
+| **Date of Availability** | 2016-04-29                                    | 2016-03-23                                       |
+| **Weight**               | 153g                                          | 76.7g                                            |
+| **Size**                 | (66.7x56.3x60.1)mm                            | (40 x7 x5) mm                                    |
+| **Memory**               | microSD card type storage ranging up to 128GB | 4 GB flash along with Memory Card Max up to 2 TB |
+| **Battery**              | 1,350mAh is included                          | 1200 mAh is included                             |
+| **Body material**        | Plastic                                       | Plastic                                          |
+| **Sensor**               | Dual 15MP type CMOS                           | Dual 13 MP type CMOS                             |
+| **Lenses**               | Fisheye lens with Dual f/2.0                  | Dual - Fisheye Lens                              |
+| **Image resolution**     | Single cam (3072x1728), Dual cam (7776x3888)  | 5660 x 2830 (16M)                                |
+| **Video resolution**     | Single cam (2560x1440), Dual cam (2840x1920)  | 2560 x 1280 (30fps)                              |
+| **Image format**         | JPEG (EXIF 2.3)                               | JPEG                                             |
+| **Video format**         | MP4                                           | Audio : 5.1Ch and MP4(MPEG-4 AVC)                |
+| **Tripod**               | Mini tripod included                          | A Standard 1/4-inch type tripod thread           |
+| **Connectivity options** | Wifi, NFC, Bluetooth, USB 2.0                 | Wifi, USB 2.0, Bluetooth                         |
+
+All these specifications can help users to make decision about best cam as per their requirement and budget but at the same time you must know about real user reviews leading to some pros and cons of these devices. Below are complete details:
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
+## Part 2 Pros and Cons
+
+| **\-**                                                       | **Samsung Gear 360**                                                                       | **LG 360 Cam**                                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| Pros                                                         | Consumer 360 camera with Highest resolution                                                | Price range is low as compared to its competitor                                     |
+| Easy to use and Self-contained                               | Easy to operate and hold                                                                   |                                                                                      |
+| Dust resistant and Splashproof                               | More Memory capacity                                                                       |                                                                                      |
+| Battery and microSD card are Replaceable                     | Compatible with iOS and Android                                                            |                                                                                      |
+| MicroSDslot can extend support up to maximum 128GB cards     | It is possible to shoot using only one lens when you have to capture non 360 degree images |                                                                                      |
+| Loop recording, Time-Lapse recording, 360° spherical capture | Audio quality is much better than competitor                                               |                                                                                      |
+| Wireless Integration                                         | \-                                                                                         |                                                                                      |
+| Cons                                                         | Big size so you cannot keep it in pocket                                                   | For uploading your videos to facebook and YouTube, you may need desktop application. |
+| Its designs is not waterproof                                | Even the desktop app do not provide any editing option to captured images                  |                                                                                      |
+| You need to connect it with latest Samsung phone             | There are some Software glitches                                                           |                                                                                      |
+| Stitch lines appear to be very apparent                      | Battery do not come with swappable feature                                                 |                                                                                      |
+| \-                                                           | It poses some limitations on video and photo sharing abilities                             |                                                                                      |
+| \-                                                           | Not water-resistant                                                                        |                                                                                      |
+| \-                                                           | Doesn’t serve with internal storage space                                                  |                                                                                      |
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
+## Part 3 Image quality comparison
+
+When we watch 360 videos on tablet or smartphone then it leads to immersive experience; a facility of VR headset can add more features to your 360 video world. In case of Gear 360 you will be able to enjoy 4K resolution whereas LG 360 serves with 2K resolution only thus [Samsung Gear 360](https://tools.techidaily.com/wondershare/filmora/download/) will be better choice in this case. On the other side if we talk about audio abilities then LG360 has an edge over Samsung Gear 360 because of its ability to record 5.1 level surround sounds that is major requirement of a 360 degree video. The Gear 360 possess stereo record feature that can capture voice only in two directions thus resultant audio in scenes is not that much clear. Moving forward to more technical specifications, the bit rate – well known as quality of image with resolution is 60MB/second in case of Gear 360 whereas LG360 cam limits up to 19MB/second, this makes a big difference in quality. If we count features then Samsung gear 360 definitely have more features as like its waterproof body, highly stabilized video results and F2.0 dual lenses but LG360 lacks behind in these features.
+
+## Part 4 Editing software comparison comparison
+
+It is possible to stitch videos as well as photographs taken from the 360 degree camera using Galaxy phone and they can be directly shared on social media. Some consumers also love to use Desktop software to edit the camera results in detail. Same as like Gear 360, the latest device from LG can also capture good quality 360 degree videos as well as photographs but it do not support spherical share as like Samsung unit. You can pair up LG360 cam only with LG G5 latest smartphone whereas video and photo editing options are not yet known for smartphone as well as PC. Both these devices come with Wi-Fi connectivity, USB port and Bluetooth capabilities whereas in case of Samsung 360 gear NFC is an additional option. The ultimate combination of time lapse recording, 360 spherical recording and loop recording makes everything easy in Samsung gear where you can avail wonderful results for each real time recording.
+
+Check this side-by-side video review to know more about this two 360 degree cameras:
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 5 Conclusion
+
+Price difference of both devices is well reflected in the comparison table above and you got enough information about their features too. The gear 360 results better looking images along with better color distributions but in case of LG the image as well as video quality is comparatively degraded; Although, LG cam is much faster and discrete design but for professional photographers it will not result better output. The two additional shooting modes of Gear 360 also allows better quality of videos and its compatibility with Samsung smartphones allows easy editing and uploading. After getting real time users recommendations and their reviews, users are advised to prefer Samsung GEAR 360 for their Virtual Reality needs but those who cannot compromise for price range can go for LG360 device as its audio quality is much better than Samsung gear 360 along with ability to connect with Android as well as iOS devices.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+Samsung has launched its 360 gear with the release of Galaxy S7 and Samsung S7 Edge, although Samsung is not a well known name in the world of VR gadgets but still few people use to prefer this brand especially, whereas on the other side [LG 360 cam](https://tools.techidaily.com/wondershare/filmora/download/) was launched to work in association with all Android as well as OS devices. Both of these cameras have almost same kind of features so people are not able to decide easily that which one to buy; definitely they need a reliable comparison between both gadgets so that better decision can be made. Actually there is some different between image and video quality that you must know along with few other major features.
+
+* [Part 1: Basic specs comparison](#part1)
+
+* [Part 2: Pros and Cons](#part2)
+* [Part 3: Image quality comparison](#part3)
+* [Part 4: Editing software comparison](#part4)
+* [Part 5: Conclusion](#part5)
+
+![samsung gear 360 vs lg 360cam](https://images.wondershare.com/filmora/article-images/samsung-gear-360-vs-lg-360-cam.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1 Basic specs comparison
+
+_Below you can find the difference between both devices at a glance:_
+
+| **Spec**                 | **Samsung Gear 360**                          | **LG 360 Cam**                                   |
+| ------------------------ | --------------------------------------------- | ------------------------------------------------ |
+| **Price**                | Price                                         | $199                                             |
+| **Date of Availability** | 2016-04-29                                    | 2016-03-23                                       |
+| **Weight**               | 153g                                          | 76.7g                                            |
+| **Size**                 | (66.7x56.3x60.1)mm                            | (40 x7 x5) mm                                    |
+| **Memory**               | microSD card type storage ranging up to 128GB | 4 GB flash along with Memory Card Max up to 2 TB |
+| **Battery**              | 1,350mAh is included                          | 1200 mAh is included                             |
+| **Body material**        | Plastic                                       | Plastic                                          |
+| **Sensor**               | Dual 15MP type CMOS                           | Dual 13 MP type CMOS                             |
+| **Lenses**               | Fisheye lens with Dual f/2.0                  | Dual - Fisheye Lens                              |
+| **Image resolution**     | Single cam (3072x1728), Dual cam (7776x3888)  | 5660 x 2830 (16M)                                |
+| **Video resolution**     | Single cam (2560x1440), Dual cam (2840x1920)  | 2560 x 1280 (30fps)                              |
+| **Image format**         | JPEG (EXIF 2.3)                               | JPEG                                             |
+| **Video format**         | MP4                                           | Audio : 5.1Ch and MP4(MPEG-4 AVC)                |
+| **Tripod**               | Mini tripod included                          | A Standard 1/4-inch type tripod thread           |
+| **Connectivity options** | Wifi, NFC, Bluetooth, USB 2.0                 | Wifi, USB 2.0, Bluetooth                         |
+
+All these specifications can help users to make decision about best cam as per their requirement and budget but at the same time you must know about real user reviews leading to some pros and cons of these devices. Below are complete details:
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+## Part 2 Pros and Cons
+
+| **\-**                                                       | **Samsung Gear 360**                                                                       | **LG 360 Cam**                                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| Pros                                                         | Consumer 360 camera with Highest resolution                                                | Price range is low as compared to its competitor                                     |
+| Easy to use and Self-contained                               | Easy to operate and hold                                                                   |                                                                                      |
+| Dust resistant and Splashproof                               | More Memory capacity                                                                       |                                                                                      |
+| Battery and microSD card are Replaceable                     | Compatible with iOS and Android                                                            |                                                                                      |
+| MicroSDslot can extend support up to maximum 128GB cards     | It is possible to shoot using only one lens when you have to capture non 360 degree images |                                                                                      |
+| Loop recording, Time-Lapse recording, 360° spherical capture | Audio quality is much better than competitor                                               |                                                                                      |
+| Wireless Integration                                         | \-                                                                                         |                                                                                      |
+| Cons                                                         | Big size so you cannot keep it in pocket                                                   | For uploading your videos to facebook and YouTube, you may need desktop application. |
+| Its designs is not waterproof                                | Even the desktop app do not provide any editing option to captured images                  |                                                                                      |
+| You need to connect it with latest Samsung phone             | There are some Software glitches                                                           |                                                                                      |
+| Stitch lines appear to be very apparent                      | Battery do not come with swappable feature                                                 |                                                                                      |
+| \-                                                           | It poses some limitations on video and photo sharing abilities                             |                                                                                      |
+| \-                                                           | Not water-resistant                                                                        |                                                                                      |
+| \-                                                           | Doesn’t serve with internal storage space                                                  |                                                                                      |
+
+## Part 3 Image quality comparison
+
+When we watch 360 videos on tablet or smartphone then it leads to immersive experience; a facility of VR headset can add more features to your 360 video world. In case of Gear 360 you will be able to enjoy 4K resolution whereas LG 360 serves with 2K resolution only thus [Samsung Gear 360](https://tools.techidaily.com/wondershare/filmora/download/) will be better choice in this case. On the other side if we talk about audio abilities then LG360 has an edge over Samsung Gear 360 because of its ability to record 5.1 level surround sounds that is major requirement of a 360 degree video. The Gear 360 possess stereo record feature that can capture voice only in two directions thus resultant audio in scenes is not that much clear. Moving forward to more technical specifications, the bit rate – well known as quality of image with resolution is 60MB/second in case of Gear 360 whereas LG360 cam limits up to 19MB/second, this makes a big difference in quality. If we count features then Samsung gear 360 definitely have more features as like its waterproof body, highly stabilized video results and F2.0 dual lenses but LG360 lacks behind in these features.
+
+## Part 4 Editing software comparison comparison
+
+It is possible to stitch videos as well as photographs taken from the 360 degree camera using Galaxy phone and they can be directly shared on social media. Some consumers also love to use Desktop software to edit the camera results in detail. Same as like Gear 360, the latest device from LG can also capture good quality 360 degree videos as well as photographs but it do not support spherical share as like Samsung unit. You can pair up LG360 cam only with LG G5 latest smartphone whereas video and photo editing options are not yet known for smartphone as well as PC. Both these devices come with Wi-Fi connectivity, USB port and Bluetooth capabilities whereas in case of Samsung 360 gear NFC is an additional option. The ultimate combination of time lapse recording, 360 spherical recording and loop recording makes everything easy in Samsung gear where you can avail wonderful results for each real time recording.
+
+Check this side-by-side video review to know more about this two 360 degree cameras:
+
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
+## Part 5 Conclusion
+
+Price difference of both devices is well reflected in the comparison table above and you got enough information about their features too. The gear 360 results better looking images along with better color distributions but in case of LG the image as well as video quality is comparatively degraded; Although, LG cam is much faster and discrete design but for professional photographers it will not result better output. The two additional shooting modes of Gear 360 also allows better quality of videos and its compatibility with Samsung smartphones allows easy editing and uploading. After getting real time users recommendations and their reviews, users are advised to prefer Samsung GEAR 360 for their Virtual Reality needs but those who cannot compromise for price range can go for LG360 device as its audio quality is much better than Samsung gear 360 along with ability to connect with Android as well as iOS devices.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+Samsung has launched its 360 gear with the release of Galaxy S7 and Samsung S7 Edge, although Samsung is not a well known name in the world of VR gadgets but still few people use to prefer this brand especially, whereas on the other side [LG 360 cam](https://tools.techidaily.com/wondershare/filmora/download/) was launched to work in association with all Android as well as OS devices. Both of these cameras have almost same kind of features so people are not able to decide easily that which one to buy; definitely they need a reliable comparison between both gadgets so that better decision can be made. Actually there is some different between image and video quality that you must know along with few other major features.
+
+* [Part 1: Basic specs comparison](#part1)
+
+* [Part 2: Pros and Cons](#part2)
+* [Part 3: Image quality comparison](#part3)
+* [Part 4: Editing software comparison](#part4)
+* [Part 5: Conclusion](#part5)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![samsung gear 360 vs lg 360cam](https://images.wondershare.com/filmora/article-images/samsung-gear-360-vs-lg-360-cam.jpg)
 
 ## Part 1 Basic specs comparison
@@ -61,6 +256,10 @@ _Below you can find the difference between both devices at a glance:_
 
 All these specifications can help users to make decision about best cam as per their requirement and budget but at the same time you must know about real user reviews leading to some pros and cons of these devices. Below are complete details:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## Part 2 Pros and Cons
 
 | **\-**                                                       | **Samsung Gear 360**                                                                       | **LG 360 Cam**                                                                       |
@@ -115,8 +314,14 @@ Samsung has launched its 360 gear with the release of Galaxy S7 and Samsung S7 E
 * [Part 4: Editing software comparison](#part4)
 * [Part 5: Conclusion](#part5)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![samsung gear 360 vs lg 360cam](https://images.wondershare.com/filmora/article-images/samsung-gear-360-vs-lg-360-cam.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## Part 1 Basic specs comparison
 
 _Below you can find the difference between both devices at a glance:_
@@ -164,6 +369,9 @@ All these specifications can help users to make decision about best cam as per t
 
 When we watch 360 videos on tablet or smartphone then it leads to immersive experience; a facility of VR headset can add more features to your 360 video world. In case of Gear 360 you will be able to enjoy 4K resolution whereas LG 360 serves with 2K resolution only thus [Samsung Gear 360](https://tools.techidaily.com/wondershare/filmora/download/) will be better choice in this case. On the other side if we talk about audio abilities then LG360 has an edge over Samsung Gear 360 because of its ability to record 5.1 level surround sounds that is major requirement of a 360 degree video. The Gear 360 possess stereo record feature that can capture voice only in two directions thus resultant audio in scenes is not that much clear. Moving forward to more technical specifications, the bit rate – well known as quality of image with resolution is 60MB/second in case of Gear 360 whereas LG360 cam limits up to 19MB/second, this makes a big difference in quality. If we count features then Samsung gear 360 definitely have more features as like its waterproof body, highly stabilized video results and F2.0 dual lenses but LG360 lacks behind in these features.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4 Editing software comparison comparison
 
 It is possible to stitch videos as well as photographs taken from the 360 degree camera using Galaxy phone and they can be directly shared on social media. Some consumers also love to use Desktop software to edit the camera results in detail. Same as like Gear 360, the latest device from LG can also capture good quality 360 degree videos as well as photographs but it do not support spherical share as like Samsung unit. You can pair up LG360 cam only with LG G5 latest smartphone whereas video and photo editing options are not yet known for smartphone as well as PC. Both these devices come with Wi-Fi connectivity, USB port and Bluetooth capabilities whereas in case of Samsung 360 gear NFC is an additional option. The ultimate combination of time lapse recording, 360 spherical recording and loop recording makes everything easy in Samsung gear where you can avail wonderful results for each real time recording.
@@ -174,166 +382,9 @@ Check this side-by-side video review to know more about this two 360 degree came
 
 Price difference of both devices is well reflected in the comparison table above and you got enough information about their features too. The gear 360 results better looking images along with better color distributions but in case of LG the image as well as video quality is comparatively degraded; Although, LG cam is much faster and discrete design but for professional photographers it will not result better output. The two additional shooting modes of Gear 360 also allows better quality of videos and its compatibility with Samsung smartphones allows easy editing and uploading. After getting real time users recommendations and their reviews, users are advised to prefer Samsung GEAR 360 for their Virtual Reality needs but those who cannot compromise for price range can go for LG360 device as its audio quality is much better than Samsung gear 360 along with ability to connect with Android as well as iOS devices.
 
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
-Samsung has launched its 360 gear with the release of Galaxy S7 and Samsung S7 Edge, although Samsung is not a well known name in the world of VR gadgets but still few people use to prefer this brand especially, whereas on the other side [LG 360 cam](https://tools.techidaily.com/wondershare/filmora/download/) was launched to work in association with all Android as well as OS devices. Both of these cameras have almost same kind of features so people are not able to decide easily that which one to buy; definitely they need a reliable comparison between both gadgets so that better decision can be made. Actually there is some different between image and video quality that you must know along with few other major features.
-
-* [Part 1: Basic specs comparison](#part1)
-
-* [Part 2: Pros and Cons](#part2)
-* [Part 3: Image quality comparison](#part3)
-* [Part 4: Editing software comparison](#part4)
-* [Part 5: Conclusion](#part5)
-
-![samsung gear 360 vs lg 360cam](https://images.wondershare.com/filmora/article-images/samsung-gear-360-vs-lg-360-cam.jpg)
-
-## Part 1 Basic specs comparison
-
-_Below you can find the difference between both devices at a glance:_
-
-| **Spec**                 | **Samsung Gear 360**                          | **LG 360 Cam**                                   |
-| ------------------------ | --------------------------------------------- | ------------------------------------------------ |
-| **Price**                | Price                                         | $199                                             |
-| **Date of Availability** | 2016-04-29                                    | 2016-03-23                                       |
-| **Weight**               | 153g                                          | 76.7g                                            |
-| **Size**                 | (66.7x56.3x60.1)mm                            | (40 x7 x5) mm                                    |
-| **Memory**               | microSD card type storage ranging up to 128GB | 4 GB flash along with Memory Card Max up to 2 TB |
-| **Battery**              | 1,350mAh is included                          | 1200 mAh is included                             |
-| **Body material**        | Plastic                                       | Plastic                                          |
-| **Sensor**               | Dual 15MP type CMOS                           | Dual 13 MP type CMOS                             |
-| **Lenses**               | Fisheye lens with Dual f/2.0                  | Dual - Fisheye Lens                              |
-| **Image resolution**     | Single cam (3072x1728), Dual cam (7776x3888)  | 5660 x 2830 (16M)                                |
-| **Video resolution**     | Single cam (2560x1440), Dual cam (2840x1920)  | 2560 x 1280 (30fps)                              |
-| **Image format**         | JPEG (EXIF 2.3)                               | JPEG                                             |
-| **Video format**         | MP4                                           | Audio : 5.1Ch and MP4(MPEG-4 AVC)                |
-| **Tripod**               | Mini tripod included                          | A Standard 1/4-inch type tripod thread           |
-| **Connectivity options** | Wifi, NFC, Bluetooth, USB 2.0                 | Wifi, USB 2.0, Bluetooth                         |
-
-All these specifications can help users to make decision about best cam as per their requirement and budget but at the same time you must know about real user reviews leading to some pros and cons of these devices. Below are complete details:
-
-## Part 2 Pros and Cons
-
-| **\-**                                                       | **Samsung Gear 360**                                                                       | **LG 360 Cam**                                                                       |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| Pros                                                         | Consumer 360 camera with Highest resolution                                                | Price range is low as compared to its competitor                                     |
-| Easy to use and Self-contained                               | Easy to operate and hold                                                                   |                                                                                      |
-| Dust resistant and Splashproof                               | More Memory capacity                                                                       |                                                                                      |
-| Battery and microSD card are Replaceable                     | Compatible with iOS and Android                                                            |                                                                                      |
-| MicroSDslot can extend support up to maximum 128GB cards     | It is possible to shoot using only one lens when you have to capture non 360 degree images |                                                                                      |
-| Loop recording, Time-Lapse recording, 360° spherical capture | Audio quality is much better than competitor                                               |                                                                                      |
-| Wireless Integration                                         | \-                                                                                         |                                                                                      |
-| Cons                                                         | Big size so you cannot keep it in pocket                                                   | For uploading your videos to facebook and YouTube, you may need desktop application. |
-| Its designs is not waterproof                                | Even the desktop app do not provide any editing option to captured images                  |                                                                                      |
-| You need to connect it with latest Samsung phone             | There are some Software glitches                                                           |                                                                                      |
-| Stitch lines appear to be very apparent                      | Battery do not come with swappable feature                                                 |                                                                                      |
-| \-                                                           | It poses some limitations on video and photo sharing abilities                             |                                                                                      |
-| \-                                                           | Not water-resistant                                                                        |                                                                                      |
-| \-                                                           | Doesn’t serve with internal storage space                                                  |                                                                                      |
-
-## Part 3 Image quality comparison
-
-When we watch 360 videos on tablet or smartphone then it leads to immersive experience; a facility of VR headset can add more features to your 360 video world. In case of Gear 360 you will be able to enjoy 4K resolution whereas LG 360 serves with 2K resolution only thus [Samsung Gear 360](https://tools.techidaily.com/wondershare/filmora/download/) will be better choice in this case. On the other side if we talk about audio abilities then LG360 has an edge over Samsung Gear 360 because of its ability to record 5.1 level surround sounds that is major requirement of a 360 degree video. The Gear 360 possess stereo record feature that can capture voice only in two directions thus resultant audio in scenes is not that much clear. Moving forward to more technical specifications, the bit rate – well known as quality of image with resolution is 60MB/second in case of Gear 360 whereas LG360 cam limits up to 19MB/second, this makes a big difference in quality. If we count features then Samsung gear 360 definitely have more features as like its waterproof body, highly stabilized video results and F2.0 dual lenses but LG360 lacks behind in these features.
-
-## Part 4 Editing software comparison comparison
-
-It is possible to stitch videos as well as photographs taken from the 360 degree camera using Galaxy phone and they can be directly shared on social media. Some consumers also love to use Desktop software to edit the camera results in detail. Same as like Gear 360, the latest device from LG can also capture good quality 360 degree videos as well as photographs but it do not support spherical share as like Samsung unit. You can pair up LG360 cam only with LG G5 latest smartphone whereas video and photo editing options are not yet known for smartphone as well as PC. Both these devices come with Wi-Fi connectivity, USB port and Bluetooth capabilities whereas in case of Samsung 360 gear NFC is an additional option. The ultimate combination of time lapse recording, 360 spherical recording and loop recording makes everything easy in Samsung gear where you can avail wonderful results for each real time recording.
-
-Check this side-by-side video review to know more about this two 360 degree cameras:
-
-## Part 5 Conclusion
-
-Price difference of both devices is well reflected in the comparison table above and you got enough information about their features too. The gear 360 results better looking images along with better color distributions but in case of LG the image as well as video quality is comparatively degraded; Although, LG cam is much faster and discrete design but for professional photographers it will not result better output. The two additional shooting modes of Gear 360 also allows better quality of videos and its compatibility with Samsung smartphones allows easy editing and uploading. After getting real time users recommendations and their reviews, users are advised to prefer Samsung GEAR 360 for their Virtual Reality needs but those who cannot compromise for price range can go for LG360 device as its audio quality is much better than Samsung gear 360 along with ability to connect with Android as well as iOS devices.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
-Samsung has launched its 360 gear with the release of Galaxy S7 and Samsung S7 Edge, although Samsung is not a well known name in the world of VR gadgets but still few people use to prefer this brand especially, whereas on the other side [LG 360 cam](https://tools.techidaily.com/wondershare/filmora/download/) was launched to work in association with all Android as well as OS devices. Both of these cameras have almost same kind of features so people are not able to decide easily that which one to buy; definitely they need a reliable comparison between both gadgets so that better decision can be made. Actually there is some different between image and video quality that you must know along with few other major features.
-
-* [Part 1: Basic specs comparison](#part1)
-
-* [Part 2: Pros and Cons](#part2)
-* [Part 3: Image quality comparison](#part3)
-* [Part 4: Editing software comparison](#part4)
-* [Part 5: Conclusion](#part5)
-
-![samsung gear 360 vs lg 360cam](https://images.wondershare.com/filmora/article-images/samsung-gear-360-vs-lg-360-cam.jpg)
-
-## Part 1 Basic specs comparison
-
-_Below you can find the difference between both devices at a glance:_
-
-| **Spec**                 | **Samsung Gear 360**                          | **LG 360 Cam**                                   |
-| ------------------------ | --------------------------------------------- | ------------------------------------------------ |
-| **Price**                | Price                                         | $199                                             |
-| **Date of Availability** | 2016-04-29                                    | 2016-03-23                                       |
-| **Weight**               | 153g                                          | 76.7g                                            |
-| **Size**                 | (66.7x56.3x60.1)mm                            | (40 x7 x5) mm                                    |
-| **Memory**               | microSD card type storage ranging up to 128GB | 4 GB flash along with Memory Card Max up to 2 TB |
-| **Battery**              | 1,350mAh is included                          | 1200 mAh is included                             |
-| **Body material**        | Plastic                                       | Plastic                                          |
-| **Sensor**               | Dual 15MP type CMOS                           | Dual 13 MP type CMOS                             |
-| **Lenses**               | Fisheye lens with Dual f/2.0                  | Dual - Fisheye Lens                              |
-| **Image resolution**     | Single cam (3072x1728), Dual cam (7776x3888)  | 5660 x 2830 (16M)                                |
-| **Video resolution**     | Single cam (2560x1440), Dual cam (2840x1920)  | 2560 x 1280 (30fps)                              |
-| **Image format**         | JPEG (EXIF 2.3)                               | JPEG                                             |
-| **Video format**         | MP4                                           | Audio : 5.1Ch and MP4(MPEG-4 AVC)                |
-| **Tripod**               | Mini tripod included                          | A Standard 1/4-inch type tripod thread           |
-| **Connectivity options** | Wifi, NFC, Bluetooth, USB 2.0                 | Wifi, USB 2.0, Bluetooth                         |
-
-All these specifications can help users to make decision about best cam as per their requirement and budget but at the same time you must know about real user reviews leading to some pros and cons of these devices. Below are complete details:
-
-## Part 2 Pros and Cons
-
-| **\-**                                                       | **Samsung Gear 360**                                                                       | **LG 360 Cam**                                                                       |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| Pros                                                         | Consumer 360 camera with Highest resolution                                                | Price range is low as compared to its competitor                                     |
-| Easy to use and Self-contained                               | Easy to operate and hold                                                                   |                                                                                      |
-| Dust resistant and Splashproof                               | More Memory capacity                                                                       |                                                                                      |
-| Battery and microSD card are Replaceable                     | Compatible with iOS and Android                                                            |                                                                                      |
-| MicroSDslot can extend support up to maximum 128GB cards     | It is possible to shoot using only one lens when you have to capture non 360 degree images |                                                                                      |
-| Loop recording, Time-Lapse recording, 360° spherical capture | Audio quality is much better than competitor                                               |                                                                                      |
-| Wireless Integration                                         | \-                                                                                         |                                                                                      |
-| Cons                                                         | Big size so you cannot keep it in pocket                                                   | For uploading your videos to facebook and YouTube, you may need desktop application. |
-| Its designs is not waterproof                                | Even the desktop app do not provide any editing option to captured images                  |                                                                                      |
-| You need to connect it with latest Samsung phone             | There are some Software glitches                                                           |                                                                                      |
-| Stitch lines appear to be very apparent                      | Battery do not come with swappable feature                                                 |                                                                                      |
-| \-                                                           | It poses some limitations on video and photo sharing abilities                             |                                                                                      |
-| \-                                                           | Not water-resistant                                                                        |                                                                                      |
-| \-                                                           | Doesn’t serve with internal storage space                                                  |                                                                                      |
-
-## Part 3 Image quality comparison
-
-When we watch 360 videos on tablet or smartphone then it leads to immersive experience; a facility of VR headset can add more features to your 360 video world. In case of Gear 360 you will be able to enjoy 4K resolution whereas LG 360 serves with 2K resolution only thus [Samsung Gear 360](https://tools.techidaily.com/wondershare/filmora/download/) will be better choice in this case. On the other side if we talk about audio abilities then LG360 has an edge over Samsung Gear 360 because of its ability to record 5.1 level surround sounds that is major requirement of a 360 degree video. The Gear 360 possess stereo record feature that can capture voice only in two directions thus resultant audio in scenes is not that much clear. Moving forward to more technical specifications, the bit rate – well known as quality of image with resolution is 60MB/second in case of Gear 360 whereas LG360 cam limits up to 19MB/second, this makes a big difference in quality. If we count features then Samsung gear 360 definitely have more features as like its waterproof body, highly stabilized video results and F2.0 dual lenses but LG360 lacks behind in these features.
-
-## Part 4 Editing software comparison comparison
-
-It is possible to stitch videos as well as photographs taken from the 360 degree camera using Galaxy phone and they can be directly shared on social media. Some consumers also love to use Desktop software to edit the camera results in detail. Same as like Gear 360, the latest device from LG can also capture good quality 360 degree videos as well as photographs but it do not support spherical share as like Samsung unit. You can pair up LG360 cam only with LG G5 latest smartphone whereas video and photo editing options are not yet known for smartphone as well as PC. Both these devices come with Wi-Fi connectivity, USB port and Bluetooth capabilities whereas in case of Samsung 360 gear NFC is an additional option. The ultimate combination of time lapse recording, 360 spherical recording and loop recording makes everything easy in Samsung gear where you can avail wonderful results for each real time recording.
-
-Check this side-by-side video review to know more about this two 360 degree cameras:
-
-## Part 5 Conclusion
-
-Price difference of both devices is well reflected in the comparison table above and you got enough information about their features too. The gear 360 results better looking images along with better color distributions but in case of LG the image as well as video quality is comparatively degraded; Although, LG cam is much faster and discrete design but for professional photographers it will not result better output. The two additional shooting modes of Gear 360 also allows better quality of videos and its compatibility with Samsung smartphones allows easy editing and uploading. After getting real time users recommendations and their reviews, users are advised to prefer Samsung GEAR 360 for their Virtual Reality needs but those who cannot compromise for price range can go for LG360 device as its audio quality is much better than Samsung gear 360 along with ability to connect with Android as well as iOS devices.
-
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -366,3 +417,29 @@ Follow @Benjamin Arango
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-avoiding-ambiguity-clear-dating-of-digital-pics/"><u>[New] Avoiding Ambiguity  Clear Dating of Digital Pics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-beginners-booklet-on-backdrops-and-blending/"><u>[Updated] Beginner's Booklet on Backdrops & Blending</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-calm-cadences-non-intrusive-audio-softening-techniques/"><u>[Updated] Calm Cadences  Non-Intrusive Audio Softening Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-choreographing-gripping-podcast-openings/"><u>[Updated] Choreographing Gripping Podcast Openings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/20-top-free-cloud-storage-options-maximize-your-upload-limit-1tbplus/"><u>20 Top Free Cloud Storage Options, Maximize Your Upload Limit (1TB+)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-down-advanced-photographic-modes-for-enhanced-results/"><u>2024 Approved  Breaking Down Advanced Photographic Modes for Enhanced Results</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-audio-softening-techniques-for-the-proficient-user-on-lumafusion-for-2024/"><u>Advanced Audio Softening Techniques for the Proficient User on Lumafusion for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-virtual-engagement-how-to-incorporate-filters-in-zoom-for-2024/"><u>Boosting Virtual Engagement  How to Incorporate Filters in Zoom for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-overview-of-cost-free-livestream-apps-and-solutions-for-everyone-for-2024/"><u>Comprehensive Overview of Cost-Free Livestream Apps & Solutions for Everyone for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-best-watermarking-apps-for-images/"><u>Discover Best WaterMarking Apps for Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-film-clips-for-aspiring-video-editors/"><u>In 2024, Best Film Clips for Aspiring Video Editors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leading-5-goggles-for-optimal-drone-pilot-viewing/"><u>Leading 5 Goggles for Optimal Drone Pilot Viewing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/live-action-9-the-ultimate-guide/"><u>Live Action, #9  The Ultimate Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/master-your-media-best-6-video-apps-for-macos-big-sur-users/"><u>Master Your Media  Best 6 Video Apps for macOS Big Sur Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/restful-narratives-on-display/"><u>Restful Narratives on Display</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sky-high-drone-competition-guide-plus-5-innovative-fpv-systems/"><u>Sky High Drone Competition Guide + 5 Innovative FPV Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/snap-up-on-details-with-videoleaps-advanced-zooming/"><u>Snap Up on Details with VideoLeap's Advanced Zooming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-technicalities-of-podcast-rss-file-design/"><u>The Technicalities of Podcast RSS File Design</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-macos-manual-for-mixer-live-streaming/"><u>The Ultimate MacOS Manual for Mixer Live Streaming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-vr-immersion-review-series-oculus-edition/"><u>Ultimate VR Immersion Review Series – Oculus Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/uncover-the-best-5-ios-applications-for-easy-podcasting/"><u>Uncover the Best 5 iOS Applications for Easy Podcasting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/your-key-to-digital-audio-conversion-from-srt-to-xmlssattml-guide/"><u>Your Key to Digital Audio Conversion  From SRT to XML/SSA/TTML Guide</u></a></li>
+</ul></div>

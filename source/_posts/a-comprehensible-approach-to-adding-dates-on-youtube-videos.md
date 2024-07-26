@@ -1,7 +1,7 @@
 ---
 title: "A Comprehensible Approach to Adding Dates on YouTube Videos"
-date: 2024-05-24T04:18:39.508Z
-updated: 2024-05-25T04:18:39.508Z
+date: 2024-07-25T03:02:26.109Z
+updated: 2024-07-26T03:02:26.109Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes A Comprehensible Approach to Adding Dates on YouTube Videos"
 excerpt: "This Article Describes A Comprehensible Approach to Adding Dates on YouTube Videos"
 keywords: "Add Dates in Video Content,Enhance Date Visibility,Easy Date Tagging Tips,Integrating Date Info,Date Marking Guide,YouTube Date Tracking,Streamlining Date Upload"
-thumbnail: https://www.lifewire.com/thmb/YvlUrzntub_aCKxG1Ah4k49OPTs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/connect-chromecast-to-hotel-wi-fi-4175829-21485d8d7e59400baae6922a39f7ba93.png
+thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09e794f561f2fddd69b31c591.png
 ---
 
 ## A Comprehensible Approach to Adding Dates on YouTube Videos
@@ -46,6 +46,9 @@ You can then share the link as you wish.
 2. Scroll through the video until you get to the section of interest.
 3. Click on the _**“Share”**_ icon just below the video.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![share timestamps](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-2.jpg)
 
 1. Check the _**“Start at \[time slot\]”**_ box in the popup menu that appears.
@@ -54,6 +57,9 @@ You can then share the link as you wish.
 
 1. If you need to adjust the time marker manually, tap the _**“time”**_ and enter a new value.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![enter a new value](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-4.jpg)
 
 1. Highlight the _**“URL,”**_ then _**“Right-click”**_ (Windows) or _**“two-finger tap”**_ (Mac) and select _**“Copy.”**_
@@ -62,6 +68,9 @@ You can then share the link as you wish.
 
 Viewers are taken immediately to the desired timestamp when they click the copied link. The video starts to play at that point.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Link to a YouTube Timestamp Manually
 
 There are two types of URLs used for each YouTube video:
@@ -74,12 +83,18 @@ When sharing (email, Facebook, Twitter, etc.), the URL is "<https://youtu.be/>"
 2. To specify "seconds" on URLs that use "youtube.com/", put the format "&t=Xs" where "t" represents time, "X" is the time slot number, and "s" stands for seconds, for example, "&t=45s".
 3. To specify "minutes and seconds" in both URLs, change the format from "Xs" to "XmYs" where "t" = time, "Xm" = # minutes and "Ys" = # seconds, for example "? t=5m30s" or "&t=5m30s."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** When manually linking to a timestamp, always omit the zeros and include only whole numbers. For example, use 8 instead of 08.
 
 It is also important to note that referring to a specific timestamp does not mean that one cannot watch earlier video segments. They can move the time slider in any direction.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### 4\. Using the YouTube app for Android or iPhone, link to a particular time slot
 
 1. Launch the _**“YouTube App”**_ and find the video you'd like to share where it starts playing at a specific timeslot.
@@ -94,6 +109,9 @@ It is also important to note that referring to a specific timestamp does not mea
 
 Finally, remember that the formula for a time period is t=Xs or t=XmYs. You modify X and Y to reflect your own time values. Short URLs starting with "youtu.be" use "?" first, while long URLs starting with "youtube.com/watch?v=" use "&" before the time data.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Using link generator to add timestamp
 
 The methods above to add and submit a timestamped YouTube link are quick and easy but have a few limitations. If you need more control and sharing of YouTube video highlights without cutting the video, you need to use third-party link generators.
@@ -102,6 +120,9 @@ Link generators allow you to not only share specific parts of videos from YouTub
 
 1. Go to [Farotech timestamp link generator](https://farotech.com/youtube-timestamp-link-generator/), paste the URL of the YouTube video you want to share, and edit the time.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit the time](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-7.jpg)
 
 1. To confirm whether the jump time is right, you can simply click on the generated link. If the verification is successful, you can then copy the address.
@@ -152,6 +173,9 @@ You can then share the link as you wish.
 
 1. Check the _**“Start at \[time slot\]”**_ box in the popup menu that appears.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![popup menu](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-3.jpg)
 
 1. If you need to adjust the time marker manually, tap the _**“time”**_ and enter a new value.
@@ -160,6 +184,9 @@ You can then share the link as you wish.
 
 1. Highlight the _**“URL,”**_ then _**“Right-click”**_ (Windows) or _**“two-finger tap”**_ (Mac) and select _**“Copy.”**_
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select copy](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-5.jpg)
 
 Viewers are taken immediately to the desired timestamp when they click the copied link. The video starts to play at that point.
@@ -176,18 +203,27 @@ When sharing (email, Facebook, Twitter, etc.), the URL is "<https://youtu.be/>"
 2. To specify "seconds" on URLs that use "youtube.com/", put the format "&t=Xs" where "t" represents time, "X" is the time slot number, and "s" stands for seconds, for example, "&t=45s".
 3. To specify "minutes and seconds" in both URLs, change the format from "Xs" to "XmYs" where "t" = time, "Xm" = # minutes and "Ys" = # seconds, for example "? t=5m30s" or "&t=5m30s."
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** When manually linking to a timestamp, always omit the zeros and include only whole numbers. For example, use 8 instead of 08.
 
 It is also important to note that referring to a specific timestamp does not mean that one cannot watch earlier video segments. They can move the time slider in any direction.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Using the YouTube app for Android or iPhone, link to a particular time slot
 
 1. Launch the _**“YouTube App”**_ and find the video you'd like to share where it starts playing at a specific timeslot.
 2. Pause the video to your starting point or pause and use the **_“Seek”_** option by holding down on the video and sliding right or left.
 3. Click on the _**“Share”**_ button.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on the share button](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-6.jpg)
 
 1. To save the timeslot URL to use for multiple apps or for later use, select "Copy Link" and paste it where you can retrieve it as needed. You can edit the time period in the URL later.
@@ -209,6 +245,18 @@ Link generators allow you to not only share specific parts of videos from YouTub
 1. To confirm whether the jump time is right, you can simply click on the generated link. If the verification is successful, you can then copy the address.
 2. You will get a dedicated link to your video with the option to embed it on your website or blog.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. How to add a timestamp in YouTube comments or description
 
 If you are a Youtuber and your videos are informative, adding a jumpable timestamp in the comments or description will make it easier for viewers to understand your videos. The duration of your video will also grow if viewers keep returning to a certain piece of it.
@@ -222,6 +270,10 @@ Here's the guide to adding a timestamp to a YouTube comment or description:
 
 The process is simple - just write the time you want to redirect viewers to in the comment. The timestamp format is hours:minutes:seconds (no spaces). Make sure the time format is correct, then a timestamp with a jump link will be generated automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 YouTubers want videos to be short and to the point. However, if the video needs to be longer, you can help users browse and find what's important to them by adding a timestamp to the YouTube link or a timestamp to the YouTube descriptions. This can help your viewers go directly to the interesting part of the video instead of watching the entire video, saving them time, and improving the user experience. The most recommended way to the timestamp on YouTube is using a built-in function in YouTube.
@@ -256,3 +308,44 @@ Timestamps can help you share information with your audience without having to w
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-complete-overview-how-to-navigate-telegram-web/"><u>[New] Complete Overview  How To Navigate Telegram Web</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-blending-beats-with-brushstrokes-online/"><u>[Updated] Blending Beats with Brushstrokes Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-choreographing-content-and-music-in-powerpoint/"><u>[Updated] Choreographing Content and Music in PowerPoint</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-advanced-techniques-to-master-with-canva-designer-for-2024/"><u>10 Advanced Techniques to Master with Canva Designer for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-innovative-skin-modification-apps-for-smartphones-for-2024/"><u>10 Innovative Skin Modification Apps for Smartphones for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2020s-windows-updates-a-quick-overview-for-2024/"><u>2020'S Windows Updates  A Quick Overview for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-become-an-instagram-star-9-tips/"><u>2024 Approved  Become an Instagram Star [9 Tips]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-the-barrier-easy-livestream-setup-for-podcasters/"><u>2024 Approved  Breaking the Barrier  Easy Livestream Setup for Podcasters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-conducting-a-cross-platform-playlist-symphony/"><u>2024 Approved  Conducting a Cross-Platform Playlist Symphony</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/asus-proart-pa-329q-a-deep-dive-into-high-resolution-monitoring-for-2024/"><u>Asus ProArt PA 329Q  A Deep Dive Into High-Resolution Monitoring for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beginning-a-successful-item-evaluation-video-series-for-2024/"><u>Beginning a Successful Item Evaluation Video Series for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bypassing-hurdles-seamless-pc-file-integration-tips-and-tricks/"><u>Bypassing Hurdles  Seamless PC File Integration Tips and Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-compelling-examples-podcast-summaries/"><u>Crafting Compelling Examples  Podcast Summaries</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-your-edit-mastering-lut-application-in-adobe-pro/"><u>Elevating Your Edit  Mastering LUT Application in Adobe Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-ai-driven-video-title-strategy-for-maximum-impact/"><u>In 2024, AI-Driven Video Title Strategy for Maximum Impact</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-begin-installing-xps-key-visual-storytelling-app/"><u>In 2024, Begin Installing XP’s Key Visual Storytelling App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-budget-friendly-high-resolution-cameras/"><u>In 2024, Budget-Friendly High-Resolution Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-guide-to-the-best-auto-tracking-cameras/"><u>In 2024, Guide to the Best Auto Tracking Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-the-role-of-alternate-footage/"><u>Mastering the Role of Alternate Footage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-maze-of-massive-content-movement-from-iphones-to-mac/"><u>Navigating the Maze of Massive Content Movement From iPhones to Mac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-windows-11-hacks-for-efficiency-experts/"><u>New Windows 11 Hacks for Efficiency Experts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimizing-fade-infade-out-routines/"><u>Optimizing Fade-In/Fade-Out Routines</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pinnacle-capture-gear-for-visual-media-2024/"><u>Pinnacle Capture Gear for Visual Media, 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premier-parchment-creators/"><u>Premier Parchment Creators</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-guide-seamless-audio-transitions/"><u>Quick Guide  Seamless Audio Transitions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-creative-connoisseurs-guide-to-smartphones/"><u>The Creative Connoisseur's Guide to Smartphones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-edge-enhancements-in-windows-10-release/"><u>The Edge Enhancements in Windows 10 Release</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-path-to-larger-video-presentation-in-youtube/"><u>The Path to Larger Video Presentation in YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-7-streaming-tools-for-mac-enthusiasts/"><u>Top 7 Streaming Tools for Mac Enthusiasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-creative-potential-smart-b-roll-incorporation/"><u>Unlock Creative Potential  Smart B Roll Incorporation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-the-power-of-voice-notes-masterclass/"><u>Unlocking the Power of Voice Notes Masterclass</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unmatched-5-apps-for-harmonious-photoplussound-creation/"><u>Unmatched 5 Apps for Harmonious Photo+Sound Creation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unseen-underpinnings-of-user-interface-craftsmanship/"><u>Unseen Underpinnings of User Interface Craftsmanship</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/virtual-realms-for-practicality/"><u>Virtual Realms for Practicality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visionary-video-setups-a-filmmakers-guide-to-brilliance/"><u>Visionary Video Setups  A Filmmaker's Guide to Brilliance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vloggers-guide-to-smooth-cinematography-equipment/"><u>Vlogger’s Guide to Smooth Cinematography Equipment</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/zipped-content-unveiled-crafting-srt-text-files/"><u>Zipped Content Unveiled  Crafting Srt Text Files</u></a></li>
+</ul></div>

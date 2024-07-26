@@ -1,7 +1,7 @@
 ---
 title: "\"Chromatic Creativity  Enhancing Your Craft\""
-date: 2024-05-24T05:13:37.354Z
-updated: 2024-05-25T05:13:37.354Z
+date: 2024-07-25T04:47:29.057Z
+updated: 2024-07-26T04:47:29.057Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Chromatic Creativity: Enhancing Your Craft\""
 excerpt: "\"This Article Describes Chromatic Creativity: Enhancing Your Craft\""
 keywords: "Creative Chroma,Colorful Crafts,Artistic Hues,Vivid Creations,Palette Innovation,Bright Ideas,Dynamic Designs"
-thumbnail: https://www.lifewire.com/thmb/0SVBM5fOC6m-97UzQ_J4nYaBrn4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-72003110-5b733c37c9e77c00509f555a.jpg
+thumbnail: https://thmb.techidaily.com/5cb2e70fe5fc4984663e55071f50818b86ad28c6053861679577418a188e88c7.jpg
 ---
 
 ## Chromatic Creativity: Enhancing Your Craft
@@ -22,6 +22,9 @@ Everyone in the video editing world is full of lively and beautiful colors — j
 
 ![color grading panel filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-panel-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What is Color Grading?
 
 Color grading is the video editing process wherein grading (arranging) colors in a video or film to give them a stylistic look. It is different from Color correction because color correction is the process of correcting (fixing) colors in a video or a film as a way to get them back to what they should look like for your project or output.
@@ -32,10 +35,16 @@ In cinematography, color grading refers to the manipulation of film and video im
 
 Color grading and color correction are processes that happen throughout postproduction. One makes the film look more native, and the other stylizes the footage. After the colorist finishes color correction, they can begin grading the film. During color grading, colorists use editing software to formalize the footage, highlighting a movie's visual tone and ambiance and making it look more cinematic.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![apply color grading to video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-grading-to-video.jpg)
 
 To summarize, Color grading can be used to make both technical and creative changes. Colorists use color grading for artistic purposes to ensure that the film's carefully curated color palette conveys a specific atmosphere, style, or emotion.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why is Color Grading Important?
 
 **Color grading establish a picture's first impression**
@@ -68,10 +77,17 @@ Then select the New Project to create a new project file and click Import to fin
 
 Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar to enter the advanced color tools window, where you can apply the preset templates or adjust the color coarsely. It is suggested to start with Presets for beginners, which will save you much time.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![advanced color tools filmora](https://images.wondershare.com/filmora/article-images/2022/08/advanced-color-tools-filmora.jpg)
 
 Color Panel Window - to perform color correction in Wondershare Filmora, switch to the Color tab. You can modify the white balance, saturation, tint, contrast, temperature, and brightness and apply 3D LUT immediately and quickly in this editing panel. You see the output in the Preview window.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![edit color grading video fx](https://images.wondershare.com/filmora/article-images/2022/08/edit-color-grading-video-fx.jpg)
 
 **Contrast**: is the variance in luminance or color that makes an object identifiable. By modifying this setting, control the dissimilarity in color and brightness in contrary parts of the video image.
@@ -90,6 +106,9 @@ Color Panel Window - to perform color correction in Wondershare Filmora, switch 
 
 Here, there are two options to select: The Color correction. It offers different readily-made presets you can use to color your video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![open color correction filmora](https://images.wondershare.com/filmora/article-images/2022/08/open-color-correction-filmora.jpg)
 
 ##### Step2Select the specific video portion
@@ -98,6 +117,9 @@ Here, there are two options to select: The Color correction. It offers different
 
 First, you need to select the specific video portion you want to change the color. Just click the scissor icon or what we call split tool. In this case, I split the 2nd video when I zoom in on the subject.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![split video into clips fx](https://images.wondershare.com/filmora/article-images/2022/08/split-video-into-clips-fx.jpg)
 
 * And I selected the end portion of the video. After that, choose the part of the video.
@@ -130,6 +152,9 @@ You can modify the temperature, tint, white balance, contrast, saturation, and b
 
 Click the button Advanced at the lower corner, then the color grading window will pop up, and you can explore your settings and options.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![color grading with filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-with-filmora.jpg)
 
 **Color Histogram**
@@ -200,3 +225,27 @@ Overall, Color grading is the process of video editing to have an excellent look
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-animatedapps-review-full-guide-24-year/"><u>[New] AnimatedApps Review - Full Guide '24 Year</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-charting-the-course-to-celebrity-the-9-instagram-techniques-you-must-learn/"><u>[Updated] Charting the Course to Celebrity  The #9 Instagram Techniques You Must Learn</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2023-roundup-premier-professionals-360-cameras-for-2024/"><u>2023 Roundup  Premier Professionals’ 360 Cameras for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-thorough-insight-into-androids-lightroom-application/"><u>2024 Approved  A Thorough Insight Into Android's Lightroom Application</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-android-guide-inverting-video-playback/"><u>2024 Approved  Android Guide  Inverting Video Playback</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-mkv-player-for-pc-and-mobile/"><u>2024 Approved  Best Mkv Player for PC and Mobile</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-down-the-font-inclusion-process-in-ae/"><u>2024 Approved  Breaking Down the Font Inclusion Process in AE</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-deep-dive-into-metaverse-gear-top-8-recommendations/"><u>A Deep Dive Into Metaverse Gear  Top 8 Recommendations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-cinematographic-capabilities-essential-iphone-gear/"><u>Boost Cinematographic Capabilities  Essential iPhone Gear</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-hdr-workflows-for-aspiring-pros/"><u>Comprehensive HDR Workflows for Aspiring Pros</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exquisite-drone-fleet-the-pinnacle-of-visual-artistry/"><u>Exquisite Drone Fleet  The Pinnacle of Visual Artistry</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-abletons-precision-in-sound-reduction/"><u>In 2024, Ableton's Precision in Sound Reduction</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-data-analytics-methods-for-market-research-analysis/"><u>In 2024, Advanced Data Analytics Methods for Market Research Analysis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-choices-essential-support-gear-for-your-gopro-camera/"><u>In 2024, Best Choices  Essential Support Gear for Your GoPro Camera</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capture-the-world-with-these-leading-4k-cams/"><u>In 2024, Capture the World with These Leading 4K Cams</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-approach-to-hdr-portraiture-excellence/"><u>Innovative Approach to HDR Portraiture Excellence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sdr-to-hd-now-hdr-the-next-leap-in-editing-workflows/"><u>SDR to HD, Now HDR  The Next Leap in Editing Workflows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-into-cinematic-world-shooting-dynamic-timelapses-on-gopro-hero5-black/"><u>Step Into Cinematic World  Shooting Dynamic Timelapses on GoPro Hero5 Black</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/superior-suggestions-prime-platforms-for-grabbing-snapalert-rhythms/"><u>Superior Suggestions  Prime Platforms for Grabbing SnapAlert Rhythms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-cameraphone-gimbal-optimal-pan-and-tilt-stability/"><u>Top Camera/Phone Gimbal – Optimal Pan & Tilt Stability</u></a></li>
+</ul></div>

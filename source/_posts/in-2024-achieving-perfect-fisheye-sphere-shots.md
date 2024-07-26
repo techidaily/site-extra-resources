@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Achieving Perfect Fisheye Sphere Shots"
-date: 2024-05-24T04:39:07.640Z
-updated: 2024-05-25T04:39:07.640Z
+date: 2024-07-25T03:43:41.103Z
+updated: 2024-07-26T03:43:41.103Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Achieving Perfect Fisheye Sphere Shots"
 excerpt: "This Article Describes In 2024, Achieving Perfect Fisheye Sphere Shots"
 keywords: "Fisheye Shot Tips,Perfect Fisheye Photos,Spherical Lens Techniques,Capturing FishEye Effects,Ultimate Fisheye Photography,Mastering Sphere Images,Ideal FishEye Angles"
-thumbnail: https://www.lifewire.com/thmb/hofjzwWxFXQOP-TMMBgrBGFlUvQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/why-does-car-battery-die-4140227-ad907eef646446d6a1306940af16410a.jpg
+thumbnail: https://thmb.techidaily.com/7fab9a6185158d097b206408c1b02e98fd2b514b00431bdf0c9ec5881d711d0e.jpg
 ---
 
 ## Achieving Perfect Fisheye Sphere Shots
@@ -36,12 +36,18 @@ thumbnail: https://www.lifewire.com/thmb/hofjzwWxFXQOP-TMMBgrBGFlUvQ=/400x300/fi
 
 ![Panohead for Fisheye lens](https://images.wondershare.com/filmora/article-images/panohead-for-fishlens.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2. Leveling and rotating
 
  Other than setting up and calibrating the equipment in the right manner, it is important to keep the camera steady and leveled as you make the rotations to take shots. For leveling, it is recommended to use an appropriate leveling base, while for rotation, using a panning clamp on top of the ballhead is highly recommended.
 
 ![Panning clam on ballhead](https://images.wondershare.com/filmora/article-images/panning-clam-on-ballhead.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3. The actual shooting
 
  For a full frame camera with 15mm fisheye lens in the portrait position, you will require a total of six shot rounds and 1 up to complete a full sphere. If you were using a crop-sensor camera, you will need to have a 10mm fisheye lens to achieve the same sequence.
@@ -70,6 +76,9 @@ thumbnail: https://www.lifewire.com/thmb/hofjzwWxFXQOP-TMMBgrBGFlUvQ=/400x300/fi
 
  The fisheye lenses are used for a myriad of applications, especially in digital photography. They can also be used for re-projecting images captured by a fisheye lens or computer generated graphics onto hemispherical screens. Additionally, the lenses can be used in scientific photography such as studying canopy geometry, recording meteors and aurora, calculating near-ground solar radiation as well as in peepholes to offer a wide field of view to the users.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create 360 photos with fisheye lens](https://images.wondershare.com/filmora/article-images/fisheye-lens-image.jpg)
 
  Conclusion
@@ -88,6 +97,9 @@ Follow @Benjamin Arango
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Shooting 360 degrees panoramas with fisheye lens
 
  The process of shooting panoramas with fisheye lenses involves a number of considerations and they are as follows-:
@@ -102,8 +114,14 @@ Follow @Benjamin Arango
 
  Other than setting up and calibrating the equipment in the right manner, it is important to keep the camera steady and leveled as you make the rotations to take shots. For leveling, it is recommended to use an appropriate leveling base, while for rotation, using a panning clamp on top of the ballhead is highly recommended.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![Panning clam on ballhead](https://images.wondershare.com/filmora/article-images/panning-clam-on-ballhead.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3. The actual shooting
 
  For a full frame camera with 15mm fisheye lens in the portrait position, you will require a total of six shot rounds and 1 up to complete a full sphere. If you were using a crop-sensor camera, you will need to have a 10mm fisheye lens to achieve the same sequence.
@@ -124,6 +142,9 @@ Follow @Benjamin Arango
 
 [How to stitch GoPro clips into 360 videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What's fisheye lenses
 
  Fisheye lens refers to an ultra wide angle lens used to produce strong visual distortions with the aim of creating a wide hemispherical or panoramic image. Fisheye lenses are able to achieve very wide angles of view not through the production of straight lines of perspectives, but through a special mapping which makes the resulting images have the characteristic convex non-rectilinear appearance.
@@ -150,20 +171,36 @@ Follow @Benjamin Arango
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Shooting 360 degrees panoramas with fisheye lens
 
  The process of shooting panoramas with fisheye lenses involves a number of considerations and they are as follows-:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### 1. The equipment and setup
 
  To shoot quality 360 degrees panoramas with fisheye, it is imperative to get the equipment as well as the set up right. Your equipment needs to be calibrated properly to make the stitching process nice and easy. To find the best setting for your equipment, the grid method is recommended on the panohead.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Panohead for Fisheye lens](https://images.wondershare.com/filmora/article-images/panohead-for-fishlens.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2. Leveling and rotating
 
  Other than setting up and calibrating the equipment in the right manner, it is important to keep the camera steady and leveled as you make the rotations to take shots. For leveling, it is recommended to use an appropriate leveling base, while for rotation, using a panning clamp on top of the ballhead is highly recommended.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Panning clam on ballhead](https://images.wondershare.com/filmora/article-images/panning-clam-on-ballhead.jpg)
 
 ### 3. The actual shooting
@@ -178,6 +215,9 @@ Follow @Benjamin Arango
 
  In normal photography, it always pays to remember what to include and what to exclude in your shots. When it comes to shooting 360s, it becomes more complicated since everything is included. For you to take successful 360s with fisheye therefore, you need to consider keenly where you stand. The fisheye lens will introduce a lot of space between you and the subject, hence you must consider how close or far away you are from the subject so that the pieces of the compositional puzzle will fall in place smoothly both in the horizontal and vertical planes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Stitching 360 degrees panoramas after shooting
 
  To stitch 360s taken by fisheye lenses after shooting, you will need panorama software like [Autopano Pro](http://www.kolor.com/) or [PTGui](https://www.ptgui.com/). For Autopano Pro, you begin by importing the images into the software and ensuring that the EXIF are displayed correctly on the program. With the right settings in place, the next step is to launch the direct stitching feature if you don’t want to go the manual way. Once the stitching is done, it will be important to present the output online. This can be done using [Pano2VR](http://www.ggnome.com/pano2vr) or you could simply upload the finished panoramas to [360cities](https://www.360cities.net/) for online viewing.
@@ -200,6 +240,18 @@ Follow @Benjamin Arango
 
  Fisheye lenses have been around for a while now and the process of creating 360 panoramas with them may not be very challenging, but great results are achieved through practice and proper stitching. Once the photos are taken, you can use premium panorama software like Autopano Pro or you can use free options like the Microsoft ICE or Hugin. Ones stitching are done, it is imperative to have the final works uploaded online for others to view.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -212,6 +264,9 @@ Follow @Benjamin Arango
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Shooting 360 degrees panoramas with fisheye lens
 
  The process of shooting panoramas with fisheye lenses involves a number of considerations and they are as follows-:
@@ -220,14 +275,28 @@ Follow @Benjamin Arango
 
  To shoot quality 360 degrees panoramas with fisheye, it is imperative to get the equipment as well as the set up right. Your equipment needs to be calibrated properly to make the stitching process nice and easy. To find the best setting for your equipment, the grid method is recommended on the panohead.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Panohead for Fisheye lens](https://images.wondershare.com/filmora/article-images/panohead-for-fishlens.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2. Leveling and rotating
 
  Other than setting up and calibrating the equipment in the right manner, it is important to keep the camera steady and leveled as you make the rotations to take shots. For leveling, it is recommended to use an appropriate leveling base, while for rotation, using a panning clamp on top of the ballhead is highly recommended.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Panning clam on ballhead](https://images.wondershare.com/filmora/article-images/panning-clam-on-ballhead.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ### 3. The actual shooting
 
  For a full frame camera with 15mm fisheye lens in the portrait position, you will require a total of six shot rounds and 1 up to complete a full sphere. If you were using a crop-sensor camera, you will need to have a 10mm fisheye lens to achieve the same sequence.
@@ -294,3 +363,35 @@ Follow @Benjamin Arango
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-a-stepwise-approach-to-successfully-posting-srt-files-in-new-media/"><u>[New] A Stepwise Approach to Successfully Posting SRT Files in New Media</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-avoiding-disruptions-in-mixer-broadcasting-on-macos/"><u>[New] Avoiding Disruptions in Mixer Broadcasting on macOS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-5-low-cost-drones-maximum-performance-on-a-shoestring/"><u>[Updated] 5 Low-Cost Drones  Maximum Performance on a Shoestring</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-guide-to-sustaining-longer-gopro-battery-life/"><u>[Updated] A Guide to Sustaining Longer GoPro Battery Life</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-androids-elite-selection-of-collage-apps/"><u>[Updated] Android's Elite Selection of Collage Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-accelerate-access-funimates-download-demystified/"><u>2024 Approved  Accelerate Access  Funimate's Download Demystified</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-access-no-cost-vod-media-player-on-windowsmacos/"><u>2024 Approved  Access No-Cost VOD Media Player on Windows/MacOS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-assessing-photoshop-sway-reduction-a-necessity-debate/"><u>2024 Approved  Assessing Photoshop Sway Reduction  A Necessity Debate?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beyond-borders-with-virtual-reality-tours/"><u>2024 Approved  Beyond Borders with Virtual Reality Tours</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breakthrough-14-text-animation-samples/"><u>2024 Approved  Breakthrough 14 Text Animation Samples</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-finding-the-best-meme-ideas-to-create-viral-content/"><u>2024 Approved  Finding the Best Meme Ideas to Create Viral Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-comprehensive-look-at-vivacut-in-the-2024-landscape/"><u>A Comprehensive Look at VivaCut in the 2024 Landscape</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/achieving-memetic-mastery-top-9-techniques-to-create-engaging-gifs/"><u>Achieving Memetic Mastery  Top 9 Techniques to Create Engaging GIFs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/becoming-a-photo-wizard-expert-techniques-for-utilizing-photoshops-background-eraser-tool-for-2024/"><u>Becoming a Photo Wizard  Expert Techniques for Utilizing Photoshop's Background Eraser Tool for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-undersea-gopro-enhancements/"><u>Best Undersea Gopro Enhancements</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cut-to-the-chase-impactful-branding/"><u>Cut to the Chase  Impactful Branding</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-techniques-for-free-c-span-video-downloads/"><u>Cutting Edge Techniques for Free C-Span Video Downloads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dissecting-the-technical-specifications-of-dji-phantom-3/"><u>Dissecting the Technical Specifications of DJI Phantom 3</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exclusive-listing-the-top-10-places-to-snag-pristine-photos/"><u>Exclusive Listing  The Top 10 Places to Snag Pristine Photos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-stillness-to-streamline-adding-blurring-beauty-to-illustrator-photos/"><u>From Stillness to Streamline  Adding Blurring Beauty to Illustrator Photos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/geniusedit-ai-precision-in-photo-mastery/"><u>GeniusEdit AI  Precision in Photo Mastery</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-boosting-vfx-efficiency-with-free-lut-downloads/"><u>In 2024, Boosting VFX Efficiency with FREE LUT Downloads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/magix-image-suite-assessment/"><u>MAGIX Image Suite Assessment</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastery-in-making-single-stream-live-events-stand-out/"><u>Mastery in Making Single-Stream LIVE Events Stand Out</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/raspberry-router-image-maker/"><u>Raspberry Router  Image Maker</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/share-your-latest-audio-exploration/"><u>Share Your Latest Audio Exploration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleashing-creativity-with-aes-best-text-presets/"><u>Unleashing Creativity with AE's Best Text Presets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/videoshow-24-in-depth-guide-and-complete-review/"><u>VideoShow '24  In-Depth Guide & Complete Review</u></a></li>
+</ul></div>

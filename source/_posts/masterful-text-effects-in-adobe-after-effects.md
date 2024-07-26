@@ -1,7 +1,7 @@
 ---
 title: "Masterful Text Effects in Adobe After Effects"
-date: 2024-05-24T03:26:04.459Z
-updated: 2024-05-25T03:26:04.459Z
+date: 2024-07-25T01:21:48.058Z
+updated: 2024-07-26T01:21:48.058Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,21 @@ categories:
 description: "This Article Describes Masterful Text Effects in Adobe After Effects"
 excerpt: "This Article Describes Masterful Text Effects in Adobe After Effects"
 keywords: "AE Mastery Tips,Effective AFX Techniques,Premium AF Transforms,Pro AF Visuals Guide,Adobe AF Magic Tricks,Advanced AF Animations,AF Expert Text Work"
-thumbnail: https://www.lifewire.com/thmb/q0P3DkV_CNVGLLRvBAOEaNzog7U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-171224995-56a105033df78cafdaa7ec85.jpg
+thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be00feda91bc9b60c48edb8ed3.jpg
 ---
 
 ## Masterful Text Effects in Adobe After Effects
 
 Adobe After Effects remains one of the most powerful ways to edit videos. One of the main reasons users find it so useful is the ability to customize the video editing process by adding different kinds of plugins to the program. If you are looking to add unique and fancy text to the video you are working on, then these text plugins for After Effects will come in handy.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## TextDelay
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Ftextdelay/>
@@ -34,6 +42,9 @@ Link: <https://aescripts.com/textexploder/>
 
 TextExploder is an After Effects plugin that is developed by MamoWorld and it allows you to split the text layers in After Effects into words, lines, characters, and more. These splits are so powerful that you can very easily isolate a single word or even a single letter.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![text exploder plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-exploder-plugin.jpg)
 
 ## iExpressions 2
@@ -44,14 +55,23 @@ If you want to effectively use the After Effects expressions even if you are not
 
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## TextBox
 
 Link: <https://aescripts.com/textbox/>
 
 If you want to create the perfect shape behind your text, then TextBox is a good text plugin to consider. This is a native After Effects plugin, meaning that you will not need to install it and the shapes it creates can be very easily customized. It updates the shapes you create automatically and adds them to the text layer, making it the most ideal solution to create closed captions, lower thirds, and subtitles.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Font Manager
 
 Link: <https://aescripts.com/font-manager/>
@@ -82,22 +102,37 @@ This is a bundle of more than 80 different templates to add text effects to any 
 
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Artificial Intelligence Titles
 
 Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%5Frank=1>
 
 The Artificial Intelligence Titles is an After Effects text plugin that is designed to be the ultimate typographical solution. Once you have it in After Effects, you can enter any text and the plugin will automatically adjust the entire layout of the text. You can choose to create awesome text boxes, change the color, add special effects and even change the duration, speed, size, and positioning of the text. It also allows users to customize the text animation’s direction without using a keyframe.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Text Library
 
 Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
 
 This is another great text animation bundle with different options for just about any kind of project. But unlike other plugin bundles that only have a few effects to choose from, Text Library has thousands of templates to choose from. Once you have selected the template that you would like to use, you also get the option to customize the template to suit your project. You can customize the text, size, duration of the animation, and color. It is easy to use and is constantly updated to introduce even more templates with each update.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 On its own After Effects comes with so many post-production effects and features to make your project appear professional and well made. But if you would like to have a unique video production that stands head and shoulders above all others, plugins are a great way to do that. The good news is that After Effects allows for the use of plugins developed by third-party developers and some of the them like the text plugins, we have listed above can be very useful to a video’s production.
@@ -132,3 +167,35 @@ On its own After Effects comes with so many post-production effects and features
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-10-cost-free-innovative-photo-overlays-for-mobile-devices/"><u>[New] 10 Cost-Free, Innovative Photo Overlays for Mobile Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-practices-for-live-streaming-services-and-local-channels/"><u>[New] Best Practices for Live Streaming Services & Local Channels</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-box-tastic-finds-discover-the-best-sites-for-boxes-at-steals/"><u>[New] Box-Tastic Finds! Discover the Best Sites for Boxes at Steals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-charming-calls-verify-if-vocal-alteration-apps-are-real-then-find-others/"><u>[New] Charming Calls  Verify if Vocal Alteration Apps Are Real, Then Find Others</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-synergy-for-success-merge-linktree-with-your-tiktok-bio/"><u>[Updated] A Synergy for Success  Merge Linktree with Your TikTok Bio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-practice-animation-series/"><u>[Updated] Best Practice Animation Series</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-captivating-comedy-crafted-step-by-step-meme-tutorial/"><u>[Updated] Captivating Comedy Crafted  Step-by-Step Meme Tutorial</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-audio-visual-innovators-group/"><u>2024 Approved  Audio-Visual Innovators Group</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/all-inclusive-expense-exploration-embarking-on-a-podcast/"><u>All-Inclusive Expense Exploration  Embarking on a Podcast</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/begin-animation-ease-in-transition-for-2024/"><u>Begin Animation  Ease-In Transition for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beginners-guide-to-motion-artistry-for-2024/"><u>Beginner's Guide to Motion Artistry for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-the-chuckles-a-guide-to-using-snapchats-laughing-lenses-for-2024/"><u>Capture the Chuckles  A Guide to Using Snapchat’s Laughing Lenses for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crescendo-collection-leading-sites-for-skype-tone-downloads/"><u>Crescendo Collection  Leading Sites for Skype Tone Downloads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/deep-dive-the-high-tech-world-of-dji-phantom-3-professional/"><u>Deep Dive  The High-Tech World of DJI Phantom 3 Professional</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/design-thinking-for-podcasters-constructing-efficient-rss-files/"><u>Design Thinking for Podcasters  Constructing Efficient RSS Files</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dreamscape-films-entering-vr-worlds/"><u>Dreamscape Films  Entering VR Worlds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-guidelines-to-improve-zoom-on-chromeos/"><u>Expert Guidelines to Improve Zoom on ChromeOS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/experts-picks-the-best-10-photography-lenses/"><u>Expert's Picks  The Best 10 Photography Lenses</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/extensive-insights-deconstructing-the-dji-inspire-1/"><u>Extensive Insights  Deconstructing the DJI Inspire 1</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/free-high-quality-srt-translation-services-1-8/"><u>Free, High-Quality SRT Translation Services – #1-#8</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/immediate-image-revamp-the-six-top-iphone-object-removal-apps/"><u>Immediate Image Revamp  The Six Top iPhone Object-Removal Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-10-indispensable-fcp-enhancing-plugins/"><u>In 2024, 10 Indispensable FCP-Enhancing Plugins</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-10-top-ai-tools-to-invent-unique-podcast-names-online/"><u>In 2024, 10 Top AI Tools to Invent Unique Podcast Names Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-brighter-horizons-is-intense-light-for-hdr-right/"><u>In 2024, Brighter Horizons  Is Intense Light for HDR Right?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/key-applications-for-superior-vtuber-audible-identity/"><u>Key Applications for Superior Vtuber Audible Identity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/making-memories-sing-visual-plus-auditory-blend/"><u>Making Memories Sing  Visual + Auditory Blend</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/playflixapp-user-feedback-synopsis/"><u>PlayFlixApp User Feedback Synopsis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seamlessly-stream-your-laptops-dvd-library/"><u>Seamlessly Stream Your Laptop's DVD Library</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Fundamentals of Managing Volume Increase in Projects"
-date: 2024-06-27T14:34:33.154Z
-updated: 2024-06-28T14:34:33.154Z
+date: 2024-07-25T02:19:27.375Z
+updated: 2024-07-26T02:19:27.375Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,14 @@ If you have audio that starts quite abruptly and you'd like to add a fade, Audit
 * Now, if you pull the Heads-Up Display out of the way and click and then drag right on the icon, you will see a fade in there which is a little bit longer than you need.
 * If you go up to your Effects menu and go to your Amplitude and Compression section, you have got a Fade Envelope and a Gain Envelope.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![amplitude and compression adobe audition](https://images.wondershare.com/filmora/article-images/2022/08/amplitude-and-compression-adobe-audition.jpg)
 
 * Now, if you choose Fade Envelope and of course, it is giving you the fade right the way through the audio. It will adjust for you and this is based on a Smooth Fade In.
@@ -55,6 +63,18 @@ If you have audio that starts quite abruptly and you'd like to add a fade, Audit
 
 * Now exactly, in the same way, you can go in and begin to make adjustments. Now, when you make a selection here, Audition compresses your adjustments into that selected region. You will need to be a little careful about that when working with these effects. So, you can add fades very easily at any time by clicking on the handles at the top right and left of Waveform Display, or you can use dedicated effects for the purpose.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Audition Alternative to Fade Audio
 
 [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is another best audio editing tool that is a great alternative to Adobe Audition software. Wondershare Filmora, which is the latest version of Filmora, has the visual audio editing potential to guide you in editing audio files. There are many features available in this like you can add background music, detect music beats, etc.
@@ -65,6 +85,9 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **Steps to use Filmora
 
 * First, do the installation of Filmora software from the home screen and set the default procedure for a successful installation, and then open it. Now, to your timeline, add your desired audio file, and then, opt for double-clicking on the same for opening the Audio editing menu.
@@ -76,20 +99,32 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 * At the starting point of an audio clip, opt for dragging the fade-in maker that is to the right side. Then, opt for the application of the fade-in effect.
 * Now, opt for the clip's end, and then, opt for dragging the fade-out maker i.e. to the left side. This is for the addition of a fade-out effect. There is one thing to keep in mind if you drag it further, the fade effect lasts for a longer time.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3\. Related FAQs
 
 ### 1\. How do you fade in multitrack in Audition?
 
 If you want to fade in and fade out two clips at the same time, then controlling just one track or multiple tracks will allow you to do fades on multiple audios inside the multitrack in Adobe Audition.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. How do you do a master fade in Audition?
 
 Select the option of amplifying the effects i.e., amplitude and compression. Do the necessary adjustments there. Then, go to effects and click on Special, and from there, select Mastering.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Adobe Audition fade-out greyed out?
 
 Fade-in and fade-out options are available in the top-left and right corners of the waveform. Right-clicking in the project panel will produce no ability to work in the audition. That option is called grey out. Whatever you want to look for won't work in this view.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Adobe Audition has always been a powerful platform for audio editing. But as every coin has its two faces so is the case with this also. Due to the expensive price of a monthly subscription, not everyone will be able to use this and get the benefits from using this. Though if you want to excel in audio editing, you should go for a subscription. If you are doing podcasting or video editing and looking for a complementary product for your projects, Audition is a perfect match. This is particularly if you have already worked with other best-leading Adobe software like Photoshop or Premiere.
@@ -100,6 +135,11 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ### **Steps to use Filmora
 
 * First, do the installation of Filmora software from the home screen and set the default procedure for a successful installation, and then open it. Now, to your timeline, add your desired audio file, and then, opt for double-clicking on the same for opening the Audio editing menu.
@@ -111,6 +151,9 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 * At the starting point of an audio clip, opt for dragging the fade-in maker that is to the right side. Then, opt for the application of the fade-in effect.
 * Now, opt for the clip's end, and then, opt for dragging the fade-out maker i.e. to the left side. This is for the addition of a fade-out effect. There is one thing to keep in mind if you drag it further, the fade effect lasts for a longer time.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## Part 3\. Related FAQs
 
 ### 1\. How do you fade in multitrack in Audition?
@@ -121,6 +164,9 @@ If you want to fade in and fade out two clips at the same time, then controlling
 
 Select the option of amplifying the effects i.e., amplitude and compression. Do the necessary adjustments there. Then, go to effects and click on Special, and from there, select Mastering.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Adobe Audition fade-out greyed out?
 
 Fade-in and fade-out options are available in the top-left and right corners of the waveform. Right-clicking in the project panel will produce no ability to work in the audition. That option is called grey out. Whatever you want to look for won't work in this view.
@@ -157,3 +203,39 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-achieve-peak-editing-quality-top-tier-luts-for-adobes-lightroom-users/"><u>[New] Achieve Peak Editing Quality  Top-Tier LUTs For Adobe's Lightroom Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-advanced-3d-design-for-stylish-text-creations/"><u>[New] Advanced 3D Design for Stylish Text Creations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-advanced-editing-tips-remove-the-unnecessary-picture-border/"><u>[New] Advanced Editing Tips  Remove the Unnecessary Picture Border</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-aligning-objectives-brands-and-youtube-collaborative-moves/"><u>[New] Aligning Objectives  Brands and YouTube Collaborative Moves</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-androids-top-podcast-apps-showdown-6-innovators-revealed/"><u>[New] Android's Top Podcast Apps Showdown  6 Innovators Revealed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-10-speed-up-apps-for-mobile-music-and-podcasts/"><u>[Updated] 10 Speed-Up Apps for Mobile Music and Podcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-androids-top-podcast-apps-showdown-6-innovators-revealed/"><u>[Updated] Android's Top Podcast Apps Showdown  6 Innovators Revealed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breakthrough-in-drone-tech-yuneec-q500-4k/"><u>2024 Approved  Breakthrough in Drone Tech  Yuneec Q500 4K</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/360-degree-retail-exploration-tech/"><u>360-Degree Retail Exploration Tech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-step-by-step-guide-to-stunning-image-artistry-mosaics-for-2024/"><u>A Step-By-Step Guide to Stunning Image Artistry Mosaics for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/1716271343864-airdrop-not-working-how-to-fix-it-on-iphone-ipad-and-mac/"><u>Airdrop Not Working? How to Fix It on iPhone, iPad, & Mac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-audio-equipment-matched-with-4k-cameras-for-2024/"><u>Best Audio Equipment Matched with 4K Cameras for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-ranked-affordable-video-players-and-streaming-services-pc-and-mobile-for-2024/"><u>Best-Ranked Affordable Video Players and Streaming Services (PC & Mobile) for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/big-sur-specifications-system-and-hardware-required/"><u>Big Sur Specifications  System & Hardware Required</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/blades-new-vision-in-ultra-high-definition-clarity-for-2024/"><u>Blade's New Vision in Ultra-High Definition Clarity for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/build-your-affordable-virtual-reality-headgear-using-google-cards-for-2024/"><u>Build Your Affordable Virtual Reality Headgear Using Google Cards for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dynamic-volume-interplay-using-sony-vegas-pro-tips/"><u>Dynamic Volume Interplay Using Sony Vegas Pro Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expertise-unlocked-smooth-video-cuts-on-photos-via-windows-11/"><u>Expertise Unlocked  Smooth Video Cuts on Photos via Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/first-picks-best-webcams-for-seamless-zoom-participation/"><u>First Picks  Best Webcams for Seamless Zoom Participation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/high-quality-1-ranked-4k-laptops-for-gaming/"><u>High-Quality  #1 Ranked 4K Laptops for Gaming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ignite-creative-spark-choosing-from-the-best-6-nft-services/"><u>Ignite Creative Spark  Choosing From the Best 6 NFT Services</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-audiophiles-windows-companion/"><u>In 2024, Audiophile’s Windows Companion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/must-haves-for-capturing-movies-on-the-move/"><u>Must-Haves for Capturing Movies on the Move</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimal-audio-on-ios-the-essentials-of-podcasting/"><u>Optimal Audio on iOS  The Essentials of Podcasting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/superior-computing-desktops-await-you/"><u>Superior Computing Desktops Await You</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-complete-guide-to-iphones-album-orchestration-and-cloud-storage-sync/"><u>The Complete Guide to iPhone's Album Orchestration and Cloud Storage Sync</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-mobile-experiences-ios-and-androids-vr-hits/"><u>Top Mobile Experiences  IOS & Android's VR Hits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transform-into-an-instagram-icon-embrace-the-magic-of-9-techniques/"><u>Transform Into an Instagram Icon  Embrace the Magic of #9 Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/turning-live-radio-into-a-personal-archive-step-by-step-instructions/"><u>Turning Live Radio Into a Personal Archive  Step-by-Step Instructions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-hook-creation-tool-for-online-titles/"><u>Ultimate Hook-Creation Tool for Online Titles</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/uncovering-superior-free-viewers-for-your-webm-media-files/"><u>Uncovering Superior, Free Viewers for Your WebM Media Files</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/viewer-allure-identifying-the-most-engaging-video-types/"><u>Viewer Allure  Identifying the Most Engaging Video Types</u></a></li>
+</ul></div>

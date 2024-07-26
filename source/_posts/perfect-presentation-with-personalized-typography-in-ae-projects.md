@@ -1,7 +1,7 @@
 ---
 title: "Perfect Presentation with Personalized Typography in AE Projects"
-date: 2024-05-24T05:30:08.875Z
-updated: 2024-05-25T05:30:08.875Z
+date: 2024-07-25T05:18:26.437Z
+updated: 2024-07-26T05:18:26.437Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Perfect Presentation with Personalized Typography in AE Projects"
 excerpt: "This Article Describes Perfect Presentation with Personalized Typography in AE Projects"
 keywords: "Perfect Typeface Design,Typography Innovation,Custom Fonts for Projecs,Personalized Display Text,Engaging Presentation Tech,AE Project Typography Tips,Branding with Typography"
-thumbnail: https://www.lifewire.com/thmb/Yk18C2JpdeHxzNdqdb-EFRV41fk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/iphone_photo-5beafcda46e0fb00514cbb56.jpg
+thumbnail: https://thmb.techidaily.com/98a90a980daafb5d4122c6bec488811f000154f10382aff0b3452de9d0f47411.jpg
 ---
 
 ## Perfect Presentation with Personalized Typography in AE Projects
@@ -22,6 +22,10 @@ With the high demand for video consumption across the world, video editing has b
 
 After Effects is one of the most promising video editing applications available in the market. It facilitates its users with many editing features. One of such major functions of After Effects is it provides different fonts and text effects to its users. Here's a guide on **how to add fonts to After Effects**:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Part 1\. How to add fonts to After Effects?
 
 Adding fonts to any video editor is a crucial part because texts add a story to the video projects. They have a great impact on the cinematic quality of any video. For informative videos, the style of font decides the tone in which the texts are displayed.
@@ -38,17 +42,36 @@ Thus, selecting a proper font for the video becomes necessary in the post-produc
 
 * These fonts are classified according to several attributes such as weight, height, and contrast and are created by certified typographers. Once you have found any font that you like, click on the "Activate" button and the theme will be installed on your Adobe After Effects.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![activitate all fonts after effects](https://images.wondershare.com/filmora/article-images/2022/07/activitate-all-fonts-after-effects.jpg)
 
 * Now keep the Creative Cloud application up and running in your system and then open your After Effects application. There navigate to "Graphics" and then select "Add Fonts from Adobe Fonts".
 * You can also use the font dropdown menu as a shortcut to use the fonts instantly. In Adobe After Effects interface, you can then select the "Character" panel to add or change the fonts to your videos.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## Part 2\. Types of Fonts in After Effects
 
 Adobe After Effects provides a ton of families of fonts that can be added and used in video projects. These fonts are available on the Create Cloud application and also on the official website of adobe. Also, these fonts are categorized according to their height, weight, contrast as well as other attributes. And each of these fonts is shown with a preview saying "Typography" which can be selected instantly.
 
 Some of the most famous fonts such as "typewriter", "Cursive Handwriting" and many more are categorized under their family of fonts and are very easy to access. Along with this, you can also select fonts with different character strokes and can alter their features while adding to your videos.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. How to use text effects in After Effects?
 
 Adding text effects in Adobe After Effects is very easy and you can use these effects by following these steps:
@@ -75,6 +98,9 @@ These features also include adding texts and changing the fonts of those texts o
 
 * First open that video that you want to edit in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and then you will be available with a tab called "Titles" on the top. Select that and select any style of title that you want to edit. There is a preview window available to look at the text fonts and designs.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open wanted video to edit in filmora](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
 * Select the text style you want to add for your title and then drag it from the title's library to your timeline. An alternate way to add texts or such title font is to right-click on it and select the "Apply" option.
@@ -92,6 +118,15 @@ The article discussed the detailed process of **how to add font to Adobe After E
 
 These features also include adding texts and changing the fonts of those texts on your video. And for users who want to edit texts or fonts in their videos using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), here is how you can do it:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![use filmora to edit device](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 * First open that video that you want to edit in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and then you will be available with a tab called "Titles" on the top. Select that and select any style of title that you want to edit. There is a preview window available to look at the text fonts and designs.
@@ -105,6 +140,9 @@ These features also include adding texts and changing the fonts of those texts o
 * When you double click on the text effect, you get more text editing tools such as "font, size, alignment, color, etc." for the text. This also provides an animation tab where you can animate your texts.
 * After you are done, click "save" and the text effects will be added to your videos successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 The article discussed the detailed process of **how to add font to Adobe After Effects** application. The descriptive process of adding texts to video projects using After Effects have also been discussed throughout the article and the available alternatives that can help users with the same feature. I also discussed the various types of fonts that are available to the users in the application interface. These fonts are very easy to access and use. I hope this article will help in easing up the whole process of video editing using After Effects.
@@ -133,3 +171,33 @@ The article discussed the detailed process of **how to add font to Adobe After E
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-best-editing-tools-for-app-screenplays/"><u>[New] Best Editing Tools for App Screenplays</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-basic-story-blueprint/"><u>[Updated] Basic Story Blueprint</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-guide-to-enhancing-footage-in-gopro-studio/"><u>[Updated] Comprehensive Guide to Enhancing Footage in GoPro Studio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-kinetic-study-2023/"><u>[Updated] Comprehensive Kinetic Study 2023</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-building-a-better-movie-utilizing-windows-11s-movie-maker/"><u>2024 Approved  Building a Better Movie  Utilizing Windows 11'S Movie Maker</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/an-anthology-of-admiration-highlighting-top-10-reddit-threads-for-2024/"><u>An Anthology of Admiration  Highlighting Top 10 Reddit Threads for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bebop-2s-aviary-artistry-reviewed/"><u>Bebop 2’S Aviary Artistry Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-visual-clarity-comprehensive-strategies-for-zooming-photos-and-videos-for-2024/"><u>Boosting Visual Clarity  Comprehensive Strategies for Zooming Photos & Videos for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chuckles-churner-visual-composer/"><u>Chuckles Churner  Visual Composer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-evaluation-samsung-gear-360-vr-camera/"><u>Comprehensive Evaluation  Samsung Gear 360 VR Camera</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creative-commons-soothing-scenes/"><u>Creative Commons Soothing Scenes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/empowering-productivity-gratuitous-clock-use/"><u>Empowering Productivity  Gratuitous Clock Use</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-selection-of-tools-for-image-to-video-conversion/"><u>Expert Selection of Tools for Image-to-Video Conversion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/full-narrative-what-the-google-podcasts-app-offers/"><u>Full Narrative  What the Google Podcasts App Offers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gigglegenius-log-in-for-video-adventures/"><u>GiggleGenius  Log In for Video Adventures</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/googles-quick-fix-for-photo-collage-enthusiasts/"><u>Google's Quick Fix for Photo Collage Enthusiasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/haul-videography-101-preparation-and-editing-for-maximum-impact/"><u>Haul Videography 101  Preparation & Editing for Maximum Impact</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-17-best-apps-to-remove-image-background/"><u>In 2024, 17 Best Apps to Remove Image Background</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-9-steps-to-combat-chromes-video-blackout/"><u>In 2024, 9 Steps to Combat Chrome's Video Blackout</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-framework-for-employing-videos-in-educational-settings/"><u>In 2024, A Framework for Employing Videos in Educational Settings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-aesthetic-fusion-studio-ultimate-photo-alchemy/"><u>In 2024, Aesthetic Fusion Studio  Ultimate Photo Alchemy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/palette-proficiency-expertise-through-experience/"><u>Palette Proficiency  Expertise Through Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ringtone-heaven-game-of-thrones-audio-collection/"><u>Ringtone Heaven  Game of Thrones Audio Collection</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-selecting-text-enhancement-websites/"><u>The Ultimate Guide to Selecting Text Enhancement Websites</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-5-zero-price-screen-capture-software-for-windows-10-users/"><u>Top 5 Zero Price Screen Capture Software for Windows 10 Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transforming-audio-skills-using-audacity-professionally/"><u>Transforming Audio Skills Using Audacity Professionally</u></a></li>
+</ul></div>

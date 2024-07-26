@@ -1,7 +1,7 @@
 ---
 title: "\"Exploring Popularity  Stock Images' Meme Journey\""
-date: 2024-05-24T05:15:30.436Z
-updated: 2024-05-25T05:15:30.436Z
+date: 2024-07-25T04:51:05.649Z
+updated: 2024-07-26T04:51:05.649Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Exploring Popularity: Stock Images' Meme Journey\""
 excerpt: "\"This Article Describes Exploring Popularity: Stock Images' Meme Journey\""
 keywords: "Memes & Stock Images,Image Trends Analysis,Stock Media Impact,Viral Image Patterns,Popularity in Photoshop,Meme Marketing Insights,Imagery Cultural Shifts"
-thumbnail: https://www.lifewire.com/thmb/dVn4l0H_Q4lS9y54mPgaZ7x5VtA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/snow-tracks-of-senior-couple-walking-to-trees-and-mountain-range--sattelbergalm--tyrol--austria-592233383-c47ecd50c6ee406687da83916a3f2ff1.jpg
+thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd1c8126cb50df85aef146e19.jpg
 ---
 
 ## Exploring Popularity: Stock Images' Meme Journey
@@ -47,10 +47,16 @@ Currently, Hide the Pain Harold has over 300,000 followers across all platforms.
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![distracted boyfriend](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-4.jpg)
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
 
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
@@ -68,6 +74,9 @@ The latest version of Distracted boyfriend is a compilation of photos featuring 
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Part3: I Bet He's Thinking About Other Women
 
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
@@ -76,6 +85,9 @@ The meme features a couple in bed with the stock photo meme guy in contemplation
 
 However, subsequent memes feature satirical themes. Here are some of the most popular versions and their popularity.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![the most popular versions](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-8.jpg)
 
 A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In this version, the man wonders why there are so many Fast and the Furious movies.
@@ -94,8 +106,19 @@ According to sources, the stock photo meme was first featured on Twitter in Dece
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Part4: Bonjour Bear
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
 
 Unlike the previous stock image memes, Bonjour Bear was not an instant hit among netizens. The stock image was posted online in 2016 by Uryadnikov Sergey and featured a polar bear peeking through its winter den. However, it began causing a buzz in early 2019, following a Reddit post that included hilarious captions.
@@ -104,6 +127,9 @@ Since then, internet users have continued to use the Bonjour Bear meme to refere
 
 * In this version, Bonjour Bear reacts to the discovery of a wound after using hand sanitizer. The post became popular during the COVID-19 pandemic when using hand sanitizer was at its peak.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![using hand sanitizer](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-12.jpg)
 
 In addition, the post received over 91,700 points, with 95% of upvotes, within a day on Reddit.
@@ -113,14 +139,23 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part5: FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Can you use stock photos for memes?
 
 Yes, you can use stock photos for memes. However, you need to obtain them from royalty-free stock photo providers such as Shutterstock and Pexels. In addition, ensure you understand the license requirements before using the photo.
 
 This is because not all stock photo providers offer their images with a creative commons license. For example, the Unsplash license allows you to use their stock images for personal or commercial use after making adjustments to the original.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ### 2\. Does copyright law protect memes?
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
@@ -161,3 +196,27 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-abletons-soften-sound-strategies/"><u>[New] Ableton's Soften Sound Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-broadcasting-duels-is-wirecast-superior-to-obs/"><u>[New] Broadcasting Duels  Is Wirecast Superior to OBS?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comparing-magix-music-maker-and-studio-max/"><u>[New] Comparing Magix Music Maker and Studio Max</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comprehensive-guide-to-effective-multiframe-use-in-edge/"><u>[New] Comprehensive Guide to Effective Multiframe Use in Edge</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-avian-cha-cha-cha/"><u>[Updated] Avian Cha-Cha-Cha</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-deep-dive-into-inshots-editing-proficiency-for-2024/"><u>A Deep Dive Into InShot's Editing Proficiency for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/authoritative-list-affordable-visuals-online-for-2024/"><u>Authoritative List  Affordable Visuals Online for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/design-a-gif-joke-giphy-magic/"><u>Design a Gif Joke  Giphy Magic</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/eizos-boundaries-reached-the-cg318-4k-reviewed/"><u>EIZO's Boundaries Reached  The CG318-4K Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-list-for-game-sharing-and-streaming/"><u>Essential List for Game Sharing and Streaming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-tools-for-adding-framing-to-digital-pictures-2023-edition/"><u>Essential Tools for Adding Framing to Digital Pictures - 2023 Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-compressed-to-captioned-zip-to-srt-effortlessly/"><u>From Compressed To Captioned  Zip to .Srt Effortlessly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/frustrated-photographers-face-black-screen-woes/"><u>Frustrated Photographers Face Black Screen Woes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hack-the-airwaves-mastering-a-viral-solo-podcast/"><u>Hack the Airwaves  Mastering a Viral Solo Podcast</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-6-value-proposition-affordable-4k-projectors/"><u>In 2024, Best 6 Value Proposition  Affordable 4K Projectors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-boosting-tiktok-quality-with-smart-zoom-use/"><u>In 2024, Boosting TikTok Quality with Smart Zoom Use</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/laying-down-the-law-vegas-pro-21-edition-reviewed/"><u>Laying Down the Law  VEGAS Pro '21 Edition Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/propel-your-world-with-freshly-launched-wins11-games/"><u>Propel Your World with Freshly-Launched Wins11 Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tag-with-your-favorite-show-podcast-on-ig/"><u>Tag with Your Favorite Show  Podcast on IG</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/your-ultimate-guide-to-utilizing-telegrams-desktop-functionality/"><u>Your Ultimate Guide to Utilizing Telegram's Desktop Functionality</u></a></li>
+</ul></div>

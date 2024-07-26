@@ -1,7 +1,7 @@
 ---
 title: "Mitigating Virtual Reality Nausea"
-date: 2024-05-24T04:52:10.287Z
-updated: 2024-05-25T04:52:10.287Z
+date: 2024-07-25T04:08:32.651Z
+updated: 2024-07-26T04:08:32.651Z
 tags: 
   - screen-recording
   - ai video
@@ -20,12 +20,18 @@ thumbnail: https://www.lifewire.com/thmb/O0XdVdJnKo0oOlrFNeqblypb5pQ=/400x300/fi
 
 # 10 tips to prevent Oculus Rift VR motion sickness
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## 10 ways to prevent Oculus Rift motion sickness
 
  While using your Oculus Rift development kits you need to take care of few little things in order to avoid getting any kind of sickness during your game. Although the factors vary from individual to individual since it is more of the bodily response rather than the design variation.
@@ -50,6 +56,9 @@ thumbnail: https://www.lifewire.com/thmb/O0XdVdJnKo0oOlrFNeqblypb5pQ=/400x300/fi
 
 **10\. Try not to move your head a lot.** Since motion sickness directly corresponds to movement, reducing your head movement left and right and up and down in one place can help you lower the chances of sickness.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## What Oculus have done to reduce motion sickness
 
  With the new, innovative VR devices and the head gear technology has taken a huge leap. Oculus Rift has become widely popular among its enthusiastic users. When Oculus released its first Development kit (DevKit 1) the users experienced the symptoms such as nausea, dizziness, sweating and vomiting. Even Oculus CEO Brendan Iribe experienced “motion sickness” with his own product, while using last year’s “DevKit 1” prototype. These sickness issues were so common while using DevKit 1 that its users called it the “Rift Sickness”.
@@ -98,6 +107,10 @@ Follow @Benjamin Arango
 
  Since Oculus Rift DK1 came to the market, people were really unhappy with the sickness it gave to them. Oculus saw that issue as a big threat, and started to develop DK2 with a much better display. In the original DK1, Oculus Rift used the liquid crystal display (LCD) to display visual in its devices. LCD screen had been of very much advantage because of its brightness, geometric distortion, and less electricity consumption. But it still had been promoting to the sickness issue because of its sluggish motion time response. In replacement of LCD screens, Oculus Rift has introduced OLED (organic light emitting diode) screens which have proved to be a much better idea. Experiments of Oculus Rift with OLED screens have been successful so far in reducing motion sickness to its minimal. OLED has a much faster rate and thus much enhanced positional tracking.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -134,6 +147,9 @@ Follow @Benjamin Arango
 
 **10\. Try not to move your head a lot.** Since motion sickness directly corresponds to movement, reducing your head movement left and right and up and down in one place can help you lower the chances of sickness.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## What Oculus have done to reduce motion sickness
 
  With the new, innovative VR devices and the head gear technology has taken a huge leap. Oculus Rift has become widely popular among its enthusiastic users. When Oculus released its first Development kit (DevKit 1) the users experienced the symptoms such as nausea, dizziness, sweating and vomiting. Even Oculus CEO Brendan Iribe experienced “motion sickness” with his own product, while using last year’s “DevKit 1” prototype. These sickness issues were so common while using DevKit 1 that its users called it the “Rift Sickness”.
@@ -182,6 +198,10 @@ Follow @Benjamin Arango
 
  Since Oculus Rift DK1 came to the market, people were really unhappy with the sickness it gave to them. Oculus saw that issue as a big threat, and started to develop DK2 with a much better display. In the original DK1, Oculus Rift used the liquid crystal display (LCD) to display visual in its devices. LCD screen had been of very much advantage because of its brightness, geometric distortion, and less electricity consumption. But it still had been promoting to the sickness issue because of its sluggish motion time response. In replacement of LCD screens, Oculus Rift has introduced OLED (organic light emitting diode) screens which have proved to be a much better idea. Experiments of Oculus Rift with OLED screens have been successful so far in reducing motion sickness to its minimal. OLED has a much faster rate and thus much enhanced positional tracking.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -214,3 +234,43 @@ Follow @Benjamin Arango
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-asmr-studio-essentials-great-quality-easy-on-wallet/"><u>[New] ASMR Studio Essentials  Great Quality, Easy On Wallet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-converting-moments-into-memorable-gifs/"><u>[New] Converting Moments Into Memorable GIFs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-stunning-slideshows-on-iphone-series-13/"><u>[Updated] Crafting Stunning Slideshows on iPhone Series 13</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-advanced-techniques-to-master-with-canva-designer/"><u>10 Advanced Techniques to Master with Canva Designer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-accessing-c-span-archives-at-zero-cost-steps-included/"><u>2024 Approved  Accessing C-Span Archives at Zero Cost - Steps Included</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-ace-crews-the-quintessential-list-of-photo-vids-plus-music-maestros/"><u>2024 Approved  Ace Crews  The Quintessential List of Photo Vids + Music Maestros</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-blueprint-for-a-personalized-high-definition-editing-haven/"><u>2024 Approved  Blueprint for a Personalized, High-Definition Editing Haven</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-budget-friendly-asmr-tech-premium-mics-for-exceptional-audio/"><u>2024 Approved  Budget-Friendly ASMR Tech  Premium Mics for Exceptional Audio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/3-simple-methods-for-color-correction-in-adobe-photoshop/"><u>3 Simple Methods for Color Correction in Adobe Photoshop</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-new-era-in-adventure-recording-the-ultra-30-review-for-2024/"><u>A New Era in Adventure Recording  The Ultra 30 Review for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-stepwise-journey-through-windows-10-recording/"><u>A Stepwise Journey Through Windows 10 Recording</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/can-you-store-high-quality-videos-in-128gb/"><u>Can You Store High-Quality Videos in 128Gb?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-analysis-simplified-hdr-techniques-for-2024/"><u>Comprehensive Analysis  Simplified HDR Techniques for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/engineer-entertaining-images-for-giphy/"><u>Engineer Entertaining Images for Giphy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essence-of-plot-weaving/"><u>Essence of Plot Weaving</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/experience-unparalleled-text-design-with-top-5-downloadable-platforms/"><u>Experience Unparalleled Text Design with Top 5 Downloadable Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-are-thoughtful-analyses-monetarily-rewarded/"><u>In 2024, Are Thoughtful Analyses Monetarily Rewarded?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-ways-to-get-background-stock-images-for-photos-and-videos/"><u>In 2024, Best Ways to Get Background Stock Images for Photos and Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-circumventing-virtual-classroom-videos-without-hesitation/"><u>In 2024, Circumventing Virtual Classroom Videos Without Hesitation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-close-up-communication-the-art-of-zoom-on-teams/"><u>In 2024, Close-Up Communication  The Art of Zoom on Teams</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leveraging-spotifys-advertising-mechanisms/"><u>Leveraging Spotify's Advertising Mechanisms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-adventures-with-the-foremost-6-gopro-mounts-revealed/"><u>Mastering Adventures with the Foremost 6 GoPro Mounts Revealed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimal-zero-dollar-valorant-sound-manipulator-alert/"><u>Optimal Zero Dollar Valorant Sound Manipulator Alert</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfectly-uploading-srt-files-a-comprehensively-reviewed-methodology/"><u>Perfectly Uploading SRT Files  A Comprehensively Reviewed Methodology</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photography-on-instagram-adding-images-made-simple/"><u>Photography on Instagram  Adding Images Made Simple</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/precision-camera-mount-for-optimal-field-recordings/"><u>Precision Camera Mount for Optimal Field Recordings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-learn-to-speed-up-videos-on-snapchat/"><u>Quick Learn to Speed Up Videos on Snapchat</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revolutionizing-gift-reveal-innovative-ideas/"><u>Revolutionizing Gift Reveal  Innovative Ideas</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/scripting-striking-film-epilogues/"><u>Scripting Striking Film Epilogues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-facetune-manual-for-perfected-2024-pics/"><u>The Ultimate Facetune Manual for Perfected 2024 Pics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-30-cameras-frontal-screen-for-convenience/"><u>Top 30 Cameras  Frontal Screen for Convenience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-ranked-steadicam-systems-for-drone-cinematography-aficionados/"><u>Top-Ranked Steadicam Systems for Drone Cinematography Aficionados</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transform-your-live-feed-select-from-the-ultimate-9-filter-list/"><u>Transform Your Live Feed  Select From the Ultimate 9 Filter List</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/who-leads-in-video-content-delivery-twitch-vs-youtube/"><u>Who Leads in Video Content Delivery? Twitch vs YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/win11s-zenith-achieved-with-advanced-zoom-usage/"><u>Win11's Zenith Achieved with Advanced Zoom Usage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/winning-wallpapers-for-your-new-windows-11/"><u>Winning Wallpapers for Your New Windows 11</u></a></li>
+</ul></div>

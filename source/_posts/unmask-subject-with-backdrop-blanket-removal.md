@@ -1,7 +1,7 @@
 ---
 title: "Unmask Subject with Backdrop Blanket Removal"
-date: 2024-05-24T03:37:34.153Z
-updated: 2024-05-25T03:37:34.153Z
+date: 2024-07-25T01:39:17.432Z
+updated: 2024-07-26T01:39:17.432Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Unmask Subject with Backdrop Blanket Removal"
 excerpt: "This Article Describes Unmask Subject with Backdrop Blanket Removal"
 keywords: "\"Clear Image Backgrounds,Perfect Photo Edits,Backdrop Cleanup Techniques,Enhancing Imagery Quality,Professional Photography Tips,Optimal Image Clarity,High-Quality Image Editing\""
-thumbnail: https://www.lifewire.com/thmb/s9VHU5LMeg9KU4DM9zhmatq9l7o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1383931877-d30a0dc431b04187b8004e7c1bcfaf08.jpg
+thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce34f31fb21e5a5f2109ae3299.jpg
 ---
 
 ## Unmask Subject with Backdrop Blanket Removal
@@ -26,6 +26,9 @@ No matter you are a professional content creator or a newbie, we'll be discussin
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Erase a White Background in Affinity Designer
 
 To erase a white background in Affinity Designer, do these steps:
@@ -34,6 +37,9 @@ Step1 In the first step, install the [Affinity Designer](https://affinity.serif.
 
 Now access the **Pixel Persona** section in the left corner of the software screen by clicking the **colored boxes** icon.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
 
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
@@ -50,12 +56,19 @@ Step4 Next, zoom in on your subject. Press & hold the ALT key on your keyboard, 
 
 Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** menu. A red mask will be applied to your subject, giving you an idea of how your image will look once you remove the background. Zoom in and if any details are excluded, paint them over. Once you are satisfied, click **"Apply"** to save your changes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![refining the outline around the image to remove background in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/refining-the-outline-around-the-image-to-remove-background-in-affinity-designer.png)
 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Remove a Busy Background in Affinity Designer
 
 If you want to remove a busy background of an image in the Affinity Designer software, follow these steps carefully:
@@ -85,12 +98,18 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
@@ -119,6 +138,14 @@ And if you have any interests in finding free images to expand your resource, yo
 
 Hopefully, this article and video can help you create ideal images!
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -177,3 +204,26 @@ Hopefully, this article and video can help you create ideal images!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-achieving-spotlight-submitting-on-apple-platform/"><u>[New] Achieving Spotlight  Submitting on Apple Platform</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-bring-life-to-pixels-add-motion-blur/"><u>[Updated] Bring Life to Pixels  Add Motion Blur</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/augmenting-film-vistas-with-apple-playlist-for-2024/"><u>Augmenting Film Vistas with Apple Playlist for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chucklecraft-constructor-for-2024/"><u>ChuckleCraft Constructor for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compreenas-a-step-by-step-process-to-apply-luts-in-photoshop-cc-for-2024/"><u>Compreenas a Step-by-Step Process to Apply LUTs in Photoshop CC for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/diving-into-periscope-understanding-its-free-access-and-account-creation-process/"><u>Diving Into Periscope  Understanding Its Free Access & Account Creation Process</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhance-music-mixing-with-our-comprehensible-online-tempo-tools/"><u>Enhance Music Mixing with Our Comprehensible Online Tempo Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-androids-optimal-cloud-savers-updated-list/"><u>In 2024, Android's Optimal Cloud Savers Updated List</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-create-your-own-whatsapp-ringtone-a-comprehensive-guide-to-ios-and-android/"><u>In 2024, Create Your Own WhatsApp Ringtone - A Comprehensive Guide to iOS & Android</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/investigating-unmodified-audio-from-ffmpeg-output/"><u>Investigating Unmodified Audio From FFmpeg Output</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfect-pictures-at-a-click-the-10-best-grids/"><u>Perfect Pictures at a Click - The 10 Best Grids</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfecting-voice-broadcasts-on-apple-devices-the-pros-guide/"><u>Perfecting Voice Broadcasts on Apple Devices - The Pro's Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premier-ios-choices-for-superior-video-experience/"><u>Premier iOS Choices for Superior Video Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quiet-cinematic-dialogue-draft/"><u>Quiet Cinematic Dialogue Draft</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/reviewing-videoshow-in-its-fullest-for-24-edition/"><u>Reviewing VideoShow in Its Fullest for '24 Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sky-high-security-the-prime-5-cloud-choices/"><u>Sky High Security  The Prime 5 Cloud Choices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/speech-recognition-made-easy-your-route-to-streamlined-workflows-with-microsoft-words-features/"><u>Speech Recognition Made Easy  Your Route to Streamlined Workflows with Microsoft Word's Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-nights-reign-black-vs-the-dawns-duty-silver/"><u>The Night's Reign (Black) VS The Dawn’s Duty (Silver)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tricks-for-faster-video-display-in-presentations/"><u>Tricks for Faster Video Display in Presentations</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Concentrate on Core - Affinity Photo Trick\""
-date: 2024-05-24T04:00:11.947Z
-updated: 2024-05-25T04:00:11.947Z
+date: 2024-07-25T02:18:34.076Z
+updated: 2024-07-26T02:18:34.076Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Concentrate on Core - Affinity Photo Trick\""
 excerpt: "\"This Article Describes [New] Concentrate on Core - Affinity Photo Trick\""
 keywords: "PhotoStableBenefits,StablePhotoAdvantages,PhotostabilityGains,PhotoTechEfficacy,ImageStabilizationPros,StableShotImprovements,EnhancedPhotographQuality"
-thumbnail: https://www.lifewire.com/thmb/Wey1hmvaFNXkpGULggG7yXOy4ro=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-525956536-f1c8a23b12e2480cad7b8a4544b1c0d2.jpg
+thumbnail: https://thmb.techidaily.com/77f34903e1df34b362b3683a958e0b57f8d631d69cf5a5eaeee681f0ad029756.jpg
 ---
 
 ## Concentrate on Core - Affinity Photo Trick
@@ -22,10 +22,16 @@ Affinity Photo is an image editor developed by Serif Ltd. in 2009 and is used by
 
 No matter you are a professional content creator or a newbie, we'll be discussing how to remove background in Affinity Photo. Let's explore how to use the good editing tool to be free of the stressful editing process.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Remove Affinity Photo to Remove Image's Background
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Erase a White Background in Affinity Designer
 
 To erase a white background in Affinity Designer, do these steps:
@@ -50,12 +56,18 @@ Step4 Next, zoom in on your subject. Press & hold the ALT key on your keyboard, 
 
 Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** menu. A red mask will be applied to your subject, giving you an idea of how your image will look once you remove the background. Zoom in and if any details are excluded, paint them over. Once you are satisfied, click **"Apply"** to save your changes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![refining the outline around the image to remove background in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/refining-the-outline-around-the-image-to-remove-background-in-affinity-designer.png)
 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Remove a Busy Background in Affinity Designer
 
 If you want to remove a busy background of an image in the Affinity Designer software, follow these steps carefully:
@@ -81,10 +93,16 @@ Step5 In this last step, you must deselect the outline around your subject. For 
 
 Finally, click **"File"** and select the **"Export"** option from the drop-down menu. Then, in the Export Settings menu, choose PNG and click **"Export"** to save your file on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -119,6 +137,9 @@ And if you have any interests in finding free images to expand your resource, yo
 
 Hopefully, this article and video can help you create ideal images!
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -177,3 +198,46 @@ Hopefully, this article and video can help you create ideal images!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/10-groundbreaking-final-cut-pro-extensions-for-2024/"><u>10 Groundbreaking Final Cut Pro Extensions for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-thorough-introduction-to-gdocs-speech-to-text-capabilities/"><u>2024 Approved  A Thorough Introduction to GDoc's Speech-to-Text Capabilities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-accelerate-with-these-key-windows-10-tricks/"><u>2024 Approved  Accelerate with These Key Windows 10 Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-android-tricks-changing-video-ordering/"><u>2024 Approved  Android Tricks  Changing Video Ordering</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-audio-accentuation-tunes-for-visual-projects/"><u>2024 Approved  Audio Accentuation  Tunes for Visual Projects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-behind-the-scenes-the-dji-phantom-3-pro-tech/"><u>2024 Approved  Behind-the-Scenes  The DJI Phantom 3 Pro Tech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-accompaniments-to-elevate-your-gopro/"><u>2024 Approved  Best Accompaniments to Elevate Your GoPro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-compact-cameras-for-1000-or-less-4k/"><u>2024 Approved  Best Compact Cameras for $1000 or Less (4K)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-power-packs-for-black-gopro-hero5-cameras-authenticity-confirmed/"><u>2024 Approved  Best Power Packs for Black GoPro Hero5 Cameras – Authenticity Confirmed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beyond-the-veil-unveiling-new-horizons-in-10-sci-fi-blockbusters/"><u>2024 Approved  Beyond the Veil  Unveiling New Horizons in 10 Sci-Fi Blockbusters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breakdown-of-funds-required-for-music-video-shooting/"><u>2024 Approved  Breakdown of Funds Required for Music Video Shooting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-bright-ideas-in-film-setup-secrets-to-perfect-lighting/"><u>2024 Approved  Bright Ideas in Film Setup  Secrets to Perfect Lighting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-budget-friendly-drone-picks-best-bargains-for-less-than-500/"><u>2024 Approved  Budget-Friendly Drone Picks  Best Bargains for Less than $500</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-chuckle-factory-spooky-androids/"><u>2024 Approved  Chuckle Factory  Spooky Androids</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-compelling-iphone-photo-and-video-applications-87x/"><u>2024 Approved  Compelling iPhone Photo & Video Applications (8/7/X)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-composite-skies-a-drone-video-editors-strategic-guide/"><u>2024 Approved  Composite Skies  A Drone Video Editor’s Strategic Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-breakdown-vsco-photography-tools/"><u>2024 Approved  Comprehensive Breakdown  VSCO Photography Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-connected-healing-telemedicine-evolved/"><u>2024 Approved  Connected Healing  Telemedicine Evolved</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-comprehensive-guide-to-professional-level-video-editing-on-windows-11/"><u>A Comprehensive Guide to Professional-Level Video Editing on Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/accessing-audio-at-no-cost-the-ultimate-list-of-8-mp3-seekers-android-for-2024/"><u>Accessing Audio at No Cost  The Ultimate List of 8 MP3 Seekers (Android) for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/alight-motion-comprehensive-review-2023-for-2024/"><u>Alight Motion Comprehensive Review 2023 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/amplify-detail-top-tips-for-shooting-up-closer-with-videoleap-for-2024/"><u>Amplify Detail  Top Tips for Shooting Up Closer with VideoLeap for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/amplify-your-brands-message-top-terminology-secrets/"><u>Amplify Your Brand’s Message  Top Terminology Secrets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/an-overview-of-different-windows-movie-maker-models-for-2024/"><u>An Overview of Different Windows Movie Maker Models for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/auditory-aesthetics-for-slides-infusing-your-ppt-with-tunes/"><u>Auditory Aesthetics for Slides  Infusing Your PPT with Tunes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aural-elements-in-online-visuals/"><u>Aural Elements in Online Visuals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/azure-for-audio-transcriptions-a-beginners-manual-for-2024/"><u>Azure for Audio Transcriptions  A Beginner’s Manual for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/background-beats-guide-tunes-for-visuals-for-2024/"><u>Background Beats Guide  Tunes for Visuals for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/become-an-expert-tutorial-for-making-gifs-into-desirable-whatsapp-and-telegram-stickers/"><u>Become an Expert  Tutorial for Making GIFs Into Desirable WhatsApp & Telegram Stickers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/before-you-buy-the-complete-guide-to-smart-drone-purchasing-for-2024/"><u>Before You Buy  The Complete Guide to Smart Drone Purchasing for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beginners-guide-decoding-av1-technology-for-2024/"><u>Beginner's Guide  Decoding AV1 Technology for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-10-websites-for-premium-quality-vector-stock-images/"><u>Best 10 Websites for Premium-Quality Vector Stock Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-12-motion-activated-cameras-featuring-location-tracking-for-2024/"><u>Best 12 Motion-Activated Cameras Featuring Location Tracking for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/better-balance-drones-7-leading-gimbals/"><u>Better Balance  Drone's 7 Leading Gimbals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beyond-a-single-lens-discover-the-top-11-angle-capable-cams-for-2024/"><u>Beyond a Single Lens  Discover the Top 11 Angle-Capable Cams for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/blurry-photos-top-tools-reviewed-for-2024/"><u>Blurry Photos  Top Tools Reviewed for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-your-visual-impact-essential-tricks-for-pixlr-pros/"><u>Boost Your Visual Impact  Essential Tricks for Pixlr Pros</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/breaking-into-the-top-1m-youtube-view-hacks-revealed-for-2024/"><u>Breaking Into the Top 1M  YouTube View Hacks Revealed for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/1716308700778-how-to-make-a-photo-video-with-pixiz/"><u>How to Make a Photo Video with Pixiz ?</u></a></li>
+</ul></div>

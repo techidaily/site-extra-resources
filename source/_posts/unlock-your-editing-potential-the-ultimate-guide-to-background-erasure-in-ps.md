@@ -1,7 +1,7 @@
 ---
 title: "\"Unlock Your Editing Potential  The Ultimate Guide to Background Erasure in PS\""
-date: 2024-05-24T03:27:56.886Z
-updated: 2024-05-25T03:27:56.886Z
+date: 2024-07-25T01:24:33.634Z
+updated: 2024-07-26T01:24:33.634Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Unlock Your Editing Potential: The Ultimate Guide to Background Erasure in PS\""
 excerpt: "\"This Article Describes Unlock Your Editing Potential: The Ultimate Guide to Background Erasure in PS\""
 keywords: "Photo Blurring Guide,Bg Erase Tips,Sharp Focus Techniques,Image Clarity Strategies,Advanced Photography Erase,Eliminating Distractors,Clear Background Methods"
-thumbnail: https://www.lifewire.com/thmb/tcMLO57wxuHRFmpcmCHAcKi-0CA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/rawpixel-1091104-unsplash-5c730c92cff47e0001b1e347.jpg
+thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c27750a5c3c9cc5c0ae68538.jpg
 ---
 
 ## Unlock Your Editing Potential: The Ultimate Guide to Background Erasure in PS
@@ -24,6 +24,9 @@ To simplify things, we'll provide basic information about the eraser tools in Ph
 
 So, if you are ready to learn how to use the Background Eraser tool in Photoshop, let's dig in!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Basic Information About Eraser Tools In Photoshop
 
 The **eraser tools in Photoshop** can be used to create transparent backgrounds or to remove unwanted background elements from an image. These tools work by sampling the color of the pixels in the image and then erasing pixels that match the sampled color.
@@ -36,6 +39,9 @@ There are three main variations of eraser tools in Photoshop:
 
 Many people need clarification with Photoshop's Background Eraser and Magic Eraser tools. Therefore, we've discussed their similarities and dissimilarities. You can understand them better and so that you can prefer the one that suits your needs:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Similarities
 
 The following are the similarities between the Background Eraser and Magic Eraser Tools:
@@ -68,6 +74,9 @@ The **Brush Preset Picker** is the first option that opens up a panel to let you
 
 To adjust the hardness, press the **"Shift+ Left Bracket"** or **"Shift+Right Bracket"** keys. We recommend that you set it to **100%** when erasing the pixels from your image.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Sampling Options
 
 In the Background Eraser tool's **Options bar,** you will find the **"Sampling Options"** that includes three different icons with different behaviors:
@@ -90,6 +99,9 @@ The Limit function comes with three options:
 
 **Find Edges:** This setting will come in handy when you find that the edges around your subject are not sharp enough. The Find Edges option works more precisely than the Contiguous and helps to smooth down the sides.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![limits function in background eraser tool](https://images.wondershare.com/filmora/article-images/2023/03/limits-function-in-background-eraser-tool.png)
 
 ### 4\. Tolerance
@@ -106,12 +118,18 @@ If, however, the background color is fringing around the subject, use a higher T
 
 The Brush Angle option can help you adjust the angle of your crosshair to quickly erase the pixels in difficult-to-reach areas in your image's background. You can also hit the **"R"** key on your keyboard to rotate the canvas.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Protect Foreground Color
 
 Sometimes, Photoshop erases parts of your subject while removing the background, no matter what Tolerance value you use. To avoid this, the Protected Foreground Color option in the Options bar can come in handy.
 
 This option allows you to choose a color from your subject as a foreground color, and Photoshop will stop erasing it while you drag the brush over the image to remove the background.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 7\. Pen Pressure
 
 Pen Pressure is helpful if you use a drawing tablet instead of a mouse. With this option selected, the crosshair opacity will be regulated based on the pressure applied with your pen on the tablet.
@@ -130,12 +148,18 @@ Adjust the size and hardness of the eraser brush by using the **Brush Preset Pic
 
 Step3 In the next step, set the **"Sampling Options"** to **"Once"** and **"Limits"** to **"Contiguous."** This will help you avoid erasing the wrong pixel color and remove those positioned closer to each other.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![setting the sampling options and limits in background eraser tool](https://images.wondershare.com/filmora/article-images/2023/03/setting-the-sampling-options-and-limits-in-background-eraser-tool.png)
 
 However, if the pixels are positioned far apart from each other, you can set the **"Limit"** option to **"Discontiguous."** While when erasing the pixels around the subject, set the **"Limits"** settings to **"Find Edges"** to ensure smooth edges.
 
 Step4 If your image background and subject are of the same color and **Photoshop** it removing parts of your subject during the process, set the **Tolerance** to a **low value** by dragging its slider up or down or typing it in the box.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![setting the tolerance value in background eraser tool](https://images.wondershare.com/filmora/article-images/2023/03/setting-the-tolerance-value-in-background-eraser-tool.png)
 
 Step5 When removing pixels from a background, you can preserve specific pixel colors from being removed, which can be helpful if they are close to the area you want to erase.
@@ -164,12 +188,22 @@ Now, to remove the pink stripes, we'll move the brush to that part, and when cli
 
 Therefore, as long as we keep the crosshair within the pink area, Photoshop will only erase the pink pixels.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![checking the working process of photo shop](https://images.wondershare.com/filmora/article-images/2023/03/checking-the-working-process-of-photo-shop.png)
 
 However, if we accidentally erase the blue stripes, we can always go back by simply pressing the **"CTRL+Z"** in Windows and **"Command+Z"** in Mac. To undo multiple steps, hit the **"Ctrl+Alt+Z" (Windows)** or **Command+Option+Z" (Mac)** keys repeatedly.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Common FAQs When Using Background Esarser Tool in Photoshop
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### 1\. Why Is Photoshop Eraser Tool Not Accessible?
 
 If your Photoshop Eraser Tool is not accessible, make sure you have no active selection and that you are working on the active layer.
@@ -178,6 +212,9 @@ If your Photoshop Eraser Tool is not accessible, make sure you have no active se
 
 You can find the Background Eraser Tool in the **Toolbar** on the left-hand side of the screen. Right-click the **"Eraser"** tool and select **"Background Eraser"** from the menu.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## A Bonus Video Tutorial: Background Change Tutorial with Wondershare [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Hopefully, you find this article informative and can now easily use the Background Eraser tool in Adobe Photoshop. Additionally, as artists or creators' world consists of various types of expression, images and videos are among them. Apart from the tutorial of removing images' backgrounds in Photoshop, we also provided you with a video tutorial to remove the video's background. If you have any interests, you can watch it and have fun!
@@ -186,6 +223,9 @@ Hopefully, you find this article informative and can now easily use the Backgrou
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this comprehensive guide, we've discussed the basic information about the Eraser tool and the adjustment settings of the Background Eraser tool. We've also provided a step-by-step process for using **the Background Eraser Tool in Photoshop.**
@@ -230,3 +270,31 @@ Hopefully, you can use the tools in Phoshop with ease and remove images' backgro
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-a-step-by-step-guide-to-using-polarr-for-stunning-images/"><u>[New] A Step-by-Step Guide to Using Polarr for Stunning Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-boost-image-size-retain-resolution/"><u>[New] Boost Image Size, Retain Resolution</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-bringing-rhythm-to-slides-including-tunes-in-ppt/"><u>[Updated] Bringing Rhythm to Slides  Including Tunes in PPT</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-chip-synergy-flawless-video-editing-redefined-by-m1s-efficiency/"><u>[Updated] Chip Synergy  Flawless Video Editing Redefined by M1's Efficiency</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-future-proof-selection-top-cloud-services-reviewed/"><u>2024 Approved  A Future-Proof Selection  Top Cloud Services Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-av1-essentials-for-the-uninitiated/"><u>2024 Approved  AV1 Essentials  For the Uninitiated</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-action-cameras-with-image-stabilization/"><u>2024 Approved  Best Action Cameras with Image Stabilization</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-study-of-silliness-the-goofy-narrative-unpacked/"><u>A Study of Silliness  The Goofy Narrative Unpacked</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/clarity-crusade-enhancing-video-in-zoom-meetings-for-2024/"><u>Clarity Crusade  Enhancing Video in Zoom Meetings for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/efficiently-obtain-youtube-srt-files-in-three-methods/"><u>Efficiently Obtain YouTube SRT Files in Three Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-ai-visual-editing-software/"><u>Elite AI Visual Editing Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/estimating-byte-consumption-of-full-film-daily/"><u>Estimating Byte Consumption of Full Film Daily</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-hacks-for-improved-tiktok-visuals/"><u>Expert Hacks for Improved TikTok Visuals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-auditory-purity-in-ffmpeg-a-format-friendly-perspective/"><u>In 2024, Auditory Purity in FFmpeg  A Format-Friendly Perspective</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/joining-the-metaverse-comedy-club-top-20plus-memes-and-techniques/"><u>Joining the Metaverse Comedy Club  Top 20+ Memes & Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pioneering-audio-enhancement-for-compelling-visual-stories/"><u>Pioneering Audio Enhancement for Compelling Visual Stories</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ricoh-theta-s-uncovered-a-complete-audit/"><u>Ricoh Theta S Uncovered  A Complete Audit</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/select-guide-17-chosen-software-for-smooth-image-cleanup/"><u>Select Guide  17 Chosen Software for Smooth Image Cleanup</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/skys-the-limit-revel-in-20-top-free-cloud-service-plans-up-to-1tb/"><u>Sky's the Limit  Revel in 20 Top Free Cloud Service Plans (Up To 1TB)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlining-your-subtitle-workflow-with-leading-online-tools/"><u>Streamlining Your Subtitle Workflow with Leading Online Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essential-guide-to-podcast-title-selection-strategies-and-examples/"><u>The Essential Guide to Podcast Title Selection  Strategies & Examples</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-mixed-reality-a-comprehensive-insight/"><u>Unveiling Mixed Reality  A Comprehensive Insight</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/wallet-friendly-high-definition-spherical-video-capture/"><u>Wallet-Friendly High-Definition Spherical Video Capture</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/zooming-in-an-intensive-guide-to-youtube-live-stream-success/"><u>Zooming In  An Intensive Guide to YouTube Live Stream Success</u></a></li>
+</ul></div>

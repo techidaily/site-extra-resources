@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Best Practice Animation Series"
-date: 2024-05-24T05:09:53.293Z
-updated: 2024-05-25T05:09:53.293Z
+date: 2024-07-25T04:40:16.953Z
+updated: 2024-07-26T04:40:16.953Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Best Practice Animation Series"
 excerpt: "This Article Describes [Updated] Best Practice Animation Series"
 keywords: "Best Animated Methods,Top Animation Trends,Effective Animation Tips,Prime Animation Techniques,Premium Animation Practices,Optimal Animation Processes,Superior Animation Standards"
-thumbnail: https://www.lifewire.com/thmb/HCLMP6GMUtopX7mh_Wu068K9So8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/carsolarbatterycharger-5680a3b85f9b586a9edda02a.jpg
+thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b149ae12a4fa97fbfe5c6637e.jpg
 ---
 
 ## Best Practice Animation Series
@@ -26,8 +26,15 @@ After Effects have a wide range of text presets to make the texts and titles in 
 
 Glitch text effect is a trendy effect that gets the viewers’ attention immediately. In this pack, you get 30 glitch text effects that you can apply to the text in your video to make them stand out. These effects are highly adjustable and you can time them in and out of your text as per your preference. Along with glitch text effects, you get glitch sound effects to make the animation impactful. You can experiment with Random seed as well as Glitch maps you get in the pack.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![glitch text effect toolkit ae](https://images.wondershare.com/filmora/article-images/2022/07/glitch-text-effect-toolkit-ae.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Liquid Text Animation
 
 You get 110 animated elements that you can apply to the text in your video. The effects are perfectly suitable for videos where comedy is the main theme. The liquid text effect looks organic and natural, and the colors are eye-catching to grab everyone’s attention. There are 8 text scenes and one text preset present, along with 110 animated presets. The effects are HD in resolution, and they are modular and adjustable. It is time to download and use them to make your video dynamic.
@@ -40,22 +47,38 @@ There is always a high demand for dynamic text animations in After Effects. This
 
 ![dynamic text animations ae](https://images.wondershare.com/filmora/article-images/2022/07/dynamic-text-animations-ae.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Squash & Stretch Preset
 
 If you want to add texts and titles in your video that looks like the games meant for kids, squash and stretch. Therefore, if your video content is based on comedy or you make videos for kids, this is the effect and animation you should apply on the text of your video. The animation looks cool and funny at the same time. The animations are designed by professionals and you get regular as well as advanced adjustments. There are also built-in sound effects available to make the animations for entertaining.
 
 ![squash stretch preset ae](https://images.wondershare.com/filmora/article-images/2022/07/squash-stretch-preset-ae.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## 5\. CounterPro Preset
 
 In this pack, you will find unique text effects, and you can animate text with keyframe. You can animate numbers as well as characters, and it is mostly used to animate numbers to show counting. You can change different parameters of the animations and effects as per your preference. Furthermore, you can use it as a timer on your video to countdown. There are different styles available to apply to your texts and numbers.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![counterpro preset ae](https://images.wondershare.com/filmora/article-images/2022/07/counterpro-preset-ae.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## 6\. Text Library
 
 If there is a must-have preset you should manage to have in After Effects is Text Library. There are as many as 1000 text presets available and this will serve all your requirements completely. Starting from animations and effects to transitions, everything is available in different categories for you to choose from and apply to your text. The pack keeps on updating to include trendy and funky text effects so that you do not miss out anything.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![text library effect ae](https://images.wondershare.com/filmora/article-images/2022/07/text-library-effect-ae.jpg)
 
 ## 7\. Kinetic Text Animation
@@ -64,6 +87,10 @@ Kinetic text effect is a part of dynamic text effects and there is a high demand
 
 ![kinetic text aniamtion ae](https://images.wondershare.com/filmora/article-images/2022/07/kinetic-text-aniamtion-ae.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## 8\. Text Animation Lower Third
 
 You get eleven styles of elements in the pack, and you can customize the designs to get into any size as per your requirements. You get the elements in HD and Full HD resolution, and you can use them in the intro or outro of the video to show text and title credits. You can also use them to show quotes or keywords. Most of them have highlighted background, and technically, they are referred to as lower thirds.
@@ -104,3 +131,30 @@ As the saying goes, the more the merrier and the more presets you have, the more
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-accelerate-creativity-in-photo-editing-using-pixlr/"><u>[New] Accelerate Creativity in Photo Editing Using Pixlr</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-balancing-iphone-hd-video-with-premiere-pros-exposure-control/"><u>[Updated] Balancing iPhone HD Video with Premiere Pro’s Exposure Control</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-charting-the-course-to-cash-how-much-does-pewdopeep-make/"><u>[Updated] Charting the Course to Cash  How Much Does PewDoPeep Make?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-craft-stunning-photos-with-color-correction/"><u>[Updated] Craft Stunning Photos with Color Correction</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-comprehensive-guide-to-crafting-memes-on-9gag/"><u>2024 Approved  A Comprehensive Guide to Crafting Memes on 9GAG</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-cost-efficient-game-capture-learn-to-livestran-a-match/"><u>2024 Approved  Cost-Efficient Game Capture  Learn to Livestran a Match</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-compelling-metaverse-campaigns/"><u>2024 Approved  Crafting Compelling Metaverse Campaigns</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-successful-youtube-sponsorship-deals/"><u>2024 Approved  Crafting Successful YouTube Sponsorship Deals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-compreayer-study-of-magix-image-suite/"><u>A Compreayer Study of MAGIX Image Suite</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-compreayers-guide-to-video-refinement-from-standard-definition-to-dynamic-range-zenith/"><u>A Compreayer's Guide to Video Refinement  From Standard Definition to Dynamic Range Zenith</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audio-alternatives-weighing-the-pros-of-podcasts-and-youtube-for-2024/"><u>Audio Alternatives  Weighing the Pros of Podcasts and YouTube for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beatbell-instructions-making-tamil-music-your-call-alerts/"><u>BeatBell Instructions  Making Tamil Music Your Call Alerts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-efficiency-learning-free-timers-functionality/"><u>Boost Efficiency  Learning FREE Timers' Functionality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bypass-expenses-relish-films-anywhere-free-player-for-2024/"><u>Bypass Expenses, Relish Films Anywhere (FREE Player) for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compact-cost-effective-spherical-video-capture-systems/"><u>Compact, Cost-Effective Spherical Video Capture Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-cinema-magic-with-fcps-top-10-plugin-choices/"><u>Crafting Cinema Magic with FCP’s Top 10 Plugin Choices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/editors-eye-view-visualscape-pro-edition/"><u>Editor's Eye View  VisualScape Pro Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-creating-a-decreasing-volume-effect-in-audacity/"><u>In 2024, Creating a Decreasing Volume Effect in Audacity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-adventure-the-best-6-gopro-mounts-revealed/"><u>Mastering Adventure  The Best 6 GoPro Mounts Revealed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/maximizing-your-walls-with-windows-11-a-guide-to-changing-backdrops/"><u>Maximizing Your Walls with Windows 11  A Guide to Changing Backdrops</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seo-masterclass-unlocking-the-secrets-to-higher-podcast-visibility/"><u>SEO Masterclass  Unlocking the Secrets to Higher Podcast Visibility</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/social-media-synergy-linking-instagram-with-tiktok/"><u>Social Media Synergy  Linking Instagram with TikTok</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/your-one-stop-resource-for-best-free-3d-text-psds/"><u>Your One-Stop Resource for Best FREE 3D Text PSDs</u></a></li>
+</ul></div>

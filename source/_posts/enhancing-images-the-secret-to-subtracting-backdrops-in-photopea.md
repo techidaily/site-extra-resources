@@ -1,7 +1,7 @@
 ---
 title: "\"Enhancing Images  The Secret to Subtracting Backdrops in Photopea\""
-date: 2024-07-06T17:44:33.132Z
-updated: 2024-07-07T17:44:33.132Z
+date: 2024-07-25T04:07:55.886Z
+updated: 2024-07-26T04:07:55.886Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,9 @@ Step1 In the first step, launch a browser on your PC and visit the [Photopea](ht
 
 Step2 In the next step, click the **"Magic Wand"** tool from the left-side panel and click the background of your image to select it.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![selecting the magic wand tool in photopea](https://images.wondershare.com/filmora/article-images/2023/03/selecting-the-magic-wand-tool-in-photopea.png)
 
 Step3 Now, simply press the **"Delete"** button on your keyboard to remove the background. However, if the tool did not select some parts of the image's background, you need to adjust the settings. Click the **"Ctrl+Z"** key to undo the selection.
@@ -46,6 +49,9 @@ Step3 Now, simply press the **"Delete"** button on your keyboard to remove the b
 
 Step4 Next, find the **"Tolerance"** option in the top toolbar and increase its value until you get the appropriate number.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![adjusting the magic wand settings](https://images.wondershare.com/filmora/article-images/2023/03/adjusting-the-magic-wand-settings.png)
 
 Step5 Alternatively, you can reduce the value to deselect the parts of your image. Once you change the value, click on the background and press the **"Delete"** button to remove it.
@@ -66,6 +72,9 @@ You can modify the brush size using the drop-down icon at the top-right of the w
 
 Step4 Once satisfied with your changes, click **"OK"** to save your settings and remove the background.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Select the Subject Manually When The Image Is Detailed
 
 Although Magic Cut can handle difficult photos, there are also more precise tools available in Photopea that can help you erase the background from your images through manual selection. However, this process will be slower if your image is very detailed.
@@ -76,6 +85,9 @@ Step1 Visit the Photopea website and import your image. Right-click the **"Recta
 
 Step2 Now, choose the selection tool you need from the drop-down menu. For this tutorial, we've used the **"Magnetic Lasso Selection"** option.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![manually removing the image background in photopea](https://images.wondershare.com/filmora/article-images/2023/03/manually-removing-the-image-background-in-photopea.png)
 
 Step3 In the next step, select your object as precisely as possible. Now, right-click on your selection, and click **"Inverse"** from the drop-down menu.
@@ -90,6 +102,9 @@ To add a new background after removing the image's background, do the following 
 
 Step1 Click the **"File"** option from the top menu and select **"Open & Place..."**
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![adding new background to image in photopea](https://images.wondershare.com/filmora/article-images/2023/03/adding-new-background-to-image-in-photopea.png)
 
 Step2 Choose the new background image from your system and click **"Open"** to import it to **"Photopea."**
@@ -116,20 +131,38 @@ With its Image Resizer tool, you can make your image smaller or larger in size t
 
 PixCut also offers the "Erase & Restore" tool to help you remove or restore certain parts of your image after removing the background using the AI-based tool.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Background Change
 
 PixCut gives you the option to change the removed background to something more unique using the presets available on the platform or by adding your own templates/images.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ### Add Shadow
 
 Once you've erased the background from your objects in PixCut, you can also add shadows by clicking on the **"Add Shadow"** option and checking the **"Shadow"** box. Then, set the Margin, Blur, Opacity, and Angle to your liking!
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Watermark Remover
 
 PixCut also removes watermarks from your pictures, allowing you to bypass copyright restrictions and use images for commercial purposes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![wondershare pixcut](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## You May Be Interested In: How To Get Free Images
 
 Hopefully, you've found this guide helpful and can now make changes to your image's background without much effort. Last but not least, we have provided you with a video how to get more free images from a user-friendly video editor - [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). If you have any interests, you can watch it:
@@ -148,6 +181,9 @@ Additionally, we recommended using Wondershare PixCut as the best alternative to
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this detailed guide, we've explored **how to remove an image's background with Photopea** using the Magic Wand and Magic Cut tools or by manual selection. We've also explained how you can add a new background to your image file after removing the old one.
@@ -178,3 +214,37 @@ Additionally, we recommended using Wondershare PixCut as the best alternative to
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-10-must-have-strategies-for-podcast-visuals-excellence/"><u>[New] 10 Must-Have Strategies for Podcast Visuals Excellence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-affordable-full-rotational-camera-systems-enhancing-media/"><u>[New] Affordable, Full Rotational Camera Systems Enhancing Media</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comprehensive-guide-for-digital-video-photo-effects-application/"><u>[New] Comprehensive Guide for Digital Video Photo Effects Application</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-create-your-own-whatsapp-ringtone-a-comprehensive-guide-to-ios-and-android/"><u>[New] Create Your Own WhatsApp Ringtone - A Comprehensive Guide to iOS & Android</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-step-by-step-guide-the-most-effective-7-artwork-to-nft-services/"><u>[Updated] A Step-by-Step Guide - The Most Effective 7 Artwork-to-NFT Services</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-accelerating-artistic-outputs-fast-tracked-google-collage-creation/"><u>[Updated] Accelerating Artistic Outputs  Fast-Tracked Google Collage Creation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-audiovisual-anthems-blending-music-into-instagram-videos/"><u>[Updated] Audiovisual Anthems  Blending Music Into Instagram Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-breaking-down-chromes-multi-tasking-the-pip-experience/"><u>[Updated] Breaking Down Chrome's Multi-Tasking  The PIP Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-best-hd-android-video-player-apps-you-should-know/"><u>10 Best Hd Android Video Player Apps You Should Know</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-5-best-title-maker-online/"><u>2024 Approved  5 Best Title Maker Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-androids-elite-podcast-app-selection-top-6-list/"><u>2024 Approved  Android's Elite Podcast App Selection  Top 6 List</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-asus-proart-excellence-in-4k-hdr-monitoring/"><u>2024 Approved  ASUS ProArt  Excellence in 4K HDR Monitoring</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-drone-deals-ready-to-buy/"><u>2024 Approved  Best Drone Deals Ready to Buy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-binge-watch-with-flexibility-mastering-the-pip-functionality-in-netflix/"><u>2024 Approved  Binge-Watch With Flexibility  Mastering the PIP Functionality in Netflix</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-trifecta-guide-for-extracting-youtube-subtitled-content-for-2024/"><u>A Trifecta Guide for Extracting YouTube Subtitled Content for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beyond-reality-boundaries-the-vr-journey-continues/"><u>Beyond Reality Boundaries  The VR Journey Continues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-the-best-10-top-video-translation-platforms-for-multilingual-professionals/"><u>Discover the Best  10 Top Video Translation Platforms for Multilingual Professionals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/experience-like-never-before-leading-10-vr-devices/"><u>Experience Like Never Before  Leading 10 VR Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-analysis-of-srt-unpacking-its-significance/"><u>Expert Analysis of SRT  Unpacking Its Significance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/guide-to-selecting-best-vhs-edits-via-computer/"><u>Guide to Selecting Best VHS Edits via Computer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-building-your-brand-on-instagram-the-top-9-actions-of-industry-stars/"><u>In 2024, Building Your Brand on Instagram  The Top 9 Actions of Industry Stars</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leading-picks-unlimited-photo-sharing-platforms/"><u>Leading Picks  Unlimited Photo Sharing Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/logic-pros-approach-to-softening-audio-tracks-gradually/"><u>Logic Pro's Approach to Softening Audio Tracks Gradually</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-hd-video-the-best-android-players/"><u>Mastering HD Video  The Best Android Players</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfect-photos-at-a-click-top-captioning-software/"><u>Perfect Photos at a Click  Top Captioning Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfecting-fade-out-techniques-in-audacity/"><u>Perfecting Fade-Out Techniques in Audacity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sharp-lenses-clear-visions-tips-for-fog-free-filming/"><u>Sharp Lenses, Clear Visions  Tips for Fog-Free Filming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-into-success-beginners-guide-to-hosting-tech-product-discussions-online/"><u>Step-Into Success  Beginner’s Guide to Hosting Tech Product Discussions Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/strategies-for-hiring-superior-cinematographers/"><u>Strategies for Hiring Superior Cinematographers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-blueprint-for-virtual-business-growth/"><u>The Blueprint for Virtual Business Growth</u></a></li>
+</ul></div>

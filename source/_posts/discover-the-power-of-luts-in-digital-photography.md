@@ -1,7 +1,7 @@
 ---
 title: "Discover the Power of LUTs in Digital Photography"
-date: 2024-05-24T05:45:35.922Z
-updated: 2024-05-25T05:45:35.922Z
+date: 2024-07-25T05:46:40.404Z
+updated: 2024-07-26T05:46:40.404Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Discover the Power of LUTs in Digital Photography"
 excerpt: "This Article Describes Discover the Power of LUTs in Digital Photography"
 keywords: "PhotoLUT Dynamics,Digital PhotograPY LUTs,CaptureEnhance with LUTs,LUTs Image Processing,Enhanced Photography LUTs,ColorGrading Using LUTs,Digital Imagery LUT Advantage"
-thumbnail: https://www.lifewire.com/thmb/16bg6yesUIpUbbguf0NXURmsOfI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/amazon-fire-stick-with-remote-blue-b8a8b00188ba4408a4fc1c03696dd9a1.jpg
+thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0df78e2f2b0d58f413fb2991f.jpg
 ---
 
 ## Discover the Power of LUTs in Digital Photography
@@ -50,12 +50,19 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to use LUTs using Photoshop CC?
 
 LUTs come pre-installed with programs, but you may also purchase them online and add them to your software. You may even buy a look from your favorite film or television show. In Photoshop, LUTs are simple to apply. You can begin in Photoshop with the original photo, which is an image that was captured locally, unprocessed, and straight out of the camera.
 
 1. Select the Adjustment Layer icon from the drop-down menu.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
 Choose Adjustment Layer
@@ -64,6 +71,9 @@ Choose Adjustment Layer
 2. The Properties inspector will appear. Window>Properties.
 3. Select Load 3D LUT. A list of LUTs that come with Photoshop will appear.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
 
 load 3d lut
@@ -74,6 +84,9 @@ load 3d lut
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
@@ -81,6 +94,9 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Here's the second one
 
 1. Open the LUT folder, which changes the version to your version.
@@ -105,6 +121,9 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 Closing Thoughts:
@@ -137,3 +156,30 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-a-comprehensive-guide-top-12-websites-for-gratis-photo-libraries/"><u>[New] A Comprehensive Guide  Top 12 Websites for Gratis Photo Libraries</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-practices-in-unbounded-online-space-use/"><u>[Updated] Best Practices in Unbounded Online Space Use</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-break-down-barriers-to-sound-convert-srt-with-ease-and-precision/"><u>[Updated] Break Down Barriers to Sound  Convert SRT with Ease and Precision</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-step-further-the-revolutionary-lg-360-vr-headset-reviewed/"><u>2024 Approved  A Step Further  The Revolutionary LG 360 VR Headset Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-covert-creativity-easy-photo-fixes-for-starters/"><u>2024 Approved  Covert Creativity  Easy Photo Fixes for Starters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/achieve-professional-looking-motion-blur-with-just-a-few-steps-in-photoshop-for-2024/"><u>Achieve Professional-Looking Motion Blur with Just a Few Steps in Photoshop for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beyond-reality-comparing-vr-augmented-and-mixed-tech/"><u>Beyond Reality  Comparing VR, Augmented & Mixed Tech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chuckle-o-meter-starts-with-zero-mememasters-kit/"><u>Chuckle-O-Meter Starts with Zero – MemeMasters Kit</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cloud-choice-best-value-in-data-safekeeping/"><u>Cloud Choice  Best Value in Data Safekeeping</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/colorize-your-flight-dji-miniair-drone-visuals-at-no-cost-for-2024/"><u>Colorize Your Flight – DJI Mini/Air Drone Visuals at No Cost for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comparing-apples-with-oranges-not-when-it-comes-to-m1-pro-and-m1-max-for-2024/"><u>Comparing Apples with Oranges? Not When It Comes to M1 Pro & M1 Max for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cost-effective-cloudscape-ideal-mass-archive/"><u>Cost-Effective Cloudscape  Ideal Mass Archive</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dive-into-the-skies-with-these-easy-to-fly-drones-for-kids-and-novices/"><u>Dive Into the Skies with These Easy-to-Fly Drones For Kids & Novices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/efficient-background-extraction-with-photopea/"><u>Efficient Background Extraction with Photopea</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expediting-fb-videos-leading-extensions-and-apps-compilation/"><u>Expediting FB Videos  Leading Extensions & Apps Compilation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-beyond-sns-hdr-pro-in-photography/"><u>Exploring Beyond SNS HDR Pro in Photography</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comic-creators-charter-zero-cost-endless-laughs/"><u>In 2024, Comic Creators' Charter  Zero Cost, Endless Laughs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/rapid-results-elevate-images-on-windows-11/"><u>Rapid Results  Elevate Images on Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-up-your-file-game-compiling-top-20-free-spacious-cloud-storage-solutions/"><u>Step Up Your File Game  Compiling Top 20 Free, Spacious Cloud Storage Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essentials-of-video-format-transformation-using-vlc/"><u>The Essentials of Video Format Transformation Using VLC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-quick-access-handbook-for-rapid-srt-to-text-change/"><u>The Ultimate, Quick-Access Handbook for Rapid SRT to Text Change</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/through-the-looking-glass-decoding-the-secrets-to-a-superior-windows-11-experience/"><u>Through the Looking Glass  Decoding the Secrets to a Superior Windows 11 Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-oculus-gaming-guide-best-selling-choices/"><u>Ultimate Oculus Gaming Guide  Best-Selling Choices</u></a></li>
+</ul></div>

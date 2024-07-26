@@ -1,7 +1,7 @@
 ---
 title: "\"GoPro's Hero5 Up Against Yi's High-Res Adventures\""
-date: 2024-05-24T04:11:19.655Z
-updated: 2024-05-25T04:11:19.655Z
+date: 2024-07-25T02:48:55.500Z
+updated: 2024-07-26T02:48:55.500Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes GoPro's Hero5 Up Against Yi's High-Res Adventures\""
 excerpt: "\"This Article Describes GoPro's Hero5 Up Against Yi's High-Res Adventures\""
 keywords: "GoPro Hero5 Action,Hero5 Vlogging,Hero5 High Res,Yi Camera Feats,Yi Pro HD Videos,Adventure Capturing,Quadcopter Filming"
-thumbnail: https://www.lifewire.com/thmb/B5Rf1LEJVXTJDXtQFV2DWw9iDoM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-827891530-5bbe624446e0fb0026c95aad.jpg
+thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09edc660acfbd429a0158f5b0.jpg
 ---
 
 ## GoPro's Hero5 Up Against Yi's High-Res Adventures
 
 # GoPro Hero5 Black vs. Yi 4K Action Camera: Which is Better?
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -34,6 +37,9 @@ thumbnail: https://www.lifewire.com/thmb/B5Rf1LEJVXTJDXtQFV2DWw9iDoM=/400x300/fi
 
 [Best GoPro Alternatives >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Comparison for Hero5 Black and Yi 4K Action Camera
 
 #### Basic specs comparison table
@@ -65,6 +71,9 @@ thumbnail: https://www.lifewire.com/thmb/B5Rf1LEJVXTJDXtQFV2DWw9iDoM=/400x300/fi
 
 **Touch Screen:** When displays of both these cameras are compared then it was observed that YI 4K provides better response as compared to [GoPro Hero5 Black](https://tools.techidaily.com/wondershare/filmora/download/). Size of display is also larger in case of YI 4K as it goes up to 2.19” whereas Hero5 has 2” screen. The Touch Screen is found more interactive in YI 4K whereas in case of Hero5 you may need to press twice especially when it is wet. The front LCD display of GoPro provides additional settings menu for easy control.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Yi 4K action camera touchscreen](https://images.wondershare.com/filmora/article-images/yi-4k-touchscreen.jpg)
 
  Image source:elproducente.com
@@ -138,6 +147,9 @@ Follow @Max Wales
 
 **Touch Screen:** When displays of both these cameras are compared then it was observed that YI 4K provides better response as compared to [GoPro Hero5 Black](https://tools.techidaily.com/wondershare/filmora/download/). Size of display is also larger in case of YI 4K as it goes up to 2.19” whereas Hero5 has 2” screen. The Touch Screen is found more interactive in YI 4K whereas in case of Hero5 you may need to press twice especially when it is wet. The front LCD display of GoPro provides additional settings menu for easy control.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Yi 4K action camera touchscreen](https://images.wondershare.com/filmora/article-images/yi-4k-touchscreen.jpg)
 
  Image source:elproducente.com
@@ -180,6 +192,9 @@ Follow @Max Wales
 
 [Best GoPro Alternatives >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## Comparison for Hero5 Black and Yi 4K Action Camera
 
 #### Basic specs comparison table
@@ -253,6 +268,9 @@ Follow @Max Wales
 
 [Best GoPro Alternatives >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Comparison for Hero5 Black and Yi 4K Action Camera
 
 #### Basic specs comparison table
@@ -338,3 +356,26 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-affordable-high-definition-top-mirrorless-cameras-(1k/"><u>[New] Affordable High-Definition  Top Mirrorless Cameras (<$1K)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-auditory-interpretation-accessible-at-no-expense/"><u>[New] Auditory Interpretation  Accessible at No Expense</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-clear-screen-choices-the-ultrawide-and-uhd-4k-showdown/"><u>[New] Clear Screen Choices  The Ultrawide & UHD 4K Showdown</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-the-perfect-tone-accessible-software-for-effortless-vocal-transformation/"><u>[New] Crafting the Perfect Tone  Accessible Software for Effortless Vocal Transformation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-5-premier-drone-engines-to-supercharge-your-qxp/"><u>[Updated] 5 Premier Drone Engines to Supercharge Your QXP</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-comprehensive-examination-of-lg-27ud68-display-tech/"><u>[Updated] A Comprehensive Examination of LG 27UD68 Display Tech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-breaking-down-browser-issues-eliminate-video-blackouts-in-facebook-chats/"><u>[Updated] Breaking Down Browser Issues  Eliminate Video Blackouts in Facebook Chats</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ai-generated-podcast-titles-that-stick-with-you/"><u>AI-Generated Podcast Titles That Stick With You</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-ae-text-enhancers-guide/"><u>Essential AE Text Enhancers Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hero5-review-capturing-extreme-sports/"><u>Hero5 Review  Capturing Extreme Sports</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-blitz-games-leading-lightning-fast-titles-for-laptopsphones/"><u>In 2024, Blitz Games  Leading Lightning-Fast Titles for Laptops/Phones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-tinder-profiles-top-tricks-for-quick-likes/"><u>Mastering Tinder Profiles  Top Tricks for Quick Likes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premium-audio-playwright-craftsmanship/"><u>Premium Audio Playwright Craftsmanship</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/professional-photoshop-guide-to-crafting-hdr-images/"><u>Professional Photoshop Guide to Crafting HDR Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/spectacular-hooks-title-crafter/"><u>Spectacular Hooks Title Crafter</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlined-guide-5-efficient-windows-11-audio-recording-tips/"><u>Streamlined Guide  5 Efficient Windows 11 Audio Recording Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-complete-guide-to-android-time-lapse-creation/"><u>The Complete Guide to Android Time-Lapse Creation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-dawn-of-augmented-reality-microsofts-hololens-review/"><u>The Dawn of Augmented Reality – Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/winning-your-ears-compile-of-the-top-8-windows-podcasting-apps/"><u>Winning Your Ears  Compile of the Top 8 Windows Podcasting Apps</u></a></li>
+</ul></div>

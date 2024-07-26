@@ -1,7 +1,7 @@
 ---
 title: "Essentials of Film Color Enhancement"
-date: 2024-05-24T03:24:29.522Z
-updated: 2024-05-25T03:24:29.522Z
+date: 2024-07-25T01:19:28.942Z
+updated: 2024-07-26T01:19:28.942Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Essentials of Film Color Enhancement"
 excerpt: "This Article Describes Essentials of Film Color Enhancement"
 keywords: "Film Color Boosting,Cinemagraphic Tones,Picture Enhancing Tech,Visual Hue Amplification,Optimal Filmmaking Colors,Brighten Film Scenes,Aesthetic Shot Adjustment"
-thumbnail: https://www.lifewire.com/thmb/g1D2GfOi9Fo-tsyzdt3hJvYxChQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/halloween-4416c651cc8545b3b1bbeb3f51cb9531.jpg
+thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf05f0435bf5618af5d7b42ae3.jpg
 ---
 
 ## Essentials of Film Color Enhancement
@@ -28,6 +28,9 @@ Color grading is the video editing process wherein grading (arranging) colors in
 
 In cinematography, color grading refers to the manipulation of film and video images to create consistent color tones throughout a motion picture. Many filmmakers use a color palette or preset as part of their overall production plan. These palettes represent artistic choices that provide the film with a cohesive general aspect. When film footage does not adequately match these color palettes, directors and colorists use digital color grading tools to change video colors as needed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![origianl video color grading](https://images.wondershare.com/filmora/article-images/2022/08/origianl-video-color-grading.jpg)
 
 Color grading and color correction are processes that happen throughout postproduction. One makes the film look more native, and the other stylizes the footage. After the colorist finishes color correction, they can begin grading the film. During color grading, colorists use editing software to formalize the footage, highlighting a movie's visual tone and ambiance and making it look more cinematic.
@@ -62,12 +65,18 @@ Kindly see the details and steps on how to engage in color grading and color cor
 
 Then select the New Project to create a new project file and click Import to find and load your videos in local folders or portable media devices to the local media library. This software also allows you to add files with drag and drop. Then put them on the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![put video to filmora cd](https://images.wondershare.com/filmora/article-images/2022/08/put-video-to-filmora-cd.jpg)
 
 ##### Step2There are 2 ways to color your video in Wondershare Filmora
 
 Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar to enter the advanced color tools window, where you can apply the preset templates or adjust the color coarsely. It is suggested to start with Presets for beginners, which will save you much time.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![advanced color tools filmora](https://images.wondershare.com/filmora/article-images/2022/08/advanced-color-tools-filmora.jpg)
 
 Color Panel Window - to perform color correction in Wondershare Filmora, switch to the Color tab. You can modify the white balance, saturation, tint, contrast, temperature, and brightness and apply 3D LUT immediately and quickly in this editing panel. You see the output in the Preview window.
@@ -98,14 +107,23 @@ Here, there are two options to select: The Color correction. It offers different
 
 First, you need to select the specific video portion you want to change the color. Just click the scissor icon or what we call split tool. In this case, I split the 2nd video when I zoom in on the subject.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![split video into clips fx](https://images.wondershare.com/filmora/article-images/2022/08/split-video-into-clips-fx.jpg)
 
 * And I selected the end portion of the video. After that, choose the part of the video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![selected end portion video filmora](https://images.wondershare.com/filmora/article-images/2022/08/selected-end-portion-video-filmora.jpg)
 
 ##### Step3Apply the color correction preset that you want then click ok
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![apply color correction preset](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-correction-preset.jpg)
 
 You will notice that the color changes depending on your selected preset.
@@ -116,6 +134,9 @@ In the Presets tab, there are different templates, including Common, 3D LUT, Vig
 
 Once you've finished correcting the video color, press Play and go over the whole video through the previewing window. If satisfied with the result, click the "Export" button to transport your video. Click the Settings button to modify settings if needed. You can save the new videos in different formats under the Format tab. If you want to play the edit file on devices like Tablet, iPad, Kindle Fire, PSP, Xbox, etc., go to the "Devices" tab and select the configured preset for the specific model. You can also upload the video output on Youtube for better preservation.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![preview and save video filmora](https://images.wondershare.com/filmora/article-images/2022/08/preview-and-save-video-filmora.jpg)
 
 **Using the Color Panel Window**
@@ -130,6 +151,10 @@ You can modify the temperature, tint, white balance, contrast, saturation, and b
 
 Click the button Advanced at the lower corner, then the color grading window will pop up, and you can explore your settings and options.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![color grading with filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-with-filmora.jpg)
 
 **Color Histogram**
@@ -200,3 +225,36 @@ Overall, Color grading is the process of video editing to have an excellent look
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-13-simplified-pathways-to-cash-outdoors-reddit-community/"><u>[New] 13 Simplified Pathways to Cash Outdoors Reddit Community</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-brighten-iphones-night-scenes-using-simple-tricks/"><u>[New] Brighten iPhone's Night Scenes Using Simple Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-building-blocks-of-virtual-experience-terminology/"><u>[New] Building Blocks of Virtual Experience Terminology</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capturing-clarity-best-practices-for-iphone-photo-cropping/"><u>[New] Capturing Clarity  Best Practices for iPhone Photo Cropping</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comprehensive-analysis-of-android-based-lightroom-software/"><u>[New] Comprehensive Analysis of Android-Based Lightroom Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-become-a-vr-pro-ios-devices-guide-to-vr-viewing/"><u>[Updated] Become a VR Pro  IOS Device's Guide to VR Viewing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-chinas-economical-virtual-reality-options/"><u>[Updated] China's Economical Virtual Reality Options</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-complete-guide-to-dynamic-range-and-curves/"><u>2024 Approved  A Complete Guide to Dynamic Range and Curves</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-converting-videos-on-macos-with-best-tools-guide/"><u>2024 Approved  Converting Videos on macOS with Best Tools Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audio-callback-logger-for-iphone-2024/"><u>Audio Callback Logger for iPhone 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/camera-enthusiasts-spotlight-5-leading-slow-motion-tech/"><u>Camera Enthusiasts' Spotlight  5 Leading Slow Motion Tech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/diverse-genres-captivated-audiences-within-limit/"><u>Diverse Genres, Captivated Audiences (Within Limit)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-guide-for-newbies-visual-fidelity-in-videos/"><u>Essential Guide for Newbies  Visual Fidelity in Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/globe-spin-technology-in-lenses-versus-depth-perception-tech/"><u>Globe-Spin Technology in Lenses versus Depth Perception Tech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/identifying-10-leading-vr-devices-for-your-pc/"><u>Identifying 10 Leading VR Devices for Your PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-journey-through-colors-leading-tutorials-for-grading-and-correction/"><u>In 2024, A Journey Through Colors  Leading Tutorials for Grading & Correction</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-access-all-shows-seamless-apods-installation-tips/"><u>In 2024, Access All Shows  Seamless APods Installation Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-captivating-titles-with-ae/"><u>In 2024, Crafting Captivating Titles with AE</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premier-church-live-streaming-services-revealed/"><u>Premier Church Live Streaming Services Revealed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premiere-audio-to-text-converters/"><u>Premiere Audio-To-Text Converters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/spark-paves-way-but-will-mavic-air-top-the-gaming-scene/"><u>Spark Paves Way, But Will Mavic Air Top the Gaming Scene?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/superior-audio-modification-software-with-enchanting-features/"><u>Superior Audio Modification Software with Enchanting Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-visual-verdict-sj6-meets-xiaomis-yi-visionaries/"><u>The Ultimate Visual Verdict  SJ6 Meets Xiaomi’s Yi Visionaries</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-8-effective-sub-to-srt-converters-for-online-windows-and-mac/"><u>Top 8 Effective SUB to SRT Converters for Online, Windows & Mac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ushering-bliss-into-your-unboxing-experience/"><u>Ushering Bliss Into Your Unboxing Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/virtual-reality-technology-current-state-and-future-challenges-for-2024/"><u>Virtual Reality Technology  Current State and Future Challenges for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visual-flair-a-collection-of-ae-text-presets/"><u>Visual Flair  A Collection of AE Text Presets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/web-based-viewer-ratio-optimization/"><u>Web-Based Viewer Ratio Optimization</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/which-device-delivers-top-tier-4k-visual-feast/"><u>Which Device Delivers Top-Tier 4K Visual Feast?</u></a></li>
+</ul></div>

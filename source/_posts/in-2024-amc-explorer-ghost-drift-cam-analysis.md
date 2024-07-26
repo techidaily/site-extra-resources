@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, AMC Explorer  Ghost Drift Cam Analysis\""
-date: 2024-05-24T04:52:45.398Z
-updated: 2024-05-25T04:52:45.398Z
+date: 2024-07-25T04:09:30.057Z
+updated: 2024-07-26T04:09:30.057Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, AMC Explorer: Ghost Drift Cam Analysis\""
 excerpt: "\"This Article Describes In 2024, AMC Explorer: Ghost Drift Cam Analysis\""
 keywords: "\"Explore AMC Cam,Ghost Drifting,AMC Explorer Review,Cam Tech Insight,Expedition Driving,Vehicle Dynamics Study,High-Gear Adventure\""
-thumbnail: https://www.lifewire.com/thmb/PtF89sPVGsFcCHgFGqq_voX3kVI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/patch-tuesday-2625783-d6bcf232b3c64fc5958037ad31299bd9.png
+thumbnail: https://thmb.techidaily.com/0e4e69a266c0e21cfaa72121cb274553aaa959ab8154e71b42e7a2317f1338de.png
 ---
 
 ## AMC Explorer: Ghost Drift Cam Analysis
@@ -30,6 +30,110 @@ thumbnail: https://www.lifewire.com/thmb/PtF89sPVGsFcCHgFGqq_voX3kVI=/400x300/fi
 
  Ghost S follows the same design as that of HD Ghost and its bullet shaped model assists athletes in easy scene recording. The overall weight of this device is 5.9 ounces so it can be easily paired with goggles or strapped over helmet. The 2 inch LCD screen is protected with Gorilla Glass protection and the wide angle lens can cover views up to 160 degree. You will have plenty of mounting options with Drift Ghost-S device and it always stays safe with quick connect clip. Further, this device can be easily controlled from Wi-Fi remote and the outstanding combination of audio and video make it significantly stunning and fragile camera.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
+![drift-ghost-s-image](https://images.wondershare.com/filmora/article-images/drift-innocations-ghost-s-1.jpg)
+
+[Check price at Amazon](https://www.amazon.com/gp/product/B00GJRCPRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00GJRCPRO&linkId=02d9f7ab2afeae8b2f0e96dcd1f5f44b)
+
+## Complete Review for Drift Ghost-S
+
+#### **Specs table:**
+
+| **Item name**           | Drift Ghost-S                                                  |                      |                                                                                        |
+| ----------------------- | -------------------------------------------------------------- | -------------------- | -------------------------------------------------------------------------------------- |
+| **Manufacture**         | Drift (US)                                                     |                      |                                                                                        |
+| **Price:**              | Official:$299.99                                               |                      |                                                                                        |
+| **Date available**      | November 2013                                                  |                      |                                                                                        |
+| **Basic Specification** |                                                                |                      |                                                                                        |
+| **Weight**              | 171g only                                                      | **Shape**            | Bullet shaped                                                                          |
+| **Memory**              | MicroSD/SDHC/SDXC (memory capacity can go up to 64GB)          | **Dimensions**       | 105x52x33mm                                                                            |
+| **Battery**             | (3.5 Hours of Continuous Shooting) 1700MAH Lithium Ion Battery | **Waterproof**       | Waterproof to the Depth of 9' (3m)                                                     |
+| **Image resolution**    | Up to 12mp                                                     | **Video resolution** | Up to 1080P/60fps                                                                      |
+| **Display**             | 2" LCD Screen with Gorilla Glass                               | **Modes**            | Shock Proof to 2M drop, Freeze Proof to -10°C, Drift DataLink Wi-Fi Enabled &Drift App |
+
+#### **Pros and Cons**
+
+| **Pros**                                                                     | **Cons**                                                                                          |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| It can capture videos with 1080P/60fps resolution level.                     | Many competing action camera models can offer better image and video quality in same price range. |
+| Comes with Large display and Swivelling lens                                 | Little bit heavier and larger design                                                              |
+| This device is Waterproof even without housing                               | You will not be able to enjoy 4K recording with this device                                       |
+| You will get a remote with the package                                       | You need to spend more to get its protective case.                                                |
+| Its big battery can serve users up to 3.5 hours with 1080p resolution level. |                                                                                                   |
+
+#### **What is inside the Box:**
+
+ When you will open your Drift Ghost S package then following things will come out:
+
+1. (Mini-B) USB cable type Microphone Extension Cable
+2. Wrist Strap
+3. Waterproof rear hatch
+4. Curved and Flat adhesive mount
+5. Goggle mount
+6. Universal clip
+7. Connection Hatch
+8. Rechargeable Battery
+9. Remote Control
+10. Ghost-S
+
+#### **Design and Accessories:**
+
+ As already discussed Ghost S device is a bit larger as well as bulkier then other action cameras. But the best part is that its bigger size allows storage of much powerful battery. You will be able to record up to 210 minutes with 1080p and 30fps setting. This bullet shaped camera is not preferably used with wrist and chest mount but people find it ideal choice for helmet mount. There are four different buttons on the top portion of camera that can be used for basic camera settings.
+
+ As already discussed Ghost S device is a bit larger as well as bulkier then other action cameras. But the best part is that its bigger size allows storage of much powerful battery. You will be able to record up to 210 minutes with 1080p and 30fps setting. This bullet shaped camera is not preferably used with wrist and chest mount but people find it ideal choice for helmet mount. There are four different buttons on the top portion of camera that can be used for basic camera settings.
+
+#### **Video and Photo Quality:**
+
+ Video and photo quality of Drift Ghost S is good enough as compared to other competing devices in the same price range. You can easily set recording to different modes for capturing footage with customized resolution level and frame rates. The wide angle focus create much better views for adventure sports lovers that is why this camera is often purchased by travellers.
+
+ With Ghost S you can easily record videos at 1080p resolution and frame rates can be adjusted to 60, 50, 30 and 25fps. The field of view can be easily adjusted to 160, 127 and 90 degree as per need. If you start recording at 960p then frame rate can be adjusted to 48fps whereas if you need to slow down videos then it is good to switch to 720p. With 960p and 720p the FOV limits to 160 degrees. The video compression level can be also adjusted with ease by choosing high bit rates or normal mode.
+
+ It is possible to record footage with Ghost S in high bit rate as well as in normal mode. The still quality is 12MP that offers crystal clear views. When you use normal bit rate at 1080p then edges of videos appear jagged and interlaced. But this issue can be slightly resolved with high bit rate settings. If you want to switch to time lapse mode then it is possible to adjust shoot timings to 10, 5, 3, 2, 1 and 0.5 second intervals. With burst mode setting, you can easily capture 5 or 10 impressive shots within each second.
+
+#### **Wi-Fi and Apps:**
+
+ The Ghost S device comes with built in Wi-Fi facility and it assists in better remote control. You can also use interactive camera applications on Android and iOS platforms and the best thing to know is that they make footage adjustments much easier. With these advanced applications, users can easily set field of view, frame rate and exposure along with triggered recording settings. It is also possible to enjoy live view of shoots via smart phone applications but it may lead to little lag. You would love to copy all captured videos and photographs to your smart phone via these camera applications.
+
+#### **Battery Life and Storage:**
+
+ This camera consists of a Micro SDXC type card slot that can easily support cards up to 64 GB capacities. Other than this, your camera possesses Mini-HDMI ports, Mini-USB ports and a large size battery that can support long hour recording. With this big size battery you can easily record up to 3.5 hours with 1080p settings at 30fps frame rate. And if you go ahead with reduced resolution levels then it is possible to record for much longer duration.
+
+#### **The Bottom Line:**
+
+ There is no doubt to say that Drift Ghost S device comes with large screen and intuitive control options. You can also preview you footage before uploading it on any social media platform. Although this device is much costlier as compared to Ghost HD but at the same time possesses all incredible features as like impressive video recording modes. User's rate its battery life best among all action cameras as it can serve for many hours even with high resolution video mode. You will also get good support from company through emails and from their customer support section of official website. The versatility and unique design of Drift Ghost S make it a must buy device.
+
+#### **Recommend best video editing software for action camera users**
+
+ If you want to take your video content to the next level with some video editing without being completely overwhelmed, you will definitely want to give [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) (originally Wondershare Video Editor) a try. The software offers a free trial period which allows you to try before buy. Well-designed intuitive interface enables anyone to master the program within minutes.
+
+ What’s more, it has all the features you will need to make you feel like a pro. Simple editing functionalities like trimming, cropping, merging, adjusting speed, fast or slow motion, mosaic etc. will meet most of your demands. Besides all that, advanced features like split screen, green screen, filters&overlay effects, together with hundreds of licensed music, motion elements, transiton effects etc will definitely turn your video into something extraordinary with the least amount of effort. Check to video below to get an overview of this gorgeous video editing program:
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ Some of you may find Drift Ghost-S larger and heavier than other competing action cameras but you cannot decline this fact that it offers impressive battery life with built in type preview screen. People who demand amazing image quality with smaller image dimensions are advised to go for Drift Ghost-S device. This action camera excels in terms of features, quality and long life services. Professionals rate this camera as top action camera model due to perfect combination of features, image quality and battery life.
+
+ Ghost S follows the same design as that of HD Ghost and its bullet shaped model assists athletes in easy scene recording. The overall weight of this device is 5.9 ounces so it can be easily paired with goggles or strapped over helmet. The 2 inch LCD screen is protected with Gorilla Glass protection and the wide angle lens can cover views up to 160 degree. You will have plenty of mounting options with Drift Ghost-S device and it always stays safe with quick connect clip. Further, this device can be easily controlled from Wi-Fi remote and the outstanding combination of audio and video make it significantly stunning and fragile camera.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![drift-ghost-s-image](https://images.wondershare.com/filmora/article-images/drift-innocations-ghost-s-1.jpg)
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00GJRCPRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00GJRCPRO&linkId=02d9f7ab2afeae8b2f0e96dcd1f5f44b)
@@ -109,6 +213,10 @@ thumbnail: https://www.lifewire.com/thmb/PtF89sPVGsFcCHgFGqq_voX3kVI=/400x300/fi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -125,6 +233,9 @@ Follow @Max Wales
 
  Ghost S follows the same design as that of HD Ghost and its bullet shaped model assists athletes in easy scene recording. The overall weight of this device is 5.9 ounces so it can be easily paired with goggles or strapped over helmet. The 2 inch LCD screen is protected with Gorilla Glass protection and the wide angle lens can cover views up to 160 degree. You will have plenty of mounting options with Drift Ghost-S device and it always stays safe with quick connect clip. Further, this device can be easily controlled from Wi-Fi remote and the outstanding combination of audio and video make it significantly stunning and fragile camera.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drift-ghost-s-image](https://images.wondershare.com/filmora/article-images/drift-innocations-ghost-s-1.jpg)
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00GJRCPRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00GJRCPRO&linkId=02d9f7ab2afeae8b2f0e96dcd1f5f44b)
@@ -204,6 +315,9 @@ Follow @Max Wales
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -220,6 +334,9 @@ Follow @Max Wales
 
  Ghost S follows the same design as that of HD Ghost and its bullet shaped model assists athletes in easy scene recording. The overall weight of this device is 5.9 ounces so it can be easily paired with goggles or strapped over helmet. The 2 inch LCD screen is protected with Gorilla Glass protection and the wide angle lens can cover views up to 160 degree. You will have plenty of mounting options with Drift Ghost-S device and it always stays safe with quick connect clip. Further, this device can be easily controlled from Wi-Fi remote and the outstanding combination of audio and video make it significantly stunning and fragile camera.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![drift-ghost-s-image](https://images.wondershare.com/filmora/article-images/drift-innocations-ghost-s-1.jpg)
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00GJRCPRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00GJRCPRO&linkId=02d9f7ab2afeae8b2f0e96dcd1f5f44b)
@@ -297,101 +414,9 @@ Follow @Max Wales
 
  What’s more, it has all the features you will need to make you feel like a pro. Simple editing functionalities like trimming, cropping, merging, adjusting speed, fast or slow motion, mosaic etc. will meet most of your demands. Besides all that, advanced features like split screen, green screen, filters&overlay effects, together with hundreds of licensed music, motion elements, transiton effects etc will definitely turn your video into something extraordinary with the least amount of effort. Check to video below to get an overview of this gorgeous video editing program:
 
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- Some of you may find Drift Ghost-S larger and heavier than other competing action cameras but you cannot decline this fact that it offers impressive battery life with built in type preview screen. People who demand amazing image quality with smaller image dimensions are advised to go for Drift Ghost-S device. This action camera excels in terms of features, quality and long life services. Professionals rate this camera as top action camera model due to perfect combination of features, image quality and battery life.
-
- Ghost S follows the same design as that of HD Ghost and its bullet shaped model assists athletes in easy scene recording. The overall weight of this device is 5.9 ounces so it can be easily paired with goggles or strapped over helmet. The 2 inch LCD screen is protected with Gorilla Glass protection and the wide angle lens can cover views up to 160 degree. You will have plenty of mounting options with Drift Ghost-S device and it always stays safe with quick connect clip. Further, this device can be easily controlled from Wi-Fi remote and the outstanding combination of audio and video make it significantly stunning and fragile camera.
-
-![drift-ghost-s-image](https://images.wondershare.com/filmora/article-images/drift-innocations-ghost-s-1.jpg)
-
-[Check price at Amazon](https://www.amazon.com/gp/product/B00GJRCPRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00GJRCPRO&linkId=02d9f7ab2afeae8b2f0e96dcd1f5f44b)
-
-## Complete Review for Drift Ghost-S
-
-#### **Specs table:**
-
-| **Item name**           | Drift Ghost-S                                                  |                      |                                                                                        |
-| ----------------------- | -------------------------------------------------------------- | -------------------- | -------------------------------------------------------------------------------------- |
-| **Manufacture**         | Drift (US)                                                     |                      |                                                                                        |
-| **Price:**              | Official:$299.99                                               |                      |                                                                                        |
-| **Date available**      | November 2013                                                  |                      |                                                                                        |
-| **Basic Specification** |                                                                |                      |                                                                                        |
-| **Weight**              | 171g only                                                      | **Shape**            | Bullet shaped                                                                          |
-| **Memory**              | MicroSD/SDHC/SDXC (memory capacity can go up to 64GB)          | **Dimensions**       | 105x52x33mm                                                                            |
-| **Battery**             | (3.5 Hours of Continuous Shooting) 1700MAH Lithium Ion Battery | **Waterproof**       | Waterproof to the Depth of 9' (3m)                                                     |
-| **Image resolution**    | Up to 12mp                                                     | **Video resolution** | Up to 1080P/60fps                                                                      |
-| **Display**             | 2" LCD Screen with Gorilla Glass                               | **Modes**            | Shock Proof to 2M drop, Freeze Proof to -10°C, Drift DataLink Wi-Fi Enabled &Drift App |
-
-#### **Pros and Cons**
-
-| **Pros**                                                                     | **Cons**                                                                                          |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| It can capture videos with 1080P/60fps resolution level.                     | Many competing action camera models can offer better image and video quality in same price range. |
-| Comes with Large display and Swivelling lens                                 | Little bit heavier and larger design                                                              |
-| This device is Waterproof even without housing                               | You will not be able to enjoy 4K recording with this device                                       |
-| You will get a remote with the package                                       | You need to spend more to get its protective case.                                                |
-| Its big battery can serve users up to 3.5 hours with 1080p resolution level. |                                                                                                   |
-
-#### **What is inside the Box:**
-
- When you will open your Drift Ghost S package then following things will come out:
-
-1. (Mini-B) USB cable type Microphone Extension Cable
-2. Wrist Strap
-3. Waterproof rear hatch
-4. Curved and Flat adhesive mount
-5. Goggle mount
-6. Universal clip
-7. Connection Hatch
-8. Rechargeable Battery
-9. Remote Control
-10. Ghost-S
-
-#### **Design and Accessories:**
-
- As already discussed Ghost S device is a bit larger as well as bulkier then other action cameras. But the best part is that its bigger size allows storage of much powerful battery. You will be able to record up to 210 minutes with 1080p and 30fps setting. This bullet shaped camera is not preferably used with wrist and chest mount but people find it ideal choice for helmet mount. There are four different buttons on the top portion of camera that can be used for basic camera settings.
-
- As already discussed Ghost S device is a bit larger as well as bulkier then other action cameras. But the best part is that its bigger size allows storage of much powerful battery. You will be able to record up to 210 minutes with 1080p and 30fps setting. This bullet shaped camera is not preferably used with wrist and chest mount but people find it ideal choice for helmet mount. There are four different buttons on the top portion of camera that can be used for basic camera settings.
-
-#### **Video and Photo Quality:**
-
- Video and photo quality of Drift Ghost S is good enough as compared to other competing devices in the same price range. You can easily set recording to different modes for capturing footage with customized resolution level and frame rates. The wide angle focus create much better views for adventure sports lovers that is why this camera is often purchased by travellers.
-
- With Ghost S you can easily record videos at 1080p resolution and frame rates can be adjusted to 60, 50, 30 and 25fps. The field of view can be easily adjusted to 160, 127 and 90 degree as per need. If you start recording at 960p then frame rate can be adjusted to 48fps whereas if you need to slow down videos then it is good to switch to 720p. With 960p and 720p the FOV limits to 160 degrees. The video compression level can be also adjusted with ease by choosing high bit rates or normal mode.
-
- It is possible to record footage with Ghost S in high bit rate as well as in normal mode. The still quality is 12MP that offers crystal clear views. When you use normal bit rate at 1080p then edges of videos appear jagged and interlaced. But this issue can be slightly resolved with high bit rate settings. If you want to switch to time lapse mode then it is possible to adjust shoot timings to 10, 5, 3, 2, 1 and 0.5 second intervals. With burst mode setting, you can easily capture 5 or 10 impressive shots within each second.
-
-#### **Wi-Fi and Apps:**
-
- The Ghost S device comes with built in Wi-Fi facility and it assists in better remote control. You can also use interactive camera applications on Android and iOS platforms and the best thing to know is that they make footage adjustments much easier. With these advanced applications, users can easily set field of view, frame rate and exposure along with triggered recording settings. It is also possible to enjoy live view of shoots via smart phone applications but it may lead to little lag. You would love to copy all captured videos and photographs to your smart phone via these camera applications.
-
-#### **Battery Life and Storage:**
-
- This camera consists of a Micro SDXC type card slot that can easily support cards up to 64 GB capacities. Other than this, your camera possesses Mini-HDMI ports, Mini-USB ports and a large size battery that can support long hour recording. With this big size battery you can easily record up to 3.5 hours with 1080p settings at 30fps frame rate. And if you go ahead with reduced resolution levels then it is possible to record for much longer duration.
-
-#### **The Bottom Line:**
-
- There is no doubt to say that Drift Ghost S device comes with large screen and intuitive control options. You can also preview you footage before uploading it on any social media platform. Although this device is much costlier as compared to Ghost HD but at the same time possesses all incredible features as like impressive video recording modes. User's rate its battery life best among all action cameras as it can serve for many hours even with high resolution video mode. You will also get good support from company through emails and from their customer support section of official website. The versatility and unique design of Drift Ghost S make it a must buy device.
-
-#### **Recommend best video editing software for action camera users**
-
- If you want to take your video content to the next level with some video editing without being completely overwhelmed, you will definitely want to give [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) (originally Wondershare Video Editor) a try. The software offers a free trial period which allows you to try before buy. Well-designed intuitive interface enables anyone to master the program within minutes.
-
- What’s more, it has all the features you will need to make you feel like a pro. Simple editing functionalities like trimming, cropping, merging, adjusting speed, fast or slow motion, mosaic etc. will meet most of your demands. Besides all that, advanced features like split screen, green screen, filters&overlay effects, together with hundreds of licensed music, motion elements, transiton effects etc will definitely turn your video into something extraordinary with the least amount of effort. Check to video below to get an overview of this gorgeous video editing program:
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
@@ -426,3 +451,32 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-a-perfect-power-pair-lipo-and-drones/"><u>[New] Crafting a Perfect Power Pair  LiPo and Drones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-aviation-tech-syma-x8cs-capabilities/"><u>[Updated] Aviation Tech  Syma X8C's Capabilities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-review-of-powerdirector-pro-suite/"><u>[Updated] Comprehensive Review of PowerDirector Pro Suite</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-top-8-best-video-converter-on-iphonedesktop/"><u>[Updated] Top 8 Best Video Converter on iPhone/Desktop</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-choice-avi-player-with-multiplatform-support/"><u>2024 Approved  Best Choice Avi Player with Multiplatform Support</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-and-crafting-your-essential-guide-to-gopro-4k-edits/"><u>2024 Approved  Capturing and Crafting  Your Essential Guide to GoPro 4K Edits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-converting-tiktok-audio-into-desired-mobile-ringtones/"><u>2024 Approved  Converting TikTok Audio Into Desired Mobile Ringtones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aerial-adventures-with-husqvarnas-x4-fpv-quadcopter-for-2024/"><u>Aerial Adventures with Husqvarna's X4 FPV Quadcopter for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-quiet-curtains-the-pp-approach-to-invisible-sound-endings/"><u>Crafting Quiet Curtains  The PP Approach to Invisible Sound Endings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/easy-techniques-for-bending-digital-pictures/"><u>Easy Techniques for Bending Digital Pictures</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-image-and-video-output-on-the-fly-with-luts/"><u>Elevate Image & Video Output on the Fly with LUTs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhance-creativity-with-ios-camera-techniques/"><u>Enhance Creativity with iOS Camera Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-pick-a-vr-gear-is-mobile-mobility-more-attractive-than-cable-connections/"><u>How to Pick a VR Gear  Is Mobile Mobility More Attractive Than Cable Connections?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-budget-analysis-for-youtube-promotion/"><u>In 2024, Budget Analysis for YouTube Promotion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/inside-the-directors-cut-a-complete-review-of-powerdirector-2024/"><u>Inside the Director’s Cut  A Complete Review of PowerDirector 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ion-air-pro-3-visionary-revolutionizing-action-video/"><u>ION Air Pro 3 Visionary - Revolutionizing Action Video</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/joke-geniuses-at-your-service-free-of-charges/"><u>Joke Geniuses at Your Service  Free of Charges</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/kinemaster-tools-for-cohesive-narrative-flow/"><u>Kinemaster Tools for Cohesive Narrative Flow</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/minimize-time-maximize-results-with-this-srt-to-txt-hack/"><u>Minimize Time, Maximize Results with This SRT to TXT Hack</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-methods-to-speed-up-or-slow-down-songs-on-spotify/"><u>Prime Methods to Speed Up or Slow Down Songs on Spotify</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/samsung-ubd-k8500-review-2023-update/"><u>Samsung UBD-K8500 Review - 2023 Update</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/social-media-rhythms-to-mobile-melodies-setting-up-your-tiktok-ringtone/"><u>Social Media Rhythms to Mobile Melodies  Setting Up Your TikTok Ringtone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essential-facetune-walkthrough-for-stunning-photos/"><u>The Essential Facetune Walkthrough for Stunning Photos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-legally-sharing-tunes-on-instagram/"><u>The Ultimate Guide to Legally Sharing Tunes on Instagram</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-lgs-27in-widescreen-4k-display/"><u>The Ultimate Guide to LG's 27in Widescreen 4K Display</u></a></li>
+</ul></div>

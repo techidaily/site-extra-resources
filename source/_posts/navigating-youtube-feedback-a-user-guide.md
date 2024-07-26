@@ -1,7 +1,7 @@
 ---
 title: "\"Navigating YouTube Feedback  A User Guide\""
-date: 2024-05-24T05:28:32.693Z
-updated: 2024-05-25T05:28:32.693Z
+date: 2024-07-25T05:15:29.998Z
+updated: 2024-07-26T05:15:29.998Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Navigating YouTube Feedback: A User Guide\""
 excerpt: "\"This Article Describes Navigating YouTube Feedback: A User Guide\""
 keywords: "Youtube Feedback Guide,Navigate YouTube Reviews,Understanding YouTube Comments,YouTube Review Basics,Managing YouTube Ratings,Learning YouTube Feedback,Utilizing YouTube Responses"
-thumbnail: https://www.lifewire.com/thmb/w__b5H1ALARvE9PEAJwyPXbsJbU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1223359568-22a7c4307de54e4cb8138418119b6f50.jpg
+thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b238b26870bf6daec55fc8dc.jpg
 ---
 
 ## Navigating YouTube Feedback: A User Guide
@@ -22,12 +22,18 @@ All social media has a comment section where in those who watch or follow you ar
 
 If you are a content creator who makes product reviews, the comment section is also one that will help the brand. Most brands want to have a voice on matters that affect them. The most powerful way to do that on YouTube is to make amazing videos on topics dear to your heart. But you don't want people to think of you as merely a broadcaster. Social media requires that you be social and make intelligent comments on your videos and those of others, showing that you are trying, and engaging with your audience.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![how to view comments on youtube](https://images.wondershare.com/filmora/article-images/2022/11/how-to-view-comments-on-youtube.jpg)
 
 Unfortunately, when it comes to comment, YouTube can be a little clunky and time consuming especially as your channel grows and you have more comments to respond to.
 
 Want to become the master of moderation? Read on for everything you need to know about comments on YouTube, and get that conversation going. This is another article to help you make the best out of your YouTube channel.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What is YouTube Comment
 
 YouTube comments are an opportunity for the site's 1.7 million unique monthly visitors to share what they love, hate or simply must troll. It's like the internet own personal Thunderdome, but while it can be a place for negativity, YouTube comments can also be a powerful opportunity for positive community building and engagement.
@@ -44,6 +50,9 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Comment on a YouTube Video
 
 Moderating comments that appear on your video is important (and we'll get to the details of that in a minute) but as a brand, you'll want to pipe up with your own commentary, too.
@@ -54,6 +63,9 @@ Each comment you leave is another reference and exposure to your brand (and a ch
 
 Step1 Below the video itself, find the comment section.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
@@ -88,6 +100,9 @@ Step5 To edit your comment, click on the “vertical ellipsis” (three vertical
 
 Step6 Make the necessary edits and choose “Save”.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Highlighted Comments and Replies on YouTube
 
 Among the comments you see on a video, you might notice some that YouTube has labeled “Highlighted Comment.” that label is specific to you, and only appears in your comments list. YouTube that you have a particular interest in a section of comments.
@@ -112,6 +127,9 @@ Retrieve a comment so that you can share it with others outside of YouTube.
 
 Comments history also contains the link to the video where you've left the comment along with the date and time when the comment was made. Clicking on this link will open the video page with your comment highlighted at the top of the comment section.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
 ## Conclusion
@@ -150,3 +168,42 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-advanced-editor-techniques-from-the-experts-at-canva/"><u>[New] Advanced Editor Techniques From the Experts at Canva</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-authority-list-top-10-sports-and-football-streaming-applications-cutting-edge/"><u>[New] Authority List  Top 10 Sports & Football Streaming Applications, Cutting Edge</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-behind-the-scenes-the-magic-of-quantum-hdr/"><u>[New] Behind the Scenes  The Magic of Quantum HDR</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-titles-google-cardboards-most-immersive-vr-games/"><u>[New] Best Titles  Google Cardboard's Most Immersive VR Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-black-hero-4-or-ghost-s-choosing-the-best-motorsport-camera/"><u>[New] Black Hero 4 or Ghost-S  Choosing the Best Motorsport Camera</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-guide-to-formulating-successful-product-sponsorships-in-youtubespace/"><u>[Updated] A Guide to Formulating Successful Product Sponsorships in YouTubespace</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-assemble-visual-pieces-into-watchable-arrays/"><u>[Updated] Assemble Visual Pieces Into Watchable Arrays</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-boost-your-photography-game-complimentary-basics-plus-expandable-paid-lut-options/"><u>[Updated] Boost Your Photography Game  Complimentary Basics + Expandable Paid LUT Options</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comparative-livestrandexperience-analysis-twitch-and-youtube/"><u>[Updated] Comparative Livestrandexperience Analysis  Twitch & YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-scriptwriters-playbook/"><u>2024 Approved  A Scriptwriter's Playbook</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/achieve-sharp-footage-with-best-rated-camera-gimbals-for-2024/"><u>Achieve Sharp Footage with Best-Rated Camera Gimbals for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advancing-your-slow-motion-footage-using-gopro-hero-10-for-2024/"><u>Advancing Your Slow-Motion Footage Using GoPro Hero 10 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/amplifying-tiktok-videos-using-zoom-settings/"><u>Amplifying TikTok Videos Using Zoom Settings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/facetune-photos-app-complete-review-and-guide-2024/"><u>Facetune Photos App Complete Review and Guide 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/file-sync-up-the-5-fundamental-ways-for-your-computer-upload/"><u>File Sync-Up  The 5 Fundamental Ways for Your Computer Upload</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-device-to-inshot-a-guide-to-audio-integration/"><u>From Device to InShot  A Guide to Audio Integration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/implementing-look-up-tables-luts-to-elevate-design-work/"><u>Implementing Look-Up Tables (LUTs) to Elevate Design Work</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-break-free-from-periscope-unique-mobile-video-apps-for-smartphones/"><u>In 2024, Break Free From Periscope  Unique Mobile Video Apps for Smartphones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-constructing-premium-canon-chrono-images/"><u>In 2024, Constructing Premium Canon Chrono Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/low-cost-high-performance-capturing-adrenaline-in-motion/"><u>Low-Cost, High-Performance  Capturing Adrenaline in Motion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/masterful-tantalizing-titles-designer/"><u>Masterful Tantalizing Titles Designer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastery-in-migration-transitioning-to-macos-11-big-sur-effortlessly/"><u>Mastery in Migration  Transitioning to macOS 11 Big Sur Effortlessly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/maximizing-your-sound-the-best-microphones-for-podcasting/"><u>Maximizing Your Sound  The Best Microphones for Podcasting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/moving-data-quick-techniques-to-send-files-to-your-computer/"><u>Moving Data  Quick Techniques to Send Files to Your Computer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimal-performance-drives-top-10-srt-enhancements-for-pc-and-mac/"><u>Optimal Performance Drives  Top 10 SRT Enhancements for PC and Mac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premiere-virtual-artist-streams/"><u>Premiere Virtual Artist Streams</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/smooth-shadows-and-dynamics-motion-blur-techniques-explained/"><u>Smooth Shadows and Dynamics  Motion Blur Techniques Explained</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlining-avi-to-gif-transitions-on-pcmac-via-filmora-pro/"><u>Streamlining AVI to GIF Transitions on PC/Mac via Filmora Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-filmmakers-first-steps-learning-15-fundamental-shots/"><u>The Filmmaker's First Steps  Learning 15 Fundamental Shots</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-8-best-tripods-for-4k-camera/"><u>Top 8 Best Tripods for 4K Camera</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-secrets-to-selecting-prime-videographers/"><u>Unlocking Secrets to Selecting Prime Videographers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-the-secrets-of-impressive-hdr-portraits/"><u>Unlocking the Secrets of Impressive HDR Portraits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/voice-customization-leaders-including-the-magic-call-apps/"><u>Voice Customization Leaders  Including the Magic Call Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/voice-tactics-for-playstation-45-gamers/"><u>Voice Tactics for PlayStation 4/5 Gamers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/win-customer-trust-incorporating-these-20-marketing-expressions/"><u>Win Customer Trust  Incorporating These 20 Marketing Expressions</u></a></li>
+</ul></div>

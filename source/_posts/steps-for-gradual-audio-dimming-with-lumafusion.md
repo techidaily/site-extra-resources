@@ -1,7 +1,7 @@
 ---
 title: "Steps for Gradual Audio Dimming with Lumafusion"
-date: 2024-05-24T05:44:27.579Z
-updated: 2024-05-25T05:44:27.579Z
+date: 2024-07-25T05:44:38.706Z
+updated: 2024-07-26T05:44:38.706Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Steps for Gradual Audio Dimming with Lumafusion"
 excerpt: "This Article Describes Steps for Gradual Audio Dimming with Lumafusion"
 keywords: "Gradual Sound Reduction,Lumafusion Fade Technique,Audio Dimmer Steps,Gentle Volume Lowering,Lumafusion Soft Dimming,Progressive Audio Decrease,Slow Sound Attenuation"
-thumbnail: https://www.lifewire.com/thmb/sG54Bv1qiSAYEfTgb-qRImj7dlo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-524282176-5bf20266c9e77c0051af5697.jpg
+thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1fac24bb52cc0d4742cbe1750.jpg
 ---
 
 ## Steps for Gradual Audio Dimming with Lumafusion
@@ -22,12 +22,18 @@ LumaFusion, a mobile video editing powerhouse with an intuitive LumaFusion music
 
 Video editors should give LumaFusion a try if they want to use its compact LumaFusion fade audio editing feature. And before diving in head first with more sophisticated tools, novices who wish to learn how to edit video should give it considerable consideration. From the iOS camera roll, a cloud service like Dropbox or Google Device, or a USB drive linked to an iPhone or iPad, you may edit images and videos in addition to editing fade out audio LumaFusion. Learn more about the process here.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. How to Fade Audio with LumaFusion
 
 There are several capabilities in Luma Fusion that make precise editing possible, including ones that we haven't seen in other mobile editing tools, such keyframing for all effects. Beginning filmmakers may use LumaFusion to discover their voice via editing. Their work may be moved to a desktop software after their abilities have grown on mobile. To start fading audio using Luma Fusion, follow these steps:
 
 Step1 LumaFusion's default structure is comparable to that of many desktops editing programs: a multitrack timeline along the bottom, a media browser in the upper left, and a preview monitor that, depending on what you last chose, either displays a source clip or your timeline edit.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![lumafusion timeline](https://images.wondershare.com/filmora/article-images/2022/07/lumafusion-timeline.jpg)
 
 Step2 LumaFusion allows for the automated synchronization of up to 12 camera sources and several audio tracks. When a clip is loaded into LumaFusion, touch on it to open it in the viewer and then adjust the start and finish points.
@@ -76,14 +82,23 @@ In that window, you can select the MP3 format in the format customization box to
 
 ## Part 3\. Related FAQs about LumaFusion
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. How do you do transitions in LumaFusion?
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. How to you split audio and video in LumaFusion?
 
 Within the timeline, tap anywhere and move the mouse left or right to divide a clip in half. The audio from your clip may then be separated in the timeline. To do so, choose the audio channel and then click the pencil-shaped edit button at the bottom of the screen. This will display a variety of choices, including tools for pan, distortion, and volume. The audio editing features in LumaFusion are virtually as spectacular as the visual options—and just as intimidating.
@@ -100,12 +115,27 @@ Now that you've downloaded the software's executable file, the next step is to i
 
 Drag and drop your sound recordings from the media library to the timeline at the bottom of the program when they have been successfully imported. You may now see your audio files inside the timeline, where you can easily crop the video or reduce the audio of the relevant audio file. You may utilize basic to sophisticated editing techniques inside the program. To choose the basic editor, just click on the video file within the timeline as shown below:
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 ##### Step3 Apply Fade Effects
 
 The fade-in audio button inside your audio file may be seen when you just hover over the audio file within the timeline and look for the white circle filled with pink hue at the beginning and finish of your audio file. On the other hand, to choose the fade-out audio, click and drag the pink circle that appears on the opposite end of the audio file in the timeline that you have chosen to fade out the music file.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![apply fade effects](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 ##### Step4 Share and export
@@ -124,6 +154,18 @@ Go to Clip Defaults to do that. You may change the Title and Transition lengths 
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. How to you split audio and video in LumaFusion?
 
 Within the timeline, tap anywhere and move the mouse left or right to divide a clip in half. The audio from your clip may then be separated in the timeline. To do so, choose the audio channel and then click the pencil-shaped edit button at the bottom of the screen. This will display a variety of choices, including tools for pan, distortion, and volume. The audio editing features in LumaFusion are virtually as spectacular as the visual options—and just as intimidating.
@@ -152,3 +194,33 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-advanced-audio-segmentation-made-simple-a-premiere-guide/"><u>[New] Advanced Audio Segmentation Made Simple  A Premiere Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-amplify-imagery-with-simple-grading-tricks/"><u>[New] Amplify Imagery with Simple Grading Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capturing-moments-in-time-creating-dynamic-photo-videos-with-pixiz/"><u>[New] Capturing Moments in Time  Creating Dynamic Photo Videos with Pixiz</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-apex-sites-for-rich-3d-experiences-with-lustrous-text-art/"><u>[Updated] Apex Sites for Rich 3D Experiences with Lustrous Text Art</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-breakthrough-media-tools-to-complement-xsplit/"><u>[Updated] Breakthrough Media Tools to Complement XSplit</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-conquer-the-clouds-recording-and-preserving-streaming-radios/"><u>[Updated] Conquer the Clouds  Recording and Preserving Streaming Radios</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2022s-top-figure-skating-performances-for-2024/"><u>2022'S Top Figure Skating Performances for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2023s-elite-professionals-choosing-360-cameras-for-2024/"><u>2023'S Elite Professionals Choosing 360 Cameras for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-practices-leveraging-videos-to-boost-education/"><u>2024 Approved  Best Practices  Leveraging Videos to Boost Education</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/acid-pro-analysis-and-related-tools-reviewed/"><u>ACID Pro Analysis and Related Tools Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-live-stream-tools-xsplit-or-obs-for-2024/"><u>Best Live Stream Tools  XSplit or OBS for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bypassing-youtube-previews-the-invisible-button-hack-for-2024/"><u>Bypassing YouTube Previews  The Invisible Button Hack for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/casino-contestant-commentary/"><u>CASINO CONTESTANT COMMENTARY</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/engineer-eliciting-gags/"><u>Engineer Eliciting Gags</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harmonizing-scores-with-cinematic-vision-in-film-trailers/"><u>Harmonizing Scores with Cinematic Vision in Film Trailers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/implementing-luts-in-photoshop-cs6cc-an-in-depth-analysis/"><u>Implementing LUTs in Photoshop CS6/CC  An In-Depth Analysis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-21-edition-spotlight-the-new-era-of-sports-betting-in-vegas-pro/"><u>In 2024, '21 Edition Spotlight – The New Era of Sports Betting in Vegas Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-boxing-battlegrounds-live-vs-virtual-warriors/"><u>In 2024, Boxing Battlegrounds  Live VS Virtual Warriors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-audio-magic-a-windows-10-sound-journey/"><u>In 2024, Crafting Audio Magic  A Windows 10 Sound Journey</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-depth-analysis-of-slomo-video-capture-tool/"><u>In-Depth Analysis of SloMo Video Capture Tool</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leading-websites-for-digital-3d-text-with-a-golden-accent/"><u>Leading Websites for Digital 3D Text with a Golden Accent</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photoshop-stabilization-technique-utility-perspective/"><u>Photoshop Stabilization Technique  Utility Perspective</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/soaring-high-with-q500s-4k-vision/"><u>Soaring High with Q500's 4K Vision</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-image-transformation-with-polarr-editors-power/"><u>Ultimate Image Transformation with Polarr Editor's Power</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/understanding-and-implementing-audio-ebb-in-premiere-pro/"><u>Understanding and Implementing Audio Ebb in Premiere Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unrivaled-video-tech-for-apple-phones/"><u>Unrivaled Video Tech for Apple Phones</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "The Essential Companion for Advanced Win10 Users"
-date: 2024-05-24T04:43:18.969Z
-updated: 2024-05-25T04:43:18.969Z
+date: 2024-07-25T03:52:23.244Z
+updated: 2024-07-26T03:52:23.244Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Essential Companion for Advanced Win10 Users"
 excerpt: "This Article Describes The Essential Companion for Advanced Win10 Users"
 keywords: "\"Win10 Mastery Guide,Pro Windows 10 Tips,Expert User's Windows Handbook,Advanced Windows Settings,Power Users' Windows Book,Novice-Free Windows Learning,Elite Windows Tech Guide\""
-thumbnail: https://www.lifewire.com/thmb/NmUr_CUQe4MhD1o3QpyXYVxA7CE=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/LIFEWIRE-9-best-uninterrupted-power-supplies-4142625-dbe357e3a4f3419d89c9b0513dd466d1.jpg
+thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cba45388a4148935e78d13735.jpg
 ---
 
 ## The Essential Companion for Advanced Win10 Users
@@ -36,6 +36,9 @@ The start menu of Windows 10 is now resizable. It can be quote odd for many but 
 
 #### 2. Using Cortana in Windows 10
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![update win10 13](https://images.wondershare.com/windows10/update-win10-13.png)
 
 Cortana is finally here in Windows 10, taking control of the search functions as well as dishing out as much sass of the operating system in the same way with Windows Phone edition. On the other hand, by default, it will never listen and follow your commands.
@@ -62,6 +65,10 @@ Windows Key-Tab open and leaves open the new task view to show all the running a
 
 #### 5. Using Virtual Desktop Feature
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![taskview](https://images.wondershare.com/filmora/article-images/taskview.jpg)
 
 Virtual desktops are among the most favorites of most Windows users and it is one of the coolest features of the new Windows 10\. You could move programs between a virtual desktop & another. To make it happen, when you are running different desktops, you proceed to Task View through pressing the Windows Key-Tab combo. You right click the app you want to transfer from a virtual desktop to the other, choose “Move To” and then you move the app to the desktop where it should go.
@@ -96,12 +103,18 @@ Windows is nowhere to rock the world! If you are so excited about updating your 
 
 #### 1. Personalize the Start Menu
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![a8](https://images.wondershare.com/windows10/a8.png)
 
 The start menu of Windows 10 is now resizable. It can be quote odd for many but it is really surprising to know that with Windows 10, you can now customize the start menu and change its size to the extent you want. You now have the option to make it taller or wider as you like. If you wish to have the start menu taking up the whole left portion of the screen of your laptop or you want a thin strip transversely the taskbar, well that is now possible with Windows 10\. The taskbar is also resizable and that means you have the ability to some weird and pretty cool stuff with your device. You will surely find that having a resizable Start Menu is cool.
 
 #### 2. Using Cortana in Windows 10
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![update win10 13](https://images.wondershare.com/windows10/update-win10-13.png)
 
 Cortana is finally here in Windows 10, taking control of the search functions as well as dishing out as much sass of the operating system in the same way with Windows Phone edition. On the other hand, by default, it will never listen and follow your commands.
@@ -120,6 +133,9 @@ On the other hand, Microsoft did not release similar apps that are optimized for
 
 #### 4. New Keyboard Shortcuts
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Windows 10 keyboard shortcuts](https://images.wondershare.com/filmora/article-images/Windows-10-keyboard-shortcuts.png)
 
 Most of them include the Windows key. The New window-snapping choices allow you not just to fill partially the screen on one side but also the screen quadrant. Also, you may tap the Windows key downward and hit “Right Arrow” and the “Up Arrow”. With that, the program window would move to the top quadrant at the right side of the screen.
@@ -128,6 +144,9 @@ Windows Key-Tab open and leaves open the new task view to show all the running a
 
 #### 5. Using Virtual Desktop Feature
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![taskview](https://images.wondershare.com/filmora/article-images/taskview.jpg)
 
 Virtual desktops are among the most favorites of most Windows users and it is one of the coolest features of the new Windows 10\. You could move programs between a virtual desktop & another. To make it happen, when you are running different desktops, you proceed to Task View through pressing the Windows Key-Tab combo. You right click the app you want to transfer from a virtual desktop to the other, choose “Move To” and then you move the app to the desktop where it should go.
@@ -136,6 +155,9 @@ With Windows 10, it is now easy to create several desktops as well as run applic
 
 #### 6. New Mail App
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![a7](https://images.wondershare.com/windows10/a7.png)
 
 This is quite simple yet most people make use of the very capable contemporary email client that has been included in the latest editions of Windows. The email client that has been included in Windows 10 now comes with collapsible conversation view and email preview panel. Plus, it integrates the buttons for new contact and calendar apps. You could simply add different mail accounts from various providers.
@@ -162,12 +184,18 @@ Windows is nowhere to rock the world! If you are so excited about updating your 
 
 #### 1. Personalize the Start Menu
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![a8](https://images.wondershare.com/windows10/a8.png)
 
 The start menu of Windows 10 is now resizable. It can be quote odd for many but it is really surprising to know that with Windows 10, you can now customize the start menu and change its size to the extent you want. You now have the option to make it taller or wider as you like. If you wish to have the start menu taking up the whole left portion of the screen of your laptop or you want a thin strip transversely the taskbar, well that is now possible with Windows 10\. The taskbar is also resizable and that means you have the ability to some weird and pretty cool stuff with your device. You will surely find that having a resizable Start Menu is cool.
 
 #### 2. Using Cortana in Windows 10
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![update win10 13](https://images.wondershare.com/windows10/update-win10-13.png)
 
 Cortana is finally here in Windows 10, taking control of the search functions as well as dishing out as much sass of the operating system in the same way with Windows Phone edition. On the other hand, by default, it will never listen and follow your commands.
@@ -178,6 +206,9 @@ While you are poking around the Cortana’s options, you may dive in the Noteboo
 
 #### 3. Additional Apps you should try
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![xbox games windows10](https://images.wondershare.com/windows10/xboy-games-windows10-1.png)
 
 The current Windows 10’s preview comes with some interesting apps like the new Xbox app, Insider Hub, Project Spartan web browser, Windows Feedback and a lot more. Though they are good apps to use when you want to get started in using Windows 10, Microsoft is likewise making available the preview of touch-friendly editions of Microsoft Word, Excel as well as the PowerPoint. All of these are known to be universal apps and that means similar code is running on the phones, PCs and tablets.
@@ -186,6 +217,9 @@ On the other hand, Microsoft did not release similar apps that are optimized for
 
 #### 4. New Keyboard Shortcuts
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Windows 10 keyboard shortcuts](https://images.wondershare.com/filmora/article-images/Windows-10-keyboard-shortcuts.png)
 
 Most of them include the Windows key. The New window-snapping choices allow you not just to fill partially the screen on one side but also the screen quadrant. Also, you may tap the Windows key downward and hit “Right Arrow” and the “Up Arrow”. With that, the program window would move to the top quadrant at the right side of the screen.
@@ -208,6 +242,9 @@ This is quite simple yet most people make use of the very capable contemporary e
 
 #### 7. New Edge Browser
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edge](https://images.wondershare.com/filmora/article-images/edge.jpg)
 
 Most users were tired and sick of the Internet Explorer’s incompatibility with a few newer websites. They also hate the sluggish performance of the previous versions. While the latest editions of Internet Explorer have created some significant gains in these aspects, the new Edge Browser of Windows 10 can make a neat and perfect break and it also offers better speed as well as new compatibility which is likely to surprise you. Besides, it now comes with a number of tools that are not available in Internet Explorer and these include the site annotation, extensions and reading view.
@@ -234,6 +271,9 @@ The start menu of Windows 10 is now resizable. It can be quote odd for many but 
 
 #### 2. Using Cortana in Windows 10
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![update win10 13](https://images.wondershare.com/windows10/update-win10-13.png)
 
 Cortana is finally here in Windows 10, taking control of the search functions as well as dishing out as much sass of the operating system in the same way with Windows Phone edition. On the other hand, by default, it will never listen and follow your commands.
@@ -252,6 +292,10 @@ On the other hand, Microsoft did not release similar apps that are optimized for
 
 #### 4. New Keyboard Shortcuts
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Windows 10 keyboard shortcuts](https://images.wondershare.com/filmora/article-images/Windows-10-keyboard-shortcuts.png)
 
 Most of them include the Windows key. The New window-snapping choices allow you not just to fill partially the screen on one side but also the screen quadrant. Also, you may tap the Windows key downward and hit “Right Arrow” and the “Up Arrow”. With that, the program window would move to the top quadrant at the right side of the screen.
@@ -260,6 +304,9 @@ Windows Key-Tab open and leaves open the new task view to show all the running a
 
 #### 5. Using Virtual Desktop Feature
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![taskview](https://images.wondershare.com/filmora/article-images/taskview.jpg)
 
 Virtual desktops are among the most favorites of most Windows users and it is one of the coolest features of the new Windows 10\. You could move programs between a virtual desktop & another. To make it happen, when you are running different desktops, you proceed to Task View through pressing the Windows Key-Tab combo. You right click the app you want to transfer from a virtual desktop to the other, choose “Move To” and then you move the app to the desktop where it should go.
@@ -310,3 +357,44 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-audio-docking-systems-for-immersive-experience/"><u>[New] Audio Docking Systems for Immersive Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capture-creativity-with-smartphones-best-apps/"><u>[New] Capture Creativity with Smartphones' Best Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-advanced-techniques-for-precise-online-image-cropping/"><u>[Updated] Advanced Techniques for Precise Online Image Cropping</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-android-gallery-upload-on-iphone-device/"><u>[Updated] Android Gallery Upload on iPhone Device</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capturing-impactful-voice-top-tips-for-podcasting-interviews-on-idevices/"><u>[Updated] Capturing Impactful Voice  Top Tips for Podcasting Interviews on iDevices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-av1-decoded-a-novices-introduction/"><u>2024 Approved  AV1 Decoded  A Novice's Introduction</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beginners-blueprint-unlocking-ps-magic/"><u>2024 Approved  Beginner's Blueprint  Unlocking PS Magic</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capture-the-stars-top-skies-sites-reviewed/"><u>2024 Approved  Capture the Stars  Top Skies Sites Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-complete-breakdown-the-dji-inspire-1-uav/"><u>2024 Approved  Complete Breakdown  The DJI Inspire 1 UAV</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/30plus-metaverse-quotes-to-inspire-you-include-ar-and-vr-for-2024/"><u>30+ Metaverse Quotes to Inspire You [Include AR & VR] for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/5-best-finger-tech-for-virtual-reality-mastery/"><u>5 Best Finger Tech for Virtual Reality Mastery</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/artistry-in-motion-compelling-selection-of-3d-animation-software-for-2024/"><u>Artistry in Motion  Compelling Selection of 3D Animation Software for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/assessing-vlcs-competitors-and-contenders/"><u>Assessing VLC's Competitors and Contenders</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/asus-mg28uq-monitor-review-bridging-the-high-res-divide-for-2024/"><u>ASUS MG28UQ Monitor Review  Bridging the High-Res Divide for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-your-gameplay-tips-for-increased-zoom-range-for-2024/"><u>Boosting Your Gameplay  Tips for Increased Zoom Range for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/clearing-clutter-background-removal/"><u>Clearing Clutter  Background Removal</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comparing-cloud-providers-who-offers-what-price-for-2024/"><u>Comparing Cloud Providers  Who Offers What Price for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/connect-and-conquer-metagames-top-friendly-games/"><u>Connect and Conquer  Metagame's Top Friendly Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/driving-down-the-charts-a-compreranble-seo-approach-for-podcasters/"><u>Driving Down the Charts  A Compreranble Seo Approach for Podcasters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/forging-a-future-in-artistic-expression-and-commerce/"><u>Forging a Future in Artistic Expression and Commerce</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gopro-and-yi-4k-battle-royale-of-high-resolution-cams-in-23/"><u>GoPro and Yi 4K  Battle Royale of High-Resolution Cams in '23</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-beyond-binary-boundaries-unveiling-metaverse-vs-multiverse/"><u>In 2024, Beyond Binary Boundaries  Unveiling Metaverse V/S Multiverse</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-complete-analysis-of-theta-ss-advanced-tech/"><u>In 2024, Complete Analysis of Theta S's Advanced Tech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-captivating-intros-for-podcasts/"><u>In 2024, Crafting Captivating Intros for Podcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/magnify-memories-unaltered-resolution/"><u>Magnify Memories  Unaltered Resolution</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastery-in-making-advanced-tiktok-editing-techniques/"><u>Mastery in Making  Advanced TikTok Editing Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-quest-for-clean-photo-archives/"><u>Navigating the Quest for Clean Photo Archives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/overcoming-firs-display-issues-in-face-to-face-conferencing/"><u>Overcoming Fir's Display Issues in Face-to-Face Conferencing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/palette-perfection-unveiling-top-5-premium-color-tvs/"><u>Palette Perfection  Unveiling Top 5 Premium Color TVs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/samsung-photo-editor-review-pros-con-features-and-guide/"><u>Samsung Photo Editor Review - Pros, Con, Features, and Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/selecting-the-perfect-screen-ultrawide-or-uhd-4k/"><u>Selecting the Perfect Screen  UltraWide or UHD 4K?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-iphone-guide-creating-and-editing-languid-video-sequences/"><u>Step by Step iPhone Guide  Creating & Editing Languid Video Sequences</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-of-dramatic-hdr-portraits-explained/"><u>The Art of Dramatic HDR Portraits Explained</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-metaverse-mirth-making-manual-top-funny-imagery-and-techniques/"><u>The Metaverse Mirth-Making Manual  Top Funny Imagery & Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-playstation-audio-modification-guidebook/"><u>The Ultimate PlayStation Audio Modification Guidebook</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-potential-through-virtualization/"><u>Unlocking Potential Through Virtualization</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/youtube-ringtone-archives-essential-download-sites-revealed/"><u>YouTube Ringtone Archives  Essential Download Sites Revealed</u></a></li>
+</ul></div>

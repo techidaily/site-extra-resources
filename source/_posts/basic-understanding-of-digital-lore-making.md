@@ -1,7 +1,7 @@
 ---
 title: "Basic Understanding of Digital Lore Making"
-date: 2024-05-24T04:17:08.792Z
-updated: 2024-05-25T04:17:08.792Z
+date: 2024-07-25T02:59:42.308Z
+updated: 2024-07-26T02:59:42.308Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Basic Understanding of Digital Lore Making"
 excerpt: "This Article Describes Basic Understanding of Digital Lore Making"
 keywords: "Digital Lore Basics,Lore Creation 101,Essential Lore Making,Digitally Crafting Lore,Foundations in Lore Art,Learning Lore Design,Intro to Lore Digitalization"
-thumbnail: https://www.lifewire.com/thmb/VchxSz7CYi1Jqs_eYyopTIegZes=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-557696737-5c18f24146e0fb000185d88e.jpg
+thumbnail: https://thmb.techidaily.com/afda68c97ad8ab431f217d1a649d9d5c1081b7b5e12422de4ab2672dba23567f.jpg
 ---
 
 ## Basic Understanding of Digital Lore Making
@@ -24,6 +24,9 @@ The manner in wherein stories are shared, however, has altered. **Digital storyt
 
 This article will focus on digital storytelling, including the development and practices that can help you create digital storytelling videos quickly and easily.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## Part I: Definition of Digital Storytelling
 
 **“Digital storytelling”** is a simple, creative method by which individuals with limited or no experience in virtual machine filmmaking learn how to show a personal story in the form of multiple films. The resources utilized to express a story and convey a message include films, photography, animation, and music. These stories may distribute more widely and swiftly than ever through online platforms like webpages, journals, and social media sharing sites.
@@ -38,14 +41,24 @@ Dana Atchley and Joe Lambert of the Center for Digital Storytelling started the 
 
 High goals and outdated technologies coexisted throughout this period. Browsers were quite straightforward at the time, and dial-up remained still in use. There were no devices for accessing the internet, and most individuals read the digital narrative on their desktop computers.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![tools and tips for virtual storytelling](https://images.wondershare.com/filmora/article-images/2022/11/tools-and-tips-virtual-storytelling-2.jpg)
 
 In this regard, the Center for Digital Storytelling developed a digital story that emphasized first-person narratives that framed memories as potent stories using visuals, audio, and music. The capacity to add graphics and narration to stories gives them a unique significance for both the author and the audience of virtual storytelling.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Power of Digital Storytelling Compared to Traditional Storytelling
 
 Compared to traditional storytelling, digital storytelling is far more integrative and incorporates non-linguistic factors that give rise to new narratives. Images, visual effects, and soundtracks are not merely additions to the story; they are crucial and inseparable components. As a result, digital storytelling demands variety, multisensory stimulation, and a variety of media channels.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![online view of modern storytelling](https://images.wondershare.com/filmora/article-images/2022/11/online-modern-storytelling-view-3.jpg)
 
 While oral and written stories in traditional storytelling will only focus on listening and reading abilities, digital storytelling will emphasize other skills like interaction by encouraging knowledge acquisition and technology literacy by interacting with technological sources, thus possessing the power of storytelling.
@@ -54,6 +67,9 @@ While oral and written stories in traditional storytelling will only focus on li
 
 **_Note:_** Visit [**Wondershare Filmora9: Discover the Power of Storytelling**](https://youtu.be/eryg29f294U) if you're interested in learning how to create a digital storytelling video example.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part III. Practices of Digital Storytelling
 
 People are enticed to interact with stories and take measures as a result of seeing them because of the structure of digital storytelling and the ease with which they are shared.
@@ -68,6 +84,9 @@ The ability to convey a digital story is essential in today's schools since it a
 
 Digital storytelling creates online connections with students and provides feedback on their comprehension and progress. Students can learn crucial literacy skills like first-person viewpoint and narrative voice by telling personal experiences.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![school session of digital narrative](https://images.wondershare.com/filmora/article-images/2022/11/school-session-digital-narrative-4.jpg)
 
 Further than language arts and media studies, digital storytelling is utilized to teach other curricular topics. To assist themselves and their audience in understanding better why a famous person behaved the way they did, students could, for instance, recount an incident from their lives.
@@ -80,6 +99,9 @@ Through several chances for engagement, a strong digital story encourages viewer
 
 Utilizing cutting-edge contemporary tools and the potency of an effective marketing tale, youtube digital storytelling may connect with an intended audience on a whole new level. Examples of digital storytelling videos about your brand draw in and engage your target market.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![the power of storytelling in the marketing world](https://images.wondershare.com/filmora/article-images/2022/11/the-power-of-storytelling-marketing-world-5.jpg)
 
 Using specialized storylines, you may utilize brand storytelling to enhance your company's appeal, humanize it, and highlight its core values. Virtual storytelling was once primarily used to describe filmmaking. It has developed to stand for marketing, promotion, and advertising by businesses and marketing teams.
@@ -152,6 +174,9 @@ The ability to convey a digital story is essential in today's schools since it a
 
 Digital storytelling creates online connections with students and provides feedback on their comprehension and progress. Students can learn crucial literacy skills like first-person viewpoint and narrative voice by telling personal experiences.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![school session of digital narrative](https://images.wondershare.com/filmora/article-images/2022/11/school-session-digital-narrative-4.jpg)
 
 Further than language arts and media studies, digital storytelling is utilized to teach other curricular topics. To assist themselves and their audience in understanding better why a famous person behaved the way they did, students could, for instance, recount an incident from their lives.
@@ -180,10 +205,25 @@ Social networking platforms can also convey stories about your company, products
 
 Digital storytelling is utilized in numerous contexts, such as when victims of abuse or war share their stories to heal and enlighten others or when people with different developmental disabilities use graphics and music to tell their stories when text-based storytelling isn't an option.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube digital storytelling video examples in public](https://images.wondershare.com/filmora/article-images/2022/11/public-youtube-digital-storytelling-video-examples-7.jpg)
 
 Additionally, youtube digital storytelling in public relations campaigns is crucial because it enables businesses to better engage with their target market and ultimately sway their opinions toward their marketing objectives. Another illustration would be that immigrants and newcomers are sharing their stories or the stories of their families to promote advocacy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Part IV. Essential Techniques for Making an Effective Digital Storytelling Video
 
 Digital storytelling, at its best, can be a potent tool for democratizing the record by involving individuals and groups whose views may otherwise go unheard.
@@ -206,6 +246,9 @@ With the most recent improvements, [Wondershare Filmora](https://tools.techidail
 
 (DOWNLOAD ICONS - Try it free)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **_Note:_** Visit [**Filmora**](https://www.prnewswire.com/news-releases/boost-video-storytelling-with-wondershare-filmora-11-5-through-powerful-features-and-a-community-to-inspire-301598990.html) for more information on creating a digital storytelling video.
@@ -246,3 +289,28 @@ Everybody has a narrative, but the craft of digital storytelling can transform a
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-beat-junkies-essentials-online-cost-free-software/"><u>[Updated] Beat Junkies' Essentials  Online, Cost-Free Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-analysis-simplified-hdr-techniques/"><u>[Updated] Comprehensive Analysis  Simplified HDR Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-treasure-trove-of-discounts-top-10-sites-for-box-purchases/"><u>2024 Approved  A Treasure Trove of Discounts  Top 10 Sites for Box Purchases</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-list-of-android-podcast-picks-for-2024/"><u>A-List of Android Podcast Picks for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/access-immediate-professional-results-free-plus-purchased-luts-for-canon/"><u>Access Immediate Professional Results - FREE + Purchased LUTs for Canon</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/choosing-the-right-gimbal-dslr-vs-mirrorless-edition/"><u>Choosing the Right Gimbal  DSLR vs Mirrorless Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cosmic-comforts-top-10-starry-night-accessories-for-sj4000-for-2024/"><u>Cosmic Comforts  Top 10 Starry Night Accessories for SJ4000 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-beginners-handbook-to-harnessing-the-power-of-movie-maker-in-windows-11/"><u>In 2024, A Beginner's Handbook to Harnessing the Power of Movie Maker in Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-amplify-your-videos-the-best-text-effects-guide/"><u>In 2024, Amplify Your Videos  The Best Text Effects Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-analyzing-pewdiepies-financial-growth-and-revenue/"><u>In 2024, Analyzing PewDiePie’s Financial Growth and Revenue</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capturing-more-with-less-lgs-360-camera-redefined-and-reviewed/"><u>In 2024, Capturing More with Less - LG's 360 Camera Redefined & Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-clearing-up-distorted-web-media-playback/"><u>In 2024, Clearing Up Distorted Web Media Playback</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leading-video-to-twitter-platforms/"><u>Leading Video To Twitter Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-uploading-srt-text-in-digital-communities/"><u>Mastering the Art of Uploading SRT Text in Digital Communities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premier-screen-captures-no-cost-pubg-sets/"><u>Premier Screen Captures  No-Cost PUBG Sets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-guide-retrieving-past-reddit-threads-instantly/"><u>Quick Guide  Retrieving Past Reddit Threads Instantly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/skills-required-how-to-gain-free-framed-vids/"><u>Skills Required  How To Gain Free Framed Vids</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-of-zooming-in-youtube-videos/"><u>The Art of Zooming in YouTube Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transforming-photos-with-simple-bg-removal-in-picsart/"><u>Transforming Photos with Simple Bg Removal in Picsart</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vlc-for-pc-and-mac-universal-media-solution/"><u>VLC for PC & Mac  Universal Media Solution</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/voice-to-text-mastery-for-streamlined-workflows-using-office-suites-powerful-features/"><u>Voice-to-Text Mastery for Streamlined Workflows Using Office Suite's Powerful Features</u></a></li>
+</ul></div>

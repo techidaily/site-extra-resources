@@ -1,7 +1,7 @@
 ---
 title: "Complete Insight Into Ricoh Theta S Camera"
-date: 2024-05-24T03:32:04.369Z
-updated: 2024-05-25T03:32:04.369Z
+date: 2024-07-25T01:30:49.576Z
+updated: 2024-07-26T01:30:49.576Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Complete Insight Into Ricoh Theta S Camera"
 excerpt: "This Article Describes Complete Insight Into Ricoh Theta S Camera"
 keywords: "Ricoh Theta Lens Guide,Theta S Image Quality,Theta S User Manual,Understanding Theta S Features,Theta S Battery Life,Optimal Use of Theta S,Theta S Camera Settings"
-thumbnail: https://www.lifewire.com/thmb/6z0a8cFMVaZA_GXCSlvB66vbixE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Recycling-Center-GettyImages-184843198-5946db965f9b58d58a547958.jpg
+thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c1487439cf5694d3a9ccaf02.jpg
 ---
 
 ## Complete Insight Into Ricoh Theta S Camera
@@ -44,12 +44,18 @@ Ricoh has recently launched its most awaited spherical camera unit in form of Th
 
 **Design and Built**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Ricoh Theta S - Details](https://images.wondershare.com/filmora/article-images/ricoh-theta-s-design.png)
 
 Theta S is going to serve like a push button to the growing world of spherical imaging where one can grab the whole 360 degree scene from any location and later it is possible to use zoom and pan features over these photos. All captured photographs can be easily viewed upon Mac, PC, Android as well as iOS devices by simply installing Theta apps developed by Ricoh itself. You will be glad to know that Ricoh theta comes with 4GB memory support that is enough to collect unlimited memories everyday. In order to transfer your photos to other devices you can use Wi-Fi connectivity directly. If we talk about the size of this spherical imaging device then it is measured to be 1.65 x 5.08 x 9 inches with a total weight of 20 pounds; no doubt to say that this tinny device can be held on tours easily.
 
 **How to use**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Ricoh Theta S - How to use](https://images.wondershare.com/filmora/article-images/ricoh-theta-S-details.jpg)
 
 This Theta S camera unit can be easily used by beginners as well as professional photographers because of its incredibly interactive features. Simply turn on your camera by pressing the button provided and release the shutter; as it used to cover spherical images so you are advised to hold camera till the time it captures scene around you. The Wi-Fi facility as well as the self-timer feature is very handy so you need not to worry about anything. It can be directly connected to Android as well as iOS devices with available wireless network and one can change the settings of device as per need. It is possible to enjoy live previews of captured photographs but this facility is not available for videos; however, it is possible to transfer everything to PC via USB or HDMI port so that direct streaming can be enjoyed.
@@ -83,6 +89,9 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | Cloud service for image sharing                                                        |                                                                       |
 | Remote control (via App)                                                               |                                                                       |
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3 Basic specs of Ricoh Theta S
 
 | **Full name**            | Ricoh Theta S                                             |                       |                                                                                                                                                                       |
@@ -135,12 +144,18 @@ Ricoh has recently launched its most awaited spherical camera unit in form of Th
 
 **Design and Built**
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Ricoh Theta S - Details](https://images.wondershare.com/filmora/article-images/ricoh-theta-s-design.png)
 
 Theta S is going to serve like a push button to the growing world of spherical imaging where one can grab the whole 360 degree scene from any location and later it is possible to use zoom and pan features over these photos. All captured photographs can be easily viewed upon Mac, PC, Android as well as iOS devices by simply installing Theta apps developed by Ricoh itself. You will be glad to know that Ricoh theta comes with 4GB memory support that is enough to collect unlimited memories everyday. In order to transfer your photos to other devices you can use Wi-Fi connectivity directly. If we talk about the size of this spherical imaging device then it is measured to be 1.65 x 5.08 x 9 inches with a total weight of 20 pounds; no doubt to say that this tinny device can be held on tours easily.
 
 **How to use**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Ricoh Theta S - How to use](https://images.wondershare.com/filmora/article-images/ricoh-theta-S-details.jpg)
 
 This Theta S camera unit can be easily used by beginners as well as professional photographers because of its incredibly interactive features. Simply turn on your camera by pressing the button provided and release the shutter; as it used to cover spherical images so you are advised to hold camera till the time it captures scene around you. The Wi-Fi facility as well as the self-timer feature is very handy so you need not to worry about anything. It can be directly connected to Android as well as iOS devices with available wireless network and one can change the settings of device as per need. It is possible to enjoy live previews of captured photographs but this facility is not available for videos; however, it is possible to transfer everything to PC via USB or HDMI port so that direct streaming can be enjoyed.
@@ -153,6 +168,9 @@ This device is ideal to use for gatherings, functions such as weddings, birthday
 
 **Image and Video Quality**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Ricoh Theta S image quality](https://images.wondershare.com/filmora/article-images/ricoh-theta-s-image-quality.png)
 
 The picture quality is simply outstanding and is rated to be much better than all mid-range Smartphone. It captures colors in very dynamic and decent manner with more numbers if pixels in every frame. This device is known for its ability to capture the 1080p type footage with 30fps quality and the resulting images are easy to edit with the latest applications.
@@ -161,6 +179,125 @@ The picture quality is simply outstanding and is rated to be much better than al
 
 As this device provides easy connectivity to other iOS, Android devices as well as to PCs so it becomes much easier to transfer captured images and videos for further editing. Theta App allows users to create wonders out of spherical imaging where panning and zooming features are commonly used. The desktop version of Theta app limits users to just view and share their data without any editing feature whereas the third app known as Theta+ Video is capable enough to work for editing on iOS devices.
 
+## Part 2 Pros and Cons at a glance
+
+| Pros                                                                                   | Cons                                                                  |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Lightweight and compact                                                                | Only 8GB of memory, Battery and storage can't be replaced or upgraded |
+| Reasonable price range                                                                 | Video image quality is only modest                                    |
+| Wi-Fi and mobile apps, you can control the camera, and edit and share photos and video | Easy to use                                                           |
+| Video-editing app facility is available for iOS devices only                           | Not waterproof                                                        |
+| Upload panoramas to Google Street View                                                 |                                                                       |
+| Great still image quality                                                              |                                                                       |
+| Cloud service for image sharing                                                        |                                                                       |
+| Remote control (via App)                                                               |                                                                       |
+
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
+## Part 3 Basic specs of Ricoh Theta S
+
+| **Full name**            | Ricoh Theta S                                             |                       |                                                                                                                                                                       |
+| ------------------------ | --------------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Manufacturer**         | Ricoh                                                     |                       |                                                                                                                                                                       |
+| **Price**                | Official: $349.95                                         |                       |                                                                                                                                                                       |
+| **Date of Availability** | 30/10/2015                                                |                       |                                                                                                                                                                       |
+| **Basic Specifications** |                                                           |                       |                                                                                                                                                                       |
+| **Weight**               | 125 grams including batteries                             | **Size**              | (44 x 130 x 23) mm                                                                                                                                                    |
+| **Memory**               | 8G                                                        | **Accessible**        | Wi-Fi, HDMI and well as USB 2.0 support                                                                                                                               |
+| **Battery Life**         | 260 shots/Build-in battery                                | **Body material**     | High Quality Plastic                                                                                                                                                  |
+| **Sensor type**          | CMOS                                                      | **Lens**              | Dual f/2.0 lens                                                                                                                                                       |
+| **Aspect Ratio**         | 4:3 (Leading to much improved view)                       | **Tripod Mount**      | YES                                                                                                                                                                   |
+| **Image Resolution**     | 5376 x 2688 (14.5 MP, Other), 2048 x 1024 (2.1 MP, Other) | **Video resolution**  | 1920x1080 (30p) 1280x720 (15p)                                                                                                                                        |
+| **Image format**         | JPEG (EXIF 2.3)- The most commonly used format.           | **Video File Format** | Live streaming via HDMI supported (L:1920x1080/30fps M: 1280x720/30fps S: 720x480/30fps); Live streaming (USB): MP4 (video: MPEG-4 AVC); Motion JPEG (1280x720/15fps) |
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
+## Part 4 Should I buy Ricoh Theta S
+
+Theta S is one of the most useful products for photography lovers whether they are beginners or professionals. This device allows users to capture stunning shots with 360 degree focus and you can even zoom each and every part of these captured images. With all such amazing facilities, it definitely becomes a must buy product and you can order it online as soon as possible at an affordable price range.
+
+**Check this video to get detailed information about Ricoh Theta S**
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+##### Liza Brown
+
+ Mar 27, 2024• Proven solutions
+
+Large numbers of people are talking about Ricoh these days so it becomes essential to check out its review to get information about its incredible feature so that you can plan to buy it soon.
+
+**Related article:** [Top 10 Affordable 360 Degree Camera >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+* [Part 1: Complete Review of Ricoh Theta S](#part1)
+
+* [Part 2: Pros and Cons at a glance](#part2)
+* [Part 3: Basic specs of Ricoh Theta S](#part3)
+* [Part 4: Should I buy](#part4)
+
+## Part 1 Complete Review of Ricoh Theta S
+
+**Brief Introduction about Ricoh Theta S**
+
+Ricoh has recently launched its most awaited spherical camera unit in form of Theta S that comes with compact size, has very specific usage and is capable enough to capture outstanding spherical photos. It is time to capture an entire room including ceilings, floor and all four walls in just one click by using Theta 360-degree capturing abilities and the best thing to know is that Theta S achieves all these goals with a limited price tag of $349.95\. Presently photography lovers are crazy to enter inside the world of spherical imaging because it is going to be the most wonderful and rapidly growing segment of videography as well as photography space. Although there are so many designs of spherical cameras available in market already and most of these can focus on horizontal axis not on vertical ground, Theta S has been developed with all interesting and immersive capturing abilities in all directions with amazing clarity of view. There is no doubt to say that Theta S is one of the most powerful solutions for 360-degree imagery needs of professionals as well as beginners.
+
+**Design and Built**
+
+![Ricoh Theta S - Details](https://images.wondershare.com/filmora/article-images/ricoh-theta-s-design.png)
+
+Theta S is going to serve like a push button to the growing world of spherical imaging where one can grab the whole 360 degree scene from any location and later it is possible to use zoom and pan features over these photos. All captured photographs can be easily viewed upon Mac, PC, Android as well as iOS devices by simply installing Theta apps developed by Ricoh itself. You will be glad to know that Ricoh theta comes with 4GB memory support that is enough to collect unlimited memories everyday. In order to transfer your photos to other devices you can use Wi-Fi connectivity directly. If we talk about the size of this spherical imaging device then it is measured to be 1.65 x 5.08 x 9 inches with a total weight of 20 pounds; no doubt to say that this tinny device can be held on tours easily.
+
+**How to use**
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Ricoh Theta S - How to use](https://images.wondershare.com/filmora/article-images/ricoh-theta-S-details.jpg)
+
+This Theta S camera unit can be easily used by beginners as well as professional photographers because of its incredibly interactive features. Simply turn on your camera by pressing the button provided and release the shutter; as it used to cover spherical images so you are advised to hold camera till the time it captures scene around you. The Wi-Fi facility as well as the self-timer feature is very handy so you need not to worry about anything. It can be directly connected to Android as well as iOS devices with available wireless network and one can change the settings of device as per need. It is possible to enjoy live previews of captured photographs but this facility is not available for videos; however, it is possible to transfer everything to PC via USB or HDMI port so that direct streaming can be enjoyed.
+
+**Where to use**
+
+![Ricoh Theta S for Party](https://images.wondershare.com/filmora/article-images/ricoh-theta-s-for-party.jpg)
+
+This device is ideal to use for gatherings, functions such as weddings, birthday parties and dinner halls as it can capture the colorful events with finest details. You can also attach this camera unit to a drone and let it fly in the air so that everything can be captured in an outstanding way; it will result quality images in all situations.
+
+**Image and Video Quality**
+
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
+![Ricoh Theta S image quality](https://images.wondershare.com/filmora/article-images/ricoh-theta-s-image-quality.png)
+
+The picture quality is simply outstanding and is rated to be much better than all mid-range Smartphone. It captures colors in very dynamic and decent manner with more numbers if pixels in every frame. This device is known for its ability to capture the 1080p type footage with 30fps quality and the resulting images are easy to edit with the latest applications.
+
+**How to Edit**
+
+As this device provides easy connectivity to other iOS, Android devices as well as to PCs so it becomes much easier to transfer captured images and videos for further editing. Theta App allows users to create wonders out of spherical imaging where panning and zooming features are commonly used. The desktop version of Theta app limits users to just view and share their data without any editing feature whereas the third app known as Theta+ Video is capable enough to work for editing on iOS devices.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2 Pros and Cons at a glance
 
 | Pros                                                                                   | Cons                                                                  |
@@ -196,6 +333,9 @@ Theta S is one of the most useful products for photography lovers whether they a
 
 **Check this video to get detailed information about Ricoh Theta S**
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -238,6 +378,10 @@ This Theta S camera unit can be easily used by beginners as well as professional
 
 **Where to use**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Ricoh Theta S for Party](https://images.wondershare.com/filmora/article-images/ricoh-theta-s-for-party.jpg)
 
 This device is ideal to use for gatherings, functions such as weddings, birthday parties and dinner halls as it can capture the colorful events with finest details. You can also attach this camera unit to a drone and let it fly in the air so that everything can be captured in an outstanding way; it will result quality images in all situations.
@@ -252,6 +396,9 @@ The picture quality is simply outstanding and is rated to be much better than al
 
 As this device provides easy connectivity to other iOS, Android devices as well as to PCs so it becomes much easier to transfer captured images and videos for further editing. Theta App allows users to create wonders out of spherical imaging where panning and zooming features are commonly used. The desktop version of Theta app limits users to just view and share their data without any editing feature whereas the third app known as Theta+ Video is capable enough to work for editing on iOS devices.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2 Pros and Cons at a glance
 
 | Pros                                                                                   | Cons                                                                  |
@@ -265,6 +412,9 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | Cloud service for image sharing                                                        |                                                                       |
 | Remote control (via App)                                                               |                                                                       |
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3 Basic specs of Ricoh Theta S
 
 | **Full name**            | Ricoh Theta S                                             |                       |                                                                                                                                                                       |
@@ -281,97 +431,9 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | **Image Resolution**     | 5376 x 2688 (14.5 MP, Other), 2048 x 1024 (2.1 MP, Other) | **Video resolution**  | 1920x1080 (30p) 1280x720 (15p)                                                                                                                                        |
 | **Image format**         | JPEG (EXIF 2.3)- The most commonly used format.           | **Video File Format** | Live streaming via HDMI supported (L:1920x1080/30fps M: 1280x720/30fps S: 720x480/30fps); Live streaming (USB): MP4 (video: MPEG-4 AVC); Motion JPEG (1280x720/15fps) |
 
-## Part 4 Should I buy Ricoh Theta S
-
-Theta S is one of the most useful products for photography lovers whether they are beginners or professionals. This device allows users to capture stunning shots with 360 degree focus and you can even zoom each and every part of these captured images. With all such amazing facilities, it definitely becomes a must buy product and you can order it online as soon as possible at an affordable price range.
-
-**Check this video to get detailed information about Ricoh Theta S**
-
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-Liza Brown
-
-Liza Brown is a writer and a lover of all things video.
-
-Follow @Liza Brown
-
-##### Liza Brown
-
- Mar 27, 2024• Proven solutions
-
-Large numbers of people are talking about Ricoh these days so it becomes essential to check out its review to get information about its incredible feature so that you can plan to buy it soon.
-
-**Related article:** [Top 10 Affordable 360 Degree Camera >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-* [Part 1: Complete Review of Ricoh Theta S](#part1)
-
-* [Part 2: Pros and Cons at a glance](#part2)
-* [Part 3: Basic specs of Ricoh Theta S](#part3)
-* [Part 4: Should I buy](#part4)
-
-## Part 1 Complete Review of Ricoh Theta S
-
-**Brief Introduction about Ricoh Theta S**
-
-Ricoh has recently launched its most awaited spherical camera unit in form of Theta S that comes with compact size, has very specific usage and is capable enough to capture outstanding spherical photos. It is time to capture an entire room including ceilings, floor and all four walls in just one click by using Theta 360-degree capturing abilities and the best thing to know is that Theta S achieves all these goals with a limited price tag of $349.95\. Presently photography lovers are crazy to enter inside the world of spherical imaging because it is going to be the most wonderful and rapidly growing segment of videography as well as photography space. Although there are so many designs of spherical cameras available in market already and most of these can focus on horizontal axis not on vertical ground, Theta S has been developed with all interesting and immersive capturing abilities in all directions with amazing clarity of view. There is no doubt to say that Theta S is one of the most powerful solutions for 360-degree imagery needs of professionals as well as beginners.
-
-**Design and Built**
-
-![Ricoh Theta S - Details](https://images.wondershare.com/filmora/article-images/ricoh-theta-s-design.png)
-
-Theta S is going to serve like a push button to the growing world of spherical imaging where one can grab the whole 360 degree scene from any location and later it is possible to use zoom and pan features over these photos. All captured photographs can be easily viewed upon Mac, PC, Android as well as iOS devices by simply installing Theta apps developed by Ricoh itself. You will be glad to know that Ricoh theta comes with 4GB memory support that is enough to collect unlimited memories everyday. In order to transfer your photos to other devices you can use Wi-Fi connectivity directly. If we talk about the size of this spherical imaging device then it is measured to be 1.65 x 5.08 x 9 inches with a total weight of 20 pounds; no doubt to say that this tinny device can be held on tours easily.
-
-**How to use**
-
-![Ricoh Theta S - How to use](https://images.wondershare.com/filmora/article-images/ricoh-theta-S-details.jpg)
-
-This Theta S camera unit can be easily used by beginners as well as professional photographers because of its incredibly interactive features. Simply turn on your camera by pressing the button provided and release the shutter; as it used to cover spherical images so you are advised to hold camera till the time it captures scene around you. The Wi-Fi facility as well as the self-timer feature is very handy so you need not to worry about anything. It can be directly connected to Android as well as iOS devices with available wireless network and one can change the settings of device as per need. It is possible to enjoy live previews of captured photographs but this facility is not available for videos; however, it is possible to transfer everything to PC via USB or HDMI port so that direct streaming can be enjoyed.
-
-**Where to use**
-
-![Ricoh Theta S for Party](https://images.wondershare.com/filmora/article-images/ricoh-theta-s-for-party.jpg)
-
-This device is ideal to use for gatherings, functions such as weddings, birthday parties and dinner halls as it can capture the colorful events with finest details. You can also attach this camera unit to a drone and let it fly in the air so that everything can be captured in an outstanding way; it will result quality images in all situations.
-
-**Image and Video Quality**
-
-![Ricoh Theta S image quality](https://images.wondershare.com/filmora/article-images/ricoh-theta-s-image-quality.png)
-
-The picture quality is simply outstanding and is rated to be much better than all mid-range Smartphone. It captures colors in very dynamic and decent manner with more numbers if pixels in every frame. This device is known for its ability to capture the 1080p type footage with 30fps quality and the resulting images are easy to edit with the latest applications.
-
-**How to Edit**
-
-As this device provides easy connectivity to other iOS, Android devices as well as to PCs so it becomes much easier to transfer captured images and videos for further editing. Theta App allows users to create wonders out of spherical imaging where panning and zooming features are commonly used. The desktop version of Theta app limits users to just view and share their data without any editing feature whereas the third app known as Theta+ Video is capable enough to work for editing on iOS devices.
-
-## Part 2 Pros and Cons at a glance
-
-| Pros                                                                                   | Cons                                                                  |
-| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| Lightweight and compact                                                                | Only 8GB of memory, Battery and storage can't be replaced or upgraded |
-| Reasonable price range                                                                 | Video image quality is only modest                                    |
-| Wi-Fi and mobile apps, you can control the camera, and edit and share photos and video | Easy to use                                                           |
-| Video-editing app facility is available for iOS devices only                           | Not waterproof                                                        |
-| Upload panoramas to Google Street View                                                 |                                                                       |
-| Great still image quality                                                              |                                                                       |
-| Cloud service for image sharing                                                        |                                                                       |
-| Remote control (via App)                                                               |                                                                       |
-
-## Part 3 Basic specs of Ricoh Theta S
-
-| **Full name**            | Ricoh Theta S                                             |                       |                                                                                                                                                                       |
-| ------------------------ | --------------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Manufacturer**         | Ricoh                                                     |                       |                                                                                                                                                                       |
-| **Price**                | Official: $349.95                                         |                       |                                                                                                                                                                       |
-| **Date of Availability** | 30/10/2015                                                |                       |                                                                                                                                                                       |
-| **Basic Specifications** |                                                           |                       |                                                                                                                                                                       |
-| **Weight**               | 125 grams including batteries                             | **Size**              | (44 x 130 x 23) mm                                                                                                                                                    |
-| **Memory**               | 8G                                                        | **Accessible**        | Wi-Fi, HDMI and well as USB 2.0 support                                                                                                                               |
-| **Battery Life**         | 260 shots/Build-in battery                                | **Body material**     | High Quality Plastic                                                                                                                                                  |
-| **Sensor type**          | CMOS                                                      | **Lens**              | Dual f/2.0 lens                                                                                                                                                       |
-| **Aspect Ratio**         | 4:3 (Leading to much improved view)                       | **Tripod Mount**      | YES                                                                                                                                                                   |
-| **Image Resolution**     | 5376 x 2688 (14.5 MP, Other), 2048 x 1024 (2.1 MP, Other) | **Video resolution**  | 1920x1080 (30p) 1280x720 (15p)                                                                                                                                        |
-| **Image format**         | JPEG (EXIF 2.3)- The most commonly used format.           | **Video File Format** | Live streaming via HDMI supported (L:1920x1080/30fps M: 1280x720/30fps S: 720x480/30fps); Live streaming (USB): MP4 (video: MPEG-4 AVC); Motion JPEG (1280x720/15fps) |
-
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4 Should I buy Ricoh Theta S
 
 Theta S is one of the most useful products for photography lovers whether they are beginners or professionals. This device allows users to capture stunning shots with 360 degree focus and you can even zoom each and every part of these captured images. With all such amazing facilities, it definitely becomes a must buy product and you can order it online as soon as possible at an affordable price range.
@@ -410,3 +472,39 @@ Follow @Liza Brown
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-a-world-of-textual-wonder-traverse-these-top-10-sites-featuring-modern-font-designs/"><u>[New] A World of Textual Wonder  Traverse These Top 10 Sites Featuring Modern Font Designs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-banishing-stickers-from-social-media-short-clips/"><u>[New] Banishing Stickers From Social Media Short Clips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-cost-effective-filmmaking-5-top-free-video-tools/"><u>[New] Cost-Effective Filmmaking  5 Top Free Video Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-360-worlds-top-picks-between-samsung-and-lg/"><u>[New] Crafting 360 Worlds  Top Picks Between Samsung & LG</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/professional-fixes-enhance-dull-iphone-hdri-expert-tips-for-premiere-pro-users/"><u>[Professional Fixes] Enhance Dull iPhone HDRI  Expert Tips for Premiere Pro Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-acid-pro-alternatives-a-comprehensive-guide/"><u>[Updated] ACID Pro Alternatives  A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-aerial-imaging-warfare-djis-pro-vs-gopro-k20/"><u>[Updated] Aerial Imaging Warfare  DJI's Pro Vs GoPro K20</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-10-virtual-worlds-for-buddy-bonding-games/"><u>2024 Approved  10 Virtual Worlds for Buddy Bonding Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-20plus-humorous-metaverse-memes-and-diy-creation-guide/"><u>2024 Approved  20+ Humorous Metaverse Memes & DIY Creation Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-synergy-for-success-merge-linktree-with-your-tiktok-bio/"><u>2024 Approved  A Synergy for Success  Merge Linktree with Your TikTok Bio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-calm-in-chaos-how-to-reduce-shake-on-action-cam-videos/"><u>2024 Approved  Calm in Chaos  How to Reduce Shake on Action Cam Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-competitor-cameras-rising-the-ultimate-guide-to-substitutes-for-samsungs-gear-360/"><u>2024 Approved  Competitor Cameras Rising  The Ultimate Guide to Substitutes for Samsung's Gear 360</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-beginners-approach-to-audio-enhancement-in-audition-for-2024/"><u>A Beginner's Approach to Audio Enhancement in Audition for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/adobe-tactics-for-dynamic-3d-text-design/"><u>Adobe Tactics for Dynamic 3D Text Design</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ai-powered-virtual-patient-interactions/"><u>AI-Powered Virtual Patient Interactions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoiding-shaky-drone-imagery-with-top-tier-gimbals/"><u>Avoiding Shaky Drone Imagery with Top-Tier Gimbals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-mobile-and-desktop-apps-adjusting-audio-playback-speed/"><u>Best Mobile & Desktop Apps  Adjusting Audio Playback Speed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-sound-in-windows-11-explained-for-2024/"><u>Capturing Sound in Windows 11 Explained for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-engagement-boosting-marketing-on-telegram-platforms/"><u>Elevate Engagement  Boosting Marketing on Telegram Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expedite-tech-advancement-how-to-embrace-macos-11-big-sur/"><u>Expedite Tech Advancement  How to Embrace macOS 11 Big Sur</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/flip-clips-android-reversal-technique/"><u>Flip Clips  Android Reversal Technique</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/high-definition-showdown-ultimate-legendary-sj6-vs-yi-4k-innovation/"><u>High Definition Showdown  Ultimate Legendary SJ6 Vs. Yi 4K Innovation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/journey-through-ipodverse-mastering-iphones-podcast-downloads/"><u>Journey Through iPodverse  Mastering iPhone's Podcast Downloads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/next-gen-virtual-experiences-anticipated-ps-vr-games-to-enjoy/"><u>Next-Gen Virtual Experiences  Anticipated PS VR Games to Enjoy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/rebooting-your-windows-photo-viewer-two-procedures-for-w10/"><u>Rebooting Your Windows Photo Viewer  Two Procedures for W10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/reviving-dull-images-the-most-effective-10-web-editing-aids/"><u>Reviving Dull Images  The Most Effective 10 Web Editing Aids</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/riding-ahead-with-clarity-hats-cam-excellence-in-the-year-of-23/"><u>Riding Ahead with Clarity  Hats Cam Excellence in the Year of '23</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sculpt-the-subject-mastering-the-art-of-background-takedown/"><u>Sculpt the Subject  Mastering the Art of Background Takedown</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/swiftly-get-your-favorite-skype-tones-from-here/"><u>Swiftly Get Your Favorite Skype Tones From Here</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-editors-insight-to-seamless-lut-integration-in-premiere/"><u>The Editor's Insight to Seamless LUT Integration in Premiere</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tips-for-quicker-periscope-livestreams/"><u>Tips for Quicker Periscope Livestreams</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/video-creation-made-simple-integrate-microsofts-movie-maker-in-win11/"><u>Video Creation Made Simple  Integrate Microsoft's Movie Maker in Win11</u></a></li>
+</ul></div>

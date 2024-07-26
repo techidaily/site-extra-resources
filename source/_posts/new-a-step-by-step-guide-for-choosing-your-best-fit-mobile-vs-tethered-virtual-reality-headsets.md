@@ -1,7 +1,7 @@
 ---
 title: "\"[New] A Step-by-Step Guide for Choosing Your Best Fit  Mobile Vs. Tethered Virtual Reality Headsets\""
-date: 2024-05-24T03:15:32.837Z
-updated: 2024-05-25T03:15:32.837Z
+date: 2024-07-25T01:08:34.388Z
+updated: 2024-07-26T01:08:34.388Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes [New] A Step-by-Step Guide for Choosing Your Best Fit: Mobile Vs. Tethered Virtual Reality Headsets\""
 excerpt: "\"This Article Describes [New] A Step-by-Step Guide for Choosing Your Best Fit: Mobile Vs. Tethered Virtual Reality Headsets\""
 keywords: "VR Headset Comparison Guide,Mobile Vs. Tethered VR Choice,Virtual Reality Fitment Advice,Best VR Headset Decision,Tethered Vs. Mobile VR Selection,Choosing VR Headgear Well,Optimal VR Gear Picking Guide"
-thumbnail: https://www.lifewire.com/thmb/OvgDF4DN2kQY2wqfN-oCDktYpM4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-time-of-day-to-instagram-3485858-1-5bb3cc9046e0fb002612537d.jpg
+thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00c96089d339b8e4537366b75.jpg
 ---
 
 ## A Step-by-Step Guide for Choosing Your Best Fit: Mobile Vs. Tethered Virtual Reality Headsets
 
 # How to choose VR Headset? Mobile VR or Tethered VR?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -28,6 +31,9 @@ thumbnail: https://www.lifewire.com/thmb/OvgDF4DN2kQY2wqfN-oCDktYpM4=/400x300/fi
 
  Mobile [VR Headset](https://tools.techidaily.com/wondershare/filmora/download/)and Tethered VR headsets are the two main kinds of this technology, they both are useful and innovative in some ways. The former runs on the mobile devices while the later runs with the computers and other gaming devices. There are so many different kinds of products for both these kinds to choose from.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Difference Between Mobile and Tethered VR Headsets
 
  If we talk about Tethered headsets, we see that they have combined displays, and they usually connect to personal computers or also to game systems using a cable. Whereas on the other hand, mobile headsets typically use smartphones for the display as well as processing; and in the absence of a smartphone, they're nothing but just shells having lenses.
@@ -36,48 +42,25 @@ thumbnail: https://www.lifewire.com/thmb/OvgDF4DN2kQY2wqfN-oCDktYpM4=/400x300/fi
 
  Now if we talk about the mobile headsets, they are small in size and cheap in price as compared to PC VR Headset. The reason is the most of the work is actually done by the smartphone, so the maximum price of mobile headset could be $100\. Most of the mobile headsets are grounded on the Google Cardboard prototype, and with the exclusion of a magnetic switch, they do not have any motorized or electric components in the design; they are only screens with the lenses that divide user's smartphone's screen absolutely into two when he holds it to his face.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## When to Choose Mobile Headset or a VR Headset? Purchasing Suggestions
 
  It is a very common question nowadays that what VR kind should be preferred to buy, tethered or mobile. Well, according to their use and qualities both of them are best in some senses and both of them has flaws in some other senses. It all depends on what needs do the user has. Now there are 2 options if you want a headset to try out this new technology and you want this gadget to be always with you wherever you go, you need to buy a mobile VR headset. But in the other case, if you want to completely enjoy this technology with powerful displays and want to have the best experience then there is no doubt you need to buy a tethered VR headset. It also depends on how much money do you have, because the tethered VR headset is very expensive because of its extra functionalities and ruthless display, whereas mobile VR headset are not so much good at display but they are cheap and an average person can easily afford them.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Some of the best of both the worlds
 
  LG's new 360 VR, though, is present someplace in the mid of the best of the mobile headsets. It has its particular lenses and also the display but it is also tethered to the LG G5 mobile with the help of a USB cable. You can regulate things also with buttons present on the HMD or as well as by pushing and long-pressing the display of the smartphone. Audio voice can also come from the headphone jack present on the HMD or through the phone's earphone port. It is still restricted by the smartphone's dispensation power but by the presence of its personal lenses, it's considerably well adapted to virtual reality as compared to Google Cardboard.
 
  One of the other huge results of a tethered smartphone connection is of the 360 VR is very lighter in weight and debatably more contented than rather like the Gear VR, and it permits for adjustment of the optics. Though it may look awkward, it's actually not considerably different than the 1st Sony Walkman, which also listed a trivial head gadget which is driven by a tethered device.
 
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
- Mobile [VR Headset](https://tools.techidaily.com/wondershare/filmora/download/)and Tethered VR headsets are the two main kinds of this technology, they both are useful and innovative in some ways. The former runs on the mobile devices while the later runs with the computers and other gaming devices. There are so many different kinds of products for both these kinds to choose from.
-
-## Difference Between Mobile and Tethered VR Headsets
-
- If we talk about Tethered headsets, we see that they have combined displays, and they usually connect to personal computers or also to game systems using a cable. Whereas on the other hand, mobile headsets typically use smartphones for the display as well as processing; and in the absence of a smartphone, they're nothing but just shells having lenses.
-
- Tethered headsets designed to be large, they are expensive, and as well as they are also resource-intensive. They also claim more innovative motion-sensing and head-tracking abilities in opposite to mobile headsets. Other than that, not just the larger headsets consist of extensively devoted motion sensors, they also often work in combination with outside cameras to more exactly track the user's head. Adding to that, they're also designed to work with bodily controls, starting from keyboards and gamepads to more exclusive possibilities.
-
- Now if we talk about the mobile headsets, they are small in size and cheap in price as compared to PC VR Headset. The reason is the most of the work is actually done by the smartphone, so the maximum price of mobile headset could be $100\. Most of the mobile headsets are grounded on the Google Cardboard prototype, and with the exclusion of a magnetic switch, they do not have any motorized or electric components in the design; they are only screens with the lenses that divide user's smartphone's screen absolutely into two when he holds it to his face.
-
-## When to Choose Mobile Headset or a VR Headset? Purchasing Suggestions
-
- It is a very common question nowadays that what VR kind should be preferred to buy, tethered or mobile. Well, according to their use and qualities both of them are best in some senses and both of them has flaws in some other senses. It all depends on what needs do the user has. Now there are 2 options if you want a headset to try out this new technology and you want this gadget to be always with you wherever you go, you need to buy a mobile VR headset. But in the other case, if you want to completely enjoy this technology with powerful displays and want to have the best experience then there is no doubt you need to buy a tethered VR headset. It also depends on how much money do you have, because the tethered VR headset is very expensive because of its extra functionalities and ruthless display, whereas mobile VR headset are not so much good at display but they are cheap and an average person can easily afford them.
-
-### Some of the best of both the worlds
-
- LG's new 360 VR, though, is present someplace in the mid of the best of the mobile headsets. It has its particular lenses and also the display but it is also tethered to the LG G5 mobile with the help of a USB cable. You can regulate things also with buttons present on the HMD or as well as by pushing and long-pressing the display of the smartphone. Audio voice can also come from the headphone jack present on the HMD or through the phone's earphone port. It is still restricted by the smartphone's dispensation power but by the presence of its personal lenses, it's considerably well adapted to virtual reality as compared to Google Cardboard.
-
- One of the other huge results of a tethered smartphone connection is of the 360 VR is very lighter in weight and debatably more contented than rather like the Gear VR, and it permits for adjustment of the optics. Though it may look awkward, it's actually not considerably different than the 1st Sony Walkman, which also listed a trivial head gadget which is driven by a tethered device.
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -136,12 +119,53 @@ Follow @Benjamin Arango
 
  It is a very common question nowadays that what VR kind should be preferred to buy, tethered or mobile. Well, according to their use and qualities both of them are best in some senses and both of them has flaws in some other senses. It all depends on what needs do the user has. Now there are 2 options if you want a headset to try out this new technology and you want this gadget to be always with you wherever you go, you need to buy a mobile VR headset. But in the other case, if you want to completely enjoy this technology with powerful displays and want to have the best experience then there is no doubt you need to buy a tethered VR headset. It also depends on how much money do you have, because the tethered VR headset is very expensive because of its extra functionalities and ruthless display, whereas mobile VR headset are not so much good at display but they are cheap and an average person can easily afford them.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Some of the best of both the worlds
 
  LG's new 360 VR, though, is present someplace in the mid of the best of the mobile headsets. It has its particular lenses and also the display but it is also tethered to the LG G5 mobile with the help of a USB cable. You can regulate things also with buttons present on the HMD or as well as by pushing and long-pressing the display of the smartphone. Audio voice can also come from the headphone jack present on the HMD or through the phone's earphone port. It is still restricted by the smartphone's dispensation power but by the presence of its personal lenses, it's considerably well adapted to virtual reality as compared to Google Cardboard.
 
  One of the other huge results of a tethered smartphone connection is of the 360 VR is very lighter in weight and debatably more contented than rather like the Gear VR, and it permits for adjustment of the optics. Though it may look awkward, it's actually not considerably different than the 1st Sony Walkman, which also listed a trivial head gadget which is driven by a tethered device.
 
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+ Mobile [VR Headset](https://tools.techidaily.com/wondershare/filmora/download/)and Tethered VR headsets are the two main kinds of this technology, they both are useful and innovative in some ways. The former runs on the mobile devices while the later runs with the computers and other gaming devices. There are so many different kinds of products for both these kinds to choose from.
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Difference Between Mobile and Tethered VR Headsets
+
+ If we talk about Tethered headsets, we see that they have combined displays, and they usually connect to personal computers or also to game systems using a cable. Whereas on the other hand, mobile headsets typically use smartphones for the display as well as processing; and in the absence of a smartphone, they're nothing but just shells having lenses.
+
+ Tethered headsets designed to be large, they are expensive, and as well as they are also resource-intensive. They also claim more innovative motion-sensing and head-tracking abilities in opposite to mobile headsets. Other than that, not just the larger headsets consist of extensively devoted motion sensors, they also often work in combination with outside cameras to more exactly track the user's head. Adding to that, they're also designed to work with bodily controls, starting from keyboards and gamepads to more exclusive possibilities.
+
+ Now if we talk about the mobile headsets, they are small in size and cheap in price as compared to PC VR Headset. The reason is the most of the work is actually done by the smartphone, so the maximum price of mobile headset could be $100\. Most of the mobile headsets are grounded on the Google Cardboard prototype, and with the exclusion of a magnetic switch, they do not have any motorized or electric components in the design; they are only screens with the lenses that divide user's smartphone's screen absolutely into two when he holds it to his face.
+
+## When to Choose Mobile Headset or a VR Headset? Purchasing Suggestions
+
+ It is a very common question nowadays that what VR kind should be preferred to buy, tethered or mobile. Well, according to their use and qualities both of them are best in some senses and both of them has flaws in some other senses. It all depends on what needs do the user has. Now there are 2 options if you want a headset to try out this new technology and you want this gadget to be always with you wherever you go, you need to buy a mobile VR headset. But in the other case, if you want to completely enjoy this technology with powerful displays and want to have the best experience then there is no doubt you need to buy a tethered VR headset. It also depends on how much money do you have, because the tethered VR headset is very expensive because of its extra functionalities and ruthless display, whereas mobile VR headset are not so much good at display but they are cheap and an average person can easily afford them.
+
+### Some of the best of both the worlds
+
+ LG's new 360 VR, though, is present someplace in the mid of the best of the mobile headsets. It has its particular lenses and also the display but it is also tethered to the LG G5 mobile with the help of a USB cable. You can regulate things also with buttons present on the HMD or as well as by pushing and long-pressing the display of the smartphone. Audio voice can also come from the headphone jack present on the HMD or through the phone's earphone port. It is still restricted by the smartphone's dispensation power but by the presence of its personal lenses, it's considerably well adapted to virtual reality as compared to Google Cardboard.
+
+ One of the other huge results of a tethered smartphone connection is of the 360 VR is very lighter in weight and debatably more contented than rather like the Gear VR, and it permits for adjustment of the optics. Though it may look awkward, it's actually not considerably different than the 1st Sony Walkman, which also listed a trivial head gadget which is driven by a tethered device.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -174,3 +198,32 @@ Follow @Benjamin Arango
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-build-at-home-an-affordable-and-versatile-virtual-reality-headset/"><u>[New] Build at Home an Affordable and Versatile Virtual Reality Headset</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-a-superior-fpv-drone-setup-choosing-right-propellers/"><u>[New] Crafting a Superior FPV Drone Setup  Choosing Right Propellers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-chuckles-and-chortles-reviewing-the-goofy-movie-on-vhs/"><u>[Updated] 'Chuckles and Chortles' - Reviewing The Goofy Movie on VHS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-abletons-techniques-for-diminishing-sound-intensity/"><u>[Updated] Ableton's Techniques for Diminishing Sound Intensity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-answers-to-questions-related-to-filmora/"><u>[Updated] Answers to Questions Related to Filmora</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-superior-soundspeed-apps-for-devices-for-2024/"><u>10 Superior Soundspeed Apps for Devices for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-abletons-art-of-softening-soundscapes/"><u>2024 Approved  Ableton's Art of Softening Soundscapes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-building-a-successful-brand-presence-through-spotify-advertising/"><u>2024 Approved  Building a Successful Brand Presence Through Spotify Advertising</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-palette-tweaks-by-professionals-for-2024/"><u>Advanced Palette Tweaks by Professionals for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/anointing-editors-without-spending-a-dime/"><u>Anointing Editors Without Spending a Dime</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-practices-for-dynamic-and-dramatic-ae-titles-for-2024/"><u>Best Practices for Dynamic and Dramatic AE Titles for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/binaural-bliss-broken-recovery-steps/"><u>Binaural Bliss Broken  Recovery Steps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/churn-out-custom-internet-echo-jokes/"><u>Churn Out Custom Internet Echo Jokes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-visual-storytelling-with-the-best-scripted-text-extensions/"><u>Elevate Visual Storytelling with the Best Scripted Text Extensions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-your-gopro-footage-through-color-grading/"><u>Elevating Your GoPro Footage Through Color Grading</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhance-your-projects-top-10-after-effects-text-plans/"><u>Enhance Your Projects  Top 10 After Effects Text Plans</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/explore-essential-web-portals-delivering-impeccable-text-effects/"><u>Explore Essential Web Portals Delivering Impeccable Text Effects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-step-by-step-approach-to-typography-addition-in-ae/"><u>In 2024, A Step-by-Step Approach to Typography Addition in AE</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-beginners-blueprint-for-launching-a-vlog-series-on-product-critiques/"><u>In 2024, Beginner's Blueprint for Launching a Vlog Series on Product Critiques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-bring-imagination-alive-start-with-microsofts-movie-maker-on-w11/"><u>In 2024, Bring Imagination Alive  Start with Microsoft's Movie Maker on W11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lut-enthusiasts-delight-free-bundles-with-dji-minis-and-air-2/"><u>LUT Enthusiasts' Delight – Free Bundles with DJI Minis & Air 2</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-mobile-vertical-panoramas-in-action/"><u>Mastering Mobile  Vertical Panoramas in Action</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/understanding-pewdiepies-annual-net-worth/"><u>Understanding PewDiePie's Annual Net Worth</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-the-secrets-to-superior-gaming-on-android-with-kinemaster/"><u>Unlocking the Secrets to Superior Gaming on Android With KineMaster</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visionary-8-webcams-the-future-of-live-broadcasts/"><u>Visionary 8 Webcams  The Future of Live Broadcasts</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] B Roll Basics  Strategies for Creative Video Editing\""
-date: 2024-05-24T05:24:18.063Z
-updated: 2024-05-25T05:24:18.063Z
+date: 2024-07-25T05:07:20.456Z
+updated: 2024-07-26T05:07:20.456Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] B Roll Basics: Strategies for Creative Video Editing\""
 excerpt: "\"This Article Describes [Updated] B Roll Basics: Strategies for Creative Video Editing\""
 keywords: "\"B-Roll Creation,Video Editing Tactics,Film Techniques Essay,Creative Editing Skills,Videography Principles,Editing Fundamentals,Creative Video Strategies\""
-thumbnail: https://www.lifewire.com/thmb/k7xjMSNieWlwf9mMctw10r9sWkw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Anna-Spearman-selfie-5138968eef3a4f71bd3b35b4131d4886.png
+thumbnail: https://thmb.techidaily.com/c35bb55569306b5428a10bd1ab44596d5c722993db7a19d5db6d527a1da8e1b4.png
 ---
 
 ## B Roll Basics: Strategies for Creative Video Editing
@@ -44,6 +44,9 @@ On the other hand, cutaways can show how different people react to what is being
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
@@ -52,20 +55,41 @@ Aerial B roll is the solution when you like to show your viewers where your film
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Atmospheric b roll footage
 
 When you are sharing a narrative that has been told in the past or that has historical significance, incorporating archival material into your video gives your audience the opportunity to see the story as it occurred at the time. This is especially useful when you are discussing a narrative that has been experienced in the past or that has futuristic relevance.
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### 6\. Pick-up shots
 
 A pick-up is a tiny shot added to previously captured material. Re-shoots involve redoing entire scenes. Both types of shots are commonly added during film editing to fix, logic, continuity, or quality flaws. These photos happen a while after the sets have been taken down, clothes and props stowed, and the actors and crew have gone on to new projects.
@@ -76,6 +100,9 @@ If flaws were discovered during primary photography, the directors could have re
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 We sincerely hope that this post will be of use to you in making your films more cinematic. You not only know how to film and edit your videos utilizing B rolls, you also have an extremely effective hack that allows you to generate amazing videos using stock footage. This is both impressive and unique.
@@ -110,3 +137,42 @@ We sincerely hope that this post will be of use to you in making your films more
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-arc-electrify-powerful-media-player-replacement/"><u>[Updated] Arc Electrify  Powerful Media Player Replacement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-building-visual-story-arcs/"><u>[Updated] Building Visual Story Arcs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-chill-championships-highlighting-cold-climates-sports/"><u>[Updated] Chill Championships  Highlighting Cold Climates Sports</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-chromatic-soundscapes-selecting-the-right-tune/"><u>[Updated] Chromatic Soundscapes  Selecting the Right Tune</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-best-photo-grid-apps-to-make-your-pictures-stand-out/"><u>10 Best Photo Grid Apps to Make Your Pictures Stand Out</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-audioscapes-excellent-microphone-list/"><u>2024 Approved  Audioscape’s Excellent Microphone List</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ace-titles-essentials-for-digital-marketing-success/"><u>Ace Titles  Essentials for Digital Marketing Success</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-data-analytics-methods-for-market-research-analysis/"><u>Advanced Data Analytics Methods for Market Research Analysis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/anti-fog-strategies-optimal-gopro-video-quality/"><u>Anti-Fog Strategies  Optimal GoPro Video Quality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/building-your-hyperlapse-filmmaking-toolkit-for-2024/"><u>Building Your Hyperlapse Filmmaking Toolkit for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/celebrating-the-greats-anime-opens-of-all-time-for-2024/"><u>Celebrating the Greats  Anime Opens of All Time for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-guide-to-mastering-your-photos-with-facetune-for-2024/"><u>Comprehensive Guide to Mastering Your Photos with Facetune for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-gaming-display-showcase-top-5-monitors/"><u>Elite Gaming Display Showcase  Top 5 Monitors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/envisioning-the-next-big-thing-top-10-immersive-tools/"><u>Envisioning the Next Big Thing  Top 10 Immersive Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hues-harmony-crafting-colorful-artistry/"><u>Hues Harmony  Crafting Colorful Artistry</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-5-steps-to-transform-your-photos-hues-right-away/"><u>In 2024, 5 Steps to Transform Your Photo's Hues Right Away</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-5-professional-drones-you-can-buy/"><u>In 2024, Best 5 Professional Drones You Can Buy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-auto-tracking-mount-for-cameras-and-phones/"><u>In 2024, Best Auto Tracking Mount for Cameras and Phones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-free-webm-players/"><u>In 2024, Best Free WebM Players</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-birds-eye-view-duel-dji-pro-max-against-gopro-hero6/"><u>In 2024, Bird's Eye View Duel  DJI Pro Max Against GoPro HERO6</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comparing-streaming-tools-the-verdict-on-xsplit-and-obs/"><u>In 2024, Comparing Streaming Tools  The Verdict on XSplit & OBS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-camera-savvy-image-optimization-secrets/"><u>IPhone Camera Savvy  Image Optimization Secrets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfect-post-editing-eliminating-unwanted-picture-borders/"><u>Perfect Post-Editing  Eliminating Unwanted Picture Borders</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photographers-aid-free-mobile-photography-boost/"><u>Photographer's Aid - Free, Mobile Photography Boost</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/proven-methods-for-captivating-title-creation/"><u>Proven Methods for Captivating Title Creation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revolutionize-your-recording-experience-top-18-cam-tools-showcase/"><u>Revolutionize Your Recording Experience - Top 18 Cam Tools Showcase</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/snap-happy-with-iphone-burst-mode/"><u>Snap-Happy with iPhone Burst Mode</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamsavvy-beyond-the-dacast-boundary/"><u>StreamSavvy  Beyond the DaCast Boundary</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-9gag-pathway-to-piling-up-popular-memes/"><u>The 9GAG Pathway to Piling Up Popular Memes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-how-to-for-finding-freely-available-pictorial-frames/"><u>The How-To for Finding Freely Available Pictorial Frames</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-secrets-of-editing-numerical-data-in-tiktoks/"><u>The Secrets of Editing Numerical Data in TikToks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tiktoks-best-practices-for-stellar-edits/"><u>TikTok's Best Practices for Stellar Edits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-shake-proof-camcorders-for-adventure-seekers/"><u>Top 10 Shake-Proof Camcorders for Adventure Seekers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-creativity-exploring-the-top-8-drawing-apps-on-ios-devices/"><u>Unleash Creativity  Exploring the Top 8 Drawing Apps on iOS Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-wonders-of-4k-with-benq-bl2711u-review/"><u>Unveiling the Wonders of 4K with BenQ BL2711U Review</u></a></li>
+</ul></div>

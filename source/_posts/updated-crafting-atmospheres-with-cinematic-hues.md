@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Crafting Atmospheres with Cinematic Hues"
-date: 2024-05-24T03:55:03.304Z
-updated: 2024-05-25T03:55:03.304Z
+date: 2024-07-25T02:07:53.991Z
+updated: 2024-07-26T02:07:53.991Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Crafting Atmospheres with Cinematic Hues"
 excerpt: "This Article Describes [Updated] Crafting Atmospheres with Cinematic Hues"
 keywords: "Film Hue Effects,Cinematic Mood Creation,Visual Storytelling,Artistic Color Palettes,Cinematic Lighting Techniques,Emotional Palette Crafting,Aesthetic Filmmaking"
-thumbnail: https://www.lifewire.com/thmb/6xuM2EyQiLZhok9LAmw6JW0hXgU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Ai-Chatbot-6bb24727cd054dcd9339c6ed6f5da37e.jpg
+thumbnail: https://thmb.techidaily.com/410b1a4d385c6e4b30f8c2bafd9b2a73f332bf6953f02a101819f0b8ffe4d954.jpg
 ---
 
 ## Crafting Atmospheres with Cinematic Hues
@@ -28,6 +28,11 @@ Color grading is the video editing process wherein grading (arranging) colors in
 
 In cinematography, color grading refers to the manipulation of film and video images to create consistent color tones throughout a motion picture. Many filmmakers use a color palette or preset as part of their overall production plan. These palettes represent artistic choices that provide the film with a cohesive general aspect. When film footage does not adequately match these color palettes, directors and colorists use digital color grading tools to change video colors as needed.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![origianl video color grading](https://images.wondershare.com/filmora/article-images/2022/08/origianl-video-color-grading.jpg)
 
 Color grading and color correction are processes that happen throughout postproduction. One makes the film look more native, and the other stylizes the footage. After the colorist finishes color correction, they can begin grading the film. During color grading, colorists use editing software to formalize the footage, highlighting a movie's visual tone and ambiance and making it look more cinematic.
@@ -50,6 +55,9 @@ The communication of emotion and story through the lens is one of the most power
 
 One of the most intimidating challenges a photographer or vlogger faces is creating a unique style that can result in a brand for their work. Making a visual style that viewers can recognize at a glance can tremendously impact the growth of a photographer's career. Color grading plays a vital part in that process. Customers will often come to you with a wide range of different photography outputs. By defining a consistent color grading work, you can tie it all into a dense brand that reflects strongly on you and construct a distinctive value that provides you something to sell that only you can offer to people.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## How to use Color Grading in Wondershare Filmora?
 
 There are many color grading software available on your Windows PC or Mac. Still, here I will show you how to use the Color grading and color tuning features in Wondershare Filmora video editing software. Filmora's natural interface allows learners or semi-pros to master this video editor speedily. And, the color tuning tools in Filmora are powerful enough.
@@ -68,10 +76,16 @@ Then select the New Project to create a new project file and click Import to fin
 
 Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar to enter the advanced color tools window, where you can apply the preset templates or adjust the color coarsely. It is suggested to start with Presets for beginners, which will save you much time.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![advanced color tools filmora](https://images.wondershare.com/filmora/article-images/2022/08/advanced-color-tools-filmora.jpg)
 
 Color Panel Window - to perform color correction in Wondershare Filmora, switch to the Color tab. You can modify the white balance, saturation, tint, contrast, temperature, and brightness and apply 3D LUT immediately and quickly in this editing panel. You see the output in the Preview window.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![edit color grading video fx](https://images.wondershare.com/filmora/article-images/2022/08/edit-color-grading-video-fx.jpg)
 
 **Contrast**: is the variance in luminance or color that makes an object identifiable. By modifying this setting, control the dissimilarity in color and brightness in contrary parts of the video image.
@@ -98,14 +112,23 @@ Here, there are two options to select: The Color correction. It offers different
 
 First, you need to select the specific video portion you want to change the color. Just click the scissor icon or what we call split tool. In this case, I split the 2nd video when I zoom in on the subject.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![split video into clips fx](https://images.wondershare.com/filmora/article-images/2022/08/split-video-into-clips-fx.jpg)
 
 * And I selected the end portion of the video. After that, choose the part of the video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![selected end portion video filmora](https://images.wondershare.com/filmora/article-images/2022/08/selected-end-portion-video-filmora.jpg)
 
 ##### Step3Apply the color correction preset that you want then click ok
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![apply color correction preset](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-correction-preset.jpg)
 
 You will notice that the color changes depending on your selected preset.
@@ -130,6 +153,9 @@ You can modify the temperature, tint, white balance, contrast, saturation, and b
 
 Click the button Advanced at the lower corner, then the color grading window will pop up, and you can explore your settings and options.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![color grading with filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-with-filmora.jpg)
 
 **Color Histogram**
@@ -200,3 +226,42 @@ Overall, Color grading is the process of video editing to have an excellent look
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-choosing-faithful-hymns-download-and-modify-guide/"><u>[New] Choosing Faithful Hymns  Download and Modify Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comparing-costs-of-global-cloud-data-centers/"><u>[Updated] Comparing Costs of Global Cloud Data Centers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-complete-insight-into-ricoh-theta-s-camera/"><u>[Updated] Complete Insight Into Ricoh Theta S Camera</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/20plus-digital-hubs-unlimited-image-access-for-all/"><u>20+ Digital Hubs  Unlimited Image Access for All</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-rated-wedding-timekeepers-a-comprehensive-android-and-ios-app-review/"><u>2024 Approved  Best-Rated Wedding Timekeepers  A Comprehensive Android & iOS App Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/9-tips-to-become-an-instagram-star/"><u>9 Tips to Become an Instagram Star</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-guide-to-30-compelling-video-presentation-ideas/"><u>A Guide to 30 Compelling Video Presentation Ideas</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beyond-the-skyline-with-yuneecs-typhoon-q500-for-2024/"><u>Beyond the Skyline with Yuneec's Typhoon Q500 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boxing-vs-streaming-ultimate-showdown/"><u>Boxing vs Streaming  Ultimate Showdown</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compile-of-premium-tiktok-backdrop-options/"><u>Compile of Premium TikTok Backdrop Options</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/complete-dynamics-review-2023/"><u>Complete Dynamics Review 2023</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/customizing-your-windows-photos-app-filters-and-music-sync-feature/"><u>Customizing Your Window's Photos App  Filters & Music Sync Feature</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dji-mini-and-air-2-mixing-made-easy-with-20-free-luts/"><u>DJI Mini & Air 2 Mixing Made Easy with 20 Free LUTS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-your-gaming-choose-the-best-free-voice-modifier-to-sharpen-skills/"><u>Elevate Your Gaming - Choose the Best Free Voice Modifier to Sharpen Skills</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/extended-appraisal-hero4-black-performance/"><u>Extended Appraisal  Hero4 Black Performance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-delivery-to-discovery-enhancing-initial-encounters/"><u>From Delivery to Discovery  Enhancing Initial Encounters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/implementing-azure-transcript-api-in-software/"><u>Implementing Azure Transcript API in Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-6-best-nft-makers-for-artists-to-unleash-imagination/"><u>In 2024, 6 Best NFT Makers for Artists to Unleash Imagination</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-step-by-step-guide-to-collecting-excellent-visual-content/"><u>In 2024, A Step-by-Step Guide to Collecting Excellent Visual Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capture-safeguard-and-soar-top-cloud-options-reviewed/"><u>In 2024, Capture, Safeguard, and Soar - Top Cloud Options Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-cartooncanvas-comprehensive-review-and-guidebook-24/"><u>In 2024, CartoonCanvas Comprehensive Review & Guidebook '24</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comparing-syma-x8c-to-previous-models/"><u>In 2024, Comparing Syma X8C to Previous Models</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-core-concepts-in-web-stories-crafting/"><u>In 2024, Core Concepts in Web Stories Crafting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/instantaneous-facial-obscuring-technique/"><u>Instantaneous Facial Obscuring Technique</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/luxurious-asmr-sound-priced-right-top-picks-listed-here/"><u>Luxurious ASMR Sound, Priced Right - Top Picks Listed Here</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mystery-of-continuous-pauses-in-photo-booths/"><u>Mystery of Continuous Pauses in Photo Booths</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/picart-anonymizer-swiftly-hide-identities/"><u>PicArt Anonymizer  Swiftly Hide Identities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/power-up-with-these-20-top-songs-that-elevate-your-exercise-routine/"><u>Power-Up with These 20 Top Songs that Elevate Your Exercise Routine</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/snap-into-clarity-10-online-tools-to-blur-proof-images/"><u>Snap Into Clarity  10 Online Tools to Blur-Proof Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/srt-to-sub-mastery-unveiling-3-key-strategies/"><u>SRT-to-SUB Mastery  Unveiling 3 Key Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/start-your-edit-journey-top-tips-for-photo-gurus-in-training/"><u>Start Your Edit Journey  Top Tips for Photo Gurus in Training</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-cheatsheet-to-make-a-collage/"><u>The Ultimate Cheatsheet to Make a Collage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-creativity-design-your-own-logos-using-template-assets-free/"><u>Unleash Creativity  Design Your Own Logos Using Template Assets (Free)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unravel-media-complexity-transforming-xmlttml-into-srt-gold/"><u>Unravel Media Complexity  Transforming XML/TTML Into SRT Gold</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/voice-transformation-made-simple-with-no-fee-tools/"><u>Voice Transformation Made Simple with No-Fee Tools</u></a></li>
+</ul></div>

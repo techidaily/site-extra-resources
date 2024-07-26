@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, A Step-by-Step Approach to Using CG Central LUTs in Grading\""
-date: 2024-05-24T03:46:04.681Z
-updated: 2024-05-25T03:46:04.681Z
+date: 2024-07-25T01:53:03.065Z
+updated: 2024-07-26T01:53:03.065Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, A Step-by-Step Approach to Using CG Central LUTs in Grading\""
 excerpt: "\"This Article Describes In 2024, A Step-by-Step Approach to Using CG Central LUTs in Grading\""
 keywords: "CG LUT Grading Basics,LUT Application Steps,Simplified CG Central Usage,Gradient Creation Tactics,LUTs in Image Processing,Integrating CG LUTs Effectively,Streamlined LUT Implementation"
-thumbnail: https://www.lifewire.com/thmb/6hc5zn_zIHrjy6UzXp8_C9GmM70=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/SamsungGalaxyA555GandA355G-693d193230af475da9878cc17351f724.jpg
+thumbnail: https://thmb.techidaily.com/67bd9eb22eb0b577554d0f90d5db30aca97e4f163bbbccbbc666c03d517f249c.jpg
 ---
 
 ## A Step-by-Step Approach to Using CG Central LUTs in Grading
@@ -24,12 +24,18 @@ Color Grading Central is a company created by Denver Riddle, who is currently in
 
 [Color Grading Central](https://www.colorgradingcentral.com/) is an online resource that develops color grading video information products and tools. Color Grading Central is an online resource that develops color grading video information products and tools.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![color grading central](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-1.jpg)
 
 LUTs or Look Up Tables are nothing more than a table of numbers that apply a color transformation to an image. However, what makes color gradation LUTs unique is their ability to apply predetermined sets of mathematical formulas to the existing colors of your video to change those colors to achieve the desired result. Now it's possible to accurately imitate all the subtle nuances and color shifts of your favorite movie!
 
 The Color Grading Central LUTs effect is stylish and cinematic.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. How to use Luts from color grading central to color grading for movies?
 
 ![color grading for movies](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-2.jpg)
@@ -46,6 +52,9 @@ First, the two LUT formats work differently. **A 1D LUT** (usually. lut format) 
 
 The other two types of LUTs can be either 1D or 3D LUTs, but these days they are most often 3D LUTs. The difference between them is when in the process you use them and for what purpose.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![luts in movies](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-3.jpg)
 
 An input or camera LUT used at the beginning of the color correction process adjusts the footage so that the color correction tools work correctly. Color corrected recordings that require an input or camera LUT without one can lead to unexpected and unsatisfactory results.
@@ -58,18 +67,27 @@ LUTs are specially designed for different recording types – LOG, RAW, Rec.709,
 
 Many camera manufacturers, software companies, and independent producers offer downloadable LUTs or LUT packs. They often design these skins for specific purposes, such as color correcting footage captured by their cameras or to mimic signature skins seen in movies and TV shows. These skins can give you exactly the color class you want, or you can use them and keep tweaking and tweaking to get the perfect look.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Free LUTs sources
 
 Cinematic LUTs are pre-saved settings that make color grading easy and efficient, allowing you to enhance your videos with just a few clicks. By using a color tinting effect, changing the brightness of the video, or richer colors, you will achieve professional results in no time, regardless of the software product you are using.
 
 LUTs are shared in the .cube file format, which is supported by the most popular video editors, such as DaVinci Resolve, Premiere Pro CC, After Effects CC, and Sony Vegas.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. [Ground Control Color: 13 Free LUTs](https://www.groundcontrolcolor.com/free-luts.html)
 
 Ground Control Color specializes in creating color LUTs for different cameras and recording formats. In addition to having an impressive line of products, they also give away a great selection of thirteen free LUTs for video editors.
 
 From the "Free LUTs" page, users can download ten free conversion LUTs and three stylistic color LUTs.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![ground control color](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-4.jpg)
 
 ### 2\. [Color Grading Central: 7 Free LUTs, Color Presets, and Grains](http://www.colorgradingcentral.com/)
@@ -90,8 +108,14 @@ This free pack of Movie Look LUTs draws inspiration from seven modern movies, in
 
 If you want to add a dramatic and cinematic feel to your footage, use this free LUT pack from SmallHD.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![smallhd](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### 4\. [Frank Glencairn: Free Vintage LUT](https://frankglencairn.wordpress.com/2014/01/15/everything-looks-better-on-kodachrome-k-tone-lut/)
 
 Despite having the latest filmmaking technology at our fingertips, there is something about the old film look that looks amazing.
@@ -102,6 +126,9 @@ Now you can replicate the look with retro-looking reds, blues, and yellows with 
 
 ![frank glencairn](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. [Lutify.me: 7 Free Luts](https://lutify.me/free-luts/)
 
 Ok, so the LUTs included in this pack require a few extra steps to download. Lutify requires you to sign up for a 14-day trial of LUTs Previewer.
@@ -122,6 +149,9 @@ Of course, if you're still dissatisfied with the result you may select **"Advanc
 
 ![preset](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 In summary, we've seen some different color grading LUTs that simplify the color grading process. However, [Filmora Pro](https://tools.techidaily.com/wondershare/filmora/download/) remains the best because no converter can beat its excellent color correction tool and convincing features of vignette, light, and flare, etc.
@@ -164,3 +194,43 @@ In summary, we've seen some different color grading LUTs that simplify the color
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-advanced-methodologies-for-backdrop-purification-in-figma-design/"><u>[New] Advanced Methodologies for Backdrop Purification in Figma Design</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-avi-visionary-player-compatible-with-pcmobile/"><u>[New] Avi Visionary Player  Compatible with PC/Mobile</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-becoming-a-youtube-pro-the-ultimate-picture-post-guide/"><u>[New] Becoming a YouTube Pro  The Ultimate Picture Post Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-cheap-and-effective-action-cam-picks-top-6-list/"><u>[New] Cheap and Effective ACTION Cam Picks – Top 6 List</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-chip-prowess-video-editors-thrive-on-innovative-platform/"><u>[New] Chip Prowess  Video Editors Thrive on Innovative Platform</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-accelerate-your-arts-journey-with-these-7-nft-converters/"><u>[Updated] Accelerate Your Art's Journey with These 7 NFT Converters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-boost-your-tech-experience-with-top-text-interpretation-tools-on-mac/"><u>[Updated] Boost Your Tech Experience with Top Text Interpretation Tools on Mac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-building-a-vivid-world-with-animated-clips-in-movie-maker/"><u>[Updated] Building a Vivid World with Animated Clips in Movie Maker</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-building-your-virtual-persona-with-minimal-hassle/"><u>[Updated] Building Your Virtual Persona with Minimal Hassle</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-10-premium-text-tricks-for-videos/"><u>2024 Approved  10 Premium Text Tricks for Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-analyzing-toolwiz-a-photographers-digital-arsenal/"><u>2024 Approved  Analyzing Toolwiz  A Photographer’s Digital Arsenal</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-androids-very-own-podcasters/"><u>2024 Approved  Android's Very Own Podcasters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-become-a-streaming-guru-utilizing-zooms-features-for-effective-youtube-broadcasts/"><u>2024 Approved  Become a Streaming Guru  Utilizing Zoom's Features for Effective YouTube Broadcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-brilliance-in-display-top-5-for-grading-professionals/"><u>2024 Approved  Brilliance in Display  TOP 5 for Grading Professionals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-footage-from-above-drone-filming-tips/"><u>2024 Approved  Capturing Footage From Above  Drone Filming Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-color-coding-in-the-digital-world-srgb-vs-rgb/"><u>2024 Approved  Color Coding in the Digital World  Srgb vs Rgb</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chronicle-custodians-circle-top-7-treasures-for-2024/"><u>Chronicle Custodians Circle - Top 7 Treasures for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/conquering-the-crash-solutions-for-windows-10-photos-issues/"><u>Conquering the Crash  Solutions for Windows 10 Photos Issues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-a-spectacited-photographic-display/"><u>Crafting a Spectacited Photographic Display</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dell-p2715q-4k-monitor-review-for-2024/"><u>Dell P2715Q 4K Monitor Review for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/engaging-market-entry-plans/"><u>Engaging Market Entry Plans</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/finding-value-in-sport-photography-cameras-for-the-price-conscious/"><u>Finding Value in Sport Photography – Cameras for the Price-Conscious</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/floating-frames-the-ultimate-guide-to-pip-with-netflix/"><u>Floating Frames  The Ultimate Guide to PIP with Netflix</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/frostbite-fame-highlights-of-cold-climates-games/"><u>Frostbite Fame  Highlights of Cold Climates Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/guide-to-optimal-audio-changer-tools-for-vtubers/"><u>Guide to Optimal Audio Changer Tools for VTubers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-all-weather-action-cameras-ranking-top-7-summary/"><u>In 2024, All-Weather Action Cameras Ranking, Top 7 Summary</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-picture-editing-dynamic-wallpaper-finder/"><u>In 2024, Best Picture Editing  Dynamic Wallpaper Finder</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/nows-vr-innovation-snapshot/"><u>Now's VR Innovation Snapshot</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pushing-boundaries-in-media-text-curve-concepts/"><u>Pushing Boundaries in Media  Text Curve Concepts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pushing-videography-to-new-heights-with-the-1j5-camera/"><u>Pushing Videography to New Heights with the 1J5 Camera</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-guide-to-image-text-overlay-online/"><u>Step-by-Step Guide to Image Text Overlay Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlining-visual-storytelling-best-plugin-choices-in-ae/"><u>Streamlining Visual Storytelling  Best Plugin Choices in AE</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/synchronizing-sequential-images-for-impactful-storytelling/"><u>Synchronizing Sequential Images for Impactful Storytelling</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-8-free-sites-for-accessing-3d-text-psd-images/"><u>Top 8 Free Sites for Accessing 3D Text PSD Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/understanding-your-srt-equipment-like-a-pro/"><u>Understanding Your SRT Equipment Like a Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/why-does-my-photo-booth-video-keep-freezing/"><u>Why Does My Photo Booth Video Keep Freezing?</u></a></li>
+</ul></div>

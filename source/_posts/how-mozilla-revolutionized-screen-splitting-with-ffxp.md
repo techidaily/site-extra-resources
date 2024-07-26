@@ -1,7 +1,7 @@
 ---
 title: "How Mozilla Revolutionized Screen Splitting with FFXP"
-date: 2024-05-24T03:29:04.732Z
-updated: 2024-05-25T03:29:04.732Z
+date: 2024-07-25T01:26:11.399Z
+updated: 2024-07-26T01:26:11.399Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes How Mozilla Revolutionized Screen Splitting with FFXP"
 excerpt: "This Article Describes How Mozilla Revolutionized Screen Splitting with FFXP"
 keywords: "\"FFXP SplitScreen,Firefox X-Split,FFXP MultiView,FFXP DisplayTech,Mozilla SplitMax,FFXP Splitting,X-Splits Firefox\""
-thumbnail: https://www.lifewire.com/thmb/GYiqe6p1ML8iMsOVu1sELyODoQ8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Apple-WWCD23-Vision-Pro-with-battery-230605-153f3de9d33b4b80b640d1e9955db287.jpg
+thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12a2b526e9a90435fad802df2.jpg
 ---
 
 ## How Mozilla Revolutionized Screen Splitting with FFXP
@@ -22,8 +22,14 @@ Using your PC to watch films while working on something else has recently been p
 
 This feature is an important tool to help you multitask by dragging videos from web pages and navigating to another tab so you can continue working on other tabs while the video keeps playing. In this article, you will understand everything about this feature and how to enable this feature.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![the firefox]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## Part 1\. How Picture-in-Picture Mode Works
 
 Picture-in-Picture allows for simple tab navigation without interfering with the video you are viewing. Enabling this feature allows your videos to play in a tiny overlay utilizing a separate video player. Users may move, resize and even pin the player on the screen. You may even switch between tabs without interfering with video playing.
@@ -34,6 +40,9 @@ When your video is in picture-in-picture mode, the video placeholder also displa
 
 Using keyboard shortcuts, you can make adjustments for loudness but not for the video quality. However, you may make these adjustments from the original web page of the film. Also, keep in mind that any modifications to its initial position will affect the floating player. The video will immediately disappear when you refresh or open a new website in that tab.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2\. How to activate Picture-in-Picture (PiP) in Firefox
 
 Firefox is often considered one of the most data-protective browsers, but that is not all. Mozilla Firefox also comes with a variety of useful tools and features. It even incorporates certain features you can only find through extensions in other browsers.
@@ -52,6 +61,9 @@ Here's how to activate picture-in-picture video control in Firefox**:**
 2. Click on the 3 horizontal lines in the top-right menu.
 3. Choose the **Options/Settings** from the menu list. This opens the settings mode and its general model.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose the options/settings]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-2.jpg)
 
 1. Scroll down in the General mode to locate the **Browsing** settings option.
@@ -61,6 +73,23 @@ Here's how to activate picture-in-picture video control in Firefox**:**
 
 Following the above procedure, you may now see the Firefox Picture-in-Picture symbol in the video streaming player. Whenever you visit a streaming site, a symbol for pip mode appears as an overlay on the video screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![the firefox picture in picture symbol]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-4.jpg)
 
 You can load only a single video using the above guideline. Suppose you want to lunch multiple videos to increase your multitasking experience. In that case, follow the outlined procedure:
@@ -87,22 +116,34 @@ Sometimes, the PiP mode can disturb necessary research or task that needs your f
 
 Another mode of having your picture-in-picture mode on Firefox is using the available add-on features. You can access several add-on extensions available on Firefox by tapping the **Menu** button. Locate the [add-on menu item](https://addons.mozilla.org/en-US/firefox/) and click it. Once it loads, you can use the search bar at the top right corner to select your preferred picture-in-picture add-on.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### 4.2 Keyboard shortcuts about Picture-in-Picture in Firefox
 
 It is also possible to enable and disable the picture-in-picture mode using keyboard shortcuts. To get this done, use the key combination of **'Ctrl + Shift + \]'**. By simultaneously holding these keys, Firefox will launch the relevant video on the web page into a picture-in-picture mode. However, if the feature has been enabled before pressing the key combination, it automatically disables the feature.
 
 ![the key combination]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5\. FAQs
 
 ### How do I keep the picture-in-picture window always on top?
 
 After opening the tab, drag the application up, then scroll down to the bottom right corner to select the desk pin. Finally, click on the tab opened with the pin cursor, and it will be on top always.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Why is picture-in-picture in Firefox not working?
 
 On Firefox, this mode is always on by default, but when the picture-in-picture feature is not working; follow the step-by-step guideline explained above to enable it manually. Once you perform these procedures using the keyboard shortcut or settings mode, it will start working.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ### How do I resize the picture-in-picture window in Firefox?
 
 You can, of course, resize it and move it wherever you want. Hold down the left click and move it with your mouse to do this. Simply place your cursor in a corner to expand or shrink the window.
@@ -141,3 +182,28 @@ Picture-in-Picture is a nice feature that helps you increase productivity while 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-comparing-leading-names-in-4k-yt-video-to-mp3-tools/"><u>[New] Comparing Leading Names in 4K YT Video to MP3 Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-visual-treat-discover-these-14-text-animation-delights/"><u>[Updated] A Visual Treat  Discover These 14 Text Animation Delights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-groundbreaking-examples-of-the-metaverse-unpacked/"><u>10 Groundbreaking Examples of the Metaverse Unpacked</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-audio-to-art-crafting-music-videos-on-apple-devices/"><u>2024 Approved  Audio to Art  Crafting Music Videos on Apple Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/asus-unboxing-special-the-mg28uq-monitor-a-high-res-journey/"><u>ASUS Unboxing Special  The MG28UQ Monitor - A High-Res Journey</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/balanced-flights-7-leading-gimbals-reviewed/"><u>Balanced Flights  7 Leading Gimbals Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/breakdown-of-essential-features-in-movie-maker-for-windows-8-for-2024/"><u>Breakdown of Essential Features in Movie Maker for Windows 8 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-moments-right-ideal-perspectives-on-iphone/"><u>Capturing Moments Right  Ideal Perspectives on iPhone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/complete-setup-blueprint-for-wm6/"><u>Complete Setup Blueprint for WM6</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/core-6-social-media-tools-for-corporate-engagement/"><u>Core 6 Social Media Tools for Corporate Engagement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-customized-clips-on-iphone-3-free-music-integration-techniques/"><u>Crafting Customized Clips on iPhone – 3 Free Music Integration Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/explore-elite-data-vaults-best-storages-reviewed/"><u>Explore Elite Data Vaults  Best Storages Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-achieving-unparalleled-detail-with-remote-screens/"><u>In 2024, Achieving Unparalleled Detail with Remote Screens</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-voice-changers-guide-free-easy-pathways-for-auditory-enhancements/"><u>The Voice Changer's Guide  Free, Easy Pathways for Auditory Enhancements</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-the-full-potential-of-media-player-through-subtitles/"><u>Unlock the Full Potential of Media Player Through Subtitles</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-audacitys-full-potential-for-professional-audio/"><u>Unlocking Audacity's Full Potential for Professional Audio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-the-potential-of-onestream-live-streaming/"><u>Unlocking the Potential of OneStream Live Streaming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-hand-trackings-evolution-and-practice/"><u>Unveiling Hand Tracking's Evolution and Practice</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vegas-pro-21-a-comprehenive-examination-for-gamblers-and-techies-alike/"><u>Vegas Pro '21  A Comprehenive Examination for Gamblers and Techies Alike</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/virtual-realms-evolutions-tale/"><u>Virtual Realms  Evolution's Tale</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/why-videographers-embrace-filmoras-premier-traits/"><u>Why Videographers Embrace Filmora's Premier Traits</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Contrast in Colors  Crafting Cinematic Moods\""
-date: 2024-05-24T03:41:32.424Z
-updated: 2024-05-25T03:41:32.424Z
+date: 2024-07-25T01:45:12.966Z
+updated: 2024-07-26T01:45:12.966Z
 tags: 
   - screen-recording
   - ai video
@@ -13,15 +13,21 @@ categories:
 description: "\"This Article Describes [Updated] Contrast in Colors: Crafting Cinematic Moods\""
 excerpt: "\"This Article Describes [Updated] Contrast in Colors: Crafting Cinematic Moods\""
 keywords: "Cinematic Color Contrasts,Mood Lighting Techniques,Visual Storytelling,Film Color Dynamics,Aesthetic Film Designs,Emotional Color Palettes,Cinematography Tones"
-thumbnail: https://www.lifewire.com/thmb/Z9p2yelev5XjoupT3HWfYtADBRA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/saveps4gameplay-fe5d19b66a8e46bc8fec8350be2feadb.jpg
+thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db273783ec5bcb39c2377739cf581a.jpg
 ---
 
 ## Contrast in Colors: Crafting Cinematic Moods
 
 Everyone in the video editing world is full of lively and beautiful colors — just like the world we live in every day. But, if you've ever shot any film on a smartphone or a digital camera, you've probably observed the colors you see in real life don't always match up to what you want to see on your screen. In this article, you will grasp how and when to use the color grading process by stylizing the color scheme of your footage and its importance in your everyday film and video projects.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![color grading panel filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-panel-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What is Color Grading?
 
 Color grading is the video editing process wherein grading (arranging) colors in a video or film to give them a stylistic look. It is different from Color correction because color correction is the process of correcting (fixing) colors in a video or a film as a way to get them back to what they should look like for your project or output.
@@ -32,6 +38,9 @@ In cinematography, color grading refers to the manipulation of film and video im
 
 Color grading and color correction are processes that happen throughout postproduction. One makes the film look more native, and the other stylizes the footage. After the colorist finishes color correction, they can begin grading the film. During color grading, colorists use editing software to formalize the footage, highlighting a movie's visual tone and ambiance and making it look more cinematic.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![apply color grading to video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-grading-to-video.jpg)
 
 To summarize, Color grading can be used to make both technical and creative changes. Colorists use color grading for artistic purposes to ensure that the film's carefully curated color palette conveys a specific atmosphere, style, or emotion.
@@ -68,6 +77,9 @@ Then select the New Project to create a new project file and click Import to fin
 
 Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar to enter the advanced color tools window, where you can apply the preset templates or adjust the color coarsely. It is suggested to start with Presets for beginners, which will save you much time.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![advanced color tools filmora](https://images.wondershare.com/filmora/article-images/2022/08/advanced-color-tools-filmora.jpg)
 
 Color Panel Window - to perform color correction in Wondershare Filmora, switch to the Color tab. You can modify the white balance, saturation, tint, contrast, temperature, and brightness and apply 3D LUT immediately and quickly in this editing panel. You see the output in the Preview window.
@@ -90,6 +102,9 @@ Color Panel Window - to perform color correction in Wondershare Filmora, switch 
 
 Here, there are two options to select: The Color correction. It offers different readily-made presets you can use to color your video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![open color correction filmora](https://images.wondershare.com/filmora/article-images/2022/08/open-color-correction-filmora.jpg)
 
 ##### Step2Select the specific video portion
@@ -106,6 +121,10 @@ First, you need to select the specific video portion you want to change the colo
 
 ##### Step3Apply the color correction preset that you want then click ok
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![apply color correction preset](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-correction-preset.jpg)
 
 You will notice that the color changes depending on your selected preset.
@@ -116,6 +135,9 @@ In the Presets tab, there are different templates, including Common, 3D LUT, Vig
 
 Once you've finished correcting the video color, press Play and go over the whole video through the previewing window. If satisfied with the result, click the "Export" button to transport your video. Click the Settings button to modify settings if needed. You can save the new videos in different formats under the Format tab. If you want to play the edit file on devices like Tablet, iPad, Kindle Fire, PSP, Xbox, etc., go to the "Devices" tab and select the configured preset for the specific model. You can also upload the video output on Youtube for better preservation.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![preview and save video filmora](https://images.wondershare.com/filmora/article-images/2022/08/preview-and-save-video-filmora.jpg)
 
 **Using the Color Panel Window**
@@ -130,6 +152,10 @@ You can modify the temperature, tint, white balance, contrast, saturation, and b
 
 Click the button Advanced at the lower corner, then the color grading window will pop up, and you can explore your settings and options.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![color grading with filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-with-filmora.jpg)
 
 **Color Histogram**
@@ -200,3 +226,34 @@ Overall, Color grading is the process of video editing to have an excellent look
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-broadcast-battlegrounds-where-does-streaming-technology-stand-strongest/"><u>[New] Broadcast Battlegrounds  Where Does Streaming Technology Stand Strongest?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-android-guide-enhance-your-video/"><u>[Updated] Android Guide  Enhance Your Video</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2023s-premier-entryway-toolkit-across-devices/"><u>2023'S Premier Entryway Toolkit Across Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-cinematic-frontiers-the-top-sci-fi-journeys-to-new-worlds/"><u>2024 Approved  Cinematic Frontiers  The Top Sci-Fi Journeys to New Worlds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-constructing-the-ideal-home-computer-for-advanced-video-editing/"><u>2024 Approved  Constructing the Ideal Home Computer for Advanced Video Editing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/8-ultimate-free-3d-players-perfect-for-pcmac-users-out-there-for-2024/"><u>8 Ultimate Free 3D Players  Perfect for PC/Mac Users Out There for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-detailed-guide-to-advanced-human-interface-systems-for-2024/"><u>A Detailed Guide to Advanced Human Interface Systems for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/androidios-wedding-timekeeping-mastered-with-our-top-timer-app-picks/"><u>Android/iOS Wedding Timekeeping Mastered with Our Top Timer App Picks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-a-united-front-brand-integrations-on-youtube-platform/"><u>Crafting a United Front  Brand Integrations on YouTube Platform</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-cinematic-experiences-with-magix-video-pro-x-for-2024/"><u>Crafting Cinematic Experiences with Magix Video Pro X for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-conversational-magic-how-to-write-podcast-scripts/"><u>Crafting Conversational Magic  How to Write Podcast Scripts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/digital-sensations-how-vr-enhances-pleasure/"><u>Digital Sensations  How VR Enhances Pleasure</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-marketing-with-powerful-customer-video-voices/"><u>Elevating Marketing with Powerful Customer Video Voices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/excellent-tech-for-premium-4k-editors/"><u>Excellent Tech for Premium 4K Editors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/first-rate-soundbites-googles-best-talk-series/"><u>First-Rate Soundbites  Google's Best Talk Series</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/guide-to-premium-podcasting-top-mic-picks/"><u>Guide to Premium Podcasting  Top Mic Picks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-blur-a-picture-on-iphone-4-ways/"><u>How to Blur a Picture on iPhone [4 Ways]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/improving-zoom-picture-quality-quick-solutions/"><u>Improving Zoom Picture Quality  Quick Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-audacity-insider-perfecting-your-audio-crossfades/"><u>In 2024, Audacity Insider  Perfecting Your Audio Crossfades</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-breakdown-of-essential-video-effects-in-tiktok-editing/"><u>In 2024, Breakdown of Essential Video Effects in TikTok Editing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/jogging-beats-compile-your-ultimate-running-soundtrack/"><u>Jogging Beats  Compile Your Ultimate Running Soundtrack</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-basic-tone-alterations-in-ps/"><u>Mastering Basic Tone Alterations in PS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfecting-ultimate-canon-temp-visuals/"><u>Perfecting Ultimate Canon Temp Visuals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pilots-perspective-dji-dualsense-fpv-tech/"><u>Pilot's Perspective  DJI DualSense FPV Tech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlining-online-meetings-zoom-and-gmail-sync-strategies/"><u>Streamlining Online Meetings  Zoom & Gmail Sync Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-selection-of-cost-free-slow-motion-capturing-apps/"><u>Ultimate Selection of Cost-Free Slow Motion Capturing Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unmatched-video-upload-aides-to-twitter/"><u>Unmatched Video Upload Aides to Twitter</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, A Complete Guide to Dynamic Range and Curves"
-date: 2024-05-24T05:04:57.230Z
-updated: 2024-05-25T05:04:57.230Z
+date: 2024-07-25T04:31:01.479Z
+updated: 2024-07-26T04:31:01.479Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ In this Photoshop tutorial, we're going to carve an image using four simple step
 
 ![curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/curve-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Simple Steps to Curve an Image in Photoshop
 
 ##### Step1Create a New Document
@@ -32,6 +35,9 @@ To keep things simple, let's start with a white canvas. Let's open a new documen
 
 After creating the new document, open the image that you want to curve. You may do so by going to File > Open in the menu bar or pressing Ctrl+O or Command+O on your keyboard. Once the image is open, go to Edit in the menu bar and select Place Embedded from the drop-down menu that appears. Select your image and click Place. The image will be placed on the canvas. If the document's size does not match that of the image, you will see a transformation box surrounding the image.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
 
 ##### Step3Warp the Image
@@ -48,6 +54,9 @@ Play around with the settings in the options bar. There are quite a few differen
 
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
 
 **Vertical Distortion** makes the image look as if it's leaning backward.
@@ -60,14 +69,23 @@ The **Bend Direction** option rotates the angle of the bend.
 
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
 
 ##### Step4Save the Image
 
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 We hope this post has helped you learn how to curve an image in Photoshop. The best part about it? It's easy to do, and you can do it quickly. So, don't wait another minute! Get out there and start curving your images today (we know we are).
@@ -102,3 +120,26 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-constructing-imagery-wonders-with-montages/"><u>[New] Constructing Imagery Wonders with Montages</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-correcting-misaligned-youtube-picture-quality/"><u>[Updated] Correcting Misaligned YouTube Picture Quality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-audio-tempo-control-gear-guide-mobile-pc/"><u>2024 Approved  Audio Tempo Control Gear Guide (Mobile, PC)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-chortlecraft-customize-funny-digital-images/"><u>2024 Approved  ChortleCraft  Customize Funny Digital Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-comprehensive-examination-of-lg-27ud68-display-tech-for-2024/"><u>A Comprehensive Examination of LG 27UD68 Display Tech for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/behind-the-scenes-with-viral-image-memes-and-stories/"><u>Behind the Scenes with Viral Image Memes & Stories</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/core-concepts-in-moving-graphic-artistry-for-2024/"><u>Core Concepts in Moving Graphic Artistry for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/declutter-your-tiktok-drafters-efficient-edit-strategies/"><u>Declutter Your TikTok Drafters  Efficient Edit Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-video-creation-with-windows-xp-edition/"><u>Elevate Video Creation with Windows XP Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/full-assessment-of-slomo-application-trends/"><u>Full Assessment of SloMo Application - Trends</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-becoming-a-picwarper-pro-with-top-editors/"><u>In 2024, Becoming a PicWarper Pro with Top Editors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/merging-youtube-soundtracks-to-cinematic-scenes/"><u>Merging YouTube Soundtracks to Cinematic Scenes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pioneering-tech-in-adventure-camera-gear/"><u>Pioneering Tech in Adventure Camera Gear</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/professional-tips-for-perfecting-your-srt-files/"><u>Professional Tips for Perfecting Your SRT Files</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-simple-grading-tactics/"><u>The Ultimate Guide to Simple Grading Tactics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/traverse-costs-watch-anywhere-gratis-video-player-pcmac/"><u>Traverse Costs, Watch Anywhere - Gratis VIDEO Player (PC/Mac)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tricks-to-perfect-time-lapses-using-samsung-cameras/"><u>Tricks to Perfect Time-Lapses Using Samsung Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleashing-androids-audio-potential-mastering-the-art-of-ringtones-and-sounds/"><u>Unleashing Android's Audio Potential  Mastering the Art of Ringtones & Sounds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/what-are-the-different-versions-of-windows-movie-maker/"><u>What Are the Different Versions of Windows Movie Maker?</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  An In-Depth Review of DJI Drone Model 3'S Performance\""
-date: 2024-05-24T03:44:33.075Z
-updated: 2024-05-25T03:44:33.075Z
+date: 2024-07-25T01:50:19.426Z
+updated: 2024-07-26T01:50:19.426Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,9 @@ thumbnail: https://www.lifewire.com/thmb/5uOSiEES2M2TQcFnoRKJPmKs58Y=/400x300/fi
 
 ![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Complete review for DJ Phantom 3 Standard
 
 #### Pros and Cons
@@ -86,6 +89,179 @@ thumbnail: https://www.lifewire.com/thmb/5uOSiEES2M2TQcFnoRKJPmKs58Y=/400x300/fi
 
 #### Camera (Video and Camera Image)
 
+![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard-camera.jpg)
+
+ Phantom 3 Standard is able to capture videos with three different modes: HD, HHD and 2.7 K resolution level; whereas, you can enjoy stills with 12MP capabilities. All the resulting videos of Phantom device use to be of excellent quality with crystal clear details and all movements are reflected with very smooth and clean fashion. The great news is here that phantom 3 offers intuitive control video settings and one can make easy adjustments to avail soft, real and fuzzy videos.
+
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ DJI is well known for impressive drone designs and Phantom 3 Standard is a wonderful addition to its quadcopter series. This device provides total [flight time](https://tools.techidaily.com/wondershare/filmora/download/) of 25 minutes and can move up to 1.2 miles with one charge. The added 4k resolution ability with advanced stabilization feature improves its recording focus. Beginners will love to use its return to home feature along with GPS, sensor stabilization and flight path control abilities.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
+![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard.jpg)
+
+## Complete review for DJ Phantom 3 Standard
+
+#### Pros and Cons
+
+**Pros:**
+
+* Impressive photo and video quality.
+* The interactive DJI Go application makes everything much easier.
+* It is rated as a ready to fly type quad copter design that holds a build in camera and supports 2.7K resolution.
+* Intelligent flight modes will make everything more interesting.
+**Cons:**
+* Some glitches during video recording are observed.
+* It takes too much time to charge battery.
+
+**Verdict:**
+
+ With a price tag of $499, DJI phantom Quadcopter is best product for beginners. You will surely find a great deal for limited price in terms of impressive features, design and ease of use. DJI Phantom can beat most of competing models with its advanced mounting options.
+
+#### Features and Specs
+
+ This latest quadcoper model can assist beginners as well as professionals with 2.7k impressive video footage recording ability. The MicroSD card can store up to 128GB of data. This device has lots of features to offer as an airborne videographer and users can have better control on all movements from remote locations. Use return home feature to call it back whenever you need.
+
+**Specs:**
+
+* It comes with 4 rotors having 9.5 inches diameters and all of them are replaceable.
+* A Li-ion polymer battery is attached with 4800 mAh capacity.
+* It can serve you up to 20 minutes in air with one charge.
+* Overall dimensions are 19x19x8” only.
+* 2 pounds, 11 ounces is overall weight of Phantom 3 standard.
+
+#### Design
+
+ Phantom 3 Standard product is designs with almost same appearance as that of other members of phantom family but there are few key differences in terms of design and features. You will find the battery and all electronics inside its central body whereas the case itself is made up of graceful plain plastic material. The landing gear is attached to bottom side of drone whereas gimbal is attached between two landing arms. Its overall weight goes up to 2 pounds 11 ounces whereas total dimension is about 19x19x8 inches.
+
+#### Battery Life
+
+ Phantom 3 Standard quadcopter comes with single large battery unit that has 4480mHa capacity. It offers total 21 minutes in air with full charge. This battery will take much time to get fully charged; you may have to wait for 50 minutes to get it done. It is not so easy to buy spare batteries for your Phantom 3 Standard device because they are pretty costly with a average price tag of $145.
+
+#### Flight Performance
+
+ This device can be controlled with touch screen functionality as well as by using conventional remote control. The quadcopter demands hard work from user if they want to use manual control buy auto control facilities are also available with DJI Go app that makes takeoff as well as landing much easier.
+
+ DJI Phantom offers 35 miles/ hour horizontal speed whereas 11miles/hour is offered as its vertical speed. Note that it is not ranked as a stunt quadcopter so you need to be careful about its stability in air. It is not designed to perform sudden flips and adventurous activities in air.
+
+#### Control Range
+
+ The Phantom 3 standard quadcopter consists of two control parts: one is the standard hardware based remote control part and another is the software application that works on android as well as iOS devices. With this remote control unit you can avail incredible flying experience but the app can have autonomous control over it. The remote control unit generally possesses a simple white box type antenna, few switches, two control sticks and dial on the sides. It does not possess any display but a set of few LEDs that provide continuous battery level indication.
+
+![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard-controller.jpg)
+
+ By using specially designed control sticks you can easily move the motors in desired direction. On the other side, the advanced application provides easy controls to flight modes, GPS, signal strength and battery level monitoring. The bottom portion of application indicates speed, altitude, heading and other location based details. Map will help users to gain full control over live view details and it will update the hybrid or satellite based location information on the go.
+
+ There are five different modes available under settings manual; once you disable the beginner’s mode then you will be able to gain access to points of interest, follow me, waypoint, home lock and course lock modes. All these modes assist users to enjoy incredible flight experience in air.
+
+#### Camera (Video and Camera Image)
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard-camera.jpg)
+
+ Phantom 3 Standard is able to capture videos with three different modes: HD, HHD and 2.7 K resolution level; whereas, you can enjoy stills with 12MP capabilities. All the resulting videos of Phantom device use to be of excellent quality with crystal clear details and all movements are reflected with very smooth and clean fashion. The great news is here that phantom 3 offers intuitive control video settings and one can make easy adjustments to avail soft, real and fuzzy videos.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ DJI is well known for impressive drone designs and Phantom 3 Standard is a wonderful addition to its quadcopter series. This device provides total [flight time](https://tools.techidaily.com/wondershare/filmora/download/) of 25 minutes and can move up to 1.2 miles with one charge. The added 4k resolution ability with advanced stabilization feature improves its recording focus. Beginners will love to use its return to home feature along with GPS, sensor stabilization and flight path control abilities.
+
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
+## Complete review for DJ Phantom 3 Standard
+
+#### Pros and Cons
+
+**Pros:**
+
+* Impressive photo and video quality.
+* The interactive DJI Go application makes everything much easier.
+* It is rated as a ready to fly type quad copter design that holds a build in camera and supports 2.7K resolution.
+* Intelligent flight modes will make everything more interesting.
+**Cons:**
+* Some glitches during video recording are observed.
+* It takes too much time to charge battery.
+
+**Verdict:**
+
+ With a price tag of $499, DJI phantom Quadcopter is best product for beginners. You will surely find a great deal for limited price in terms of impressive features, design and ease of use. DJI Phantom can beat most of competing models with its advanced mounting options.
+
+#### Features and Specs
+
+ This latest quadcoper model can assist beginners as well as professionals with 2.7k impressive video footage recording ability. The MicroSD card can store up to 128GB of data. This device has lots of features to offer as an airborne videographer and users can have better control on all movements from remote locations. Use return home feature to call it back whenever you need.
+
+**Specs:**
+
+* It comes with 4 rotors having 9.5 inches diameters and all of them are replaceable.
+* A Li-ion polymer battery is attached with 4800 mAh capacity.
+* It can serve you up to 20 minutes in air with one charge.
+* Overall dimensions are 19x19x8” only.
+* 2 pounds, 11 ounces is overall weight of Phantom 3 standard.
+
+#### Design
+
+ Phantom 3 Standard product is designs with almost same appearance as that of other members of phantom family but there are few key differences in terms of design and features. You will find the battery and all electronics inside its central body whereas the case itself is made up of graceful plain plastic material. The landing gear is attached to bottom side of drone whereas gimbal is attached between two landing arms. Its overall weight goes up to 2 pounds 11 ounces whereas total dimension is about 19x19x8 inches.
+
+#### Battery Life
+
+ Phantom 3 Standard quadcopter comes with single large battery unit that has 4480mHa capacity. It offers total 21 minutes in air with full charge. This battery will take much time to get fully charged; you may have to wait for 50 minutes to get it done. It is not so easy to buy spare batteries for your Phantom 3 Standard device because they are pretty costly with a average price tag of $145.
+
+#### Flight Performance
+
+ This device can be controlled with touch screen functionality as well as by using conventional remote control. The quadcopter demands hard work from user if they want to use manual control buy auto control facilities are also available with DJI Go app that makes takeoff as well as landing much easier.
+
+ DJI Phantom offers 35 miles/ hour horizontal speed whereas 11miles/hour is offered as its vertical speed. Note that it is not ranked as a stunt quadcopter so you need to be careful about its stability in air. It is not designed to perform sudden flips and adventurous activities in air.
+
+#### Control Range
+
+ The Phantom 3 standard quadcopter consists of two control parts: one is the standard hardware based remote control part and another is the software application that works on android as well as iOS devices. With this remote control unit you can avail incredible flying experience but the app can have autonomous control over it. The remote control unit generally possesses a simple white box type antenna, few switches, two control sticks and dial on the sides. It does not possess any display but a set of few LEDs that provide continuous battery level indication.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard-controller.jpg)
+
+ By using specially designed control sticks you can easily move the motors in desired direction. On the other side, the advanced application provides easy controls to flight modes, GPS, signal strength and battery level monitoring. The bottom portion of application indicates speed, altitude, heading and other location based details. Map will help users to gain full control over live view details and it will update the hybrid or satellite based location information on the go.
+
+ There are five different modes available under settings manual; once you disable the beginner’s mode then you will be able to gain access to points of interest, follow me, waypoint, home lock and course lock modes. All these modes assist users to enjoy incredible flight experience in air.
+
+#### Camera (Video and Camera Image)
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard-camera.jpg)
 
  Phantom 3 Standard is able to capture videos with three different modes: HD, HHD and 2.7 K resolution level; whereas, you can enjoy stills with 12MP capabilities. All the resulting videos of Phantom device use to be of excellent quality with crystal clear details and all movements are reflected with very smooth and clean fashion. The great news is here that phantom 3 offers intuitive control video settings and one can make easy adjustments to avail soft, real and fuzzy videos.
@@ -154,6 +330,9 @@ Follow @Max Wales
 
  The Phantom 3 standard quadcopter consists of two control parts: one is the standard hardware based remote control part and another is the software application that works on android as well as iOS devices. With this remote control unit you can avail incredible flying experience but the app can have autonomous control over it. The remote control unit generally possesses a simple white box type antenna, few switches, two control sticks and dial on the sides. It does not possess any display but a set of few LEDs that provide continuous battery level indication.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard-controller.jpg)
 
  By using specially designed control sticks you can easily move the motors in desired direction. On the other side, the advanced application provides easy controls to flight modes, GPS, signal strength and battery level monitoring. The bottom portion of application indicates speed, altitude, heading and other location based details. Map will help users to gain full control over live view details and it will update the hybrid or satellite based location information on the go.
@@ -166,158 +345,9 @@ Follow @Max Wales
 
  Phantom 3 Standard is able to capture videos with three different modes: HD, HHD and 2.7 K resolution level; whereas, you can enjoy stills with 12MP capabilities. All the resulting videos of Phantom device use to be of excellent quality with crystal clear details and all movements are reflected with very smooth and clean fashion. The great news is here that phantom 3 offers intuitive control video settings and one can make easy adjustments to avail soft, real and fuzzy videos.
 
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- DJI is well known for impressive drone designs and Phantom 3 Standard is a wonderful addition to its quadcopter series. This device provides total [flight time](https://tools.techidaily.com/wondershare/filmora/download/) of 25 minutes and can move up to 1.2 miles with one charge. The added 4k resolution ability with advanced stabilization feature improves its recording focus. Beginners will love to use its return to home feature along with GPS, sensor stabilization and flight path control abilities.
-
-![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard.jpg)
-
-## Complete review for DJ Phantom 3 Standard
-
-#### Pros and Cons
-
-**Pros:**
-
-* Impressive photo and video quality.
-* The interactive DJI Go application makes everything much easier.
-* It is rated as a ready to fly type quad copter design that holds a build in camera and supports 2.7K resolution.
-* Intelligent flight modes will make everything more interesting.
-**Cons:**
-* Some glitches during video recording are observed.
-* It takes too much time to charge battery.
-
-**Verdict:**
-
- With a price tag of $499, DJI phantom Quadcopter is best product for beginners. You will surely find a great deal for limited price in terms of impressive features, design and ease of use. DJI Phantom can beat most of competing models with its advanced mounting options.
-
-#### Features and Specs
-
- This latest quadcoper model can assist beginners as well as professionals with 2.7k impressive video footage recording ability. The MicroSD card can store up to 128GB of data. This device has lots of features to offer as an airborne videographer and users can have better control on all movements from remote locations. Use return home feature to call it back whenever you need.
-
-**Specs:**
-
-* It comes with 4 rotors having 9.5 inches diameters and all of them are replaceable.
-* A Li-ion polymer battery is attached with 4800 mAh capacity.
-* It can serve you up to 20 minutes in air with one charge.
-* Overall dimensions are 19x19x8” only.
-* 2 pounds, 11 ounces is overall weight of Phantom 3 standard.
-
-#### Design
-
- Phantom 3 Standard product is designs with almost same appearance as that of other members of phantom family but there are few key differences in terms of design and features. You will find the battery and all electronics inside its central body whereas the case itself is made up of graceful plain plastic material. The landing gear is attached to bottom side of drone whereas gimbal is attached between two landing arms. Its overall weight goes up to 2 pounds 11 ounces whereas total dimension is about 19x19x8 inches.
-
-#### Battery Life
-
- Phantom 3 Standard quadcopter comes with single large battery unit that has 4480mHa capacity. It offers total 21 minutes in air with full charge. This battery will take much time to get fully charged; you may have to wait for 50 minutes to get it done. It is not so easy to buy spare batteries for your Phantom 3 Standard device because they are pretty costly with a average price tag of $145.
-
-#### Flight Performance
-
- This device can be controlled with touch screen functionality as well as by using conventional remote control. The quadcopter demands hard work from user if they want to use manual control buy auto control facilities are also available with DJI Go app that makes takeoff as well as landing much easier.
-
- DJI Phantom offers 35 miles/ hour horizontal speed whereas 11miles/hour is offered as its vertical speed. Note that it is not ranked as a stunt quadcopter so you need to be careful about its stability in air. It is not designed to perform sudden flips and adventurous activities in air.
-
-#### Control Range
-
- The Phantom 3 standard quadcopter consists of two control parts: one is the standard hardware based remote control part and another is the software application that works on android as well as iOS devices. With this remote control unit you can avail incredible flying experience but the app can have autonomous control over it. The remote control unit generally possesses a simple white box type antenna, few switches, two control sticks and dial on the sides. It does not possess any display but a set of few LEDs that provide continuous battery level indication.
-
-![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard-controller.jpg)
-
- By using specially designed control sticks you can easily move the motors in desired direction. On the other side, the advanced application provides easy controls to flight modes, GPS, signal strength and battery level monitoring. The bottom portion of application indicates speed, altitude, heading and other location based details. Map will help users to gain full control over live view details and it will update the hybrid or satellite based location information on the go.
-
- There are five different modes available under settings manual; once you disable the beginner’s mode then you will be able to gain access to points of interest, follow me, waypoint, home lock and course lock modes. All these modes assist users to enjoy incredible flight experience in air.
-
-#### Camera (Video and Camera Image)
-
-![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard-camera.jpg)
-
- Phantom 3 Standard is able to capture videos with three different modes: HD, HHD and 2.7 K resolution level; whereas, you can enjoy stills with 12MP capabilities. All the resulting videos of Phantom device use to be of excellent quality with crystal clear details and all movements are reflected with very smooth and clean fashion. The great news is here that phantom 3 offers intuitive control video settings and one can make easy adjustments to avail soft, real and fuzzy videos.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- DJI is well known for impressive drone designs and Phantom 3 Standard is a wonderful addition to its quadcopter series. This device provides total [flight time](https://tools.techidaily.com/wondershare/filmora/download/) of 25 minutes and can move up to 1.2 miles with one charge. The added 4k resolution ability with advanced stabilization feature improves its recording focus. Beginners will love to use its return to home feature along with GPS, sensor stabilization and flight path control abilities.
-
-![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard.jpg)
-
-## Complete review for DJ Phantom 3 Standard
-
-#### Pros and Cons
-
-**Pros:**
-
-* Impressive photo and video quality.
-* The interactive DJI Go application makes everything much easier.
-* It is rated as a ready to fly type quad copter design that holds a build in camera and supports 2.7K resolution.
-* Intelligent flight modes will make everything more interesting.
-**Cons:**
-* Some glitches during video recording are observed.
-* It takes too much time to charge battery.
-
-**Verdict:**
-
- With a price tag of $499, DJI phantom Quadcopter is best product for beginners. You will surely find a great deal for limited price in terms of impressive features, design and ease of use. DJI Phantom can beat most of competing models with its advanced mounting options.
-
-#### Features and Specs
-
- This latest quadcoper model can assist beginners as well as professionals with 2.7k impressive video footage recording ability. The MicroSD card can store up to 128GB of data. This device has lots of features to offer as an airborne videographer and users can have better control on all movements from remote locations. Use return home feature to call it back whenever you need.
-
-**Specs:**
-
-* It comes with 4 rotors having 9.5 inches diameters and all of them are replaceable.
-* A Li-ion polymer battery is attached with 4800 mAh capacity.
-* It can serve you up to 20 minutes in air with one charge.
-* Overall dimensions are 19x19x8” only.
-* 2 pounds, 11 ounces is overall weight of Phantom 3 standard.
-
-#### Design
-
- Phantom 3 Standard product is designs with almost same appearance as that of other members of phantom family but there are few key differences in terms of design and features. You will find the battery and all electronics inside its central body whereas the case itself is made up of graceful plain plastic material. The landing gear is attached to bottom side of drone whereas gimbal is attached between two landing arms. Its overall weight goes up to 2 pounds 11 ounces whereas total dimension is about 19x19x8 inches.
-
-#### Battery Life
-
- Phantom 3 Standard quadcopter comes with single large battery unit that has 4480mHa capacity. It offers total 21 minutes in air with full charge. This battery will take much time to get fully charged; you may have to wait for 50 minutes to get it done. It is not so easy to buy spare batteries for your Phantom 3 Standard device because they are pretty costly with a average price tag of $145.
-
-#### Flight Performance
-
- This device can be controlled with touch screen functionality as well as by using conventional remote control. The quadcopter demands hard work from user if they want to use manual control buy auto control facilities are also available with DJI Go app that makes takeoff as well as landing much easier.
-
- DJI Phantom offers 35 miles/ hour horizontal speed whereas 11miles/hour is offered as its vertical speed. Note that it is not ranked as a stunt quadcopter so you need to be careful about its stability in air. It is not designed to perform sudden flips and adventurous activities in air.
-
-#### Control Range
-
- The Phantom 3 standard quadcopter consists of two control parts: one is the standard hardware based remote control part and another is the software application that works on android as well as iOS devices. With this remote control unit you can avail incredible flying experience but the app can have autonomous control over it. The remote control unit generally possesses a simple white box type antenna, few switches, two control sticks and dial on the sides. It does not possess any display but a set of few LEDs that provide continuous battery level indication.
-
-![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard-controller.jpg)
-
- By using specially designed control sticks you can easily move the motors in desired direction. On the other side, the advanced application provides easy controls to flight modes, GPS, signal strength and battery level monitoring. The bottom portion of application indicates speed, altitude, heading and other location based details. Map will help users to gain full control over live view details and it will update the hybrid or satellite based location information on the go.
-
- There are five different modes available under settings manual; once you disable the beginner’s mode then you will be able to gain access to points of interest, follow me, waypoint, home lock and course lock modes. All these modes assist users to enjoy incredible flight experience in air.
-
-#### Camera (Video and Camera Image)
-
-![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard-camera.jpg)
-
- Phantom 3 Standard is able to capture videos with three different modes: HD, HHD and 2.7 K resolution level; whereas, you can enjoy stills with 12MP capabilities. All the resulting videos of Phantom device use to be of excellent quality with crystal clear details and all movements are reflected with very smooth and clean fashion. The great news is here that phantom 3 offers intuitive control video settings and one can make easy adjustments to avail soft, real and fuzzy videos.
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -350,3 +380,41 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/1716276230286-infographic-dji-mavic-air-vs-dji-spark-a-gamer-changer-again/"><u>[Infographic] DJI Mavic Air Vs. DJI Spark - A Gamer Changer Again?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-adobes-path-to-perfection-the-premier-lut-list/"><u>[New] Adobe’s Path to Perfection  The Premier LUT List</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-image-safekeepers-online/"><u>[New] Best Image Safekeepers Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-budget-friendly-cloud-storage-pricing-guide-2024-update/"><u>[New] Budget-Friendly Cloud Storage Pricing Guide - 2024 Update</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-cheapest-4k-dslrmirrorless-cameras-and-camcorders/"><u>[New] Cheapest 4K DSLR/Mirrorless Cameras and Camcorders</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-competing-to-the-best-substitutes-for-samsungs-gear-360/"><u>[New] Competing to the Best  Substitutes for Samsung's Gear 360</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-curators-choice-top-12-websites-to-steal-millions-of-favorite-pixels/"><u>[Updated] A Curator's Choice  Top 12 Websites to Steal Millions of Favorite Pixels</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-avoidance-techniques-for-oculus-motion-sickness/"><u>[Updated] Avoidance Techniques for Oculus Motion Sickness</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-captivating-windows-11-visual-themes/"><u>[Updated] Crafting Captivating Windows 11 Visual Themes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-web-conversion-solutions-for-direct-hassle-free-gif-to-video/"><u>2024 Approved  Best Web Conversion Solutions For Direct, Hassle-Free GIF To Video</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-photographs-from-movies-in-windows-photos-app-for-savvy-users/"><u>2024 Approved  Capturing Photographs From Movies in Windows Photos App for Savvy Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-comprehensive-guide-to-azure-speech-to-text-implementation-for-2024/"><u>A Comprehensive Guide to Azure Speech-to-Text Implementation for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aperture-aces-top-picks-the-most-impressive-6-4k-dslrs-for-2024/"><u>Aperture Aces' Top Picks  The Most Impressive 6 4K DSLRs for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/asmr-tactics-your-path-to-nocturnal-serenity-for-2024/"><u>ASMR Tactics  Your Path to Nocturnal Serenity for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/av1-and-vp9-face-off-which-succeeds-more-in-2024/"><u>AV1 and VP9 Face-Off  Which Succeeds More, In 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/breaking-into-the-top-1m-youtube-view-hacks-revealed/"><u>Breaking Into the Top 1M  YouTube View Hacks Revealed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/composing-captivating-podcast-narratives-for-2024/"><u>Composing Captivating Podcast Narratives for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-analysis-of-samsung-image-editor/"><u>Comprehensive Analysis of Samsung Image Editor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fundamentals-for-newcomers-on-screen-quality-measures/"><u>Fundamentals for Newcomers on Screen Quality Measures</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capturing-the-moment-expert-tips-for-amazing-android-slow-mo-videos/"><u>In 2024, Capturing the Moment  Expert Tips for Amazing Android Slow Mo Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-complete-walkthrough-mastering-adobe-cloud-services/"><u>In 2024, Complete Walkthrough  Mastering Adobe Cloud Services</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-breakdown-of-polarr-photo-editors-features/"><u>In 2024, Comprehensive Breakdown of Polarr Photo Editor's Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-where-to-buy-gopro-cameras-best-cheap-gopro-deals/"><u>In 2024, Where to Buy GoPro Cameras  Best Cheap GoPro Deals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-strategies-for-elevating-your-onestream-experience/"><u>Innovative Strategies for Elevating Your OneStream Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/instagram-snapshot-of-an-enlightening-episode/"><u>Instagram Snapshot of an Enlightening Episode</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/majestic-celestial-images-at-your-command/"><u>Majestic Celestial Images at Your Command</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-photo-frames-leading-software-reviews/"><u>Mastering Photo Frames  Leading Software Reviews</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-best-of-the-best-exciting-windows-10-apps-and-games/"><u>The Best of the Best  Exciting Windows 10 Apps & Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-composers-toolkit-for-imovie-audio/"><u>The Composer's Toolkit for iMovie Audio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-journey-to-crafting-wow-worthy-collage-art/"><u>The Journey to Crafting Wow-Worthy Collage Art</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-xbox-one-and-zoom-harmony/"><u>The Ultimate Guide to Xbox One and Zoom Harmony</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-creativity-incorinasive-use-of-luts-in-video-editing/"><u>Unlocking Creativity  Incorinasive Use of LUTs in Video Editing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/video-transformation-pics-and-tunes-fusion/"><u>Video Transformation  Pics and Tunes Fusion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/virtuality-unleashed-insightful-reviews-of-top-10-pc-vr-streamers/"><u>Virtuality Unleashed  Insightful Reviews of Top 10 PC VR Streamers</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Boost Engagement in Stories  Tips for Adding Smoothly Animated Text\""
-date: 2024-05-24T04:53:02.356Z
-updated: 2024-05-25T04:53:02.356Z
+date: 2024-07-25T04:10:00.821Z
+updated: 2024-07-26T04:10:00.821Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Boost Engagement in Stories: Tips for Adding Smoothly Animated Text\""
 excerpt: "\"This Article Describes 2024 Approved: Boost Engagement in Stories: Tips for Adding Smoothly Animated Text\""
 keywords: "Story Boosting Tips,Smooth Animation Words,Engage Through Text,Dynamic Story Elements,Animate Text Effectively,Animated Narrative Tech,Stories Enhancement Guide"
-thumbnail: https://www.lifewire.com/thmb/52vAO-Tr9m6ZoIOARQ_rx3SY5GY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/womanchargingcarwithdognearby_RyanJLane_Getty-60af98b715d241ea8be4252d5bf1e967.jpg
+thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60e59b4a6159a2401dabd161b.jpg
 ---
 
 ## Boost Engagement in Stories: Tips for Adding Smoothly Animated Text
@@ -22,6 +22,13 @@ Instagram text animations let you publish more frankly and provide behind-the-sc
 
 An engaging Instagram animated text video may help you bring your concept to life. With the help of our animated text guide, you can access typographic templates that have been expertly produced and animated scenarios that you can use to effectively communicate with your audience. Instagram stories provide users the chance to post images and videos that vanish after 24 hours. As Instagram users now have the opportunity to post their animated text Instagram story to a highlights area beneath their bio, here are some ways to add Instagram text animations.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## Way 1\. Use Instagram App
 
 Instagram has made animated text for stories available to all users. More than half of viewers pay close attention to videos, making them the most engaging content format. A new button to make your text animated has been added to the top of the text editing menu in tale creation mode. Your text may flicker or slide from the left depending on the font style.
@@ -32,10 +39,16 @@ The easiest method to ensure that people remember what they've read is to delive
 
 Step1 Swipe right on Instagram after it's open to go to the story’s creator. Use the create feature to make a stories post, take or upload a picture or video, or both.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![swipe right on instagram](https://images.wondershare.com/filmora/article-images/2022/09/swipe-right-on-instagram.jpg)
 
 Step2 To add words to your tales post, use the text tool. Typing, fading in, bouncing, stretching, swaying, and illuminating are all examples of text animation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add words to post instagram](https://images.wondershare.com/filmora/article-images/2022/09/add-words-to-post-instagram.jpg)
 
 Step3 The Animate button, which is shown above the other text-related buttons for alignment and color, gives your text some extra life by causing it to glide up and down the screen. Click the symbol for the animation.
@@ -70,12 +83,18 @@ After choosing your scenes, go to the editor to begin creating your animation. T
 
 Filmora is here to spark your creativity if you're at a stage when it's lacking. Utilize this technology to make a design stand out from the competition. You may look at the Templates in the Stock to see how well animated designs capture our attention. Choose from hundreds of text animation modes, many of which include further customization options, such as fade, slide, typewriter, flicker, and more. Select a template, then remix it with your own images and touches.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![use animated text templates](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
 
 ##### Step4 Export the Animated Instagram Story
 
 Go to the "Preview" section to see the video after you've completely altered it to your tastes. You may quickly return to the editor and make any necessary adjustments to your text animation. Export the finished video in the resolution you desire. When the movie exports, you can either save it to your device or click the "Share" button to immediately share your text animation on social media.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 3\. Create Instagram Text animation Online
 
 Even if you may submit a picture to your Instagram Story with animated text, the function doesn't allow you to add whatever text you want, just like a regular post. Use the FlexClip to do it online instead. Start creating your animation by going to the online editor. Text, pictures, movies, and logo animations may all be included. You may simply continue to customize by changing the text size, font, colors, and even the length of the movie.
@@ -86,6 +105,9 @@ Even if you may submit a picture to your Instagram Story with animated text, the
 
 Launch the FlexClip video editor after uploading your video, GIF, or picture and choose "Local Files." Click the "Plus" button to transfer it to the storyboard where it will be updated. The video may also be dragged from the folder and put straight into the editor. Directly upload a movie, GIF, or picture to FlexClip. Additionally, you may post a link from Twitter, YouTube, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload video into flexclip](https://images.wondershare.com/filmora/article-images/2022/09/upload-video-into-flexclip.jpg)
 
 ##### Step2 Pick a template or start from scratch
@@ -98,12 +120,18 @@ Choose a template to use first from the enormous collection of text animation te
 
 By producing the video from scratch, you may also practice your creativity. Click "Add Text" and choose one of the animation choices to accomplish it. To adjust the location, just drag and drop. You may also quickly alter the font and color choices. Choose a font style from the fantastic font library or just upload your own font style to your video project, and then use the free text animation tool to add some magic to your projects. To animate text, just pick it and click "Animate."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![animate text font flexclip](https://images.wondershare.com/filmora/article-images/2022/09/animate-text-font-flexclip.jpg)
 
 ##### Step4 Share it with your audience
 
 Once finished, you can either instantly share the finished product on various social networking networks with a single click or export it to your computer. There are no downloads necessary to use FlexClip, and it is totally free!
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![share media flexclip](https://images.wondershare.com/filmora/article-images/2022/09/share-media-flexclip.jpg)
 
 ## The Bottom Line
@@ -120,6 +148,9 @@ Right after you have downloaded and installed this toolkit to you PC. You can la
 
 After choosing your scenes, go to the editor to begin creating your animation. Text, pictures, movies, and logo animations may all be included. You may simply continue to customize by changing the text size, font, colors, and even the length of the movie. Don't forget to add a narration or a rhythm to make your animated text stand out.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![customize the media](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 ##### Step3 Use Animated Text Templates
@@ -132,6 +163,9 @@ Filmora is here to spark your creativity if you're at a stage when it's lacking.
 
 Go to the "Preview" section to see the video after you've completely altered it to your tastes. You may quickly return to the editor and make any necessary adjustments to your text animation. Export the finished video in the resolution you desire. When the movie exports, you can either save it to your device or click the "Share" button to immediately share your text animation on social media.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Way 3\. Create Instagram Text animation Online
 
 Even if you may submit a picture to your Instagram Story with animated text, the function doesn't allow you to add whatever text you want, just like a regular post. Use the FlexClip to do it online instead. Start creating your animation by going to the online editor. Text, pictures, movies, and logo animations may all be included. You may simply continue to customize by changing the text size, font, colors, and even the length of the movie.
@@ -190,3 +224,33 @@ The success or failure of your Instagram company depends in large part on engage
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-bending-images-photoshops-simplest-alterations/"><u>[New] Bending Images  Photoshop's Simplest Alterations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-iphone-camera-apps-for-pro-shots-and-free-use/"><u>[New] Best iPhone Camera Apps for Pro Shots and Free Use</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-chic-characters-cheeky-captions-making-memes/"><u>[New] Chic Characters, Cheeky Captions  Making Memes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-tomorrows-teachers-today-through-vr/"><u>[New] Crafting Tomorrow’s Teachers, Today Through VR</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-jargon-primer-for-virtual-experiences/"><u>[Updated] A Jargon Primer for Virtual Experiences</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-augmented-reality-shading-exploiting-free-lut-resources-for-ar/"><u>[Updated] Augmented Reality Shading  Exploiting Free LUT Resources for AR</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-a-standout-solo-podcast-experience/"><u>2024 Approved  Crafting a Standout Solo Podcast Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-free-and-paid-drawing-apps-for-android-os/"><u>Best Free and Paid Drawing Apps for Android OS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/charting-the-evolution-of-windows-movie-maker-for-2024/"><u>Charting the Evolution of Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/conquer-iphone-podcast-downloads-a-step-by-step-guidebook-for-2024/"><u>Conquer iPhone Podcast Downloads – A Step-by-Step Guidebook for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-the-ultimate-in-samsung-gear-vr-entertainment/"><u>Discover the Ultimate in Samsung Gear VR Entertainment</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-novice-to-professional-a-comprehensive-guide-to-mastering-final-cut-pro/"><u>From Novice to Professional  A Comprehensive Guide to Mastering Final Cut Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-guide-to-coloring-composition-with-confidence/"><u>In 2024, A Guide to Coloring Composition with Confidence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-beats-and-bits-the-art-of-adding-soundtracks-in-windows-11-media/"><u>In 2024, Beats & Bits  The Art of Adding Soundtracks in Windows 11 Media</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-captivate-your-imagery-with-illustrators-motion-blur-tricks/"><u>In 2024, Captivate Your Imagery with Illustrator's Motion Blur Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-complete-narrative-what-is-google-podcast/"><u>In 2024, Complete Narrative  What Is Google Podcast?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/investment-requirements-for-video-promotion/"><u>Investment Requirements for Video Promotion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/"><u>IPhone Tricks to Embrace Camera's Motion Artistry</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leading-10-in-ultra-hd-top-4k-mirrorless-photo-journals/"><u>Leading 10 in Ultra-HD  Top 4K Mirrorless Photo Journals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/professional-tips-top-10-text-effects/"><u>Professional Tips  Top 10 Text Effects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/rev-up-with-hubsans-x4-fpv-quadcopter-review/"><u>Rev Up with Hubsan's X4 FPV Quadcopter Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/simplified-protocol-effortless-video-conversion-and-dvd-making/"><u>Simplified Protocol  Effortless Video Conversion and DVD Making</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/smartphone-entertainment-at-no-cost-our-top-picks-of-live-streamers/"><u>Smartphone Entertainment at No Cost  Our Top Picks of Live Streamers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-best-text-plugins-for-ae-users/"><u>Top 10 Best Text Plugins for AE Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unraveling-the-potential-of-aurora-hdr-tech/"><u>Unraveling the Potential of Aurora HDR Tech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visualizing-creativity-to-perfection-with-magix-video-pro-x/"><u>Visualizing Creativity to Perfection with Magix Video Pro X</u></a></li>
+</ul></div>

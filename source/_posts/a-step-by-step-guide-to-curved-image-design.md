@@ -1,7 +1,7 @@
 ---
 title: "\"A Step-by-Step Guide to Curved Image Design\""
-date: 2024-05-24T04:55:02.539Z
-updated: 2024-05-25T04:55:02.539Z
+date: 2024-07-25T04:13:43.582Z
+updated: 2024-07-26T04:13:43.582Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes A Step-by-Step Guide to Curved Image Design\""
 excerpt: "\"This Article Describes A Step-by-Step Guide to Curved Image Design\""
 keywords: "Curved Image Tips,Image Design Techniques,Creating Curved Images,Image Distortion Guide,Artistic Curve Effects,Photo Warp Methods,Curved Image Editing Steps"
-thumbnail: https://www.lifewire.com/thmb/vXzGCCt3ZybDwPnujvfgqgFe6Y8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/markus-winkler-IrRbSND5EUc-unsplash-9edfd76b5a84442885dd247c033445a4.jpg
+thumbnail: https://thmb.techidaily.com/8e45fcad350df735f2b4416d42d7d71c8933e8227de663d1016dd55e7780d59f.jpg
 ---
 
 ## A Step-by-Step Guide to Curved Image Design
 
 In this Photoshop tutorial, we're going to carve an image using four simple steps. Curving an image can be a great way to add some extra visual interest and dimension, and it's a technique that can be used with a wide range of images. So, let's get started!
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/curve-image-photoshop.jpg)
 
 ## Simple Steps to Curve an Image in Photoshop
@@ -32,12 +35,18 @@ To keep things simple, let's start with a white canvas. Let's open a new documen
 
 After creating the new document, open the image that you want to curve. You may do so by going to File > Open in the menu bar or pressing Ctrl+O or Command+O on your keyboard. Once the image is open, go to Edit in the menu bar and select Place Embedded from the drop-down menu that appears. Select your image and click Place. The image will be placed on the canvas. If the document's size does not match that of the image, you will see a transformation box surrounding the image.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
 
 ##### Step3Warp the Image
 
 Now we'll curve the image using the Warp Tool. Select the Warp Tool by clicking and holding on the Transform Tool in the toolbar. The Warp Tool is located at the bottom of the Transform Tool's fly-out menu. Alternatively, you may press Ctrl+T or Command+T on your keyboard to open the Transform Tool's fly-out menu and then select the Warp Tool from there.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![wrap image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/wrap-image-photoshop.jpg)
 
 With the Warp Tool selected, hover your cursor over the image. You'll see a grid appear over the image. Click and drag one of the middle nodes in the horizontal direction to begin curving the image. As you drag, you'll see the image curve along with your cursor. If you want to increase or decrease the amount of curvature, simply press and hold the Shift key while dragging the node.
@@ -48,6 +57,9 @@ Play around with the settings in the options bar. There are quite a few differen
 
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
 
 **Vertical Distortion** makes the image look as if it's leaning backward.
@@ -56,10 +68,16 @@ Play around with the settings in the options bar. There are quite a few differen
 
 The **Bend Direction** option rotates the angle of the bend.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
 
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
 
 ##### Step4Save the Image
@@ -102,3 +120,29 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/comedy-gold-examining-the-goofy-vhs-experience/"><u>'Comedy Gold'  Examining the Goofy VHS Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-adventure-showdown-analyzing-gopros-hero5b-and-session/"><u>[New] Adventure Showdown  Analyzing GoPro's Hero5B & Session</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-convert-your-social-feeds-videos-into-listenable-audio/"><u>[New] Convert Your Social Feed's Videos Into Listenable Audio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-avoid-the-spinning-room-top-5-vr-motion-control-techniques/"><u>[Updated] Avoid the Spinning Room  Top 5 VR Motion Control Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-become-a-viral-sensation-crafting-impressive-unboxing-videos/"><u>[Updated] Become a Viral Sensation  Crafting Impressive Unboxing Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-correcting-unsteady-flight-footage-artifacts/"><u>[Updated] Correcting Unsteady Flight Footage Artifacts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-list-of-8-best-free-and-paid-movie-apps-for-iphone/"><u>[Updated] List of 8 Best Free and Paid Movie Apps for iPhone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-in-class-memetics-engine/"><u>2024 Approved  Best-in-Class Memetics Engine</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-big-sur-basics-system-and-hardware-checklist/"><u>2024 Approved  Big Sur Basics  System & Hardware Checklist</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-full-review-of-cutspace-suite-with-visualfx-tools-2023-for-2024/"><u>A Full Review of CutSpace Suite with VisualFX Tools, 2023 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audience-appeal-expert-tips-on-post-production-and-editing-in-garageband-for-2024/"><u>Audience Appeal  Expert Tips on Post-Production and Editing in GarageBand for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bestiary-of-no-cost-iphone-enhancement-apps-for-ultimate-selfies/"><u>Bestiary of No-Cost iPhone Enhancement Apps for Ultimate Selfies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ideal-e-commerce-avenues-for-aesthetic-box-personalization/"><u>Ideal E-Commerce Avenues for Aesthetic Box Personalization</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-cropping-and-focus-mastery/"><u>In 2024, Advanced Cropping and Focus Mastery</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-alliance-of-creativity-brands-and-youtubes-fusion/"><u>In 2024, Alliance of Creativity  Brands and YouTube's Fusion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-aviations-new-titans-dji-phantom-pro-and-gopro-k20-ii/"><u>In 2024, Aviation's New Titans  DJI Phantom Pro & GoPro K20 II</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-ipodiverse-compreenasol-for-ios-podcast-downloads/"><u>Navigating the iPodiverse  Compreenasol for iOS Podcast Downloads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfecting-your-srt-file-dispatch-for-maximum-social-exposure/"><u>Perfecting Your SRT File Dispatch for Maximum Social Exposure</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pinnaclepix-z7-pro-elevate-your-photos-dimensions/"><u>PinnaclePix Z7 Pro  Elevate Your Photo's Dimensions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlining-the-search-for-spotless-stock-visuals/"><u>Streamlining the Search for Spotless Stock Visuals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tailoring-windows-11-walls-to-perfection/"><u>Tailoring Windows 11 Walls to Perfection</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-roadmap-to-free-cut-out-imagery/"><u>The Roadmap to Free Cut-Out Imagery</u></a></li>
+</ul></div>

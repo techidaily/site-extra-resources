@@ -1,7 +1,7 @@
 ---
 title: "\"Beam-Wise Video Setups  Expert Strategies to Shine\""
-date: 2024-05-24T04:56:35.000Z
-updated: 2024-05-25T04:56:35.000Z
+date: 2024-07-25T04:16:21.847Z
+updated: 2024-07-26T04:16:21.847Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Beam-Wise Video Setups: Expert Strategies to Shine\""
 excerpt: "\"This Article Describes Beam-Wise Video Setups: Expert Strategies to Shine\""
 keywords: "Beam Optimization Tips,Wise Lighting Techniques,Expert Visual Setup,Professional Illumination Guide,Video Production Efficiency,Strategic Camera Positioning,Brightness Control Methods"
-thumbnail: https://www.lifewire.com/thmb/fISZPTsU28blhcDW4RpwajAAPvM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/SportsPeoplev3a-2e1cc0e86b164d6097cc018c9ddf9728.jpg
+thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05d2a33906086e284e9c970a7.jpg
 ---
 
 ## Beam-Wise Video Setups: Expert Strategies to Shine
@@ -46,6 +46,9 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ##### Step1 Set the Key Light
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
@@ -58,6 +61,9 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ##### Step3 Set the Backlight
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -70,6 +76,9 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
@@ -84,14 +93,32 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 **Using Key Light + Fill + Backlight**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -126,3 +153,40 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/21-edition-spotlight-the-new-era-of-sports-betting-in-vegas-pro/"><u>'21 Edition Spotlight – The New Era of Sports Betting in Vegas Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2023s-top-free-premiere-pro-masterpieces/"><u>2023'S Top Free Premiere Pro Masterpieces</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-10-best-voice-modification-apps-for-vtubing-success/"><u>2024 Approved  10 Best Voice Modification Apps for VTubing Success</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-10plus-best-photo-to-cartoon-softwares/"><u>2024 Approved  10+ Best Photo to Cartoon Softwares</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-guide-to-the-best-5-book-tt-examples/"><u>2024 Approved  A Guide to the Best 5 Book TT Examples</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-achieving-prominence-with-apples-listings/"><u>2024 Approved  Achieving Prominence with Apple's Listings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-affordable-4k-lens-and-recorders/"><u>2024 Approved  Affordable 4K Lens & Recorders</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-behind-the-scenes-changing-video-pace-in-social-media/"><u>2024 Approved  Behind the Scenes  Changing Video Pace in Social Media</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-10-websites-for-premium-quality-vector-stock-images/"><u>2024 Approved  Best 10 Websites for Premium-Quality Vector Stock Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-camcorders-featuring-direct-faceviewing/"><u>2024 Approved  Best Camcorders Featuring Direct FaceViewing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-free-after-effects-title-templates/"><u>2024 Approved  Best Free After Effects Title Templates</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-big-sur-breakdown-understanding-the-latest-macos-update/"><u>2024 Approved  Big Sur Breakdown  Understanding the Latest macOS Update</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-can-creators-earn-from-product-video-reviews/"><u>2024 Approved  Can Creators Earn From Product Video Reviews?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-breakdown-sony-fdr-x1000v-complete-guide/"><u>2024 Approved  Comprehensive Breakdown  Sony FDR-X1000V Complete Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-constructing-characters-settings-and-stories/"><u>2024 Approved  Constructing Characters, Settings & Stories</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-a-cinematic-short-blending-images-and-melodies/"><u>2024 Approved  Crafting a Cinematic Short  Blending Images and Melodies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-your-virtual-alter-ego-in-a-metaverse-setting/"><u>2024 Approved  Crafting Your Virtual Alter Ego in a Metaverse Setting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-top-10-collage-apps-for-android-top-picks/"><u>2024 Approved  Top 10 Collage Apps for Android (Top Picks)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/6-vital-video-forms-for-captivated-viewers-for-2024/"><u>6 Vital Video Forms for Captivated Viewers for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-beginners-guide-to-understanding-youtube-responses/"><u>A Beginner's Guide to Understanding YouTube Responses</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-novices-introduction-to-av1-codec-for-2024/"><u>A Novice's Introduction to AV1 Codec for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-step-by-step-premiere-pro-for-softening-soundtracks/"><u>A Step-by-Step Premiere Pro for Softening Soundtracks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/adept-methods-for-mass-acquiring-videos-on-tiktok-app/"><u>Adept Methods for Mass Acquiring Videos on TikTok App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aerial-stability-made-simple-selecting-the-right-drone-gimbals-for-2024/"><u>Aerial Stability Made Simple  Selecting the Right Drone Gimbals for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/all-encompassing-mobility-review/"><u>All-Encompassing Mobility Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/amplifying-visuals-android-video-guide/"><u>Amplifying Visuals  Android Video Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/assessing-the-video-capacity-of-64gb-drives/"><u>Assessing the Video Capacity of 64Gb Drives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audio-accomplishment-iphone-as-a-podcast-hub-for-2024/"><u>Audio Accomplishment  IPhone as a Podcast Hub for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audio-craftsmanship-weaving-voiceovers-into-visual-tapestries-for-2024/"><u>Audio Craftsmanship  Weaving Voiceovers Into Visual Tapestries for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoid-abrupt-jumps-perfecting-inshot-transitions-for-2024/"><u>Avoid Abrupt Jumps  Perfecting Inshot Transitions for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoiding-ambiguity-clear-dating-of-digital-pics/"><u>Avoiding Ambiguity  Clear Dating of Digital Pics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-11-beginner-oriented-waterproof-video-recorders-for-youngsters-for-2024/"><u>Best 11 Beginner-Oriented Waterproof Video Recorders for Youngsters for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-your-drone-experience-with-these-11-items-for-2024/"><u>Boosting Your Drone Experience with These 11 Items for 2024</u></a></li>
+</ul></div>

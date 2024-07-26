@@ -1,7 +1,7 @@
 ---
 title: "\"Pro Video Illumination  Top Strategies for Immaculate Cinematography\""
-date: 2024-05-24T05:12:27.843Z
-updated: 2024-05-25T05:12:27.843Z
+date: 2024-07-25T04:45:18.656Z
+updated: 2024-07-26T04:45:18.656Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Pro Video Illumination: Top Strategies for Immaculate Cinematography\""
 excerpt: "\"This Article Describes Pro Video Illumination: Top Strategies for Immaculate Cinematography\""
 keywords: "\"Cinematic Lighting Techniques,Pro Video Shot Quality,Mastering Camera Illumination,Immaculate Filmmaking Tips,Top Film Light Setup Strategies,High-Quality Cinema Lighting,Professional Cinematography Lights\""
-thumbnail: https://www.lifewire.com/thmb/EfVcCvt847EIyGogkSGXl-6NCV8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139785112-76d1d0f975934233883a19f33b8cd813.jpg
+thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660de659b232891d22eb2e884d9.jpg
 ---
 
 ## Pro Video Illumination: Top Strategies for Immaculate Cinematography
@@ -58,6 +58,9 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ##### Step3 Set the Backlight
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -66,14 +69,23 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
 After setting up all the lighting above, you can take a look at the comparison below:
@@ -90,8 +102,15 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -126,3 +145,46 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-a-comprehensive-introduction-to-color-grading-and-luts-in-pscc/"><u>[New] A Comprehensive Introduction to Color Grading and LUTs in PSCC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-audiophiles-guide-selecting-prime-tools-for-vtuber-voice-alteration/"><u>[New] Audiophile's Guide  Selecting Prime Tools for VTuber Voice Alteration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-affordable-overseas-vr-headsets-china/"><u>[Updated] Affordable Overseas VR Headsets (China)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-magnetic-content-with-personalized-animated-gifs/"><u>[Updated] Crafting Magnetic Content with Personalized Animated GIFs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-winning-marketing-campaigns-based-on-market-research-data/"><u>[Updated] Crafting Winning Marketing Campaigns Based on Market Research Data</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-how-to-change-video-speed-on-instagram-stories/"><u>[Updated] How to Change Video Speed on Instagram Stories?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-laughs-in-layout-designer/"><u>2024 Approved  Best Laughs in Layout Designer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-color-grading-mastery-with-an-insight-into-lut-usage/"><u>2024 Approved  Color Grading Mastery with an Insight Into LUT Usage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-soft-endings-on-soundscapes-with-audacity/"><u>2024 Approved  Crafting Soft Endings on Soundscapes with Audacity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aerial-mastery-with-husqvarna-h501x4-fpv-analysis-for-2024/"><u>Aerial Mastery with Husqvarna H501X4 FPV Analysis for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aimp-pro-541-wmsps-advanced-desktop-companion-for-2024/"><u>AIMP Pro 5.41  WMSP's Advanced Desktop Companion for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/apples-innovation-the-m1-max-clip-explained/"><u>Apple's Innovation  The M1 Max Clip Explained</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aquatic-adventures-unveiled-tips-on-captivating-underwater-video-with-a-gopro-for-2024/"><u>Aquatic Adventures Unveiled  Tips on Captivating Underwater Video with a GoPro for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/artful-expression-on-tablets-leading-ios-drawers/"><u>Artful Expression on Tablets  Leading iOS Drawers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/behind-the-scenes-preparing-to-go-live-for-2024/"><u>Behind the Scenes  Preparing to Go Live for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/build-a-custom-vr-device-diy-google-cardboard-guide-for-2024/"><u>Build a Custom VR Device  DIY Google Cardboard Guide for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/combatting-blurry-and-warped-youtube-videos-for-2024/"><u>Combatting Blurry and Warped YouTube Videos for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/drone-for-sale-best-drones-to-buy/"><u>Drone for Sale - Best Drones to Buy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/flying-high-hubsan-h501x4-drone-unveiled/"><u>Flying High  Hubsan H501X4 Drone Unveiled</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-create-and-edit-videos-on-windows-10/"><u>How to Create and Edit Videos on Windows 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-attracting-audiences-hook-up-hacks-for-hosts/"><u>In 2024, Attracting Audiences  Hook-Up Hacks for Hosts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-augmenting-film-vistas-with-apple-playlist/"><u>In 2024, Augmenting Film Vistas with Apple Playlist</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-concealing-identity-swift-methods-for-picscanner/"><u>In 2024, Concealing Identity  Swift Methods for PicScanner</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-depth-analysis-leading-tv-streaming-providers/"><u>In-Depth Analysis  Leading TV Streaming Providers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-cloud-storage-solutions-mematic-app/"><u>Innovative Cloud Storage Solutions  Mematic App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-photography-boosted-by-ios-11-features/"><u>IPhone Photography Boosted by iOS 11 Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/live-streamer-showdown-pick-your-champion-between-wirecast-and-obs/"><u>Live Streamer Showdown  Pick Your Champion Between Wirecast and OBS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/livestream-leap-backwards-twenty-efficient-ways-for-twitch-enthusiasts/"><u>Livestream Leap Backwards  Twenty Efficient Ways for Twitch Enthusiasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-knowledge-acquisition-beyond-virtual-videos/"><u>Mastering Knowledge Acquisition Beyond Virtual Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-sponsorships-partnering-effectively-with-brands-live/"><u>Navigating Sponsorships  Partnering Effectively with Brands Live</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-nuances-of-snapchat-high-visibility/"><u>Navigating the Nuances of Snapchat High-Visibility</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pioneering-path-for-instantaneous-srt-to-text-conversions/"><u>Pioneering Path for Instantaneous SRT to Text Conversions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/savvy-sentries-of-the-mind-top-quizzes/"><u>Savvy Sentries of the Mind  Top Quizzes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/terracore-pros-fusion-of-touch-and-high-definition/"><u>TerraCore Pros  Fusion of Touch & High Definition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-of-capturing-intimate-film-moments/"><u>The Art of Capturing Intimate Film Moments</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-compilation-ringtone-renaissance-sites/"><u>Ultimate Compilation  Ringtone Renaissance Sites</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-your-imagination-best-drawers-for-ipados/"><u>Unleash Your Imagination  Best Drawers for iPadOS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/whatsapp-wisdom-top-30-astrology-inspired-biographies/"><u>WhatsApp Wisdom – Top 30 Astrology-Inspired Biographies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/yuneec-breeze-4k-drone-review/"><u>Yuneec Breeze 4K Drone Review</u></a></li>
+</ul></div>
