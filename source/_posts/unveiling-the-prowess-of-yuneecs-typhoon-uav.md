@@ -1,0 +1,176 @@
+---
+title: "Unveiling the Prowess of Yuneec's Typhoon UAV"
+date: 2024-08-26T11:54:09.663Z
+updated: 2024-08-27T11:54:09.663Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "This Article Describes Unveiling the Prowess of Yuneec's Typhoon UAV"
+excerpt: "This Article Describes Unveiling the Prowess of Yuneec's Typhoon UAV"
+keywords: "Yuneec Typhoon Aero,Aerial UAV Tech,Advanced Drone Yuneec,Yuneec High Performance UAV,UAV Innovation Tynece,Typhoon UAV Efficiency,Powerful Yuneec Drones"
+thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987fd8e7537df266174c877eec.jpg
+---
+
+## Unveiling the Prowess of Yuneec's Typhoon UAV
+
+# Yuneec Typhoon H Review
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ Yuneec Typhoon was one of the old champions in the drone market but it is still able to beat most of the advanced drone units with its incredible features. This device is designed to provide impressive results for [aerial videography and photography](https://tools.techidaily.com/wondershare/filmora/download/) even with its tiny size. This unit is especially designed to meet customer's requirements with all high end design capabilities that can be accessed at suitable price range.
+
+![yuneec typhoon h 4k](https://images.wondershare.com/filmora/article-images/yuneec-typhoon-h-4k.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01AT4BKFU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01AT4BKFU&linkId=e78ed50f4be15f8e7659a71d593af0c9)
+
+## Pros and Cons of Typhoon H
+
+**Pros:**
+
+* This device is more popular for its advanced features that are available at very small price range.
+* Offers 360 degree shooting ability with its rotating classic 4k camera unit.
+* Comes with retractable landing gear.
+* Users can have separate control over camera and drone.
+* Typhoon is equipped with sonar based object recognition feature.
+* Serves with Intel real-sense type obstacle avoidance system.
+* All parts are replaceable and are easily available in market, users can complete the replacement task with do it yourself procedures.
+
+**Cons:**
+
+* It is not designed with sturdy features as other comparable drone units.
+* You will not find its layout and size much user friendly.
+* Takes too much time for complete charging.
+
+## Complete Review for Yuneec Typhoon H
+
+#### 1. Basic Specs Info
+
+| Item name            | Yuneec Typhoon     |                       |                                                              |
+| -------------------- | ------------------ | --------------------- | ------------------------------------------------------------ |
+| Price:               | Official: $1299.99 |                       |                                                              |
+| Basic Specifications |                    |                       |                                                              |
+| Weight               | 1.85 Kg            | Rotors                | 6                                                            |
+| Control Range        | Up to one mile     | Flight Time/speed     | 25 minutes/45mph                                             |
+| FAA Registration     | Yes                | Smartphone Controlled | Yes                                                          |
+| FOV                  | 115 degree         | Battery Life          | 20/22 minutes (5200 mAh, Li-ion)                             |
+| Stills               | 12.4 MP            | Gimbal                | 3 axis                                                       |
+| Video Resolution     | 4K/30P             | Special Features      | Sonar Collision detection sensors and real-sense technology. |
+
+#### 2\.  Design
+
+ People love the 6 rotor type design of Typhoon because it helps a drone to stay perfectly in air even if one motor fails suddenly. It comes with quick release type propellers that are very easy to install as well as remove. One cooler feature of Typhoon is its foldable arms that help to make it compact enough for packing when you have to go for travelling. The sonar collision detection sensors help to avoid all distractions on the way and keep your device safe from crashes. Further, its real sense technology makes it able to navigate around objects that are detected by collision detection sensor.
+
+#### 3\.  Battery Life
+
+ As per the box specifications, this drone comes with a 5400mAh/ 14.8V/ 79.9 Wh battery that allows maximum flight time of 25 minutes in normal conditions. You will feel little annoying to know that its battery takes about 2 hours to get completely charged. So you have to wait so long to make it fly again.
+
+#### 4\.  Flight Performance
+
+ Typhoon offers 25 minutes flight time with the maximum speed of 45 meters per hour. This drone is designed with five unique modes for flight; one of these is the journey mode that helps to take of automatically and then starts taking selfie. You can activate follow me and watch me mode on this device and it will keep on following you over your path while keeping camera pointed towards your movements. One latest feature is Curve Cable Cam that helps users to program complete route for drone with pre set coordinates whereas camera positions can be controlled separately. If you switch to orbit me mode then it will start flying in circular direction but camera stays locked to control position. Further, the point of interest mode makes this drone to rotate around a fixed subject as per user's selection. You will definitely love its return to home feature that helps it to land safely to original position.
+
+#### 5\.  Obstacle Avoidance
+
+ Typhoon H is equipped with a built in type obstacle avoidance sensor that can find all distractions easily around and keeps your drone safe from crashes. It works with sonar technology that means your device can easily detect all the undesired objects on the way even in low light conditions or in darkness. Note that this sensor is attached at front portion of your drone so it can serve with the detection ability to front facing objects only, if anything comes from sides then your drone will not be able to stay safe. But still, at least you have a new feature and it works amazingly.
+
+#### 6\.  Controller
+
+![yuneec typhoon h controller](https://images.wondershare.com/filmora/article-images/yuneec-typhoon-h-controller.jpg)
+
+ The controller part is really interesting with few additional features as compared to its predecessors. You will be able to access button and knobs but one new addition to controller is in form of its built in type 7 inch touchscreen that can display the telemetry data on continuous basis. Here is good news for professionals; it is possible to connect this drone to more than one controller at a time so that few highly customized shoots can be gathered. Filmmakers love to access these advanced features.
+
+#### 7\.  Camera
+
+![yuneec typhoon h camera](https://images.wondershare.com/filmora/article-images/yuneec-typhoon-h-camera.jpg)
+
+ The drone camera can provide 4K recording facility whereas users can also switch between 2.5K and 1080p level as per need. The FPS ratings can be shifted for better results. Results can be enhanced with its ½.3” CMOS sensor and the developers also claim to serve with video transmission range of about 400 meters. The 360 degree gimbal is also available with this drone and its results are professional looking with advantage of sonar sensor.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+ If we consider all advanced features then there is no doubt to say that Typhoon H is one of the fantastic units for hexacopter lovers. It is much easier to control for beginners as well as professionals whereas the results for footage and stills are really impressive. The best part is its ability to fold up into a compact size so that users can take it to any far location with ease. Although you may find the battery issue as it takes about 2 hours to get completely charged but the performance on rest all parameters is impressive. And all these features are available at very suitable price range. Most of filmmakers love to record their aerial shots with this device as its dual operation mode makes it suitable for serious filming needs.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-high-fidelity-streaming-archiving-a-practical-approach/"><u>[New] 2024 Approved  High-Fidelity Streaming Archiving  A Practical Approach</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-best-in-class-top-drone-gimbals-compared-for-2024/"><u>[New] Best in Class  Top Drone Gimbals Compared for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-boost-cinematographic-capabilities-essential-iphone-gear/"><u>[New] Boost Cinematographic Capabilities  Essential iPhone Gear</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-mastering-gifs-transforming-vimeo-videos-into-animated-graphics/"><u>[New] In 2024, Mastering GIFs  Transforming Vimeo Videos Into Animated Graphics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-midgard-alliance-defenders-of-ragnarok/"><u>[New] In 2024, Midgard Alliance  Defenders of Ragnarok</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-essentials-of-combining-apple-music-and-videos/"><u>[New] The Essentials of Combining Apple Music & Videos</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-essential-tips-for-stepping-away-from-a-discord-chat-room/"><u>[Updated] 2024 Approved  Essential Tips for Stepping Away From a Discord Chat Room</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-navigating-facebooks-updated-algorithm-preparation-checklist/"><u>[Updated] 2024 Approved  Navigating Facebook's Updated Algorithm  Preparation Checklist</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-critical-examination-of-vlcs-rivals/"><u>[Updated] A Critical Examination of VLC's Rivals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-an-in-depth-guide-to-every-element-of-srt/"><u>[Updated] An In-Depth Guide to Every Element of SRT</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-blend-your-belief-with-mobile-melodies/"><u>[Updated] Blend Your Belief with Mobile Melodies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-breaking-into-the-periscope-livestream-arena/"><u>[Updated] Breaking Into the Periscope Livestream Arena</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tips-for-quicker-periscope-livestreams/"><u>[Updated] Tips for Quicker Periscope Livestreams</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-unlocking-visual-potential-the-asus-mg28uq-4k-uxga-screen-review/"><u>[Updated] Unlocking Visual Potential  The ASUS MG28UQ 4K UXGA Screen Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-e-commerce-avenues-for-aesthetic-box-personalization/"><u>2024 Approved  Ideal E-Commerce Avenues for Aesthetic Box Personalization</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-flight-beginnings-with-the-syma-x5c-rc-quadcopter-a-detailed-review/"><u>Affordable Flight Beginnings with the SYMA X5C RC Quadcopter: A Detailed Review</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/audio-artists-almanac-your-guide-to-video-submission/"><u>Audio Artists' Almanac  Your Guide to Video Submission</u></a></li>
+<li><a href="https://article-tips.techidaily.com/beginners-tips-shooting-hero5-time-lapse-footage-for-2024/"><u>Beginner's Tips  Shooting Hero5 Time-Lapse Footage for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cinema-grade-camera-lineup-the-1-to-18-selections/"><u>Cinema-Grade Camera Lineup - The #1 to #18 Selections</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/clearing-photos-expert-background-takedown-in-photopea/"><u>Clearing Photos  Expert Background Takedown in Photopea</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compact-player-showcase-the-very-best-portables-for-2024/"><u>Compact Player Showcase  The Very Best Portables for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/core-concepts-of-story-making/"><u>Core Concepts of Story Making</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/craft-top-notch-episodes-learn-podcast-editing-secrets-with-garageband-for-2024/"><u>Craft Top-Notch Episodes  Learn Podcast Editing Secrets with GarageBand for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-drivers-available-gtx-1060/"><u>Enhanced Drivers Available - GTX 1060</u></a></li>
+<li><a href="https://techtrends.techidaily.com/experience-advanced-marketing-automation-with-the-power-of-cookiebot-technology/"><u>Experience Advanced Marketing Automation with the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-imovies-default-crop-settings/"><u>Exploring iMovie's Default Crop Settings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hero-vs-hero-a-technological-comparison/"><u>Hero Vs Hero  A Technological Comparison</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/huawei-p60-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Huawei P60 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ideal-mkv-player-suite-mobile-and-desktop/"><u>Ideal MKV Player Suite (Mobile & Desktop)</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-tecno-spark-10-4g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-step-by-step-guide-for-choosing-your-best-fit-mobile-vs-tethered-virtual-reality-headsets/"><u>In 2024, A Step-by-Step Guide for Choosing Your Best Fit  Mobile Vs. Tethered Virtual Reality Headsets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-apex-creative-workspace-report-in-depth-studio-analysis-2023/"><u>In 2024, Apex Creative Workspace Report  In-Depth Studio Analysis, 2023</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-breaking-barriers-in-photography-mastering-gopro-time-lapse/"><u>In 2024, Breaking Barriers in Photography  Mastering GoPro Time-Lapse</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-building-impressive-pixelated-photo-combinations/"><u>In 2024, Building Impressive Pixelated Photo Combinations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-core-concepts-of-story-making/"><u>In 2024, Core Concepts of Story Making</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-xiaomi-redmi-note-12-pro-4g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Xiaomi Redmi Note 12 Pro 4G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-the-experience-with-am08-pro-a-true-representation-of-magic/"><u>Is the Experience with AM08 Pro a True Representation of Magic?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rful-monetization-crafting-a-revenue-driven-youtube-presence/"><u>Masterful Monetization  Crafting a Revenue-Driven Youtube Presence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-podcast-name-creation-and-50plus-dynamic-example-titles/"><u>Mastering the Art of Podcast Name Creation & 50+ Dynamic Example Titles</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/melodic-mute-mode-operating-system-steps/"><u>Melodic Mute Mode  Operating System Steps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-hostgator-offerings-a-detailed-vps-and-shared-hosting-overview/"><u>Navigating Through HostGator Offerings: A Detailed VPS & Shared Hosting Overview</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-vivo-x100-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Vivo X100 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seeing-beyond-the-ordinary-with-ar/"><u>Seeing Beyond the Ordinary with AR</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sky-surfing-in-hd-with-the-yuneec-drone-review/"><u>Sky Surfing in HD with the Yuneec Drone Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-into-sound-design-crafting-and-integrating-whatsapp-ringtone-on-devices/"><u>Step Into Sound Design  Crafting and Integrating WhatsApp Ringtone on Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/streamlined-screens-on-chrome-os/"><u>Streamlined Screens on Chrome OS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-power-of-words-in-podcast-summaries/"><u>The Power of Words in Podcast Summaries</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-5-best-tv-for-ps5-and-xbox-series-x-updated-july/"><u>Top 5 Best TV for Ps5 and Xbox Series X (Updated July)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vivid-video-visualization-the-essential-5-tools-guide/"><u>Vivid Video Visualization  The Essential 5 Tools Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/voices-that-sell-why-client-produced-videos-thrive/"><u>Voices that Sell  Why Client-Produced Videos Thrive</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtubes-celebrated-click-it-achievements/"><u>YouTube's Celebrated Click-It Achievements</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
