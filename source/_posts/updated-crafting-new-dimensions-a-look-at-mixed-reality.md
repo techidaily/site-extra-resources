@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Crafting New Dimensions  A Look at Mixed Reality\""
-date: 2024-08-31T01:03:06.011Z
-updated: 2024-09-01T01:03:06.011Z
+date: 2024-09-04T09:14:26.785Z
+updated: 2024-09-05T09:14:26.785Z
 tags: 
   - screen-recording
   - ai video
@@ -37,16 +37,20 @@ thumbnail: https://www.lifewire.com/thmb/ACLdGCkJybpMMfm3FCszTRQh_w8=/400x300/fi
  With the development of the technology is shrouded in secrecy by the major players, all that is known on the operations of the technology is that it uses virtual reality and augmented reality as well as space and coordinates. Magic Leap is the company at the forefront in the development of mixed reality and they have remained tight lipped about the finer details of what they are doing or developing. The scanty details we know however, suggests that just like Hololens, mixed reality will use a projector for displaying images on semi transparent materials which will then be reflected to the eye with the help of beam-splitting technology.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Applications of Mixed Reality
 
  Due to the unique features and experiences offered by mixed reality, businesses, developers and the world in general is beginning to explore the various ways to utilize the technology for the best possible results. Currently, fields such as medicine, architecture and urban planning and education and training appear to be the greatest beneficiary of mixed reality technology.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Mixed Reality for sharing real-world virtual workspaces
 
@@ -55,14 +59,20 @@ The powerful video editing program for your Windows PC</a>
  Sharing real world virtual spaces through mixed reality can be especially beneficial for sales team when making a pitch for a new offer. For instance, a pharmaceutical sales rep can carry along two mixed reality devices to an appointment with the doctor. The doctor and the sales rep can then both wear the devices and see a model of the new drug as explained by the sales rep. Through this, they can then visualize the chemical composition of the drug and also simulate how the drug will move in the body to fight diseases. Through such a shared experience, the sales rep will not only build deeper connections with the doctor, but also offer a more detailed explanation on the product being offered.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Mixed reality for remote experts – over the shoulder coaching
 
  Most enterprises usually find it difficult to address all the support requests from all the clients in need of expert advice. It is not only costly to fly in specialists to fix things in different locations, but also time consuming. Besides, it is never adequate to troubleshoot an issue over the phone and video conferencing in such situations also have its limitations. But all these can now be avoided through the application of mixed reality for offering over the shoulder coaching remotely. With mixed reality, access to experts can be done quickly and inexpensively. For example, doctors in the healthcare industry can offer guidance and decisions to students or other doctors without the need of being in the actual locations.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## The future of mixed reality
 
@@ -75,7 +85,16 @@ The powerful video editing program for your Windows PC</a>
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Benjamin Arango
 

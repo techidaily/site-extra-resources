@@ -1,7 +1,7 @@
 ---
 title: "\"Video Playback Time Estimate  A 20MB File Size\""
-date: 2024-08-31T01:05:46.304Z
-updated: 2024-09-01T01:05:46.304Z
+date: 2024-09-04T09:14:24.070Z
+updated: 2024-09-05T09:14:24.070Z
 tags: 
   - screen-recording
   - ai video
@@ -441,5 +441,8 @@ How many minutes of video is 100 megabytes of data used? A YouTube video that la
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

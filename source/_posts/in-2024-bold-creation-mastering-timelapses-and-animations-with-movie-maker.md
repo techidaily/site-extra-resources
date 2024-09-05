@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Bold Creation  Mastering Timelapses & Animations with Movie Maker\""
-date: 2024-08-31T01:03:20.503Z
-updated: 2024-09-01T01:03:20.503Z
+date: 2024-09-04T09:14:26.552Z
+updated: 2024-09-05T09:14:26.552Z
 tags: 
   - screen-recording
   - ai video
@@ -86,6 +86,12 @@ Filmora helps you create your text animation using the controller window as seen
 
 The software's Preview window also allows you to preview the animation you've selected before adding it to the timeline with a few simple drag-and-drop actions. After finishing the production and editing of the instructional video, you may save it for distribution on social media. You may choose to save the document as an MP4, WMV, AVI, MOV, or even a GIF file.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Related FAQs about Windows Movie Maker
 
 1. **Where is the Visual Effects tab in Movie Maker?**
@@ -106,9 +112,6 @@ If you wish to clip off a section, go to "Edit" under "Video Tools" and choose t
 
 ![preview video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/preview-video-movie-maker.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step3Open the Animation Tab
 
 You may add two distinct types of animations—Transitions and Pan and Zoom—to video clips or photographs using the Animations window on the ribbon. The dropdown menu next to "Speed" in the "Edit" tab may be expanded to change the speed of a video clip. The 'Duration' dropdown menu allows you to choose how long a certain image will be shown in a movie.
@@ -116,7 +119,10 @@ You may add two distinct types of animations—Transitions and Pan and Zoom—to
 ![animation tab movie maker](https://images.wondershare.com/filmora/article-images/2022/09/animation-tab-movie-maker.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##### Step4Add Transitions
 
@@ -125,7 +131,10 @@ Between two multimedia portions, a transition effect may be added. In the "Anima
 ![add transitions movie maker](https://images.wondershare.com/filmora/article-images/2022/09/add-transitions-movie-maker.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##### Step5Save the Video
 
@@ -134,10 +143,16 @@ When a transition is applied, a washed-out diagonal zone on the clip in the time
 ![save animation video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/save-animation-video-movie-maker.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2\. Movie Maker Alternative to Add Animations
 
@@ -166,7 +181,10 @@ Filmora helps you create your text animation using the controller window as seen
 The software's Preview window also allows you to preview the animation you've selected before adding it to the timeline with a few simple drag-and-drop actions. After finishing the production and editing of the instructional video, you may save it for distribution on social media. You may choose to save the document as an MP4, WMV, AVI, MOV, or even a GIF file.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3\. Related FAQs about Windows Movie Maker
 

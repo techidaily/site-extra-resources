@@ -1,7 +1,7 @@
 ---
 title: "The Evolution and Function of Modern VR Helmets"
-date: 2024-08-31T01:00:21.430Z
-updated: 2024-09-01T01:00:21.430Z
+date: 2024-09-04T09:14:29.592Z
+updated: 2024-09-05T09:14:29.592Z
 tags: 
   - screen-recording
   - ai video
@@ -45,24 +45,39 @@ thumbnail: https://www.lifewire.com/thmb/5zccj0kwo0KoS2pb6azCH1Qb8l0=/540x405/fi
  Below is a list of the various VR headsets currently available to purchase:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [HTC Vive]( https://www.vive.com/ )
 
 ![ghtc-vive-vr](https://images.wondershare.com/filmora/article-images/htc-vive.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  HTC Vive VR headset is made in collaboration with Valve and it plugs directly into PCs and uses Valve’s humongous gaming ecosystem. The headset has over 70 sensors to allow for 360 degrees head tracking and it also boasts of a 90Hz refresh rate responsible for keeping down the latency, which in turn saves the users from suffering motions sickness. This headset is currently available for purchase from $799.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [Samsung Gear VR](http://www.samsung.com/global/galaxy/gear-vr/  )
 
 ![gear-vr](https://images.wondershare.com/filmora/article-images/gear-vr.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The Samsung Gear VR is essentially Oculus Rift lite, owing to the fact that the two companies worked on the technology together. The Gear VR uses a Samsung Galaxy smartphone for the display and as the processor. The phone slots in front of the lenses and into a Micro USB slot, and uses the super AMOLED display as the screen. With the Gear, all you have to do is to slot in the phone, put on the headset and start enjoying the virtual reality experience.
 
 ### [Oculus Rift](https://www.oculus.com/rift/  )
@@ -70,13 +85,19 @@ thumbnail: https://www.lifewire.com/thmb/5zccj0kwo0KoS2pb6azCH1Qb8l0=/540x405/fi
 ![oculus-rift](https://images.wondershare.com/filmora/article-images/oculus-rift.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Oculus Rift headset was responsible for the current hysteria in virtual reality. The Rift plugs into the computer’s USB and DVI ports and tracks the movements of the head to provide 3D displays on its stereo screens. The consumer edition of the Rift comes with a 2160 x 1200 resolution as well as a refresh rate of 90Hz. The Rift matches HTC Vive in terms of the refresh rate, but lags behind Sony’s PlayStation VR, though it is a pretty advanced VR headset in terms of the technology used.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Sony PlayStation VR](https://www.playstation.com/en-us/explore/playstation-vr/  )
 
 ![sony-playstation-vr](https://images.wondershare.com/filmora/article-images/sony-playstation-vr.jpg)
@@ -87,15 +108,24 @@ thumbnail: https://www.lifewire.com/thmb/5zccj0kwo0KoS2pb6azCH1Qb8l0=/540x405/fi
 
 ![google-cardboard-vr](https://images.wondershare.com/filmora/article-images/google-cardboard-vr.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
  Not to be left behind, Google also has a cardboard virtual reality headset. With this headset, it sounds like popping your smartphone in a cardboard container and putting it over your head for a virtual reality experience. Sounds like a joke, but you will be pleasantly surprised to learn that it works like charm and it is also low cost. If anything, the smartphone you have already has all the gyroscopic sensors as well as the positioning devices needed to track your head movements.
 
  Since the Cardboard has grown so much in terms of popularity, Google has planned to release a better version known as Daydream. This will be a device like the Gear VR, but it has been designed to work with android phones which are currently being revamped to over better VR experiences. It is still not know when the new device will be available, but the Cardboard is retailing at $16.99 at Amazon.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
