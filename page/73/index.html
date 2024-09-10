@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"extra-resources.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -790,14 +847,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/mastering-flight-control-best-motor-selections-unveiled/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbce95a2d263cbd7e4a2de27ba.jpg" alt="&#34;Mastering Flight Control  Best Motor Selections Unveiled&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbce95a2d263cbd7e4a2de27ba.jpg" alt="Mastering Flight Control Best Motor Selections Unveiled" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/mastering-flight-control-best-motor-selections-unveiled/">
-                            &#34;Mastering Flight Control  Best Motor Selections Unveiled&#34;
+                            Mastering Flight Control Best Motor Selections Unveiled
                         </a>
                     </h3>
 
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/mastering-flight-control-best-motor-selections-unveiled/">Read more<span class="seo-reader-text">&#34;Mastering Flight Control  Best Motor Selections Unveiled&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mastering-flight-control-best-motor-selections-unveiled/">Read more<span class="seo-reader-text">Mastering Flight Control Best Motor Selections Unveiled</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -886,14 +943,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/updated-androids-best-speed-up-your-slow-video/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/141f2083ce8f9807f7858bc78fabb4787ff1855b350de1df5ec61d6fc21bf535.jpg" alt="&#34;[Updated] Android&#39;s Best  Speed Up Your Slow Video&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://thmb.techidaily.com/141f2083ce8f9807f7858bc78fabb4787ff1855b350de1df5ec61d6fc21bf535.jpg" alt="[Updated] Android&#39;s Best Speed Up Your Slow Video" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/updated-androids-best-speed-up-your-slow-video/">
-                            &#34;[Updated] Android&#39;s Best  Speed Up Your Slow Video&#34;
+                            [Updated] Android&#39;s Best Speed Up Your Slow Video
                         </a>
                     </h3>
 
@@ -965,7 +1022,7 @@
         
     </div>
 
-    <a href="/updated-androids-best-speed-up-your-slow-video/">Read more<span class="seo-reader-text">&#34;[Updated] Android&#39;s Best  Speed Up Your Slow Video&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/updated-androids-best-speed-up-your-slow-video/">Read more<span class="seo-reader-text">[Updated] Android&#39;s Best Speed Up Your Slow Video</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1078,14 +1135,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/updated-accelerated-image-editing-your-path-to-masterful-windows-photo-work/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d13956dfbeb425d156edf1af5a5.png" alt="&#34;[Updated] Accelerated Image Editing  Your Path to Masterful Windows Photo Work&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d13956dfbeb425d156edf1af5a5.png" alt="[Updated] Accelerated Image Editing Your Path to Masterful Windows Photo Work" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/updated-accelerated-image-editing-your-path-to-masterful-windows-photo-work/">
-                            &#34;[Updated] Accelerated Image Editing  Your Path to Masterful Windows Photo Work&#34;
+                            [Updated] Accelerated Image Editing Your Path to Masterful Windows Photo Work
                         </a>
                     </h3>
 
@@ -1157,7 +1214,7 @@
         
     </div>
 
-    <a href="/updated-accelerated-image-editing-your-path-to-masterful-windows-photo-work/">Read more<span class="seo-reader-text">&#34;[Updated] Accelerated Image Editing  Your Path to Masterful Windows Photo Work&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/updated-accelerated-image-editing-your-path-to-masterful-windows-photo-work/">Read more<span class="seo-reader-text">[Updated] Accelerated Image Editing Your Path to Masterful Windows Photo Work</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1238,14 +1295,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/instantaneous-imagery-a-step-by-step-for-quick-google-collage-photos/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/ef542613ecfd778273a563914315ea95552a0c901d539098fb8807351d6a9dda.png" alt="&#34;Instantaneous Imagery  A Step-by-Step for Quick Google Collage Photos&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://thmb.techidaily.com/ef542613ecfd778273a563914315ea95552a0c901d539098fb8807351d6a9dda.png" alt="Instantaneous Imagery A Step-by-Step for Quick Google Collage Photos" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/instantaneous-imagery-a-step-by-step-for-quick-google-collage-photos/">
-                            &#34;Instantaneous Imagery  A Step-by-Step for Quick Google Collage Photos&#34;
+                            Instantaneous Imagery A Step-by-Step for Quick Google Collage Photos
                         </a>
                     </h3>
 
@@ -1317,7 +1374,7 @@
         
     </div>
 
-    <a href="/instantaneous-imagery-a-step-by-step-for-quick-google-collage-photos/">Read more<span class="seo-reader-text">&#34;Instantaneous Imagery  A Step-by-Step for Quick Google Collage Photos&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/instantaneous-imagery-a-step-by-step-for-quick-google-collage-photos/">Read more<span class="seo-reader-text">Instantaneous Imagery A Step-by-Step for Quick Google Collage Photos</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1334,14 +1391,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/dive-into-tiktok-edits-a-comprehensible-guide-for-all/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849f8a20bc7170c2547e3c8b5d.jpg" alt="&#34;Dive Into TikTok Edits  A Comprehensible Guide for All&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849f8a20bc7170c2547e3c8b5d.jpg" alt="Dive Into TikTok Edits A Comprehensible Guide for All" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/dive-into-tiktok-edits-a-comprehensible-guide-for-all/">
-                            &#34;Dive Into TikTok Edits  A Comprehensible Guide for All&#34;
+                            Dive Into TikTok Edits A Comprehensible Guide for All
                         </a>
                     </h3>
 
@@ -1413,7 +1470,7 @@
         
     </div>
 
-    <a href="/dive-into-tiktok-edits-a-comprehensible-guide-for-all/">Read more<span class="seo-reader-text">&#34;Dive Into TikTok Edits  A Comprehensible Guide for All&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/dive-into-tiktok-edits-a-comprehensible-guide-for-all/">Read more<span class="seo-reader-text">Dive Into TikTok Edits A Comprehensible Guide for All</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1526,14 +1583,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/dji-innovation-in-aviation-mavic-pro-deep-dive/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/70c37a7401073f1bcbf47eb7a020f3d12c21a20e9f862ecf54abef66ad7c8a53.jpg" alt="&#34;DJI Innovation in Aviation  Mavic Pro Deep Dive&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://thmb.techidaily.com/70c37a7401073f1bcbf47eb7a020f3d12c21a20e9f862ecf54abef66ad7c8a53.jpg" alt="DJI Innovation in Aviation Mavic Pro Deep Dive" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/dji-innovation-in-aviation-mavic-pro-deep-dive/">
-                            &#34;DJI Innovation in Aviation  Mavic Pro Deep Dive&#34;
+                            DJI Innovation in Aviation Mavic Pro Deep Dive
                         </a>
                     </h3>
 
@@ -1605,7 +1662,7 @@
         
     </div>
 
-    <a href="/dji-innovation-in-aviation-mavic-pro-deep-dive/">Read more<span class="seo-reader-text">&#34;DJI Innovation in Aviation  Mavic Pro Deep Dive&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/dji-innovation-in-aviation-mavic-pro-deep-dive/">Read more<span class="seo-reader-text">DJI Innovation in Aviation Mavic Pro Deep Dive</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>

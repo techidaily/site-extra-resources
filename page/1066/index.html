@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"extra-resources.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -694,14 +751,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/cutting-edge-designers-toolkit-free-mac-drawing-software-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0be7b320fd391a90a34b6fb91.jpg" alt="&#34;Cutting-Edge Designer&#39;s Toolkit  Free Mac Drawing Software Guide&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0be7b320fd391a90a34b6fb91.jpg" alt="Cutting-Edge Designer&#39;s Toolkit Free Mac Drawing Software Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/cutting-edge-designers-toolkit-free-mac-drawing-software-guide/">
-                            &#34;Cutting-Edge Designer&#39;s Toolkit  Free Mac Drawing Software Guide&#34;
+                            Cutting-Edge Designer&#39;s Toolkit Free Mac Drawing Software Guide
                         </a>
                     </h3>
 
@@ -773,7 +830,7 @@
         
     </div>
 
-    <a href="/cutting-edge-designers-toolkit-free-mac-drawing-software-guide/">Read more<span class="seo-reader-text">&#34;Cutting-Edge Designer&#39;s Toolkit  Free Mac Drawing Software Guide&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/cutting-edge-designers-toolkit-free-mac-drawing-software-guide/">Read more<span class="seo-reader-text">Cutting-Edge Designer&#39;s Toolkit Free Mac Drawing Software Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -886,14 +943,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/creative-visual-effects-harnessing-the-power-of-free-luts/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/LwkZUw97kt_1aI6yy4WzCCTUoTM=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/iPadOS-banner-57525dc2da314a38877046ad29e0562a.jpg" alt="&#34;Creative Visual Effects  Harnessing the Power of FREE LUTS&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://www.lifewire.com/thmb/LwkZUw97kt_1aI6yy4WzCCTUoTM=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/iPadOS-banner-57525dc2da314a38877046ad29e0562a.jpg" alt="Creative Visual Effects Harnessing the Power of FREE LUTS" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/creative-visual-effects-harnessing-the-power-of-free-luts/">
-                            &#34;Creative Visual Effects  Harnessing the Power of FREE LUTS&#34;
+                            Creative Visual Effects Harnessing the Power of FREE LUTS
                         </a>
                     </h3>
 
@@ -965,7 +1022,7 @@
         
     </div>
 
-    <a href="/creative-visual-effects-harnessing-the-power-of-free-luts/">Read more<span class="seo-reader-text">&#34;Creative Visual Effects  Harnessing the Power of FREE LUTS&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/creative-visual-effects-harnessing-the-power-of-free-luts/">Read more<span class="seo-reader-text">Creative Visual Effects Harnessing the Power of FREE LUTS</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -982,14 +1039,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/creating-your-niche-starting-a-video-channel-for-beauty-goods-reviews/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c11c9903f383663675146f0a.jpg" alt="&#34;Creating Your Niche  Starting a Video Channel for Beauty Goods Reviews&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c11c9903f383663675146f0a.jpg" alt="Creating Your Niche Starting a Video Channel for Beauty Goods Reviews" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/creating-your-niche-starting-a-video-channel-for-beauty-goods-reviews/">
-                            &#34;Creating Your Niche  Starting a Video Channel for Beauty Goods Reviews&#34;
+                            Creating Your Niche Starting a Video Channel for Beauty Goods Reviews
                         </a>
                     </h3>
 
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/creating-your-niche-starting-a-video-channel-for-beauty-goods-reviews/">Read more<span class="seo-reader-text">&#34;Creating Your Niche  Starting a Video Channel for Beauty Goods Reviews&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/creating-your-niche-starting-a-video-channel-for-beauty-goods-reviews/">Read more<span class="seo-reader-text">Creating Your Niche Starting a Video Channel for Beauty Goods Reviews</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1078,14 +1135,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/crafting-vivid-images-ps-hue-harmony-tips/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/69247ac14d53a4d423914a7a567f7db5686b08abed208ce9a52f3e4561b6e4e9.jpg" alt="&#34;Crafting Vivid Images  PS Hue Harmony Tips&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://thmb.techidaily.com/69247ac14d53a4d423914a7a567f7db5686b08abed208ce9a52f3e4561b6e4e9.jpg" alt="Crafting Vivid Images PS Hue Harmony Tips" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/crafting-vivid-images-ps-hue-harmony-tips/">
-                            &#34;Crafting Vivid Images  PS Hue Harmony Tips&#34;
+                            Crafting Vivid Images PS Hue Harmony Tips
                         </a>
                     </h3>
 
@@ -1157,7 +1214,7 @@
         
     </div>
 
-    <a href="/crafting-vivid-images-ps-hue-harmony-tips/">Read more<span class="seo-reader-text">&#34;Crafting Vivid Images  PS Hue Harmony Tips&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/crafting-vivid-images-ps-hue-harmony-tips/">Read more<span class="seo-reader-text">Crafting Vivid Images PS Hue Harmony Tips</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1174,14 +1231,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/crafting-the-ultimate-list-15-premier-mounts-for-gopro/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31be3889aa12b125cc68b1e89.jpg" alt="&#34;Crafting the Ultimate List  15 Premier Mounts for GoPro&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31be3889aa12b125cc68b1e89.jpg" alt="Crafting the Ultimate List 15 Premier Mounts for GoPro" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/crafting-the-ultimate-list-15-premier-mounts-for-gopro/">
-                            &#34;Crafting the Ultimate List  15 Premier Mounts for GoPro&#34;
+                            Crafting the Ultimate List 15 Premier Mounts for GoPro
                         </a>
                     </h3>
 
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/crafting-the-ultimate-list-15-premier-mounts-for-gopro/">Read more<span class="seo-reader-text">&#34;Crafting the Ultimate List  15 Premier Mounts for GoPro&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/crafting-the-ultimate-list-15-premier-mounts-for-gopro/">Read more<span class="seo-reader-text">Crafting the Ultimate List 15 Premier Mounts for GoPro</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1462,14 +1519,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/convincing-viewers-discovering-effective-video-styles/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/05409c86ab861958a6ea56c42e05a9e6a04b032d3986e176fe5f645b88c2b1e9.jpg" alt="&#34;Convincing Viewers  Discovering Effective Video Styles&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://thmb.techidaily.com/05409c86ab861958a6ea56c42e05a9e6a04b032d3986e176fe5f645b88c2b1e9.jpg" alt="Convincing Viewers Discovering Effective Video Styles" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/convincing-viewers-discovering-effective-video-styles/">
-                            &#34;Convincing Viewers  Discovering Effective Video Styles&#34;
+                            Convincing Viewers Discovering Effective Video Styles
                         </a>
                     </h3>
 
@@ -1541,7 +1598,7 @@
         
     </div>
 
-    <a href="/convincing-viewers-discovering-effective-video-styles/">Read more<span class="seo-reader-text">&#34;Convincing Viewers  Discovering Effective Video Styles&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/convincing-viewers-discovering-effective-video-styles/">Read more<span class="seo-reader-text">Convincing Viewers Discovering Effective Video Styles</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1558,14 +1615,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/comparing-bites-new-insights-on-hero5-and-yi-4k-cameras/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a88766153a92e1f9e8401a4428c9fb.jpg" alt="&#34;Comparing Bites  New Insights on Hero5 &amp; Yi 4K Cameras&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a88766153a92e1f9e8401a4428c9fb.jpg" alt="Comparing Bites New Insights on Hero5 &amp; Yi 4K Cameras" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/comparing-bites-new-insights-on-hero5-and-yi-4k-cameras/">
-                            &#34;Comparing Bites  New Insights on Hero5 &amp; Yi 4K Cameras&#34;
+                            Comparing Bites New Insights on Hero5 &amp; Yi 4K Cameras
                         </a>
                     </h3>
 
@@ -1637,7 +1694,7 @@
         
     </div>
 
-    <a href="/comparing-bites-new-insights-on-hero5-and-yi-4k-cameras/">Read more<span class="seo-reader-text">&#34;Comparing Bites  New Insights on Hero5 &amp; Yi 4K Cameras&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/comparing-bites-new-insights-on-hero5-and-yi-4k-cameras/">Read more<span class="seo-reader-text">Comparing Bites New Insights on Hero5 &amp; Yi 4K Cameras</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
