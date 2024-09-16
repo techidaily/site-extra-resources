@@ -1,7 +1,7 @@
 ---
 title: "How to Add Subtitles to Windows Media Player"
-date: 2024-09-09T21:03:32.475Z
-updated: 2024-09-10T21:03:32.475Z
+date: 2024-09-08T16:20:23.443Z
+updated: 2024-09-15T20:02:46.393Z
 tags: 
   - screen-recording
   - ai video
@@ -36,52 +36,22 @@ The process of adding subtitles to video clips is quite simple; you need to foll
 
 ![ ](https://images.wondershare.com/filmora/article-images/subtitle-wmp-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 2:** Once you are done with the first step then simply open your Window Media Player and move to the Library Mode. Now switch to play, then Lyrics, captions and finally you will reach at subtitles. Hit this option and choose “On if Available”. The same option is also available in the Now Playing Mode where you simply need to right click and this option will appear in drop down menu.
 
 ![ ](https://images.wondershare.com/filmora/article-images/subtitle-wmp-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3:** Now, it is time to download DirectVobSub codec and get it installed on your PC. This software is easily available in 32, 64 bit versions so you can easily access any of these. Simply install codec from this source; no need to work on configuration settings. Note that these codecs must be installed from a trusted source so that malware or virus attacks can be avoided.
 
 **Step 4:** Once you are done with step 3 then download Sharkoo7’s Advanced Codec from internet. Get it installed for Window Media Player and then open with 64 bit settings or 32 bit as per your device specifications. To open it, simply right click on icon and from drop down menu choose “Run as administrator”.
 
 ![ ](https://images.wondershare.com/filmora/article-images/subtitle-wmp-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 5:** Within very less time application will get opened with a fresh window on your system. Now move to tabs of different video file types then search for the option that says: “Disable Media Foundation for MP4/MKV and AVI etc”. Further, go to the swap tab and then disable window media foundation.
 
 ![ ](https://images.wondershare.com/filmora/article-images/subtitle-wmp-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 As soon as you will finish all these settings, your subtitles will appear perfectly over video and you can enjoy great synchronism for all content. Window Media player tool is capable enough to make effective adjustments for subtitle placements and it will take just a few minutes to complete all these steps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Websites for Downloading Subtitles
 
 If you are searching for websites that can help you to download subtitles for your videos then this list can be useful for you:
@@ -91,11 +61,18 @@ If you are searching for websites that can help you to download subtitles for yo
 You will be glad to know that this website offers subtitles in wide range of languages. Users can simply initiate search for latest subtitle files, most popular movies or most download subtitles. All these subtitles packs are available for free and they are usually packed in WinZip file formats.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### [2. Subscene.com:](https://subscene.com/browse/latest/film/1)
 
 This website stays one of the top preferences lists of all professionals as well as beginners. It serves with easy to access search function so that users can easily navigate for their desired subtitle file. It also allows users to upload movie subtitle files and they can be rated.
@@ -103,6 +80,19 @@ This website stays one of the top preferences lists of all professionals as well
 ### [3\. TVsubtitles.net:](http://www.tvsubtitles.net/tvshow-1568-3.html)
 
 There is no doubt to say that TVSubtitles.com is well known as best site for TV show subtitle download needs. This platform contains largest collection of popular TV show subtitles from every corner of world and they are available in multiple languages. Some of the most commonly downloaded subtitle files use to be in Korean, Russian, German, Greek, French and English language.
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [4. Tvsubs.net:](http://www.tvsubs.net/)
 
@@ -116,60 +106,30 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-breaking-limits-free-saves-for-your-story-loads/"><u>[New] 2024 Approved  Breaking Limits  Free Saves for Your Story Loads</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-superior-choice-of-steadicams-for-drone-video-shootings/"><u>[New] 2024 Approved  Superior Choice of Steadicams for Drone Video Shootings</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-acid-pro-alternatives-a-comprehensive-guide/"><u>[New] ACID Pro Alternatives  A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-advanced-tips-for-crafting-vhs-images-on-computers/"><u>[New] Advanced Tips for Crafting VHS Images on Computers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-best-8k-tvs-detailed-comparison/"><u>[New] Best 8K TVs [Detailed Comparison ]</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-best-translation-devices-to-subtitle-videos/"><u>[New] Best Translation Devices to Subtitle Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-between-audio-and-video-which-platform-takes-the-lead/"><u>[New] Between Audio and Video, Which Platform Takes the Lead?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-comprehensive-discussion-googles-podcast-uncovered/"><u>[New] Comprehensive Discussion  Google's Podcast Uncovered</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-crafting-a-strong-introduction-url/"><u>[New] Crafting a Strong Introduction URL</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-crafting-visual-narratives-effective-titling/"><u>[New] Crafting Visual Narratives  Effective Titling</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-acquiring-fcp-for-zip-legal-strategies-explained/"><u>[Updated] Acquiring FCP for Zip  Legal Strategies Explained</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-at-the-forefront-elite-vr-creators/"><u>[Updated] At The Forefront  Elite VR Creators</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-best-offline-audio-conversion-software/"><u>[Updated] Best Offline Audio Conversion Software</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-building-a-successful-brand-presence-through-spotify-advertising/"><u>[Updated] Building a Successful Brand Presence Through Spotify Advertising</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-social-simulacrum-sketches-designing-distorted-digital-selves-for-2024/"><u>[Updated] Social Simulacrum Sketches  Designing Distorted Digital Selves for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-elevate-your-online-presence-editing-expertise-for-haul-vlogs/"><u>2024 Approved  Elevate Your Online Presence  Editing Expertise for Haul Vlogs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-cinematic-magic-a-filmmakers-guide-to-light/"><u>Crafting Cinematic Magic  A Filmmaker's Guide to Light</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevate-your-visuals-comprehensive-guide-to-video-enhancer-22/"><u>Elevate Your Visuals  Comprehensive Guide to Video Enhancer 2.2</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/eliminating-unrequested-podcast-episodes-on-spotify-app/"><u>Eliminating Unrequested Podcast Episodes on Spotify App</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exclusive-free-photo-upscaler-for-modern-devices/"><u>Exclusive Free Photo Upscaler for Modern Devices</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exclusive-got-ringtones-where-to-find-them-online/"><u>Exclusive GoT Ringtones - Where to Find Them Online</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/gopro-vs-polaroid-cube-choosing-your-editing-companion/"><u>GoPro Vs. Polaroid Cube  Choosing Your Editing Companion</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/guide-to-accessing-price-null-picture-content/"><u>Guide to Accessing Price-Null Picture Content</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-to-fixing-unresponsive-camera-feature-on-snap-devices/"><u>Guide to Fixing Unresponsive Camera Feature on Snap Devices</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/harnessing-the-potential-of-quantum-hdr-imaging/"><u>Harnessing the Potential of Quantum HDR Imaging</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/historys-high-fliers-the-most-upvoted-threads-on-reddit/"><u>History’s High-Fliers  The Most Upvoted Threads on Reddit</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oppo-reno-11-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Oppo Reno 11 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-androidios-video-cutting-edge-8-top-montage-tools-revealed/"><u>In 2024, Android/iOS Video Cutting-Edge  8 Top Montage Tools Revealed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-authority-list-top-10-sports-and-football-streaming-applications-cutting-edge/"><u>In 2024, Authority List  Top 10 Sports & Football Streaming Applications, Cutting Edge</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-music-live-streaming-services/"><u>In 2024, Best Music Live Streaming Services</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-combine-audio-and-video-web-space/"><u>In 2024, Combine Audio and Video Web Space</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-engaging-podcasts-step-by-step-guide-with-free-examples/"><u>In 2024, Crafting Engaging Podcasts  Step-by-Step Guide with Free Examples</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-s23-ultra-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy S23 Ultra Phones with/without a PC</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ase-your-online-presence-youtube-methods-for-2024/"><u>Increase Your Online Presence  YouTube Methods for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/launch-a-creative-vision-start-xps-moviemaker-suite/"><u>Launch a Creative Vision, Start Xp’s Moviemaker Suite</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/old-world-wonders-iphone-x-portraits/"><u>Old World Wonders – iPhone X Portraits</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/perfect-your-pixels-select-best-10-online-enhancement-apps/"><u>Perfect Your Pixels  Select Best 10 Online Enhancement Apps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/premium-cloud-storage-services-a-guides-choice/"><u>Premium Cloud Storage Services  A Guide's Choice</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/step-up-to-youtube-live-with-minimal-subscriber-threshold-reached/"><u>Step Up to YouTube Live with Minimal Subscriber Threshold Reached</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-instructions-for-utilizing-chatgpt-mobile-apps-across-ios-and-android-platforms/"><u>Step-by-Step Instructions for Utilizing ChatGPT Mobile Apps Across iOS and Android Platforms</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-messenger-maestros-guide-to-capturing-social-media-videos/"><u>The Messenger Maestro's Guide to Capturing Social Media Videos</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-samsung-galaxy-note20-ultra-5g-a-detailed-user-experience-assessment/"><u>The Samsung Galaxy Note20 Ultra (5G) – A Detailed User Experience Assessment</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/top-2-video-editing-apps-compared-filmora-and-democracy-creator/"><u>Top 2 Video Editing Apps Compared  Filmora & Democracy Creator</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlocking-the-full-potential-of-googles-podcast-tools/"><u>Unlocking the Full Potential of Google's Podcast Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unraveling-the-mystery-of-phantoms-velocity-inversion/"><u>Unraveling the Mystery of Phantom's Velocity Inversion</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-best-camcorders-for-deer-stalking-success/"><u>[New] Best Camcorders for Deer Stalking Success</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-beyond-3d-a-comparative-guide-to-metaverse-and-omniverse-realities/"><u>[New] Beyond 3D A Comparative Guide to Metaverse and Omniverse Realities</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cultivating-an-audience-naturally-youtubes-way-for-2024/"><u>[Updated] Cultivating an Audience Naturally - YouTube's Way for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-forecasting-facebooks-video-trajectory-with-a-focus-on-brevity-for-2024/"><u>[Updated] Forecasting Facebook's Video Trajectory with a Focus on Brevity for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-honor-70-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/easy-steps-to-convert-your-wmv-videos-to-mov-on-a-mac-for-enhanced-playback-and-editing/"><u>Easy Steps to Convert Your WMV Videos to MOV on a Mac for Enhanced Playback and Editing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-every-shot-the-leaderboard-of-androids-5-best-photo-apps/"><u>Elevate Every Shot The Leaderboard of Android's 5 Best Photo Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-your-storytelling-10-prime-text-tricks-in-cinematography/"><u>Elevate Your Storytelling 10 Prime Text Tricks in Cinematography</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elite-picks-of-2024-the-ultimate-smartwatch-showdown/"><u>Elite Picks of 2024: The Ultimate Smartwatch Showdown</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-professional-insights-enhancing-digital-videos-and-photos-online/"><u>In 2024, Professional Insights Enhancing Digital Videos & Photos Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-methods-for-3d-text-illustration/"><u>Innovative Methods for 3D Text Illustration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/insiders-look-at-xvision-prodigy-studio-an-all-inclusive-guide/"><u>Insider's Look at XVision Prodigy Studio - An All-Inclusive Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/revolutionizing-streaming-in-depth-analysis-of-the-new-chromecast-with-google-tv/"><u>Revolutionizing Streaming: In-Depth Analysis of the New Chromecast with Google TV</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sony-blu-ray-player-s3700-analysis-updated/"><u>Sony Blu-Ray Player S3700 Analysis (Updated)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackle-clutter-unwanted-windows-tools-and-how-to-eliminate-them/"><u>Tackle Clutter: Unwanted Windows Tools and How to Eliminate Them</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-luts-role-in-image-color-alteration/"><u>Unveiling LUTs' Role in Image Color Alteration</u></a></li>
+</ul></div>
+

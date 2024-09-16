@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Above and Beyond  Vertical Panoramas Made Easy\""
-date: 2024-09-09T21:03:35.847Z
-updated: 2024-09-10T21:03:35.847Z
+date: 2024-09-09T03:53:33.584Z
+updated: 2024-09-16T00:13:42.833Z
 tags: 
   - screen-recording
   - ai video
@@ -22,12 +22,6 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Ollie Mattison
 
  Mar 27, 2024• Proven solutions
@@ -36,33 +30,15 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image source: Imgur
 
  However, you will need to use a few but simple techniques to efficiently capture the vertical panoramic view. In this article, we’ll explain you how you can carry out those extraordinary views with your Android or iOS device.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to take vertical panorama photography with your respective Smartphone
 
 * [Part 1: For iPhone Users](#part1)
 * [Part 2: For Android Users](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### For iPhone users
 
  The iPhone users can follow the steps given below to execute vertorama.
@@ -72,18 +48,6 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
 ![](https://images.wondershare.com/filmora/article-images/iphone-panorama-mode.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image source: mac-fusion
 
 * Begin to go along with the upward arrow on the screen to capture the desired vertorama.
@@ -98,17 +62,18 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama-android.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image source: mac-fusion
 
 * To shoot picture, keep holding the target circle on the gray dot until it vanishes.
 * Repeat the same with other dots as well. In other words, move camera towards the gray dots one by one until they get disappear.
 * Tap on "Done" when completed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Some Beneficial Tips for shooting vertical panorama photo
 
@@ -119,52 +84,18 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-a-close-look-at-triller-its-distinctive-features-and-positioning/"><u>[New] A Close Look at Triller  Its Distinctive Features and Positioning</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-altering-mac-screenshot-format-on-the-fly-for-2024/"><u>[New] Altering Mac Screenshot Format on the Fly for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-assessing-64128gbs-video-storing-potential/"><u>[New] Assessing 64/128GB's Video-Storing Potential</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-camera-compendium-best-in-class-filmmaking-gear/"><u>[New] Camera Compendium  Best in Class Filmmaking Gear</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-complete-guide-to-optimizing-your-picsart-experience/"><u>[New] Complete Guide to Optimizing Your PicsArt Experience</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nhancing-winter-vlogs-with-five-heartwarming-backdrops/"><u>[New] Enhancing Winter Vlogs with Five Heartwarming Backdrops</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchat-for-mac-quick-installation-tips/"><u>[New] In 2024, Snapchat for MAC  Quick Installation Tips</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-real-time-game-capture-aps4-strategies-in-obs/"><u>[New] Real-Time Game Capture  APS4 Strategies in OBS</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-3dr-alone-unpackaging-a-single-user-review/"><u>[Updated] '3DR' Alone  Unpackaging a Single User Review</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-2023s-best-device-compatible-entry-editor-solutions/"><u>[Updated] 2023'S Best Device-Compatible Entry Editor Solutions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-step-by-step-process-for-podcast-rss-creation/"><u>[Updated] A Step-by-Step Process for Podcast RSS Creation</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-adobe-photos-sway-decrease-a-crucial-feature/"><u>[Updated] Adobe Photos' Sway Decrease - A Crucial Feature?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-androids-technique-for-retroactive-viewing/"><u>[Updated] Android's Technique for Retroactive Viewing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-capturing-perfection-an-overview-of-the-5-best-cams/"><u>[Updated] Capturing Perfection  An Overview of the 5 Best Cams</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-complete-look-at-dji-inspire-1-explored/"><u>[Updated] Complete Look at DJI Inspire 1 Explored</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-creating-compelling-content-using-windows-movie-maker-in-windows-8-os/"><u>[Updated] Creating Compelling Content Using Windows Movie Maker in Windows 8 OS</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-quick-guide-sharing-videos-on-instagram-for-2024/"><u>[Updated] Quick Guide  Sharing Videos on Instagram for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/chuckles-in-a-minute-how-to-whip-up-memes/"><u>Chuckles in a Minute  How to Whip Up Memes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comparative-study-of-toolwizs-photography-tools-for-2024/"><u>Comparative Study of Toolwiz's Photography Tools for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cutting-edge-live-upgrades-the-top-9-webcam-filter-guide/"><u>Cutting-Edge Live Upgrades  The Top 9 Webcam Filter Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/digital-recording-sounds-and-speech-capture/"><u>Digital Recording  Sounds & Speech Capture</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discover-new-cams-to-beat-out-samsungs-gear-360/"><u>Discover New Cams to Beat Out Samsung's Gear 360</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-develop-a-detailed-and-lively-text-rpg-experience-via-chatgpt/"><u>How to Develop a Detailed and Lively Text RPG Experience via ChatGPT</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-action-camera-buyers-manual-skisnow-gear-insights/"><u>In 2024, Action Camera Buyer's Manual  Ski/Snow Gear Insights</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-ios-filmmaking-software/"><u>In 2024, Best iOS Filmmaking Software</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-budgeting-outlay-the-expense-of-rendering-songs-visually/"><u>In 2024, Budgeting Outlay  The Expense of Rendering Songs Visually</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-capturing-instantly-with-iphone-timelapse-techniques/"><u>In 2024, Capturing Instantly with iPhone Timelapse Techniques</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/laughlens-lab-snapsatiricals/"><u>LaughLens Lab  SnapSatiricals</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-and-easy-guide-how-to-update-your-windows-10-drivers/"><u>Quick & Easy Guide: How to Update Your Windows 10 Drivers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/rapid-rise-on-insta-like-mastery-plus-video-impact-for-2024/"><u>Rapid Rise on Insta - Like Mastery + Video Impact for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/smaller-is-better-top-drone-brands-reviewed/"><u>Smaller Is Better  Top Drone Brands Reviewed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/speedy-iphone-timelapses-made-simple/"><u>Speedy iPhone Timelapses Made Simple</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/storytelling-in-cinema-from-idea-to-actuality/"><u>Storytelling in Cinema  From Idea to Actuality</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-art-of-gathering-free-photo-display-videos/"><u>The Art of Gathering Free Photo Display Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-essential-manual-on-motion-detection-techniques/"><u>The Essential Manual on Motion Detection Techniques</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/xs-100-i-the-ultimate-polaroid-for-action-enthusiasts/"><u>XS 100 I - The Ultimate Polaroid for Action Enthusiasts</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -172,3 +103,18 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/updated-bridging-the-gap-between-simple-to-high-tech-hdr-techniques/"><u>[Updated] Bridging the Gap Between Simple to High-Tech HDR Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-and-structure-knowledge-via-mematic/"><u>[Updated] Capture and Structure Knowledge via Mematic</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-seamless-incorporation-of-text-overlays-for-vimeo-films-for-2024/"><u>[Updated] Seamless Incorporation of Text Overlays for Vimeo Films for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-exploring-jujutsu-kaisen-through-creative-tiktok-content/"><u>2024 Approved Exploring Jujutsu Kaisen Through Creative TikTok Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/garmins-innovative-ultra-30-review-full-capabilities-examined-for-2024/"><u>Garmin's Innovative Ultra 30 Review Full Capabilities Examined for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-find-and-update-your-hp-p1606dn-laptop-or-desktop-printers-drivers/"><u>How to Find & Update Your HP P1606dn Laptop or Desktop Printer's Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-solve-access-denied-error-while-installing-a-usb-device/"><u>How to Solve 'Access Denied' Error While Installing a USB Device</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-spotifys-ad-marketplace-successfully/"><u>Navigating Spotify's Ad Marketplace Successfully</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimize-productivity-with-mematic-app/"><u>Optimize Productivity with Mematic App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/scribing-success-engaging-examples-for-podcasts/"><u>Scribing Success Engaging Examples for Podcasts</u></a></li>
+</ul></div>
+

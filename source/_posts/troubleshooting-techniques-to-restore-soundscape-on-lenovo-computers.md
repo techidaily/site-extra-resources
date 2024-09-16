@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Techniques to Restore Soundscape on Lenovo Computers
-date: 2024-09-09T21:03:36.539Z
-updated: 2024-09-10T21:03:36.539Z
+date: 2024-09-14T23:55:31.322Z
+updated: 2024-09-16T00:40:37.288Z
 tags:
   - win11
   - win10
@@ -20,12 +20,6 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
  If you’re having audio issues on your**PS4** , check[](https://tools.techidaily.com/drivereasy/download/) **[here](https://tools.techidaily.com/drivereasy/download/)**  .  
  If you’re on Xbox, check[**here**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -40,12 +34,6 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 
  Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Run the Windows audio troubleshooter
 
  Another quick fix to Apex Legends audio problems is running**the audio troubleshooter** . Follow the instructions below:
@@ -65,12 +53,6 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 
 If Windows fails to detect your issue, move on and try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your audio driver
 
  If you can’t hear any sound while gaming on Apex Legends, chances are that you’re using a wrong or outdated audio driver. It’s essential that you have the latest correct audio driver at all times.
@@ -103,34 +85,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Click the **Update button** next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Restart Windows Audio Services
 
  Some audio issues can also be addressed by restarting Windows Audio Services. To see if that works for you, follow the instructions below:
@@ -139,16 +103,30 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-324.png)
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click**Windows Audio** , then select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Relaunch your game to test your issue.
 
  This should allow you to hear Apex Legends and everything else. If your issue still exists, don’t fret. There is still one more fix to try.
@@ -162,6 +140,13 @@ OR
 **2)** Click**My Game Library** , right-click**Apex Legends** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-327.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** After your game is uninstalled, restart your computer.
 
@@ -182,8 +167,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,42 +176,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-boost-engagement-with-essential-marketing-terms/"><u>[New] Boost Engagement with Essential Marketing Terms</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-best-practices-in-selecting-premium-hdr-cameras/"><u>[Updated] Best Practices in Selecting Premium HDR Cameras</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-crafting-compelling-podcast-intros-tips-and-samples/"><u>[Updated] Crafting Compelling Podcast Intros  Tips & Samples</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pictorial-perfection-proven-techniques-for-stunning-photos/"><u>[Updated] Pictorial Perfection  Proven Techniques for Stunning Photos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/boosting-engagement-profits-with-animated-ad-success-tactics-on-fb-for-2024/"><u>Boosting Engagement, Profits with Animated Ad Success Tactics on FB for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/churn-memetic-content-for-gif-hub-for-2024/"><u>Churn Memetic Content for GIF Hub for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/composing-cinematic-cues-trailer-soundscapes-guide/"><u>Composing Cinematic Cues  Trailer Soundscapes Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-your-ultimate-style-haul-video-for-2024/"><u>Crafting Your Ultimate Style Haul Video for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/craftsmits-and-cinematography-precision-in-aspect-ratios-for-2024/"><u>Craftsmits and Cinematography  Precision in Aspect Ratios for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/deciphering-and-repairing-errors-caused-by-nwstoreexe-on-your-pc/"><u>Deciphering & Repairing Errors Caused by NW_Store.exe on Your PC</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/drone-giants-crafting-the-future-of-heavy-hauls/"><u>Drone Giants  Crafting the Future of Heavy Hauls</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/dynamic-duo-photography-and-musical-composition/"><u>Dynamic Duo  Photography & Musical Composition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-printing-fresh-drivers-for-hp-officejet-pro-69n8-printers/"><u>Essential Printing: Fresh Drivers for HP OfficeJet Pro 69N8 Printers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/free-access-mastering-microsofts-bing-with-dall-e-3/"><u>Free Access: Mastering Microsoft's Bing with DALL-E 3</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/future-ready-inhabitants-of-the-metaverse-your-device-blueprint/"><u>Future-Ready Inhabitants of the Metaverse - Your Device Blueprint</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/grasping-video-clarity-the-first-lessons-on-hd/"><u>Grasping Video Clarity  The First Lessons on HD</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-synergy-for-success-merge-linktree-with-your-tiktok-bio/"><u>In 2024, A Synergy for Success  Merge Linktree with Your TikTok Bio</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-strategies-in-voice-memo-mastery/"><u>In 2024, Advanced Strategies in Voice Memo Mastery</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-artistic-horizons-scouting-the-finest-8-drawing-apps-for-iphones/"><u>In 2024, Artistic Horizons  Scouting the Finest 8 Drawing Apps for iPhones</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-auditory-excellence-on-demand-the-top-6-mics-for-livestreams/"><u>In 2024, Auditory Excellence on Demand  The Top 6 Mics for Livestreams</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-7-macos-video-player-selections/"><u>In 2024, Best 7 MacOS Video Player Selections</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-capturing-excellence-the-premium-seven-selection/"><u>In 2024, Capturing Excellence  The Premium Seven Selection</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pushing-boundaries-in-media-text-curve-concepts/"><u>In 2024, Pushing Boundaries in Media  Text Curve Concepts</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-y78plus-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo Y78+ Device</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/inside-the-updates-movavi-editors-new-release-2024/"><u>Inside the Updates  Movavi Editor’s New Release, 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/integrating-streamlabs-smoothly-with-obs-on-macbooks/"><u>Integrating Streamlabs Smoothly with OBS on MacBooks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/overcoming-content-constraints-s-virtual-world/"><u>Overcoming Content Constraints 'S Virtual World</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/prime-10-nano-drones-for-experienced-pilots/"><u>Prime 10 Nano Drones for Experienced Pilots</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ranking-perfect-photo-and-video-shows-on-iphones/"><u>Ranking Perfect Photo & Video Shows on iPhones</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/revolutionize-your-designs-incorporating-3d-text-psx/"><u>Revolutionize Your Designs  Incorporating 3D Text PSX</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ringtone-revelry-top-choices-for-laugh-inducing-calls/"><u>Ringtone Revelry  Top Choices for Laugh-Inducing Calls</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-less-loved-aspects-of-virtual-worlds/"><u>The Less-Loved Aspects of Virtual Worlds</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-clicker-article-titles-maker-for-2024/"><u>Top Clicker Article Titles Maker for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unleashing-visual-impact-techniques-for-ai-text-depth/"><u>Unleashing Visual Impact  Techniques for AI Text Depth</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlocking-the-mystery-phantoms-temporal-expansion-capabilities/"><u>Unlocking the Mystery  Phantom’s Temporal Expansion Capabilities</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unrestricted-gaming-beats-digital-download/"><u>Unrestricted Gaming Beats  Digital Download</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/vlc-mastery-unveiling-10-secret-capabilities/"><u>VLC Mastery  Unveiling 10 Secret Capabilities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-alliance-of-creativity-brands-and-youtubes-fusion/"><u>[New] Alliance of Creativity Brands and YouTube's Fusion</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-how-to-create-a-3d-text-art-effect-in-adobe-illustrator-for-2024/"><u>[New] How to Create a 3D Text Art Effect in Adobe Illustrator for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-your-go-to-resource-mastering-the-use-of-mobizen-recorders/"><u>[New] Your Go-To Resource Mastering the Use of Mobizen Recorders</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-conquer-iphone-photography-by-perfecting-motion-capture/"><u>[Updated] Conquer iPhone Photography by Perfecting Motion Capture</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-correcting-gopros-fish-eye-distortion-techniques/"><u>[Updated] Correcting GoPro's Fish Eye Distortion Techniques</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-right-way-to-raise-your-videos-reach-responsibly/"><u>[Updated] The Right Way to Raise Your Video's Reach Responsibly</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/critique-of-avengers-by-marvel-exceptional-average-or-just-overhyped/"><u>Critique of 'Avengers' By Marvel: Exceptional Average or Just Overhyped?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ethical-guidelines-utilizing-chatgpt-for-wellness/"><u>Ethical Guidelines: Utilizing ChatGPT for Wellness</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-at-toms-pc-parts-store-find-what-you-need-here/"><u>Expert Reviews at Tom's PC Parts Store - Find What You Need Here!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-metaverse-marketing-landscapes/"><u>Navigating Metaverse Marketing Landscapes</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-search-troubleshooting-steps/"><u>Navigating Through Windows Search Troubleshooting Steps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premium-slideshow-tools-for-iphone-series-9-13-xr-ios13/"><u>Premium Slideshow Tools For iPhone Series 9-13 (XR-iOS13)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pro-level-chat-skills-inside-the-world-of-whatsapp-tips/"><u>Pro-Level Chat Skills Inside the World of WhatsApp Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quantifying-videography-storage-needs-128gb/"><u>Quantifying Videography Storage Needs, 128GB</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-setting-up-a-diabolical-addon-in-kodi-19-matrix/"><u>Step-by-Step Guide: Setting Up a Diabolical Addon in Kodi 19 Matrix</u></a></li>
 </ul></div>
+

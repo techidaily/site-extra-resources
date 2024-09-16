@@ -1,7 +1,7 @@
 ---
 title: "Efficient Approaches to Picture Resource Sourcing"
-date: 2024-09-04T09:14:29.312Z
-updated: 2024-09-05T09:14:29.312Z
+date: 2024-09-09T02:44:52.169Z
+updated: 2024-09-15T16:49:46.647Z
 tags: 
   - screen-recording
   - ai video
@@ -116,40 +116,16 @@ Step2Next, drag and drop the video into the timeline just as shown in the image 
 
 ![drag and drop video into timeline](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Now double-click the image in the timeline. A settings tab will pop up on your screen. Navigate around the settings option till you find **Chroma Key**. Kindly enable Chroma Key, and your photo background would become transparent automatically. Click on **OK** to confirm your actions then move to the next step.
 
 Step3Now that you've successfully transformed the background of your photo into a transparent one, locate and click on the **Export** button to save it to your local storage.
 
 ![click on the export button](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. **iMovie**
 
 ![imovie](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-9.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 iMovie is a great video editing software that allows end-users to erase image backgrounds. It lets you transform an image background into a transparent one and vice versa. The software also supports several background templates that you can use to customize your image background.
 
 You don't need to be a tech guru to use this software. Thanks to the clean user interface which is simple to operate. In addition to the services offered by this video editing software, iMovie lets you create/shoot engaging video content.
@@ -158,22 +134,17 @@ You don't need to be a tech guru to use this software. Thanks to the clean user 
 
 ![canvas](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-10.png)
 
+With Canva, you can also remove background from your images conveniently. This Windows operating system compatible software lets you delete an image background so it appears transparent. It's one of the most versatile software to own.
+
+In addition to the functionalities of Canva, it can also be used to create aesthetic designs like logos, presentations, posters, flyers, ads video, etc. The software supports several customized templates that you can use to decorate your images.
+
 <!-- affiliate ads begin -->
 <a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
   <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
 <img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-With Canva, you can also remove background from your images conveniently. This Windows operating system compatible software lets you delete an image background so it appears transparent. It's one of the most versatile software to own.
 
-In addition to the functionalities of Canva, it can also be used to create aesthetic designs like logos, presentations, posters, flyers, ads video, etc. The software supports several customized templates that you can use to decorate your images.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. How to Use a Background Media in your own Photos and Videos?
 
 Using background media in a photo or video is easy. All you need is professional photo or video editing software. We've introduced 4 amazing photo editors in the section above. Filmora is the best amongst them as it supports both video and photo editing.
@@ -181,17 +152,12 @@ Using background media in a photo or video is easy. All you need is professional
 You can count on the Wondershare Filmora video editor to import or delete backgrounds from your photos and videos without distorting the output quality.
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Conclusion
 
 Getting top-notch background stock images for your photos and videos shouldn't be a problem anymore with the information provided in the article above. We've introduced the best sites to download or copy amazing stock images.
@@ -230,40 +196,16 @@ In addition, we shared with you some of the best background editing software tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-6-empowering-metaverse-instances-explained/"><u>[New] 6 Empowering Metaverse Instances Explained</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-a-visual-marvel-unveiled-eizos-coloredge-cg318-4k-reviewed/"><u>[New] A Visual Marvel Unveiled  EIZO's ColorEdge CG318-4K Reviewed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-best-photo-display-tools-for-iphone-series-upgrades/"><u>[New] Best Photo Display Tools For iPhone Series Upgrades</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-compact-and-cost-effective-mirrorless-4k-cameras-(1000/"><u>[New] Compact and Cost-Effective  Mirrorless 4K Cameras <$1,000</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-comprehensive-motion-dynamics-synopsis/"><u>[New] Comprehensive Motion Dynamics Synopsis</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-stabilizing-your-stream-avoid-dropped-frame-errors/"><u>[Updated] In 2024, Stabilizing Your Stream  Avoid Dropped Frame Errors</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-streamlining-video-editing-in-obs-with-luts-for-2024/"><u>[Updated] Streamlining Video Editing in OBS With LUTs for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-the-ultimate-guide-to-androids-mobas/"><u>[Updated] The Ultimate Guide to Android's MOBAs</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-turn-the-clock-back-reverse-video-mastery-in-instagram/"><u>[Updated] Turn the Clock Back  Reverse Video Mastery in Instagram</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-tecno-pop-8-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Tecno Pop 8 Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cloud-economy-in-review-comparative-analysis-2024/"><u>Cloud Economy in Review  Comparative Analysis 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cutting-edge-android-imagery-tweaker/"><u>Cutting-Edge Android Imagery Tweaker</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/decoding-script-annotations-slug-lines-explained/"><u>Decoding Script Annotations  Slug Lines Explained</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/eight-outstanding-models-your-guide-to-5k-monitors/"><u>Eight Outstanding Models - Your Guide to 5K Monitors</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elite-ambiance-picks-for-real-time-viewers/"><u>Elite Ambiance Picks for Real-Time Viewers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhancing-engagement-best-practices-for-b-roll-integration/"><u>Enhancing Engagement  Best Practices for B Roll Integration</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-tecno-spark-10-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Tecno Spark 10 Pro to New Phone | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-cosmic-realms-unveiled-metaverse-vs-multiverse/"><u>In 2024, Cosmic Realms Unveiled  Metaverse vs Multiverse</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-realme-c51-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Realme C51 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-k70-pro-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi K70 Pro Phone FRP Lock</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-top-20-best-anime-opening-songs/"><u>In 2024, Top 20 Best Anime Opening Songs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/innovative-filters-to-make-your-tiktok-stand-out/"><u>Innovative Filters to Make Your TikTok Stand Out</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/license-free-meditation-songs-your-ultimate-selection/"><u>License-Free Meditation Songs – Your Ultimate Selection</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/multiple-lines/"><u>Multiple Lines</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/premium-free-ticking-companion/"><u>Premium Free Ticking Companion</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/resolving-the-issue-how-to-overcome-cannot-reach-live-configuration-servers-problem/"><u>Resolving the Issue: How to Overcome Cannot Reach Live Configuration Servers Problem</u></a></li>
-<li><a href="https://win-blog.techidaily.com/speedy-solutions-for-unloading-errors-in-fortnite-a-quick-guide/"><u>Speedy Solutions for Unloading Errors in Fortnite - A Quick Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/strategies-for-securing-youtubers-as-sponsors/"><u>Strategies for Securing YouTubers as Sponsors</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/streamline-projects-with-free-video-intros/"><u>Streamline Projects with Free Video Intros</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-complete-insider-guide-to-creating-and-editing-videos-on-windows-11/"><u>The Complete Insider Guide to Creating & Editing Videos on Windows 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-link-from-instas-photos-to-tiks-videos/"><u>The Ultimate Link  From Insta's Photos to Tik's Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/transforming-images-via-look-up-table-techniques-in-adobes-image-editor/"><u>Transforming Images via Look-Up Table Techniques in Adobe's Image Editor</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-list-of-premium-mobile-cloud-storage-android-2024/"><u>Ultimate List of Premium Mobile Cloud Storage (Android, 2024)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-selection-hits-the-cutting-edge-youtube-unboxing-channels-of-2024/"><u>Ultimate Selection Hits  The Cutting-Edge YouTube Unboxing Channels of 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/vision-brought-to-life-the-most-compelling-8-drawing-apps-for-iphones/"><u>Vision Brought to Life  The Most Compelling 8 Drawing Apps for iPhones</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-echoes-of-antiquity-tracing-the-footsteps-of-ancient-scribes-for-2024/"><u>[Updated] Echoes of Antiquity Tracing the Footsteps of Ancient Scribes for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-petite-narrative-blueprint/"><u>[Updated] Petite Narrative Blueprint</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/culinary-cinema-mastery-the-7-pathways-to-delectable-vids/"><u>Culinary Cinema Mastery - The 7 Pathways to Delectable Vids</u></a></li>
+<li><a href="https://fox-info.techidaily.com/eye-catching-podcast-logos-step-by-step-creation-for-2024/"><u>Eye-Catching Podcast Logos Step-by-Step Creation for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-samsung-galaxy-xcover-7-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Samsung Galaxy XCover 7 Without PUK Codes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-chucklechamber-a-universe-of-comedy-creation-online/"><u>In 2024, ChuckleChamber A Universe of Comedy Creation Online</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-revisit-the-past-easy-access-to-fb-story-archive/"><u>In 2024, Revisit the Past Easy Access to FB Story Archive</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-ultimate-guide-to-youtube-autoplay-on-facebook/"><u>In 2024, The Ultimate Guide to YouTube Autoplay on Facebook</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/payment-for-publishing-consumer-based-merchandise-viewpoints-for-2024/"><u>Payment for Publishing Consumer-Based Merchandise Viewpoints for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pre-upgrade-wisdom-a-primer-on-improvement/"><u>Pre-Upgrade Wisdom A Primer on Improvement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tackling-photo-app-errors-in-windows-11/"><u>Tackling Photo App Errors in Windows 11</u></a></li>
 </ul></div>
+
