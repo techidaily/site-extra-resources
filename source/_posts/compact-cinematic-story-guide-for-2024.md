@@ -1,7 +1,7 @@
 ---
 title: "Compact Cinematic Story Guide for 2024"
-date: 2024-09-11T16:23:18.207Z
-updated: 2024-09-15T21:13:43.600Z
+date: 2024-09-18T08:52:13.992Z
+updated: 2024-09-22T07:13:12.482Z
 tags: 
   - screen-recording
   - ai video
@@ -82,19 +82,6 @@ Have you ever stored various videos and photos on a memory card or on a computer
 
 Below, we will show you have to use this easy movie maker to create a video with Filmora in clicks.
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Import your files and arrange the order
 
 Open Wondershare Filmora, click the "Import" button, and use the navigation import panel to load media files. You can also directly drag and drop your media files into the program. Then, trim or cut the video clips in the timeline with options in the Toolbox
@@ -102,10 +89,10 @@ Open Wondershare Filmora, click the "Import" button, and use the navigation impo
 ![import files and arrange order](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Making stunning short films with various Effects & Filters
@@ -116,6 +103,13 @@ Select the ones you want to add by clicking "Transition" and dragging them betwe
 
 ![apply to all](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To add text to the video, click the "Text" button, choose a text type, and drag the icon to the Text track. You can stretch the icon across the entire track to have the titles appear throughout the movie, or just over a portion of it. In the editing window, you can change the font, size, color, and effect.
 
 * More features to discover can be found by clicking [**Extraordinary Features of Filmora**](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -125,6 +119,13 @@ To add text to the video, click the "Text" button, choose a text type, and drag 
 When everything is done, hit the “Create” button, and you'll see several options: save it as a video file, convert it for viewing on your mobile phone or tablet, directly upload to your YouTube or Facebook account and burn to DVD. Choose an output method as you like and click “Create”. After a few seconds, a folder with the newly reformatted video will open automatically.
 
 ![save the video](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -156,31 +157,30 @@ Instead, screenwriters are tasked with presenting the conflict on screen through
 
 ![conflict](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Turning Point
 
 It's helpful to think of a screenplay as a pattern of significant human change that you create at specific moments of change—the discoveries and decisions your main character makes that change the character and move the story forward. What your character wants and is trying to achieve in your short is the surface action – the events we see on screen. And how these events forever change a character's inner landscape is deep action—your character arc.
 
 If you want to see a well-crafted surface and deep action/character arc in a fifteen-page script, read Chapter 17 _"Killer Kart"_ in the book Making Short Scripts That Connect 5e, and screen the movie on the book's website. It's no surprise that the film is the most screened film ever made at the FSU Film School.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Sublimation
 
 Scenes are the **"church of drama"**, as William Gibson also brilliantly says. So, it's helpful to think of your scenes as the time and place where a significant moment of change will occur, throwing your script into the next scene and moving your story forward. That is your purpose when you write a scene, to dramatize the moment (or moments) of change. That's what matters. I like to think of a scene as an oyster and a moment of change as a pearl. Then cut to your scenes as close to the moment of change as possible and exit as soon as possible.
 
 I got it, really got it, as a young playwright when the Actors Theater of Louisville commissioned me to write a ten-minute play. And I did—in six scenes that I hit late and left early, each with a small but significant moment of change that moved the story into the next scene. “A tender and effortless glissando that gracefully stretches from moment to wistful moment,” as The Los Angeles Times put it in my all-time favorite review.
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. Ending
 
@@ -189,13 +189,6 @@ The end of a script is often more important than the 90 pages that preceded it. 
 **Example Script Defining Above Tips**
 
 ![example script defining](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. How to edit your short film?
 
@@ -222,6 +215,13 @@ Select the ones you want to add by clicking "Transition" and dragging them betwe
 To add text to the video, click the "Text" button, choose a text type, and drag the icon to the Text track. You can stretch the icon across the entire track to have the titles appear throughout the movie, or just over a portion of it. In the editing window, you can change the font, size, color, and effect.
 
 * More features to discover can be found by clicking [**Extraordinary Features of Filmora**](https://tools.techidaily.com/wondershare/filmora/download/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3.Save the video in the format of your choice
 
@@ -261,15 +261,20 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-bending-space-and-time-vrs-cinematic-innovation/"><u>[New] Bending Space and Time VR's Cinematic Innovation</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-capture-and-relive-your-favorite-moments-anywhere-anytime-the-best-in-free-video-downloaders-for-youtubes/"><u>[Updated] 2024 Approved Capture and Relive Your Favorite Moments Anywhere, Anytime The Best in Free Video Downloaders for YouTubes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-compreenas-guide-to-the-best-6-helmet-attachments-for-gopros/"><u>[Updated] A Compreenas Guide to The Best 6 Helmet Attachments for GOPROs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-achieving-maximum-comfort-in-vr-landscape/"><u>[Updated] Achieving Maximum Comfort in VR Landscape</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-secure-your-device-footage-with-mi-11-techniques/"><u>2024 Approved Secure Your Device Footage with Mi 11 Techniques</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725288682367-ai/"><u>提升影片品质：锦龙视频AI专业解码技术</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/banish-the-lagging-problem-stabilize-your-halo-infinite-gameplay-on-personal-computer/"><u>Banish the Lagging Problem - Stabilize Your Halo Infinite Gameplay on Personal Computer</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehensive-list-audio-pace-modification-tools/"><u>Comprehensive List Audio Pace Modification Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-y100i-power-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo Y100i Power 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-portable-propella-ebike-the-ultimate-combo-of-speed-and-savings/"><u>In-Depth Analysis of the Portable Propella Ebike - The Ultimate Combo of Speed and Savings!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-ensuring-your-facebook-reach-with-exceptional-cover-videos/"><u>[New] 2024 Approved Ensuring Your Facebook Reach with Exceptional Cover Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-from-average-to-amazing-8-tactics-for-exciting-unboxing-reels/"><u>[New] From Average to Amazing 8 Tactics for Exciting Unboxing Reels</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-brainy-battles-ultimate-gk-video-channel-guide/"><u>[Updated] Brainy Battles - Ultimate GK Video Channel Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-adeptly-archive-your-fb-friends-lives-in-seconds/"><u>[Updated] In 2024, Adeptly Archive Your Fb Friends' Lives in Seconds</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-strategic-broadcast-planning-youtube-and-the-top-30-networks/"><u>2024 Approved Strategic Broadcast Planning YouTube & The Top 30 Networks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-strategies-in-post-processing-colors-for-2024/"><u>Expert Strategies in Post-Processing Colors for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-achieving-flawless-photos-with-size-tweaks-on-ios/"><u>In 2024, Achieving Flawless Photos with Size Tweaks on iOS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-htc-u23-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast HTC U23 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-the-rings-rhythm-a-clash-with-streamers/"><u>In the Ring's Rhythm A Clash with Streamers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premier-digital-discussion-director/"><u>Premier Digital Discussion Director</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/space-saver-strategies-pioneering-the-best-cloud-platforms/"><u>Space-Saver Strategies Pioneering the Best Cloud Platforms</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-pinnacle-of-nvme-thermal-solutions-expert-review-on-teamgroups-dark-airflow-i-ssd-cooler/"><u>The Pinnacle of NVMe Thermal Solutions: Expert Review on TeamGroup's Dark AirFlow I SSD Cooler</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-post-a-picture-on-youtube/"><u>The Ultimate Guide to Post a Picture on YouTube</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-unlocking-filmora-scrn-a-comprehensive-guide-to-desktop-recording/"><u>Updated In 2024, Unlocking Filmora Scrn A Comprehensive Guide to Desktop Recording</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/warriors-guide-to-enhanced-game-flow-boosting-fps-and-fixing-stutter-in-mobile-battles/"><u>Warrior's Guide to Enhanced Game Flow - Boosting FPS & Fixing Stutter in Mobile Battles</u></a></li>
 </ul></div>
 

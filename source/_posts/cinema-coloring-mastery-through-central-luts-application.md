@@ -1,7 +1,7 @@
 ---
 title: "Cinema Coloring Mastery Through Central Luts Application"
-date: 2024-09-13T21:34:38.375Z
-updated: 2024-09-15T17:37:20.918Z
+date: 2024-09-19T22:35:59.050Z
+updated: 2024-09-21T17:50:25.823Z
 tags: 
   - screen-recording
   - ai video
@@ -72,6 +72,26 @@ From the "Free LUTs" page, users can download ten free conversion LUTs and three
 
 ![ground control color](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. [Color Grading Central: 7 Free LUTs, Color Presets, and Grains](http://www.colorgradingcentral.com/)
 
 If you're a budding colorist or video editor who takes color seriously, you should know about Color Grading Central. CGC specializes in all things color grading.
@@ -81,19 +101,6 @@ From grain to LUTs, their website is a good place to find lots of excellent colo
 In addition to giving away seven free color LUTs, they're also giving away an assortment of color presets, grains, and proposals just for their email list.
 
 ![color grading central](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-5.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. [SmallHD: 7 Free LUTs](https://www.smallhd.com/community/movie-looks-download)
 
@@ -106,10 +113,10 @@ If you want to add a dramatic and cinematic feel to your footage, use this free 
 ![smallhd](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. [Frank Glencairn: Free Vintage LUT](https://frankglencairn.wordpress.com/2014/01/15/everything-looks-better-on-kodachrome-k-tone-lut/)
@@ -130,13 +137,6 @@ The good news is that you can register, download the LUT, and then cancel. Or he
 
 ![lutify me](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4\. How to do color grading in Filmora?
 
 With the most recent technology, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is unquestionably an indispensable tool and can do more than just edit. Users may easily put audio and video over the clip while merging various clips, setting range markers, and more with this editor.Here is a step-by-step guide to using the various effects used in Filmora's color grading panel.
@@ -146,15 +146,22 @@ By clicking **"Effect"** and choosing **"LUT"**, where you can examine a range o
 ![lut](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Of course, if you're still dissatisfied with the result you may select **"Advanced"** for a more subtle color correction. White Balance, Vignette, and Enhancement are some of Adjust features. You can also choose a more precise pre-made configuration from the **Preset** option.
 
 ![preset](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -165,13 +172,6 @@ In summary, we've seen some different color grading LUTs that simplify the color
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
 </article
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -205,14 +205,17 @@ In summary, we've seen some different color grading LUTs that simplify the color
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-underscrutinized-to-unforgettable-bio-hacks-for-love-success/"><u>[New] From Underscrutinized to Unforgettable Bio Hacks for Love Success</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-most-popular-firefox-screenshots-and-recorders/"><u>[New] In 2024, Most Popular Firefox Screenshots & Recorders</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-retrieving-secret-snaps-tips-for-snapchats-private-photos/"><u>[New] Retrieving Secret Snaps Tips for Snapchat's Private Photos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-achieve-harmony-import-audio-to-your-inshot-clips/"><u>[Updated] Achieve Harmony Import Audio to Your InShot Clips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-list-of-premium-ways-to-access-cricket-live/"><u>[Updated] Comprehensive List of Premium Ways to Access Cricket Live</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-visuals-and-vibrations-merging-soundtracks-with-vimeo-media/"><u>2024 Approved Visuals and Vibrations Merging Soundtracks with Vimeo Media</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-thorough-exploration-of-kinesthetic-controls/"><u>In 2024, A Thorough Exploration of Kinesthetic Controls</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-forces-vocabulary-a-compreayer-into-star-war-language/"><u>The Force's Vocabulary: A Compreayer Into Star War Language</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-ultimate-list-of-web-based-vertical-video-editors/"><u>Updated In 2024, The Ultimate List of Web-Based Vertical Video Editors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capturing-time-live-photo-journey-to-video-vista/"><u>[New] Capturing Time Live Photo Journey to Video Vista</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-novices-to-vectors-grasping-the-basics-and-choices/"><u>[New] From Novices to Vectors Grasping the Basics and Choices</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-experts-picks-best-free-video-tools-for-pc-and-mac-for-2024/"><u>[Updated] Expert's Picks Best Free Video Tools for PC & Mac for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-film-swapping-ideas-best-replacements-1-7-for-2024/"><u>[Updated] Film Swapping Ideas Best Replacements #1-7 for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-art-of-recording-flawless-podcasts-via-zoom/"><u>[Updated] In 2024, The Art of Recording Flawless Podcasts via Zoom</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-bold-creation-mastering-timelapses-and-animations-with-movie-maker/"><u>In 2024, Bold Creation Mastering Timelapses & Animations with Movie Maker</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-complete-guide-to-ios-snapshots-and-more/"><u>In 2024, Complete Guide to iOS Snapshots and More</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-visual-flow-with-kinemaster/"><u>Mastering the Art of Visual Flow with Kinemaster</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/omniimageai-holistic-editing-experience/"><u>OmniImageAI Holistic Editing Experience</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-guide-importing-audio-for-inshot-edits-for-2024/"><u>Step-by-Step Guide Importing Audio for InShot Edits for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/taking-down-the-sunfounder-pironman-5-thorough-review-and-detailed-setup-instructions/"><u>Taking Down the SunFounder Pironman 5: Thorough Review and Detailed Setup Instructions</u></a></li>
 </ul></div>
 

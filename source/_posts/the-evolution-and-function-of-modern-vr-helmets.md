@@ -1,7 +1,7 @@
 ---
 title: "The Evolution and Function of Modern VR Helmets"
-date: 2024-09-15T02:52:02.257Z
-updated: 2024-09-16T00:48:02.988Z
+date: 2024-09-15T02:16:08.528Z
+updated: 2024-09-22T01:30:03.766Z
 tags: 
   - screen-recording
   - ai video
@@ -57,30 +57,34 @@ thumbnail: https://www.lifewire.com/thmb/5zccj0kwo0KoS2pb6azCH1Qb8l0=/540x405/fi
  The Samsung Gear VR is essentially Oculus Rift lite, owing to the fact that the two companies worked on the technology together. The Gear VR uses a Samsung Galaxy smartphone for the display and as the processor. The phone slots in front of the lenses and into a Micro USB slot, and uses the super AMOLED display as the screen. With the Gear, all you have to do is to slot in the phone, put on the headset and start enjoying the virtual reality experience.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Oculus Rift](https://www.oculus.com/rift/  )
 
 ![oculus-rift](https://images.wondershare.com/filmora/article-images/oculus-rift.jpg)
 
- Oculus Rift headset was responsible for the current hysteria in virtual reality. The Rift plugs into the computer’s USB and DVI ports and tracks the movements of the head to provide 3D displays on its stereo screens. The consumer edition of the Rift comes with a 2160 x 1200 resolution as well as a refresh rate of 90Hz. The Rift matches HTC Vive in terms of the refresh rate, but lags behind Sony’s PlayStation VR, though it is a pretty advanced VR headset in terms of the technology used.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Oculus Rift headset was responsible for the current hysteria in virtual reality. The Rift plugs into the computer’s USB and DVI ports and tracks the movements of the head to provide 3D displays on its stereo screens. The consumer edition of the Rift comes with a 2160 x 1200 resolution as well as a refresh rate of 90Hz. The Rift matches HTC Vive in terms of the refresh rate, but lags behind Sony’s PlayStation VR, though it is a pretty advanced VR headset in terms of the technology used.
 
 ### [Sony PlayStation VR](https://www.playstation.com/en-us/explore/playstation-vr/  )
 
 ![sony-playstation-vr](https://images.wondershare.com/filmora/article-images/sony-playstation-vr.jpg)
 
  Sony has finally announced the launch date for the PlayStation VR headset and this is expected to be 13th October 2016\. A new version though, was announced way back in 2015 and it featured a 5-inch LCD display of the original prototype. For the version to be released, it is expected to have a 5.7 inch OLED to allow for low persistence which will in turn translate to less motion blur. The refresh rate for Sony’s PlayStation VR has been ramped up to 120Hz, making it possible to have 120fps gaming.
+
+### [Google Cardboard](https://vr.google.com/cardboard/  )
+
+![google-cardboard-vr](https://images.wondershare.com/filmora/article-images/google-cardboard-vr.jpg)
 
 <!-- affiliate ads begin -->
 <span id="1983551">
@@ -94,10 +98,6 @@ thumbnail: https://www.lifewire.com/thmb/5zccj0kwo0KoS2pb6azCH1Qb8l0=/540x405/fi
 </span>
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-### [Google Cardboard](https://vr.google.com/cardboard/  )
-
-![google-cardboard-vr](https://images.wondershare.com/filmora/article-images/google-cardboard-vr.jpg)
 
  Not to be left behind, Google also has a cardboard virtual reality headset. With this headset, it sounds like popping your smartphone in a cardboard container and putting it over your head for a virtual reality experience. Sounds like a joke, but you will be pleasantly surprised to learn that it works like charm and it is also low cost. If anything, the smartphone you have already has all the gyroscopic sensors as well as the positioning devices needed to track your head movements.
 
@@ -120,12 +120,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-infinite-loop-twitters-live-video-saga-in-23/"><u>[Updated] 2024 Approved Infinite Loop Twitter's Live Video Saga in '23</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-capture-and-structure-knowledge-via-mematic/"><u>[Updated] Capture and Structure Knowledge via Mematic</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-maximize-attendee-visibility-with-google-meet-grids/"><u>2024 Approved Maximize Attendee Visibility with Google Meet Grids</u></a></li>
-<li><a href="https://blog-min.techidaily.com/download-the-latest-hevc-video-coding-format-support-in-vlc-media-player-no-cost/"><u>Download the Latest Hevc Video Coding Format Support in VLC Media Player - No Cost!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-spotifys-ad-marketplace-successfully/"><u>Navigating Spotify's Ad Marketplace Successfully</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/scribing-success-engaging-examples-for-podcasts/"><u>Scribing Success Engaging Examples for Podcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-symphony-of-shades-applying-complementary-colors/"><u>[Updated] A Symphony of Shades Applying Complementary Colors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bard-transforms-ai-at-google-io-showcasing-seven-new-features/"><u>Bard Transforms AI at Google I/O, Showcasing Seven New Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/evaluating-magix-multimedia-software/"><u>Evaluating MAGIX Multimedia Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-helldivers-2s-sudden-crashes-on-your-computer-expert-advice-and-tips/"><u>How to Fix Helldivers 2'S Sudden Crashes on Your Computer: Expert Advice and Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-deeper-insight-into-augmented-reality-stickers-by-google/"><u>In 2024, A Deeper Insight Into Augmented Reality Stickers by Google</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-apple-iphone-se-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About Apple iPhone SE Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-strategy-stories-the-leading-10-rogue-classics/"><u>In 2024, Strategy Stories The Leading 10 Rogue Classics</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-samsung-cf591-is-it-a-top-contender-for-gamers/"><u>In-Depth Analysis of the Samsung CF591 – Is It a Top Contender for Gamers?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/lgs-gaming-monitor-review-the-future-of-4k-freesync-for-2024/"><u>LG’s Gaming Monitor Review - The Future of 4K FreeSync for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/securing-your-stake-in-youtubes-financial-future-for-2024/"><u>Securing Your Stake in YouTube's Financial Future for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-best-of-bedside-tech-detailed-insights-into-the-high-end-philips-somneo-clock/"><u>The Best of Bedside Tech: Detailed Insights Into the High-End Philips Somneo Clock</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-3d-lut-design-techniques/"><u>Unveiling 3D LUT Design Techniques</u></a></li>
 </ul></div>
 

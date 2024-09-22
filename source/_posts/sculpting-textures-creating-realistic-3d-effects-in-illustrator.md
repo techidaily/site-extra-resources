@@ -1,7 +1,7 @@
 ---
 title: "\"Sculpting Textures  Creating Realistic 3D Effects in Illustrator\""
-date: 2024-09-09T16:15:52.456Z
-updated: 2024-09-15T19:46:09.103Z
+date: 2024-09-20T08:38:16.222Z
+updated: 2024-09-22T05:06:31.570Z
 tags: 
   - screen-recording
   - ai video
@@ -77,10 +77,10 @@ You might not believe it, but there's an even more accessible and less expensive
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Create a 3D Text Effect In Filmora?
@@ -92,6 +92,13 @@ Step1 Download Filmora and run the program. Once it opens, click on **New Projec
 Step2 Head to the **Titles** tab and search for the **“3D Illustration**” title. Then, drag it into the Timeline. You can also find several other 3D titles. If you like another one better, drag that one instead of the one we mentioned here.
 
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
@@ -109,13 +116,6 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Create a 3D Text Effect In Filmora?
 
 The steps are simple. Just follow them precisely as you see here, and you won't have any problems.
@@ -126,6 +126,13 @@ Step2 Head to the **Titles** tab and search for the **“3D Illustration**” ti
 
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
@@ -133,19 +140,6 @@ Step3 Double-click on the 3D title layer you dragged into the Timeline. When the
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -175,14 +169,18 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-unveiling-the-simple-steps-to-update-your-networks-banner-image/"><u>[New] 2024 Approved Unveiling the Simple Steps to Update Your Network's Banner Image</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-budding-buyers-guide-monetization-platforms-for-novice-channels/"><u>[New] Budding Buyers Guide Monetization Platforms for Novice Channels</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-cinema-kings-and-queens-iphones-leading-8-freepluspaid-watching-options/"><u>[New] In 2024, Cinema Kings & Queens IPhone's Leading 8 FREE+Paid Watching Options</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-access-openai-tools-when-they-arent-offered-in-your-region/"><u>How to Access OpenAI Tools When They Aren't Offered in Your Region</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-successfully-setup-and-pair-a-logitech-mouse/"><u>How to Successfully Setup and Pair a Logitech Mouse</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-nokia-g310-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Nokia G310 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/superior-soundtracks-compilation-for-vids/"><u>Superior Soundtracks Compilation for Vids</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlocking-performance-top-windows-11-strategies/"><u>Unlocking Performance Top Windows 11 Strategies</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/video-editing-in-apple-m1-macbook-air/"><u>Video Editing in Apple M1 MacBook Air</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-capturing-clarity-exploring-the-features-of-apeakscreen-software-for-2024/"><u>[New] Capturing Clarity Exploring the Features of Apeakscreen Software for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-titans-clash-discovering-the-ultimate-7-grand-wars-for-2024/"><u>[New] Titans Clash Discovering the Ultimate 7 Grand Wars for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-10-budget-friendly-mmorpg-experiences/"><u>[New] Top 10 Budget-Friendly MMORPG Experiences</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-the-perfect-tone-accessible-software-for-effortless-vocal-transformation-for-2024/"><u>Crafting the Perfect Tone Accessible Software for Effortless Vocal Transformation for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/deciding-your-gopro-comparative-analysis-at-hand/"><u>Deciding Your GoPro Comparative Analysis at Hand</u></a></li>
+<li><a href="https://solve-info.techidaily.com/enhancing-employee-skills-with-sap-and-abbyy-insights-from-an-industry-pro/"><u>Enhancing Employee Skills with SAP & ABBYY: Insights From an Industry Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/garmin-vivosmart-4-review-body-battery-stress-monitoring-and-more/"><u>Garmin Vivosmart 4 Review: Body Battery, Stress Monitoring, and More</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-stunning-visuals-how-to-master-use-of-luts-in-photoshop-suite/"><u>In 2024, Crafting Stunning Visuals How to Master Use of LUTs in Photoshop Suite</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-how-can-you-stream-a-pre-recorded-video-live-on-facebook/"><u>In 2024, How Can You Stream A Pre-Recorded Video Live on Facebook?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/isolating-image-moments-from-videos-using-windows-photos-software/"><u>Isolating Image Moments From Videos Using Windows Photos Software</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/laserfiche-integration-with-abbyys-flexicapture-advanced-document-capture-software-solution/"><u>Laserfiche Integration with ABBYY's FlexiCapture: Advanced Document Capture Software Solution</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/sharing-your-amazon-kindle-library-a-guide-on-lending-e-books-among-relatives-and-pals/"><u>Sharing Your Amazon Kindle Library: A Guide on Lending E-Books Among Relatives & Pals</u></a></li>
 </ul></div>
 

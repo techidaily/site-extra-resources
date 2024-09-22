@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] A List to Remember  Reddit’s Highly Endorsed Top Threads\""
-date: 2024-09-08T22:17:01.424Z
-updated: 2024-09-15T17:46:50.531Z
+date: 2024-09-19T00:52:57.835Z
+updated: 2024-09-21T21:39:53.277Z
 tags: 
   - screen-recording
   - ai video
@@ -67,22 +67,15 @@ $GME stands for GameStop's stock name. BRR represents printing money. The idea b
 
 ![rick astley rides a bike](https://images.wondershare.com/filmora/article-images/2023/01/rick-astley-old-photo.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Posted in 2020, this one currently has 438k votes with 99% Upvotes. It was posted by a famous user known on Reddit as[/u/ReallyRickAstley](https://www.reddit.com/user/ReallyRickAstley/).
 
 If you know the famous song "Never Gonna Give You Up, " you know who this is. Well, this is the Reddit account of the artist Rick Astley himself, taking over the platform with a photo of himself he found in 1989.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. [NYC Taxi Drivers Calendar (/r/funny)](https://www.reddit.com/r/funny/comments/7mjw12/my%5Fcab%5Fdriver%5Ftonight%5Fwas%5Fso%5Fexcited%5Fto%5Fshare/)
@@ -98,6 +91,13 @@ What's even more interesting is that the driver commented on this Reddit post, l
 ### 5\. [Showing a Game You Mastered to Someone You Care About (/r/gaming)](https://www.reddit.com/r/gaming/comments/ccr8c8/take%5Fyour%5Ftime%5Fyou%5Fgot%5Fthis/)
 
 ![showing a game you mastered reddit post](https://images.wondershare.com/filmora/article-images/2023/01/angry-gamer.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Reddit gets most of its users inside its gaming communities. As a result, these can be some of the hottest topics with countless popular posts.
 
@@ -150,10 +150,10 @@ The post has a 98% upvote rate with 170k voters in total. The reason it's so pop
 ![reddit post of soldier and his fathers message](https://images.wondershare.com/filmora/article-images/2023/01/brave-soldier-buried-with-his-devoted-troops-reddit.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Finally, this is an inspiring and heartwarming post about a brave troop.
@@ -169,6 +169,19 @@ The Reddit post has over 4k comments, many of which feature thousands of upvotes
 ## Video – Top 10 Most Upvoted Posts on Reddit
 
 Apart from what been introduced to you above, we also prepared a video about the most upvoted posts on Reddit. If you have any interests, you can watch it and get a deeper understanding of why these posts are so popular.
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -191,13 +204,6 @@ When writing the article (Nov., 2022), this Reddit post features over 400k votes
 (r/wallstreetbets)
 
 ![times square billboard](https://images.wondershare.com/filmora/article-images/2023/01/times-square-billboard.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Its purpose is quite ironic. The point was to make this image of Chancellor Palpatine from Star Wars the first result on Google whenever someone searched for "The Senate."
 
@@ -233,6 +239,13 @@ What's even more interesting is that the driver commented on this Reddit post, l
 
 ![showing a game you mastered reddit post](https://images.wondershare.com/filmora/article-images/2023/01/angry-gamer.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Reddit gets most of its users inside its gaming communities. As a result, these can be some of the hottest topics with countless popular posts.
 
 This one, for example, features 269k votes. 98% of them Upvoted, all probably enthusiastic gamers themselves.
@@ -254,13 +267,6 @@ The phrase "this is extremely dangerous to our democracy" is repeated repeatedly
 ### 7\. [Thirsty Frog Takes a Bath (r/aww)](https://www.reddit.com/r/aww/comments/90bu6w/heat%5Findex%5Fwas%5F110%5Fdegrees%5Fso%5Fwe%5Foffered%5Fhim%5Fa/)
 
 ![thirsty frog takes a bath reddit](https://images.wondershare.com/filmora/article-images/2023/01/frog-taking-a-bath.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Some things on Reddit don't have to make sense to get a lot of attention.
 
@@ -338,18 +344,20 @@ Whatever you decide to do, feel free to reflect on these posts and enjoy reading
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-spotifys-1-hit-list-update/"><u>[New] Spotify's #1 Hit List Update</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-editing-essentials-rectify-faded-iphone-hdr-with-4-key-techniques-in-premiere-pro/"><u>[Updated] [Editing Essentials] Rectify Faded iPhone HDR with 4 Key Techniques in Premiere Pro</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-download-free-mcb-skin-designs/"><u>[Updated] 2024 Approved Download Free MCB Skin Designs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-the-best-sound-editing-software-for-video-makers/"><u>[Updated] In 2024, Finding the Best Sound Editing Software for Video Makers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comparing-the-best-gopro-max-360-vs-hero-11-for-2024/"><u>Comparing the Best GoPro Max 360 VS Hero 11 for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-phenomenon-of-online-memes/"><u>Decoding the Phenomenon of Online Memes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-graphic-design-skills-master-canvas-background-trimming/"><u>Elevate Your Graphic Design Skills Master Canva's Background Trimming</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/frame-perfect-our-top-10-photo-lenses-list/"><u>Frame Perfect Our Top 10 Photo Lenses List</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-dynamic-typographic-options/"><u>In 2024, Advanced Dynamic Typographic Options</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-basic-concepts-of-plotting-and-characterizing/"><u>In 2024, Basic Concepts of Plotting and Characterizing</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-unleash-your-creativity-top-rated-vignette-apps-for-iphone-and-android/"><u>New Unleash Your Creativity Top-Rated Vignette Apps for iPhone and Android</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-handbook-audio-notes-101/"><u>The Ultimate Handbook Audio Notes 101</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-best-places-to-download-and-listen-to-bird-songs-in-mp3-format/"><u>Updated In 2024, Best Places to Download and Listen to Bird Songs in MP3 Format</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-10-common-vlogging-fears-and-how-to-beat-them-for-2024/"><u>[Updated] 10 Common Vlogging Fears and How To Beat Them for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-elevate-your-mac-broadcast-top-5-live-streaming-applications/"><u>[Updated] Elevate Your Mac Broadcast Top 5 Live Streaming Applications</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-virtual-verbal-excellence-proven-methods-for-effective-zoom-interactions-for-2024/"><u>[Updated] Virtual Verbal Excellence Proven Methods for Effective Zoom Interactions for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/are-you-experiencing-psn-issues-or-is-the-service-actually-unavailable/"><u>Are You Experiencing PSN Issues or Is the Service Actually Unavailable?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-every-shot-the-leaderboard-of-androids-5-best-photo-apps/"><u>Elevate Every Shot The Leaderboard of Android's 5 Best Photo Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/excellence-in-video-selecting-peak-frame-rates-for-slow-motion-effects/"><u>Excellence in Video Selecting Peak Frame Rates for Slow-Motion Effects</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-anywhere-anytime-with-our-11-pick-of-great-mobile-games/"><u>Game On Anywhere, Anytime with Our 11 Pick of Great Mobile Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-enhance-your-gopros-battery-health/"><u>How to Enhance Your GoPro's Battery Health</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-tecno-camon-20-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Tecno Camon 20 Pro 5G</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sony-blu-ray-player-s3700-analysis-updated/"><u>Sony Blu-Ray Player S3700 Analysis (Updated)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-asus-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Asus FRP</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-brawlers-domain-vs-twitch-territory/"><u>The Brawler's Domain Vs. Twitch Territory</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-preservation-pathway-digitizing-and-safeguarding-old-family-photos/"><u>The Preservation Pathway Digitizing & Safeguarding Old Family Photos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visionary-ai-digital-editing-app/"><u>Visionary AI Digital Editing App</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v27-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V27 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
 </ul></div>
 

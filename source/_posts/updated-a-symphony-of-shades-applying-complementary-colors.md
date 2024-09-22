@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] A Symphony of Shades  Applying Complementary Colors\""
-date: 2024-09-13T04:50:56.326Z
-updated: 2024-09-15T17:36:51.263Z
+date: 2024-09-21T06:20:30.211Z
+updated: 2024-09-22T10:29:41.306Z
 tags: 
   - screen-recording
   - ai video
@@ -50,18 +50,18 @@ The blue lines represent what is known as split contrasting colors and these wil
 
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## But How Do I Use This
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
 
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
 
@@ -69,14 +69,14 @@ As you can see from this example the base color for the scene is a dark blue/pur
 
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
-As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
 ### Conclusion
 
@@ -112,19 +112,15 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-capturing-the-world-from-above-in-stunning-hd-mi-drone-deep-dive/"><u>[New] Capturing the World From Above in Stunning HD - Mi Drone Deep Dive</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-perfecting-the-practice-sending-twitter-vids-on-instagram/"><u>[New] In 2024, Perfecting the Practice Sending Twitter Vids on Instagram</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-the-ultimate-checklist-for-hit-titles-online-for-2024/"><u>[New] The Ultimate Checklist for Hit Titles Online for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-10-ways-to-prevent-oculus-rift-vr-motion-sickness/"><u>[Updated] 10 Ways to Prevent Oculus Rift VR Motion Sickness</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-mechanics-of-instagrams-featured-stories/"><u>[Updated] 2024 Approved The Mechanics of Instagram's Featured Stories</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-capturing-breathtaking-photos-with-iphone-hdr/"><u>[Updated] Capturing Breathtaking Photos with iPhone HDR</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-crafting-the-perfect-auditory-package-for-boxings/"><u>[Updated] Crafting the Perfect Auditory Package For Boxings</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-best-in-computing-with-toms-hardware-guides-top-rated-reviews-and-advice/"><u>Discover the Best in Computing with Tom's Hardware Guides - Top Rated Reviews and Advice</u></a></li>
-<li><a href="https://techtrends.techidaily.com/elite-selection-of-group-meeting-and-video-chat-software/"><u>Elite Selection of Group Meeting & Video Chat Software</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-mac-streaming-apps-uncovering-the-best-5/"><u>Essential Mac Streaming Apps Uncovering the Best 5</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/impressive-array-of-mobile-text-options-for-2024/"><u>Impressive Array of Mobile Text Options for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-depth-analysis-the-dell-g5-egpu-a-great-choice-for-budget-gamers-with-extensive-customization-possibilities/"><u>In-Depth Analysis: The Dell G5 eGPU, a Great Choice for Budget Gamers with Extensive Customization Possibilities</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-the-hidden-gem-best-free-text-to-speech-macapps/"><u>Unveiling the Hidden Gem Best Free Text to Speech macApps</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-the-animators-guide-to-2024-top-10-software-for-bringing-your-ideas-to-life/"><u>Updated The Animators Guide to 2024 Top 10 Software for Bringing Your Ideas to Life</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-melodic-memory-bank-save-and-analyze-music-files/"><u>[New] 2024 Approved Melodic Memory Bank Save & Analyze Music Files</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-accelerating-your-ascension-to-instagram-a-list-status-our-fast-track-guide-of-15-must-try-strategies/"><u>2024 Approved Accelerating Your Ascension to Instagram A-List Status Our Fast Track Guide of 15 Must-Try Strategies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-upgrade-voice-quality-in-sony-console-gaming/"><u>2024 Approved Upgrade Voice Quality in Sony Console Gaming</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-correcting-the-error-when-msidll-is-absent-or-unavailable/"><u>Comprehensive Guide: Correcting the Error When msi.dll Is Absent or Unavailable</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-gtx-43/"><u>Fixing the GTX 지오크스 43 오류 문제: 웹사이트에서 찾기 위한 금고 해결 방식</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premier-digital-discussion-director/"><u>Premier Digital Discussion Director</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/space-saver-strategies-pioneering-the-best-cloud-platforms/"><u>Space-Saver Strategies Pioneering the Best Cloud Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-post-a-picture-on-youtube/"><u>The Ultimate Guide to Post a Picture on YouTube</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-ultimate-home-french-education-playbook/"><u>The Ultimate Home French Education Playbook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-setting-up-a-smooth-connection-between-beats-audio-and-windows-os/"><u>Troubleshoot: Setting Up a Smooth Connection Between Beats Audio & Windows OS</u></a></li>
 </ul></div>
 

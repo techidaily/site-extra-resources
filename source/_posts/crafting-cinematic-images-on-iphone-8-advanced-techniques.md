@@ -1,7 +1,7 @@
 ---
 title: "\"Crafting Cinematic Images on iPhone  8 Advanced Techniques\""
-date: 2024-09-08T18:04:20.505Z
-updated: 2024-09-16T07:03:29.541Z
+date: 2024-09-18T06:38:44.250Z
+updated: 2024-09-22T02:40:01.176Z
 tags: 
   - screen-recording
   - ai video
@@ -48,25 +48,18 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 
 ![zoom](https://images.wondershare.com/Zoom.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use the Grid
 
  Pictures and videos can be taken in either portrait or landscape format, as everybody who has tried to take a picture knows. When recording a video, you should use this to your advantage and try and find which grid would be the most effective for your video. Using the grids is very easy - simply tip the iPhone in the direction you want to film, and the film will automatically work in that format. Since it can be very easy for a phone to change grids while videoing, this is another opportunity for a stabiliser such as a tripod to be put into use.
 
 ![grid](https://images.wondershare.com/grid-iphone-camera.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Use the Exposure Lock
 
@@ -79,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
  One way to make videos more interesting is to use either slow motion or time lapse features. The well-known use of time lapse video is if the video is extremely long, and it needs to be shortened – we are all aware of the use of montages in films, after all – and it can be very effective when used correctly. Slow motion is different - it can be used for the same reasons as in films, but it can also be used for when you need to follow instructions, or for when you want to follow what is being done in absolute detail.
 
 ![time lapse](https://images.wondershare.com/time-lapse-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Put your iPhone in Airplane Mode
 
@@ -95,17 +95,10 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -113,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
  Using your iPhone to make a video is not something which requires a lot of extra equipment – it simply requires some planning on your part, as well as knowledge of your iPhone’s systems. Being able to control the grid for the videos, the exposure, and anything else which can be controlled through the iPhone systems makes for much better videos off the bat, while adding in video editing software and tripods can improve the experience even more. Videos on an iPhone shouldn’t be seen as impossible.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -129,21 +129,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-bypassing-edge-academy-video-free-study-strategies/"><u>[New] Bypassing EDGE Academy Video-Free Study Strategies</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-discovering-the-advantages-of-multi-angle-recording/"><u>[Updated] Discovering the Advantages of Multi-Angle Recording</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-lg-redefines-gaming-with-its-innovative-360-degree-vr-experience/"><u>[Updated] LG Redefines Gaming with Its Innovative 360-Degree VR Experience</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-can-genuine-interests-lead-to-natural-channel-growth/"><u>2024 Approved Can Genuine Interests Lead to Natural Channel Growth?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/editorelite-roundup-full-overview-of-androvid/"><u>EditorElite Roundup – Full Overview of AndroVid</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/embedding-apples-music-in-videos/"><u>Embedding Apple's Music in Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/ensuring-long-term-accessibility-transferring-photos-from-snapchat-for-2024/"><u>Ensuring Long-Term Accessibility Transferring Photos From Snapchat for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-direct3d-non-availability-in-graphics-card/"><u>Fixing Direct3D Non-Availability in Graphics Card</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-11-0x800705b4-update-error-a-comprehensive-guide/"><u>Fixing the Windows 11 0X800705b4 Update Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-vivo-y100a-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Vivo Y100A Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pinnacle-6-services-to-translate-videos/"><u>Pinnacle 6 Services to Translate Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/seamless-blob-disposal-in-photopeas-interface/"><u>Seamless Blob Disposal in Photopea's Interface</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-toolkit-for-editors-magix-video-pro-x-review/"><u>The Ultimate Toolkit for Editors Magix Video Pro X Review</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/time-lapse-wizardry-an-introduction/"><u>Time-Lapse Wizardry An Introduction</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-ranking-humor-image-editor/"><u>Top-Ranking Humor Image Editor</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-solving-ark-system-crashes-effectively/"><u>Troubleshooting and Solving ARK System Crashes Effectively</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-21-edition-deep-dive-unraveling-vegas-pros-complexities/"><u>[New] '21 Edition Deep-Dive Unraveling Vegas Pro’s Complexities</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-snappy-narratives-on-the-social-scene/"><u>[New] 2024 Approved Snappy Narratives on the Social Scene</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leap-forward-in-editing-embrace-xp-movie-maker/"><u>[New] Leap Forward in Editing Embrace XP Movie Maker</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-achieving-maximum-comfort-in-vr-landscape/"><u>[Updated] Achieving Maximum Comfort in VR Landscape</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-detailed-review-the-essence-of-hero4-black/"><u>2024 Approved Detailed Review The Essence of Hero4 Black</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-mov-movies-content-on-xiaomi-redmi-12-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can’t view MOV movies content on Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/how-to-share-a-podcast-on-instagram-story-or-post/"><u>How to Share a Podcast on Instagram Story or Post</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-unlock-mac-with-apple-watch-sierra/"><u>How to Unlock Mac with Apple Watch [Sierra]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-updating-acer-aspire-5100-drivers/"><u>Step-by-Step Guide to Updating Acer Aspire 5100 Drivers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-evolution-and-function-of-modern-vr-helmets/"><u>The Evolution and Function of Modern VR Helmets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-video-montages-on-mobile-devices-a-8-must-have-list/"><u>Top Video Montages on Mobile Devices A 8 Must-Have List</u></a></li>
 </ul></div>
 

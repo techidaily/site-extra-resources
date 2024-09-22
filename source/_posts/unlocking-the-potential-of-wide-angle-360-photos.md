@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Potential of Wide Angle 360 Photos"
-date: 2024-09-10T03:16:13.820Z
-updated: 2024-09-16T02:03:35.247Z
+date: 2024-09-18T09:57:22.988Z
+updated: 2024-09-21T21:04:46.887Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,13 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
 
  In normal photography, it always pays to remember what to include and what to exclude in your shots. When it comes to shooting 360s, it becomes more complicated since everything is included. For you to take successful 360s with fisheye therefore, you need to consider keenly where you stand. The fisheye lens will introduce a lot of space between you and the subject, hence you must consider how close or far away you are from the subject so that the pieces of the compositional puzzle will fall in place smoothly both in the horizontal and vertical planes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stitching 360 degrees panoramas after shooting
 
  To stitch 360s taken by fisheye lenses after shooting, you will need panorama software like [Autopano Pro](http://www.kolor.com/) or [PTGui](https://www.ptgui.com/). For Autopano Pro, you begin by importing the images into the software and ensuring that the EXIF are displayed correctly on the program. With the right settings in place, the next step is to launch the direct stitching feature if you don’t want to go the manual way. Once the stitching is done, it will be important to present the output online. This can be done using [Pano2VR](http://www.ggnome.com/pano2vr) or you could simply upload the finished panoramas to [360cities](https://www.360cities.net/) for online viewing.
@@ -63,16 +70,10 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
 [How to stitch GoPro clips into 360 videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's fisheye lenses
@@ -84,13 +85,6 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
  The fisheye lenses are used for a myriad of applications, especially in digital photography. They can also be used for re-projecting images captured by a fisheye lens or computer generated graphics onto hemispherical screens. Additionally, the lenses can be used in scientific photography such as studying canopy geometry, recording meteors and aurora, calculating near-ground solar radiation as well as in peepholes to offer a wide field of view to the users.
 
 ![create 360 photos with fisheye lens](https://images.wondershare.com/filmora/article-images/fisheye-lens-image.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Conclusion
 
@@ -113,17 +107,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-twist-your-imagery-instagrams-video-rotation-guide/"><u>[New] Twist Your Imagery Instagram's Video Rotation Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-erasing-your-instagram-identity-step-by-step-guidebook/"><u>[Updated] In 2024, Erasing Your Instagram Identity Step-by-Step Guidebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-to-mastering-final-cut-pro-essentials/"><u>[Updated] Ultimate Guide to Mastering Final Cut Pro Essentials</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-memorable-content-with-personalized-gifs/"><u>2024 Approved Crafting Memorable Content with Personalized GIFS</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/gimp-ultimate-editing-course-review/"><u>GIMP Ultimate Editing Course Review</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-apple-iphone-6-plus-by-drfone-ios/"><u>How To Unlink Apple ID From Apple iPhone 6 Plus</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-cinematic-wisdom-bank/"><u>In 2024, Cinematic Wisdom Bank</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-stunning-visuals-how-to-master-use-of-luts-in-photoshop-suite/"><u>In 2024, Crafting Stunning Visuals How to Master Use of LUTs in Photoshop Suite</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-f14-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy F14 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-oppo-find-n3-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Oppo Find N3</u></a></li>
-<li><a href="https://win11.techidaily.com/what-to-do-when-your-outlook-stays-in-safe-mode/"><u>What To Do When Your Outlook Stays in Safe Mode</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/bes-revenue-per-million-views-an-insight-for-2024/"><u>YouTube's Revenue Per Million Views An Insight for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-beginners-tutorial-windows-movie-maker-6-installation/"><u>[New] Beginner's Tutorial Windows Movie Maker 6 Installation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-camera-control-tips-for-unshakable-images/"><u>[Updated] Camera Control Tips for Unshakable Images</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-navigating-the-world-of-srt-files-on-youtube-and-twitter-for-2024/"><u>[Updated] Navigating the World of SRT Files on YouTube and Twitter for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-understanding-the-basics-of-audio-crossfading/"><u>[Updated] Understanding the Basics of Audio Crossfading</u></a></li>
+<li><a href="https://win-forum.techidaily.com/2024-khta-altrgma-ahdth-azyaaa-movavi-lms/"><u>2024 خطة الترجمة: أحدث أزياء Movavi - لمص高</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crack-the-code-top-10-hidden-iphone-x-functions/"><u>Crack The Code Top 10 Hidden iPhone X Functions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/easy-tips-to-create-a-funny-meme/"><u>Easy Tips to Create a Funny Meme</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/excel-tips-and-tricks-how-to-seamlessly-integrate-two-column-data-sets-together/"><u>Excel Tips & Tricks: How To Seamlessly Integrate Two Column Data Sets Together</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-back-to-the-match-without-interruptions-expert-advice-for-fixing-football-manager-2019-crashes/"><u>Get Back to the Match Without Interruptions - Expert Advice for Fixing Football Manager 2019 Crashes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-beginners-guide-to-straightforward-hdr-techniques/"><u>The Beginner's Guide to Straightforward HDR Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/total-360-giroptic-vr-capture-examination/"><u>Total 360 Giroptic VR Capture Examination</u></a></li>
 </ul></div>
 

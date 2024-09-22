@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Crafting New Dimensions  A Look at Mixed Reality\""
-date: 2024-09-09T00:17:23.611Z
-updated: 2024-09-16T02:32:15.108Z
+date: 2024-09-16T20:28:05.613Z
+updated: 2024-09-22T11:50:07.523Z
 tags: 
   - screen-recording
   - ai video
@@ -47,28 +47,15 @@ thumbnail: https://www.lifewire.com/thmb/ACLdGCkJybpMMfm3FCszTRQh_w8=/400x300/fi
  Sharing real world virtual spaces through mixed reality can be especially beneficial for sales team when making a pitch for a new offer. For instance, a pharmaceutical sales rep can carry along two mixed reality devices to an appointment with the doctor. The doctor and the sales rep can then both wear the devices and see a model of the new drug as explained by the sales rep. Through this, they can then visualize the chemical composition of the drug and also simulate how the drug will move in the body to fight diseases. Through such a shared experience, the sales rep will not only build deeper connections with the doctor, but also offer a more detailed explanation on the product being offered.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mixed reality for remote experts – over the shoulder coaching
 
  Most enterprises usually find it difficult to address all the support requests from all the clients in need of expert advice. It is not only costly to fly in specialists to fix things in different locations, but also time consuming. Besides, it is never adequate to troubleshoot an issue over the phone and video conferencing in such situations also have its limitations. But all these can now be avoided through the application of mixed reality for offering over the shoulder coaching remotely. With mixed reality, access to experts can be done quickly and inexpensively. For example, doctors in the healthcare industry can offer guidance and decisions to students or other doctors without the need of being in the actual locations.
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The future of mixed reality
 
@@ -79,6 +66,19 @@ thumbnail: https://www.lifewire.com/thmb/ACLdGCkJybpMMfm3FCszTRQh_w8=/400x300/fi
  Also, since mixed reality experiences take place in the physical world, individuals are likely to react to them more emotionally than to a mere digital experience. As the technology develops, it is imperative for developers as well as the intended users to be aware of such issues and be ready to address them accordingly.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -95,20 +95,14 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-dash.techidaily.com/download-lenovo-x220-drivers-quick-and-easy/"><u>[DOWNLOAD] Lenovo X220 Drivers | Quick & Easy</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-21-edition-deep-dive-unraveling-vegas-pros-complexities/"><u>[New] '21 Edition Deep-Dive Unraveling Vegas Pro’s Complexities</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-cutting-edge-camcorders-for-unmatched-video-quality/"><u>[New] Cutting-Edge Camcorders for Unmatched Video Quality</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-explore-10-websites-for-unlicensed-gaming-tunes/"><u>[New] Explore 10 Websites for Unlicensed Gaming Tunes</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-achieving-seamless-tiktok-broadcasts-top-4-computer-methods/"><u>[Updated] 2024 Approved Achieving Seamless TikTok Broadcasts Top 4 Computer Methods</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-unlock-mac-with-apple-watch-sierra/"><u>How to Unlock Mac with Apple Watch [Sierra]</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-upgrade-to-windows-11-for-2024/"><u>How to Upgrade to Windows 11 for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-vivo-s17-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Vivo S17 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/overcoming-full-memory-usage-on-your-pc-with-windows-11-a-comprehensive-guide/"><u>Overcoming Full Memory Usage on Your PC with Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/skip-the-hassle-merging-skype-and-zoom-features/"><u>Skip the Hassle Merging Skype & Zoom Features</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tackling-the-notorious-screen-tearing-glitch-in-warzone-a-complete-guide/"><u>Tackling the Notorious Screen Tearing Glitch in Warzone – A Complete Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-evolution-and-function-of-modern-vr-helmets/"><u>The Evolution and Function of Modern VR Helmets</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-sound-guide-for-your-android-devices-customization/"><u>The Ultimate Sound Guide for Your Android Device's Customization</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-video-montages-on-mobile-devices-a-8-must-have-list/"><u>Top Video Montages on Mobile Devices A 8 Must-Have List</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlocking-full-photo-viewing-capabilities-win-11-edition/"><u>Unlocking Full Photo Viewing Capabilities Win 11 Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-battle-of-the-lenses-sj6-vs-yi-4k-prodigy/"><u>[New] Battle of the Lenses SJ6 Vs. Yi 4K Prodigy</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-how-to-record-iptv-screen/"><u>[New] How to Record IPTV Screen</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-maximizing-social-media-roi-with-judicious-facebook-hash-usage-for-2024/"><u>[New] Maximizing Social Media ROI with Judicious Facebook Hash Usage for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-flawless-sound-overlap-exploring-crossfade/"><u>[Updated] Flawless Sound Overlap Exploring Crossfade</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-techniques-for-a-perfectly-setup-zoom-room/"><u>Cutting-Edge Techniques for a Perfectly Setup Zoom Room</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-dynamic-and-simple-building-a-subscriber-button-for-youtube-using-filmora/"><u>In 2024, Dynamic and Simple Building a Subscriber Button for YouTube Using Filmora</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-learning-curve-to-funimate-excellence/"><u>In 2024, Learning Curve to Funimate Excellence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/snapedit-a-beginners-guide-to-photo-mastery/"><u>Snapedit A Beginner's Guide to Photo Mastery</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-path-to-success-starts-on-screen-10-must-see-films/"><u>The Path to Success Starts on Screen 10 Must-See Films</u></a></li>
 </ul></div>
 

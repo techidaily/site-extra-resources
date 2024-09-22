@@ -1,7 +1,7 @@
 ---
 title: "\"LunaPic Essentials  Starting with Simple Edits\""
-date: 2024-09-12T23:26:12.943Z
-updated: 2024-09-15T19:46:05.476Z
+date: 2024-09-17T02:03:55.399Z
+updated: 2024-09-22T11:07:58.928Z
 tags: 
   - screen-recording
   - ai video
@@ -62,6 +62,19 @@ For a subtle and softer effect on your image, you can also click on the option o
 
 ![change image color tint](https://images.wondershare.com/filmora/article-images/2022/lunapic-photo-editor-5.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Add Animation Effects
 
 Have you ever used animation effects from a photo editor? Lunapic online photo editor brings tons of exciting and lively animation effects that you can implement on your photos. Examples of animation effects are polaroid pile, raindrops, old movie effect, snowfall, dissolution, and pixilation.
@@ -71,17 +84,10 @@ Just click on your preferred animation effect and make your images lively and hi
 ![add animation effects to image](https://images.wondershare.com/filmora/article-images/2022/lunapic-photo-editor-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Add Interesting Borders
@@ -101,17 +107,16 @@ Now just tap on your image, and the selected pattern along with the color will b
 ![paint bucket feature](https://images.wondershare.com/filmora/article-images/2022/lunapic-photo-editor-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 8\. Add Custom Watermarks
@@ -122,18 +127,31 @@ You can also adjust the transparency rate of the added watermark, and thus with 
 
 ![add text watermark](https://images.wondershare.com/filmora/article-images/2022/lunapic-photo-editor-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 9\. Add Catchy Captions
 
 Captions on the images are added so that people can use them as Instagram or Facebook stories. Also, bloggers use captions embedded images to post them on their blog sites. Lunapic photo editor gives you the option to add catchy and funny captions to your images by manually selecting the font and color of the text.
 
 ![insert photo captions](https://images.wondershare.com/filmora/article-images/2022/lunapic-photo-editor-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 10\. Apply Dynamic Filters and Effects
 
@@ -173,19 +191,18 @@ Lunapic photo editor is no different than any other professional and reliable to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-pro-level-5-digital-media-recorders-online/"><u>[New] 2024 Approved Pro-Level 5 Digital Media Recorders Online</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-build-your-brand-memes-with-kinemaster/"><u>[New] Build Your Brand Memes with KineMaster</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-how-to-obtain-perfect-photos-without-marks/"><u>[Updated] How To Obtain Perfect Photos Without Marks</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-invisible-hand-mastering-windows-11s-media-imports-for-2024/"><u>[Updated] The Invisible Hand Mastering Windows 11'S Media Imports for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-proficient-techniques-securely-embedding-a-url-in-tiktok-profiles/"><u>2024 Approved Proficient Techniques Securely Embedding a URL in TikTok Profiles</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bioshock-2-hd-edition-updated-and-enhanced-gameplay/"><u>BioShock 2 HD Edition - Updated and Enhanced Gameplay!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discover-the-power-of-4k-with-asus-mg28uq-monitor-review/"><u>Discover the Power of 4K with ASUS MG28UQ Monitor Review</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/diversify-laptop-editing-with-alternatives-to-inshot/"><u>Diversify Laptop Editing with Alternatives to Inshot</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-tutorial-on-using-snapchat-spotlight/"><u>In 2024, The Essential Tutorial on Using Snapchat Spotlight</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/no-cost-top-quality-premiere-pro-designs/"><u>No-Cost, Top-Quality Premiere Pro Designs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/obsessed-with-broadcasting-choose-between-xsplit-and-obs/"><u>Obsessed with Broadcasting? Choose Between XSplit & OBS</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/startup-steps-for-stream-money-in-periscope/"><u>Startup Steps for Stream Money in Periscope</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unrivaled-tale-composers-hub/"><u>Unrivaled Tale Composers Hub</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-ace-your-project-advanced-srt-tweaks-on-a-mac/"><u>[New] Ace Your Project Advanced SRT Tweaks on a Mac</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-cut-the-cord-download-fb-videos-on-pc-and-mobile-for-2024/"><u>[New] Cut the Cord - Download FB Videos on PC & Mobile for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-screen-moments-a-compreenasive-recorder-roundup-for-2024/"><u>[Updated] Screen Moments A Compreenasive Recorder Roundup for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-visual-flow-control-simple-fade-strategies-for-2024/"><u>[Updated] Visual Flow Control Simple Fade Strategies for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-pixel-to-perfection-hardware-or-code-for-streamers/"><u>2024 Approved Pixel to Perfection Hardware or Code for Streamers?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-principles-of-network-equality-and-internet-fairness/"><u>Decoding the Principles of Network Equality and Internet Fairness</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comedy-collection-a-1992-review-of-the-goofys/"><u>In 2024, 'Comedy Collection' A 1992 Review of The Goofys</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-motorola-edge-2023-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-depth-analysis-of-yuneecs-typhoon-h-drone-technology/"><u>In-Depth Analysis of Yuneec's Typhoon H Drone Technology</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ipads-drawing-dynasty-top-8-sketch-apps/"><u>IPad's Drawing Dynasty Top 8 Sketch Apps</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winxvideo-ai-transformando-la-experiencia-de-su-camara-web-con-sonido-y-visualizacion-grade/"><u>WinXVideo AI: Transformando La Experiencia De Su Cámara Web Con Sonido Y Visualización Grade</u></a></li>
 </ul></div>
 

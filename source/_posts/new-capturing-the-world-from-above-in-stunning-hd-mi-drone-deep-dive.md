@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capturing the World From Above in Stunning HD - Mi Drone Deep Dive\""
-date: 2024-09-14T23:19:39.831Z
-updated: 2024-09-16T04:19:20.708Z
+date: 2024-09-17T23:32:05.250Z
+updated: 2024-09-21T19:31:53.748Z
 tags: 
   - screen-recording
   - ai video
@@ -52,13 +52,6 @@ Even with a reasonable price tag, this advanced drone unit has several features 
 
 Xiaomi Mi has impressive aesthetics and most of its features are comparable to DJI Phantom 4 Drone. The best part is that this drone unit is designed with light weight structure so you can easily carry it to your tour. Even, the propeller guards as well as the gimbal unit are detachable so that you can put this drone easily inside your backpack. The overall weight of Xiaomi Mi is only 149 grams due to carbon fiber and polycarbonate material.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Battery Life
 
 As already discussed, Xiaomi MI can spend 27 minutes in the air with one time full charging. But battery time can be depleted faster if you prefer to use the auto return to home and auto departure feature. The 17.4 Volt battery unit with 5199mAh capacity takes 3 ½ hours to full charge but if you want to extend battery life then prefer to carry a backup with you. As already discussed, Xiaomi MI can spend 27 minutes in the air with one time full charging. But battery time can be depleted faster if you prefer to use the auto return to home and auto departure feature. The 17.4 Volt battery unit with 5199mAh capacity takes 3 ½ hours to full charge but if you want to extend battery life then prefer to carry a backup with you.
@@ -69,21 +62,22 @@ Like most of the advanced drone units, Xiaomi Mi also features autonomous flying
 
 The most amazing feature of Xiaomi Mi is its ability to communicate via mobile phone so that users can manage the recording focus of its camera. One more appreciable feature is its surrounded flight ability; you can make it circle around any specific object by sending commands from a smartphone. You will love to capture videos with its 360-degree motion ability that leads to incredible clicks. How can we forget to talk about the most advanced feature of this special drone unit that is Preset Rout following ability! Users can make pre adjustments for all flights and it will capture smooth shots every time. The automatic landing and takeoff feature helps in easy controls whereas if this drone goes far from 3meter range then it will switch back to its preset path. It is possible to bring this drone back with only one button and in order to improve its performance, you can access the calibration settings. Note that, if somehow your drone gets lost then it will take almost 30 to 45 minutes for coming back.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Control Range
 
 As we have discussed earlier that Xiaomi Mi is designed to work on 2.4GHz transmitter frequency range. It has left-hand throttle ability along with the handy built-in type phone clamp. In order to operate this drone from remote distance you simply need to configure its flight settings to Mode 2\. Note that MI is able to fly at a maximum height of 800m and it can go as far as up to 3000 meters from the operator.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Camera
@@ -111,21 +105,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-asmr-insights-understanding-its-health-benefits/"><u>[New] ASMR Insights Understanding Its Health Benefits</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-10-remarkable-e-learning-platforms-excluding-udemy/"><u>[New] In 2024, Top 10 Remarkable E-Learning Platforms Excluding Udemy</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-infusing-instagram-reels-with-tunes-and-narration/"><u>[New] Infusing Instagram Reels with Tunes & Narration</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-mastering-video-allure-securing-top-spots-with-the-vimeo-experts/"><u>[Updated] 2024 Approved Mastering Video Allure Securing Top Spots with the Vimeo Experts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-pictures-worth-a-thousand-dollars-online-top-photo-cloud-services-reviewed/"><u>[Updated] A Picture's Worth a Thousand Dollars Online Top Photo Cloud Services Reviewed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/creating-a-space-for-feedback-talking-with-your-viewers-for-2024/"><u>Creating a Space for Feedback Talking with Your Viewers for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cutting-edge-televisions-top-10-4ks/"><u>Cutting-Edge Televisions – Top 10 4Ks</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-strong-authentication-protocols/"><u>In 2024, Strong Authentication Protocols</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-marketing-magic-20-keywords-for-profound-impact/"><u>Mastering Marketing Magic 20 Keywords for Profound Impact</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-multi-image-compositions-photo-montages-guide/"><u>Mastering Multi-Image Compositions Photo Montages Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/navigate-instagram-video-problems-with-ease-for-2024/"><u>Navigate Instagram Video Problems with Ease for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/peerless-dialogue-creator-zone/"><u>Peerless Dialogue Creator Zone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-xiaomi-redmi-note-12r-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Xiaomi Redmi Note 12R Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-driver-compatibility-problems-between-amdintel-and-premiere-pro/"><u>Resolved Driver Compatibility Problems Between AMD/Intel and Premiere Pro</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-a-non-functional-headset-microphone/"><u>Troubleshooting Guide: Fixing a Non-Functional Headset Microphone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-dissecting-the-features-of-inshots-editing-software/"><u>[New] Dissecting the Features of InShot's Editing Software</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-explore-eco-films-learn-and-innovate-with-yts-green-screens-for-2024/"><u>[New] Explore Eco-Films Learn & Innovate with YT's Green Screens for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-action-cameras-with-a-front-facing-screen/"><u>2024 Approved Best Action Cameras with A Front Facing Screen</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/automating-video-display-in-facebook-feeds/"><u>Automating Video Display in Facebook Feeds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-manual-on-gesture-controls/"><u>Comprehensive Manual on Gesture Controls</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-detach-a-device-safely-from-the-google-home-environment/"><u>How to Detach a Device Safely From the Google Home Environment</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-13t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-infinix-smart-8-plus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Infinix Smart 8 Plus Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/improve-system-stability-and-speed-by-refreshing-the-cpu-hardware-drivers-in-your-windows-pc/"><u>Improve System Stability and Speed by Refreshing the CPU Hardware Drivers in Your Windows PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-conceptualize-entertaining-posts-in-adobe/"><u>In 2024, Conceptualize Entertaining Posts in Adobe</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-metaverse-marketing-landscapes/"><u>Navigating Metaverse Marketing Landscapes</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-mastering-color-in-final-cut-pro-a-step-by-step-guide-for-2024/"><u>Updated Mastering Color in Final Cut Pro A Step-by-Step Guide for 2024</u></a></li>
 </ul></div>
 

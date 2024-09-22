@@ -1,7 +1,7 @@
 ---
 title: "\"Quick Guide  Speech-to-Text Feature in Microsoft Word\""
-date: 2024-09-12T19:20:41.190Z
-updated: 2024-09-15T17:39:44.431Z
+date: 2024-09-20T00:47:15.403Z
+updated: 2024-09-22T04:57:17.568Z
 tags: 
   - screen-recording
   - ai video
@@ -127,29 +127,16 @@ Once you're done, click the Stop button, and your transcription will be automati
 
 ![google doc speech to text](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![create a new document](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![click the tools menu](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-9.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![select the voice typing option](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-10.jpg)
 
@@ -161,16 +148,16 @@ Microsoft Word's speech-to-text feature is an excellent tool for quickly transcr
 
 Yes, MS Word can write what you speak. With speech recognition software, MS Word can interpret your words and turn them into text. This is a great feature for those who have difficulty typing or want to dictate their thoughts without typing them out. However, there are a few things to keep in mind when using this feature, such as speaking clearly and at a moderate pace.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Why does my speech-to-text not work?
 
 There are several reasons why your speech-to-text is not working. One issue is that your microphone is not turned on. Another possibility could be that there is too much background noise interfering with the recognition process. Finally, it's also possible that you have not enabled speech-to-text in your settings. Try going to your settings and turning on the speech-to-text feature. If that doesn't work, try restarting your device.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Is Microsoft 365 free?
 
@@ -209,16 +196,16 @@ When you first open a new document, go to the top right corner of the Home menu 
 ![click on the dictate button](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Microsoft Word Speech to Text tool supports many languages as well languages that have multiple variants, such as English and French. In addition, you can type on Microsoft Word in Chinese (Simplified), Chinese (Taiwanese), English, French (France, Canada), German, Hindi, Italian, Korean, Polish, Portuguese (Brazil, Portugal), Russian, Spanish (Mexico, Spain), Thai, and more.
@@ -248,13 +235,6 @@ Once again, click the dictate button after completing all the preceding steps. T
 Microsoft Word's text-to-speech technology does more than simply transcribing your voice. Instead, Microsoft's voice typing technology, which originally listened only to single words, now listens to individual words and the phrase as a whole, thanks to the advent and improvement of artificial neural networks. This has allowed Microsoft to develop a long list of commands for incorporating punctuation, symbols, and other formatting options into your text without saying anything out loud except for the command word itself. To see the list of commands, press "Ctrl + Shift + S" on your keyboard to open the Stop Dictation dialogue box, then click on the Commands button.
 
 ![using punctuation commands](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 We can't go through all of the punctuation instructions here, but we'll mention a few of the most important. For example, the command "period" inserts a period, and "comma" creates a comma, as you may guess. The same rules apply to exclamation marks and colons. In addition, you may use the command "new line" to create a new line, "new paragraph" to start a new paragraph, and "tab" to create a tab space.
 
@@ -305,9 +285,23 @@ Once you're done, click the Stop button, and your transcription will be automati
 
 ![google doc speech to text](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![create a new document](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-8.jpg)
 
 ![click the tools menu](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![select the voice typing option](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-10.jpg)
 
@@ -363,14 +357,15 @@ Microsoft Word's speech-to-text feature is not perfect, but it can be a huge tim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-auto-captioned-mastery-enhancing-visual-narratives-for-2024/"><u>[New] Auto-Captioned Mastery Enhancing Visual Narratives for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-free-screen-cast-tools-for-windows-ranked-1-5/"><u>[New] Ultimate Free Screen Cast Tools for Windows, Ranked #1-5</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-achieving-proficiency-comprehensive-photoshop-hdr-tutorial/"><u>[Updated] Achieving Proficiency Comprehensive Photoshop HDR Tutorial</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-beyond-imagination-celebrating-the-leading-6-in-nft-creation/"><u>[Updated] Beyond Imagination Celebrating the Leading 6 in NFT Creation</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-is-recording-youtube-videos-prohibited-by-law/"><u>[Updated] Is Recording YouTube Videos Prohibited by Law?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-quick-guide-to-boost-your-tiktok-production-speed-for-2024/"><u>[Updated] Quick Guide to Boost Your TikTok Production Speed for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-become-an-efficient-time-warrior-with-these-15-task-packed-listening-habits/"><u>2024 Approved Become an Efficient Time Warrior with These 15 Task-Packed Listening Habits</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-vivo-t2x-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Vivo T2x 5G Device SIM</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/professional-acid-pro-analysis-and-substitutes/"><u>Professional ACID Pro Analysis and Substitutes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-identifying-creator-types-six-intriguing-youtube-categorization-tests/"><u>[New] Identifying Creator Types Six Intriguing YouTube Categorization Tests</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-v30-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo V30 Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-lava-agni-2-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Lava Agni 2 5G</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-your-podcasts-online-presence-via-seo/"><u>Elevating Your Podcast's Online Presence via SEO</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/first-steps-in-av1-coders/"><u>First Steps in AV1 Coders</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-beyond-replication-innovating-virtual-reality-experiences/"><u>In 2024, Beyond Replication Innovating Virtual Reality Experiences</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-n55-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme Narzo N55 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/opgeluchter-online-konvertisseur-voor-ogg-naar-mp4-videos-gratis-dienst-via-movavi/"><u>Opgeluchter Online Konvertisseur Voor OGG Naar MP4 Videos: Gratis Dienst via Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Oppo A56s 5G? | Dr.fone</u></a></li>
 </ul></div>
 

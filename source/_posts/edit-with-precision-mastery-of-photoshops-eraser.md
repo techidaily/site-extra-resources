@@ -1,7 +1,7 @@
 ---
 title: "\"Edit with Precision  Mastery of Photoshop's Eraser\""
-date: 2024-09-13T21:05:35.414Z
-updated: 2024-09-15T19:42:51.732Z
+date: 2024-09-16T13:09:43.913Z
+updated: 2024-09-22T06:13:48.969Z
 tags: 
   - screen-recording
   - ai video
@@ -68,13 +68,6 @@ The **Brush Preset Picker** is the first option that opens up a panel to let you
 
 To adjust the hardness, press the **"Shift+ Left Bracket"** or **"Shift+Right Bracket"** keys. We recommend that you set it to **100%** when erasing the pixels from your image.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Sampling Options
 
 In the Background Eraser tool's **Options bar,** you will find the **"Sampling Options"** that includes three different icons with different behaviors:
@@ -99,13 +92,6 @@ The Limit function comes with three options:
 
 ![limits function in background eraser tool](https://images.wondershare.com/filmora/article-images/2023/03/limits-function-in-background-eraser-tool.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Tolerance
 
 Located directly to the right of the Limits function, Tolerance is one of the most important options in Background Eraser, as it signifies how much a pixel's shade can vary from the sampled color for Photoshop to erase it.
@@ -129,6 +115,19 @@ This option allows you to choose a color from your subject as a foreground color
 ### 7\. Pen Pressure
 
 Pen Pressure is helpful if you use a drawing tablet instead of a mouse. With this option selected, the crosshair opacity will be regulated based on the pressure applied with your pen on the tablet.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How To Use Background Eraser Tool To Erase An Image Background?
 
@@ -162,6 +161,13 @@ Step6 Finally, after removing the background, you can place the subject on anoth
 
 ![exporting the final image after erasing background with background eraser](https://images.wondershare.com/filmora/article-images/2023/03/exporting-the-final-image-after-erasing-background-with-background-eraser.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## You May Want to Know: The Working Process of Background Eraser Tool
 
 Now that you've learned **how to use the Background Eraser Tool in Photoshop.** During the process of operating, you might wonder how the software works and changes the BG layer.
@@ -181,28 +187,15 @@ Therefore, as long as we keep the crosshair within the pink area, Photoshop will
 ![checking the working process of photo shop](https://images.wondershare.com/filmora/article-images/2023/03/checking-the-working-process-of-photo-shop.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 However, if we accidentally erase the blue stripes, we can always go back by simply pressing the **"CTRL+Z"** in Windows and **"Command+Z"** in Mac. To undo multiple steps, hit the **"Ctrl+Alt+Z" (Windows)** or **Command+Option+Z" (Mac)** keys repeatedly.
 
 ## Common FAQs When Using Background Esarser Tool in Photoshop
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Why Is Photoshop Eraser Tool Not Accessible?
 
@@ -212,6 +205,13 @@ If your Photoshop Eraser Tool is not accessible, make sure you have no active se
 
 You can find the Background Eraser Tool in the **Toolbar** on the left-hand side of the screen. Right-click the **"Eraser"** tool and select **"Background Eraser"** from the menu.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## A Bonus Video Tutorial: Background Change Tutorial with Wondershare [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Hopefully, you find this article informative and can now easily use the Background Eraser tool in Adobe Photoshop. Additionally, as artists or creators' world consists of various types of expression, images and videos are among them. Apart from the tutorial of removing images' backgrounds in Photoshop, we also provided you with a video tutorial to remove the video's background. If you have any interests, you can watch it and have fun!
@@ -219,13 +219,6 @@ Hopefully, you find this article informative and can now easily use the Backgrou
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -238,6 +231,13 @@ Hopefully, you can use the tools in Phoshop with ease and remove images' backgro
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -271,18 +271,15 @@ Hopefully, you can use the tools in Phoshop with ease and remove images' backgro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-choosing-your-first-camera-the-2024-bestseller-list/"><u>[New] Choosing Your First Camera The 2024 Bestseller List</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-amplify-your-media-integrating-text-into-windows-video-files-via-photos/"><u>[Updated] Amplify Your Media Integrating Text Into Windows Video Files via Photos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-building-your-brand-on-instagram-the-top-9-actions-of-industry-stars/"><u>2024 Approved Building Your Brand on Instagram The Top 9 Actions of Industry Stars</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-quick-fixes-eliminate-ssgnatures-in-a-blink/"><u>2024 Approved Quick Fixes Eliminate Ssgnatures in a Blink</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/comparing-reading-experiences-kindle-oasis-vs-kobo-aura-one-in-2017/"><u>Comparing Reading Experiences: Kindle Oasis Vs. Kobo Aura One in 2017</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/engaging-game-review-plants-vs-zombies-makes-a-splash-in-battle-for-neighborhood-combat/"><u>Engaging Game Review: Plants Vs. Zombies Makes a Splash in Battle for Neighborhood Combat</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhance-your-clients-work-10plus-luts-freepaid-offerings/"><u>Enhance Your Clients' Work 10+ LUTs - FREE/Paid Offerings</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/harmonizing-your-footage-with-optimal-aspect-ratios/"><u>Harmonizing Your Footage With Optimal Aspect Ratios</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oppo-a58-4g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Oppo A58 4G Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/layering-youtube-songs-onto-video-plays/"><u>Layering YouTube Songs Onto Video Plays</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/masterful-date-trackers-for-android-and-ios-wedding-planners-for-2024/"><u>Masterful Date-Trackers for Android and iOS Wedding Planners for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/top-10-free-video-stabilization-tools-for-smooth-footage/"><u>Top 10 Free Video Stabilization Tools for Smooth Footage</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-a-deep-dive-into-ffmpeg-for-authentic-unaltered-audio-extraction/"><u>[New] In 2024, A Deep Dive Into FFmpeg for Authentic, Unaltered Audio Extraction</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-flickr-profile-picture-breakdown-area-codec-timeframe-for-2024/"><u>[Updated] Flickr Profile Picture Breakdown Area, Codec, Timeframe for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-obs-mobile-top-techniques-for-2024/"><u>[Updated] Mastering OBS Mobile Top Techniques for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-top-6-networks-transforming-how-firms-connect-and-engage/"><u>[Updated] Top 6 Networks Transforming How Firms Connect and Engage</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-vs-bing-ai-exploring-10-key-differences-in-their-functionality/"><u>ChatGPT vs Bing AI: Exploring 10 Key Differences in Their Functionality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/funnyfaces-forum-jokeye-imagez-for-2024/"><u>FunnyFaces Forum Jokeye Imagez for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-transform-your-in-game-voice-and-sound-presence-naturally-expert-tips-for-free/"><u>How to Transform Your In-Game Voice and Sound Presence Naturally Expert Tips for FREE</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-conveying-cinematic-dreams-through-screenwriting/"><u>In 2024, Conveying Cinematic Dreams Through Screenwriting</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-iphones-quick-focus-adjustment/"><u>In 2024, Master iPhone's Quick Focus Adjustment</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfect-match-found-the-top-6-hdmi-21-monitors-reviewed/"><u>Perfect Match Found The Top 6 HDMI 2.1 Monitors Reviewed</u></a></li>
 </ul></div>
 

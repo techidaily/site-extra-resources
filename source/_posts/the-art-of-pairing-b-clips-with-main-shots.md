@@ -1,7 +1,7 @@
 ---
 title: "\"The Art of Pairing B-Clips with Main Shots\""
-date: 2024-09-10T04:28:22.645Z
-updated: 2024-09-16T04:20:28.270Z
+date: 2024-09-16T02:20:26.095Z
+updated: 2024-09-21T23:48:22.814Z
 tags: 
   - screen-recording
   - ai video
@@ -48,37 +48,44 @@ We'll examine the top 5 uses for B rolls across a variety of video genres and di
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Atmospheric b roll footage
 
@@ -95,13 +102,6 @@ If flaws were discovered during primary photography, the directors could have re
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -137,16 +137,16 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-constructing-coherent-youtube-video-sequences/"><u>[New] 2024 Approved Constructing Coherent YouTube Video Sequences</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-spark-conversations-with-these-10-youtube-reaction-ideas/"><u>[New] Spark Conversations with These 10 YouTube Reaction Ideas</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-science-and-magic-behind-perfecting-luts/"><u>[New] The Science and Magic Behind Perfecting LUTs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-step-by-step-guide-to-crafting-captivating-podcast-scripts-plus-free-examples/"><u>[Updated] A Step-By Step Guide to Crafting Captivating Podcast Scripts (Plus Free Examples)</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-step-by-step-guide-to-professional-filmmaking-via-youtube/"><u>[Updated] In 2024, Step-by-Step Guide to Professional Filmmaking via YouTube</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/from-timeless-tales-in-tone-on-tone-to-dynamic-digital-narratives/"><u>From Timeless Tales in Tone-On-Tone to Dynamic Digital Narratives</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guide-converting-your-favorite-youtube-videos-into-quicktime-format-on-pc-or-mac/"><u>Guide: Converting Your Favorite YouTube Videos Into QuickTime Format on PC or Mac</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-cameras-elevating-podcast-engagement/"><u>In 2024, Best Cameras Elevating Podcast Engagement</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-video-direction-on-instagram-in-reverse/"><u>In 2024, Mastering Video Direction on Instagram in Reverse</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-how-to-run-windows-and-mac-os-video-editing-apps-on-your-chromebook/"><u>New In 2024, How to Run Windows and Mac OS Video Editing Apps on Your Chromebook</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/streamline-your-playlist-import-music-into-inshot/"><u>Streamline Your Playlist Import Music Into InShot</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-visual-editor-writes-guide-to-leveraging-luts-in-adobe-premiere-pro/"><u>[New] A Visual Editor' Writes Guide to Leveraging LUTs in Adobe Premiere Pro</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-free-cam-software-showdown-best-alternative-to-expensive-options/"><u>[Updated] In 2024, Free Cam Software Showdown Best Alternative to Expensive Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-mastering-access-free-picturing-content-streams/"><u>2024 Approved Mastering Access Free Picturing Content Streams</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/creating-an-animated-gif-with-audio-a-step-by-step-guide/"><u>Creating an Animated GIF with Audio: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-affordable-wide-angle-vr-cameras-for-filmmaking/"><u>In 2024, Affordable Wide-Angle VR Cameras for Filmmaking</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-iphone-6-plus-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on iPhone 6 Plus or iPad?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leading-the-charge-in-online-healthcare-promotions-and-ads/"><u>Leading the Charge in Online Healthcare Promotions & Ads</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimal-viewing-and-audio-top-webcams-for-podcast-creators-for-2024/"><u>Optimal Viewing & Audio Top Webcams for Podcast Creators for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/proven-techniques-for-enhancing-viewability-of-participants-in-google-meets/"><u>Proven Techniques for Enhancing Viewability of Participants in Google Meets</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/social-media-showdown-triller-vs-tiktok-head-to-head-analysis-max-156-chars/"><u>Social Media Showdown Triller VS TikTok Head-to-Head Analysis (Max 156 Chars)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-secrets-of-premiere-pros-full-screen-magic/"><u>Unveiling the Secrets of Premiere Pro's Full Screen Magic</u></a></li>
 </ul></div>
 
