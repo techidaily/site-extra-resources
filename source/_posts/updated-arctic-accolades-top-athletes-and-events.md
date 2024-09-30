@@ -140,39 +140,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 <!-- affiliate ads end -->
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-10-masterpieces-in-job-market-insight-for-2024/"><u>[New] 10 Masterpieces in Job Market Insight for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-6-cost-free-closers-for-your-youtube-video-for-2024/"><u>[New] 6 Cost-Free Closers for Your YouTube Video for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-before-you-buy-the-complete-guide-to-smart-drone-purchasing/"><u>[New] Before You Buy  The Complete Guide to Smart Drone Purchasing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-brainy-broadcasts-top-trivia-video-channels-for-the-year-2024/"><u>[New] Brainy Broadcasts  Top Trivia Video Channels for the Year 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-best-unboxing-video-series-the-ultimate-2024-watchlist/"><u>[Updated] Best Unboxing Video Series - The Ultimate 2024 Watchlist</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-celebrating-maker-spirits-creative-otu-packs/"><u>[Updated] Celebrating Maker Spirits  Creative OTU Packs</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-cutting-edge-editing-a-magix-video-pro-x-evaluation-for-2024/"><u>[Updated] Cutting-Edge Editing  A Magix Video Pro X Evaluation for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-mix-melodies-and-text-powerpoints-unleashed/"><u>[Updated] How to Mix Melodies & Text  PowerPoints Unleashed</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-10-iphone-camera-features-you-should-know-in-ios-11/"><u>[Updated] In 2024, 10 iPhone Camera Features You Should Know in iOS 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-chatbots-showdown-comparing-chatgpt-plus-and-perplexity-for-superior-conversational-experiences/"><u>AI Chatbots Showdown: Comparing ChatGPT Plus and Perplexity for Superior Conversational Experiences</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/clearing-photos-expert-background-takedown-in-photopea/"><u>Clearing Photos  Expert Background Takedown in Photopea</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/compact-player-showcase-the-very-best-portables-for-2024/"><u>Compact Player Showcase  The Very Best Portables for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comparing-the-best-updated-review-of-gopro-and-yi-action-cams-for-2024/"><u>Comparing the Best  Updated Review of GoPro and Yi Action Cams for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/diy-trick-seamlessly-update-lenovo-laptops-charging-drivers-today/"><u>DIY Trick: Seamlessly Update Lenovo Laptop's Charging Drivers Today</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhance-creativity-on-chrome-os-top-10-digital-pencil-stores/"><u>Enhance Creativity on Chrome OS  Top 10 Digital Pencil Stores</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/error-code-0x00000019-explained-effective-remedies-for-bad-pool-headers-on-windows-systems-resolved/"><u>Error Code 0X00000019 Explained: Effective Remedies for Bad Pool Headers on Windows Systems [RESOLVED]</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exclusive-access-to-the-finest-ae-templates-all-free/"><u>Exclusive Access to The Finest AE Templates, All-Free</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exploring-imovies-default-crop-settings/"><u>Exploring iMovie's Default Crop Settings</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/googles-platform-unveiled-for-professional-podcasters/"><u>Google's Platform Unveiled for Professional Podcasters</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/hero-session-x-vs-polaroid-cube-the-ultimate-editing-showdown/"><u>Hero Session X Vs. Polaroid Cube  The Ultimate Editing Showdown</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-enable-and-use-windows-11s-auto-hdr-functionality/"><u>How to Enable and Use Windows 11'S Auto HDR Functionality</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-apex-creative-workspace-report-in-depth-studio-analysis-2023/"><u>In 2024, Apex Creative Workspace Report  In-Depth Studio Analysis, 2023</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-breaking-barriers-in-photography-mastering-gopro-time-lapse/"><u>In 2024, Breaking Barriers in Photography  Mastering GoPro Time-Lapse</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-podcast-name-creation-and-50plus-dynamic-example-titles/"><u>Mastering the Art of Podcast Name Creation & 50+ Dynamic Example Titles</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/melodic-mute-mode-operating-system-steps/"><u>Melodic Mute Mode  Operating System Steps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/seeing-beyond-the-ordinary-with-ar/"><u>Seeing Beyond the Ordinary with AR</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/step-into-sound-design-crafting-and-integrating-whatsapp-ringtone-on-devices/"><u>Step Into Sound Design  Crafting and Integrating WhatsApp Ringtone on Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-correct-viewing-sequence-a-guide-to-experiencing-lord-of-the-rings-trilogy/"><u>The Correct Viewing Sequence: A Guide to Experiencing 'Lord of the Rings' Trilogy</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-ultimate-blueprint-adopting-mobizen-screen-recording-skills/"><u>The Ultimate Blueprint  Adopting Mobizen Screen Recording Skills</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-docooler-usb-20-camera-unveiling-the-truth-of-its-12mp-performance/"><u>Ultimate Guide to Docooler USB 2.0 Camera - Unveiling the Truth of Its 12MP Performance!</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"
