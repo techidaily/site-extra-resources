@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Potential of Wide Angle 360 Photos"
-date: 2024-09-18T09:57:22.988Z
-updated: 2024-09-21T21:04:46.887Z
+date: 2024-09-22T22:01:20.147Z
+updated: 2024-09-29T23:34:47.024Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,20 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
 
 ![Panning clam on ballhead](https://images.wondershare.com/filmora/article-images/panning-clam-on-ballhead.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3. The actual shooting
 
  For a full frame camera with 15mm fisheye lens in the portrait position, you will require a total of six shot rounds and 1 up to complete a full sphere. If you were using a crop-sensor camera, you will need to have a 10mm fisheye lens to achieve the same sequence.
@@ -54,13 +68,6 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
 
  In normal photography, it always pays to remember what to include and what to exclude in your shots. When it comes to shooting 360s, it becomes more complicated since everything is included. For you to take successful 360s with fisheye therefore, you need to consider keenly where you stand. The fisheye lens will introduce a lot of space between you and the subject, hence you must consider how close or far away you are from the subject so that the pieces of the compositional puzzle will fall in place smoothly both in the horizontal and vertical planes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Stitching 360 degrees panoramas after shooting
 
  To stitch 360s taken by fisheye lenses after shooting, you will need panorama software like [Autopano Pro](http://www.kolor.com/) or [PTGui](https://www.ptgui.com/). For Autopano Pro, you begin by importing the images into the software and ensuring that the EXIF are displayed correctly on the program. With the right settings in place, the next step is to launch the direct stitching feature if you don’t want to go the manual way. Once the stitching is done, it will be important to present the output online. This can be done using [Pano2VR](http://www.ggnome.com/pano2vr) or you could simply upload the finished panoramas to [360cities](https://www.360cities.net/) for online viewing.
@@ -68,13 +75,6 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
  You might be also interested in:
 
 [How to stitch GoPro clips into 360 videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What's fisheye lenses
 
@@ -86,11 +86,25 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
 
 ![create 360 photos with fisheye lens](https://images.wondershare.com/filmora/article-images/fisheye-lens-image.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Conclusion
 
  Fisheye lenses have been around for a while now and the process of creating 360 panoramas with them may not be very challenging, but great results are achieved through practice and proper stitching. Once the photos are taken, you can use premium panorama software like Autopano Pro or you can use free options like the Microsoft ICE or Hugin. Ones stitching are done, it is imperative to have the final works uploaded online for others to view.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -105,5 +119,22 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-skyrocket-to-youtube-partner-status-with-10k-vistas-goal/"><u>[New] 2024 Approved Skyrocket to YouTube Partner Status with 10K Vistas Goal</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-getting-started-on-youtube-setting-up-and-generating-income/"><u>[Updated] Getting Started on YouTube Setting Up & Generating Income</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-tips-to-communicate-with-youtube-subscribers/"><u>[Updated] Tips to Communicate with YouTube Subscribers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-explore-elite-data-vaults-best-storages-reviewed/"><u>2024 Approved Explore Elite Data Vaults Best Storages Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compre-written-in-clear-language-this-ultimate-guide-explores-all-facets-of-using-the-iphone-xs-animoji-feature/"><u>Compre Written in Clear Language, This Ultimate Guide Explores All Facets of Using the iPhone X's Animoji Feature</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/conquer-competitors-try-this-highest-rated-voice-modification-software-for-valorant/"><u>Conquer Competitors - Try This Highest-Rated Voice Modification Software for Valorant</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/echo-of-the-land-downloading-and-personalizing-tamil-ringtones/"><u>Echo of the Land Downloading & Personalizing Tamil Ringtones</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-15-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 15</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ice-arena-intensity-the-fastest-moments-in-olympics/"><u>In 2024, Ice Arena Intensity The Fastest Moments in Olympics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-quick-face-blurring-on-picscroller/"><u>Mastering Quick Face-Blurring on PicScroller</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigate-the-future-of-meetings-a-win11-and-zoom-guide/"><u>Navigate the Future of Meetings A Win11 and Zoom Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premium-action-recorders-for-motion-compensation-for-2024/"><u>Premium Action Recorders for Motion Compensation for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-essentials-of-professional-editing-in-gopro-studio/"><u>The Essentials of Professional Editing in GoPro Studio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-whatsapps-call-conversations/"><u>Unveiling WhatsApp's Call Conversations</u></a></li>
+</ul></div>
 

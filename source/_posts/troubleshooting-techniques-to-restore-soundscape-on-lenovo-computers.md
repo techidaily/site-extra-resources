@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Techniques to Restore Soundscape on Lenovo Computers
-date: 2024-09-19T10:32:01.215Z
-updated: 2024-09-22T08:34:47.396Z
+date: 2024-09-22T20:15:23.837Z
+updated: 2024-09-29T19:35:08.835Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 **1)** On your keyboard, press the**Windows logo** key and type**troubleshoot settings** . Then, click**Troubleshoot settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-322.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Click**Playing Audio** , then click**Run the troubleshooter** .
 
@@ -91,16 +98,22 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Restart Windows Audio Services
 
@@ -111,26 +124,32 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-324.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Right-click**Windows Audio** , then select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Relaunch your game to test your issue.
 
  This should allow you to hear Apex Legends and everything else. If your issue still exists, don’t fret. There is still one more fix to try.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Apex Legends
 
@@ -168,5 +187,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-achieve-peak-editing-quality-top-tier-luts-for-adobes-lightroom-users/"><u>[New] Achieve Peak Editing Quality Top-Tier LUTs For Adobe's Lightroom Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-androids-top-podcast-apps-showdown-6-innovators-revealed/"><u>[New] Android's Top Podcast Apps Showdown 6 Innovators Revealed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-static-to-dynamic-a-comprehensive-look-at-the-new-polaroid-xs-100i-action-camera/"><u>[New] From Static to Dynamic A Comprehensive Look at the New Polaroid XS 100I Action Camera</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-androids-highest-rated-portable-gba-simulator-guide/"><u>[Updated] Android's Highest-Rated Portable GBA Simulator Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-become-an-expert-tutorial-for-making-gifs-into-desirable-whatsapp-and-telegram-stickers/"><u>[Updated] In 2024, Become an Expert Tutorial for Making GIFs Into Desirable WhatsApp & Telegram Stickers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-critical-asmr-video-elements-to-note/"><u>[Updated] In 2024, Critical ASMR Video Elements to Note</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-tiktoks-viral-rhymes-a-guide-to-popular-rap-songs/"><u>[Updated] In 2024, TikTok's Viral Rhymes A Guide to Popular Rap Songs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/360-degree-retail-exploration-tech/"><u>360-Degree Retail Exploration Tech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-step-by-step-guide-to-stunning-image-artistry-mosaics-for-2024/"><u>A Step-By-Step Guide to Stunning Image Artistry Mosaics for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/blades-new-vision-in-ultra-high-definition-clarity-for-2024/"><u>Blade's New Vision in Ultra-High Definition Clarity for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expertise-unlocked-smooth-video-cuts-on-photos-via-windows-11/"><u>Expertise Unlocked Smooth Video Cuts on Photos via Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/high-quality-1-ranked-4k-laptops-for-gaming/"><u>High-Quality #1 Ranked 4K Laptops for Gaming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-audiophiles-windows-companion/"><u>In 2024, Audiophile’s Windows Companion</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-list-of-top-8-wallpapers-for-macbooks/"><u>In 2024, Exclusive List of Top 8 Wallpapers for MacBooks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leverage-these-10-underrated-features-for-canva/"><u>In 2024, Leverage These 10 Underrated Features for Canva</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/live-streaming-mastery-with-manycam-top-notch-video-editing-and-virtual-webcam-solutions/"><u>Live Streaming Mastery with ManyCam: Top-Notch Video Editing and Virtual Webcam Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-message-recovery-a-universal-approach-for-all-phones/"><u>Mastering Message Recovery: A Universal Approach for All Phones</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/playful-pioneers-the-kids-game-bazaar-for-2024/"><u>Playful Pioneers The Kids' Game Bazaar for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/viewer-allure-identifying-the-most-engaging-video-types/"><u>Viewer Allure Identifying the Most Engaging Video Types</u></a></li>
+</ul></div>
 

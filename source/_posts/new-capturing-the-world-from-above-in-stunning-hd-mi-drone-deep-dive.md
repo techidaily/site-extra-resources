@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capturing the World From Above in Stunning HD - Mi Drone Deep Dive\""
-date: 2024-09-17T23:32:05.250Z
-updated: 2024-09-21T19:31:53.748Z
+date: 2024-09-22T16:07:39.636Z
+updated: 2024-09-29T18:46:16.981Z
 tags: 
   - screen-recording
   - ai video
@@ -44,9 +44,29 @@ In the last few years, Xiaomi has developed remarkable performance in the market
 
 * Its aesthetics are not much appealing.
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Features
 
 Even with a reasonable price tag, this advanced drone unit has several features to offer its users. The most impressive one is its 4K recording ability with higher stability whereas still shots are recorded with 1080p resolution level. The wireless transmitter is designed with 2.4GHz frequency range whereas the altitude range goes as high as up to 800m. Control distance offered by Xiaomi MI is 3000m and the overall flight time offered by this tiny drone unit is 27 min. It has 5199mAh rechargeable battery with 17.4 Volt rating that takes total 3 and half hours for complete charging.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Design
 
@@ -56,28 +76,34 @@ Xiaomi Mi has impressive aesthetics and most of its features are comparable to D
 
 As already discussed, Xiaomi MI can spend 27 minutes in the air with one time full charging. But battery time can be depleted faster if you prefer to use the auto return to home and auto departure feature. The 17.4 Volt battery unit with 5199mAh capacity takes 3 ½ hours to full charge but if you want to extend battery life then prefer to carry a backup with you. As already discussed, Xiaomi MI can spend 27 minutes in the air with one time full charging. But battery time can be depleted faster if you prefer to use the auto return to home and auto departure feature. The 17.4 Volt battery unit with 5199mAh capacity takes 3 ½ hours to full charge but if you want to extend battery life then prefer to carry a backup with you.
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Flight Performance
 
 Like most of the advanced drone units, Xiaomi Mi also features autonomous flying mode. All that you need to do is simply hit the TapFly button and it will start moving. Users can control all movements with a tap of a finger and you can check all movements with the help of the map.
 
 The most amazing feature of Xiaomi Mi is its ability to communicate via mobile phone so that users can manage the recording focus of its camera. One more appreciable feature is its surrounded flight ability; you can make it circle around any specific object by sending commands from a smartphone. You will love to capture videos with its 360-degree motion ability that leads to incredible clicks. How can we forget to talk about the most advanced feature of this special drone unit that is Preset Rout following ability! Users can make pre adjustments for all flights and it will capture smooth shots every time. The automatic landing and takeoff feature helps in easy controls whereas if this drone goes far from 3meter range then it will switch back to its preset path. It is possible to bring this drone back with only one button and in order to improve its performance, you can access the calibration settings. Note that, if somehow your drone gets lost then it will take almost 30 to 45 minutes for coming back.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Control Range
 
 As we have discussed earlier that Xiaomi Mi is designed to work on 2.4GHz transmitter frequency range. It has left-hand throttle ability along with the handy built-in type phone clamp. In order to operate this drone from remote distance you simply need to configure its flight settings to Mode 2\. Note that MI is able to fly at a maximum height of 800m and it can go as far as up to 3000 meters from the operator.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Camera
@@ -103,5 +129,17 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-realme-c67-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Realme C67 4G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://discover-able.techidaily.com/bildbearbeitungsprogramm-von-movavi-perfekte-fotos-entwerfen-programma-voor-fotos-spiegelen/"><u>Bildbearbeitungsprogramm Von Movavi: Perfekte Fotos Entwerfen | Programma Voor Foto's Spiegelen</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comment-transformer-un-fichier-mp4-en-disque-dvd-avec-le-convertisseur-dvd-de-movavi/"><u>Comment Transformer Un Fichier MP4 en Disque DVD Avec Le Convertisseur DVD De Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/deepdelete-masterful-background-erasure/"><u>DeepDelete Masterful Background Erasure</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/explore-infinite-artistic-possibilities-with-top-10-apps/"><u>Explore Infinite Artistic Possibilities with Top 10 Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-altered-realities-image-warping-insights/"><u>In 2024, Altered Realities Image Warping Insights</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-12-pro-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone 12 Pro Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-selections-cutting-edge-iphone-tune-makers/"><u>Prime Selections Cutting-Edge iPhone Tune Makers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-video-enhancements-in-obs-studio-edits/"><u>Top Video Enhancements in OBS Studio Edits</u></a></li>
+</ul></div>
 

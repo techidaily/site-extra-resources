@@ -1,7 +1,7 @@
 ---
 title: "Tackling Photo App Errors in Windows 11"
-date: 2024-09-18T22:16:46.309Z
-updated: 2024-09-22T03:05:57.468Z
+date: 2024-09-28T22:45:54.573Z
+updated: 2024-09-29T22:30:15.954Z
 tags: 
   - screen-recording
   - ai video
@@ -53,8 +53,22 @@ Here is how to troubleshoot –
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
 
@@ -66,6 +80,13 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
    4. Tap ‘Restore Defaults’ from the bottom-right portion of the screen.
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
@@ -80,10 +101,10 @@ Here is how can you reset it –
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 4: Repair Photos App package
@@ -96,19 +117,6 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 2. Key in the command followed by ‘Enter’: Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)\\AppXManifest.xml”}
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 5: Reinstall Windows 10 Photos app
 
@@ -142,5 +150,22 @@ Follow @Shanoon Cox
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-digital-cinematographer-hub/"><u>[New] 2024 Approved Digital Cinematographer Hub</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-5-leading-resources-to-masterfully-add-text-flair-online/"><u>[Updated] 5 Leading Resources to Masterfully Add Text Flair Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-ranked-affordable-video-players-and-streaming-services-pc-and-mobile/"><u>[Updated] Best-Ranked Affordable Video Players and Streaming Services (PC & Mobile)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-obspluszoom-creating-a-flawless-production-workflow/"><u>[Updated] In 2024, OBS+Zoom Creating a Flawless Production Workflow</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-clear-choice-between-projectors-and-televisions-for-4k-quality/"><u>2024 Approved The Clear Choice Between Projectors and Televisions for 4K Quality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-professionals-handbook-to-blending-natural-and-artificial-backgrounds-for-2024/"><u>A Professional's Handbook to Blending Natural and Artificial Backgrounds for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/beginners-collection-of-20-must-read-french-novels/"><u>Beginner's Collection of 20 Must-Read French Novels</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/central-luts-in-post-production-filmmaking-revolution/"><u>Central Luts in Post-Production Filmmaking Revolution</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/djis-minis-and-air-2-elevate-mixes-with-free-custom-luts/"><u>DJI's Minis & Air 2 Elevate Mixes with Free, Custom LUTS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hdr-technology-demystified-with-a-look-at-aurora/"><u>HDR Technology Demystified with a Look at Aurora</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hololens-unravelled-microsofts-augmented-future-insight/"><u>HoloLens Unravelled Microsoft’s Augmented Future Insight</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-m34-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Samsung Galaxy M34 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028918159-sd/"><u>SDフラッシュメモリの動画再生問題 - 最新手法で克服する方法」</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-of-visual-storytelling-made-simple-with-windows-10s-tools/"><u>The Art of Visual Storytelling Made Simple with Windows 10'S Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-70-lite-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Honor 70 Lite 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+</ul></div>
 

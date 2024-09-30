@@ -1,7 +1,7 @@
 ---
 title: "\"Harmonize Visual & Auditory Elements  Adding Filters & Sound to Windows Photos App\""
-date: 2024-09-15T11:41:25.288Z
-updated: 2024-09-21T17:14:23.391Z
+date: 2024-09-24T18:56:18.963Z
+updated: 2024-09-30T01:16:01.793Z
 tags: 
   - screen-recording
   - ai video
@@ -53,6 +53,13 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to add music on Windows 10 Photos App
 
 Now that you have learnt how to **_add filters using Windows 10 Photos app._** Do you think there is any possibility regarding adding music over it? Adding music to your video would make it more enjoyable. The artificial intelligence feature on Windows 10 Photos app helps it add music to videos with a single click. It’s easy to do, but meanwhile there will be some twitches to the way artificial intelligence videos show up as you try to match the volume and tempo of the music. But, you can do it with the help of default Microsoft tools.
@@ -65,11 +72,32 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5**: Hit the ‘Done’ button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -90,12 +118,21 @@ Follow @Shanoon Cox
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-beyond-borders-blurring-techniques-for-global-audienes/"><u>[New] 2024 Approved Beyond Borders Blurring Techniques for Global Audienes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-choosing-faithful-hymns-download-and-modify-guide/"><u>[New] Choosing Faithful Hymns Download and Modify Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/uture-of-virtual-game-viewership-income/"><u>[New] Future of Virtual Game Viewership Income</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-ranchers-revelry-best-friendly-farming-titles-for-gathering-pals/"><u>[New] In 2024, Ranchers' Revelry Best Friendly Farming Titles for Gathering Pals</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-comprehensive-look-at-youtubes-adsense-mechanisms/"><u>[Updated] In 2024, A Comprehensive Look at YouTube's AdSense Mechanisms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-delivery-to-discovery-enhancing-initial-encounters/"><u>From Delivery to Discovery Enhancing Initial Encounters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-6-best-nft-makers-for-artists-to-unleash-imagination/"><u>In 2024, 6 Best NFT Makers for Artists to Unleash Imagination</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comparing-syma-x8c-to-previous-models/"><u>In 2024, Comparing Syma X8C to Previous Models</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-the-essential-hp-scanner-drivers-for-windows-systems/"><u>Installing the Essential HP Scanner Drivers for Windows Systems</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-guide-youtube-soundtracks-to-mp3-for-macos-2shift-for-2024/"><u>Quick Guide YouTube Soundtracks to MP3 for MacOS 2Shift for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/step-by-step-guide-perfecting-your-mobile-video-recording-for-2024/"><u>Step-by-Step Guide Perfecting Your Mobile Video Recording for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlock-enhanced-audio-visual-sync-subtitle-addition-to-wmp/"><u>Unlock Enhanced Audio-Visual Sync Subtitle Addition to WMP</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unpacking-the-features-and-shortcomings-of-samsung-image-editor-for-2024/"><u>Unpacking the Features and Shortcomings of Samsung Image Editor for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/voice-transformation-made-simple-with-no-fee-tools/"><u>Voice Transformation Made Simple with No-Fee Tools</u></a></li>
+</ul></div>
 

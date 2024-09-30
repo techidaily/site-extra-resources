@@ -1,7 +1,7 @@
 ---
 title: "[Updated] 10 Ways to Prevent Oculus Rift VR Motion Sickness"
-date: 2024-09-18T19:19:54.429Z
-updated: 2024-09-21T18:27:04.084Z
+date: 2024-09-26T16:11:55.480Z
+updated: 2024-09-30T00:38:05.402Z
 tags: 
   - screen-recording
   - ai video
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
 
 **10\. Try not to move your head a lot.** Since motion sickness directly corresponds to movement, reducing your head movement left and right and up and down in one place can help you lower the chances of sickness.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Oculus have done to reduce motion sickness
 
  With the new, innovative VR devices and the head gear technology has taken a huge leap. Oculus Rift has become widely popular among its enthusiastic users. When Oculus released its first Development kit (DevKit 1) the users experienced the symptoms such as nausea, dizziness, sweating and vomiting. Even Oculus CEO Brendan Iribe experienced “motion sickness” with his own product, while using last year’s “DevKit 1” prototype. These sickness issues were so common while using DevKit 1 that its users called it the “Rift Sickness”.
@@ -57,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
  Since Oculus Rift DK1 came to the market, people were really unhappy with the sickness it gave to them. Oculus saw that issue as a big threat, and started to develop DK2 with a much better display. In the original DK1, Oculus Rift used the liquid crystal display (LCD) to display visual in its devices. LCD screen had been of very much advantage because of its brightness, geometric distortion, and less electricity consumption. But it still had been promoting to the sickness issue because of its sluggish motion time response. In replacement of LCD screens, Oculus Rift has introduced OLED (organic light emitting diode) screens which have proved to be a much better idea. Experiments of Oculus Rift with OLED screens have been successful so far in reducing motion sickness to its minimal. OLED has a much faster rate and thus much enhanced positional tracking.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -71,12 +85,22 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-best-jpg-to-gif-tools-online-free-and-easy/"><u>[New] Best JPG to GIF Tools Online, Free and Easy</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-5-effective-tricks-for-youtube-subscriber-surges/"><u>[Updated] 2024 Approved 5 Effective Tricks for YouTube Subscriber Surges</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-5-easy-steps-to-a-picture-perfect-instagram-group/"><u>[Updated] 5 Easy Steps to a Picture-Perfect Instagram Group</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-frametaker-high-quality-edition/"><u>[Updated] FrameTaker High-Quality Edition</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-transform-your-images-on-android-our-picks-for-the-5-best-editors/"><u>2024 Approved Transform Your Images on Android Our Picks for the 5 Best Editors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/6-best-apps-to-remove-objects-from-photo-on-iphone/"><u>6 Best Apps to Remove Objects From Photo on iPhone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/beantechs-bitwatch-s1-plus-in-focus-a-compelling-look-at-an-economical-smartwatch-choice/"><u>Beantech's Bitwatch S1 Plus in Focus – A Compelling Look at an Economical Smartwatch Choice</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/behind-the-scenes-of-effective-online-streaming/"><u>Behind the Scenes of Effective Online Streaming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/canvas-clearance-techniques-for-uncluttered-image-frames/"><u>Canvas Clearance Techniques for Uncluttered Image Frames</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-hidden-secrets-of-copyright-protection-through-drm/"><u>Exploring Hidden Secrets of Copyright Protection Through DRM</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/frame-perfect-capture-leading-slow-motion-cameras-reviewed/"><u>Frame-Perfect Capture Leading Slow Motion Cameras Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/high-end-steadicam-selections-for-superior-dslr-cinematography/"><u>High-End Steadicam Selections for Superior DSLR Cinematography</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-skyvaults-wallet-wise-plan-bulk-data-at-a-discount/"><u>In 2024, SkyVault's Wallet Wise Plan Bulk Data at a Discount</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-iphone-recovery-mode-tips-for-accessing-and-ejecting-safely/"><u>Mastering iPhone Recovery Mode: Tips for Accessing and Ejecting Safely</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-steps-to-reset-your-skype-passcode/"><u>Simple Steps to Reset Your Skype Passcode</u></a></li>
+</ul></div>
 

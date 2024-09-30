@@ -1,7 +1,7 @@
 ---
 title: "\"From Timeless Tales in Tone-On-Tone to Dynamic Digital Narratives\""
-date: 2024-09-18T09:14:55.003Z
-updated: 2024-09-22T03:15:39.758Z
+date: 2024-09-24T17:10:56.528Z
+updated: 2024-09-30T01:26:45.947Z
 tags: 
   - screen-recording
   - ai video
@@ -78,6 +78,13 @@ To convert your old photos into stunning videos, you can take the assistance of 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To learn how to come up with an impressive video collage using Filmora, just follow these steps:
 
 #### 1\.  Import your digitized photos
@@ -86,11 +93,25 @@ To start with, you can just launch Filmora on your system and import your photos
 
 ![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 2\. Create a timeline for your photos
 
 Once you have imported your photos, you can include them in the timeline. To do this, you can click on the “+” button that is located on the top of the photo’s thumbnail. You can also just drag any photo and drop it on the preferred location in the timeline.
 
 ![create timeline for photos ](https://images.wondershare.com/filmora/article-images/create-timeline-for-photos.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 3\. Edit the video
 
@@ -113,6 +134,13 @@ To add text to your videos, just go to the “Titles” option here. This will l
 Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
 
 ![Add Audio to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 5\. Export your video
 
@@ -167,12 +195,18 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimizing-conversion-processes-from-xml-to-high-quality-srts/"><u>[Updated] Optimizing Conversion Processes From XML to High-Quality SRTs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-rhythm-discoveries-at-your-fingertips-free-online/"><u>2024 Approved Rhythm Discoveries at Your Fingertips (Free, Online)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dji-aerial-artistry-sample-20-color-filters-for-free/"><u>DJI Aerial Artistry Sample 20 Color Filters For Free</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-of-mobile-8-ranked-free-and-premium-apps-for-androids-video-tiles/"><u>In 2024, Best of Mobile #8 Ranked Free & Premium Apps for Android's Video Tiles</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oneplus-11-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change OnePlus 11 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/must-have-mac-tts-apps-for-seamless-communication/"><u>Must-Have Mac TTS Apps for Seamless Communication</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simplified-steps-setting-up-alarm-clocks-on-your-windows-10-pc/"><u>Simplified Steps: Setting Up Alarm Clocks on Your Windows 10 PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamline-photobook-creation-the-picshot-promise/"><u>Streamline Photobook Creation - The Picshot Promise</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/synchronizing-realism-advanced-green-screen-applications-for-viewers/"><u>Synchronizing Realism Advanced Green Screen Applications for Viewers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-enhancing-learning-one-talk-show-at-a-time/"><u>The Ultimate Guide to Enhancing Learning, One Talk Show at a Time</u></a></li>
+</ul></div>
 
