@@ -1,7 +1,7 @@
 ---
 title: "Isolating Image Moments From Videos Using Windows Photos Software"
-date: 2024-09-27T22:17:32.476Z
-updated: 2024-09-29T23:28:04.903Z
+date: 2024-09-28T01:39:09.216Z
+updated: 2024-10-05T08:39:58.012Z
 tags: 
   - screen-recording
   - ai video
@@ -58,28 +58,34 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Why I can’t save photo from video
 
 In case, you are not able to save photos from video on Windows 10 Photos App. There might be issues with an outdated [Microsoft OS patch update](https://support.microsoft.com/en-us/help/311047/how-to-keep-your-windows-computer-up-to-date) or the Microsoft account is having any problem. But, you don’t have to worry about the same.
 
 We are explaining the solutions here –
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Check the update
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Sign in a different account in Microsoft Store
@@ -99,27 +105,33 @@ Here comes the guide –
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
 We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -136,18 +148,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-a-visual-guide-to-building-believable-characters-in-virtual-space/"><u>[New] A Visual Guide to Building Believable Characters in Virtual Space</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-methods-for-extracting-video-tweets-as-compact-mp3-files/"><u>2024 Approved Methods for Extracting Video Tweets as Compact MP3 Files</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/360-degree-rigging-solutions-vr-production/"><u>360 Degree Rigging Solutions VR Production</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/accelerating-ppt-video-engagement-rates/"><u>Accelerating PPT Video Engagement Rates</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/balancing-acts-reducing-shakiness-for-better-gopro-vids/"><u>Balancing Acts Reducing Shakiness for Better GoPro Vids</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-game-streaming-software-you-should-know/"><u>Best Game Streaming Software You Should Know</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/faithful-melodies-how-to-install-christian-chimes/"><u>Faithful Melodies How to Install Christian Chimes</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-iphone-15-plus-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or iPhone 15 Plus from iCloud</u></a></li>
-<li><a href="https://solve-news.techidaily.com/step-by-step-tutorial-unlocking-your-dvd-players-full-potential-by-bypassing-regional-restrictions/"><u>Step-by-Step Tutorial: Unlocking Your DVD Player's Full Potential by Bypassing Regional Restrictions</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-roots-and-branches-of-romance-tongues/"><u>The Roots and Branches of Romance Tongues</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-ipad-slow-motion-techniques-for-filming-and-video-modification/"><u>The Ultimate iPad Slow Motion Techniques for Filming and Video Modification</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/us-launch-of-tivo-television-units-scheduled-for-spring-season/"><u>US Launch of TiVo Television Units Scheduled for Spring Season</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-5-best-video-effect-sites-that-never-charges-you/"><u>[New] 5 Best Video Effect Sites That Never Charges You</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-your-tiktok-files-at-a-click-no-extra-fees-or-marks-for-2024/"><u>[New] Your TikTok Files at a Click - No Extra Fees or Marks for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-concluding-your-digital-footprint-with-linkedins-deactivation-process/"><u>[Updated] Concluding Your Digital Footprint with LinkedIn's Deactivation Process</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secrets-unlocked-the-top-10-shopping-spots-for-boxes/"><u>[Updated] Secrets Unlocked The Top 10 Shopping Spots for Boxes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-online-screen-recorder-manycam-virtual-camera-streaming-apps-and-more/"><u>Best Online Screen Recorder: ManyCam - Virtual Camera, Streaming Apps, and More!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-c53-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-iphone-12-pro-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On iPhone 12 Pro? How to Fix it?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-battling-the-invisible-screen-on-social-media-a-chromesafari-guide/"><u>In 2024, Battling the Invisible Screen on Social Media A Chrome/Safari Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-bridging-realities-the-art-of-using-luts-in-vfx-and-ar/"><u>In 2024, Bridging Realities The Art of Using LUTs in VFX & AR</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-analysis-of-directed-motion-tracking/"><u>In 2024, Comprehensive Analysis of Directed Motion Tracking</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovating-with-3d-text-effects-in-adobe-photoshop/"><u>Innovating with 3D Text Effects in Adobe Photoshop</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/next-level-action-gopro-hero5-black-meets-hero4-silver/"><u>Next-Level Action GoPro Hero5 Black Meets Hero4 Silver</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-s21-review/"><u>Samsung Galaxy S21 Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-walkthrough-utilizing-the-android-measure-app-like-a-pro/"><u>Step-by-Step Walkthrough: Utilizing the Android Measure App Like a Pro</u></a></li>
 </ul></div>
 

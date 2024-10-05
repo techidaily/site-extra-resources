@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Advanced Dynamic Typographic Options"
-date: 2024-09-22T20:35:00.131Z
-updated: 2024-09-29T20:29:26.242Z
+date: 2024-10-01T11:59:01.567Z
+updated: 2024-10-05T00:37:27.724Z
 tags: 
   - screen-recording
   - ai video
@@ -35,10 +35,10 @@ You get 110 animated elements that you can apply to the text in your video. The 
 ![liquid text animation effect ae](https://images.wondershare.com/filmora/article-images/2022/07/liquid-text-animation-effect-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Dynamic Text Animations
@@ -48,23 +48,10 @@ There is always a high demand for dynamic text animations in After Effects. This
 ![dynamic text animations ae](https://images.wondershare.com/filmora/article-images/2022/07/dynamic-text-animations-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Squash & Stretch Preset
@@ -79,6 +66,13 @@ In this pack, you will find unique text effects, and you can animate text with k
 
 ![counterpro preset ae](https://images.wondershare.com/filmora/article-images/2022/07/counterpro-preset-ae.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Text Library
 
 If there is a must-have preset you should manage to have in After Effects is Text Library. There are as many as 1000 text presets available and this will serve all your requirements completely. Starting from animations and effects to transitions, everything is available in different categories for you to choose from and apply to your text. The pack keeps on updating to include trendy and funky text effects so that you do not miss out anything.
@@ -86,10 +80,10 @@ If there is a must-have preset you should manage to have in After Effects is Tex
 ![text library effect ae](https://images.wondershare.com/filmora/article-images/2022/07/text-library-effect-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Kinetic Text Animation
@@ -105,16 +99,10 @@ You get eleven styles of elements in the pack, and you can customize the designs
 ![text animation lower thirds ae](https://images.wondershare.com/filmora/article-images/2022/07/text-animation-lower-thirds-ae.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -151,22 +139,22 @@ As the saying goes, the more the merrier and the more presets you have, the more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-a-comprehensive-guide-to-affordable-video-enhancement-websites/"><u>[Updated] A Comprehensive Guide to Affordable Video Enhancement Websites</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-screen-scanning-mastery-using-fraps-tools/"><u>[Updated] In 2024, Screen Scanning Mastery Using Fraps Tools</u></a></li>
-<li><a href="https://win-dash.techidaily.com/adobemkvmp4/"><u>「AdobeツールでMKVをMP4にする」手順：詳細なチュートリアル</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/12-superfluous-windows-tools-you-can-live-without/"><u>12 Superfluous Windows Tools You Can Live Without</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-m54-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/drones-unveiled-expert-gopro-karma-analysis/"><u>Drones Unveiled Expert GoPro Karma Analysis</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-guide-to-highest-rated-church-livestream-sites/"><u>Essential Guide to Highest-Rated Church Livestream Sites</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-tecno-spark-10-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-closer-look-at-huawei-p10s-security-measures/"><u>In 2024, A Closer Look at Huawei P10’s Security Measures</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-add-music-in-premiere-pro/"><u>In 2024, Add Music In Premiere Pro</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-huawei-nova-y91-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Huawei Nova Y91 to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/lockdowns-and-stay-at-home-orders/"><u>Lockdowns and Stay-at-Home Orders</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/newest-free-realtek-bluetooth-drivers-available-now-compatible-with-windows-11-and-windows-10/"><u>Newest Free RealTek Bluetooth Drivers Available Now: Compatible with Windows 11 & Windows 10</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/selecting-the-prime-sky-vault-for-firms/"><u>Selecting the Prime Sky Vault for Firms</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/sonic-pixels-turning-sound-into-visual-storytelling/"><u>Sonic Pixels Turning Sound Into Visual Storytelling</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-best-sound-gear-matching-mics-with-4k-cameras/"><u>The Best Sound Gear Matching Mics with 4K Cameras</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-navigating-creator-studio-your-expert-manual/"><u>[New] 2024 Approved Navigating Creator Studio Your Expert Manual</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-aural-alignments-pairing-sounds-and-visuals/"><u>2024 Approved Aural Alignments Pairing Sounds & Visuals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-zooid-design-starter-packs/"><u>2024 Approved Ultimate Zooid Design Starter Packs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-webcam-pro-step-by-step-recording-on-macbooks/"><u>2024 Approved Webcam Pro Step-by-Step Recording on MacBooks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-guide-to-enablingdisabling-multitasking-in-safari/"><u>Expert Guide to Enabling/Disabling Multitasking in Safari</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-tips-overcoming-compatibility-challenges-with-hp-beats-sound-cards-in-windows-11-8-and-7-environments/"><u>Expert Tips: Overcoming Compatibility Challenges with HP Beats Sound Cards in Windows 11, 8 & 7 Environments</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-blur-a-part-of-a-picture-on-pcmobile/"><u>How to Blur a Part of a Picture on PC/Mobile</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-xiaomi-14-ultra-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Xiaomi 14 Ultra Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-blaze-2-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Lava Blaze 2 5G Phone without Google Account?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-steps-for-chrome-deployment-on-windows-11/"><u>Key Steps for Chrome Deployment on Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/personalizing-presents-top-ten-e-commerce-stores-for-custom-boxes/"><u>Personalizing Presents? Top Ten E-Commerce Stores for Custom Boxes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/savvy-photographers-guide-to-pristine-cloud-space-cost-free-and-paid-choices/"><u>Savvy Photographers' Guide to Pristine Cloud Space Cost-Free & Paid Choices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tailoring-your-video-sessions-with-zoom-on-youtube-platform/"><u>Tailoring Your Video Sessions with Zoom on YouTube Platform</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-essence-of-claude-3-what-it-does-and-how-to-use-it/"><u>The Essence of Claude 3 – What It Does & How to Use It</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tomtom-bandit-camera-series-revolution-of-2023/"><u>TomTom Bandit Camera Series - Revolution of 2023</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-iphones-for-gamers-a-comprehensive-ranking/"><u>Top iPhones for Gamers: A Comprehensive Ranking</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vogue-your-way-simple-video-concepts-for-you/"><u>Vogue Your Way Simple Video Concepts for You</u></a></li>
 </ul></div>
 

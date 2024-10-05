@@ -1,7 +1,7 @@
 ---
 title: "\"Streamlining Your Workflow  Adding Descriptive Elements to Photos on Windows/MacOS\""
-date: 2024-09-23T01:01:21.154Z
-updated: 2024-09-29T19:10:08.532Z
+date: 2024-09-30T05:21:48.519Z
+updated: 2024-10-04T20:24:41.121Z
 tags: 
   - screen-recording
   - ai video
@@ -46,6 +46,19 @@ Step5You can drag this text box and place it wherever you want it in your image.
 
 ![place text box](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-4.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1.2 Add writing to photos on Windows 10/11
 
 Suppose you are a Windows 10 or 11 user, then you can add text to your photos using Microsoft Photos like Apple photos on Mac. We have described the steps of it in the following:
@@ -55,6 +68,13 @@ Step1Firstly, open the MS Photos app and choose the image you want to edit.
 Step2Now click the Edit & Create button at the top right corner and click on the Edit with Paint 3D option.
 
 ![click edit-create button](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3Now click on the text button at the top.
 
@@ -69,13 +89,6 @@ Step5Now you can write whatever you want to on your photo.
 Step6You can change the font color, size, and style with the help of a panel at your right.
 
 ![panel](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step7To save your edited image, click on the Menu button at the top left corner of your screen.
 
@@ -103,13 +116,6 @@ Step1First, you have to open the image on which you want to add text in Pix Stud
 
 ![create a new design](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2Now click on the **Text Button**, which will appear on your sidebar at the left.
 
 ![click on text button](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-13.jpg)
@@ -122,13 +128,6 @@ Step4To edit your text's color, size, style, alignment, bold or italic effects, 
 
 ![click on the text box](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5A menu will appear on your right side from which you can easily change or edit the above text features.
 
 ![a menu](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-16.jpg)
@@ -137,18 +136,25 @@ Step6Also, to change the text size inside the **Text Box**, drag its corners.
 
 ![change the text size](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step7Moreover, if you want to change the size of the **Text Box**, drag its borders from both sides.
 
 ![change the size of text box](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Important Note:** Remember that what changes you have done using the right sidebar menu will be applied to the whole text inside the selected text box.
 
@@ -173,6 +179,13 @@ Kapwing is another photo editing website where you can professionally edit your 
 
 ![kapwing](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-19.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Pros
 
 * You can easily add text to photos and edit them even if you are a newbie because it is elementary to use.
@@ -193,13 +206,6 @@ Cons
 If you are still looking for other options to add text to your photos online, then Befunky is one of them. It is also an online website that lets you edit your images nicely. You can also add text to your photos using this. There are 25 million users who are using it now.
 
 ![befunky](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-20.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Pros
 
@@ -321,6 +327,13 @@ Cons
 * The interface of GIMP is not too user-friendly. As a beginner, you must use it for at least two to three weeks to understand its interface.
 * It does not support the Digital Negative Files (DNG) natively.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. [Inkscape](https://inkscape.org/release/inkscape-1.2.1/)
 
 **Introduction:**
@@ -358,6 +371,13 @@ Cons
 
 * It does not have significantly updated editing tools.
 * It is not compatible with any other operating system except Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -462,6 +482,13 @@ Cons
 * You must subscribe to one of their premium plans to access more features.
 * Have some bugs that cause errors in it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best 5 Programs for adding text on photos
 
 ### 1\. [Photoshop](https://www.adobe.com/products/photoshop.html)
@@ -494,19 +521,6 @@ PhotoDirector is also photo editing software used to enhance the quality and cre
 
 ![photodirector](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-24.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Pros
 
 * Have a unique and user-friendly interface
@@ -529,13 +543,6 @@ If you still do not find any software to add text to your photos, you should als
 
 ![gimp](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-25.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Pros
 
 * It has advanced editing tools and features to edit and manipulate images professionally.
@@ -548,13 +555,6 @@ Cons
 * You can find some difficulty cropping photos in this software, which is a big drawback.
 * The interface of GIMP is not too user-friendly. As a beginner, you must use it for at least two to three weeks to understand its interface.
 * It does not support the Digital Negative Files (DNG) natively.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. [Inkscape](https://inkscape.org/release/inkscape-1.2.1/)
 
@@ -626,22 +626,21 @@ The last words for today's topic here is that there are numerous solutions avail
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-a-comprehensive-overview-of-google-photos-use/"><u>[Updated] A Comprehensive Overview of Google Photos Use</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-video-to-photo-windows-11-methodology/"><u>[Updated] In 2024, Video to Photo Windows 11 Methodology</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-alchemy-of-animation-in-snapchat-videos-for-2024/"><u>[Updated] The Alchemy of Animation in Snapchat Videos for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-realme-narzo-60x-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Realme Narzo 60x 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-beginners-guide-to-advanced-techniques-in-gopro-studio-for-2024/"><u>A Beginner's Guide to Advanced Techniques in GoPro Studio for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-14-pro-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From Apple iPhone 14 Pro Online</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/add-auditory-components-to-premiere-pro-videos/"><u>Add Auditory Components to Premiere Pro Videos</u></a></li>
-<li><a href="https://win-blog.techidaily.com/back-4-blood-performance-boosted-say-no-more-pc-freezes-and-errors/"><u>Back 4 Blood Performance Boosted - Say No More PC Freezes and Errors</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/choosing-a-streaming-powerhouse-obs-or-wirecast/"><u>Choosing a Streaming Powerhouse OBS or Wirecast?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevating-your-creations-with-tiktok-tricks/"><u>Elevating Your Creations with TikTok Tricks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exclusive-catalog-budget-friendly-image-treasuries-online/"><u>Exclusive Catalog Budget-Friendly Image Treasuries Online</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/hone-your-image-by-removing-surroundings/"><u>Hone Your Image by Removing Surroundings</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-13-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 13 in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/make-money-fast-on-reddit-top-13-easy-strategies-for-beginners/"><u>Make Money Fast on Reddit Top 13 Easy Strategies for Beginners</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/must-see-upgrades-in-vr-armor/"><u>Must-See Upgrades in VR Armor</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-eliminating-deadly-bugs-in-black-ops-4/"><u>Step-by-Step Solution: Eliminating Deadly Bugs in Black Ops 4</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-strategy-for-handling-multiple-chatgpt-dialogues-via-folder-management/"><u>The Ultimate Strategy for Handling Multiple ChatGPT Dialogues via Folder Management</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-amplify-your-status-music-in-whatsapp/"><u>[New] Amplify Your Status Music in WhatsApp</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-canvas-and-chroma-mastering-color-interaction/"><u>[New] Canvas and Chroma Mastering Color Interaction</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capturing-breathtaking-photos-with-iphone-hdr/"><u>[New] Capturing Breathtaking Photos with iPhone HDR</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-fast-fixes-to-skyrocket-your-podcast-live/"><u>[New] In 2024, Fast Fixes to Skyrocket Your Podcast Live</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-assessing-cloud-storage-fees-comparisons-and-optimal-prices/"><u>[Updated] Assessing Cloud Storage Fees Comparisons & Optimal Prices</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/affordable-and-accessible-the-definitive-guide-to-9-budget-friendly-editors/"><u>Affordable & Accessible The Definitive Guide to 9 Budget-Friendly Editors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comparing-metaverse-to-multiplemetasa-highlighting-their-variance-for-2024/"><u>Comparing Metaverse to MultipleMetasa Highlighting Their Variance for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-ae-user-guide-adding-flavor-with-typefaces/"><u>In 2024, AE User Guide Adding Flavor with Typefaces</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-snapchat-assistance-a-step-by-step-contact-guide/"><u>Navigating Snapchat Assistance: A Step-by-Step Contact Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-directx-hardware-configuration-errors-for-seamless-graphic-devices/"><u>Overcoming DirectX Hardware Configuration Errors for Seamless Graphic Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/solve-mp4-video-playback-issues-with-these-simple-sounds-fixes/"><u>Solve MP4 Video Playback Issues with These Simple Sounds Fixes</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-capturing-your-android-lollipop-display/"><u>Step-by-Step Guide: Capturing Your Android Lollipop Display</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-social-network-sites-for-youtube-growth/"><u>Top Social Network Sites for YouTube Growth</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-capturing-your-gaming-moments-recording-playstation-4/"><u>Ultimate Guide: Capturing Your Gaming Moments - Recording PlayStation 4</u></a></li>
 </ul></div>
 

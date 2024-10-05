@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Potential of Wide Angle 360 Photos"
-date: 2024-09-22T22:01:20.147Z
-updated: 2024-09-29T23:34:47.024Z
+date: 2024-09-29T20:29:07.582Z
+updated: 2024-10-04T16:08:41.318Z
 tags: 
   - screen-recording
   - ai video
@@ -30,31 +30,37 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
 
  The process of shooting panoramas with fisheye lenses involves a number of considerations and they are as follows-:
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1. The equipment and setup
 
  To shoot quality 360 degrees panoramas with fisheye, it is imperative to get the equipment as well as the set up right. Your equipment needs to be calibrated properly to make the stitching process nice and easy. To find the best setting for your equipment, the grid method is recommended on the panohead.
 
 ![Panohead for Fisheye lens](https://images.wondershare.com/filmora/article-images/panohead-for-fishlens.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2. Leveling and rotating
 
  Other than setting up and calibrating the equipment in the right manner, it is important to keep the camera steady and leveled as you make the rotations to take shots. For leveling, it is recommended to use an appropriate leveling base, while for rotation, using a panning clamp on top of the ballhead is highly recommended.
 
 ![Panning clam on ballhead](https://images.wondershare.com/filmora/article-images/panning-clam-on-ballhead.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3. The actual shooting
 
@@ -87,10 +93,10 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
 ![create 360 photos with fisheye lens](https://images.wondershare.com/filmora/article-images/fisheye-lens-image.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Conclusion
@@ -100,10 +106,10 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -121,20 +127,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-skyrocket-to-youtube-partner-status-with-10k-vistas-goal/"><u>[New] 2024 Approved Skyrocket to YouTube Partner Status with 10K Vistas Goal</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-getting-started-on-youtube-setting-up-and-generating-income/"><u>[Updated] Getting Started on YouTube Setting Up & Generating Income</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-tips-to-communicate-with-youtube-subscribers/"><u>[Updated] Tips to Communicate with YouTube Subscribers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-explore-elite-data-vaults-best-storages-reviewed/"><u>2024 Approved Explore Elite Data Vaults Best Storages Reviewed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/compre-written-in-clear-language-this-ultimate-guide-explores-all-facets-of-using-the-iphone-xs-animoji-feature/"><u>Compre Written in Clear Language, This Ultimate Guide Explores All Facets of Using the iPhone X's Animoji Feature</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/conquer-competitors-try-this-highest-rated-voice-modification-software-for-valorant/"><u>Conquer Competitors - Try This Highest-Rated Voice Modification Software for Valorant</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/echo-of-the-land-downloading-and-personalizing-tamil-ringtones/"><u>Echo of the Land Downloading & Personalizing Tamil Ringtones</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-15-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 15</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-ice-arena-intensity-the-fastest-moments-in-olympics/"><u>In 2024, Ice Arena Intensity The Fastest Moments in Olympics</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-quick-face-blurring-on-picscroller/"><u>Mastering Quick Face-Blurring on PicScroller</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigate-the-future-of-meetings-a-win11-and-zoom-guide/"><u>Navigate the Future of Meetings A Win11 and Zoom Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premium-action-recorders-for-motion-compensation-for-2024/"><u>Premium Action Recorders for Motion Compensation for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-essentials-of-professional-editing-in-gopro-studio/"><u>The Essentials of Professional Editing in GoPro Studio</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-whatsapps-call-conversations/"><u>Unveiling WhatsApp's Call Conversations</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-enhance-images-androidandiphones-top-10-freeware-overlays/"><u>[New] 2024 Approved Enhance Images Android&iPhone's Top 10 Freeware Overlays</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-bridging-virtuality-business-applications-in-vr/"><u>[Updated] Bridging Virtuality Business Applications in VR</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-10-tips-to-upgrade-your-obs-mobile-broadcasting-for-2024/"><u>[Updated] Top 10 Tips to Upgrade Your OBS Mobile Broadcasting for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/choosing-hdr-over-sdr-elevating-your-video-creation-process/"><u>Choosing HDR over SDR Elevating Your Video Creation Process</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comparative-analysis-of-ar-stickers-focusing-on-google/"><u>Comparative Analysis of AR Stickers, Focusing on Google</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-purpose-of-gptzero-in-text-analysis/"><u>Deciphering the Purpose of GPTZero in Text Analysis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fix-zoo-membership-tackling-poor-sound-quality/"><u>Fix Zoo Membership Tackling Poor Sound Quality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixes-to-overcome-remote-connection-errors-on-windows/"><u>Fixes to Overcome Remote Connection Errors on Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-epson-v600-scanner-drivers-download-now/"><u>Get the Latest Epson V600 Scanner Drivers - Download Now!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/humorhexagon-snappysatirespace/"><u>HumorHexagon SnappySatireSpace</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-shadows-a-step-by-step-for-anonymous-instagram-live-viewing/"><u>Navigating the Shadows A Step-by-Step for Anonymous Instagram Live Viewing</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-master-video-editing-on-mac-with-mkvtoolnix-a-step-by-step-guide-2023/"><u>New Master Video Editing on Mac with MKVtoolnix A Step-by-Step Guide 2023</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/scripting-space-and-time-manipulation-for-movies/"><u>Scripting Space & Time Manipulation for Movies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/trailblazers-in-auditory-and-visual-creation-list/"><u>Trailblazers in Auditory & Visual Creation List</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-claude-stands-out-in-the-battle-of-ai-conversation-models-part-14/"><u>Why Claude Stands Out in the Battle of AI Conversation Models, Part 1/4</u></a></li>
 </ul></div>
 

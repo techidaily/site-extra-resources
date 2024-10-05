@@ -1,7 +1,7 @@
 ---
 title: "\"The Art of Pairing B-Clips with Main Shots\""
-date: 2024-09-27T00:09:47.144Z
-updated: 2024-09-29T20:06:01.305Z
+date: 2024-09-29T03:36:03.285Z
+updated: 2024-10-05T10:06:43.547Z
 tags: 
   - screen-recording
   - ai video
@@ -32,13 +32,6 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -48,16 +41,10 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. What types of b roll are there?
@@ -65,10 +52,10 @@ On the other hand, cutaways can show how different people react to what is being
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Archival b roll footage
@@ -78,6 +65,19 @@ Aerial B roll is the solution when you like to show your viewers where your film
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Storytelling b roll footage
 
@@ -104,10 +104,10 @@ If flaws were discovered during primary photography, the directors could have re
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -144,21 +144,22 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-behind-the-scenes-of-vivacut-full-video-editing-review-24/"><u>[New] Behind the Scenes of VivaCut Full Video Editing Review '24</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-discreet-youtube-playback-on-mobile-devices-for-2024/"><u>[New] Discreet YouTube Playback on Mobile Devices for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-5-best-apps-blending-visual-storytelling-and-music/"><u>[Updated] 5 Best Apps Blending Visual Storytelling & Music</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-cutting-edge-mp4-transformer-share-to-facebook/"><u>[Updated] In 2024, Cutting-Edge MP4 Transformer Share to Facebook</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1726030336942-vevo-youtube/"><u>有名アーティストのVevo YouTube映像をどうやって保存しますか？</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-comprehensive-list-top-rated-srt-translation-services/"><u>A Comprehensive List Top-Rated SRT Translation Services</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/assessing-if-sns-hdr-deserves-your-investment-time/"><u>Assessing If SNS HDR Deserves Your Investment Time</u></a></li>
-<li><a href="https://win-blog.techidaily.com/battlefield-2042-fps-fix-solving-drops-and-stutter-issues-on-your-gaming-pc/"><u>Battlefield 2042 FPS Fix: Solving Drops and Stutter Issues on Your Gaming PC</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-10-camera-lenses-to-use-for-2024/"><u>Best 10 Camera Lenses to Use for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/create-gifs-from-apng-files-at-no-cost-discover-how-with-movavis-simple-tool/"><u>Create GIFs From APNG Files at No Cost - Discover How with Movavi's Simple Tool!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cutting-the-hassle-picshots-approach-to-collaging/"><u>Cutting the Hassle Picshot's Approach to Collaging</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-12-pro-max-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone 12 Pro Max to iPhone With/Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-xiaomi-redmi-13c-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Xiaomi Redmi 13C Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/kootek-coolerpad-laptop-stand-assessment-a-superior-versatile-choice/"><u>Kootek CoolerPad Laptop Stand Assessment: A Superior, Versatile Choice</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/magix-acid-pro-unveiled-assessing-comparable-software/"><u>Magix ACID Pro Unveiled Assessing Comparable Software</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unleashing-true-black-and-vivid-colors-on-asus-pa32u/"><u>Unleashing True Black & Vivid Colors on ASUS PA32U</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-expert-tips-for-procuring-unlocked-picture-frame-videos/"><u>[New] In 2024, Expert Tips for Procuring Unlocked Picture Frame Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gastronomy-goals-attractive-food-network-branding-ideas/"><u>[New] In 2024, Gastronomy Goals Attractive Food Network Branding Ideas</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-pajama-plots-reviewed-analyzing-childrens-video-stories/"><u>[Updated] 2024 Approved Pajama Plots Reviewed Analyzing Children's Video Stories</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-step-in-making-the-most-of-snap-camera-in-microsoft-teams/"><u>[Updated] In 2024, Step-In Making the Most of Snap Camera in Microsoft Teams</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-stream-friendly-free-tunes-vault-fb/"><u>[Updated] Stream-Friendly Free Tunes Vault (FB)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-adding-images-to-instagram-made-simple/"><u>2024 Approved Adding Images to Instagram Made Simple</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/androids-secret-weapon-for-stunning-time-lagged-footage-for-2024/"><u>Android's Secret Weapon for Stunning Time-Lagged Footage for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-breakdown-of-theta-s-specifications/"><u>Comprehensive Breakdown of Theta S Specifications</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-facetime-call-history-on-iphone-15-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover FaceTime Call History on iPhone 15 Pro | Stellar</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphoneipad-podcasting-for-excellent-travel-sessions/"><u>IPhone/iPad Podcasting for Excellent Travel Sessions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/logo-design-101-tips-to-make-your-podcast-stand-out/"><u>Logo Design 101 Tips to Make Your Podcast Stand Out</u></a></li>
+<li><a href="https://article-helps.techidaily.com/masterpiece-on-your-iphone-ranking-of-best-free-image-assemblers-for-2024/"><u>Masterpiece on Your iPhone Ranking of Best FREE Image Assemblers for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/soundscape-shifting-made-easy-unveiling-the-best-free-vocal-transformers/"><u>Soundscape Shifting Made Easy Unveiling the Best Free Vocal Transformers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-difference-between-srgb-and-rgb/"><u>The Difference Between Srgb & Rgb</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-5-ios-podcast-apps-your-ultimate-listing/"><u>Top 5 iOS Podcast Apps Your Ultimate Listing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/truecaller-app-review/"><u>TrueCaller App Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/where-to-find-excellent-no-cost-preschool-games-top-9-picks-for-young-minds/"><u>Where to Find Excellent No-Cost Preschool Games: Top 9 Picks for Young Minds</u></a></li>
 </ul></div>
 

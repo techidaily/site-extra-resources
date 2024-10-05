@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Capturing the Future  An Overview of iPhone X's Camera Innovations\""
-date: 2024-08-26T12:03:59.875Z
-updated: 2024-08-27T12:03:59.875Z
+date: 2024-10-02T08:47:52.300Z
+updated: 2024-10-05T05:35:38.171Z
 tags: 
   - screen-recording
   - ai video
@@ -44,9 +44,12 @@ thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c58
 ![depth camera](https://images.wondershare.com/filmora/article-images/depth-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: How to use portrait mode
 
  Portrait mode uses your iPhone X’s telephoto lens kit to create images with “bokeh”-esque backgrounds and foregrounds. Portrait Lighting also comes as part of the Portrait Mode with the iPhone X, utilising both machine learning and the depth map of Portrait mode to add exceptional lighting effects to your photos in real time. When you shoot in Portrait mode, the wide-angle measures the difference between what it and the telephoto can see to offer a multi-point depth map. The depth map itself creates artificial depth of field.
@@ -66,11 +69,12 @@ thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c58
 ![portrait lighting](https://images.wondershare.com/filmora/article-images/PortraitLighting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Part 4: Video improvement
 
  The iPhone X is also noted for its first-class video shooting capabilities, including its 4K video feature. Though previous iterations of the iPhone were already rather adept at shooting in 4K, the new devices are even more impressive and have been favourably compared to the GH5 in terms of quality and clarity. The new device has been complimented for its vibrant colour profile and its ability to deliver 4K video that matches a wide range of leading DSLR and mirrorless cameras. It’s possible to capture video in 240fps slo-mo at 1080p and 4K at 60fps.
@@ -78,13 +82,14 @@ thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c58
 ![video improvement](https://images.wondershare.com/filmora/article-images/video-improvement.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **You may also like:** [Best iPhone Stabilizers for Video Shooting >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
  There are many great reasons for investing in the iPhone X if you are interested in carrying a high-end camera around in your pocket. The phone is the smallest yet to feature two 12MP rear-facing cameras, with the updated telephoto lens also being a big draw for many. The lens has been optically stabilised and had its aperture boosted to f/2.4 from f/2.8\. The phone is now able to offer vastly superior performance in low-light conditions, with the sensor having been completely rebuilt and a brand new image signal processor offering stunning colours and textures. In fact, the phone is able to perform convincingly in low-light conditions even when there are multiple light sources competing.
@@ -94,15 +99,17 @@ thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c58
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -110,3 +117,22 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-apex-level-clarity-convert-high-res-videos/"><u>[New] Apex-Level Clarity Convert High-Res Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-how-to-be-a-ghost-in-the-social-media-crowd-live/"><u>[Updated] How to Be a Ghost in the Social Media Crowd - Live</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-the-definitive-guide-to-flawless-morphvox-technique/"><u>2024 Approved The Definitive Guide to Flawless MorphVOX Technique</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-speed-up-windows-file-inspection/"><u>How To Speed Up Windows File Inspection</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock Apple iPhone 13 Pro 3 Ways To Unlock</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-audio-aficionados-quandary-pick-between-podcast-and-youtube/"><u>In 2024, Audio Aficionados' Quandary Pick Between Podcast and YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-photography-simplified-adopt-these-10-easy-rules/"><u>IPhone Photography Simplified Adopt These 10 Easy Rules</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-facebooks-privacy-settings-7-essential-tips/"><u>Mastering Facebook's Privacy Settings: 7 Essential Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perceiving-beyond-understanding-ars-impact/"><u>Perceiving Beyond Understanding AR's Impact</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-steps-updating-your-lenovos-power-management-drivers-without-hiccups/"><u>Simple Steps: Updating Your Lenovo's Power Management Drivers Without Hiccups</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-art-of-cozy-cinematography-top-5-winter-scenes/"><u>The Art of Cozy Cinematography Top 5 Winter Scenes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-picshot-difference-in-collage-mastery/"><u>The Picshot Difference in Collage Mastery</u></a></li>
+<li><a href="https://win-answers.techidaily.com/twitch-silent-stream-fixed-restore-your-live-audio-today/"><u>Twitch Silent Stream Fixed - Restore Your Live Audio Today!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/x-marked-moments-in-the-22-snowboard-games/"><u>X-Marked Moments in the '22 Snowboard Games</u></a></li>
+</ul></div>
+

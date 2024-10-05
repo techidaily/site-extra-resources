@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Comprehensive Analysis of Syma X5C  Best Starter Drone Pick\""
-date: 2024-09-27T19:27:00.636Z
-updated: 2024-09-29T22:32:50.847Z
+date: 2024-09-28T23:24:59.675Z
+updated: 2024-10-04T17:04:16.753Z
 tags: 
   - screen-recording
   - ai video
@@ -60,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
 
  There are so many incredible features inside Syma X5C that make it suitable device for [aerial photography](https://tools.techidaily.com/wondershare/filmora/download/). The intuitive controls are much easier to explore even for beginners. The remote control is user friendly and all other latest features make it a must buy product for drone lovers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Complete Review for Syma X5C
 
 #### 1\.  Basic Specs Info
@@ -92,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
 ![syma x5c controller](https://images.wondershare.com/filmora/article-images/syma-x5c-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The remote unit or transmitter works with a 2.4GHz frequency setting with 4 channel type control. It helps pilots to enjoy wider flying range with spread spectrum technology. The maximum flying range falls between 30 to 50 meters and no lags have been reported yet in control selection and quadcopter reactions. Using flip switch, you can directly adjust the movements in air.
@@ -105,20 +112,13 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
 ![syma x5c camera](https://images.wondershare.com/filmora/article-images/syma-x5c-camera.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Syma H5C camera is rated as moderately stable and it is capable enough to take impressive pictures from air. This device is equipped with a 2GB MicroSD card that offers personal storage space to all recorded videos and images. The sad part is here that controller unit of this device is able to send signals to drone only; it cannot control the camera actions. Thus your camera stays focused in only one direction all the time and have fixed focus during shoots. You cannot apply zoom, direction sensing inputs or focus adjustment controls when your device is in air. If you are searching for a highly controlled footage generator then it is good to go for other Phantom series and other competing models as per your budget. But Syma H5C is really a good choice to start with.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -127,10 +127,10 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -148,24 +148,14 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-blueprinting-a-thrilling-film-flashpoint/"><u>[New] Blueprinting a Thrilling Film Flashpoint</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-advanced-techniques-for-audacity-audio-mastery/"><u>[Updated] Advanced Techniques for Audacity Audio Mastery</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-building-blocks-for-successful-channel-branding-and-growth/"><u>[Updated] In 2024, Building Blocks for Successful Channel Branding and Growth</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-instagrams-newest-feature-reels-explained/"><u>[Updated] Mastering Instagram's Newest Feature Reels Explained</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-selective-alert-tunes-prime-audio-spots/"><u>[Updated] Selective Alert Tunes Prime Audio Spots</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-unlocking-the-secrets-to-perfect-thumbnails/"><u>[Updated] Unlocking the Secrets to Perfect Thumbnails</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-compreous-guide-to-recording-and-securing-periscope-videos/"><u>A Compreous Guide to Recording & Securing Periscope Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/design-dynamics-realizing-color-potential/"><u>Design Dynamics Realizing Color Potential</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2022-not-launching-fixes-and-solutions/"><u>Football Manager 2022 Not Launching: Fixes & Solutions</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-oneplus-nord-ce-3-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on OnePlus Nord CE 3 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Vivo Y100? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-issues-when-discords-push-to-talk-is-unresponsive/"><u>How To Resolve Issues When Discord's Push-to-Talk Is Unresponsive?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-closer-inspect-of-the-stunning-dell-p2715q-monitors-capabilities/"><u>In 2024, A Closer Inspect of the Stunning Dell P2715Q Monitor's Capabilities</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-blackout-blitz-60-second-effort/"><u>In 2024, Blackout Blitz 60-Second Effort</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-boost-story-impact-with-customized-video-speed-settings/"><u>In 2024, Boost Story Impact with Customized Video Speed Settings</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-prophoto-fusion-online-masterpiece-suite/"><u>In 2024, ProPhoto Fusion Online Masterpiece Suite</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/revolutionize-your-memories-old-photos-new-video-life/"><u>Revolutionize Your Memories Old Photos, New Video Life</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/spotlight-a-podcast-on-your-instagram-feed/"><u>Spotlight a Podcast on Your Instagram Feed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-verdict-on-android-photo-editing-does-picku-excel/"><u>The Verdict on Android Photo Editing – Does PickU Excel?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-become-an-expert-tutorial-for-making-gifs-into-desirable-whatsapp-and-telegram-stickers/"><u>[New] Become an Expert Tutorial for Making GIFs Into Desirable WhatsApp & Telegram Stickers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-harmonize-body-and-mind-through-these-top-10-yogis-videos/"><u>[Updated] 2024 Approved Harmonize Body and Mind Through These Top 10 Yogis' Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-block-youtube-previews-embrace-full-length-videos/"><u>[Updated] Block YouTube Previews, Embrace Full-Length Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/eering-engaging-media-excerpts/"><u>Engineering Engaging Media Excerpts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/enhancing-engagement-the-ultimate-guide-for-tiktok-unboxings/"><u>Enhancing Engagement The Ultimate Guide for TikTok Unboxings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-chaos-to-calm-incorporating-meditation-through-gpt/"><u>From Chaos to Calm: Incorporating Meditation Through GPT</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/maximizing-performance-with-right-fpv-propeller-choices/"><u>Maximizing Performance with Right FPV Propeller Choices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/filmed-flair-tips-for-captivating-solo-videos/"><u>Self-Filmed Flair Tips for Captivating Solo Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-handbook-for-vr-travelers/"><u>The Ultimate Handbook for VR Travelers</u></a></li>
 </ul></div>
 

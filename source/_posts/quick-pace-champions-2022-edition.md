@@ -1,7 +1,7 @@
 ---
 title: "\"Quick Pace Champions  2022 Edition\""
-date: 2024-08-26T12:06:09.265Z
-updated: 2024-08-27T12:06:09.265Z
+date: 2024-09-28T09:39:08.222Z
+updated: 2024-10-05T08:35:27.837Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,13 @@ Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
@@ -47,6 +54,13 @@ Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
@@ -61,8 +75,12 @@ Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awa
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
 The best way to present any news related to any sports event is to create a short video containing all the highlights of the event. For example, you can create a video combining all the highlights of short track speed skating 2022 that we have presented in the previous section. You can also collect short clips of the event from social media platforms that have been captured by audiences.
@@ -78,17 +96,18 @@ To create such a highlight video on any sports event, there are certain videos e
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
 To create a video based on any sport event such as short track speed skating highlights, you need a professional video editor where you can get all the video effects and elements in one place. We recommend Wondershare Filmora where you get a wide range of video effects and editing tools to make your video stand out easily.
@@ -108,8 +127,12 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
 Step 3: Go to Import > Import Media Files and bring in all the still footages and short clips you have collected. You can also use the option Import with Instant Cutter Tool to trim the footages and clips for uniformity.
@@ -120,14 +143,9 @@ Step 5: Select individual slides and apply Transition, Effects or add Titles and
 
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 South Korean skater Hwang Dae-heon has won the gold medal in men’s short track speed skating 1500m. This has buried the controversy that cropped up due to South Korean disqualification in 1000m short track speed skating. If you want to make a video highlighting all the important scenes and moments of any sports event, we have illustrated how to make a professional-quality video with Wondershare Filmora.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -135,3 +153,25 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-renowned-makers-exquisite-insta-hlv-designers-online/"><u>[New] 2024 Approved Renowned Makers Exquisite Insta HLV Designers Online</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-ultimate-shot-upgrade-no-money-needed/"><u>[New] In 2024, Ultimate Shot Upgrade - No Money Needed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-winning-film-tech-comprerantes-top-5-windows-editing-tools/"><u>[New] In 2024, Winning Film Tech Comprerante's Top 5 Windows Editing Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-comprehensive-assessment-of-frozen-treats-on-display/"><u>[Updated] In 2024, Comprehensive Assessment of Frozen Treats on Display</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/breakthrough-media-tools-to-complement-xsplit/"><u>Breakthrough Media Tools to Complement XSplit</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/diy-football-viewing-watch-record-cut-on-the-cheap/"><u>DIY Football Viewing Watch, Record, Cut on the Cheap</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-how-to-download-and-set-up-hp-universal-printer-software-for-windows/"><u>Easy Installation: How to Download and Set Up HP Universal Printer Software for Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/editors-full-report-on-videocraft-suite-new-horizons-in-editing/"><u>Editor's Full Report on VideoCraft Suite - New Horizons in Editing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfecting-aerial-images-key-factors-in-picking-a-gimbal/"><u>Perfecting Aerial Images Key Factors in Picking a Gimbal</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photo-masters-list-the-best-6-4k-dslr-cameras-today/"><u>Photo Masters List The Best 6 4K DSLR Cameras Today</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/smart-strategies-to-modify-user-numbers-on-tiktok/"><u>Smart Strategies to Modify User Numbers on TikTok</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/srt-explained-essential-aspects-and-more/"><u>SRT Explained Essential Aspects and More</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-nokia-c12-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Nokia C12 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-tier-psd-artistry-tweaks/"><u>Top-Tier PSD Artistry Tweaks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-mod-files-a-comprehensive-guide-on-their-functions-and-usage/"><u>Understanding MOD Files: A Comprehensive Guide on Their Functions and Usage</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unlocking-wealth-with-youtube-shorts-ventures/"><u>Unlocking Wealth with YouTube Shorts Ventures</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/weighing-in-virtual-reality-pros-and-cons/"><u>Weighing In Virtual Reality Pros & Cons</u></a></li>
+</ul></div>
+

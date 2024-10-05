@@ -1,7 +1,7 @@
 ---
 title: "\"Crafting Cinematic Images on iPhone  8 Advanced Techniques\""
-date: 2024-09-27T21:31:11.818Z
-updated: 2024-09-29T22:32:48.058Z
+date: 2024-10-01T11:29:32.218Z
+updated: 2024-10-05T01:52:34.521Z
 tags: 
   - screen-recording
   - ai video
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 
  This same complaint is often used in iPhone videography – it is difficult to follow because the video is shaking. The shaking is what happens when the video lacks stability – remember that most professional camera work is done with cameras which are on some form of frame or tripod to keep the camera still. It isn’t that an iPhone is heavy – it is more to do with the video being hard to keep still, especially if our attention is distracted. For the best videos, people should invest in some form of tripod for their phone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Light Properly
 
  Professional video shoots use a lot of light in order to create the proper effect – most people would be surprised to learn how much light goes into even a ‘night-time’ set. Phone videos often suffer a lot because they do not make adequate use of light. Part of this can be solved by taking a camera class which covers light issues, but it can also be solved by paying attention to light sources where you are, and changing them to better suit your video if possible.
@@ -50,10 +43,16 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 ![light](https://images.wondershare.com/set-light-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Avoid Using the Digital Zoom
@@ -63,10 +62,17 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 ![zoom](https://images.wondershare.com/Zoom.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use the Grid
@@ -74,6 +80,20 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
  Pictures and videos can be taken in either portrait or landscape format, as everybody who has tried to take a picture knows. When recording a video, you should use this to your advantage and try and find which grid would be the most effective for your video. Using the grids is very easy - simply tip the iPhone in the direction you want to film, and the film will automatically work in that format. Since it can be very easy for a phone to change grids while videoing, this is another opportunity for a stabiliser such as a tripod to be put into use.
 
 ![grid](https://images.wondershare.com/grid-iphone-camera.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use the Exposure Lock
 
@@ -87,13 +107,6 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 
 ![time lapse](https://images.wondershare.com/time-lapse-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Put your iPhone in Airplane Mode
 
  There is nothing worse than being in the middle of recording a great video, and then being interrupted by a notification. Even worse, since phones vibrate when they receive a notification, and it will ruin the entire video if that happens, since the phone will move and throw off the exposure and the light enhancements which you have been using.
@@ -102,31 +115,24 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 
 ![airplane mode](https://images.wondershare.com/airplane-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Edit your Video with Filmora
 
  Films go through extensive editing processes before being released to the general public, so why shouldn’t you edit your videos? Things go wrong in the process of making a video – somebody appears where they shouldn’t, a phone rings, people have conversations, the tripod falls down, the camera ends up pointed the wrong way….a lot can happen. Editing your video means that you can take all these problems out, and also means that you can tighten up the video generally, improve the sound quality, and make sure that everything is as it should be before you show it off.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
  Using your iPhone to make a video is not something which requires a lot of extra equipment – it simply requires some planning on your part, as well as knowledge of your iPhone’s systems. Being able to control the grid for the videos, the exposure, and anything else which can be controlled through the iPhone systems makes for much better videos off the bat, while adding in video editing software and tripods can improve the experience even more. Videos on an iPhone shouldn’t be seen as impossible.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -143,20 +149,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-best-assortment-professional-webcam-platforms/"><u>[New] Best Assortment Professional Webcam Platforms</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-15-masterpieces-that-defined-stop-motion-artistry/"><u>[Updated] 15 Masterpieces That Defined Stop Motion Artistry</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-picsart-insight-for-enhanced-creativity/"><u>[Updated] Comprehensive PicsArt Insight for Enhanced Creativity</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-start-a-stream-reap-riches-vlog-money-secrets/"><u>2024 Approved Start a Stream, Reap Riches Vlog Money Secrets</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cutting-edge-background-switchers-lightart-masters/"><u>Cutting-Edge Background Switchers LightArt Masters</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/digital-panorama-explore-these-10-sites-for-flawless-wallpapers/"><u>Digital Panorama Explore These 10 Sites for Flawless Wallpapers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-wipe-iphone-xr-data-permanently-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Wipe iPhone XR Data Permanently? | Stellar</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Vivo Y77t? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-the-value-proposition-of-zte-blade-a3-y-series-phone/"><u>In-Depth Analysis: The Value Proposition of ZTE Blade A3 Y Series Phone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-poco-m6-pro-4g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Poco M6 Pro 4G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-time-lapse-mastery-a-step-by-step-guide-to-final-cut-pro/"><u>New 2024 Approved Time Lapse Mastery A Step-by-Step Guide to Final Cut Pro</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pro-tips-15-expertly-chosen-tripods-for-gopro-cameras/"><u>Pro Tips 15 Expertly Chosen Tripods for GoPro Cameras</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-process-to-refresh-lenovo-t520s-system-drivers-for-optimal-performance/"><u>Step-by-Step Process to Refresh Lenovo T520's System Drivers for Optimal Performance</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-roadmap-to-seamless-mass-tiktok-downloads/"><u>The Roadmap to Seamless Mass TikTok Downloads</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/uniting-sections-smoothly-inshot-transition-essentials/"><u>Uniting Sections Smoothly Inshot Transition Essentials</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-concealing-identity-select-8-highly-effective-photo-editors/"><u>[New] Concealing Identity Select 8 Highly Effective Photo Editors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-clear-the-chaos-edit-and-cull-your-bulky-tiktok-collections/"><u>[Updated] Clear the Chaos Edit & Cull Your Bulky TikTok Collections</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-close-up-confidence-navigating-google-meets-zoom-feature/"><u>[Updated] Close-Up Confidence Navigating Google Meet's Zoom Feature</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-breakdown-exploring-lgs-widescreen-uhd-display/"><u>[Updated] Comprehensive Breakdown Exploring LG's Widescreen UHD Display</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-discover-7-unforgettable-marriage-videos-on-vimeo/"><u>[Updated] Discover 7 Unforgettable Marriage Videos on Vimeo</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-small-businesss-safest-video-conferencing-top-picks-for-2024/"><u>[Updated] Small Business's Safest Video Conferencing Top Picks for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/analyzing-vidmas-impact-on-video-capture-tech/"><u>Analyzing Vidma's Impact on Video Capture Tech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-insights-for-optimal-iphone-x-animoji-use/"><u>Comprehensive Insights for Optimal iPhone X Animoji Use</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhanced-color-and-contrast-why-hdr-outshines-sdr/"><u>Enhanced Color and Contrast Why HDR Outshines SDR</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exclusive-insight-into-mematics-app-features/"><u>Exclusive Insight Into Mematic's App Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-guide-to-converting-interlaced-videos-into-progressive-format-with-handbrake/"><u>Expert Guide to Converting Interlaced Videos Into Progressive Format with Handbrake</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-omzettingen-van-gif-bestanddeelnissen-online-zeiken-vanavi/"><u>Gratis Omzettingen Van Gif-Bestanddeelnissen Online - Zeiken Vanavi</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-complete-motion-evaluation-2023/"><u>In 2024, Complete Motion Evaluation 2023</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-breakdown-of-theta-s-specifications/"><u>In 2024, Comprehensive Breakdown of Theta S Specifications</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-realme-c33-2023-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Realme C33 2023 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-television-screen-with-playnite-fullscreen/"><u>Maximize Your Television Screen with Playnite Fullscreen</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mp3-and-wav-song-saver-easy-billboards-to-audio-files-converter/"><u>MP3 & WAV Song Saver: Easy Billboards to Audio Files Converter</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/safeguard-sensitive-data-with-stellar-file-eraser-5-schedule-enabled-cleaner-for-windows-systems/"><u>Safeguard Sensitive Data with Stellar File Eraser 5 - Schedule-Enabled Cleaner for Windows Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-guide-top-10-mac-friendly-artist-tools-free/"><u>Ultimate Guide Top 10 Mac-Friendly Artist Tools (Free)</u></a></li>
 </ul></div>
 
