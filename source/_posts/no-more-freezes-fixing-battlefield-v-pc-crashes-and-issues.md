@@ -1,7 +1,7 @@
 ---
 title: "No More Freezes: Fixing Battlefield V PC Crashes & Issues"
-date: 2024-08-26T11:56:12.682Z
-updated: 2024-08-27T11:56:12.682Z
+date: 2024-10-05T16:24:21.594Z
+updated: 2024-10-10T18:51:02.908Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 **Note:** Don’t use fullscreen (use borderless instead) and don’t**Alt + Tab** your game, for these two things can always cause Battlefield V crashing issues.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Change Windows 10 Virtual Memory/Pagefile
 
  If the Windows 10 virtual memory isn’t set right, there is a chance of crashing and freezing issues with Battlefield V. Windows usually manages the Virtual memory automatically, but you can manually change the size of virtual memory if the default size isn’t large enough for your needs.
@@ -66,8 +73,12 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
  6) Launch your Battlefield V again and play for a few hours to check if the crashing issue still persists.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Turn off the in-game overlay
 
 1) Open your Origin.
@@ -79,8 +90,12 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 4) Try launching Battlefield V again to test the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your device drivers
 
  Battlefield V is a very demanding game, so you need to have the latest drivers installed, especially your graphics driver. Manufacturers such as NVIDIA, AMD work closely with game developers to keep releasing new drivers to improve game performance and fix bugs.
@@ -116,15 +131,23 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/driver-easy-update-all.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 4) Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Delete settings and repair your Battlefield V
 
  Deleting the settings file will reset your graphics configuration to default, and then you can repair Battlefield V in Origin to see if this works for you.
@@ -137,15 +160,19 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
  4) Launch your Battlefield V again to see if the crashing issue still persists.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Stop Overclocking
 
  Battlefield V is very sensitive to overclocking, so do NOT overclock your GPU and CPU. Overclocking may cause your Battlefield V to crash or freeze. In that case, we suggest resetting the processor or GPU to the manufacturer’s specifications.
 
  If you don’t want to overclock the CPU at all, you should also turn**XMP (Extreme Memory Profiles)** off. To do it, you need to enter BIOS and disable Extreme Memory Profile.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Turn off DX12
 
  For many Battlefield V players, DX12 runs like a nightmare. Although DICE has spent a lot of time optimizing the game for DX12, BFV is terribly unstable in DX12\. The latest Windows update seems to have got rid of much of DX12 choppiness (so make sure your Windows is up-to-date). However, if your Battlefield 5 keeps crashing, you can switch to DX11 to see if it solves the issue.
@@ -154,9 +181,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Battlefield-5-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note:** If you fail to see the**DX12 ENABLED** option in the Advanced Video Settings, you can revert it back to DX11 manually.  
   
  1\. Go to your**Battlefield 5** folder then the**settings** folder, right-click**PROFSAVE\_profile** and select**Edit with Notepad** .  
@@ -169,9 +193,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
  4) If neither of those workarounds does the trick, you may need to toggle off DXR for a smoother play experience.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Run Origin and BFV as admin
 
  If you run into a game crashing issue, you can always try running both your game launcher and game executable file as an administrator. Your Battlefield 5 crashing issue can be caused by limited access to your game file.
@@ -230,8 +251,12 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/sfc-scannow.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) When the verification finishes, you may receive one of the following messages:
 
 * **Windows Resource Protection did not find any integrity violations** .  
@@ -250,8 +275,12 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/run-box.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** . Then click**OK** to apply.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/perform-a-clean-boot.jpg)
@@ -264,9 +293,6 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-app.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Restart your PC and launch your Battlefield V again to test the issue.
 
  If you can play Battlefield V without any crashing now, then congrats! To find out the problematic applications or services, you can enable them one by one in System Configuration again.
@@ -286,8 +312,6 @@ sfc /scannow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -295,4 +319,18 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-guide-to-elevating-your-youtube-presence-with-these-20-hacks/"><u>[New] The Ultimate Guide to Elevating Your YouTube Presence with These 20 Hacks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-timing-and-frequency-what-is-the-best-day-to-release-a-podcast/"><u>2024 Approved Timing & Frequency What Is the Best Day to Release a Podcast?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/efficiently-refresh-your-ubuntus-dns-cache-a-comprehensive-tutorial/"><u>Efficiently Refresh Your Ubuntu's DNS Cache - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-the-battery-version-google-wireless-nest-doorbells/"><u>Expert Analysis of the Battery Version Google Wireless Nest Doorbells</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-sony-xperia-5-v-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Sony Xperia 5 V PIN</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/interactive-storytelling-vrs-entertainment-potential/"><u>Interactive Storytelling VR's Entertainment Potential</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-future-of-home-entertainment-tv-or-projection-for-4k/"><u>The Future of Home Entertainment TV or Projection for 4K?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-screenshot-sticker-guide-for-iphones-and-androids/"><u>The Ultimate Screenshot-Sticker Guide for iPhones and Androids</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-full-potential-of-windows-11s-tabbed-views/"><u>Unlock the Full Potential of Windows 11'S Tabbed Views</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unlock-zooms-full-power-with-share-screen-expertise/"><u>Unlock Zoom’s Full Power with Share Screen Expertise</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-zoom-features-on-windows-11-pcs/"><u>Unlocking Zoom Features on Windows 11 PCs</u></a></li>
+</ul></div>
 

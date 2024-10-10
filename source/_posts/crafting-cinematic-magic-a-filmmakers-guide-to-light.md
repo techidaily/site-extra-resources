@@ -1,7 +1,7 @@
 ---
 title: "\"Crafting Cinematic Magic  A Filmmaker's Guide to Light\""
-date: 2024-08-26T11:55:15.383Z
-updated: 2024-08-27T11:55:15.383Z
+date: 2024-10-06T16:05:19.863Z
+updated: 2024-10-10T17:22:25.489Z
 tags: 
   - screen-recording
   - ai video
@@ -92,6 +92,13 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -124,8 +131,26 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-affordable-webm-streaming-alternatives-unveiled/"><u>[New] Affordable WebM Streaming Alternatives Unveiled</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-screen-selection-strategies-navigating-ultrawide-and-uhd-4k-worlds/"><u>[New] Screen Selection Strategies Navigating UltraWide & UHD 4K Worlds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-step-by-step-guide-to-mp4-and-beyond-vlc-conversions/"><u>[Updated] A Step-by-Step Guide to MP4 and Beyond VLC Conversions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-thorough-insight-into-androids-lightroom-application/"><u>[Updated] A Thorough Insight Into Android's Lightroom Application</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-audio-visual-converters-forum/"><u>[Updated] Audio Visual Converters Forum</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-finest-free-luts-of-the-year/"><u>2024 Approved Explore the Finest FREE LUTs of the Year</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-epic-creators-colloquium/"><u>2024 Approved The Epic Creator's Colloquium</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/assemble-photos-for-a-captivating-storyboard-experience/"><u>Assemble Photos for a Captivating Storyboard Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/duration-calculation-a-20-megabit-video/"><u>Duration Calculation A 20 Megabit Video</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-wedding-countdown-clock-apps-top-10-picks-androidios/"><u>Essential Wedding Countdown Clock Apps Top 10 Picks (Android/iOS)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ideal-apps-to-transform-vtuber-speech-patterns-for-2024/"><u>Ideal Apps to Transform Vtuber Speech Patterns for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-an-all-inclusive-subtitle-handbook-from-basics-to-advanced-tips/"><u>In 2024, An All-Inclusive Subtitle Handbook From Basics to Advanced Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-professional-360-cam-gear/"><u>In 2024, Best Professional 360° Cam Gear</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/innovative-screencapping-a-practical-sequential-handbook-for-2024/"><u>Innovative Screencapping A Practical, Sequential Handbook for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/organizing-images-before-conversion-a-guide-to-making-flipbooks-with-flipbuildercom/"><u>Organizing Images Before Conversion: A Guide to Making Flipbooks with FlipBuilder.com</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visualizing-your-vision-the-art-of-using-luts-in-photos/"><u>Visualizing Your Vision The Art of Using LUTs in Photos</u></a></li>
+<li><a href="https://win-dash.techidaily.com/youtube-gif/"><u>YouTube ムービーを GIFへ変換するコツと最適ソフト |無料リスト</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->

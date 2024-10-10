@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Issue: How to Overcome Cannot Reach Live Configuration Servers Problem"
-date: 2024-08-26T11:56:51.050Z
-updated: 2024-08-27T11:56:51.050Z
+date: 2024-10-07T18:06:58.176Z
+updated: 2024-10-10T18:48:27.833Z
 tags:
   - win11
   - win10
@@ -49,14 +49,16 @@ thumbnail: https://thmb.techidaily.com/1a198795a8e787f87495ff53728e7afa23ff18e9e
 1. Launch Steam and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Life is Strange: True Colors** from the game list and click**Update** (if there is an available download).  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/check-for-updates.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/check-for-updates.jpg)
+
  Restart the Steam client and launch the game to test. Is it working now? If not, go ahead to the second fix.
 
 ### Fix 2 – Verify the integrity of game files
@@ -67,12 +69,24 @@ thumbnail: https://thmb.techidaily.com/1a198795a8e787f87495ff53728e7afa23ff18e9e
 2. Right-click**Life is Strange: True Colors** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-1.jpg)
 3. Select the**Local Files** tab. Then click**Verify integrity of game files** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-2.jpg)
+
  Wait a few minutes until the process completes. If the game still fails to run properly, try the next solution below.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -86,15 +100,8 @@ thumbnail: https://thmb.techidaily.com/1a198795a8e787f87495ff53728e7afa23ff18e9e
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or simply click**Update** to do it for free, but you need to download them one at a time and install the driver manually.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After the update finishes, reboot your computer to fully employ the changes. Your game should be working much better with an up-to-date driver. If the crashes reoccur, there are two more fixes you can try.
 
 ### Fix 4 – Switch to DirectX 11
@@ -105,19 +112,35 @@ thumbnail: https://thmb.techidaily.com/1a198795a8e787f87495ff53728e7afa23ff18e9e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Life is Strange: True Colors** and click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-1.jpg)
 3. Under Launch Options, type**\-dx11** in the field and then close the window.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/launch-dx11.jpg)
 4. Launch the game, tick**Play Life is Strange: True Colors** and click**Play** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/select-dx11.jpg)
 
  See how the game functions. If switching to DirectX 11 doesn’t stop the game crashing, continue to the last method.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5 – Adjust the graphics settings
 
  Higher graphics settings usually indicate a better visual experience, but it can be resource-intensive and make your game unstable or even crash. If you don’t have strong hardware capabilities, it’s best to turn down the in-game graphics instead of running it at the maximum settings.
@@ -130,9 +153,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 4. You could just set each option to**Low** or**Medium** and click**Apply** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/graphics-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Restart the game to test if the new settings have a significant impact on the game performance.
 
 ---
@@ -147,8 +167,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +174,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-a-practical-approach-to-streaming-fb-content-on-your-apple-setup/"><u>[New] 2024 Approved A Practical Approach to Streaming FB Content on Your Apple Setup</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-stunning-colors-top-11-methods-for-professional-grading-and-correction/"><u>[Updated] Capture Stunning Colors Top 11 Methods for Professional Grading & Correction</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-from-viral-videos-to-your-cellphone-crafting-a-unique-ringtones-for-2024/"><u>[Updated] From Viral Videos to Your Cellphone - Crafting a Unique Ringtones for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-keep-them-coming-back-top-6-ways-to-enhance-your-audiences-staying-power-on-youtube/"><u>[Updated] Keep Them Coming Back Top 6 Ways To Enhance Your Audience's Staying Power on YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-of-breed-premium-4k-camera-mounts-for-pros/"><u>2024 Approved Best of Breed Premium 4K Camera Mounts for Pros</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-harnessing-the-power-of-hdr-in-portrait-photography/"><u>2024 Approved Harnessing the Power of HDR in Portrait Photography</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/9-superior-editing-platforms-for-every-drone-operators-level/"><u>9 Superior Editing Platforms for Every Drone Operator's Level</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-beginners-guide-to-editing-digits-in-tiktoks-for-2024/"><u>A Beginner’s Guide to Editing Digits in TikToks for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crescendo-in-editing-musical-enhancements-for-imovie/"><u>Crescendo in Editing Musical Enhancements for iMovie</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-6s-how-to-unlock-a-disabled-iphone-6s-by-drfone-ios/"><u>Disabled iPhone 6s How to Unlock a Disabled iPhone 6s?</u></a></li>
+<li><a href="https://facebook.techidaily.com/finding-your-voice-online-4-ways-to-shape-your-facebook-visibility/"><u>Finding Your Voice Online: 4 Ways to Shape Your Facebook Visibility</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harmonizing-images-essential-tutorials-for-color-mastery/"><u>Harmonizing Images Essential Tutorials for Color Mastery</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/harnessing-iphone-downloads-top-podcast-strategies/"><u>Harnessing iPhone Downloads Top Podcast Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-celestial-wonders-at-your-fingertips-hd-sky-website-guide/"><u>In 2024, Celestial Wonders at Your Fingertips - HD Sky Website Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/inshot-unveiled-effortless-laptoppc-video-editing/"><u>Inshot Unveiled Effortless Laptop/PC Video Editing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/inshots-competitors-for-pclaptop-editors/"><u>Inshot's Competitors for PC/Laptop Editors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/professionally-enhancing-photos-with-effective-use-of-3d-lut-filters/"><u>Professionally Enhancing Photos with Effective Use of 3D LUT Filters</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/yi-action-cam-unleash-4k-videography/"><u>Yi Action Cam - Unleash 4K Videography</u></a></li>
+</ul></div>
 

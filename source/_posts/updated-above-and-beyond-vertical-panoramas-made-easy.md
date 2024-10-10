@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Above and Beyond  Vertical Panoramas Made Easy\""
-date: 2024-10-04T04:37:38.694Z
-updated: 2024-10-05T08:41:12.942Z
+date: 2024-10-09T16:46:25.389Z
+updated: 2024-10-10T18:25:31.182Z
 tags: 
   - screen-recording
   - ai video
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 * [Part 2: For Android Users](#part2)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### For iPhone users
@@ -55,17 +55,17 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
 ![](https://images.wondershare.com/filmora/article-images/iphone-panorama-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image source: mac-fusion
 
 * Begin to go along with the upward arrow on the screen to capture the desired vertorama.
 * Once finished and satisfied, just tap on "Done" option.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### For Android users
 
@@ -76,18 +76,18 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama-android.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image source: mac-fusion
 
 * To shoot picture, keep holding the target circle on the gray dot until it vanishes.
 * Repeat the same with other dots as well. In other words, move camera towards the gray dots one by one until they get disappear.
 * Tap on "Done" when completed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Some Beneficial Tips for shooting vertical panorama photo
 
@@ -99,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -120,20 +120,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-advanced-techniques-for-precise-online-image-cropping/"><u>[New] Advanced Techniques for Precise Online Image Cropping</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-the-secrets-of-successful-instagram-posts-through-hashtags/"><u>[New] Unlocking the Secrets of Successful Instagram Posts Through Hashtags</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-ultimate-guide-to-supercharging-srt-with-macwindows/"><u>[Updated] 2024 Approved The Ultimate Guide to Supercharging SRT with Mac/Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-unleashed-10-innovative-modifications-revealed/"><u>ChatGPT Unleashed: 10 Innovative Modifications Revealed</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-12-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi 12 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-realme-c67-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Realme C67 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-abletons-soften-sound-strategies/"><u>In 2024, Ableton's Soften Sound Strategies</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-audiovisual-expertise-selecting-top-video-minds/"><u>In 2024, Audiovisual Expertise Selecting Top Video Minds</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-beginners-pathway-photos-transformed-into-videos-via-pixiz/"><u>In 2024, Beginner's Pathway Photos Transformed Into Videos via Pixiz</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-iphone-6s-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From iPhone 6s</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-a15-4g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy A15 4G</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-mobile-technology-for-dji-visual-storytelling/"><u>Mastering Mobile Technology for DJi Visual Storytelling</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/proven-subtitle-editors-the-comprehensive-top-10-list-online/"><u>Proven Subtitle Editors – The Comprehensive Top 10 List (Online)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-tunes-palette-for-video-storytelling/"><u>Top Tunes Palette for Video Storytelling</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-avoid-interrupting-allow-the-speaker-to-finish-their-thoughts-before-responding-or-asking-questions/"><u>[New] Avoid Interrupting Allow the Speaker to Finish Their Thoughts Before Responding or Asking Questions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essential-blueprint-for-obtaining-premium-visuals-for-free/"><u>[New] The Essential Blueprint for Obtaining Premium Visuals for Free</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-framing-character-arcs-on-screen/"><u>[Updated] 2024 Approved Framing Character Arcs on Screen</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-shocking-news-titles-expert/"><u>[Updated] Crafting Shocking News Titles Expert</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-meizu-21-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beating-the-0x80073712-error-proven-fixes-for-a-smooth-windows-10-experience/"><u>Beating the 0X80073712 Error: Proven Fixes for a Smooth Windows 10 Experience</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/elevate-your-images-in-depth-guide-to-smooth-shutter-effect-in-ps-for-2024/"><u>Elevate Your Images In-Depth Guide to Smooth Shutter Effect in PS for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-6windowsmac-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account with or without Password from your Apple iPhone 6/Windows/Mac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/smooth-transitions-with-illustrators-blur-effects/"><u>Smooth Transitions with Illustrator's Blur Effects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/speed-enhancement-tips-for-periscope-livestimation/"><u>Speed Enhancement Tips for Periscope Livestimation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-benefits-of-high-dynamic-range-in-professional-videography/"><u>The Benefits of High Dynamic Range in Professional Videography</u></a></li>
 </ul></div>
 

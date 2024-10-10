@@ -1,7 +1,7 @@
 ---
 title: "\"Harmonize Visual & Auditory Elements  Adding Filters & Sound to Windows Photos App\""
-date: 2024-10-03T23:00:10.120Z
-updated: 2024-10-05T11:11:15.664Z
+date: 2024-10-05T17:18:01.602Z
+updated: 2024-10-10T17:47:34.498Z
 tags: 
   - screen-recording
   - ai video
@@ -54,10 +54,10 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -72,24 +72,24 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5**: Hit the ‘Done’ button.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -99,10 +99,10 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -120,16 +120,14 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-non-standard-video-editing-applications-on-windows/"><u>[New] Non-Standard Video Editing Applications on WIndows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-blending-photography-and-sonic-artistry/"><u>[Updated] Blending Photography & Sonic Artistry</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-master-selections-top-editors-for-professional-content/"><u>[Updated] Master Selections Top Editors For Professional Content</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-partitioned-presence-ranking-splittest-cam/"><u>[Updated] Partitioned Presence Ranking Splittest Cam</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-ultimate-camcorders-for-high-quality-podcasts-for-2024/"><u>[Updated] Ultimate Camcorders for High-Quality Podcasts for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-best-practices-choosing-exceptional-cloud-services/"><u>2024 Approved Best Practices Choosing Exceptional Cloud Services</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-key-principles-to-deliver-dynamic-ppt-in-online-meets/"><u>2024 Approved Key Principles to Deliver Dynamic PPT in Online Meets</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/conquering-time-excellent-slow-mo-videos-with-gopro-hero-10/"><u>Conquering Time Excellent Slow-Mo Videos with GoPro Hero 10</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-creating-a-space-for-feedback-talking-with-your-viewers/"><u>In 2024, Creating a Space for Feedback Talking with Your Viewers</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-iphone-15-plus-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from iPhone 15 Plus or iPad?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-5-must-try-samsung-gear-vr-games/"><u>The 5 Must-Try Samsung Gear VR Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-of-background-tracks-selection/"><u>[New] Best of Background Tracks Selection</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-complete-insight-into-sierras-icloud-file-management/"><u>[New] Complete Insight Into Sierra’s iCloud File Management</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-ringtone-reservoir-iphone-voice-memos-2024/"><u>[Updated] Ringtone Reservoir - iPhone Voice Memos 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-cloud-storage-deals-prices-to-watch-for-2024/"><u>Best Cloud Storage Deals – Prices to Watch for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compare-and-save-with-top-6-affordable-camera-picks/"><u>Compare and Save with Top 6 Affordable Camera Picks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-open-video-players-across-operating-systems/"><u>Essential Open Video Players Across Operating Systems</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-mastering-photomontages-a-comprehensive-guide/"><u>In 2024, Mastering PhotoMontages A Comprehensive Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-xiaomi-frp-by-drfone-android/"><u>The Updated Method to Bypass Xiaomi FRP</u></a></li>
 </ul></div>
 

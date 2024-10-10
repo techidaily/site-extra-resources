@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] '3DR' Alone  Unpackaging a Single User Review\""
-date: 2024-08-26T11:52:15.693Z
-updated: 2024-08-27T11:52:15.693Z
+date: 2024-10-06T18:29:40.265Z
+updated: 2024-10-10T17:03:19.337Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 
  The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Complete Review
 
 #### 1\. Basic Specs Info
@@ -67,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 
 ![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
 
  People call 3DR Solo one of the most impressive drone with minimal complexities in design. It is the best product for cinematographic needs and you could easily imagine it hovering on the top to capture scenes for Hollywood movies. You will find a 5200mAh battery on top portion of this drone, located near power button. It appears little heavier with the gimbal, camera and battery installation, the overall weight goes up to 3.35 pounds. Note that, you need to get your drone registered with FAA to organise its flights because the weight goes above 0.5 pounds limit. You will find indicating LEDs on this device that keep on indicating full status during its flights and they can be observed in day light too. Users need to connect this device with a smartphone or iOS device to avail full control as well as to get live preview of shoots.
@@ -83,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
 
 #### 6\. Camera
@@ -97,13 +118,18 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -111,6 +137,25 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-a-step-by-step-guide-to-timestamps-in-video-sharing/"><u>[Updated] A Step-by-Step Guide to Timestamps in Video Sharing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-androidiphones-ultimate-arvr-game-list/"><u>[Updated] Android/iPhone's Ultimate AR/VR Game List</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-how-to-find-youtube-sponsorships-by-using-famebit/"><u>[Updated] In 2024, How to Find YouTube Sponsorships by Using FameBit</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-connecting-worlds-mastering-video-chats-on-xbox-one-with-zoom/"><u>2024 Approved Connecting Worlds Mastering Video Chats on Xbox One with Zoom</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-essential-methods-to-record-your-fb-live-events/"><u>2024 Approved Essential Methods to Record Your FB Live Events</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/fy-your-videos-reach-perfect-title-description-and-tags/"><u>Amplify Your Video's Reach Perfect Title, Description & Tags</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-balanced-tripods-for-dslr-phone-and-tablet-videos-for-2024/"><u>Best Balanced Tripods for DSLR, Phone, and Tablet Videos for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/classic-calls-a-curated-list-of-tone-downloading-sites/"><u>Classic Calls A Curated List of Tone Downloading Sites</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/comprehensive-tutorial-securely-deleting-corporate-information-using-bitraser-technology/"><u>Comprehensive Tutorial: Securely Deleting Corporate Information Using BitRaser Technology</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-to-installing-updated-amd-radeon-drivers-and-overcoming-challenges/"><u>Easy Guide to Installing Updated AMD Radeon Drivers and Overcoming Challenges</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exclusive-directory-of-tones-for-your-snapchat-account/"><u>Exclusive Directory of Tones for Your SnapChat Account</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/expressive-leadership-examination-refined-no-8/"><u>Expressive Leadership Examination - Refined No. 8</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-becoming-an-illustration-maestro-best-mac-free-tools/"><u>In 2024, Becoming an Illustration Maestro - Best Mac Free Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-channels-discovering-gpodc-gold/"><u>In 2024, Best Channels Discovering GPodC Gold</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-from-novice-to-pro-a-complete-exploration-of-zd-software-recording-features/"><u>In 2024, From Novice to Pro A Complete Exploration of ZD Software Recording Features</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/strategies-for-improving-youtubefacebook-video-quality-for-2024/"><u>Strategies for Improving YouTube/Facebook Video Quality for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-customized-text-editing-techniques/"><u>The Ultimate Guide to Customized Text Editing Techniques</u></a></li>
+</ul></div>
+

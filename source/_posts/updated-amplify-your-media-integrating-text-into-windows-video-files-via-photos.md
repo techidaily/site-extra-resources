@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Amplify Your Media  Integrating Text Into Windows Video Files via Photos\""
-date: 2024-10-01T19:46:35.298Z
-updated: 2024-10-04T20:42:47.724Z
+date: 2024-10-05T19:17:57.572Z
+updated: 2024-10-10T17:17:35.245Z
 tags: 
   - screen-recording
   - ai video
@@ -63,10 +63,10 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
@@ -76,24 +76,30 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -102,10 +108,10 @@ To add titles/text to video on Photos in Windows 10 and to make the text move wi
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -123,21 +129,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-basic-story-blueprint/"><u>[New] Basic Story Blueprint</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/rafting-your-niche-top-8-courses-for-aspiring-creators-for-2024/"><u>[New] Crafting Your Niche Top 8 Courses for Aspiring Creators for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-navigating-the-network-speedy-id-snooping-tips/"><u>[Updated] In 2024, Navigating the Network Speedy ID Snooping Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/15-essential-color-filters-to-elevate-gopro-cinematography/"><u>15 Essential Color Filters to Elevate GoPro Cinematography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-make-a-video-from-photo-with-music/"><u>2024 Approved How to Make a Video From Photo with Music</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/best-no-cost-cd-copying-applications-of-the-year-a-comprehensive-list-from-1-to-7/"><u>Best No-Cost CD Copying Applications of the Year: A Comprehensive List From #1 to #7</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/freedomforsounders-review-extraction-excellence/"><u>FreedomForSounders Review Extraction Excellence</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/hide-and-seek-photoshop-tips-for-background-blending/"><u>Hide & Seek Photoshop Tips for Background Blending</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-clear-vision-how-to-cut-out-image-clutter-on-photopea/"><u>In 2024, Clear Vision How to Cut Out Image Clutter on Photopea</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-snickerslide-lighten-up-your-online-presence/"><u>In 2024, SnickerSlide Lighten Up Your Online Presence</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/moving-ios-tunes-onto-mac-seamless-transfer-techniques-for-macbook-pro-air-and-imac-systems/"><u>Moving iOS Tunes Onto Mac: Seamless Transfer Techniques for MacBook Pro, Air and iMac Systems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-the-subreddit-landscape-a-step-by-step-approach/"><u>Navigating the Subreddit Landscape A Step-by-Step Approach</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-connectivity-issues-with-live-config-servers/"><u>Step-by-Step Solutions: Connectivity Issues with Live Config Servers</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-16-applicazioni-di-controllo-della-webcam-gratuite-compatibili-con-windows-11-una-guida-completa/"><u>Top 16 Applicazioni Di Controllo Della Webcam Gratuite Compatibili Con Windows 11: Una Guida Completa</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/k-your-contents-potential-mastering-the-art-of-youtube-featured-listings/"><u>Unlock Your Content's Potential Mastering the Art of YouTube Featured Listings</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unparalleled-live-tv-experience-with-local-channels/"><u>Unparalleled Live TV Experience with Local Channels</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-chronoscope-effect-flip-your-snapchat-videos-right/"><u>[New] 2024 Approved Chronoscope Effect Flip Your Snapchat Videos Right</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-sharing-sites-guide-for-instagram-story-and-post-links/"><u>[New] 2024 Approved Sharing Sites Guide for Instagram Story and Post Links</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-leading-biz-cloud-storage-excellence/"><u>[New] In 2024, Leading Biz Cloud Storage Excellence</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/cripted-sign-offs-for-the-savvy-viewer/"><u>[New] Scripted Sign-Offs for the Savvy Viewer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-easy-tips-to-create-a-funny-meme/"><u>2024 Approved Easy Tips to Create a Funny Meme</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/become-a-pro-editor-in-seconds-canvas-essential-secrets/"><u>Become a Pro Editor in Seconds Canva's Essential Secrets</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/clean-up-your-audio-advanced-techniques-for-removing-background-noise-in-fcpx-for-2024/"><u>Clean Up Your Audio Advanced Techniques for Removing Background Noise in FCPX for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-iphone-hardware-assessment-with-apples-online-exam-services/"><u>DIY iPhone Hardware Assessment with Apple's Online Exam Services</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/historical-gems-art-unshackled-by-laws/"><u>Historical Gems Art Unshackled by Laws</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-craft-a-sonic-whatsapp-update/"><u>In 2024, Craft a Sonic WhatsApp Update</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-poco-f5-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Poco F5 5G?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-color-correction-strategies-using-luts-in-adobe-premiere-pro/"><u>Innovative Color Correction Strategies Using LUTs in Adobe Premiere Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-8-recommended-free-srt-translation-websites-expert-selections/"><u>Top 8 Recommended Free SRT Translation Websites Expert Selections</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-shapley-values-exploring-the-capabilities-of-openais-shape-explainer/"><u>Understanding Shapley Values: Exploring the Capabilities of OpenAI's shapE Explainer</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-dual-window-video-editor-free-online-and-offline-video-splitting-tools/"><u>Updated 2024 Approved Dual-Window Video Editor Free Online and Offline Video Splitting Tools</u></a></li>
 </ul></div>
 

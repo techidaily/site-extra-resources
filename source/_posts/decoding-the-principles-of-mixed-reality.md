@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Principles of Mixed Reality"
-date: 2024-08-26T11:51:28.997Z
-updated: 2024-08-27T11:51:28.997Z
+date: 2024-10-03T17:51:56.821Z
+updated: 2024-10-10T17:47:23.757Z
 tags: 
   - screen-recording
   - ai video
@@ -32,20 +32,34 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
 
  In mixed reality, the user is given the ability to explore the virtual environment and the real world seamlessly at the same time. Through the use space and coordinates, the virtual objects will be positioned on the real world and whenever you move towards the virtual objects, they become larger while moving away from them makes them smaller. Moving around the virtual objects will also give you different angles and perspectives. Additionally, mixed reality will allow users to manipulate the virtual objects and interact with them as if they were with them in the same place.
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How does Mixed Reality work
 
  With the development of the technology is shrouded in secrecy by the major players, all that is known on the operations of the technology is that it uses virtual reality and augmented reality as well as space and coordinates. Magic Leap is the company at the forefront in the development of mixed reality and they have remained tight lipped about the finer details of what they are doing or developing. The scanty details we know however, suggests that just like Hololens, mixed reality will use a projector for displaying images on semi transparent materials which will then be reflected to the eye with the help of beam-splitting technology.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Applications of Mixed Reality
 
  Due to the unique features and experiences offered by mixed reality, businesses, developers and the world in general is beginning to explore the various ways to utilize the technology for the best possible results. Currently, fields such as medicine, architecture and urban planning and education and training appear to be the greatest beneficiary of mixed reality technology.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Mixed Reality for sharing real-world virtual workspaces
 
  When multiple mixed reality devices are brought into a shared space, there will be the creation of new collaboration options. Through mixed reality, members of a team can network in a shared virtual world overlaid in the physical world. A connected environment will thus be created where workers can collaborate and work together and interact with virtual items in the real world. This will be made possible by the utilization of image recognition and real time mapping capabilities of mixed realities.
@@ -53,15 +67,16 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
  Sharing real world virtual spaces through mixed reality can be especially beneficial for sales team when making a pitch for a new offer. For instance, a pharmaceutical sales rep can carry along two mixed reality devices to an appointment with the doctor. The doctor and the sales rep can then both wear the devices and see a model of the new drug as explained by the sales rep. Through this, they can then visualize the chemical composition of the drug and also simulate how the drug will move in the body to fight diseases. Through such a shared experience, the sales rep will not only build deeper connections with the doctor, but also offer a more detailed explanation on the product being offered.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Mixed reality for remote experts – over the shoulder coaching
 
  Most enterprises usually find it difficult to address all the support requests from all the clients in need of expert advice. It is not only costly to fly in specialists to fix things in different locations, but also time consuming. Besides, it is never adequate to troubleshoot an issue over the phone and video conferencing in such situations also have its limitations. But all these can now be avoided through the application of mixed reality for offering over the shoulder coaching remotely. With mixed reality, access to experts can be done quickly and inexpensively. For example, doctors in the healthcare industry can offer guidance and decisions to students or other doctors without the need of being in the actual locations.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The future of mixed reality
 
  Mixed reality comes along with immeasurable potential of changing how people work, interact and communicate with the real world. As the technology matures and the accompanying devices get smaller, it is expected that various sectors and industries will adopt the use of mixed reality in their day to day operations.
@@ -73,15 +88,17 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -89,3 +106,25 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-tech-skills-record-on-hangouts/"><u>[Updated] In 2024, Essential Tech Skills Record on Hangouts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-in-class-writing-workshop/"><u>2024 Approved Best-in-Class Writing Workshop</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bridging-the-gap-in-vr-storytelling-and-innovation-for-2024/"><u>Bridging the Gap in VR Storytelling and Innovation for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-performers-top-picks-from-skate-highlights/"><u>Elite Performers Top Picks From Skate Highlights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-strategies-to-overcome-system-program-not-initialized-problem-on-pc-error-0xc0000098/"><u>Expert Strategies to Overcome System Program Not Initialized Problem on PC (Error 0Xc0000098)</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-oppo-a18-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Oppo A18 Quickly | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-12-mini-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From iPhone 12 mini</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-samsung-galaxy-s23-ultra-easily-by-drfone-android/"><u>In 2024, How To Unlock a Samsung Galaxy S23 Ultra Easily?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-vive-cosmos-standing-strong-in-a-crowded-vr-market/"><u>In-Depth Analysis of the Vive Cosmos - Standing Strong in a Crowded VR Market</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-memetics-a-9gag-creators-manual/"><u>Mastering the Art of Memetics A 9GAG Creator's Manual</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimizing-ppt-video-flow-rates/"><u>Optimizing PPT Video Flow Rates</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-20-video-cameras-expert-reviews/"><u>Top 20 Video Cameras – Expert Reviews</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-30-free-mac-speech-to-text-software-youve-missed/"><u>Top 30 Free Mac Speech-to-Text Software You've Missed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-insights-into-computers-and-peripherals-by-toms-hw/"><u>Top-Rated Insights Into Computers & Peripherals by Tom's HW</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-alternatives-to-facebook-usage/"><u>Unveiling Alternatives to Facebook Usage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-secrets-to-profitable-brands-partnerships-on-youtube/"><u>Unveiling the Secrets to Profitable Brands Partnerships on YouTube</u></a></li>
+</ul></div>
+

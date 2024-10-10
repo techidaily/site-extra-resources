@@ -1,7 +1,7 @@
 ---
 title: "Old World Wonders – iPhone X Portraits"
-date: 2024-08-26T11:54:58.069Z
-updated: 2024-08-27T11:54:58.069Z
+date: 2024-10-05T17:02:22.617Z
+updated: 2024-10-10T17:47:47.724Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,13 @@ In this article, we are going to show you how to take photos in Portrait Mode, o
 * [Part 1: For iPhone 7 Plus/8 Plus/X users](#part1)
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### For iPhone 7 Plus/8 Plus/X users
 
  **Using the Portrait Mode on an iPhone**
@@ -62,8 +69,12 @@ Launch the Camera app, and swipe to the Portrait option, and then tap on the Cam
 If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn't allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### For iPhone 8, 7 or older iPhones users
 
 #### [FabFocus](https://itunes.apple.com/us/app/fabfocus-portraits-with-depth-and-bokeh/id1080434313?mt=8)
@@ -75,8 +86,12 @@ If there is not enough light or if you are too far away from the camera, the app
 ![ezy-watermark-lite-photo](https://images.wondershare.com/filmora/article-images/ezy-watermark-lite-photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.
 
 #### [Tadaa SLR](https://itunes.apple.com/us/app/tadaa-slr/id724662909?mt=8)
@@ -88,8 +103,12 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 ![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
 
 #### [Bokeh Lens](https://itunes.apple.com/us/app/bokeh-lens/id587849880?mt=8)
@@ -100,9 +119,6 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 
 ![signature-photo-annotator](https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
 
 #### [Defocus](https://itunes.apple.com/us/app/defocus/id1048310180?mt=8)
@@ -113,23 +129,15 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 
 ![my-watermarks-a-personal-logo-signature-maker](https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -137,3 +145,24 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-avoid-download-hassle-top-5-online-converters-for-gif-to-video/"><u>[New] Avoid Download Hassle Top 5 Online Converters for GIF to Video</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-enhancing-viewing-experience-mastering-netflixs-floating-window-feature-for-2024/"><u>[New] Enhancing Viewing Experience Mastering Netflix's Floating Window Feature for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-the-art-of-instantaneous-deletion-of-youtube-discussions/"><u>[New] Mastering the Art of Instantaneous Deletion of YouTube Discussions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-above-average-cloud-service-selections/"><u>[Updated] Above-Average Cloud Service Selections</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-becoming-an-expert-in-igtv-a-complete-overview-for-2024/"><u>[Updated] Becoming an Expert in IGTV A Complete Overview for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-most-reliable-iphones-podcast-services/"><u>[Updated] Most Reliable iPhones Podcast Services</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-boosting-clarity-in-web-exhibits-and-presentations/"><u>2024 Approved Boosting Clarity in Web Exhibits and Presentations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-cast-distribution-license-for-screen-viewing/"><u>2024 Approved Cast Distribution License for Screen Viewing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-redefining-creativity-the-most-popular-anime-concepts-on-tiktok/"><u>2024 Approved Redefining Creativity The Most Popular Anime Concepts on TikTok</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/brand-collaboration-for-youtube-for-2024/"><u>Brand Collaboration for YouTube for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/brief-bliss-in-photo-collage-crafting-the-google-way-for-2024/"><u>Brief Bliss in Photo Collage Crafting - The Google Way for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/clear-images-made-easy-picart-backdrop-takedown-technique/"><u>Clear Images Made Easy PicArt Backdrop Takedown Technique</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-itel-a70-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel A70 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/infuse-your-instagram-with-funny-flair-a-complete-guide-to-gif-memes/"><u>Infuse Your Instagram with Funny Flair – A Complete Guide to GIF Memes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-solving-wrongdoers-keyboard-malfunctions-on-pc/"><u>Troubleshooting Guide: Solving 'Wrongdoers' Keyboard Malfunctions on PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721101803807-windows-navigate-and-fix-your-qualcomm-atheros-bluetooth-driver-problems-now/"><u>Windows Navigate and Fix Your Qualcomm Atheros Bluetooth Driver Problems Now!</u></a></li>
+</ul></div>
+

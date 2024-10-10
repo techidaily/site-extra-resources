@@ -1,7 +1,7 @@
 ---
 title: "Haste Assessment of Windows Documents"
-date: 2024-09-30T04:22:25.825Z
-updated: 2024-10-05T04:54:46.220Z
+date: 2024-10-06T17:06:14.000Z
+updated: 2024-10-10T16:11:24.189Z
 tags: 
   - screen-recording
   - ai video
@@ -54,15 +54,22 @@ Step2 Scroll down and download the .msi file. After downloading the installation
 
 ![install the quicklook for windows msi](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins). Then, download the plugins to add additional preview capabilities to Microsoft QuickLook. For example, install the FontViewer, FFmpeg, and OfficeViewer plugins by clicking the respective “Link” buttons.
 
 ![install quicklook for windows plugins](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step4 After a successful installation, find the file you want to preview and select it. Then, tap the space bar to preview the files. And remember, browse ZIP files to view all content.
@@ -70,10 +77,16 @@ Step4 After a successful installation, find the file you want to preview and sel
 **Pro tip**: We recommend installing the QuickLook OfficeViewer plugin to rip open your Office files and view the content inside. This method is recommended if you haven’t installed Microsoft Office on your PC. However, you might notice that the OfficeViewer plugin isn’t supported on your Windows PC. So to install OfficeViewer, select the file and click the space bar to preview it on QuickLook. Then, tap the “Click here to install this plugin” button. Now restart QuickLook and view all your office documents without opening them on their respective programs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Should We Expect Built-in Quick Look on Windows in the Future?
@@ -85,10 +98,10 @@ Meanwhile, it’s expected that QuickLook will come with a small preview screen.
 In other related news, Microsoft will be answering the prayers of their loyal patrons to get tabbed browsing. This is another feature similar to what you currently have on macOS, where you can open new tabs for numerous file locations. In return, this makes moving and copying files more straightforward. This easy-to-navigate addition will definitely make Microsoft Windows users more productive than before.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: Frequently Asked Questions
@@ -104,13 +117,6 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 #### 3\. Can QuickLook for Mac edit files?
 
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -146,18 +152,20 @@ This guidepost is another testament that your PC has massive hidden abilities. W
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-a-citizens-guide-to-poking-through-public-broadcast-archives/"><u>[New] A Citizen's Guide to Poking Through Public Broadcast Archives</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-action-cameras-for-stabilized-shots/"><u>[Updated] Ideal Action Cameras for Stabilized Shots</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-best-practices-for-online-vhs-image-retouching-and-editing/"><u>2024 Approved Best Practices for Online VHS Image Retouching and Editing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cableless-game-controls-connecting-ps3-to-pc/"><u>Cableless Game Controls: Connecting PS3 to PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-zte-axon-40-lite-to-mac-drfone-by-drfone-android/"><u>How to Mirror ZTE Axon 40 Lite to Mac? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-an-in-depth-examination-of-samsungs-picture-editing-tech/"><u>In 2024, An In-Depth Examination of Samsung’s Picture Editing Tech</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-samsung-galaxy-f14-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Samsung Galaxy F14 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/live-streamers-predicament-pick-between-wirecast-and-obs/"><u>Live Streamer's Predicament Pick Between Wirecast and OBS</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/organize-and-share-music-how-to-make-youtube-playlists-easier/"><u>Organize and Share Music How to Make YouTube Playlists Easier</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/scouting-for-subtle-sophisticated-and-spare-tiktok-screenshots/"><u>Scouting for Subtle, Sophisticated, and Spare TikTok Screenshots</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/vida-app-review-cutting-edge-video-editing-at-your-fingertips/"><u>Vida App Review Cutting-Edge Video Editing at Your Fingertips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-11-dvd-iso-dvd/"><u>Windows 11用無料 DVD ISO バックアップツール - DVDをコピーしてディスク範囲保存</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-immersive-vr-bicycle-journeys-to-try/"><u>[Updated] 2024 Approved Immersive VR Bicycle Journeys to Try</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-boost-your-photography-game-complimentary-basics-plus-expandable-paid-lut-options/"><u>[Updated] Boost Your Photography Game Complimentary Basics + Expandable Paid LUT Options</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-slowing-down-action-iphone-filmmaking-tricks/"><u>[Updated] Slowing Down Action IPhone Filmmaking Tricks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-amplify-volume-for-twitters-silent-videos/"><u>2024 Approved Amplify Volume for Twitter's Silent Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-cyberlink-screen-recorder-review/"><u>2024 Approved Cyberlink Screen Recorder Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/effortless-mp4-editing-on-windows-8-a-user-friendly-guide/"><u>Effortless MP4 Editing on Windows 8 A User-Friendly Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/file-sync-up-the-5-fundamental-ways-for-your-computer-upload/"><u>File Sync-Up The 5 Fundamental Ways for Your Computer Upload</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-google-pixel-7a-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Google Pixel 7a</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/maximizing-your-sound-the-best-microphones-for-podcasting/"><u>Maximizing Your Sound The Best Microphones for Podcasting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/smooth-shadows-and-dynamics-motion-blur-techniques-explained/"><u>Smooth Shadows and Dynamics Motion Blur Techniques Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-for-uploading-dvd-files-to-your-google-drive-account/"><u>Step-by-Step Instructions for Uploading DVD Files to Your Google Drive Account</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-addressing-the-missing-rpcrt4dll-error-effectively/"><u>Step-by-Step: Addressing the Missing rpcrt4.dll Error Effectively</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlining-avi-to-gif-transitions-on-pcmac-via-filmora-pro/"><u>Streamlining AVI to GIF Transitions on PC/Mac via Filmora Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-7-essential-windows-applications-must-have-tools-for-your-pc/"><u>Top 7 Essential Windows Applications: Must-Have Tools for Your PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-8-best-tripods-for-4k-camera/"><u>Top 8 Best Tripods for 4K Camera</u></a></li>
 </ul></div>
 

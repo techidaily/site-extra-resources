@@ -1,7 +1,7 @@
 ---
 title: "\"Photographic Pastime  IPhone X Retro Clicks\""
-date: 2024-09-30T18:15:53.771Z
-updated: 2024-10-05T00:49:16.378Z
+date: 2024-10-09T19:10:05.114Z
+updated: 2024-10-10T16:45:56.517Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,13 @@ In this article, we are going to show you how to take photos in Portrait Mode, o
 * [Part 1: For iPhone 7 Plus/8 Plus/X users](#part1)
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### For iPhone 7 Plus/8 Plus/X users
 
  **Using the Portrait Mode on an iPhone**
@@ -55,31 +62,11 @@ The iPhone X can also take Portrait selfies thanks to the TrueDepth front camera
 
 ![portrait-mode-selfie-iphone-x](https://images.wondershare.com/filmora/article-images/portrait-mode-selfie-iphone-x.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Image resource: imore
 
 Launch the Camera app, and swipe to the Portrait option, and then tap on the Camera Swap feature to start using the front camera on your iPhone. Find the Portrait Lightning feature in the camera's Portrait mode, then select one of the options provided by the Portrait Lightning such as Studio Light or Natural light, and proceed to snap a selfie by tapping on the shutter button.
 
 If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn't allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### For iPhone 8, 7 or older iPhones users
 
@@ -92,10 +79,16 @@ If there is not enough light or if you are too far away from the camera, the app
 ![ezy-watermark-lite-photo](https://images.wondershare.com/filmora/article-images/ezy-watermark-lite-photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.
@@ -107,13 +100,6 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 **Compatible with:** iOS 8.0 or later
 
 ![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
 
@@ -135,9 +121,23 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 
 ![my-watermarks-a-personal-logo-signature-maker](https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -154,15 +154,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-capture-and-replay-top-tools-to-secure-every-web-moment/"><u>[Updated] 2024 Approved Capture & Replay Top Tools to Secure Every Web Moment</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-av1s-edge-in-efficiency-over-vp9/"><u>2024 Approved AV1's Edge in Efficiency Over VP9</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-essential-tools-reviewed-enhancing-your-digital-sound-presence/"><u>2024 Approved Essential Tools Reviewed Enhancing Your Digital Sound Presence</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-taking-views-viral-the-ultimate-guide-for-youtube-success/"><u>2024 Approved Taking Views Viral The Ultimate Guide for YouTube Success</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/all-inclusive-guide-what-is-googles-podcast-service/"><u>All-Inclusive Guide What Is Google's Podcast Service?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/artisans-nexus-reports-in-depth-studio-scrutiny-2023-edition-for-2024/"><u>Artisan's Nexus Reports In-Depth Studio Scrutiny, 2023 Edition for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-voice-easy-a-curated-list-of-software-for-simplified-vocal-recordings/"><u>New Voice Easy A Curated List of Software for Simplified Vocal Recordings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premier-vr-screens-producers/"><u>Premier VR Screens Producers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ready-for-screen-talent-access-agreement/"><u>Ready for Screen Talent Access Agreement</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-best-rated-high-capacity-battery-for-travelers-and-professionals-with-the-unicharger-maxprotect-design/"><u>The Best Rated High Capacity Battery for Travelers and Professionals with the UniCharger MaxProtect Design.</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-innovate-your-farming-journey-with-these-stardews-top-7-mods-for-2024/"><u>[New] Innovate Your Farming Journey with These Stardew's Top 7 Mods for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-prime-youtube-personalities-and-their-stellar-subscriber-tally/"><u>[Updated] 2024 Approved Prime YouTube Personalities and Their Stellar Subscriber Tally</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-the-world-of-aspect-ratios-in-youtube-content/"><u>[Updated] Exploring the World of ASPECT RATIOS in YOUTUBE Content</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-joining-flv-files-a-step-by-step-guide-for-2024/"><u>[Updated] Joining FLV Files A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-navigating-the-market-selecting-from-top-15-tripodsmounts/"><u>[Updated] Navigating the Market Selecting From Top 15 Tripods/Mounts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-screen-scribes-a-critical-look-at-modern-recorders/"><u>[Updated] Screen Scribes A Critical Look at Modern Recorders</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breathtaking-judgment-and-variant-proposals/"><u>2024 Approved Breathtaking Judgment & Variant Proposals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-creativity-mobile-gadgets-ranking-leaders/"><u>Capturing Creativity Mobile Gadgets Ranking Leaders</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-the-perfect-voice-and-vision-for-docs-for-2024/"><u>Crafting the Perfect Voice and Vision for Docs for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-apple-iphone-se-2020-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your Apple iPhone SE (2020) Is Unlocked</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/key-takeaways-from-reviewing-zdsofts-vision-recorder/"><u>Key Takeaways From Reviewing ZDSoft's Vision Recorder</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-guide-to-viewing-vr-films-and-games-on-ios/"><u>Step-by-Step Guide to Viewing VR Films & Games on IOS</u></a></li>
 </ul></div>
 

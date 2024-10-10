@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Boost Visual Impact  Learning to Edit Videos Using StoryRemix and Windows Photos\""
-date: 2024-08-26T11:57:04.293Z
-updated: 2024-08-27T11:57:04.293Z
+date: 2024-10-03T18:19:27.091Z
+updated: 2024-10-10T16:12:25.903Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,13 @@ Go to **Start** menu and open **Windows Photos**. you can see videos and photos 
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to create Story Remix automatically and randomly
 
 In this part of the article, we would elaborate creation of Story Remix in different ways. The content is auto-generated or you can manually create it from scratch. The automatic method has themes, transitions, and soundtracks within.
@@ -68,6 +75,13 @@ How to create a Story Remix project automatically –
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-name-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to create a Story Remix project from scratch
 
 Here is the guide –
@@ -81,18 +95,12 @@ Here is the guide –
 1. Hit on **Create video** afterwards.
 2. Now, you can preview, edit or share your video.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How to edit a Story Remix video
 
 Story Remix has 3 major sections namely, media bin consists of files already included in your card-based timeline and files that you chose in previous steps; preview section with recent changes and timeline shows the card with a running video; and the timeline having the option to drag and drop cards from the media bin.
 
 In the following sections, we have segregated each editing feature of Story Mix for you to explore –
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Adding a new theme
 
 A theme is a built-in feature in Photos, just like music, filters, and text styles. Adding a theme does everything on the go.
@@ -102,9 +110,6 @@ A theme is a built-in feature in Photos, just like music, filters, and text styl
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-theme-min.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Adding image duration
 
 While adding media to the timeline in Story Mix, you will see that there is a default timeline for each image. To adjust the duration, you can do –
@@ -114,11 +119,12 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-duration-min.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ### Adding custom text
 
 1. Choose card from timeline, click ‘Text’ and feed the custom text in the box located at right side. You can simply use animated text styles too.
@@ -127,9 +133,6 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-text-min.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Adding motion
 
 1. Firstly, choose the content from the timeline and hit on ‘Motion’. Now, select camera motion style from ‘Zoom in center’/’Zoom in right’/’Pan left’/’Tilt up’ etc.
@@ -137,14 +140,18 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-motion-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Trimming video clips
 
 1. Pick the video from timeline and choose ‘Trim’ button. Mark the trim area and click ‘Play’ to preview.
 2. Hit ‘Done’ in the end.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 5: How to add 3D effects to a Story Remix project
 
 Adding 3D special effects to video clips is one of the lucrative features of Photos app.
@@ -170,6 +177,13 @@ Now, pick the app or contact and send the video.
 
 Recent videos are found on ‘Collections’ section if they are auto created. Otherwise, all the Story Remix files are located permanently on ‘Creations’ section.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 From this article, we are sure that you have got plenty to learn about Story Remix. This wonderful feature from Windows 10 Photos is going to win hearts.
@@ -181,20 +195,26 @@ If you want to edit video, we recommend [Wondershare Filmora](https://tools.tech
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -202,3 +222,27 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-best-practices-top-5-audio-recording-approaches-on-windows-11-platform-for-2024/"><u>[New] Best Practices Top 5 Audio Recording Approaches on Windows 11 Platform for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-giggle-galore-twitters-top-10-joke-threads/"><u>[New] Giggle Galore Twitter's Top 10 Joke Threads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-hdr-photoshop-how-to-create-hdr-images-in-photoshop-like-a-pro/"><u>[New] HDR Photoshop How to Create HDR Images in Photoshop Like a Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-audio-visual-innovators-group/"><u>[Updated] Audio-Visual Innovators Group</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-google-voice-calls-the-ultimate-guide-for-2024/"><u>[Updated] Mastering Google Voice Calls The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-realme-12plus-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Realme 12+ 5G without App | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6 to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-the-latest-version-of-intel-centrino-advanced-n-6235-wireless-lan-driver-tips-and-tricks/"><u>How to Install the Latest Version of Intel Centrino Advanced-N 6235 Wireless LAN Driver: Tips and Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-benchmark-of-best-4k-youtube-to-mp3-video-processors/"><u>In 2024, Benchmark of Best 4K YouTube to MP3 Video Processors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-bp550-review-latest-tech-advances/"><u>In 2024, BP550 Review Latest Tech Advances</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-captivating-conversations-mastering-zooms-filter-features/"><u>In 2024, Crafting Captivating Conversations Mastering Zoom's Filter Features</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-sony-xperia-1-v-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Sony Xperia 1 V to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/make-your-own-meme-now/"><u>Make Your Own Meme Now</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seamless-adjustment-for-videos-and-graphics/"><u>Seamless Adjustment for Videos and Graphics</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-for-quickly-installing-corsair-void-pro-drivers-windows/"><u>Step-by-Step Tutorial for Quickly Installing Corsair Void Pro Drivers (Windows)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visual-storytelling-through-photomosaics/"><u>Visual Storytelling Through Photomosaics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/win-11-two-approaches-to-reactivate-photo-viewer-functionality/"><u>Win 11 Two Approaches to Reactivate Photo Viewer Functionality</u></a></li>
+</ul></div>
+

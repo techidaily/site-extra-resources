@@ -1,7 +1,7 @@
 ---
 title: "Quick Steps to Clear the Exterior of Your Photos in Affinity"
-date: 2024-09-29T00:42:17.738Z
-updated: 2024-10-04T21:19:04.102Z
+date: 2024-10-03T19:08:45.705Z
+updated: 2024-10-10T18:20:45.714Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,13 @@ No matter you are a professional content creator or a newbie, we'll be discussin
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Erase a White Background in Affinity Designer
 
 To erase a white background in Affinity Designer, do these steps:
@@ -36,16 +43,16 @@ Now access the **Pixel Persona** section in the left corner of the software scre
 
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
@@ -64,10 +71,10 @@ Step5 In the last step, press the **"Delete"** key on your keyboard to remove th
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Remove a Busy Background in Affinity Designer
@@ -97,13 +104,6 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
 ## The Best Alternative of Affinity Photo
@@ -113,13 +113,6 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
@@ -136,13 +129,6 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Create a free account for easier future access.
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -162,6 +148,19 @@ Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.co
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
 * Offline and online image editing tools.
@@ -177,6 +176,13 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Create a free account for easier future access.
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -212,17 +218,19 @@ Hopefully, this article and video can help you create ideal images!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-can-you-stream-fb-videos-on-your-living-room-screen-this-year/"><u>[New] Can You Stream FB Videos On Your Living Room Screen This Year?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-chic-characters-cheeky-captions-making-memes/"><u>[New] Chic Characters, Cheeky Captions Making Memes</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/lear-distraction-free-viewing-of-old-youtube-content-for-2024/"><u>[New] Clear, Distraction-Free Viewing of Old YouTube Content for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-jargon-primer-for-virtual-experiences/"><u>[Updated] A Jargon Primer for Virtual Experiences</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-augmented-reality-shading-exploiting-free-lut-resources-for-ar/"><u>[Updated] Augmented Reality Shading Exploiting Free LUT Resources for AR</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-perfect-palette-playbook-mastering-the-art-of-grading/"><u>[Updated] Perfect Palette Playbook Mastering the Art of Grading</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-a-beginners-pathway-for-live-streaming-pre-recorded-content/"><u>2024 Approved A Beginner's Pathway for Live Streaming Pre-Recorded Content</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-construct-memetic-mirth/"><u>2024 Approved Construct Memetic Mirth</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-from-graphic-geniuses-to-sticker-stars-in-all-chat-apps/"><u>2024 Approved Step by Step From Graphic Geniuses to Sticker Stars in All Chat Apps</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-meizu-21-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Meizu 21 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/repair-guide-what-to-do-when-your-internet-explorer-keeps-freezing/"><u>Repair Guide: What To Do When Your Internet Explorer Keeps Freezing</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-realme-11-pro-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Realme 11 Pro Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-non-twitter-video-tweeting-hacks-for-the-modern-user/"><u>[New] 2024 Approved Non-Twitter Video Tweeting Hacks for the Modern User</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-knowledge-hub-leading-educational-youtube-sources/"><u>[Updated] 2024 Approved Knowledge Hub Leading Educational YouTube Sources</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-masterpiece-scenes-to-perfect-your-edits-for-2024/"><u>10 Masterpiece Scenes to Perfect Your Edits for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-excellent-replacements-to-top-rated-fbx-recorder-apps/"><u>2024 Approved Excellent Replacements to Top-Rated FBX Recorder Apps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-where-creators-converge-and-craft-visual-stories-in-youtube-studio/"><u>2024 Approved Where Creators Converge and Craft Visual Stories in Youtube Studio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-the-essence-of-time-lapse-videos-pro-techniques-for-gopro-hero-10-users-for-2024/"><u>Capturing the Essence of Time-Lapse Videos Pro Techniques for GoPro Hero 10 Users for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-amazons-fire-hd-10-ideal-multi-media-device-for-all-generations/"><u>Comprehensive Review of Amazon's Fire HD 10 - Ideal Multi-Media Device for All Generations</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-iphone-xr-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the iPhone XR Without Previous Owner?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/increased-firepower-unveiling-the-enhanced-gunplay-in-mass-effect-legendary-edition/"><u>Increased Firepower: Unveiling the Enhanced Gunplay in Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/investigating-the-underreported-drawbacks-of-vr/"><u>Investigating the Underreported Drawbacks of VR</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-visual-storytelling-the-top-cinematic-secrets/"><u>Mastering Visual Storytelling The Top Cinematic Secrets</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/step-by-step-guide-capturing-directx-12-gameplay-with-screen-recording-tools/"><u>Step-by-Step Guide: Capturing DirectX 12 Gameplay with Screen Recording Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-enabling-automatic-user-authentication-on-your-windows-pc/"><u>Step-by-Step Guide: Enabling Automatic User Authentication on Your Windows PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-window-to-world-class-video-playback/"><u>Ultimate Window to World-Class Video Playback</u></a></li>
 </ul></div>
 

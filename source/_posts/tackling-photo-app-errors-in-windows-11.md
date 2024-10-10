@@ -1,7 +1,7 @@
 ---
 title: "Tackling Photo App Errors in Windows 11"
-date: 2024-10-02T16:20:01.181Z
-updated: 2024-10-04T17:11:10.704Z
+date: 2024-10-07T17:17:42.616Z
+updated: 2024-10-10T18:43:22.421Z
 tags: 
   - screen-recording
   - ai video
@@ -43,10 +43,10 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 ## How to fix Windows 10 Photos app crashes
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 1: Use the Troubleshooter
@@ -60,22 +60,8 @@ Here is how to troubleshoot –
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
 
@@ -90,13 +76,6 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 3: Reset it
 
 When you reset the Windows Photo App itself, your issue gets resolved. Plenty of Windows users have mentioned that resetting the Photo App has fixed the unresponsive or crashing app problems.
@@ -106,6 +85,13 @@ Here is how can you reset it –
 1. Go to ‘Windows 10 Start Menu’ and then click ‘Settings’. Now, click the ‘Apps (Apps & Features)’ option followed by the ‘Photos’ app.
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 4: Repair Photos App package
 
@@ -117,6 +103,13 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 2. Key in the command followed by ‘Enter’: Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)\\AppXManifest.xml”}
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 5: Reinstall Windows 10 Photos app
 
@@ -135,6 +128,13 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -152,19 +152,15 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-premium-audio-packs-for-visual-storytelling/"><u>[New] Premium Audio Packs for Visual Storytelling</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/op-15-science-youtube-channels-to-expand-knowledge/"><u>[New] Top 15 Science YouTube Channels to Expand Knowledge</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-vibrant-visions-a-guide-through-the-top-5-color-tvs/"><u>[Updated] 2024 Approved Vibrant Visions A Guide Through the Top 5 Color TVs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-balanced-photography-top-phones-and-cameras-tripod/"><u>[Updated] Balanced Photography Top Phones & Cameras Tripod</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-reviewing-multiple-cameras-are-there-upgrades-in-2024/"><u>[Updated] Reviewing Multiple Cameras Are There Upgrades, In 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/access-all-shows-seamless-apods-installation-tips/"><u>Access All Shows Seamless APods Installation Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/capturing-stardust-the-premier-10-sites-for-hdr-skyscapes-for-2024/"><u>Capturing Stardust The Premier 10 Sites for HDR Skyscapes for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/clear-shots-a-guide-to-still-image-stability/"><u>Clear Shots A Guide to Still Image Stability</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/come-scegliere-i-piu-performanti-e-gratuiti-convertitori-video-una-guida-completa/"><u>Come Scegliere I Più Performanti E Gratuiti Convertitori Video: Una Guida Completa</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exploring-the-unexpected-sideway-effects-in-ig-videos/"><u>Exploring the Unexpected Sideway Effects in IG Videos</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-changefake-your-xiaomi-redmi-13c-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Xiaomi Redmi 13C Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-windows-8-movie-maker-like-a-pro/"><u>Navigating Windows 8 Movie Maker Like a Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-make-your-own-reaction-videos-with-these-top-rated-apps/"><u>Updated In 2024, Make Your Own Reaction Videos with These Top-Rated Apps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-download-made-easy-master-the-art-of-using-ifunny-memes/"><u>[New] 2024 Approved Download Made Easy Master the Art of Using iFunny Memes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capture-lifes-movement-integrating-motion-blur-into-face-photography-with-picsart/"><u>2024 Approved Capture Life's Movement Integrating Motion Blur Into Face Photography with Picsart</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-lava-blaze-curve-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Lava Blaze Curve 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/circulating-camera-mounts-for-vr-for-2024/"><u>Circulating Camera Mounts for VR for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/cut-the-excess-enhancing-your-feed-focus/"><u>Cut the Excess: Enhancing Your Feed Focus</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-video-production-quality-by-integrating-luts-in-your-obs-setup/"><u>Elevate Video Production Quality by Integrating LUTs in Your OBS Setup</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-a1x-5g-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Oppo A1x 5G support - Forgotten screen lock.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photographic-poise-achieving-dynamic-motion-blur-on-facial-elements-through-picsart/"><u>Photographic Poise Achieving Dynamic Motion Blur on Facial Elements Through Picsart</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rogue-game-crash-dilemma-discover-solutions-for-uninterrupted-gaming-experience-on-your-computer/"><u>Rogue Game Crash Dilemma? Discover Solutions for Uninterrupted Gaming Experience on Your Computer</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719150501428-which-app-connects-you-best-survey-here/"><u>Which App Connects You Best? Survey Here!</u></a></li>
 </ul></div>
 
