@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Altitude Achieved  A Critical Look at GoPro Karma\""
-date: 2024-08-19T20:35:13.995Z
-updated: 2024-08-20T20:35:13.995Z
+date: 2024-10-14T16:05:41.216Z
+updated: 2024-10-16T19:57:42.702Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/e61ec8b8b6fcdc5ae49f80ff7f35fd26c15f5f9f2
 
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Detailed review for GoPro Karma
 
 #### 1\.  Price
@@ -87,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/e61ec8b8b6fcdc5ae49f80ff7f35fd26c15f5f9f2
 
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
 
 #### Conclusion
@@ -95,13 +109,18 @@ Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -109,15 +128,23 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tiktok-hits-twitters-viral-top-10-list/"><u>[New] 2024 Approved TikTok Hits Twitter's Viral Top 10 List</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-complete-manual-for-logging-and-storing-periscope-video/"><u>[New] A Complete Manual for Logging & Storing Periscope Video</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-artistry-in-your-pocket-the-bestiary-of-top-8-iphone-drawing-apps/"><u>[Updated] Artistry in Your Pocket The Bestiary of Top 8 iPhone Drawing Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-auditory-interface-excellence-for-podcasters/"><u>[Updated] Auditory Interface Excellence For Podcasters</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-exploring-the-merits-of-obs-studio-and-fraps-for-recording-screens-for-2024/"><u>[Updated] Exploring the Merits of OBS Studio & Fraps for Recording Screens for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-elite-5-youtube-channel-power-players/"><u>[Updated] In 2024, The Elite 5 YouTube Channel Power Players</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-joke-jingles-top-online-ringtone-sources/"><u>[Updated] Joke Jingles Top Online Ringtone Sources</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-advanced-tips-perfecting-photos-with-onscreen-cropping/"><u>2024 Approved Advanced Tips Perfecting Photos with Onscreen Cropping</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-cold-games-2022s-ultimate-snowboard-dueling-display/"><u>2024 Approved Cold Games 2022'S Ultimate Snowboard Dueling Display</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pajama-plots-revisited-critique-and-analysis-for-kids-slumber/"><u>2024 Approved Pajama Plots Revisited Critique and Analysis for Kids' Slumber</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-s18-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo S18 Pro Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-online-help-desk-for-winx-dvd-ripping-and-video-conversion-tool/"><u>Expert Online Help Desk for WinX DVD Ripping & Video Conversion Tool</u></a></li>
+<li><a href="https://fox-access.techidaily.com/precise-methods-for-creating-impactful-client-spots-on-film-for-2024/"><u>Precise Methods for Creating Impactful Client Spots on Film for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streaming-showdown-which-superior-broadcaster-tool-are-you/"><u>Streaming Showdown Which Superior Broadcaster Tool Are You?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/toggle-pip-for-streaming-youtube-videos-more-conveniently-with-iphone/"><u>Toggle PIP for Streaming Youtube Videos More Conveniently with iPhone</u></a></li>
+</ul></div>
+

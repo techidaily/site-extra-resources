@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capturing the World From Above in Stunning HD - Mi Drone Deep Dive\""
-date: 2024-10-05T19:25:07.078Z
-updated: 2024-10-10T19:30:55.382Z
+date: 2024-10-09T22:30:43.536Z
+updated: 2024-10-16T17:08:05.337Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ In the last few years, Xiaomi has developed remarkable performance in the market
 Even with a reasonable price tag, this advanced drone unit has several features to offer its users. The most impressive one is its 4K recording ability with higher stability whereas still shots are recorded with 1080p resolution level. The wireless transmitter is designed with 2.4GHz frequency range whereas the altitude range goes as high as up to 800m. Control distance offered by Xiaomi MI is 3000m and the overall flight time offered by this tiny drone unit is 27 min. It has 5199mAh rechargeable battery with 17.4 Volt rating that takes total 3 and half hours for complete charging.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Design
@@ -70,10 +70,16 @@ Like most of the advanced drone units, Xiaomi Mi also features autonomous flying
 The most amazing feature of Xiaomi Mi is its ability to communicate via mobile phone so that users can manage the recording focus of its camera. One more appreciable feature is its surrounded flight ability; you can make it circle around any specific object by sending commands from a smartphone. You will love to capture videos with its 360-degree motion ability that leads to incredible clicks. How can we forget to talk about the most advanced feature of this special drone unit that is Preset Rout following ability! Users can make pre adjustments for all flights and it will capture smooth shots every time. The automatic landing and takeoff feature helps in easy controls whereas if this drone goes far from 3meter range then it will switch back to its preset path. It is possible to bring this drone back with only one button and in order to improve its performance, you can access the calibration settings. Note that, if somehow your drone gets lost then it will take almost 30 to 45 minutes for coming back.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Control Range
@@ -81,28 +87,28 @@ The most amazing feature of Xiaomi Mi is its ability to communicate via mobile p
 As we have discussed earlier that Xiaomi Mi is designed to work on 2.4GHz transmitter frequency range. It has left-hand throttle ability along with the handy built-in type phone clamp. In order to operate this drone from remote distance you simply need to configure its flight settings to Mode 2\. Note that MI is able to fly at a maximum height of 800m and it can go as far as up to 3000 meters from the operator.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Camera
 
 Xiaomi Mi Drone unit comes with two different variants where the professional one carries 4K camera unit with it and another variant is able to handle 1080P resolution level. Note that the 4K camera comes with 12.4MP sensor from Sony and it works with the Ambarella image processor. You can set its frame rate up to 30fps. Another option is 1080p resolution setting that comes with 16.4 megapixel sensor from Sony along with Ambarella Image Processor. In this case frame rate can go as high as up to 60 fps. The 2.4GHz transmitter further ensures interference free recording in air.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 The 1080p variant of Mi Drone is available with a price tag of $380 whereas for 4K camera facility you need to pay $460 when ordered from China. All the advanced features of this drone unit make it suitable for professional users. It can beat several high-end competitors with its all-new specifications. Prefer to carry an additional battery for your long-distance tours so that you can enjoy all-time flights without worrying about battery backup.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -119,22 +125,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-expertly-handling-timecodes-in-srt-using-macos-tools-for-2024/"><u>[Updated] Expertly Handling Timecodes in SRT Using macOS Tools for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-10-final-cut-pro-plug-ins/"><u>2024 Approved 10 Final Cut Pro-Plug-Ins</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-audioadvisor-dacast-and-what-it-should-be/"><u>2024 Approved AudioAdvisor DaCast & What It Should Be</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-access-essential-windows-10-tips/"><u>2024 Approved Quick Access Essential Windows 10 Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-value-budget-friendly-pros-for-high-impact-sports/"><u>Best Value Budget-Friendly Pros for High-Impact Sports</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/demystifying-oled-mechanisms-for-enhanced-visual-experience/"><u>Demystifying OLED Mechanisms for Enhanced Visual Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/digital-retrofit-modernizing-windows-11-with-a-98-twist/"><u>Digital Retrofit: Modernizing Windows 11 with a '98 Twist</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exclusive-apple-discounts-mega-deals-for-prime-day-shoppers/"><u>Exclusive Apple Discounts: Mega Deals for Prime Day Shoppers!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-add-videos-to-youtube-playlist/"><u>How to Add Videos to YouTube Playlist?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/identifying-the-best-online-tv-service-providers/"><u>Identifying the Best Online TV Service Providers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-4kplus-3d-blu-ray-magic-high-end-players-guide/"><u>In 2024, 4K+ 3D Blu-Ray Magic High-End Players Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-arcane-acoustics-how-legit-is-the-vocal-transformation-application-look-elsewhere/"><u>In 2024, Arcane Acoustics How Legit Is the Vocal Transformation Application? Look Elsewhere</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-backtrack-broadcasts-effortlessly-with-these-20-stream-steps/"><u>In 2024, Backtrack Broadcasts Effortlessly with These 20 Stream Steps</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-expert-strategies-for-effective-gopro-time-lapse-footage/"><u>In 2024, Expert Strategies for Effective GoPro Time-Lapse Footage</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/lighten-up-with-funny-images-in-adobe/"><u>Lighten Up with Funny Images in Adobe</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-audio-during-your-twitch-stream-heres-how-you-can-fix-the-problem/"><u>No Audio During Your Twitch Stream? Here’s How You Can Fix the Problem!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721775112406-not-on-board-with-waiting-for-chatgpt-embrace-this-superb-free-open-source-solution-now/"><u>Not on Board with Waiting for ChatGPT? Embrace This Superb Free, Open-Source Solution Now!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-from-dull-to-delightful-how-to-craft-standout-youtube-thumbnails/"><u>[New] 2024 Approved From Dull to Delightful How To Craft Standout YouTube Thumbnails</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-asmr-a-sound-path-to-wellness/"><u>[New] ASMR A Sound Path to Wellness?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-gelato-gaze-guide-thorough-analysis-and-detailed-instructions-on-ice-cream-monitoring/"><u>[Updated] 2024 Approved Gelato Gaze Guide Thorough Analysis & Detailed Instructions on Ice Cream Monitoring</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-10-cost-effective-video-players-on-linuxwindowsmac/"><u>[Updated] Explore 10 Cost-Effective Video Players on Linux/Windows/Mac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-override-auto-suggesting-feature-for-podcasts-in-spotify/"><u>[Updated] Override Auto-Suggesting Feature for Podcasts in Spotify</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-comprehensive-guide-to-affordable-video-enhancement-websites/"><u>2024 Approved A Comprehensive Guide to Affordable Video Enhancement Websites</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-concealed-crusaders-conflict-with-clarion-champion/"><u>2024 Approved Concealed Crusader's Conflict with Clarion Champion</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-metaverse-characters-made-simple-easy-avatar-crafting-tips/"><u>2024 Approved Metaverse Characters Made Simple Easy Avatar Crafting Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-discovering-the-latest-mac-os-version/"><u>Comprehensive Guide: Discovering the Latest Mac OS Version</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-light-intensity-of-lenovo-screens/"><u>Enhancing Light Intensity of Lenovo Screens</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-17-programs-to-purge-picture-backgrounds/"><u>Essential 17 Programs to Purge Picture Backgrounds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/excellence-in-starting-points-for-panzoids/"><u>Excellence in Starting Points for Panzoids</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expertly-enhance-photos-with-free-technology/"><u>Expertly Enhance Photos with Free Technology</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harvest-high-quality-pics-the-free-edition-guide/"><u>Harvest High-Quality Pics The Free Edition Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015159371-hyperx-cloud-stinger-mic-malfunction-heres-how-you-can-repair-it/"><u>HyperX Cloud Stinger Mic Malfunction? Here's How You Can Repair It!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-boost-podcast-visibility-through-strategic-seo-tactics/"><u>In 2024, Boost Podcast Visibility Through Strategic SEO Tactics</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-iphone-xs-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My iPhone XS?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-pinnacle-of-photonic-innovation-sonys-xperia-xz-premium/"><u>The Pinnacle of Photonic Innovation Sony's Xperia XZ Premium</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-apple-iphone-7-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 7 Without iTunes in 5 Ways | Dr.fone</u></a></li>
 </ul></div>
 

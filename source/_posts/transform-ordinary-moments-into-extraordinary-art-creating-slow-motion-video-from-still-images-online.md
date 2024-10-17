@@ -1,7 +1,7 @@
 ---
 title: "\"Transform Ordinary Moments Into Extraordinary Art  Creating Slow Motion Video From Still Images Online\""
-date: 2024-10-04T18:08:31.177Z
-updated: 2024-10-10T16:36:11.101Z
+date: 2024-10-12T01:26:16.450Z
+updated: 2024-10-16T16:52:46.057Z
 tags: 
   - screen-recording
   - ai video
@@ -52,19 +52,6 @@ Now you can select the beginning and end point using the bottom slider on the Ph
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/make-slow-motion-microsoft-photos.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 We recommend that you save your video file under a new name when you are done making your desired changes. It ensures that you still have the original copy of the video saved on your computer or external hard drive.
 
 You can even create multiple versions of the file with the slow motion effect applied in different ways. Then you can watch the videos you just created to decide on the best version.
@@ -76,10 +63,16 @@ You can even create multiple versions of the file with the slow motion effect ap
 If you are not able to access a Windows computer, you may want a solution that can be used online. The good news is that you can use some [online video speed changers](https://tools.techidaily.com/wondershare/filmora/download/)to add a slow motion effect to your content.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [EZGif](https://ezgif.com/video-speed)
@@ -95,10 +88,10 @@ Click on the “upload video” button so that it can be added into the database
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/ezgif-change-videos-speed-import.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3: Output**
@@ -108,10 +101,16 @@ The program will let you adjust the video speed to your liking. Then you will ge
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/change-video-speed-ezgif-edit.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -119,6 +118,13 @@ The program will let you adjust the video speed to your liking. Then you will ge
 Now that you have understood how to add the effect of slow motion in Windows 10 Photos, you will be able to tweak your videos even more. The Photos application has many other features that you may want to check out, which will help you edit images and videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -135,20 +141,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-mastery-in-purchasing-pristine-stock-images/"><u>[New] 2024 Approved Mastery in Purchasing Pristine Stock Images</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-excellent-free-cam-snipping-software/"><u>[Updated] Excellent Free Cam Snipping Software</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/androids-leading-collage-tools-the-ultimate-list/"><u>Android's Leading Collage Tools The Ultimate List</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exclusive-list-elite-4k-tv-selection/"><u>Exclusive List Elite 4K TV Selection</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Vivo X Fold 2? | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-quick-win-strategies-top-20-video-tips-for-content-boosters/"><u>In 2024, Quick-Win Strategies Top 20 Video Tips for Content Boosters</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-strategizing-to-spot-and-capture-youtubes-hidden-markets/"><u>In 2024, Strategizing to Spot and Capture Youtube's Hidden Markets</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/optimal-gyroscopic-gimbals-for-iphoneandroiddslr-capture/"><u>Optimal Gyroscopic Gimbals for iPhone/Android/DSLR Capture</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/pace-upplayers-swift-sharing-of-youtube-plays/"><u>Pace Upplayers Swift Sharing of YouTube Plays</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pioneering-websites-for-modern-letterforms/"><u>Pioneering Websites for Modern Letterforms</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/screenplay-genius-weaving-compelling-narratives-and-dialogues/"><u>Screenplay Genius Weaving Compelling Narratives and Dialogues</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/spectral-showcase-curating-the-best-4k-displays-on-screen/"><u>Spectral Showcase Curating the Best 4K Displays on Screen</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-euro-truck-simulator-2-no-longer-causes-pc-problems-after-recent-update/"><u>Troubleshooting Guide: How Euro Truck Simulator 2 No Longer Causes PC Problems After Recent Update</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlock-visual-potential-with-smart-photo-text-tools-online/"><u>Unlock Visual Potential with Smart Photo Text Tools Online</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/your-go-to-4-sites-for-skype-ringtones-for-2024/"><u>Your Go-To 4 Sites for Skype Ringtones for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-deeper-dive-into-the-game-five-easy-zooming-methods/"><u>[New] A Deeper Dive Into the Game Five Easy Zooming Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-accelerate-your-storytelling-with-customized-speed-settings/"><u>[New] Accelerate Your Storytelling with Customized Speed Settings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-tech-gear-choosing-cameras-for-youtube-success/"><u>[New] Top Tech Gear Choosing Cameras for YouTube Success</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-a-symphony-of-sounds-no-cost-software-for-personalized-voice-modification-for-2024/"><u>[Updated] A Symphony of Sounds No-Cost Software for Personalized Voice Modification for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-connecting-players-and-friends-stream-xbox-to-fb/"><u>[Updated] In 2024, Connecting Players & Friends Stream Xbox to FB</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/baixe-o-imovie-oficialmente-para-windows-agora-o-melhor-guia-facil-de-download-do-imovie-para-pc-com-movavi/"><u>Baixe O iMovie Oficialmente Para Windows Agora! O Melhor Guia Fácil De Download Do iMovie Para PC Com Movavi.</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/erfolgreiches-bearbeiten-historischer-bilder-top-10-kostenloser-ai-basierter-tools-furs-restaurieren/"><u>Erfolgreiches Bearbeiten Historischer Bilder: Top 10 Kostenloser AI-Basierter Tools Fürs Restaurieren</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-issue-airpods-not-detected-in-apples-find-my-tool/"><u>Fixing The Issue: AirPods Not Detected In Apple's Find My Tool</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nubia-red-magic-9-proplus-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Nubia Red Magic 9 Pro+ to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-xiaomi-redmi-note-12r-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-brand-alliances-elevating-youtube-content/"><u>In 2024, Brand Alliances Elevating YouTube Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-stories-excellence-among-8-film-categories/"><u>In 2024, Crafting Stories Excellence Among 8 Film Categories</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-mobileweb-invest-in-no-cost-imagery-upgrade/"><u>Prime Mobile/Web Invest in No-Cost Imagery Upgrade</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-windows-8-podcast-software-insights/"><u>Top Windows 8 Podcast Software Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-secrets-of-iphone-podcast-integration/"><u>Unveiling the Secrets of iPhone Podcast Integration</u></a></li>
 </ul></div>
 

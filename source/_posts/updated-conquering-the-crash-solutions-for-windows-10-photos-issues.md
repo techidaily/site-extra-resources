@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Conquering the Crash  Solutions for Windows 10 Photos Issues\""
-date: 2024-10-08T18:13:17.326Z
-updated: 2024-10-10T18:22:16.011Z
+date: 2024-10-10T01:34:47.172Z
+updated: 2024-10-16T19:15:42.660Z
 tags: 
   - screen-recording
   - ai video
@@ -43,10 +43,10 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 ## How to fix Windows 10 Photos app crashes
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 1: Use the Troubleshooter
@@ -64,10 +64,10 @@ Here is how to troubleshoot –
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
@@ -83,6 +83,13 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 3: Reset it
 
 When you reset the Windows Photo App itself, your issue gets resolved. Plenty of Windows users have mentioned that resetting the Photo App has fixed the unresponsive or crashing app problems.
@@ -92,6 +99,13 @@ Here is how can you reset it –
 1. Go to ‘Windows 10 Start Menu’ and then click ‘Settings’. Now, click the ‘Apps (Apps & Features)’ option followed by the ‘Photos’ app.
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 4: Repair Photos App package
 
@@ -121,21 +135,7 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -152,22 +152,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-become-an-iconic-crafter-kapwings-meme-toolkit/"><u>[Updated] Become an Iconic Crafter Kapwing's Meme Toolkit</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-miui-screen-recorder-review-and-alternatives-for-2024/"><u>[Updated] MIUI Screen Recorder Review and Alternatives for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/bright-futures-in-film-revolutionary-setup-tips/"><u>Bright Futures in Film Revolutionary Setup Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/drones-that-follow-you-back-top-10-drone-leaders/"><u>Drones That Follow You Back - Top 10 Drone Leaders</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevating-your-presentations-with-smart-use-of-chatgpt/"><u>Elevating Your Presentations with Smart Use of ChatGPT</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-8-choices-of-tripods-for-4k-cinematography/"><u>Essential 8 Choices of Tripods for 4K Cinematography</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-techniques-5-audio-recording-tools-in-windows-11/"><u>Essential Techniques 5 Audio Recording Tools in Windows 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/full-guide-mastery-of-adobe-cloud-services-with-alternatives-analysis/"><u>Full Guide Mastery of Adobe Cloud Services with Alternatives Analysis</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/how-to-find-happiness-in-pokemon-shining-pearl-an-ultimate-gamers-guide/"><u>How to Find Happiness in 'Pokemon Shining Pearl' - An Ultimate Gamer's Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-10-superior-approaches-to-live-cricket-broadcasting/"><u>In 2024, 10 Superior Approaches to Live Cricket Broadcasting</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-samsung-galaxy-f34-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Samsung Galaxy F34 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-learn-the-safest-ways-to-extract-and-convert-youtube-tracks-to-mp3/"><u>In 2024, Learn the Safest Ways to Extract and Convert YouTube Tracks to MP3</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-premium-video-capturing-for-digital-screens/"><u>In 2024, Premium Video Capturing for Digital Screens</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/masterclass-in-data-migration-installing-a-pristine-copy-of-windows-10-onto-your-latest-drive/"><u>Masterclass in Data Migration: Installing a Pristine Copy of Windows 10 Onto Your Latest Drive</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/prime-recording-option-elevate-your-youtube-channel-for-2024/"><u>Prime Recording Option Elevate Your YouTube Channel for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/reimagining-design-post-acid-pro-landscape/"><u>Reimagining Design Post-ACID Pro Landscape</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-source-guide-buying-and-downloading-your-favorite-youtube-rings/"><u>Ultimate Source Guide Buying and Downloading Your Favorite YouTube Rings</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-turbo-charging-your-vimeo-views/"><u>[New] 2024 Approved Turbo-Charging Your Vimeo Views</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-exclusive-list-of-cost-free-video-downloaders-from-pinterest/"><u>[Updated] 2024 Approved Exclusive List of Cost-Free Video Downloaders From Pinterest</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-corporate-crown-best-cloud-keepers/"><u>[Updated] Corporate Crown Best Cloud Keepers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-epitome-of-engagement-celebrating-the-most-voted-posts-10-for-2024/"><u>[Updated] The Epitome of Engagement Celebrating the Most-Voted Posts (10) for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-guide-to-free-access-of-c-spans-broadcasted-content/"><u>2024 Approved A Guide to Free Access of C-Span's Broadcasted Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-androids-top-podcast-apps-showdown-6-innovators-revealed/"><u>2024 Approved Android's Top Podcast Apps Showdown 6 Innovators Revealed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beyond-the-norm-a-review-of-the-4kcg318-display-by-eizo/"><u>2024 Approved Beyond the Norm A Review of the 4KCG318 Display by EIZO</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-spending-in-online-advertising/"><u>2024 Approved Understanding Spending in Online Advertising</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoiding-shaky-drone-imagery-with-top-tier-gimbals-for-2024/"><u>Avoiding Shaky Drone Imagery with Top-Tier Gimbals for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-and-conquer-mastering-visual-storytelling-for-2024/"><u>Capture and Conquer Mastering Visual Storytelling for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-samsung-galaxy-a05-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Samsung Galaxy A05 Quickly | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/quick-subscribe-worthwhile-for-youtubers/"><u>Is a Quick Subscribe Worthwhile for YouTubers?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/online-movavi-videumosszesites-megszilard-e-kereskedelem/"><u>Online Movavi Vídeumösszesítés - Megszilárd E-Kereskedelem</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/take-your-online-presence-to-new-heights-with-youtube-edits-in-sony-vegas/"><u>Take Your Online Presence to New Heights with YouTube Edits in Sony Vegas</u></a></li>
 </ul></div>
 

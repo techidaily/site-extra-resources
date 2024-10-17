@@ -1,7 +1,7 @@
 ---
 title: "\"From Timeless Tales in Tone-On-Tone to Dynamic Digital Narratives\""
-date: 2024-10-08T16:41:33.782Z
-updated: 2024-10-10T17:49:08.563Z
+date: 2024-10-12T23:06:51.550Z
+updated: 2024-10-16T20:02:42.327Z
 tags: 
   - screen-recording
   - ai video
@@ -78,13 +78,6 @@ To convert your old photos into stunning videos, you can take the assistance of 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 To learn how to come up with an impressive video collage using Filmora, just follow these steps:
 
 #### 1\.  Import your digitized photos
@@ -99,18 +92,18 @@ Once you have imported your photos, you can include them in the timeline. To do 
 
 ![create timeline for photos ](https://images.wondershare.com/filmora/article-images/create-timeline-for-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 3\. Edit the video
 
 Just above the timeline, you can find all kinds of tools to edit your video. For instance, you can crop your photos, split the video, delete pictures, correct their coloring, and so on. To explore more options, you can click on the edit icon here.
 
 ![Edit Digitized Photos ](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
 
@@ -120,6 +113,13 @@ As stated above, you can find a wide range of video editing options to explore i
 
 ![Add Effects to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
 
 ![Add Title to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
@@ -128,33 +128,20 @@ Besides that, you can also add a track to the video by visiting the “Audio” 
 
 ![Add Audio to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 5\. Export your video
 
 That’s it! After making all the changes, you can preview your video on the right side. If you are satisfied with the results, then click on the “Export” button from the top. This will open a dedicated window, letting you select a preferred format to export your file. You can also select a resolution for your video to adjust its size as well.
 
 ![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Find more fancy ways to make the best photo and video slideshow with Filmora!
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## More Editing Tips for Creating Memorable Videos
 
@@ -188,6 +175,13 @@ There you go! I’m sure that after reading this guide, you would be able to dig
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -203,22 +197,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-clear-shots-a-guide-to-still-image-stability/"><u>[New] Clear Shots A Guide to Still Image Stability</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-easy-guide-to-using-your-phone-as-an-alternative-camera/"><u>[Updated] In 2024, Easy Guide to Using Your Phone as an Alternative Camera</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-unleash-creativity-with-these-8-free-youtube-thumbnail-builders/"><u>[Updated] In 2024, Unleash Creativity with These 8 Free YouTube Thumbnail Builders</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-advanced-mastery-over-iphone-hdr-issues-with-4-best-practices-for-editors/"><u>2024 Approved [Advanced] Mastery Over iPhone HDR Issues with 4 Best Practices for Editors</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-revolutionize-video-crafting-mastering-the-integration-of-windows-11-and-storyremix/"><u>2024 Approved Revolutionize Video Crafting Mastering the Integration of Windows 11 & StoryRemix</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-musical-guide-to-enhancing-slides-with-tunes-for-2024/"><u>A Musical Guide to Enhancing Slides with Tunes for 2024</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/cambiar-archivos-de-video-de-formato-avi-a-mkv-online-sin-costo-con-convertidor-gratuito-de-movavi/"><u>Cambiar Archivos De Video De Formato AVI a MKV Online Sin Costo Con Convertidor Gratuito De Movavi</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/craft-engaging-yt-titles-in-a-flash/"><u>Craft Engaging YT Titles in a Flash</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discovering-the-unique-model-code-of-your-apple-macbook-easily/"><u>Discovering the Unique Model Code of Your Apple MacBook Easily</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-shoot-underwater-video-easily-with-7-tips/"><u>How to Shoot Underwater Video Easily (with 7 Tips)</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-unleash-your-youtube-channels-full-potential-with-profitable-trailers/"><u>In 2024, Unleash Your YouTube Channels' Full Potential with Profitable Trailers</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-speed-up-or-slow-down-top-10-free-video-editing-apps-for-mobile/"><u>New 2024 Approved Speed Up or Slow Down Top 10 Free Video Editing Apps for Mobile</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/notable-top-5-lightweight-action-recording-units/"><u>Notable Top 5 Lightweight Action Recording Units</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/retrace-mechanic-setup/"><u>Retrace Mechanic Setup</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/syncing-images-and-footage-on-iphone/"><u>Syncing Images and Footage on iPhone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-infinix-gt-10-pro-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Infinix GT 10 Pro for Streaming | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/video-filter-installation-in-zoom-the-simplified-method/"><u>Video Filter Installation in Zoom The Simplified Method</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-facebook-to-mp3-converter-tool/"><u>[New] In 2024, Facebook to MP3 Converter Tool</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-creativity-iosandroids-best-caption-apps/"><u>[Updated] Capture Creativity IOS/Android’s Best Caption Apps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-revenue-breakdown-how-much-money-stem-from-each-watcher/"><u>[Updated] In 2024, Revenue Breakdown How Much Money Stem From Each Watcher</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-achieving-subtle-volume-diminishment-in-logic-pro/"><u>2024 Approved Achieving Subtle Volume Diminishment in Logic Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-contenders-face-off-which-is-superior-chatgpt-or-gemini-in-the-art-of-code/"><u>AI Contenders Face Off: Which Is Superior, ChatGPT or Gemini, in the Art of Code?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/avoiding-pitfalls-understanding-youtube-standards/"><u>Avoiding Pitfalls Understanding YouTube Standards</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/conduct-a-symphony-on-the-ppt-stage-for-2024/"><u>Conduct a Symphony on the PPT Stage for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-amd-cryptocurrency-mining-software-on-windows/"><u>Download & Install AMD Cryptocurrency Mining Software on Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/easy-steps-to-free-online-and-offline-animation/"><u>Easy Steps to Free Online & Offline Animation</u></a></li>
+<li><a href="https://games-able.techidaily.com/edge-vs-competitors-a-gamers-perspective/"><u>Edge vs Competitors: A Gamer's Perspective</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/foolproof-method-for-adding-a-link-to-your-tiktok-bio/"><u>Foolproof Method for Adding a Link to Your TikTok Bio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-blazing-lanes-at-sochi-2022-games/"><u>In 2024, Blazing Lanes at Sochi 2022 Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pinnacle-ai-image-manipulation-suite/"><u>Pinnacle AI Image Manipulation Suite</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pro-level-video-edits-made-simple-in-windows-11/"><u>Pro-Level Video Edits Made Simple in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/quick-and-easy-brother-printer-installation-tips-for-beginners/"><u>Quick and Easy Brother Printer Installation Tips for Beginners</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/search-giants-face-off-google-bard-vs-bing-chat/"><u>Search Giants Face Off: Google Bard Vs. Bing Chat</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-newbie-camera-choices-the-2024-list/"><u>Top Newbie Camera Choices The 2024 List</u></a></li>
 </ul></div>
 

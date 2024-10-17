@@ -1,7 +1,7 @@
 ---
 title: Warrior's Guide to Enhanced Game Flow - Boosting FPS & Fixing Stutter in Mobile Battles
-date: 2024-10-08T16:18:15.260Z
-updated: 2024-10-10T16:13:33.014Z
+date: 2024-10-10T18:18:39.887Z
+updated: 2024-10-17T01:11:56.253Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 
  Before we dive into anything advanced, make sure you check the server status first by checking the[Forza Support Twitter](https://twitter.com/forza%5Fsupport) . If everything seems fine on the server end, you can proceed to the troubleshooting steps on your end.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Shut down bandwidth-hogging programs
 
  The first thing you can do is to make sure you’re not loading videos or running bandwidth-hogging programs in the background. You can check the bandwidth usage via Task Manager, and shut down the programs that seem to hog your network and slow down your game. Here’s how:
@@ -48,31 +55,17 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 2. In the **Network**  column, select the bandwidth-hogging program(s), then click **End Task** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/close-bandwidth-hogging-program.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hopefully the lagging issue doesn’t return after you close the bandwidth-hogging programs. If that’s the case, we’d suggest you play FH5 with the least programs running in the background according to your internet service capacity. Or, consult your internet service provider and consider upgrading your plan.
 
 If the lagging issue persists, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Test your internet connection
 
@@ -99,22 +92,15 @@ If the lagging issue persists, try the next fix.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -133,19 +119,6 @@ If the lagging issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-control-panel.jpg)
 3. Switch to **View by: small icons** , then click **Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-09-27.jpg)
 4. Click **Allow an app or feature through Windows Defender Firewall** .  
 
@@ -158,21 +131,28 @@ If the lagging issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14.jpg)
 2. Click **Browse** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-09-14_13-11-21.jpg)
 3. Navigate to Forza Horizon 5 game folders and add the game executable to the list.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Find Forza Horizon 5 on the list,**tick the checkbox of Private network** , and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14-1.jpg)  
  This will ensure your firewall won’t block Forza Horizon 5 when you’re using a private network, for example, your home Wi-Fi. For safety reasons, we recommend you only select the private network, but you’re welcome to allow the game through all types of networks if needed.
 
 If the lagging issue persists, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Set the game process priority to high
 
@@ -181,6 +161,13 @@ If the lagging issue persists, try the next fix.
 1. Press**Ctrl** and**Shift** and**Esc** on the keyboard to open Task Manager.
 2. Go to the**Details** tab. Right-click Forza Horizon 5 and**set the priority to high** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-49-09.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this fix doesn’t help with your problem, try the next fix.
 
@@ -207,16 +194,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
@@ -240,6 +221,13 @@ Here’s how to do it:
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this fix doesn’t solve your problem, no worries, there’s one more fix you can try.
 
@@ -271,22 +259,20 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-audio-docking-systems-for-immersive-experience/"><u>[New] Audio Docking Systems for Immersive Experience</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-capture-creativity-with-smartphones-best-apps/"><u>[New] Capture Creativity with Smartphones' Best Apps</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-from-concept-to-recording-best-practices-for-iphoneipad-podcasts/"><u>[New] From Concept to Recording Best Practices for iPhone/iPad Podcasts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-advanced-techniques-for-precise-online-image-cropping/"><u>[Updated] Advanced Techniques for Precise Online Image Cropping</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-android-gallery-upload-on-iphone-device/"><u>[Updated] Android Gallery Upload on iPhone Device</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-game-recorder-mastery-top-5-techniques-for-windows-11/"><u>[Updated] Game Recorder Mastery Top 5 Techniques for Windows 11</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-kinemasters-expert-strategies-for-video-transitions/"><u>2024 Approved Kinemaster's Expert Strategies for Video Transitions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/black-ops-cold-war-troubleshooting-guide-solving-error-0xc0000005/"><u>Black Ops Cold War Troubleshooting Guide - Solving Error 0Xc0000005</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boost-interaction-with-fun-how-to-add-gifs-to-comments-on-instagram/"><u>Boost Interaction with Fun: How to Add GIFs to Comments on Instagram</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-complete-analysis-of-theta-ss-advanced-tech/"><u>In 2024, Complete Analysis of Theta S's Advanced Tech</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-lg-360-camera-full-review/"><u>In 2024, LG 360 Camera Full Review</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-loves-cinematic-journey-youtube-and-vimeos-top-premium-marriage-videos/"><u>In 2024, Love's Cinematic Journey YouTube & Vimeo's Top Premium Marriage Videos</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-intel-raid-controller-driver-installation-guide-compatible-with-windows-11-10-8-and-7-systems/"><u>Latest Intel RAID Controller Driver Installation Guide - Compatible with Windows 11, 10, 8, and 7 Systems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastery-in-making-advanced-tiktok-editing-techniques/"><u>Mastery in Making Advanced TikTok Editing Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protect-yourself-from-ai-phishing-attempts-tips-on-recognizing-suspicious-chatgpt-websites-and-action-plans/"><u>Protect Yourself From AI Phishing Attempts: Tips on Recognizing Suspicious ChatGPT Websites and Action Plans</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/samsung-photo-editor-review-pros-con-features-and-guide/"><u>Samsung Photo Editor Review - Pros, Con, Features, and Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/youtube-ringtone-archives-essential-download-sites-revealed/"><u>YouTube Ringtone Archives Essential Download Sites Revealed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-breaking-into-the-top-1m-youtube-view-hacks-revealed/"><u>[New] Breaking Into the Top 1M YouTube View Hacks Revealed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-compile-of-premium-tiktok-backdrop-options/"><u>[New] Compile of Premium TikTok Backdrop Options</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-applications-transforming-vtuber-voices-on-the-fly/"><u>[New] Prime Applications Transforming VTuber Voices on the Fly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-advanced-pip-setup-elevating-your-visual-presentations-on-macos/"><u>[Updated] Advanced PIP Setup Elevating Your Visual Presentations on macOS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-androids-expert-choice-for-quick-vid-boosting/"><u>[Updated] Android's Expert Choice for Quick Vid Boosting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-boost-your-iphone-videography-skills-master-these-8-essentials/"><u>[Updated] Boost Your iPhone Videography Skills Master These 8 Essentials</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-eye-catching-video-summaries-3-neon-border-methods/"><u>[Updated] In 2024, Crafting Eye-Catching Video Summaries 3 Neon Border Methods</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-lava-yuva-2-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Lava Yuva 2 Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/extensive-circular-camera-assessment/"><u>Extensive Circular Camera Assessment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965236908-latest-qualcomm-usb-device-driver-pack-compatible-with-windows-10-8-and-older-versions/"><u>Latest Qualcomm USB Device Driver Pack – Compatible with Windows 10, 8 & Older Versions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfecting-your-view-the-10-finest-iphoneipad-videoplays/"><u>Perfecting Your View The 10 Finest iPhone/iPad Videoplays</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/skeptical-or-enthusiastic-magix-music-maker-2024-reviewed/"><u>Skeptical or Enthusiastic? Magix Music Maker 2024 Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-implementing-windows-11s-automatic-hdr-feature-for-2024/"><u>The Ultimate Guide to Implementing Windows 11'S Automatic HDR Feature for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-non-contact-sensing/"><u>The Ultimate Guide to Non-Contact Sensing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-how-to-fix-swtor-game-launch-problems/"><u>Troubleshooting: How to Fix 'SWTOR' Game Launch Problems</u></a></li>
 </ul></div>
 

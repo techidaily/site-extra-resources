@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Visual Storytelling with LUT Techniques in Premiere"
-date: 2024-08-19T20:36:26.884Z
-updated: 2024-08-20T20:36:26.884Z
+date: 2024-10-10T00:05:38.664Z
+updated: 2024-10-16T18:34:36.221Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,19 @@ Step2Locate the Lumetri LUTs folder in your Premiere Pro installation directory 
 
 Step3Paste all of your fresh LUTs in this folder at this time. Your new LUTs will now show up in the Lumetri Color Panel when you launch Premiere Pro (or restart the software if it was already open). Innovative >> Looks
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to add LUTs to your footage
 
 Step1Choose the Color Workspace at the top after your clip is in the timeline and prepared for grading.
@@ -43,8 +56,12 @@ Step3The first Basic Correction option in the right-hand panel of Lumetri Color 
 Step4Double-click the LUT you wish to use once you've located it, and it will be applied immediately.A tiny tip I like to use occasionally is to find the Effect Controls panel on the left side, then click the drop-down arrow next to Opacity, and make adjustments if you input your LUT and feel that it's too intense.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Why use LUTs in your project?
 
 When there is no time limit or restriction on when to submit the result file, it is fun to edit your own clips because you have complete creative control over the process. Because of this, Color Grading is a rather unimportant aspect to worry about. After making a few adjustments to the Exposure and Contrast settings, you should be good to go.
@@ -56,8 +73,12 @@ Because of this, some designers employ look-up tables (LUTs) that they have crea
 When it comes to working on a project for a customer that has a stringent deadline to fulfill, poor color grading could result in a negative impression of your work. This is the case even if everything from the sound effects to the video effects is done to a high standard and is done well.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Can you adjust the strength of the LUT?
 
 There are no such modifications that can be made in a certain LUT or Look, and there is no reason to adjust them because there is no need to. However, you may change its strength, which is essentially the same thing as the opacity of the LUT that was applied, and there are still choices to color grade the entire movie after the LUT has been applied.
@@ -67,8 +88,12 @@ The entire color panel in Premiere Pro is packed with all of the color grading t
 The end outcome does not vary by a substantial amount, but how it looks can change depending on the LUT you use. In the event that something seems to be lacking, you can always modify the color grading.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Export LUTs
 
 An awesome feature of Premiere Pro enables you store and reuse your color modifications in multiple projects or programs. You have the option of exporting color grading information as either a.look file or a .cube LUT file, which may then be used in Adobe Premiere Pro or another application. Here's how you export them:
@@ -81,9 +106,6 @@ Step2Export ".cube" This function exports lookup tables in the.cube format so th
 
 Step3Store Preset: You can personalize the settings for each color effect, then save the resulting combinations as presets. Within the Save Preset dialog box, give your preset the name you want it to have. If desired, enter a description. Please visit the article on how to create and store an effect preset for further details.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## 6\. Where can you find LUTs?
 
 You might be asking, "Now that I've learned more about LUTs (Lookup Tables), where can I get even more LUTs?" since you've gained some new knowledge. In the end, being able to use the built-in LUTs in Luminar is a nice feature, but these are merely samples of the thousands upon thousands of LUTs that are accessible, both for free and for purchase.
@@ -97,10 +119,6 @@ You might be asking, "Now that I've learned more about LUTs (Lookup Tables), whe
 * Filmic Tone LUTs
 * Urban Dark Creative LUTs
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Additionally, check to see if you have inadvertently downloaded any viruses. There is a strong temptation to simply conduct a search for cinematic LUTs on Google, then download all free files that we come across.
@@ -135,4 +153,23 @@ Sometimes, some of them are out there to steal your money rather than provide th
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-activate-funimate-pro-with-a-simple-apk-click/"><u>[New] Activate Funimate Pro with a Simple APK Click</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-break-through-noise-effective-utilization-of-video-templates/"><u>[New] In 2024, Break Through Noise Effective Utilization of Video Templates</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-ultimate-video-streaming-channel-lists-films-and-series/"><u>[Updated] In 2024, Ultimate Video Streaming Channel Lists Films & Series</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unraveling-15-trendy-tiktok-stunts-today-for-2024/"><u>[Updated] Unraveling 15 Trendy TikTok Stunts Today for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-digital-memory-keepers-taking-screenshots-on-xbox-one/"><u>2024 Approved Digital Memory Keepers Taking Screenshots on Xbox One</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-guidance-to-creating-a-3d-text-art-effect-in-adobe-illustrator/"><u>2024 Approved Guidance to Creating a 3D Text Art Effect in Adobe Illustrator</u></a></li>
+<li><a href="https://driver-install.techidaily.com/adapt-new-idt-audio-protocols-to-windows-7/"><u>Adapt New IDT Audio Protocols to Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/discover-spine-chilling-entertainment-with-youre-next-amongst-leading-choices-in-scary-cinema/"><u>Discover Spine-Chilling Entertainment with 'You're Next', Amongst Leading Choices in Scary Cinema</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ensuring-smooth-exchange-correcting-chatgpt-and-service-errors/"><u>Ensuring Smooth Exchange: Correcting ChatGPT and Service Errors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capture-and-safeguard-periscope-videos-effectively/"><u>In 2024, Capture & Safeguard Periscope Videos Effectively</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leveraging-srt-for-improved-video-subtitles-online-presence/"><u>Leveraging SRT for Improved Video Subtitles Online Presence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mac-graphics-revolution-top-10-freeware-drawings/"><u>Mac Graphics Revolution Top 10 Freeware Drawings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4windows-10/"><u>MP4再生不能に悩むなら：Windows 10のソリューションと原因解明方法</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pinnacle-websites-showcasing-diverse-text-styling-options/"><u>Pinnacle Websites Showcasing Diverse Text Styling Options</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/standout-80s-visual-tricks-to-enhance-films/"><u>Standout 80S Visual Tricks to Enhance Films</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/your-first-guide-to-making-digital-tokens-effortlessly/"><u>Your First Guide to Making Digital Tokens Effortlessly</u></a></li>
+</ul></div>
 

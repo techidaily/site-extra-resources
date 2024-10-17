@@ -1,7 +1,7 @@
 ---
 title: "Quick Steps to Clear the Exterior of Your Photos in Affinity"
-date: 2024-10-03T19:08:45.705Z
-updated: 2024-10-10T18:20:45.714Z
+date: 2024-10-12T23:49:44.530Z
+updated: 2024-10-17T00:10:32.360Z
 tags: 
   - screen-recording
   - ai video
@@ -27,10 +27,10 @@ No matter you are a professional content creator or a newbie, we'll be discussin
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Erase a White Background in Affinity Designer
@@ -48,10 +48,10 @@ Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and 
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
@@ -71,10 +71,16 @@ Step5 In the last step, press the **"Delete"** key on your keyboard to remove th
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Remove a Busy Background in Affinity Designer
@@ -114,6 +120,13 @@ Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.co
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
 * Offline and online image editing tools.
@@ -129,6 +142,13 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Create a free account for easier future access.
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -148,19 +168,6 @@ Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.co
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
 * Offline and online image editing tools.
@@ -176,13 +183,6 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Create a free account for easier future access.
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -218,19 +218,24 @@ Hopefully, this article and video can help you create ideal images!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-non-twitter-video-tweeting-hacks-for-the-modern-user/"><u>[New] 2024 Approved Non-Twitter Video Tweeting Hacks for the Modern User</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-knowledge-hub-leading-educational-youtube-sources/"><u>[Updated] 2024 Approved Knowledge Hub Leading Educational YouTube Sources</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/10-masterpiece-scenes-to-perfect-your-edits-for-2024/"><u>10 Masterpiece Scenes to Perfect Your Edits for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-excellent-replacements-to-top-rated-fbx-recorder-apps/"><u>2024 Approved Excellent Replacements to Top-Rated FBX Recorder Apps</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-where-creators-converge-and-craft-visual-stories-in-youtube-studio/"><u>2024 Approved Where Creators Converge and Craft Visual Stories in Youtube Studio</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/capturing-the-essence-of-time-lapse-videos-pro-techniques-for-gopro-hero-10-users-for-2024/"><u>Capturing the Essence of Time-Lapse Videos Pro Techniques for GoPro Hero 10 Users for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-amazons-fire-hd-10-ideal-multi-media-device-for-all-generations/"><u>Comprehensive Review of Amazon's Fire HD 10 - Ideal Multi-Media Device for All Generations</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-iphone-xr-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the iPhone XR Without Previous Owner?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/increased-firepower-unveiling-the-enhanced-gunplay-in-mass-effect-legendary-edition/"><u>Increased Firepower: Unveiling the Enhanced Gunplay in Mass Effect Legendary Edition</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/investigating-the-underreported-drawbacks-of-vr/"><u>Investigating the Underreported Drawbacks of VR</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-visual-storytelling-the-top-cinematic-secrets/"><u>Mastering Visual Storytelling The Top Cinematic Secrets</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/step-by-step-guide-capturing-directx-12-gameplay-with-screen-recording-tools/"><u>Step-by-Step Guide: Capturing DirectX 12 Gameplay with Screen Recording Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-enabling-automatic-user-authentication-on-your-windows-pc/"><u>Step-by-Step Guide: Enabling Automatic User Authentication on Your Windows PC</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-window-to-world-class-video-playback/"><u>Ultimate Window to World-Class Video Playback</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-how-to-add-music-to-imovie-from-youtube/"><u>[New] 2024 Approved How to Add Music to iMovie From YouTube?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-complete-guide-to-producing-professional-gopro-video-content/"><u>[New] The Complete Guide to Producing Professional GoPro Video Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-building-inspiring-lifestyle-content-for-viewers/"><u>[Updated] 2024 Approved Building Inspiring Lifestyle Content for Viewers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-audiovisual-mastery-imovie-sound-guide/"><u>[Updated] Audiovisual Mastery IMovie Sound Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-easy-mastery-of-ipad-video-recording/"><u>[Updated] In 2024, Easy Mastery of iPad Video Recording</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-clarity-the-elite-list-of-online-gridding-services/"><u>2024 Approved Capturing Clarity The Elite List of Online Gridding Services</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/amplify-content-with-free-audio-samples-in-2024/"><u>Amplify Content with Free Audio Samples, In 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beginning-a-successful-item-evaluation-video-series/"><u>Beginning a Successful Item Evaluation Video Series</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/calculating-the-storage-space-of-24-hour-videos-for-2024/"><u>Calculating the Storage Space of 24-Hour Videos for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/curving-images-effortlessly-in-photo-editing/"><u>Curving Images Effortlessly in Photo Editing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/deciphering-on-device-ai-its-operations-explained/"><u>Deciphering On-Device AI - Its Operations Explained</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/fade-techniques-in-audio-production-with-adobe-tools-for-2024/"><u>Fade Techniques in Audio Production with Adobe Tools for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ideal-voice-modification-programs-for-dynamic-virtual-personalities/"><u>Ideal Voice-Modification Programs for Dynamic Virtual Personalities</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/linguistic-inputs-utilize-no-fee-required/"><u>Linguistic Inputs, Utilize No Fee Required</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-the-initializing-graphics-problem-in-destiny-2-resolved/"><u>Overcoming the Initializing Graphics Problem in Destiny 2 (Resolved)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photo-editing-basics-unveiled-dive-into-lunapic/"><u>Photo Editing Basics Unveiled Dive Into LunaPic</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/picsart-edge-perfecting-face-movements-with-blur-techniques/"><u>Picsart Edge Perfecting Face Movements with Blur Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-to-the-freshest-samsung-m2070-driver-software-with-ease/"><u>Upgrade to the Freshest Samsung M2070 Driver Software with Ease</u></a></li>
 </ul></div>
 

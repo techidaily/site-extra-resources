@@ -1,7 +1,7 @@
 ---
 title: "\"Sculpting Textures  Creating Realistic 3D Effects in Illustrator\""
-date: 2024-10-08T17:59:53.561Z
-updated: 2024-10-10T18:25:06.204Z
+date: 2024-10-15T21:12:04.714Z
+updated: 2024-10-16T20:00:43.046Z
 tags: 
   - screen-recording
   - ai video
@@ -40,15 +40,22 @@ Step2 Click on the **Type tool** and click anywhere on your blank canvas. Then, 
 
 ![type tool illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-type-tool.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Now, look at the bottom-right corner of the program. Find the **Font** settings and change your font type and size to anything you want.
 
 ![change font illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-font.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step4 Next, choose any color you want for your text from the panel on the screen's left side. Just remember to click on your text first before you start changing colors.
@@ -56,42 +63,36 @@ Step4 Next, choose any color you want for your text from the panel on the screen
 ![change color](https://images.wondershare.com/filmora/article-images/adobe-illustrator-color.png)
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step5 Align the text to make it easier to edit and move around the canvas later. Just click on it and then click on the three buttons in the image below. This section is located at the bottom-right corner of the screen.
 
 ![align text in illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-align.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step6 Up next, you need to turn on your 3D Effects panel if it still needs to be activated. To do this, click on **Window** → **3D and Materials.** Then, look at the right side of the screen, and you will see the panel pop up.
 
 ![turn on three d panel](https://images.wondershare.com/filmora/article-images/adobe-illustrator-3d-materials-window.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step7 Click on the box icon on the right side of the screen and select **“Extrude”** This will instantly transform your text into a 3D model.
 
 ![turn text into three d](https://images.wondershare.com/filmora/article-images/adobe-illustrator-panel.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step8 Now, all left to do is experiment with the settings in this panel and adjust how you want your 3D text to look. You can adjust its width, rotation, presets, angle, perspective, and so on. Just play around with the settings until you find your ideal result.
@@ -136,13 +137,6 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Create a 3D Text Effect In Filmora?
 
 The steps are simple. Just follow them precisely as you see here, and you won't have any problems.
@@ -157,16 +151,16 @@ Step3 Double-click on the 3D title layer you dragged into the Timeline. When the
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -196,20 +190,22 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-precision-in-capturing-androids-best-techniques-for-2024/"><u>[New] Precision in Capturing Android's Best Techniques for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-pinnaclepix-z7-pro-elevate-your-photos-dimensions/"><u>[Updated] PinnaclePix Z7 Pro Elevate Your Photo's Dimensions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-restore-windows-photo-viewer-quick-effective-ways-for-win10/"><u>[Updated] Restore Windows Photo Viewer Quick, Effective Ways for Win10</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-practices-for-advanced-ae-plug-ins-for-2024/"><u>Best Practices for Advanced AE Plug-Ins for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/effortless-passport-photo-creation-get-10-free-images-instantly/"><u>Effortless Passport Photo Creation – Get 10 FREE Images Instantly</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-vsco-editing-techniques-summary/"><u>Essential VSCO Editing Techniques Summary</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/experience-gaming-excellence-with-kinemaster-on-android-for-2024/"><u>Experience Gaming Excellence with KineMaster on Android for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-oppo-a1-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Oppo A1 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ideal-7-video-players-for-apple-devices/"><u>Ideal 7 Video Players for Apple Devices</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-6-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From iPhone 11 Pro</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/innovating-film-production-with-augmented-realms/"><u>Innovating Film Production with Augmented Realms</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/stay-focused-with-no-youtube-thumbnail-view/"><u>Stay Focused with No YouTube Thumbnail View</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/superior-camera-stabilization-the-10-best-for-smartphones-and-dslrs/"><u>Superior Camera Stabilization The 10 Best for Smartphones & DSLRs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-androids-premier-8-apps-harmonizing-free-and-paid-videomosaic-experience/"><u>[Updated] 2024 Approved Android's Premier 8 Apps Harmonizing Free & Paid Videomosaic Experience</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-efficient-revenue-streams-the-guide-to-making-money-from-youtube-mobile/"><u>[Updated] In 2024, Efficient Revenue Streams The Guide to Making Money From YouTube Mobile</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-captivating-time-lapse-videos-a-simple-guide-with-gopro-studio/"><u>2024 Approved Crafting Captivating Time-Lapse Videos A Simple Guide with GoPro Studio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/average-byte-gauge-for-a-24-hour-film-for-2024/"><u>Average Byte Gauge for a 24 Hour Film for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/canva-expertise-ditching-image-backdrops-with-ease-for-2024/"><u>Canva Expertise Ditching Image Backdrops with Ease for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-compelling-content-on-reddit-a-stepwise-path/"><u>Crafting Compelling Content on Reddit - A Stepwise Path</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creative-directors-best-writing/"><u>Creative Directors' Best Writing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-latest-gear-with-toms-hardware-guides/"><u>Exploring the Latest Gear with Tom's Hardware Guides</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-intel-iris-xe-graphics-software-update-on-windows-11/"><u>Get the Newest Intel Iris Xe Graphics Software Update on Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Itel P40+? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-cinematic-blackout-mastery-in-premiere/"><u>In 2024, Cinematic Blackout Mastery in Premiere</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-concealed-crusaders-conflict-with-clarion-champion/"><u>In 2024, Concealed Crusader's Conflict with Clarion Champion</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-fuse-fast-edits-for-stunning-windows-photos/"><u>In 2024, Fuse Fast Edits for Stunning Windows Photos</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/strategies-to-keep-windows-11-photos-app-running-smoothly/"><u>Strategies to Keep Windows 11 Photos App Running Smoothly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-repairing-xbox-one-no-signal-glitches-expert-advice/"><u>The Ultimate Guide to Repairing Xbox One 'No Signal' Glitches: Expert Advice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-update-failed-with-error-0x80242016-try-these-fixes/"><u>Windows Update Failed With Error 0X80242016? Try These Fixes</u></a></li>
 </ul></div>
 
