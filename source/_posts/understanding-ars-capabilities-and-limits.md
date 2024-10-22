@@ -1,7 +1,7 @@
 ---
 title: "Understanding AR's Capabilities and Limits"
-date: 2024-08-19T20:26:00.669Z
-updated: 2024-08-20T20:26:00.669Z
+date: 2024-10-21T16:05:21.279Z
+updated: 2024-10-22T18:32:16.462Z
 tags: 
   - screen-recording
   - ai video
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea
 
  The presentation of augmented reality is in some form of futuristic technology, despite the fact that it has been around for many years. For example, the heads-up display in many fighter jets utilizes the principles of augmented reality, and these date back to the early 1990s when they were used to show information about altitude, speed and direction of the aircraft.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How does Augmented Reality work
 
  The kind of augmented reality you are likely to experience these days utilizes a range of sensors such as cameras and computer components as well as display devices in creating the illusion of virtual objects in the real world. Some of the smartphones in the market today have all the necessary components needed in the creation of augmented reality hence they are commonly used for most of AR experiences. The basic working of augmented reality is as follows-:
@@ -41,8 +48,12 @@ thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea
  In general, the device will search for a particular object, which can be anything, but in most cases, they are usually 2D images like in the form of a movie poster. The augmented reality application will recognize the target through the camera and it will then process the image and augment it in some form through the utilization of sound and pictures. For example, if the target object was a movie poster, you may see it spring into life to play a trailer of the movie. So long as you continue viewing the poster through the “window” of the display object, you will see augmented reality rather than the plain old normal poster in normal reality.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## The future of Augmented Reality
 
  The future of augmented reality has never been brighter as it is at the moment. Though mobile devices are the primary avenues for VR at the moment, this is not expected to remain the case since a lot of developments, enhancements and innovations are currently taking place in the industry. For instance, work is currently on in the development of augmented reality ear buds which will allow users to adjust sounds coming from the environment.
@@ -52,8 +63,12 @@ thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea
  Like with every new technology, augmented reality comes with a plethora or ethical and political issues. For example, the Google Glass came along with a lot of privacy concerns, with some people worried that pictures may be snapped or conversations may be recorded surreptitiously. But amidst all these concerns, AR technology is expected to gather more steam in the near future and it will be a part of life for the majority.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Applications of Augmented Reality
 
  Augmented reality is used widely across different industries for various applications, with education and gaming taking the lion’s share of the uses. Discussed below are some of the applications of augmented reality:
@@ -89,15 +104,23 @@ thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -105,3 +128,27 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-capture-tweets-as-mp3-audios-via-downloads/"><u>[New] Capture Tweets as MP3 Audios via Downloads</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-qualitysnap-video-reporter-checkup/"><u>[New] QualitySnap Video Reporter Checkup</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/combine-audio-and-video-web-space-for-2024/"><u>Combine Audio and Video Web Space for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-guide-to-samsungs-photographic-editing-app-for-2024/"><u>Comprehensive Guide to Samsung's Photographic Editing App for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-audio-magic-a-windows-10-sound-journey/"><u>Crafting Audio Magic A Windows 10 Sound Journey</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/deciding-on-apples-m1-laptops-air-or-pro-advantages/"><u>Deciding on Apple's M1 Laptops Air or Pro Advantages</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-ready-for-the-new-wave-of-performance-comprehensive-analysis-of-upcoming-m4-mac-mini-specifications-and-market-expectations/"><u>Get Ready for the New Wave of Performance: Comprehensive Analysis of Upcoming M4 Mac Mini Specifications and Market Expectations</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-infinix-smart-7-hd-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Infinix Smart 7 HD</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-apex-4k-video-recorders-our-top-18-selection/"><u>In 2024, Apex 4K Video Recorders Our Top 18 Selection</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sharpen-your-videoleap-videos-from-afar/"><u>In 2024, Sharpen Your Videoleap Videos From Afar</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/leading-economical-screen-snapper-kit-for-2024/"><u>Leading Economical Screen Snapper Kit for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leading-edge-vr-game-development-technology-2023-edition/"><u>Leading Edge VR Game Development Technology, 2023 Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/narrative-power-in-marketing-20-must-use-phrases/"><u>Narrative Power in Marketing 20 Must-Use Phrases</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/or-8-onto-the-new-iphone-se/"><u>Or 8) Onto the New iPhone SE</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/safe-and-sound-sending-your-private-youtube-videos-online-for-2024/"><u>Safe and Sound Sending Your Private YouTube Videos Online for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-meme-template-toolkit-for-2024/"><u>The Essential Meme Template Toolkit for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-new-normal-for-video-editing-with-movavi-pro-updated-to-2024/"><u>The New Normal for Video Editing with Movavi Pro, Updated to 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/the-ultimate-guide-to-solving-critical-hardware-failures-tackling-whea-errors/"><u>The Ultimate Guide to Solving Critical Hardware Failures - Tackling WHEA Errors</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-from-footage-to-film-the-best-software-for-burning-home-dvds/"><u>Updated In 2024, From Footage to Film The Best Software for Burning Home DVDs</u></a></li>
+</ul></div>
+

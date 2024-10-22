@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Conquering the Crash  Solutions for Windows 10 Photos Issues\""
-date: 2024-10-10T01:34:47.172Z
-updated: 2024-10-16T19:15:42.660Z
+date: 2024-10-16T18:43:46.107Z
+updated: 2024-10-22T19:15:23.222Z
 tags: 
   - screen-recording
   - ai video
@@ -42,13 +42,6 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 
 ## How to fix Windows 10 Photos app crashes
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 1: Use the Troubleshooter
 
 The Windows Troubleshooter is an inbuilt troubleshooting feature embedded with Windows 10 computers. It allows a simple interface to help you choose any application for troubleshooting. Windows Troubleshooter resolves basic issues with the Windows computer so that users can seamlessly use all Windows 10 system features and functionalities.
@@ -63,13 +56,6 @@ Here is how to troubleshoot –
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 2: Restore Default Libraries
 
 Restoring the default libraries would resolve the Windows 10 Photos App crash issues. Resetting the Photo App to its default source to a valid network, path fixes the case.
@@ -81,13 +67,20 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 3: Reset it
@@ -101,10 +94,10 @@ Here is how can you reset it –
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 4: Repair Photos App package
@@ -117,6 +110,13 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 2. Key in the command followed by ‘Enter’: Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)\\AppXManifest.xml”}
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 5: Reinstall Windows 10 Photos app
 
@@ -152,19 +152,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-turbo-charging-your-vimeo-views/"><u>[New] 2024 Approved Turbo-Charging Your Vimeo Views</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-exclusive-list-of-cost-free-video-downloaders-from-pinterest/"><u>[Updated] 2024 Approved Exclusive List of Cost-Free Video Downloaders From Pinterest</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-corporate-crown-best-cloud-keepers/"><u>[Updated] Corporate Crown Best Cloud Keepers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-epitome-of-engagement-celebrating-the-most-voted-posts-10-for-2024/"><u>[Updated] The Epitome of Engagement Celebrating the Most-Voted Posts (10) for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-a-guide-to-free-access-of-c-spans-broadcasted-content/"><u>2024 Approved A Guide to Free Access of C-Span's Broadcasted Content</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-androids-top-podcast-apps-showdown-6-innovators-revealed/"><u>2024 Approved Android's Top Podcast Apps Showdown 6 Innovators Revealed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-beyond-the-norm-a-review-of-the-4kcg318-display-by-eizo/"><u>2024 Approved Beyond the Norm A Review of the 4KCG318 Display by EIZO</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-spending-in-online-advertising/"><u>2024 Approved Understanding Spending in Online Advertising</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/avoiding-shaky-drone-imagery-with-top-tier-gimbals-for-2024/"><u>Avoiding Shaky Drone Imagery with Top-Tier Gimbals for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/capture-and-conquer-mastering-visual-storytelling-for-2024/"><u>Capture and Conquer Mastering Visual Storytelling for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-samsung-galaxy-a05-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Samsung Galaxy A05 Quickly | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/quick-subscribe-worthwhile-for-youtubers/"><u>Is a Quick Subscribe Worthwhile for YouTubers?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/online-movavi-videumosszesites-megszilard-e-kereskedelem/"><u>Online Movavi Vídeumösszesítés - Megszilárd E-Kereskedelem</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/take-your-online-presence-to-new-heights-with-youtube-edits-in-sony-vegas/"><u>Take Your Online Presence to New Heights with YouTube Edits in Sony Vegas</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-acid-pro-insights-and-looking-for-alternatives/"><u>[New] ACID Pro Insights & Looking for Alternatives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-celebrating-soundtracks-the-ultimate-anime-list/"><u>[New] Celebrating Soundtracks The Ultimate Anime List</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-prime-methods-transforming-pin-videos-to-mp3-format-for-2024/"><u>[New] Prime Methods Transforming Pin Videos To MP3 Format for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-essential-tactics-for-channel-spotlighting-on-youtube/"><u>[Updated] The Essential Tactics for Channel Spotlighting on Youtube</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-displaylink-drivers-from-targus-compatible-with-windows-1187-free-download/"><u>Get the Newest DisplayLink Drivers From Targus Compatible with Windows 11/8/7 - Free Download</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-infinix-note-30i-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Infinix Note 30i to iPod | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-web-comedy-architect/"><u>In 2024, Web Comedy Architect</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premier-presentation-planner-prodigy/"><u>Premier Presentation Planner Prodigy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/spectacular-14-text-animation-art-pieces/"><u>Spectacular 14 Text Animation Art Pieces</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-repair-tips-to-stop-your-ring-of-elysium-from-crashing/"><u>Step-by-Step Repair Tips to Stop Your Ring of Elysium From Crashing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-fast-photo-journey-crafting-quick-dynamic-google-collages/"><u>The Fast Photo Journey Crafting Quick, Dynamic Google Collages</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-zen-of-broadcasting-perfecting-zooms-techniques-for-youtube/"><u>The Zen of Broadcasting Perfecting Zoom's Techniques for YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/why-does-imovie-adjust-video-borders/"><u>Why Does iMovie Adjust Video Borders?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] A Symphony of Shades  Applying Complementary Colors\""
-date: 2024-10-13T00:07:53.804Z
-updated: 2024-10-16T21:55:56.912Z
+date: 2024-10-21T19:48:00.424Z
+updated: 2024-10-22T16:59:54.848Z
 tags: 
   - screen-recording
   - ai video
@@ -29,10 +29,10 @@ Color theory consists of many elements that could fill a library on its own but 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Color Wheel
@@ -41,20 +41,27 @@ Using red, green and blue as primary colors we can mix the colors to one another
 
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Color Harmony
 
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
 
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
 
@@ -65,10 +72,10 @@ The blue lines represent what is known as split contrasting colors and these wil
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## But How Do I Use This
@@ -76,19 +83,6 @@ The corners of the black rectangle land on what is known as tetradic complement 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
 
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
 
@@ -132,24 +126,19 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-a-gamers-manual-to-top-frame-rate-enhancers/"><u>[New] A Gamer's Manual to Top Frame Rate Enhancers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/pike-youtube-engagement-through-strategic-timing/"><u>[New] Spike YouTube Engagement Through Strategic Timing</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-techniques-to-overcome-blackout-during-obs-fullscreen/"><u>[Updated] 2024 Approved Techniques to Overcome Blackout During OBS Fullscreen</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-amplify-imagery-with-simple-grading-tricks/"><u>[Updated] Amplify Imagery with Simple Grading Tricks</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-easy-peasy-guide-to-crafting-and-tweaking-multiple-snaps-in-snapchat/"><u>[Updated] Easy-Peasy Guide to Crafting and Tweaking Multiple Snaps in Snapchat</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2023s-mastered-entry-editor-for-multi-platform-devices-for-2024/"><u>2023'S Mastered Entry Editor for Multi-Platform Devices for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1728486884652-mac/"><u>如何在 Mac上移动邮件？彻底指南！- 每个步骤解说</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gopro-hero-series-clash-with-polaroid-cube-which-wins-in-2024/"><u>GoPro Hero Series Clash with Polaroid Cube Which Wins, In 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-samsung-galaxy-m14-5g-by-fonelab-android-recover-video/"><u>How to recover old videos from your Samsung Galaxy M14 5G</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-8-free-4k-uhd-video-player-software-for-windows-pcandmac/"><u>In 2024, Best 8 Free 4K UHD Video Player Software for Windows PC&Mac</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-captivating-customer-revelation/"><u>In 2024, Captivating Customer Revelation</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-vivo-v27e-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Vivo V27e</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/kinemaster-android-an-in-depth-gaming-guide-review/"><u>KineMaster Android An In-Depth Gaming Guide Review</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/propel-your-virtual-presence-with-these-gadgets/"><u>Propel Your Virtual Presence with These Gadgets</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-essential-guide-to-tapered-music-transitions-in-premiere-pro/"><u>The Essential Guide to Tapered Music Transitions in Premiere Pro</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-complimentary-global-voice-chat-programs-you-cant-miss/"><u>Top 5 Complimentary Global Voice Chat Programs You Can't Miss</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-8-iphonecomputer-apps-for-seamless-video-editing/"><u>Top 8 iPhone/Computer Apps for Seamless Video Editing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/visual-victory-displays-preserved-after-fix/"><u>Visual Victory: Displays Preserved After Fix</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/visualedits-exploration-in-depth-look-at-androvid/"><u>VisualEdits Exploration – In-Depth Look at AndroVid</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-battle-of-the-lenses-sj6-vs-yi-4k-prodigy/"><u>[New] Battle of the Lenses SJ6 Vs. Yi 4K Prodigy</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-prime-8-film-grabs-from-fb-2023-edition/"><u>[Updated] In 2024, Prime 8 Film Grabs From FB 2023 Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-toggle-pip-for-streaming-youtube-videos-more-conveniently-with-iphone/"><u>[Updated] Toggle PIP for Streaming Youtube Videos More Conveniently with iPhone</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-xiaomi-14-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Xiaomi 14? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-oneplus-11r-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your OnePlus 11R Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-achieving-flawless-photos-with-size-tweaks-on-ios/"><u>In 2024, Achieving Flawless Photos with Size Tweaks on iOS</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-iphone-13-mini-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On iPhone 13 mini Smoothly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-the-rings-rhythm-a-clash-with-streamers/"><u>In the Ring's Rhythm A Clash with Streamers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/influencing-cultures-through-memetic-expression/"><u>Influencing Cultures Through Memetic Expression</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mehrere-effektive-techniken-zur-sicheren-vervielfaltigung-von-kopierschutz-dvds-erlautern/"><u>Mehrere Effektive Techniken Zur Sicheren Vervielfältigung Von Kopierschutz-DVDs Erläutern</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premier-digital-discussion-director/"><u>Premier Digital Discussion Director</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/space-saver-strategies-pioneering-the-best-cloud-platforms/"><u>Space-Saver Strategies Pioneering the Best Cloud Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-post-a-picture-on-youtube/"><u>The Ultimate Guide to Post a Picture on YouTube</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-5-solutions-for-resolving-the-no-user-logged-in-issue-in-cs-go/"><u>Top 5 Solutions for Resolving the 'No User Logged In' Issue in CS: GO</u></a></li>
 </ul></div>
 

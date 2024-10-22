@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Crafting New Dimensions  A Look at Mixed Reality\""
-date: 2024-10-09T18:24:23.451Z
-updated: 2024-10-16T20:42:37.405Z
+date: 2024-10-17T19:13:57.526Z
+updated: 2024-10-22T18:14:38.257Z
 tags: 
   - screen-recording
   - ai video
@@ -37,15 +37,22 @@ thumbnail: https://www.lifewire.com/thmb/ACLdGCkJybpMMfm3FCszTRQh_w8=/400x300/fi
  With the development of the technology is shrouded in secrecy by the major players, all that is known on the operations of the technology is that it uses virtual reality and augmented reality as well as space and coordinates. Magic Leap is the company at the forefront in the development of mixed reality and they have remained tight lipped about the finer details of what they are doing or developing. The scanty details we know however, suggests that just like Hololens, mixed reality will use a projector for displaying images on semi transparent materials which will then be reflected to the eye with the help of beam-splitting technology.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Applications of Mixed Reality
 
  Due to the unique features and experiences offered by mixed reality, businesses, developers and the world in general is beginning to explore the various ways to utilize the technology for the best possible results. Currently, fields such as medicine, architecture and urban planning and education and training appear to be the greatest beneficiary of mixed reality technology.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mixed Reality for sharing real-world virtual workspaces
 
@@ -54,22 +61,15 @@ thumbnail: https://www.lifewire.com/thmb/ACLdGCkJybpMMfm3FCszTRQh_w8=/400x300/fi
  Sharing real world virtual spaces through mixed reality can be especially beneficial for sales team when making a pitch for a new offer. For instance, a pharmaceutical sales rep can carry along two mixed reality devices to an appointment with the doctor. The doctor and the sales rep can then both wear the devices and see a model of the new drug as explained by the sales rep. Through this, they can then visualize the chemical composition of the drug and also simulate how the drug will move in the body to fight diseases. Through such a shared experience, the sales rep will not only build deeper connections with the doctor, but also offer a more detailed explanation on the product being offered.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mixed reality for remote experts – over the shoulder coaching
 
  Most enterprises usually find it difficult to address all the support requests from all the clients in need of expert advice. It is not only costly to fly in specialists to fix things in different locations, but also time consuming. Besides, it is never adequate to troubleshoot an issue over the phone and video conferencing in such situations also have its limitations. But all these can now be avoided through the application of mixed reality for offering over the shoulder coaching remotely. With mixed reality, access to experts can be done quickly and inexpensively. For example, doctors in the healthcare industry can offer guidance and decisions to students or other doctors without the need of being in the actual locations.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The future of mixed reality
 
@@ -82,10 +82,10 @@ thumbnail: https://www.lifewire.com/thmb/ACLdGCkJybpMMfm3FCszTRQh_w8=/400x300/fi
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -103,20 +103,14 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-essential-list-of-free-rippers-for-video-conversion/"><u>[New] 2024 Approved Essential List of Free Rippers For Video Conversion</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-bringing-to-life-advanced-color-correction-guide/"><u>[Updated] Bringing to Life Advanced Color Correction Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-identify-the-best-8-services-to-enhance-youtube-engagement/"><u>[Updated] Identify the Best 8 Services to Enhance YouTube Engagement</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-a-step-by-step-guide-to-youtube-to-igtv-conversion/"><u>[Updated] In 2024, A Step-by-Step Guide to YouTube to IGTV Conversion</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-supercharge-your-social-sagas-free-seamless-online-integration-for-2024/"><u>[Updated] Supercharge Your Social Sagas FREE, Seamless Online Integration for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-secure-image-privacy-with-blur-features/"><u>2024 Approved Secure Image Privacy with Blur Features</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-comprehensive-guide-to-azure-speech-to-text-implementation/"><u>A Comprehensive Guide to Azure Speech-to-Text Implementation</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/breaking-down-whatsapps-voice-call-features/"><u>Breaking Down WhatsApp's Voice Call Features</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comparing-sns-hdrs-capabilities-with-competitor-software-for-2024/"><u>Comparing SNS HDR's Capabilities with Competitor Software for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-camera-control-tips-for-unshakable-images/"><u>In 2024, Camera Control Tips for Unshakable Images</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-14-pro-max-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 14 Pro Max? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pathways-to-the-system32-folder-in-win11/"><u>Pathways to the System32 Folder in Win11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pro-iphone-light-techniques-for-expert-photographers/"><u>Pro iPhone Light Techniques for Expert Photographers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/srt-to-subtitles-subc-practical-steps-for-conversion/"><u>SRT to Subtitles (SUBC) Practical Steps for Conversion</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-itel-a60-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Itel A60? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-changing-your-windows-11-backdrop-with-precision/"><u>[New] Changing Your Windows 11 Backdrop with Precision</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-quick-guide-on-recording-gotomeeting-chats-with-ease/"><u>[New] In 2024, Quick Guide on Recording GoToMeeting Chats with Ease</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-amplify-creativity-in-photography-innovative-pixlr-hacks/"><u>[Updated] Amplify Creativity in Photography Innovative Pixlr Hacks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-seamlesscapture-w10s-simple-recording-tool/"><u>[Updated] In 2024, SeamlessCapture W10's Simple Recording Tool</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mobile-mastery-best-apps-for-photo-enhancing-features/"><u>2024 Approved Mobile Mastery Best Apps for Photo-Enhancing Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-videos-pc-and-mobile-filter-integration/"><u>Enhancing Videos PC & Mobile Filter Integration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/laughing-legacy-laborer/"><u>Laughing Legacy Laborer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-the-art-of-upgrading-intel-imacs-for-better-functionality/"><u>Mastering the Art of Upgrading Intel iMacs for Better Functionality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-utmarkta-redigerar-utgifter-for-spridande-av-din-online-och-offline-videoomslutning/"><u>Top 5 Utmärkta Redigerar Utgifter För Spridande Av Din Online- Och Offline Videoomslutning</u></a></li>
 </ul></div>
 

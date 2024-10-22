@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Potential of Wide Angle 360 Photos"
-date: 2024-10-14T23:19:35.087Z
-updated: 2024-10-16T17:56:59.500Z
+date: 2024-10-20T19:38:02.221Z
+updated: 2024-10-22T17:13:39.635Z
 tags: 
   - screen-recording
   - ai video
@@ -37,16 +37,23 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
 ![Panohead for Fisheye lens](https://images.wondershare.com/filmora/article-images/panohead-for-fishlens.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2. Leveling and rotating
@@ -54,6 +61,13 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
  Other than setting up and calibrating the equipment in the right manner, it is important to keep the camera steady and leveled as you make the rotations to take shots. For leveling, it is recommended to use an appropriate leveling base, while for rotation, using a panning clamp on top of the ballhead is highly recommended.
 
 ![Panning clam on ballhead](https://images.wondershare.com/filmora/article-images/panning-clam-on-ballhead.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3. The actual shooting
 
@@ -67,6 +81,13 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
 
  In normal photography, it always pays to remember what to include and what to exclude in your shots. When it comes to shooting 360s, it becomes more complicated since everything is included. For you to take successful 360s with fisheye therefore, you need to consider keenly where you stand. The fisheye lens will introduce a lot of space between you and the subject, hence you must consider how close or far away you are from the subject so that the pieces of the compositional puzzle will fall in place smoothly both in the horizontal and vertical planes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stitching 360 degrees panoramas after shooting
 
  To stitch 360s taken by fisheye lenses after shooting, you will need panorama software like [Autopano Pro](http://www.kolor.com/) or [PTGui](https://www.ptgui.com/). For Autopano Pro, you begin by importing the images into the software and ensuring that the EXIF are displayed correctly on the program. With the right settings in place, the next step is to launch the direct stitching feature if you don’t want to go the manual way. Once the stitching is done, it will be important to present the output online. This can be done using [Pano2VR](http://www.ggnome.com/pano2vr) or you could simply upload the finished panoramas to [360cities](https://www.360cities.net/) for online viewing.
@@ -74,13 +95,6 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
  You might be also interested in:
 
 [How to stitch GoPro clips into 360 videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What's fisheye lenses
 
@@ -92,31 +106,11 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
 
 ![create 360 photos with fisheye lens](https://images.wondershare.com/filmora/article-images/fisheye-lens-image.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Conclusion
 
  Fisheye lenses have been around for a while now and the process of creating 360 panoramas with them may not be very challenging, but great results are achieved through practice and proper stitching. Once the photos are taken, you can use premium panorama software like Autopano Pro or you can use free options like the Microsoft ICE or Hugin. Ones stitching are done, it is imperative to have the final works uploaded online for others to view.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -133,19 +127,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-advanced-techniques-using-jump-cuts-effectively/"><u>[Updated] 2024 Approved Advanced Techniques Using Jump Cuts Effectively</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-protectly-copy-youtube-tracks-for-free/"><u>[Updated] How to Protectly Copy Youtube Tracks for Free</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-ultimate-guide-windows-movie-maker-downloading-for-2024/"><u>[Updated] Ultimate Guide Windows Movie Maker Downloading for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/clearsnap-guide-how-to-exclude-distracting-picture-borders/"><u>ClearSnap Guide How to Exclude Distracting Picture Borders</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/curated-collection-of-top-tamil-ringtone-downloads-platforms/"><u>Curated Collection of Top Tamil Ringtone Downloads Platforms</u></a></li>
-<li><a href="https://facebook.techidaily.com/hack-prevention-tactic-300-price-tag-on-quest-headsets/"><u>Hack Prevention Tactic: 300 Price Tag on Quest Headsets</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-comprehensive-guide-to-canon-time-lapse-video/"><u>In 2024, A Comprehensive Guide to Canon Time-Lapse Video</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-boosting-team-engagement-with-zoom-techniques-on-msteams/"><u>In 2024, Boosting Team Engagement with ZOOM Techniques on MSTEAMS</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/instructional-manual-restoring-originality-in-windows-11-search/"><u>Instructional Manual: Restoring Originality in Windows 11 Search</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/iphones-visual-upgrades-in-ios-11-explored/"><u>IPhone's Visual Upgrades in iOS 11 Explored</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/make-your-images-stand-out-mastering-background-removal-with-photopea/"><u>Make Your Images Stand Out Mastering Background Removal with Photopea</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/seamless-virtual-conferencing-in-gmail-via-zoom-best-practices/"><u>Seamless Virtual Conferencing in Gmail via Zoom Best Practices</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/zippy-typography-two-approaches-to-liven-up-your-letters-for-2024/"><u>Zippy Typography Two Approaches to Liven Up Your Letters for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-elevate-your-camera-skills-mastering-macbook-webcams/"><u>[New] Elevate Your Camera Skills Mastering MacBook Webcams</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-is-active-presenter-8-the-peak-of-recording-in-2024/"><u>[New] Is Active Presenter 8 the Peak of Recording, In 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-understanding-facebook-messengers-signaling-with-a-blue-splash/"><u>[Updated] 2024 Approved Understanding Facebook Messenger's Signaling With a Blue Splash</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-how-to-record-your-games-with-diverse-software-solutions/"><u>2024 Approved How to Record Your Games with Diverse Software Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/conquering-challenges-advanced-hdr-workflows-in-ps-for-2024/"><u>Conquering Challenges Advanced HDR Workflows in PS for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/cut-the-chatter-capture-game-moments-easily/"><u>Cut the Chatter Capture Game Moments Easily</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-android-camera-techniques-and-tools/"><u>Cutting-Edge Android Camera Techniques & Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-9-pinnacle-in-live-game-broadcasting/"><u>In 2024, 9 Pinnacle in Live Game Broadcasting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-depth-analysis-of-yuneecs-typhoon-h-drone-technology/"><u>In-Depth Analysis of Yuneec's Typhoon H Drone Technology</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-nokia-c32-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Nokia C32 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/step-by-step-instructions-on-resetting-and-clearing-iphone-data/"><u>Step-by-Step Instructions on Resetting and Clearing iPhone Data</u></a></li>
 </ul></div>
 
