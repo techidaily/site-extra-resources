@@ -1,7 +1,7 @@
 ---
 title: "\"From Timeless Tales in Tone-On-Tone to Dynamic Digital Narratives\""
-date: 2024-10-17T19:38:10.529Z
-updated: 2024-10-22T18:35:56.084Z
+date: 2024-10-23T23:03:24.738Z
+updated: 2024-10-27T22:52:30.842Z
 tags: 
   - screen-recording
   - ai video
@@ -78,6 +78,13 @@ To convert your old photos into stunning videos, you can take the assistance of 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To learn how to come up with an impressive video collage using Filmora, just follow these steps:
 
 #### 1\.  Import your digitized photos
@@ -87,10 +94,10 @@ To start with, you can just launch Filmora on your system and import your photos
 ![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 2\. Create a timeline for your photos
@@ -99,18 +106,18 @@ Once you have imported your photos, you can include them in the timeline. To do 
 
 ![create timeline for photos ](https://images.wondershare.com/filmora/article-images/create-timeline-for-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 3\. Edit the video
 
 Just above the timeline, you can find all kinds of tools to edit your video. For instance, you can crop your photos, split the video, delete pictures, correct their coloring, and so on. To explore more options, you can click on the edit icon here.
 
 ![Edit Digitized Photos ](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
 
@@ -125,10 +132,10 @@ To add text to your videos, just go to the “Titles” option here. This will l
 ![Add Title to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
@@ -142,13 +149,6 @@ That’s it! After making all the changes, you can preview your video on the rig
 ![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
 
 Find more fancy ways to make the best photo and video slideshow with Filmora!
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## More Editing Tips for Creating Memorable Videos
 
@@ -197,19 +197,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-unlocking-emotional-depth-in-self-narrated-videos-yt/"><u>[New] 2024 Approved Unlocking Emotional Depth in Self-Narrated Videos YT</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-comprehensive-tutorial-for-periscope-proficiency/"><u>[New] Comprehensive Tutorial for Periscope Proficiency</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-exclusive-guide-turning-fb-videos-into-mp4-and-hd-for-2024/"><u>[New] Exclusive Guide Turning FB Videos Into MP4 & HD for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-dual-performances-the-new-social-media-art/"><u>[New] In 2024, Dual Performances The New Social Media Art</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-adding-captions-to-videos-using-microsoft-photos-windows-11/"><u>[Updated] Adding Captions to Videos Using Microsoft Photos (Windows 11)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-enhancing-twitters-visual-capacity-to-fhd-level-for-2024/"><u>[Updated] Enhancing Twitter's Visual Capacity to FHD Level for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-optimize-video-meetings-with-top-tier-10-free-recording-tools-for-2024/"><u>[Updated] Optimize Video Meetings with Top-Tier 10 Free Recording Tools for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-get-ahead-in-call-capturing-20plus-techniques-for-windowsmac-users/"><u>2024 Approved Get Ahead in Call Capturing 20+ Techniques for Windows/Mac Users</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/effortlessly-track-beats-with-our-speedy-free-analysis-software/"><u>Effortlessly Track Beats with Our Speedy, Free Analysis Software</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/tial-economic-education-top-15-youtube-picks/"><u>Essential Economic Education Top 15 YouTube Picks</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-motorola-razr-40-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Motorola Razr 40 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-game-developers-top-recording-tools/"><u>In 2024, Game Developers' Top Recording Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/master-headline-hacks-for-maximum-impressions/"><u>Master Headline Hacks for Maximum Impressions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-for-audio-editors-using-garageband/"><u>The Ultimate Guide for Audio Editors Using GarageBand</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-effective-youtube-customization-for-powerful-endings/"><u>[New] 2024 Approved Effective YouTube Customization for Powerful Endings</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-elevate-viewer-connection-mastering-the-art-of-square-footage-in-videos/"><u>[New] 2024 Approved Elevate Viewer Connection Mastering the Art of Square Footage in Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-capture-the-spectacular-with-nikon-d500-in-4k/"><u>[New] In 2024, Capture the Spectacular with Nikon D500 in 4K</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-ideal-online-audio-equipment-top-7-picks-2023/"><u>[New] In 2024, Ideal Online Audio Equipment Top 7 Picks 2023</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-streamline-color-correction-with-easy-techniques/"><u>[New] In 2024, Streamline Color Correction with Easy Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-ai-powered-vr-retail-navigation/"><u>[Updated] AI-Powered VR Retail Navigation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-auditory-interpretation-software-priceless-access/"><u>[Updated] Auditory Interpretation Software Priceless Access</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/classroom-visuals-cutting-edge-video-edits-for-teachers/"><u>Classroom Visuals Cutting Edge Video Edits for Teachers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-our-choice-of-the-finest-free-language-courses-on-the-web/"><u>Discover Our Choice of the Finest Free Language Courses on the Web</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-realme-12-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Realme 12 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-premier-5-time-lapse-camera-apps/"><u>In 2024, Premier 5 Time-Lapse Camera Apps</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-exploring-the-leading-10-cost-effective-podcast-production-applications/"><u>New Exploring the Leading 10 Cost-Effective Podcast Production Applications</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visual-symphony-choosing-background-music/"><u>Visual Symphony Choosing Background Music</u></a></li>
 </ul></div>
 

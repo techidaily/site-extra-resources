@@ -1,7 +1,7 @@
 ---
 title: "ARCADE AFFORDABILITY INDEX"
-date: 2024-07-25T06:06:20.349Z
-updated: 2024-07-26T06:06:20.349Z
+date: 2024-10-21T04:00:29.178Z
+updated: 2024-10-28T03:39:58.849Z
 tags: 
   - screen-recording
   - ai video
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/a9e60c359d76678f8aad5193db4d1713b6255faff
 * [Part2.The Pros and Cons of POT Player](#part2)
 * [Part3.Deep Review of Pot Player](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What’s POT Player?
 
  POT Player is a feature rich platform that offers wide range of functionality even beyond expectations of common users. This player is available as a freeware for Windows OS on 32 bit as well as 64 bit platform and plays videos without posing any restriction. Users can easily download this software from internet and get started for free.
@@ -42,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/a9e60c359d76678f8aad5193db4d1713b6255faff
  The great thing to know about POT Player is that it never creates bourdon on CPU and never even clutters memory of your system. It is an intelligent video player that keeps track of your last played tracks so that whenever you have to switch over it for next time, it can simply resume from last paused location. Thus viewers can expect uninterrupted playback services all the time.
 
  You will be glad to know that POT player platform is highly customizable and it assists users to enjoy videos with added support to subtitles. It accepts all audio and video files with quality delivery of content.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### POT Player Features
 
@@ -56,13 +60,21 @@ thumbnail: https://thmb.techidaily.com/a9e60c359d76678f8aad5193db4d1713b6255faff
 * Users can access keyboard shortcuts for subtitles, contrast, brightness, volume, zooming and seeking.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## The Pros and Cons of POT Player
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### The Good
 
 * POT Players works fine with all editions of Windows (32/64 bit versions).
@@ -75,16 +87,16 @@ thumbnail: https://thmb.techidaily.com/a9e60c359d76678f8aad5193db4d1713b6255faff
 * Beginners may find its setup quite difficult with loads of advanced settings.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### The Truth
 
  The truth behind its classic design is that POT player is basically dedicated to advanced or professional users. Those who demand higher controls over customization and want to explore wide range of media file formats can enjoy great viewing experience over POT Player.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## Deep Review of Pot Player
 
 ### 1\. Adding Files and Managing Playlists
@@ -96,8 +108,12 @@ thumbnail: https://thmb.techidaily.com/a9e60c359d76678f8aad5193db4d1713b6255faff
 ![pot-add-files](https://images.wondershare.com/filmora/article-images/pot-add-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Playing Audio Files
 
  When you are ready to enjoy playbacks then it is also possible to pair up content with equalizers in order to have rich sound quality. When this paired up connection is dragged into timeline, they work in perfect synchronism and if you want to separate them at any moment then simply drag the playlist.
@@ -108,9 +124,6 @@ thumbnail: https://thmb.techidaily.com/a9e60c359d76678f8aad5193db4d1713b6255faff
 
 ![pot-play-audio](https://images.wondershare.com/filmora/article-images/pot-play-audio.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Playing Video Files
 
  Generally, the video frame appears on left portion of screen and right one stays cluttered with playlist but you can simply close it by pressing the little arrow head on right most corner of screen. In order to bring video to the full screen mode, you need to double click over it. Return back to small window by pressing Esc or double click again.
@@ -127,12 +140,31 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-ultimate-guide-to-cinematography-on-youtube/"><u>[New] In 2024, The Ultimate Guide to Cinematography on YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-comprehensive-guide-to-creating-movies-not-just-youtube/"><u>[Updated] 2024 Approved The Comprehensive Guide to Creating Movies, Not Just YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-from-concept-to-completion-building-effective-facebook-covers/"><u>[Updated] In 2024, From Concept to Completion Building Effective Facebook Covers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-15plus-destinations-for-cost-free-imagery-harvesting/"><u>2024 Approved 15+ Destinations for Cost-Free Imagery Harvesting</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-lightweight-or-heavy-duty-choose-between-m1-laptops/"><u>2024 Approved Lightweight or Heavy-Duty Choose Between M1 Laptops</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-live-sound-experience-service-for-2024/"><u>Best Live Sound Experience Service for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bring-a-chuckle-to-life-generating-text-memes-for-2024/"><u>Bring a Chuckle to Life Generating Text Memes for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/clear-water-footage-pro-techniques-for-gopro-underwater-scenes/"><u>Clear Water Footage Pro Techniques for GoPro Underwater Scenes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/everything-you-need-to-know-about-spanish-verbs-and-conjugations/"><u>Everything You Need To Know About Spanish Verbs & Conjugations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-guide-for-digital-video-photo-effects-application/"><u>In 2024, Comprehensive Guide for Digital Video Photo Effects Application</u></a></li>
+<li><a href="https://extra-support.techidaily.com/newcomers-guide-profiting-from-live-streaming-on-periscope-for-2024/"><u>Newcomer’s Guide Profiting From Live Streaming on Periscope for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/newly-launched-wonderfox-document-handling-software-version-12-now-available/"><u>Newly Launched WonderFox Document Handling Software - Version 1.2 Now Available</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pioneering-methods-for-increased-srt-on-macoswindows/"><u>Pioneering Methods for Increased SRT on macOS/Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/simplify-image-editing-picart-background-shedding/"><u>Simplify Image Editing PicArt Background Shedding</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-importance-of-non-primary-shots-in-media/"><u>The Importance of Non-Primary Shots in Media</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/theta-s-deep-dive-an-extensive-review/"><u>Theta S Deep Dive An Extensive Review</u></a></li>
+<li><a href="https://win11.techidaily.com/top-4-remedies-to-resolve-the-0xc00d36c4-error-during-videoaudio-playback/"><u>Top 4 Remedies to Resolve the '0xC00D36C4' Error During Video/Audio Playback</u></a></li>
+</ul></div>
 

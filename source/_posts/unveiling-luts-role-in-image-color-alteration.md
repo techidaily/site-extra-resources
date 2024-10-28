@@ -1,7 +1,7 @@
 ---
 title: "Unveiling LUTs' Role in Image Color Alteration"
-date: 2024-10-03T01:40:03.859Z
-updated: 2024-10-05T06:48:36.743Z
+date: 2024-10-23T23:38:06.601Z
+updated: 2024-10-28T03:12:59.219Z
 tags: 
   - screen-recording
   - ai video
@@ -67,10 +67,16 @@ Choose Adjustment Layer
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 load 3d lut
@@ -82,10 +88,10 @@ load 3d lut
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Here's the first method
@@ -94,13 +100,6 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 2. When discussing Photoshop, the project is typically an image, so go ahead and open it. Open a new one by pressing 'Ctrl+O' or importing something from your cloud.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Here's the second one
 
@@ -119,10 +118,10 @@ Grow Together
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Closing Thoughts:
@@ -134,6 +133,13 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Closing Thoughts:
 
@@ -165,20 +171,20 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-blend-audio-and-visuals-editing-music-in-canva-videos/"><u>[New] Blend Audio & Visuals Editing Music in Canva Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-techniques-to-elevate-your-channels-visibility/"><u>[Updated] 2024 Approved Essential Techniques to Elevate Your Channel's Visibility</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-ace-set-of-rotational-recording-devices/"><u>[Updated] Ace Set of Rotational Recording Devices</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-best-hd-video-playback-the-essential-apps-for-android/"><u>[Updated] Best Hd Video Playback The Essential Apps for Android</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-fade-inout-processes-in-audacity/"><u>[Updated] Navigating Fade-In/Out Processes in Audacity</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-power-of-persuasion-how-to-boost-instagram-post-reach/"><u>[Updated] The Power of Persuasion How to Boost Instagram Post Reach</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-corpse-comic-connoisseur/"><u>2024 Approved Corpse Comic Connoisseur</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/bards-brilliance-in-modern-dialogue-36-phrases-examined/"><u>Bard's Brilliance in Modern Dialogue: 36 Phrases Examined</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-tecno-spark-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Tecno Spark 10 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/creating-engaging-text-based-adventures-a-guide-to-using-chatgpt-in-role-playing-games/"><u>Creating Engaging Text-Based Adventures: A Guide to Using ChatGPT in Role-Playing Games</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-the-landscape-of-fb-med-ad-optimization/"><u>Navigating the Landscape of FB Med Ad Optimization</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/realigning-captions-from-srt-to-subcap/"><u>Realigning Captions From SRT to SUBCAP</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/windows-hdri-techniques-for-videographers/"><u>Windows HDRI Techniques for Videographers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/xiaomis-aerial-camera-test-in-full-hd/"><u>Xiaomi's Aerial Camera Test in Full HD</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-all-inclusive-expense-exploration-embarking-on-a-podcast/"><u>[New] All-Inclusive Expense Exploration Embarking on a Podcast</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-build-your-mark-affordable-logo-creation-with-tailored-templates/"><u>[Updated] Build Your Mark Affordable Logo Creation with Tailored Templates</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-global-reach-to-engagement-deciphering-igtv-and-youtubes-strategies/"><u>[Updated] In 2024, From Global Reach to Engagement Deciphering IGTV & YouTube’s Strategies</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-navigate-to-new-horizinas-top-win11-gaming-delights-for-2024/"><u>[Updated] Navigate to New Horizinas Top Win11 Gaming Delights for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-uncover-the-secret-correcting-mobile-video-sharing-on-fb-messenger/"><u>[Updated] Uncover the Secret Correcting Mobile Video Sharing on FB Messenger</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-amc-explorer-ghost-drift-cam-analysis/"><u>2024 Approved AMC Explorer Ghost Drift Cam Analysis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-bargains-comparing-cloud-storage-prices/"><u>2024 Approved Best Bargains Comparing Cloud Storage Prices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/achieve-side-by-side-viewing-on-chrome-the-pip-method-for-2024/"><u>Achieve Side-by-Side Viewing on Chrome The PIP Method for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-a-complete-media-experience-mixing-music-and-video-in-premiere-pro/"><u>In 2024, Crafting a Complete Media Experience Mixing Music and Video in Premiere Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-methods-for-effectful-tiktok-videos/"><u>Innovative Methods for Effectful TikTok Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/master-the-art-of-sharing-ultra-hd-4k-footage-on-facebook-a-comprehensive-converter-tool-and-tutorial-resource/"><u>Master the Art of Sharing Ultra HD 4K Footage on Facebook: A Comprehensive Converter Tool & Tutorial Resource</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-showdown-after-effects-vs-adobe-premiere-pro-for-2024/"><u>Updated The Ultimate Showdown After Effects vs Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-xs-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone XS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-putting-chatgpt-on-your-phone-may-not-be-ideal/"><u>Why Putting ChatGPT on Your Phone May Not Be Ideal</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/windows-media-player-guide-to-cd-ripping-and-burning/"><u>Windows Media Player Guide to CD Ripping and Burning</u></a></li>
 </ul></div>
 

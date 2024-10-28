@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, A Palette in Balance  Implementing Theoretical Knowledge\""
-date: 2024-10-02T07:47:19.848Z
-updated: 2024-10-04T17:27:33.741Z
+date: 2024-10-21T22:07:49.826Z
+updated: 2024-10-28T01:28:02.099Z
 tags: 
   - screen-recording
   - ai video
@@ -28,26 +28,26 @@ Color theory consists of many elements that could fill a library on its own but 
 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Color Wheel
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
 
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Color Harmony
@@ -64,13 +64,6 @@ The blue lines represent what is known as split contrasting colors and these wil
 
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## But How Do I Use This
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
@@ -84,13 +77,20 @@ As you can see from this example the base color for the scene is a dark blue/pur
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -126,24 +126,20 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-a-filmmakers-guide-to-quick-and-clear-marine-video/"><u>[New] A Filmmaker’s Guide to Quick and Clear Marine Video</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-are-reviews-for-goods-online-monetized/"><u>[New] Are Reviews For Goods Online Monetized?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-best-slogan-generator-for-virtual-events/"><u>[New] Best Slogan Generator for Virtual Events</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-beat-the-wait-efficient-iphone-time-lapse-tricks/"><u>2024 Approved Beat the Wait Efficient iPhone Time-Lapse Tricks</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-world-of-sound-effects-in-youtube-videos/"><u>2024 Approved Navigating the World of Sound Effects in YouTube Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-guide-to-using-snapchats-influencer-showcase-for-2024/"><u>A Guide to Using Snapchat's Influencer Showcase for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/creative-tims-ultimate-react-paper-kit-with-bootstrap-and-reactstrap-gratis/"><u>Creative Tim's Ultimate React Paper Kit with Bootstrap & Reactstrap - Gratis</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expert-choice-top-tier-mp4-gear/"><u>Expert Choice Top-Tier MP4 Gear</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/flashback-filmmaking-essential-retro-vhs-techniques-for-modern-videos/"><u>Flashback Filmmaking Essential Retro VHS Techniques for Modern Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-save-your-video-tweets-as-high-quality-mp3-files/"><u>How to Save Your Video Tweets as High-Quality MP3 Files</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-google-by-drfone-android/"><u>How to Show Wi-Fi Password on Google</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-essential-insights-from-toms-hardware-reviews/"><u>Mastering Technology: Essential Insights From Tom's Hardware Reviews</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-zoom-for-enhanced-tiktok-streams/"><u>Mastering Zoom for Enhanced TikTok Streams</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/panasonics-hx-a1-wearable-cam-examined-a-detailed-review/"><u>Panasonic’s HX-A1 Wearable Cam Examined - A Detailed Review</u></a></li>
-<li><a href="https://extra-support.techidaily.com/perfect-purity-extract-background-from-your-photos-at-home-for-2024/"><u>Perfect Purity Extract Background From Your Photos at Home for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stay-chill-with-the-ultimate-cpu-cooling-solution-the-peerless-assassin-120-se-by-thermalright-now-for-an-unbeatable-price-of-33/"><u>Stay Chill with the Ultimate CPU Cooling Solution: The Peerless Assassin 120 SE by Thermalright - Now for an Unbeatable Price of $33</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-tutorial-adding-sound-effects-to-different-chapters-of-your-ebook-on-flipbook/"><u>Step-by-Step Tutorial: Adding Sound Effects to Different Chapters of Your eBook on FlipBook</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-comprehensive-guide-to-leveraging-chatgpts-api-capabilities/"><u>The Comprehensive Guide to Leveraging ChatGPT's API Capabilities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capturing-the-essence-of-time-lapse-videos-pro-techniques-for-gopro-hero-10-users/"><u>[New] Capturing the Essence of Time-Lapse Videos Pro Techniques for GoPro Hero 10 Users</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-prioritize-savings-with-the-best-6-affordable-camera-brands/"><u>[New] Prioritize Savings with the Best 6 Affordable Camera Brands</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-guide-to-downgrade-from-sierra-to-el-capitan-on-macs/"><u>[Updated] Guide to Downgrade From Sierra to El Capitan on Macs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-enhance-yi-4k-video-quality-with-essential-kits/"><u>[Updated] In 2024, Enhance YI 4K Video Quality with Essential Kits</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-freenoweb-cam-app-assessment-and-comparison-guide/"><u>[Updated] In 2024, FreenoWeb Cam App Assessment & Comparison Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-slay-the-game-designing-quirky-text-memes/"><u>[Updated] Slay the Game Designing Quirky Text Memes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-delving-into-the-heart-of-apples-m1-processor/"><u>2024 Approved Delving Into the Heart of Apple's M1 Processor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/coders-showdown-which-codec-will-dominate-video-quality/"><u>Coders' Showdown Which Codec Will Dominate Video Quality?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhance-your-mp4-files-with-srt-the-complete-guide/"><u>Enhance Your MP4 Files with SRT – The Complete Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-analysis-of-the-latest-video-show-app-24-release/"><u>Expert Analysis of the Latest Video Show App '24 Release</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/high-staking-homes-expert-snapshots/"><u>HIGH-STAKING HOMES Expert Snapshots</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-bring-life-to-graphics-adobe-blur-masterclass/"><u>In 2024, Bring Life to Graphics Adobe Blur Masterclass</u></a></li>
+<li><a href="https://techidaily.com/resolving-iphone-updaterestore-issue-detailed-guide-on-overcoming-error-code-4013/"><u>Resolving iPhone Update/Restore Issue: Detailed Guide on Overcoming Error Code 4013</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/riding-the-wave-strategies-for-high-likes-tiktok-unpacking-videos/"><u>Riding the Wave Strategies for High-Likes TikTok Unpacking Videos</u></a></li>
+<li><a href="https://win-web.techidaily.com/the-distinction-between-the-articles-and-bylaws-is-that-articles-establish-legal-existence-bylaws-manage-day-to-day-operations/"><u>The Distinction Between the Articles and Bylaws Is that Articles Establish Legal Existence; Bylaws Manage Day-to-Day Operations.</u></a></li>
 </ul></div>
 

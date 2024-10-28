@@ -1,7 +1,7 @@
 ---
 title: "Tackling Photo App Errors in Windows 11"
-date: 2024-10-17T17:15:40.176Z
-updated: 2024-10-22T16:46:54.967Z
+date: 2024-10-25T09:52:10.966Z
+updated: 2024-10-27T19:41:58.273Z
 tags: 
   - screen-recording
   - ai video
@@ -42,13 +42,6 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 
 ## How to fix Windows 10 Photos app crashes
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 1: Use the Troubleshooter
 
 The Windows Troubleshooter is an inbuilt troubleshooting feature embedded with Windows 10 computers. It allows a simple interface to help you choose any application for troubleshooting. Windows Troubleshooter resolves basic issues with the Windows computer so that users can seamlessly use all Windows 10 system features and functionalities.
@@ -60,8 +53,22 @@ Here is how to troubleshoot –
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
 
@@ -75,19 +82,6 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 3: Reset it
 
@@ -110,13 +104,6 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 5: Reinstall Windows 10 Photos app
 
 Alternatively, if nothing works out in your favor, you can always fix Windows 10 Photos App crash issue by reinstalling Windows 10 Photos App. A corrupted Photos App might create disturbance for you, so reinstalling would get a fresh and bug free version on your system from the Microsoft Store.
@@ -128,6 +115,13 @@ Here is how to reinstall the Windows 10 Photos App –
 2. Now, visit the ‘Microsoft Store on your computer and find ‘Microsoft Photos.’
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 From the above article, we have concluded that experiencing Windows 10 Photos App crashes is not uncommon. But, resolving them shouldn’t give you nightmares as well. From the above-mentioned process guides, you can fix the Windows 10 Photos App crashes effectively without any hassle. Try following each method until you get the Photos App crash issue fixed, so you can view your photos without any trouble.
@@ -135,10 +129,10 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -158,20 +152,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-6-high-definition-21-hdmi-models-analyzed/"><u>[New] 6 High-Definition 2.1 HDMI Models Analyzed</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-mastering-the-art-of-transforming-social-media-videos-to-gifs-for-2024/"><u>[New] Mastering the Art of Transforming Social Media Videos to GIFs for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-stabilizing-pixels-the-truth-behind-photoshop-shake/"><u>[Updated] Stabilizing Pixels The Truth Behind Photoshop Shake</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-are-reviews-for-goods-online-monetized/"><u>2024 Approved Are Reviews For Goods Online Monetized?</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-behind-the-scenes-how-to-create-youtube-trailers-in-filmora/"><u>2024 Approved Behind the Scenes How-To Create YouTube Trailers in Filmora</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/advanced-docu-ai-techniques-mastering-smart-scanning-with-abbyy-and-pegasystems/"><u>Advanced Docu-AI Techniques: Mastering Smart Scanning with ABBYY & Pegasystems</u></a></li>
-<li><a href="https://change-location.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/gopros-rivalry-with-drift-ghost-the-racing-camera-faceoff/"><u>GoPro's Rivalry with Drift Ghost - The Racing Camera Faceoff</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-zoom-in-on-roblox/"><u>How to Zoom in on Roblox</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pushing-boundaries-with-film-color-grading-these-7/"><u>Pushing Boundaries with Film Color Grading (These 7)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/revolutionizing-live-streams-discover-top-5-innovations/"><u>Revolutionizing Live Streams Discover Top 5 Innovations</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/showdown-analyzing-the-pros-and-cons-of-nintendo-switch-lite-vs-oled-model/"><u>Showdown: Analyzing the Pros & Cons of Nintendo Switch Lite Vs. OLED Model</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-metaverse-versus-multi-meva-comprehensive-differences-overviewed/"><u>The Metaverse Versus Multi-Meva Comprehensive Differences Overviewed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/transform-your-photos-and-videos-swiftly-abroad/"><u>Transform Your Photos and Videos Swiftly, Abroad</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-minecraft-solutions-for-opengl-errors/"><u>Troubleshooting Minecraft: Solutions for OpenGL Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-nvidia-software-connection-failure-in-os-x/"><u>Addressing NVIDIA Software Connection Failure in OS X</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/breaking-into-design-your-strategy-for-career-success/"><u>Breaking Into Design Your Strategy for Career Success</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/clearing-up-blackouts-in-facebook-live-streams-using-top-browsers/"><u>Clearing Up Blackouts in Facebook Live Streams Using Top Browsers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discovering-ffmpegs-potency-in-original-sound-format-retention/"><u>Discovering FFmpeg's Potency in Original Sound Format Retention</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/duration-estimate-for-an-hd-20mb-movie-file/"><u>Duration Estimate for an HD 20Mb Movie File</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-amusingscreen-join-the-video-making-party/"><u>In 2024, AmusingScreen Join the Video Making Party</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-directing-fundamentals-a-comprehensive-online-course-by-youtube-experts/"><u>In 2024, Directing Fundamentals A Comprehensive Online Course by YouTube Experts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-samsung-galaxy-f34-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Samsung Galaxy F34 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/secure-shots-with-a-steadier-gopro-video-technique/"><u>Secure Shots with a Steadier GoPro Video Technique</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-poco-c65-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Poco C65 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-twitter-management-applications-and-programs/"><u>Top Rated Twitter Management Applications & Programs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-transferring-high-definition-videos-to-your-iphoneipad-using-the-powerful-winx-video-converter-pro/"><u>Ultimate Guide: Transferring High-Definition Videos to Your iPhone/iPad Using the Powerful WinX Video Converter Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-funimates-downloading-magic/"><u>Unlock Funimate's Downloading Magic</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/warehouse-in-the-sky-top-pricing-on-demand/"><u>Warehouse in the Sky Top Pricing on Demand</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Comprehensive Analysis of Syma X5C  Best Starter Drone Pick\""
-date: 2024-10-18T16:32:24.716Z
-updated: 2024-10-22T20:02:52.280Z
+date: 2024-10-26T13:25:32.096Z
+updated: 2024-10-28T11:42:57.853Z
 tags: 
   - screen-recording
   - ai video
@@ -61,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
  There are so many incredible features inside Syma X5C that make it suitable device for [aerial photography](https://tools.techidaily.com/wondershare/filmora/download/). The intuitive controls are much easier to explore even for beginners. The remote control is user friendly and all other latest features make it a must buy product for drone lovers.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Complete Review for Syma X5C
@@ -99,10 +99,16 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
 ![syma x5c controller](https://images.wondershare.com/filmora/article-images/syma-x5c-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The remote unit or transmitter works with a 2.4GHz frequency setting with 4 channel type control. It helps pilots to enjoy wider flying range with spread spectrum technology. The maximum flying range falls between 30 to 50 meters and no lags have been reported yet in control selection and quadcopter reactions. Using flip switch, you can directly adjust the movements in air.
@@ -112,19 +118,19 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
 ![syma x5c camera](https://images.wondershare.com/filmora/article-images/syma-x5c-camera.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Syma H5C camera is rated as moderately stable and it is capable enough to take impressive pictures from air. This device is equipped with a 2GB MicroSD card that offers personal storage space to all recorded videos and images. The sad part is here that controller unit of this device is able to send signals to drone only; it cannot control the camera actions. Thus your camera stays focused in only one direction all the time and have fixed focus during shoots. You cannot apply zoom, direction sensing inputs or focus adjustment controls when your device is in air. If you are searching for a highly controlled footage generator then it is good to go for other Phantom series and other competing models as per your budget. But Syma H5C is really a good choice to start with.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -148,20 +154,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-best-10-free-jpg-to-gif-conversion-tools/"><u>[New] Best 10 Free JPG to GIF Conversion Tools</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/treamed-dialogue-scribe-for-2024/"><u>[New] Streamed Dialogue Scribe for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-beyond-the-norm-redefining-fun-with-vr-technology/"><u>2024 Approved Beyond the Norm Redefining Fun with VR Technology</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/advanced-tips-to-blend-spin-and-align-your-android-videos-for-2024/"><u>Advanced Tips to Blend, Spin & Align Your Android Videos for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/como-convertir-tu-musica-o-video-archivado-en-formato-aiff-usando-el-conversor-sin-costo-de-movavi-una-guia-simple-e-intuitiva/"><u>Cómo Convertir Tu Música O Video Archivado en Formato AIFF Usando El Conversor Sin Costo De Movavi: Una Guía Simple E Intuitiva</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/engage-and-learn-students-choice-of-best-historical-youtubes/"><u>Engage & Learn Students' Choice of Best Historical YouTubes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-se-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone SE without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-7-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 7 Unavailable Issue With Ease</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-list-14-animation-illustration-cases/"><u>In 2024, A-List 14 Animation Illustration Cases</u></a></li>
-<li><a href="https://win-superb.techidaily.com/in-depth-evaluation-of-active-partition-recovery-tool-with-effective-replacement-options/"><u>In-Depth Evaluation of Active@ Partition Recovery Tool with Effective Replacement Options</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/lightning-fast-visualization-for-win11-users/"><u>Lightning-Fast Visualization for Win11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-for-unblocking-search-results-in-win-1011-os/"><u>Methods for Unblocking Search Results in Win 10/11 OS</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-why-age-of-empires-iv-wasnt-initially-uploadable/"><u>Resolved: Why Age of Empires IV Wasn't Initially Uploadable</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/revolutionize-your-shooting-essential-camera-gear-guide/"><u>Revolutionize Your Shooting Essential Camera Gear Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-shorts-into-compact-mp4-files/"><u>[New] 2024 Approved How to Make Shorts Into Compact MP4 Files</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-browsing-like-a-pro-5-top-choices-for-screen-capture-software/"><u>[New] Browsing Like a Pro 5 Top Choices for Screen Capture Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-leading-8-multimedia-apps-for-creative-phones-android-ios/"><u>[New] The Leading 8 Multimedia Apps for Creative Phones (Android, iOS)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-trio-of-dimensions-differentiating-the-futures-tech-trio/"><u>[Updated] A Trio of Dimensions Differentiating the Future's Tech Trio</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-resolutionrefiner-x1-high-res-video-enhancer/"><u>[Updated] In 2024, ResolutionRefiner X1 - High-Res Video Enhancer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/20-great-free-options-for-web-based-photo-tinkering/"><u>20 Great Free Options for Web-Based Photo Tinkering</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/best-free-call-apps-on-android-ranks-them-in-2024/"><u>Best Free Call Apps on Android, Ranks Them, In 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/delicate-downgrades-of-decibels-in-garageband/"><u>Delicate Downgrades of Decibels in Garageband</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/final-cut-pro-everything-you-need-to-know/"><u>Final Cut Pro – Everything You Need to Know</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-winxdvd-membership-cancellation-and-full-refund-process/"><u>Free WinXDVD Membership Cancellation & Full Refund Process</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harnessing-onscreen-power-expert-tips-on-cropping-images/"><u>Harnessing Onscreen Power Expert Tips on Cropping Images</u></a></li>
+<li><a href="https://extra-information.techidaily.com/maximum-videos-on-a-64gb-drive/"><u>Maximum Videos on a 64GB Drive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-unveiling-the-latest-in-computer-gear/"><u>Tom's Tech Hub: Unveiling the Latest in Computer Gear</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visual-virtuosos-top-free-afx-samples-collection/"><u>Visual Virtuosos Top Free AFX Samples Collection</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mpeg-43/"><u>アビ画像をMPEG-4ファイルに自由に変換できる上位3つの無料ソフトウェア</u></a></li>
 </ul></div>
 

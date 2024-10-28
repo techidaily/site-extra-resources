@@ -1,7 +1,7 @@
 ---
 title: "Isolating Image Moments From Videos Using Windows Photos Software"
-date: 2024-10-15T16:14:58.112Z
-updated: 2024-10-22T18:26:20.706Z
+date: 2024-10-26T11:08:20.756Z
+updated: 2024-10-28T14:12:03.538Z
 tags: 
   - screen-recording
   - ai video
@@ -58,33 +58,40 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Why I can’t save photo from video
 
 In case, you are not able to save photos from video on Windows 10 Photos App. There might be issues with an outdated [Microsoft OS patch update](https://support.microsoft.com/en-us/help/311047/how-to-keep-your-windows-computer-up-to-date) or the Microsoft account is having any problem. But, you don’t have to worry about the same.
 
 We are explaining the solutions here –
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Check the update
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Sign in a different account in Microsoft Store
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Alternative way to save photo from video
 
@@ -99,21 +106,14 @@ Here comes the guide –
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -136,16 +136,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-comparing-sharex-with-industry-leaders/"><u>[New] 2024 Approved Comparing ShareX with Industry Leaders</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-journey-beyond-reality-the-best-of-youtubes-virtual-worlds/"><u>[New] In 2024, Journey Beyond Reality The Best of YouTube’s Virtual Worlds</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-10-quick-diy-moviemaking-secrets-unveiled/"><u>[Updated] 10 Quick DIY Moviemaking Secrets Unveiled</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/adventure-essentials-ultimate-guide-to-1-10-gopro-protectors-for-2024/"><u>Adventure Essentials - Ultimate Guide to #1-10 GoPro Protectors for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/easy-to-use-onboard-shake-reduction-gadget/"><u>Easy-to-Use Onboard Shake Reduction Gadget</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-upgrade-your-iphones-ringtone-selection/"><u>How to Upgrade Your iPhone's Ringtone Selection</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-beginners-guide-to-frictionless-nft-making/"><u>In 2024, A Beginner's Guide to Frictionless NFT Making</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-realme-gt-3-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Realme GT 3 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/review-the-t5-eye-unleashing-potential-for-2024/"><u>Review The T5 Eye, Unleashing Potential for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/understanding-frame-rates-a-comparison-of-30fps-and-60fps-video-quality/"><u>Understanding Frame Rates: A Comparison of 30Fps and 60Fps Video Quality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-birds-eye-briefing-critique/"><u>[New] Bird's Eye Briefing Critique</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-radeon-relive-download-for-2024/"><u>[New] Radeon Relive Download for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-craft-compelling-video-content-using-windows-photos-and-story-remix/"><u>2024 Approved Craft Compelling Video Content Using Windows Photos & Story Remix</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/disseminate-vimeo-videos-widely/"><u>Disseminate Vimeo Videos Widely</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/efficiently-remove-unwanted-photos-from-facebook-a-comprehensive-walkthrough/"><u>Efficiently Remove Unwanted Photos From Facebook - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-tips-on-achieving-fluidity-in-inshot-cuts/"><u>Expert Tips on Achieving Fluidity in Inshot Cuts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/find-your-favorite-screen-an-in-depth-review-of-top-6-hdmi-tvs/"><u>Find Your Favorite Screen An In-Depth Review of Top 6 HDMI TVs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-official-canon-pixma-mg5420-driver-for-windows-10-8-or-7-free-download-now/"><u>Get Official Canon Pixma MG5420 Driver for Windows 10, 8 or 7 – Free Download Now!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-adobes-path-to-perspective-creating-life-like-text/"><u>In 2024, Adobe's Path to Perspective Creating Life-Like Text</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-realme-narzo-60x-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/speak-up-enhancing-interactions-with-youtube-viewers/"><u>Speak Up Enhancing Interactions with YouTube Viewers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-your-creative-potential-free-voice-effects-at-hand/"><u>Unleash Your Creative Potential Free Voice Effects at Hand</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-tech-secrets-at-toms-hardware-hub-a-resource-for-gamers-and-professionals/"><u>Unveiling Tech Secrets at Tom's Hardware Hub: A Resource for Gamers and Professionals</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unveiling-the-mysteries-high-quality-minecraft-capture-on-macos-for-2024/"><u>Unveiling the Mysteries High-Quality Minecraft Capture on MacOS for 2024</u></a></li>
 </ul></div>
 
