@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Advanced Dynamic Typographic Options"
-date: 2024-10-21T18:34:31.926Z
-updated: 2024-10-27T21:27:16.437Z
+date: 2024-10-27T04:29:13.881Z
+updated: 2024-11-03T05:14:38.614Z
 tags: 
   - screen-recording
   - ai video
@@ -28,13 +28,6 @@ Glitch text effect is a trendy effect that gets the viewers’ attention immedia
 
 ![glitch text effect toolkit ae](https://images.wondershare.com/filmora/article-images/2022/07/glitch-text-effect-toolkit-ae.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Liquid Text Animation
 
 You get 110 animated elements that you can apply to the text in your video. The effects are perfectly suitable for videos where comedy is the main theme. The liquid text effect looks organic and natural, and the colors are eye-catching to grab everyone’s attention. There are 8 text scenes and one text preset present, along with 110 animated presets. The effects are HD in resolution, and they are modular and adjustable. It is time to download and use them to make your video dynamic.
@@ -48,10 +41,10 @@ There is always a high demand for dynamic text animations in After Effects. This
 ![dynamic text animations ae](https://images.wondershare.com/filmora/article-images/2022/07/dynamic-text-animations-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Squash & Stretch Preset
@@ -60,13 +53,6 @@ If you want to add texts and titles in your video that looks like the games mean
 
 ![squash stretch preset ae](https://images.wondershare.com/filmora/article-images/2022/07/squash-stretch-preset-ae.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. CounterPro Preset
 
 In this pack, you will find unique text effects, and you can animate text with keyframe. You can animate numbers as well as characters, and it is mostly used to animate numbers to show counting. You can change different parameters of the animations and effects as per your preference. Furthermore, you can use it as a timer on your video to countdown. There are different styles available to apply to your texts and numbers.
@@ -74,17 +60,17 @@ In this pack, you will find unique text effects, and you can animate text with k
 ![counterpro preset ae](https://images.wondershare.com/filmora/article-images/2022/07/counterpro-preset-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Text Library
@@ -98,6 +84,20 @@ If there is a must-have preset you should manage to have in After Effects is Tex
 Kinetic text effect is a part of dynamic text effects and there is a high demand for kinetic text animation. In this pack, you get 56 text animations and all the effects have full HD resolution. The effect will literally transform your video content and help you to get a proper branding on the video. There are different types of animations available and you videos will not look boring by any chance.
 
 ![kinetic text aniamtion ae](https://images.wondershare.com/filmora/article-images/2022/07/kinetic-text-aniamtion-ae.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Text Animation Lower Third
 
@@ -139,22 +139,19 @@ As the saying goes, the more the merrier and the more presets you have, the more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-expert-analysis-how-showmore-enhances-your-video-capture-techniques/"><u>[New] 2024 Approved Expert Analysis How ShowMore Enhances Your Video Capture Techniques</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mood-makers-best-filter-choices-to-improve-your-snap/"><u>[New] 2024 Approved Mood Makers Best Filter Choices to Improve Your Snap</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-checklist-for-google-podcast-enthusiasts/"><u>[New] The Ultimate Checklist for Google Podcast Enthusiasts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-techniques-for-moving-media-from-iphones/"><u>[Updated] Comprehensive Techniques for Moving Media From iPhones</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/apparition-camera-control-workshop/"><u>Apparition Camera Control Workshop</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/brainy-battles-2024s-ultimate-trivia-channel-ranking/"><u>Brainy Battles 2024'S Ultimate Trivia Channel Ranking</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhancing-in-home-digital-tv-reception-a-guide-to-selecting-the-right-antenna/"><u>Enhancing In-Home Digital TV Reception: A Guide to Selecting the Right Antenna</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-samsung-galaxy-m14-4g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Samsung Galaxy M14 4G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Identify malfunctioning your hardware drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-accelerating-aesthetic-crafting-instant-collage-for-fb-shares/"><u>In 2024, Accelerating Aesthetic Crafting Instant Collage for FB Shares</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-escape-from-tarkov-with-these-essential-fixes-for-the-connection-error/"><u>Master Escape From Tarkov with These Essential Fixes for the 'Connection Error'</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/optimal-visual-experience-pondering-ultrawide-vs-uhd-4k-monitors/"><u>Optimal Visual Experience Pondering UltraWide vs UHD 4K Monitors</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/powerdirector-2024-explained-in-depth-review-and-guidebook/"><u>PowerDirector 2024 Explained - In-Depth Review & Guidebook</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/professional-drone-review-best-5-to-consider/"><u>Professional Drone Review Best 5 to Consider</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-7-tech-choices-prepping-for-the-metaverse-frontier/"><u>Top 7 Tech Choices Prepping for the Metaverse Frontier</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-tier-applications-for-animation-and-modeling-craft/"><u>Top-Tier Applications for Animation & Modeling Craft</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-iphones-easy-path-to-picture-softness-four-key-steps/"><u>[New] 2024 Approved IPhone's Easy Path to Picture Softness (Four Key Steps)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-quick-reliable-pc-image-capture-best-tools-ranked-1-5-for-2024/"><u>[New] Quick, Reliable Pc Image Capture Best Tools Ranked #1-#5 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-5-best-toy-drones/"><u>[Updated] 5 Best Toy Drones</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-exploring-leading-tools-discover-the-top-9-free-brand-designers/"><u>[Updated] Exploring Leading Tools Discover the Top 9 FREE Brand Designers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-stunning-slideshows-on-iphone-series-13/"><u>2024 Approved Crafting Stunning Slideshows on iPhone Series 13</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-xiaomi-14-ultra-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Xiaomi 14 Ultra Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/backswing-crafting-bundle-for-2024/"><u>Backswing Crafting Bundle for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/complete-breakdown-hero4-black-functionality/"><u>Complete Breakdown Hero4 Black Functionality</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/developing-dynamic-instagram-highlight-summaries-for-2024/"><u>Developing Dynamic Instagram Highlight Summaries for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-hp-thunderbolt-dock-g2-compatible-drivers-for-120w-or-230w-models/"><u>Download HP Thunderbolt Dock G2 Compatible Drivers for 120W or 230W Models</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harmonys-choice-top-10-songs-that-say-yes/"><u>Harmony's Choice Top 10 Songs That Say 'Yes!'</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-windows-10-audio-issues-step-by-step-guide/"><u>How to Fix Windows 10 Audio Issues - Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-asus-rog-phone-7-ultimate-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-list-of-online-havens-for-free-tamil-ringtones/"><u>The Ultimate List of Online Havens for Free Tamil Ringtones</u></a></li>
 </ul></div>
 

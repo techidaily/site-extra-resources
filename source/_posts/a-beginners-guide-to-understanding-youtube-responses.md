@@ -1,7 +1,7 @@
 ---
 title: "A Beginner's Guide to Understanding YouTube Responses"
-date: 2024-07-25T06:04:30.100Z
-updated: 2024-07-26T06:04:30.100Z
+date: 2024-10-27T03:00:58.303Z
+updated: 2024-11-03T00:09:57.115Z
 tags: 
   - screen-recording
   - ai video
@@ -54,9 +54,6 @@ Each comment you leave is another reference and exposure to your brand (and a ch
 
 Step1 Below the video itself, find the comment section.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
@@ -75,36 +72,50 @@ To manage your comments on YouTube using a PC, the operating system does not mat
 
 Step1 Open your chosen browser, head to YouTube, then sign in to your Google/YouTube account if not already signed in.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
 Step6 Make the necessary edits and choose “Save”.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Highlighted Comments and Replies on YouTube
 
 Among the comments you see on a video, you might notice some that YouTube has labeled “Highlighted Comment.” that label is specific to you, and only appears in your comments list. YouTube that you have a particular interest in a section of comments.
@@ -113,9 +124,6 @@ For example, you might click on a notification, and YouTube takes you to a parti
 
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Why Deleting YouTube Comments?
 
 If you consume a lot of YouTube content, you've likely posted hundreds or even thousands of comments on various channels. You might want to:
@@ -168,7 +176,24 @@ One way you can encourage people to leave comments on your videos is to finish t
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-constructing-imagery-wonders-with-montages/"><u>[New] Constructing Imagery Wonders with Montages</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-efficient-consumption-of-facebook-live-events-and-videos/"><u>[New] Efficient Consumption of Facebook Live Events & Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-cultural-heritage-without-copyright-boundaries/"><u>[Updated] Cultural Heritage Without Copyright Boundaries</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-making-a-buzz-aesthetic-strategies-for-podcast-brands/"><u>[Updated] Making a Buzz Aesthetic Strategies for Podcast Brands</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-audio-tempo-control-gear-guide-mobile-pc/"><u>2024 Approved Audio Tempo Control Gear Guide (Mobile, PC)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/full-assessment-of-slomo-application-trends/"><u>Full Assessment of SloMo Application - Trends</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-motorola-edge-2023-devices-by-drfone-android/"><u>How to Reset Gmail Password on Motorola Edge 2023 Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sharp-sight-and-spectrum-diving-into-the-z32x-display/"><u>In 2024, Sharp Sight and Spectrum Diving Into the Z32X Display</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-nokia-c210-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Nokia C210 FRP</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/professional-tips-for-perfecting-your-srt-files/"><u>Professional Tips for Perfecting Your SRT Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-streaming-xbox-games-to-steam-via-glossi/"><u>Step-by-Step Guide: Streaming Xbox Games to Steam via GlosSI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-journey-of-googles-artificial-intelligence-project-gemini-what-are-its-goals-and-latest-breakthrough-achievements/"><u>The Journey of Google’s Artificial Intelligence Project Gemini – What Are Its Goals and Latest Breakthrough Achievements?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/traverse-costs-watch-anywhere-gratis-video-player-pcmac/"><u>Traverse Costs, Watch Anywhere - Gratis VIDEO Player (PC/Mac)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tricks-to-perfect-time-lapses-using-samsung-cameras/"><u>Tricks to Perfect Time-Lapses Using Samsung Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleashing-androids-audio-potential-mastering-the-art-of-ringtones-and-sounds/"><u>Unleashing Android's Audio Potential Mastering the Art of Ringtones & Sounds</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-educational-potential-5-academic-applications-of-chatgpt-for-pupils/"><u>Unlocking Educational Potential: 5 Academic Applications of ChatGPT for Pupils</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/what-are-the-different-versions-of-windows-movie-maker/"><u>What Are the Different Versions of Windows Movie Maker?</u></a></li>
+</ul></div>
 

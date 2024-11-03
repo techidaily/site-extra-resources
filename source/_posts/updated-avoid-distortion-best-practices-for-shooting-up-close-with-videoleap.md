@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Avoid Distortion  Best Practices for Shooting Up Close with VideoLeap\""
-date: 2024-10-22T19:47:59.076Z
-updated: 2024-10-28T12:45:20.397Z
+date: 2024-10-27T17:54:25.667Z
+updated: 2024-11-03T04:57:44.438Z
 tags: 
   - screen-recording
   - ai video
@@ -47,10 +47,10 @@ Videoleap is famous for providing the best video editing features to its users a
 * After you are satisfied, save the project and export it at your preference to your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Animate the Zoom effect in Videoleap
@@ -67,21 +67,14 @@ Sometimes the video contents need a dramatic zoom effect that should take place 
 
 ![add keyframes videoleap](https://images.wondershare.com/filmora/article-images/2022/07/add-keyframes-videoleap.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Now head to the second time code where you want to focus the subject and then click on it. Then click on the "Preview" icon and see whether it needs further changes.
 * When you are satisfied, simply export the project and your animated zoom video will be saved successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternative way to Zoom Video on Computer
@@ -98,23 +91,17 @@ If for some reason you are not able to install and use Videoleap on your system 
 
 ![open the filmora application on pc](https://images.wondershare.com/filmora/guide/pan-zoom-feature-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * This will open 4 different types of tools regarding zoom functions. The first tool will help you to go from larger frames to smaller frames by zooming in. Thus, you can use this feature to bring details to a subject in your video. The second option helps you with zooming out from a smaller frame to a larger frame.
 * The third and fourth tools will help you achieve the Pan function from left to right and right to left respectively. This panning will be on a horizontal axis. You can also pan your video screen by using your mouse too.
 * You can select any of these options to zoom in, out, or pan your videos and create a stunning zoom effect on your videos.
 * When you are done with your editing process, save the video and the file will be exported to your PC.
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -134,6 +121,19 @@ Videoleap is one of the leading video editing platforms available out there. The
 * The third and fourth tools will help you achieve the Pan function from left to right and right to left respectively. This panning will be on a horizontal axis. You can also pan your video screen by using your mouse too.
 * You can select any of these options to zoom in, out, or pan your videos and create a stunning zoom effect on your videos.
 * When you are done with your editing process, save the video and the file will be exported to your PC.
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -167,20 +167,24 @@ Videoleap is one of the leading video editing platforms available out there. The
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-celebrating-soundtracks-the-ultimate-anime-list/"><u>[New] 2024 Approved Celebrating Soundtracks The Ultimate Anime List</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-understanding-instagrams-privacy-controls/"><u>[New] 2024 Approved Understanding Instagram's Privacy Controls</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-a-guide-to-creative-use-of-supplementary-footage-b-roll/"><u>[New] A Guide to Creative Use of Supplementary Footage (B-Roll)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-bright-horizons-pioneering-light-in-video-production/"><u>[New] Bright Horizons Pioneering Light in Video Production</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-become-an-audio-chameleon-learn-how-to-change-free-fire-voices/"><u>2024 Approved Become an Audio Chameleon! Learn How to Change Free Fire Voices</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-demystifying-ajeys-monetization-strategy-youtube-edition/"><u>2024 Approved Demystifying Ajey's Monetization Strategy - YouTube Edition</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/audio-capture-made-easy-in-windows-10-for-2024/"><u>Audio Capture Made Easy in Windows 10 for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-audiovisual-discrepancy-on-youtube-in-chrome-or-firefox-when-sound-persists-alone/"><u>Fix Audiovisual Discrepancy on YouTube in Chrome or Firefox | When Sound Persists Alone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/igniting-interest-from-day-one-with-impactful-audio-starts/"><u>Igniting Interest From Day One with Impactful Audio Starts</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-the-screen-recorders-journey-a-deep-dive-into-the-best-tools/"><u>In 2024, The Screen Recorder's Journey A Deep Dive Into the Best Tools</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/step-by-step-guide-to-reestablish-working-airdrop-linkage-for-2024/"><u>Step-by-Step Guide to Reestablish Working Airdrop Linkage for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/superior-applications-for-image-driven-video-creation/"><u>Superior Applications for Image-Driven Video Creation</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transforming-aiff-soundtracks-into-mp3-format-discover-five-simple-methods/"><u>Transforming AIFF Soundtracks Into MP3 Format: Discover Five Simple Methods</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ttml-xml-and-beyond-creating-flawless-srts-for-audio-files/"><u>TTML, XML & Beyond Creating Flawless SRTs for Audio Files</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unravel-the-mysteries-of-perfect-streaming/"><u>Unravel the Mysteries of Perfect Streaming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-brighten-and-sharpen-expert-tips-for-v22-video-enhancement/"><u>[Updated] Brighten and Sharpen Expert Tips for V2.2 Video Enhancement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-choosing-between-vlc-and-mx-for-video-enjoyment/"><u>[Updated] Choosing Between VLC and MX for Video Enjoyment</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-hackers-defeat-reclaiming-account-pages/"><u>[Updated] Hacker's Defeat Reclaiming Account Pages</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beats-and-bits-the-art-of-adding-soundtracks-in-windows-11-media/"><u>2024 Approved Beats & Bits The Art of Adding Soundtracks in Windows 11 Media</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-creating-an-iphone-photo-mosaic-a-step-by-step-guide/"><u>2024 Approved Creating an iPhone Photo Mosaic A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-simplifying-streaming-key-tactics-for-youtube-and-twitch-via-obs/"><u>2024 Approved Simplifying Streaming Key Tactics for YouTube & Twitch via OBS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-tech-finding-your-graphics-spec-in-windows-11/"><u>Accelerate Tech: Finding Your Graphics Spec in Windows 11</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/ai30fps60fps/"><u>AI格式化软件：从30fps提高至60fps以获得流畅视频体验</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/asus-proart-review-pushing-boundaries-in-color-accuracy/"><u>ASUS ProArt Review Pushing Boundaries in Color Accuracy</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/d-the-scenes-how-ajey-monetizes-content-for-2024/"><u>Behind the Scenes How Ajey Monetizes Content for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-drones-that-enhance-your-gopro-cinematic-experience/"><u>Best Drones That Enhance Your GoPro Cinematic Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-png-alterations-guide/"><u>In 2024, Ultimate PNG Alterations Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/meme-matrix-perfect-pratfalls-for-parties/"><u>Meme Matrix Perfect Pratfalls for Parties</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photo-clips-melody-layers-in-new-videos/"><u>Photo Clips, Melody Layers in New Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/photography-made-hassle-free-troubleshooting-windows-camera/"><u>Photography Made Hassle-Free: Troubleshooting Windows Camera</u></a></li>
+<li><a href="https://windows11.techidaily.com/reignite-non-operational-usb-connections-microsoft-os/"><u>Reignite Non-Operational USB Connections, Microsoft OS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-guide-to-a-win11-system-makeover/"><u>Step-by-Step Guide to a Win11 System Makeover</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Infinix Note 30 VIP | Dr.fone</u></a></li>
 </ul></div>
 

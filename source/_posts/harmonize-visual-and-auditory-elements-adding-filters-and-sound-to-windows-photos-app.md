@@ -1,7 +1,7 @@
 ---
 title: "\"Harmonize Visual & Auditory Elements  Adding Filters & Sound to Windows Photos App\""
-date: 2024-10-21T02:52:51.901Z
-updated: 2024-10-27T16:02:09.325Z
+date: 2024-11-01T02:37:00.943Z
+updated: 2024-11-02T19:23:24.152Z
 tags: 
   - screen-recording
   - ai video
@@ -54,10 +54,10 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -73,10 +73,10 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
@@ -84,26 +84,26 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 5**: Hit the ‘Done’ button.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -120,20 +120,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-leveraging-s2t-technology-in-professional-decks/"><u>[New] In 2024, Leveraging S2T Technology in Professional Decks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-an-overview-of-the-most-impressive-5-book-vtts/"><u>[Updated] An Overview of the Most Impressive 5 Book VTTs</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-leveraging-view-counts-for-financial-freedom-online-for-2024/"><u>[Updated] Leveraging View Counts for Financial Freedom Online for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-best-budget-conscious-laptop-tools-for-dvd-watchers/"><u>2024 Approved Best Budget-Conscious Laptop Tools for DVD Watchers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-top-3g-networks-and-plans-for-gamers-on-a-budget/"><u>2024 Approved Top 3G Networks & Plans for Gamers on a Budget</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/6-methods-to-mirror-apple-iphone-se-2022-to-your-windows-pc-drfone-by-drfone-ios/"><u>6 Methods to Mirror Apple iPhone SE (2022) to your Windows PC | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boosting-pc-gaming-performance-turn-off-mouse-acceleration-on-windows-11/"><u>Boosting PC Gaming Performance: Turn Off Mouse Acceleration on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-why-isnt-minecraft-local-area-network-functioning-properly/"><u>Comprehensive Solution: Why Isn't Minecraft Local Area Network Functioning Properly?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhancing-iphone-x-security-mending-facial-detection-glitches/"><u>Enhancing iPhone X Security Mending Facial Detection Glitches</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ignite-social-media-fanfare-master-these-9-instagram-commandments-for-2024/"><u>Ignite Social Media Fanfare Master These 9 Instagram Commandments for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-deeper-dive-into-high-definition-online-visibility/"><u>In 2024, A Deeper Dive Into High Definition Online Visibility</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-realme-narzo-60x-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Realme Narzo 60x 5G?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/merriment-joining-and-leaving-rituals/"><u>Merriment Joining & Leaving Rituals</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/snappy-snippets-quick-and-quirky-memes-guide/"><u>Snappy Snippets Quick and Quirky Memes Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/streamlining-your-zoom-livestream-a-playbook-for-youtube-enthusiasts/"><u>Streamlining Your Zoom Livestream A Playbook for YouTube Enthusiasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revolutionizing-vr-experiences-with-newest-game-engines/"><u>[New] Revolutionizing VR Experiences with Newest Game Engines</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-shorts-issue-fixed-now-visible-on-youtube/"><u>[Updated] 2024 Approved Shorts Issue Fixed – Now Visible on YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-3-steps-to-create-professional-gopro-vlogs-ultimate-tutorial/"><u>[Updated] 3 Steps to Create Professional Gopro Vlogs Ultimate Tutorial</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-content-creation-showdown-twitch-versus-youtube-explored/"><u>[Updated] Content Creation Showdown Twitch Versus YouTube Explored</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/create-an-individualistic-meme-masterpiece-for-2024/"><u>Create an Individualistic Meme Masterpiece for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-lgs-ultra-hd-tech-27ud68-monitor-deep-dive/"><u>Exploring LG's Ultra HD Tech 27UD68 Monitor Deep Dive</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/future-proofing-imessage-from-advanced-threats-apples-strategic-update-explained-zdnet/"><u>Future-Proofing iMessage From Advanced Threats: Apple's Strategic Update Explained | ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-evade-tips-on-avoiding-edgenuity-video-lessons-with-finesse/"><u>In 2024, How to Evade Tips on Avoiding Edgenuity Video Lessons with Finesse</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-gt-neo-5-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme GT Neo 5 Device</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/striding-forward-a-comprehensive-review-of-vr-walkers/"><u>Striding Forward A Comprehensive Review of VR Walkers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transition-to-darkness-premiere-pro-techniques/"><u>Transition to Darkness Premiere Pro Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/uncover-the-solution-to-not-found-or-missing-cygwin1dll-issues/"><u>Uncover the Solution to 'Not Found' Or Missing Cygwin1.dll Issues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-virtual-reality-to-the-fullest-with-htc-vive-review/"><u>Unleash Virtual Reality to the Fullest with HTC Vive Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleashing-potential-with-the-q500-drone/"><u>Unleashing Potential with the Q500 Drone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-your-yoga-900s-accessible-win10-drivers-download/"><u>Upgrade Your Yoga 900S: Accessible Win10 Drivers Download</u></a></li>
 </ul></div>
 

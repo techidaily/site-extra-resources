@@ -1,7 +1,7 @@
 ---
 title: "\"Crafting Cinematic Images on iPhone  8 Advanced Techniques\""
-date: 2024-10-24T05:39:39.284Z
-updated: 2024-10-27T16:35:12.437Z
+date: 2024-10-27T06:15:11.926Z
+updated: 2024-11-03T02:07:09.496Z
 tags: 
   - screen-recording
   - ai video
@@ -36,18 +36,31 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 
  This same complaint is often used in iPhone videography – it is difficult to follow because the video is shaking. The shaking is what happens when the video lacks stability – remember that most professional camera work is done with cameras which are on some form of frame or tripod to keep the camera still. It isn’t that an iPhone is heavy – it is more to do with the video being hard to keep still, especially if our attention is distracted. For the best videos, people should invest in some form of tripod for their phone.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Light Properly
 
  Professional video shoots use a lot of light in order to create the proper effect – most people would be surprised to learn how much light goes into even a ‘night-time’ set. Phone videos often suffer a lot because they do not make adequate use of light. Part of this can be solved by taking a camera class which covers light issues, but it can also be solved by paying attention to light sources where you are, and changing them to better suit your video if possible.
 
 ![light](https://images.wondershare.com/set-light-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Avoid Using the Digital Zoom
 
@@ -55,25 +68,11 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 
 ![zoom](https://images.wondershare.com/Zoom.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use the Grid
 
  Pictures and videos can be taken in either portrait or landscape format, as everybody who has tried to take a picture knows. When recording a video, you should use this to your advantage and try and find which grid would be the most effective for your video. Using the grids is very easy - simply tip the iPhone in the direction you want to film, and the film will automatically work in that format. Since it can be very easy for a phone to change grids while videoing, this is another opportunity for a stabiliser such as a tripod to be put into use.
 
 ![grid](https://images.wondershare.com/grid-iphone-camera.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Use the Exposure Lock
 
@@ -82,10 +81,17 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 ![exposure](https://images.wondershare.com/lock-exposure.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use Slow Motion\\Time Lapse Mode
@@ -94,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 
 ![time lapse](https://images.wondershare.com/time-lapse-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Put your iPhone in Airplane Mode
 
  There is nothing worse than being in the middle of recording a great video, and then being interrupted by a notification. Even worse, since phones vibrate when they receive a notification, and it will ruin the entire video if that happens, since the phone will move and throw off the exposure and the light enhancements which you have been using.
@@ -101,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
  Putting your phone in airplane mode allows you to stop any notifications from coming in at all, and thus keeping them from ruining your video.
 
 ![airplane mode](https://images.wondershare.com/airplane-mode.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Edit your Video with Filmora
 
@@ -122,10 +128,10 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -143,22 +149,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-crafting-a-digital-identity-with-inspiring-instagram-captions-for-2024/"><u>[New] Crafting a Digital Identity with Inspiring Instagram Captions for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-best-subtitle-converters-win-and-mac-edition-leading-8-sbt-to-srtr-tools/"><u>2024 Approved Best Subtitle Converters Win & Mac Edition, Leading 8 SBT to SRTR Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/demystifying-the-power-of-luts-in-visual-artistry/"><u>Demystifying the Power of LUTs in Visual Artistry</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/tial-strategies-for-viewing-your-subscribers/"><u>Essential Strategies for Viewing Your Subscribers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/evaluate-cloud-price-plans-a-side-by-side-review-and-recommendations/"><u>Evaluate Cloud Price Plans A Side-by-Side Review & Recommendations</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-x-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone X Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/future-insight-alternate-pathways/"><u>Future Insight Alternate Pathways</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/headquarters-of-virtual-reality-entertainment/"><u>Headquarters of Virtual Reality Entertainment</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-combined-sound-and-sight-workstation/"><u>In 2024, Combined Sound & Sight Workstation</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-top-5-podcast-apps-for-listening-to-podcasts-on-an-iphone/"><u>In 2024, Top 5 Podcast Apps for Listening to Podcasts on an iPhone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/innovation-unleashed-leading-professionals-360cameras/"><u>Innovation Unleashed Leading Professionals’ 360°Cameras</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/mastering-mac-screen-capture-an-ultimate-tutorial-the-movavi-way/"><u>Mastering Mac Screen Capture: An Ultimate Tutorial - The Movavi Way</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/premier-gif-application-selection-for-iphone-users/"><u>Premier GIF Application Selection for iPhone Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/retro-reel-upgrade-converting-photographs-to-videos-for-2024/"><u>Retro Reel Upgrade Converting Photographs to Videos for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simplify-your-writing-process-integrating-chatgpt-into-microsoft-word/"><u>Simplify Your Writing Process: Integrating ChatGPT Into Microsoft Word</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-your-superhero-dreams-dive-into-marvel-via-apple-vision-pro-coming-soon-on-zdnet-may-30th/"><u>Unlock Your Superhero Dreams: Dive Into Marvel via Apple Vision Pro - Coming Soon on ZDNET, May 30Th!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/winning-at-love-one-swipe-at-a-time-top-tips-for-bold-biographies/"><u>Winning at Love, One Swipe at a Time Top Tips for Bold Biographies</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-multi-image-instagram-stories-a-step-by-step-tutorial/"><u>[New] 2024 Approved Mastering Multi-Image Instagram Stories A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-create-and-share-the-funniest-memes/"><u>[New] Create and Share the Funniest Memes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-10-instagram-video-editing-app-marketers-must-know/"><u>[New] In 2024, 10 Instagram Video Editing App Marketers Must Know</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-ultimate-performance-of-yis-4k-actioncam/"><u>[New] The Ultimate Performance of Yi's 4K ActionCam</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-syncing-songs-with-stories-and-videos-on-instagram/"><u>[Updated] 2024 Approved Syncing Songs with Stories and Videos on Instagram</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-step-by-step-introduction-to-ffpm/"><u>[Updated] A Step-by-Step Introduction to FFPM</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-practices-to-speed-up-or-slow-down-music-in-spotify/"><u>2024 Approved Best Practices to Speed Up or Slow Down Music in Spotify</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-preserving-the-past-a-comprehensible-process-of-photograph-digitization/"><u>2024 Approved Preserving the Past A Comprehensible Process of Photograph Digitization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comment-changer-un-fichier-video-au-format-quicktime-et-inversement-guide-complet/"><u>Comment Changer Un Fichier Vidéo Au Format QuickTime Et Inversement - Guide Complet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/deciding-on-dji-action-vs-gopro-max-and-insta360-x3/"><u>Deciding On DJi Action Vs. GoPro Max & Insta360 X3</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-social-media-sound-to-personal-melody-an-in-depth-guide/"><u>From Social Media Sound to Personal Melody - An In-Depth Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-conquering-video-design-challenges-with-filmora-tips/"><u>In 2024, Conquering Video Design Challenges with Filmora Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/inshot-showdown-expert-review-of-best-editing-software/"><u>InShot Showdown Expert Review of Best Editing Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722994015275-league-of-legends-troubles-master-these-easy-fixes-for-a-seamless-gaming-experience/"><u>League of Legends Troubles? Master These Easy Fixes for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/master-the-art-of-collages-thanks-to-picshot/"><u>Master the Art of Collages, Thanks to Picshot</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ultimative-losung-professionelle-wiederherstellungssoftware-fur-bitlocker-auf-windows-1087-and-macos-monterey/"><u>Ultimative Lösung: Professionelle Wiederherstellungssoftware Für Bitlocker Auf Windows 10/8/7 & macOS Monterey</u></a></li>
 </ul></div>
 

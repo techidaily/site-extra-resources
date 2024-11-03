@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Bright Ideas in Film Setup  Secrets to Perfect Lighting\""
-date: 2024-07-25T06:02:40.282Z
-updated: 2024-07-26T06:02:40.282Z
+date: 2024-10-27T00:09:17.638Z
+updated: 2024-11-03T04:55:44.777Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ Many people are wondering how to set up lighting for video shooting. While there
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. How-to Guide
 
 **_1) Preparation_**
@@ -55,9 +52,6 @@ The key light is the main light that illuminates the subject. You can place it i
 
 ##### Step2 Set the Fill Light
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
@@ -72,9 +66,6 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
@@ -93,23 +84,21 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 **Using Key Light + Fill + Backlight**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -142,7 +131,24 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-mastering-the-art-of-self-care-with-asmr-sounds/"><u>[New] 2024 Approved Mastering the Art of Self-Care with ASMR Sounds</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-prime-8-instagram-managers-for-mobile-devices/"><u>[New] 2024 Approved Prime 8 Instagram Managers for Mobile Devices</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-dive-into-a-stream-of-9-full-length-festive-flicks-no-charge/"><u>[New] Dive Into a Stream of 9 Full-Length Festive Flicks - No Charge</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-final-touch-youtube-outro-essentials-plus-premier-creator-list/"><u>[New] The Final Touch YouTube Outro Essentials + Premier Creator List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-pillars-of-profitable-digital-marketing-for-2024/"><u>[New] The Pillars of Profitable Digital Marketing for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-apex-cameras-capturing-sporting-triumphs/"><u>2024 Approved Apex Cameras Capturing Sporting Triumphs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aeropixel-remastering-toolkit-windowsmac-for-2024/"><u>AeroPixel Remastering Toolkit (Windows/Mac) for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discover-exceptional-value-the-lenovo-tab-m10-fhdplus-2020-review-spectacular-screen-unbeatable-budget/"><u>Discover Exceptional Value: The Lenovo Tab M10 FHD+ (2020) Review - Spectacular Screen, Unbeatable Budget!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/effortless-visual-stories-through-picshot-collage/"><u>Effortless Visual Stories Through Picshot Collage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-photography-with-canons-time-lapse-methods/"><u>Elevating Photography with Canon's Time-Lapse Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-astounding-vlogs-start-here-easy-to-create-projects/"><u>In 2024, Astounding Vlogs Start Here Easy-to-Create Projects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-bridging-devices-move-images-and-videos-from-pc/"><u>In 2024, Bridging Devices Move Images & Videos From PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comparing-360-degree-captures-and-full-immersion-media/"><u>In 2024, Comparing 360-Degree Captures and Full Immersion Media</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-the-vida-journey-from-raw-footage-to-cinematic-scene/"><u>In 2024, The Vida Journey From Raw Footage to Cinematic Scene</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-for-enhanced-task-management-and-faster-completion-times/"><u>Leveraging ChatGPT for Enhanced Task Management and Faster Completion Times</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-easy-way-to-change-and-upgrade-iphones-ringtones/"><u>The Easy Way to Change and Upgrade iPhone's Ringtones</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ssential-youtube-beauty-guides-you-cant-miss-for-2024/"><u>The Essential YouTube Beauty Guides You Can't Miss for 2024</u></a></li>
+</ul></div>
 

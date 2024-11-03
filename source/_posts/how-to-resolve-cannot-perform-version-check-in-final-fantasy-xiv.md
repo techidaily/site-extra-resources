@@ -1,7 +1,7 @@
 ---
 title: How to Resolve 'Cannot Perform Version Check' In Final Fantasy XIV
-date: 2024-10-23T16:13:24.757Z
-updated: 2024-10-28T01:19:32.290Z
+date: 2024-10-27T16:30:16.367Z
+updated: 2024-11-03T05:18:00.369Z
 tags:
   - win11
   - win10
@@ -29,13 +29,6 @@ Recently many Fallout 76 players have been plagued by the**Fallout 76 disconnect
 6. **[Switch the DNS server](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Is Fallout 76 down?](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1:**Reset Winsock**
 
  Winsock is an application in Windows that handles the data on the computer that programs use for Internet access. So when you can’t connect Fallout 76 to its server, you can give Winsock a try. It reverts the Winsock Catalog back to its default settings, which often proves useful in network problems.
@@ -46,31 +39,24 @@ Here is how to reset Winsock data:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) In the Command Prompt, type **netsh winsock reset**  and hit **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer.
 
 5) Launch Fallout 76 to see if it can be connected to the game server. If yes, then great! If the issue remains, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2:**Close bandwidth hogging applications**
 
@@ -83,6 +69,13 @@ Here is how to do it:
  2) Right-click on **a bandwidth hogging app** and click **End Task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1deba6c03f2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Repeat step **2)** on every other bandwidth hogging programs.
 
@@ -103,13 +96,6 @@ Here is how to do it:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -163,19 +149,6 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-5.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### To renew your IP
 
  1) On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .
@@ -191,10 +164,10 @@ _wireless router_
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Type**the following command line** and press **Enter**  on your keyboard.
@@ -210,10 +183,10 @@ _wireless router_
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Switch the DNS server
@@ -225,6 +198,13 @@ Here is how to switch the DNS server to Google Public DNS:
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In **View by** , choose **Category** . Then click **View network status and tasks** .
 
@@ -238,6 +218,13 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-613.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap21-2.jpg)
@@ -247,10 +234,16 @@ Here is how to switch the DNS server to Google Public DNS:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-614.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7) Restart your computer for the changes to take effect.
@@ -260,6 +253,13 @@ Here is how to switch the DNS server to Google Public DNS:
  Problem still not yet solved? Please try**Fix 7** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Is Fallout 76 down?
 
@@ -288,24 +288,20 @@ Here is how to switch the DNS server to Google Public DNS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-directly-send-snaps-from-your-phone-a-tutorial/"><u>[New] In 2024, Directly Send Snaps From Your Phone - A Tutorial</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-craft-professional-edits-with-story-remix-in-windows-photos-app/"><u>[Updated] Craft Professional Edits with Story Remix in Windows Photos App</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-instagram-reel-formula-for-unrivaled-fame/"><u>[Updated] In 2024, The Instagram Reel Formula for Unrivaled Fame</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-self-portraits-that-talk-100-words-to-define-you-on-insta/"><u>[Updated] Self-Portraits That Talk 100 Words to Define You on Insta</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-innovating-advertising-on-facebook-the-most-effective-videography/"><u>2024 Approved Innovating Advertising on Facebook The Most Effective Videography</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-look-at-googles-ar-graphics-and-others/"><u>A Look at Google's AR Graphics & Others</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/advanced-hdr-image-processing-steps-in-adobe-lightroom/"><u>Advanced HDR Image Processing Steps in Adobe Lightroom</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/audio-options-dilemma-podcasts-against-youtube/"><u>Audio Options Dilemma Podcasts Against YouTube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/creating-compelling-content-using-windows-movie-maker-in-windows-8-os-for-2024/"><u>Creating Compelling Content Using Windows Movie Maker in Windows 8 OS for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-top-5-tools-that-every-successful-twitch-broadcaster-must-utilize/"><u>Essential Top 5 Tools That Every Successful Twitch Broadcaster Must Utilize</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exquisite-airplay-scripts-for-listeners/"><u>Exquisite Airplay Scripts for Listeners</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fast-track-software-tweaks-logitech-headset-drivers/"><u>Fast-Track Software Tweaks: Logitech Headset Drivers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/gopro-karma-drone-review/"><u>GoPro Karma Drone Review</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-dissecting-xvideohubs-capabilities-in-a-full-breakdown-review/"><u>In 2024, Dissecting XVideoHub's Capabilities in a Full Breakdown Review</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-is-itops-performance-worth-your-investment/"><u>In 2024, Is ITop's Performance Worth Your Investment?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/panoramic-insights-digest/"><u>Panoramic Insights Digest</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/podcast-production-perfection-from-draft-to-audio-bliss/"><u>Podcast Production Perfection From Draft to Audio Bliss</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/spinning-interest-into-action-writing-podcast-intros/"><u>Spinning Interest Into Action Writing Podcast Intros</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-samsung-galaxy-a25-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-sticky-visuals-at-a-glance-iphoneandroids-best-sticker-add-on-apps/"><u>[New] 2024 Approved Sticky Visuals at a Glance – iPhone/Android's Best Sticker Add-On Apps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-ultimate-tutorial-on-designing-dynamic-facebook-slides/"><u>[New] In 2024, The Ultimate Tutorial on Designing Dynamic Facebook Slides</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-approaches-to-color-correction-with-gopro-studio/"><u>[Updated] Innovative Approaches to Color Correction with GoPro Studio</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-elevating-your-audacity-to-professional-levels/"><u>2024 Approved Elevating Your Audacity to Professional Levels</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/catchy-opening-tunes-podcasts-best-audio-gems-for-2024/"><u>Catchy Opening Tunes Podcast's Best Audio Gems for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-an-iconic-identity-on-instagram-with-these-9-tricks/"><u>Crafting an Iconic Identity on Instagram with These 9 Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-emotion-the-art-of-tiktok-effects/"><u>Elevating Emotion The Art of TikTok Effects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-tips-for-exceptional-tiktok-video-production/"><u>Expert Tips for Exceptional TikTok Video Production</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-depth-review-of-budget-friendly-clouds/"><u>In-Depth Review of Budget-Friendly Clouds</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-vivo-t2x-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo T2x 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/redefining-cinematic-exploration-via-vr/"><u>Redefining Cinematic Exploration via VR</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tips-for-sharpened-scene-during-google-meet-calls/"><u>Tips for Sharpened Scene During Google Meet Calls</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-5gigabyte-aorus-fo32u2p-240hz-oled-monitor-review-combining-elegance-with-high-speed-performance-in-gaming/"><u>Top 5Gigabyte AORUS FO32U2P 240HZ OLED Monitor Review: Combining Elegance with High-Speed Performance in Gaming</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/tutorial-facil-e-gratuito-mova-sua-audiencia-do-formato-ogg-para-wav-com-movavi/"><u>Tutorial Fácil E Gratuito: Mova Sua Audiência Do Formato OGG Para WAV Com Movavi</u></a></li>
 </ul></div>
 

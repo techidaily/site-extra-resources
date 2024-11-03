@@ -1,7 +1,7 @@
 ---
 title: "\"Unlocking Full Photo Viewing Capabilities  Win 11 Edition\""
-date: 2024-10-26T12:43:05.873Z
-updated: 2024-10-27T21:25:22.135Z
+date: 2024-10-29T18:07:08.731Z
+updated: 2024-11-03T00:01:17.655Z
 tags: 
   - screen-recording
   - ai video
@@ -58,10 +58,10 @@ Here is why they want to restore Windows Photo Viewer –
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1 to restore Windows Photo Viewer
@@ -77,10 +77,10 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
@@ -97,16 +97,16 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -114,14 +114,14 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -138,14 +138,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-crafting-sharp-edges-and-warps-ps-distortion-guide/"><u>[New] Crafting Sharp Edges & Warps PS Distortion Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-prime-opening-strategies-top-16-youtube-vids-that-thrive/"><u>[Updated] In 2024, Prime Opening Strategies Top 16 YouTube Vids That Thrive</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-audio-alchemy-transforming-videos-through-music-addition-and-cutting/"><u>2024 Approved Audio Alchemy Transforming Videos Through Music Addition & Cutting</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-xiaomi-redmi-note-12-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Xiaomi Redmi Note 12 4G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ace-windows-10-tricks-to-save-time-and-energy-for-2024/"><u>Ace Windows 10 Tricks to Save Time & Energy for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/assemble-films-for-streaming-organization/"><u>Assemble Films for Streaming Organization</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/free-software-showdown-the-ultimate-2024-capture-guide/"><u>Free Software Showdown The Ultimate 2024 Capture Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/high-quality-real-time-broadcast-frameworks/"><u>High-Quality Real-Time Broadcast Frameworks</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-y56-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-creating-compelling-content-using-windows-movie-maker-in-windows-8-os/"><u>[New] Creating Compelling Content Using Windows Movie Maker in Windows 8 OS</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-slimmed-down-cloud-keeping-at-low-cost-high-space-for-2024/"><u>[New] Slimmed-Down Cloud Keeping at Low Cost, High Space for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-audiovisual-fusion-incorporating-songs-in-ig-media-for-2024/"><u>[Updated] Audiovisual Fusion Incorporating Songs in IG Media for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-from-novice-to-money-maker-on-youtube/"><u>[Updated] From Novice to Money-Maker on YouTube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-revolutionizing-video-views-conquering-youtube-millions/"><u>2024 Approved Revolutionizing Video Views, Conquering YouTube Millions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-top-12-vlogger-friendly-cameras-unveiled/"><u>2024 Approved Top 12 Vlogger-Friendly Cameras Unveiled!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beyond-reality-comparing-vr-augmented-and-mixed-tech/"><u>Beyond Reality Comparing VR, Augmented & Mixed Tech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cloud-choice-best-value-in-data-safekeeping/"><u>Cloud Choice Best Value in Data Safekeeping</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comparing-apples-with-oranges-not-when-it-comes-to-m1-pro-and-m1-max-for-2024/"><u>Comparing Apples with Oranges? Not When It Comes to M1 Pro & M1 Max for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/efficient-background-extraction-with-photopea/"><u>Efficient Background Extraction with Photopea</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expediting-fb-videos-leading-extensions-and-apps-compilation/"><u>Expediting FB Videos Leading Extensions & Apps Compilation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-beyond-sns-hdr-pro-in-photography/"><u>Exploring Beyond SNS HDR Pro in Photography</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/fastest-and-most-reliable-audio-download-tool-for-windows-10-users/"><u>Fastest and Most Reliable Audio Download Tool for Windows 10 Users</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-how-to-start-your-own-discord-channel-a-detailed-walkthrough/"><u>In 2024, How to Start Your Own Discord Channel A Detailed Walkthrough</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-itel-a05s-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Itel A05s Device</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-up-your-file-game-compiling-top-20-free-spacious-cloud-storage-solutions/"><u>Step Up Your File Game Compiling Top 20 Free, Spacious Cloud Storage Solutions</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/step-by-step-tutorial-efficiently-deleting-vmware-vcenter-datastores/"><u>Step-by-Step Tutorial: Efficiently Deleting VMware vCenter Datastores</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-quick-access-handbook-for-rapid-srt-to-text-change/"><u>The Ultimate, Quick-Access Handbook for Rapid SRT to Text Change</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/through-the-looking-glass-decoding-the-secrets-to-a-superior-windows-11-experience/"><u>Through the Looking Glass Decoding the Secrets to a Superior Windows 11 Experience</u></a></li>
 </ul></div>
 
