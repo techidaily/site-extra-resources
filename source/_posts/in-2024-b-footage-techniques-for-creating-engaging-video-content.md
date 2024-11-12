@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, B-Footage Techniques for Creating Engaging Video Content\""
-date: 2024-10-28T17:27:51.679Z
-updated: 2024-11-03T01:28:55.238Z
+date: 2024-11-06T23:15:00.749Z
+updated: 2024-11-11T17:18:50.904Z
 tags: 
   - screen-recording
   - ai video
@@ -32,13 +32,6 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -47,15 +40,22 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. What types of b roll are there?
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Archival b roll footage
@@ -66,19 +66,6 @@ Aerial B roll is the solution when you like to show your viewers where your film
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
@@ -88,10 +75,10 @@ B roll footage can be used to tell a story that supports the narrative of your v
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Atmospheric b roll footage
@@ -105,6 +92,13 @@ Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" tha
 A pick-up is a tiny shot added to previously captured material. Re-shoots involve redoing entire scenes. Both types of shots are commonly added during film editing to fix, logic, continuity, or quality flaws. These photos happen a while after the sets have been taken down, clothes and props stowed, and the actors and crew have gone on to new projects.
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. A roll vs b roll
 
@@ -144,16 +138,17 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-inside-stardust-a-comprehensive-guide-to-mastery-in-stardew-and-its-intriguing-ginger-isle/"><u>[New] In 2024, Inside Stardust A Comprehensive Guide to Mastery in Stardew and Its Intriguing Ginger Isle</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-25plus-futuristic-insights-on-ar-enhanced-worlds/"><u>2024 Approved 25+ Futuristic Insights on AR-Enhanced Worlds</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elite-index-of-public-domain-picture-sources/"><u>Elite Index of Public Domain Picture Sources</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/game-masters-unleashed-an-in-depth-look-at-kinemaster-on-android/"><u>Game Masters Unleashed An In-Depth Look at KineMaster on Android</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/guide-turn-on-windows-11s-dynamic-hdr-mode/"><u>Guide Turn on Windows 11'S Dynamic HDR Mode</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-tecno-pop-8-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Tecno Pop 8 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/y-letters-on-screen-bounce-with-ease-and-style/"><u>Lively Letters on Screen Bounce with Ease and Style</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-for-downloading-and-setting-up-epson-xp-400-drivers/"><u>Step-by-Step Instructions for Downloading and Setting Up Epson XP-400 Drivers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-the-fifa-21-failed-startup-problems-fixed/"><u>Troubleshooting the FIFA 21 Failed Startup Problems - Fixed!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlocking-visual-potential-the-asus-mg28uq-4k-uxga-screen-review/"><u>Unlocking Visual Potential The ASUS MG28UQ 4K UXGA Screen Review</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-2023s-top-methods-for-harmonizing-audio-levels-a-trifecta-of-speed-and-efficiency/"><u>Updated 2024 Approved 2023S Top Methods for Harmonizing Audio Levels A Trifecta of Speed and Efficiency</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nleash-more-views-on-youtube-with-pro-tag-optimization/"><u>[New] Unleash More Views on YouTube with Pro Tag Optimization</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unveiling-the-role-of-authenticity-in-online-self-portraits/"><u>[New] Unveiling the Role of Authenticity in Online Self-Portraits</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-fruition-for-virtual-quests/"><u>[Updated] Ultimate Fruition for Virtual Quests</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cartoonify-photos-wirelessly-on-pcs-macs-and-more-for-2024/"><u>Cartoonify Photos Wirelessly on PCs, Macs, and More for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-between-generations-a-comparative-look-at-iphone-16-and-iphone-15-for-potential-apple-upgrades/"><u>Choosing Between Generations: A Comparative Look at iPhone 16 and iPhone 15 for Potential Apple Upgrades</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-the-best-8-websites-where-gleaming-gold-meets-3d/"><u>Discover the Best 8 Websites Where Gleaming Gold Meets 3D</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-meizu-21-pro-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Meizu 21 Pro Phone without Google Account?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-ultimate-7-private-film-access-tools/"><u>In 2024, Ultimate 7 Private Film Access Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-connectivity-errors-making-your-corsair-icue-work-on-windows-11/"><u>Resolving Connectivity Errors: Making Your Corsair iCUE Work on Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seo-savvy-boosting-your-podcasts-discoverability-and-rankings/"><u>SEO Savvy Boosting Your Podcast's Discoverability and Rankings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/time-warp-techniques-harnessing-classic-80s-visual-flair-in-videos/"><u>Time Warp Techniques Harnessing Classic 80S Visual Flair in Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-motion-detection-apps-for-mobile-devices/"><u>Updated In 2024, Top Motion Detection Apps for Mobile Devices</u></a></li>
 </ul></div>
 

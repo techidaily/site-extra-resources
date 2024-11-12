@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Crafting Characters  Animation Basics in WMM\""
-date: 2024-07-25T05:56:31.426Z
-updated: 2024-07-26T05:56:31.426Z
+date: 2024-11-08T05:25:42.889Z
+updated: 2024-11-12T00:54:50.300Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ Wondering how to make animation in Windows Movie Maker? As storytelling is the f
 
 Animated video is a rich, captivating medium that will make your main arguments stand out. You can use Windows Movie Maker effects as it has far lower resource needs than you may anticipate while yet providing all the advantages of a visual medium. The difficulty is in turning that central idea into a direct, concise tale that will hold the attention of your audience. Feel free to try out various combinations while using the Windows Movie Maker animation tool since you can always quickly delete an effect after applying it. Learn more about the best animation video maker software for Windows in this guide.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Part 1\. Steps to Create Animation with Windows Movie Maker
 
 You don't need any technological expertise to produce picture slideshows or home movies with Movie Maker. By using transitions, pan and zoom, and other visual effects, you may give them a more professional appearance and feel. You've decided to create an animated video for your company, so let's get started. Is it still difficult to understand? Be at ease. It's simpler than you would imagine to make an animated video. In this video, we'll go through how to include animations into a Movie Maker project. The Windows Movie Maker instructions for making your own animated movie are listed below.
@@ -33,14 +30,8 @@ You don't need any technological expertise to produce picture slideshows or home
 
 On your PC, launch Windows Movie Maker. Windows Movie Maker, however, has to be installed on your computer. Select "import photos" in the top right corner. By selecting the "Add movies and photographs" option under the "Home" tab in the navigation bar, you may create films by combining images, sounds, and videos. You may then choose the suitable media to import into the program from a popup that will display.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import video to movie maker](https://images.wondershare.com/filmora/article-images/2022/09/import-video-to-movie-maker.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** You have the option to upload one file at a time or many files simultaneously.
@@ -49,9 +40,6 @@ On your PC, launch Windows Movie Maker. Windows Movie Maker, however, has to be 
 
 If you wish to clip off a section, go to "Edit" under "Video Tools" and choose the "Split" option. Depending on where you place the cursor during the section, the software will divide it into two halves. If you want to remove certain snippets, just touch the clip to reveal the context menu and choose "Remove" or "Delete" from the keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![preview video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/preview-video-movie-maker.jpg)
 
 ##### Step3Open the Animation Tab
@@ -64,9 +52,6 @@ You may add two distinct types of animations—Transitions and Pan and Zoom—to
 
 Between two multimedia portions, a transition effect may be added. In the "Animations" section, there are many different transitions available, including dissolves, patterns, and forms. The transition will be included at the start of the chosen medium. You may alter the effect's duration by writing or choosing a new time frame from the dropdown menu next to "Duration."
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add transitions movie maker](https://images.wondershare.com/filmora/article-images/2022/09/add-transitions-movie-maker.jpg)
 
 ##### Step5Save the Video
@@ -74,6 +59,13 @@ Between two multimedia portions, a transition effect may be added. In the "Anima
 When a transition is applied, a washed-out diagonal zone on the clip in the timeline indicates where the transition starts and finishes. Additionally, you have a choice in the sequence in which the effects are used. This may change how the movie is finally shown depending on the Effects, you choose. Once you're done, click Apply.
 
 ![save animation video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/save-animation-video-movie-maker.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. Movie Maker Alternative to Add Animations
 
@@ -100,6 +92,13 @@ Filmora helps you create your text animation using the controller window as seen
 ##### Step4Export the Project
 
 The software's Preview window also allows you to preview the animation you've selected before adding it to the timeline with a few simple drag-and-drop actions. After finishing the production and editing of the instructional video, you may save it for distribution on social media. You may choose to save the document as an MP4, WMV, AVI, MOV, or even a GIF file.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Related FAQs about Windows Movie Maker
 
@@ -119,9 +118,6 @@ Simple movies may be easily made using Windows Live Movie Maker. With Windows Vi
 
 If you wish to clip off a section, go to "Edit" under "Video Tools" and choose the "Split" option. Depending on where you place the cursor during the section, the software will divide it into two halves. If you want to remove certain snippets, just touch the clip to reveal the context menu and choose "Remove" or "Delete" from the keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![preview video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/preview-video-movie-maker.jpg)
 
 ##### Step3Open the Animation Tab
@@ -136,13 +132,17 @@ Between two multimedia portions, a transition effect may be added. In the "Anima
 
 ![add transitions movie maker](https://images.wondershare.com/filmora/article-images/2022/09/add-transitions-movie-maker.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step5Save the Video
 
 When a transition is applied, a washed-out diagonal zone on the clip in the timeline indicates where the transition starts and finishes. Additionally, you have a choice in the sequence in which the effects are used. This may change how the movie is finally shown depending on the Effects, you choose. Once you're done, click Apply.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![save animation video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/save-animation-video-movie-maker.jpg)
 
 ## Part 2\. Movie Maker Alternative to Add Animations
@@ -170,6 +170,19 @@ Filmora helps you create your text animation using the controller window as seen
 ##### Step4Export the Project
 
 The software's Preview window also allows you to preview the animation you've selected before adding it to the timeline with a few simple drag-and-drop actions. After finishing the production and editing of the instructional video, you may save it for distribution on social media. You may choose to save the document as an MP4, WMV, AVI, MOV, or even a GIF file.
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Related FAQs about Windows Movie Maker
 
@@ -207,7 +220,23 @@ Simple movies may be easily made using Windows Live Movie Maker. With Windows Vi
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-optimize-your-videos-for-instagram-mac-resizing-guide-for-2024/"><u>[New] Optimize Your Videos for Instagram Mac Resizing Guide for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-audible-brilliance-the-ultimate-mic-guide/"><u>[Updated] Audible Brilliance The Ultimate Mic Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-from-niche-to-noteworthy-the-ultimate-unboxing-strategy-on-instagram/"><u>[Updated] In 2024, From Niche to Noteworthy The Ultimate Unboxing Strategy on Instagram</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tailored-ending-scenes-get-em-for-free/"><u>[Updated] Tailored Ending Scenes - Get 'Em for Free</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-uncover-the-past-your-complete-guide-to-digitizing-and-preserving-old-photographs-for-2024/"><u>[Updated] Uncover the Past Your Complete Guide to Digitizing & Preserving Old Photographs for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-complete-manual-integrating-srt-into-mp4-files/"><u>2024 Approved Complete Manual Integrating SRT Into MP4 Files</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/choosing-the-best-mac-mkv-players-guide-for-2024/"><u>Choosing the Best Mac MKV Players Guide for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-contrast-and-depth-in-hdr-portraits/"><u>Crafting Contrast and Depth in HDR Portraits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-breaking-down-the-bottom-line-podcast-startup-costs/"><u>In 2024, Breaking Down the Bottom Line Podcast Startup Costs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-compile-of-premium-tiktok-backdrop-options/"><u>In 2024, Compile of Premium TikTok Backdrop Options</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-smartphone-compatible-vr-top-10-devices/"><u>In 2024, Smartphone-Compatible VR Top 10 Devices</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-crafting-seamless-sound-tracks-with-imovies-volume-control-for-2024/"><u>New Crafting Seamless Sound Tracks with iMovies Volume Control for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-win10-strategy-for-successful-zoom-sessions/"><u>The Ultimate Win10 Strategy for Successful Zoom Sessions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-infinix-note-30-frp-by-drfone-android/"><u>The Updated Method to Bypass Infinix Note 30 FRP</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-drone-cinematography-team-the-best-10/"><u>Ultimate Drone Cinematography Team The Best 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/your-ringtone-solution-top-4-sites-revealed-here/"><u>Your Ringtone Solution Top 4 Sites Revealed Here</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Haste Assessment of Windows Documents"
-date: 2024-11-02T05:36:51.575Z
-updated: 2024-11-03T00:24:15.657Z
+date: 2024-11-09T08:32:18.234Z
+updated: 2024-11-11T20:19:54.079Z
 tags: 
   - screen-recording
   - ai video
@@ -40,13 +40,6 @@ Step3 After successfully installing QuickLook, head to File Explorer and select 
 
 Unfortunately, you won’t preview the content inside the document file. Instead, you’ll only see details like the file type/format, size, image name, and more. You can also directly choose the opening app. As for videos and audio, the media file will automatically play on the QuickLook media player. But don’t fret because the following section will teach you to read your documents, presentations, PDFs, and other files on QuickLook without opening the file.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Get the App on GitHub
 
 If you can’t find QuickLook on Microsoft Store for one reason or another, download the program from GitHub. It’s an open-source community where millions of software developers converge to distribute and share their work. Here, you can download and install multiple desktop programs and plugins for free. However, you must be a registered member to contribute any content.
@@ -62,10 +55,10 @@ Step2 Scroll down and download the .msi file. After downloading the installation
 ![install the quicklook for windows msi](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins). Then, download the plugins to add additional preview capabilities to Microsoft QuickLook. For example, install the FontViewer, FFmpeg, and OfficeViewer plugins by clicking the respective “Link” buttons.
@@ -76,6 +69,13 @@ Step4 After a successful installation, find the file you want to preview and sel
 
 **Pro tip**: We recommend installing the QuickLook OfficeViewer plugin to rip open your Office files and view the content inside. This method is recommended if you haven’t installed Microsoft Office on your PC. However, you might notice that the OfficeViewer plugin isn’t supported on your Windows PC. So to install OfficeViewer, select the file and click the space bar to preview it on QuickLook. Then, tap the “Click here to install this plugin” button. Now restart QuickLook and view all your office documents without opening them on their respective programs.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Should We Expect Built-in Quick Look on Windows in the Future?
 
 Mac users have enjoyed the powerful QuickLook capabilities for at least 15 years. But are we going to see QuickLook coming to Windows 10/11 anytime soon? According to sources, plans are already underway to add this feature to Microsoft Windows and rename it Peek. After selecting a file on Explorer, simply tap the Shift + Space bar to preview the content. Like the macOS version, you can preview PDFs, Excels, Words, images, videos, audio, and pretty much anything.
@@ -85,10 +85,10 @@ Meanwhile, it’s expected that QuickLook will come with a small preview screen.
 In other related news, Microsoft will be answering the prayers of their loyal patrons to get tabbed browsing. This is another feature similar to what you currently have on macOS, where you can open new tabs for numerous file locations. In return, this makes moving and copying files more straightforward. This easy-to-navigate addition will definitely make Microsoft Windows users more productive than before.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: Frequently Asked Questions
@@ -106,16 +106,10 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -152,18 +146,21 @@ This guidepost is another testament that your PC has massive hidden abilities. W
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-step-by-step-process-for-aesthetic-and-engaging-instagram-video-content/"><u>[New] In 2024, Step-by-Step Process for Aesthetic and Engaging Instagram Video Content</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-all-about-whatsapp-voice-messages/"><u>[Updated] All About Whatsapp Voice Messages</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-beam-your-best-lol-playing-moments-onto-screen-3-ways/"><u>[Updated] In 2024, Beam Your Best LOL Playing Moments Onto Screen (3 Ways)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-testimonials-on-screen-marketings-best-friend/"><u>[Updated] Testimonials on Screen Marketing's Best Friend</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/building-a-compelling-cinematic-snippet/"><u>Building a Compelling Cinematic Snippet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/imagemosaic-supreme-online-blend-and-designers-choice/"><u>ImageMosaic Supreme Online Blend & Designer's Choice</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-3dr-one-persons-guide-to-a-futuristic-tech/"><u>In 2024, '3DR' One Person’s Guide to a Futuristic Tech</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-realme-gt-neo-5-se-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Realme GT Neo 5 SE Phone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-asus-rog-phone-7-ultimate-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Asus ROG Phone 7 Ultimate? Fixed | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/learn-to-speak-text-mastering-ms-words-recognition-capabilities/"><u>Learn to Speak Text Mastering MS Word's Recognition Capabilities</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-webp-conversion-to-jpeg/"><u>Mastering the Art of WebP Conversion to JPEG</u></a></li>
-<li><a href="https://win-popular.techidaily.com/mengatur-klik-untuk-menyetel-mematikanmemulai-program-windows-win111087-langkah-langkah-tiga-bodoh-banyak-gue-perih/"><u>Mengatur Klik Untuk Menyetel / Mematikan/Memulai Program Windows (Win11/10/8/7): Langkah-Langkah Tiga Bodoh Banyak Gue Perih.</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/start-shooting-smart-top-15-shot-techniques-for-beginners/"><u>Start Shooting Smart Top 15 Shot Techniques for Beginners</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-budget-friendly-high-quality-ae-templates/"><u>2024 Approved Best Budget-Friendly, High-Quality AE Templates</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-building-captivating-visual-puzzles-a-mosaic-journey/"><u>2024 Approved Building Captivating Visual Puzzles A Mosaic Journey</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-seamless-image-transfers-across-operating-systems/"><u>2024 Approved Crafting Seamless Image Transfers Across Operating Systems</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-investment-in-top-tier-hdr-cameras-a-buyers-guide/"><u>2024 Approved Investment in Top-Tier HDR Cameras A Buyer's Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-subtle-techniques-for-edgenuity-free-study-time/"><u>2024 Approved Subtle Techniques for Edgenuity-Free Study Time</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/5-best-mac-software-for-cutting-edge-media-production/"><u>5 Best Mac Software for Cutting-Edge Media Production</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-step-by-step-guide-to-gopro-time-lapse-mastery-for-2024/"><u>A Step-by-Step Guide to GoPro Time-Lapse Mastery for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bedtime-videos-breakdown-stories-and-reviews-for-2024/"><u>Bedtime Videos Breakdown Stories and Reviews for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/blend-audio-and-visuals-editing-music-in-canva-videos/"><u>Blend Audio & Visuals Editing Music in Canva Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-motorola-moto-g73-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Motorola Moto G73 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-11-pro-max-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 11 Pro Max Without a Home Button</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-peak-performance-cameras-for-high-speed-sports/"><u>In 2024, Peak Performance Cameras for High-Speed Sports</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/precision-alignment-perfecting-edge-display/"><u>Precision Alignment: Perfecting Edge Display</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/streamlining-screen-record-on-snapchats-with-your-phone/"><u>Streamlining Screen Record on Snapchats with Your Phone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-dvd-upscaling-transform-your-dvds-into-high-definition-viewing/"><u>Understanding DVD Upscaling: Transform Your DVDs Into High-Definition Viewing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-8-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 8 Without Passcode Easily</u></a></li>
 </ul></div>
 

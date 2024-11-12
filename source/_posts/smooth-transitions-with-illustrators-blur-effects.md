@@ -1,7 +1,7 @@
 ---
 title: "Smooth Transitions with Illustrator's Blur Effects"
-date: 2024-07-25T05:55:07.097Z
-updated: 2024-07-26T05:55:07.097Z
+date: 2024-11-09T20:38:32.707Z
+updated: 2024-11-12T07:38:48.864Z
 tags: 
   - screen-recording
   - ai video
@@ -28,14 +28,6 @@ Most online users watch videos on Vimeo directly through the web browser. This i
 
 Step 1: On your device, launch the web browser. Open the official website of Vimeo Watch. Play any video of your liking.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![play video vimeo watch](https://images.wondershare.com/filmora/article-images/play-video-vimeo-watch.jpg)
 
 Step 2: Now, you need to change the URL of the video you are playing. Here are the changes to make in the address bar.
@@ -48,9 +40,6 @@ Therefore, the initial URL of the video was "<https://vimeo.com/754255543>". You
 
 Step 3: After making the changes, press Enter key. The same video will play in a loop until you pause the video or close the web browser's tab.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Way 2\. Loop a Vimeo Video When Embedded on Your Site
 
 You can embed a Vimeo video on your website so that the audience can watch it. The video will play only once when someone lands on your website. After the video ends playing, the embedding will show suggested videos. If you want the same video to play again and again, you have to put it in a loop. Here are the steps on how to loop Vimeo video when embedded on your website.
@@ -61,24 +50,35 @@ Step 1: Open the Vimeo video on your web browser. Click on Share icon present in
 
 Step 2: You will get to see several options, and you need to click on "Get Embed Code" option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![get embed code vimeo](https://images.wondershare.com/filmora/article-images/get-embed-code-on-vimeo.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: On the next screen, you will get the embed code in a pop-up box. Click on Show options.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![show options share vimeo video](https://images.wondershare.com/filmora/article-images/show-options-share-vimeo-video.jpg)
 
 Step 4: From the expanded section, go to Special Stuff section. Turn on "Loop this video" option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![loop embed video on vimeo](https://images.wondershare.com/filmora/article-images/loop-embed-video-on-vimeo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 5: Thereafter, copy the code and paste it into your website to play the video in a loop.
 
@@ -91,6 +91,13 @@ Step 1: Open the Vimeo app on your mobile device. Play the video that you want i
 Step 2: Tap on the Share icon and tap on Copy URL option.
 
 ![loop a video on mobile](https://images.wondershare.com/filmora/article-images/loop-a-video-on-mobile.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: Open your web browser and paste the copied URL.
 
@@ -116,9 +123,23 @@ Step 2: Drag and drop the downloaded video file into the Project Media folder on
 
 ![drag vimeo video filmora timeline](https://images.wondershare.com/filmora/article-images/drag-vimeo-video-filmora-timeline.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Drag and drop the video clip into the timeline again. Make sure that there is no gap between the clips and they are on the same channel for looping. Alternative, you can copy and paste the video clip multiple times for looping.
 
 ![loop video in filmora](https://images.wondershare.com/filmora/article-images/copy-video-clips-to-loop-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: You can play the video and watch it in loop. Finally, click on the Export button to save the video in the desired file format.
 
@@ -128,9 +149,6 @@ Step 4: You can play the video and watch it in loop. Finally, click on the Expor
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 ## Conclusion
@@ -141,36 +159,38 @@ There are several ways to loop a video on Vimeo. The best way out is to go for V
 
 Step 1: Download and install Wondershare Filmora. Download the desired Vimeo video on your computer. Launch Filmora and click on New Project.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![filmora startup window](https://images.wondershare.com/filmora/guide/startup-window-01.png)
 
 Step 2: Drag and drop the downloaded video file into the Project Media folder on Filmora. Thereafter, bring the video file from Project Media folder into the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drag vimeo video filmora timeline](https://images.wondershare.com/filmora/article-images/drag-vimeo-video-filmora-timeline.jpg)
 
 Step 3: Drag and drop the video clip into the timeline again. Make sure that there is no gap between the clips and they are on the same channel for looping. Alternative, you can copy and paste the video clip multiple times for looping.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![loop video in filmora](https://images.wondershare.com/filmora/article-images/copy-video-clips-to-loop-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: You can play the video and watch it in loop. Finally, click on the Export button to save the video in the desired file format.
 
 ![export loop video from filmora](https://images.wondershare.com/filmora/article-images/export-loop-videos-from-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Wondershare Filmora** Best Video Editor Software to Add Motion Blur Effects.
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 ## Conclusion
@@ -199,7 +219,24 @@ There are several ways to loop a video on Vimeo. The best way out is to go for V
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-edit-like-a-pro-with-these-top-5-mac-videography-suites/"><u>[New] 2024 Approved Edit Like a Pro with These Top 5 Mac Videography Suites</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-srt-mods-ultimate-upgrades-for-macwindows/"><u>[New] Best SRT Mods Ultimate Upgrades for Mac/Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-riddle-me-this-the-ultimate-room-conundrums/"><u>[Updated] 2024 Approved Riddle Me This The Ultimate Room Conundrums</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-audiophiles-top-picks-for-high-quality-window-based-podcasts-8/"><u>[Updated] Audiophile's Top Picks for High-Quality Window-Based Podcasts (#8)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-master-your-virtual-reality-journey-which-option-suits-you-better-portable-mobile-or-connected-tethered-in-2024/"><u>[Updated] Master Your Virtual Reality Journey Which Option Suits You Better - Portable (Mobile) or Connected (Tethered), In 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-ascending-the-podium-in-drone-racing-plus-essential-fpv-brands/"><u>2024 Approved Ascending the Podium in Drone Racing + Essential FPV Brands</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/windows-81-iso-windows-1110/"><u>如何從 Windows 8.1 或更早版本利用 ISO 制作 Windows 11/10 系統鏡像 - 详解</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/combine-computer-imagery-like-a-pro/"><u>Combine Computer Imagery Like a Pro</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/it-right-youtube-video-retrospectives-with-tips/"><u>Flip It Right YouTube Video Retrospectives (With Tips!)</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-lava-blaze-2-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Lava Blaze 2 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/guide-to-enable-dynamic-hdr-in-windows-11/"><u>Guide to Enable Dynamic HDR in Windows 11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-mastering-the-art-of-editing-in-garageband/"><u>In 2024, Mastering the Art of Editing in GarageBand</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-pip-google-chrome-across-devices/"><u>Mastering PIP Google Chrome Across Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-your-network-speed-exiting-the-100mbps-window/"><u>Maximize Your Network Speed: Exiting the 100Mbps Window</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sony-x1000-video-excellence-detailed-product-evaluation/"><u>Sony X1000 Video Excellence Detailed Product Evaluation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transforma-tu-musica-wma-al-formato-mp3-facilmente-usando-la-herramienta-online-de-movavi/"><u>Transforma Tu Música WMA Al Formato MP3 Fácilmente Usando La Herramienta Online De Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/viral-laughter-lab/"><u>Viral Laughter Lab</u></a></li>
+</ul></div>
 

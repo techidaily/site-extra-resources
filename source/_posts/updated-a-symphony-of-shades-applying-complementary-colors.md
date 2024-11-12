@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] A Symphony of Shades  Applying Complementary Colors\""
-date: 2024-10-31T04:18:05.815Z
-updated: 2024-11-02T19:12:20.666Z
+date: 2024-11-05T21:51:26.127Z
+updated: 2024-11-12T07:42:18.779Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,13 @@ Color theory consists of many elements that could fill a library on its own but 
 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Color Wheel
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
@@ -35,10 +42,10 @@ Using red, green and blue as primary colors we can mix the colors to one another
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
@@ -50,10 +57,10 @@ So now we know how the wheel is made and what it looks like. What does it do? We
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
@@ -63,13 +70,6 @@ These colors always work as they create contrast and stability.
 The blue lines represent what is known as split contrasting colors and these will create balance with each other.
 
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## But How Do I Use This
 
@@ -86,10 +86,10 @@ As you can see from this example the base color for the scene is a dark blue/pur
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -126,19 +126,18 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-briefing-on-simple-strategies-for-crafting-snapchat-duos/"><u>[New] Briefing on Simple Strategies for Crafting Snapchat Duos</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-essential-recording-steps-for-youtube-audio-extraction/"><u>[New] In 2024, Essential Recording Steps for YouTube Audio Extraction</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/evenue-sharing-explained-maximizing-profits-with-snippet-videos-for-2024/"><u>[New] Revenue Sharing Explained Maximizing Profits with Snippet Videos for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-cinematic-scale-optimizer/"><u>[Updated] Cinematic Scale Optimizer</u></a></li>
-<li><a href="https://fox-where.techidaily.com/ace-your-paperwork-a-step-by-step-guide-to-using-apowerpdf-for-efficient-form-automation/"><u>Ace Your Paperwork: A Step-by-Step Guide to Using ApowerPDF for Efficient Form Automation</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/an-overview-of-basic-and-simplified-hdr-photography/"><u>An Overview of Basic and Simplified HDR Photography</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/digital-content-showdown-audios-answer-to-visual-media/"><u>Digital Content Showdown Audio's Answer to Visual Media?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expert-tips-to-disable-youtube-video-preview-immediately/"><u>Expert Tips to Disable YouTube Video Preview Immediately</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-commencing-a-community-benefit-contest-online/"><u>In 2024, Commencing a Community Benefit Contest Online</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-commentary-delving-deep-into-bublcams-360-degree-world/"><u>In 2024, Comprehensive Commentary Delving Deep Into Bublcam's 360-Degree World</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-get-acquainted-a-quick-guide-to-windows-11-basics/"><u>In 2024, Get Acquainted A Quick Guide to Windows 11 Basics</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-huawei-p60-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Huawei P60</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-mfc42dll-file-not-present-issue-a-step-by-step-guide/"><u>Solving the mfc42.dll File Not Present Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-resources-for-text-style-adjustment-files/"><u>[New] Prime Resources for Text Style Adjustment Files</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-secrets-to-joining-friends-tiktok-live-events/"><u>[New] Secrets to Joining Friends' TikTok Live Events</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-comedy-cache-twitters-best-jokes/"><u>[New] The Comedy Cache Twitter’s Best Jokes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-demystifying-the-purpose-and-use-of-a-blue-status-symbol-on-facebook/"><u>[Updated] 2024 Approved Demystifying the Purpose and Use of a Blue Status Symbol on Facebook</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-best-5-vr-headsets-for-drones/"><u>[Updated] Best 5 VR Headsets for Drones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-download-windows-movie-maker-6/"><u>How to Download Windows Movie Maker 6</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-10-best-online-vimeo-video-downloaders/"><u>In 2024, 10 Best Online Vimeo Video Downloaders</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-clearing-the-list-of-auto-recommended-podcasts-in-spotify/"><u>In 2024, Clearing the List of Auto-Recommended Podcasts in Spotify</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/intellieditors-ai-transform-photos-effortlessly/"><u>IntelliEditors AI Transform Photos Effortlessly</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/mastering-close-up-techniques-with-videoleap/"><u>Mastering Close-Up Techniques with Videoleap</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-chrome-audio-transformers-leading-web-based-text-to-speech-apps/"><u>Prime Chrome Audio Transformers Leading Web-Based Text-to-Speech Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tempo-tweaking-for-engaging-mp4s/"><u>Tempo Tweaking for Engaging MP4s</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vivid-palette-review-best-5-high-definition-displays/"><u>Vivid Palette Review Best 5 High-Definition Displays</u></a></li>
 </ul></div>
 

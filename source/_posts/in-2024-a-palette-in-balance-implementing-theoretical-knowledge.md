@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, A Palette in Balance  Implementing Theoretical Knowledge\""
-date: 2024-10-21T22:07:49.826Z
-updated: 2024-10-28T01:28:02.099Z
+date: 2024-11-11T00:28:42.288Z
+updated: 2024-11-11T20:17:51.789Z
 tags: 
   - screen-recording
   - ai video
@@ -34,27 +34,20 @@ Using red, green and blue as primary colors we can mix the colors to one another
 
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Color Harmony
 
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
 
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
 
@@ -70,6 +63,13 @@ You may still be unsure as to how to implement color theory into your videos. Le
 
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
 
 As you can see from this example the base color for the scene is a dark blue/purple and using the analogous color of pink they created a point of interest within the scene that doesn't look out of place. This is a very good way to pull the viewers eyes towards something you want them to take in above all else.
@@ -77,19 +77,25 @@ As you can see from this example the base color for the scene is a dark blue/pur
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -126,20 +132,18 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-capturing-the-essence-of-time-lapse-videos-pro-techniques-for-gopro-hero-10-users/"><u>[New] Capturing the Essence of Time-Lapse Videos Pro Techniques for GoPro Hero 10 Users</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-prioritize-savings-with-the-best-6-affordable-camera-brands/"><u>[New] Prioritize Savings with the Best 6 Affordable Camera Brands</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-guide-to-downgrade-from-sierra-to-el-capitan-on-macs/"><u>[Updated] Guide to Downgrade From Sierra to El Capitan on Macs</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-enhance-yi-4k-video-quality-with-essential-kits/"><u>[Updated] In 2024, Enhance YI 4K Video Quality with Essential Kits</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-freenoweb-cam-app-assessment-and-comparison-guide/"><u>[Updated] In 2024, FreenoWeb Cam App Assessment & Comparison Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-slay-the-game-designing-quirky-text-memes/"><u>[Updated] Slay the Game Designing Quirky Text Memes</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-delving-into-the-heart-of-apples-m1-processor/"><u>2024 Approved Delving Into the Heart of Apple's M1 Processor</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/coders-showdown-which-codec-will-dominate-video-quality/"><u>Coders' Showdown Which Codec Will Dominate Video Quality?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhance-your-mp4-files-with-srt-the-complete-guide/"><u>Enhance Your MP4 Files with SRT – The Complete Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expert-analysis-of-the-latest-video-show-app-24-release/"><u>Expert Analysis of the Latest Video Show App '24 Release</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/high-staking-homes-expert-snapshots/"><u>HIGH-STAKING HOMES Expert Snapshots</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-bring-life-to-graphics-adobe-blur-masterclass/"><u>In 2024, Bring Life to Graphics Adobe Blur Masterclass</u></a></li>
-<li><a href="https://techidaily.com/resolving-iphone-updaterestore-issue-detailed-guide-on-overcoming-error-code-4013/"><u>Resolving iPhone Update/Restore Issue: Detailed Guide on Overcoming Error Code 4013</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/riding-the-wave-strategies-for-high-likes-tiktok-unpacking-videos/"><u>Riding the Wave Strategies for High-Likes TikTok Unpacking Videos</u></a></li>
-<li><a href="https://win-web.techidaily.com/the-distinction-between-the-articles-and-bylaws-is-that-articles-establish-legal-existence-bylaws-manage-day-to-day-operations/"><u>The Distinction Between the Articles and Bylaws Is that Articles Establish Legal Existence; Bylaws Manage Day-to-Day Operations.</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-reinvent-your-video-storytelling-in-obs-studio/"><u>[New] 2024 Approved Reinvent Your Video Storytelling in OBS Studio</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-simplify-your-multitasking-using-shortcut-keys-for-macs-screen-capture/"><u>[Updated] 2024 Approved Simplify Your Multitasking Using Shortcut Keys for Mac's Screen Capture</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-choosing-the-best-footage-editor-hero-vs-polaroid-edition/"><u>[Updated] Choosing the Best Footage Editor Hero Vs. Polaroid Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chuckle-chasers-your-ultimate-list-of-funny-tools-for-2024/"><u>Chuckle Chasers Your Ultimate List of Funny Tools for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-mastery-guide-securely-archiving-snapchat-media-on-devices/"><u>In 2024, Mastery Guide Securely Archiving Snapchat Media on Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-depth-analysis-of-excellent-zoom-screen-recorders-for-2024/"><u>In-Depth Analysis of Excellent Zoom Screen Recorders for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/leveraging-linkedin-twitter-for-career-growth/"><u>Leveraging LinkedIn, Twitter for Career Growth</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/musical-integration-for-social-storytelling-platforms/"><u>Musical Integration for Social Storytelling Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfect-instruction-manual-for-wm6/"><u>Perfect Instruction Manual for WM6</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/phantom-pitches-is-this-magical-talker-an-illusion-or-reality-explore-more-options/"><u>Phantom Pitches Is This Magical Talker an Illusion or Reality? Explore More Options</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-list-for-google-pixel-tones/"><u>The Ultimate List for Google Pixel Tones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-action-recorder-with-facing-mode/"><u>Ultimate Action Recorder with Facing Mode</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-epson-printer-on-windows-10-a-step-by-step-guide/"><u>Update Your Epson Printer on Windows 10: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quick Steps to Clear the Exterior of Your Photos in Affinity"
-date: 2024-10-28T18:57:15.081Z
-updated: 2024-11-02T19:05:50.025Z
+date: 2024-11-09T16:26:53.002Z
+updated: 2024-11-12T09:24:24.771Z
 tags: 
   - screen-recording
   - ai video
@@ -45,10 +45,10 @@ Step3 To make a selection around your subject, first enable the **"Snap To Edges
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
@@ -60,10 +60,10 @@ Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** 
 ![refining the outline around the image to remove background in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/refining-the-outline-around-the-image-to-remove-background-in-affinity-designer.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
@@ -97,14 +97,14 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-**Note:** To save your image with a transparent background, do not export it in JPG file format.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**Note:** To save your image with a transparent background, do not export it in JPG file format.
 
 ## The Best Alternative of Affinity Photo
 
@@ -129,13 +129,6 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Create a free account for easier future access.
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -155,6 +148,13 @@ Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.co
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
 * Offline and online image editing tools.
@@ -172,10 +172,10 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -212,22 +212,14 @@ Hopefully, this article and video can help you create ideal images!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-cross-platform-comparison-iphone-vs-android-youtube-viewing-for-2024/"><u>[New] Cross-Platform Comparison IPhone vs Android YouTube Viewing for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-pro-drone-experience-a-thorough-look-at-dji-phantom-4/"><u>[New] The Pro Drone Experience A Thorough Look at DJI Phantom 4</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-making-youtube-intros-interesting-without-costing-a-dime/"><u>[Updated] Making YouTube Intros Interesting Without Costing a Dime</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-riches-in-pixels-identifying-the-best-12-sites-with-free-stock-photos/"><u>[Updated] Riches in Pixels Identifying the Best 12 Sites with Free Stock Photos</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-melodic-sharing-on-instagram-legalities/"><u>2024 Approved Melodic Sharing on Instagram Legalities</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-realme-narzo-n55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a6400-absent-actors-where-are-the-videos-for-2024/"><u>A6400 Absent Actors Where Are the Videos for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/celebrity-inspired-glamour-videos-for-2024/"><u>Celebrity-Inspired Glamour Videos for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-analyzing-major-editions-and-phases-of-windows-movie-maker/"><u>In 2024, Analyzing Major Editions and Phases of Windows Movie Maker</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Vivo Y100i? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/infusing-immersive-experiences-in-ar-via-customized-lut-application/"><u>Infusing Immersive Experiences in AR via Customized LUT Application</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/innovation-unveiled-the-complete-moto-z2-review/"><u>Innovation Unveiled The Complete Moto Z2 Review</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/inspection-enhanced-edition-parrot-ar-drone/"><u>Inspection Enhanced Edition Parrot AR Drone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/iphones-ultimate-video-capture-list/"><u>IPhone's Ultimate Video Capture List</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/quintessential-storylines-dominating-film-landscapes/"><u>Quintessential Storylines Dominating Film Landscapes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restore-your-hp-laptops-keyboard-functionality-quick-fix-for-the-inactive-keys-syndrome-article-name-356-characters/"><u>Restore Your HP Laptop's Keyboard Functionality: Quick Fix For the 'Inactive Keys’ Syndrome - Article Name — 356 Characters</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enhancing-engagement-through-thoughtful-youtube-tags/"><u>[Updated] 2024 Approved Enhancing Engagement Through Thoughtful YouTube Tags</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-chromatic-soundscapes-selecting-the-right-tune/"><u>[Updated] Chromatic Soundscapes Selecting the Right Tune</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-techniques-in-aerial-cinematography-for-2024/"><u>Advanced Techniques in Aerial Cinematography for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-poco-m6-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Poco M6 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/building-your-hyperlapse-filmmaking-toolkit-for-2024/"><u>Building Your Hyperlapse Filmmaking Toolkit for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-gaming-evolution-with-razers-deathadder-v3-tailor-your-controllers-speed-like-never-before/"><u>Experience Gaming Evolution with Razer's DeathAdder V3 – Tailor Your Controller’s Speed Like Never Before!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-5-professional-drones-you-can-buy/"><u>In 2024, Best 5 Professional Drones You Can Buy</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ravpower-24w-usb-car-charger-review-high-power-output-low-quality-construction/"><u>RAVPower 24W USB Car Charger Review: High Power Output, Low-Quality Construction</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-creativity-exploring-the-top-8-drawing-apps-on-ios-devices/"><u>Unleash Creativity Exploring the Top 8 Drawing Apps on iOS Devices</u></a></li>
 </ul></div>
 

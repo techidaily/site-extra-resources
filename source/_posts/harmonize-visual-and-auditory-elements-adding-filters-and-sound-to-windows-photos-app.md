@@ -1,7 +1,7 @@
 ---
 title: "\"Harmonize Visual & Auditory Elements  Adding Filters & Sound to Windows Photos App\""
-date: 2024-11-01T02:37:00.943Z
-updated: 2024-11-02T19:23:24.152Z
+date: 2024-11-06T19:21:31.575Z
+updated: 2024-11-11T23:37:19.404Z
 tags: 
   - screen-recording
   - ai video
@@ -54,10 +54,10 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -72,25 +72,25 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 5**: Hit the ‘Done’ button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -99,10 +99,10 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -120,20 +120,15 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-revolutionizing-vr-experiences-with-newest-game-engines/"><u>[New] Revolutionizing VR Experiences with Newest Game Engines</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-shorts-issue-fixed-now-visible-on-youtube/"><u>[Updated] 2024 Approved Shorts Issue Fixed – Now Visible on YouTube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-3-steps-to-create-professional-gopro-vlogs-ultimate-tutorial/"><u>[Updated] 3 Steps to Create Professional Gopro Vlogs Ultimate Tutorial</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-content-creation-showdown-twitch-versus-youtube-explored/"><u>[Updated] Content Creation Showdown Twitch Versus YouTube Explored</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/create-an-individualistic-meme-masterpiece-for-2024/"><u>Create an Individualistic Meme Masterpiece for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exploring-lgs-ultra-hd-tech-27ud68-monitor-deep-dive/"><u>Exploring LG's Ultra HD Tech 27UD68 Monitor Deep Dive</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/future-proofing-imessage-from-advanced-threats-apples-strategic-update-explained-zdnet/"><u>Future-Proofing iMessage From Advanced Threats: Apple's Strategic Update Explained | ZDNet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-evade-tips-on-avoiding-edgenuity-video-lessons-with-finesse/"><u>In 2024, How to Evade Tips on Avoiding Edgenuity Video Lessons with Finesse</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-gt-neo-5-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme GT Neo 5 Device</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/striding-forward-a-comprehensive-review-of-vr-walkers/"><u>Striding Forward A Comprehensive Review of VR Walkers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/transition-to-darkness-premiere-pro-techniques/"><u>Transition to Darkness Premiere Pro Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/uncover-the-solution-to-not-found-or-missing-cygwin1dll-issues/"><u>Uncover the Solution to 'Not Found' Or Missing Cygwin1.dll Issues</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unleash-virtual-reality-to-the-fullest-with-htc-vive-review/"><u>Unleash Virtual Reality to the Fullest with HTC Vive Review</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unleashing-potential-with-the-q500-drone/"><u>Unleashing Potential with the Q500 Drone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-your-yoga-900s-accessible-win10-drivers-download/"><u>Upgrade Your Yoga 900S: Accessible Win10 Drivers Download</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-narrowing-down-the-video-platform-wars-youtube-shorts-against-tiktok/"><u>[New] 2024 Approved Narrowing Down the Video Platform Wars YouTube Shorts Against TikTok</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-quick-react-guide-efficiently-answering-discord-messages/"><u>[Updated] 2024 Approved Quick-React Guide Efficiently Answering Discord Messages</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-all-you-need-to-know-about-podcast-funding/"><u>2024 Approved All You Need To Know About Podcast Funding</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beyond-basic-editing-innovative-use-of-luts-for-photography/"><u>2024 Approved Beyond Basic Editing Innovative Use of LUTs for Photography</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-reddits-hidden-gems-6-tactics-that-transform-beginners-into-titans/"><u>2024 Approved Reddit's Hidden Gems 6 Tactics That Transform Beginners Into Titans</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/behind-the-scenes-expert-techniques-for-video-magic/"><u>Behind the Scenes Expert Techniques for Video Magic</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/clear-visuals-step-by-step-guide-for-picsart-backdrop-removal-for-2024/"><u>Clear Visuals Step-By-Step Guide for Picsart Backdrop Removal for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/dmmand2024/"><u>DMM動画のダウンロード&記録保存手順2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/efficiently-hosting-virtual-events-via-zoom-and-win11/"><u>Efficiently Hosting Virtual Events via Zoom & Win11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/sculpting-light-and-shadow-the-photoshop-hdr-way-for-2024/"><u>Sculpting Light and Shadow The Photoshop HDR Way for 2024</u></a></li>
 </ul></div>
 

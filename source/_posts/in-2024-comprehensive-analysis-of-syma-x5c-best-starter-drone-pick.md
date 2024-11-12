@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Comprehensive Analysis of Syma X5C  Best Starter Drone Pick\""
-date: 2024-11-02T00:09:52.510Z
-updated: 2024-11-03T00:35:42.563Z
+date: 2024-11-07T06:34:42.274Z
+updated: 2024-11-12T00:14:58.444Z
 tags: 
   - screen-recording
   - ai video
@@ -60,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
 
  There are so many incredible features inside Syma X5C that make it suitable device for [aerial photography](https://tools.techidaily.com/wondershare/filmora/download/). The intuitive controls are much easier to explore even for beginners. The remote control is user friendly and all other latest features make it a must buy product for drone lovers.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Complete Review for Syma X5C
 
 #### 1\.  Basic Specs Info
@@ -92,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
 ![syma x5c controller](https://images.wondershare.com/filmora/article-images/syma-x5c-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The remote unit or transmitter works with a 2.4GHz frequency setting with 4 channel type control. It helps pilots to enjoy wider flying range with spread spectrum technology. The maximum flying range falls between 30 to 50 meters and no lags have been reported yet in control selection and quadcopter reactions. Using flip switch, you can directly adjust the movements in air.
@@ -105,20 +112,13 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
 ![syma x5c camera](https://images.wondershare.com/filmora/article-images/syma-x5c-camera.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Syma H5C camera is rated as moderately stable and it is capable enough to take impressive pictures from air. This device is equipped with a 2GB MicroSD card that offers personal storage space to all recorded videos and images. The sad part is here that controller unit of this device is able to send signals to drone only; it cannot control the camera actions. Thus your camera stays focused in only one direction all the time and have fixed focus during shoots. You cannot apply zoom, direction sensing inputs or focus adjustment controls when your device is in air. If you are searching for a highly controlled footage generator then it is good to go for other Phantom series and other competing models as per your budget. But Syma H5C is really a good choice to start with.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -127,10 +127,16 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -148,16 +154,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-comprehensive-analysis-updated-s3700-bd-player/"><u>[New] Comprehensive Analysis Updated S3700 BD Player</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-easy-steps-to-create-personalized-ringtone-from-trending-tiktok-audio/"><u>[Updated] In 2024, Easy Steps to Create Personalized Ringtone From Trending TikTok Audio</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-the-skyline-drone-cinematography-tips/"><u>2024 Approved Capturing the Skyline Drone Cinematography Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-picks-no-charging-high-definition-video-players-for-pcmacos-for-2024/"><u>Best Picks No-Charging, High Definition Video Players for PC/MacOS for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/from-black-and-white-to-richness-embracing-hdrs-power/"><u>From Black and White to Richness Embracing HDR's Power</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-sony-xperia-1-v-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Sony Xperia 1 V is off? | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/master-your-virtual-reality-journey-which-option-suits-you-better-portable-mobile-or-connected-tethered-in-2024/"><u>Master Your Virtual Reality Journey Which Option Suits You Better - Portable (Mobile) or Connected (Tethered), In 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mobile-virtual-realms-the-best-10-headsets-ranking/"><u>Mobile Virtual Realms The Best 10 Headsets Ranking</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-fps-gameplay-selecting-the-right-mouse-sensitivity/"><u>Navigating FPS Gameplay: Selecting the Right Mouse Sensitivity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-fix-unauthorized-nvidia-control-panel-errors/"><u>Steps to Fix Unauthorized Nvidia Control Panel Errors</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/will-artificial-intelligence-outdo-astrology-magazines-in-guessing-your-life-path/"><u>Will Artificial Intelligence Outdo Astrology Magazines in Guessing Your Life Path?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-smoothly-blending-scenes-with-premieres-transitions/"><u>[New] Smoothly Blending Scenes with Premiere's Transitions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-bringing-lectures-to-life-effective-editing-techniques/"><u>[Updated] Bringing Lectures to Life Effective Editing Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-insights-into-every-bit-of-new-artificial-intelligence-launched-by-apple-at-their-recent-wwdc/"><u>Comprehensive Insights Into Every Bit of New Artificial Intelligence Launched by Apple at Their Recent WWDC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/create-captivating-photos-adding-motion-blur-in-photoshop/"><u>Create Captivating Photos Adding Motion Blur in Photoshop</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Xiaomi Redmi Note 12 Pro 5G</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-breaking-down-the-fundamentals-of-lut-design/"><u>In 2024, Breaking Down the Fundamentals of LUT Design</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-for-masterminding-memelore-on-9gag/"><u>In 2024, Expert Tips for Masterminding Memelore on 9GAG</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-iconic-writings-distinguishing-film-types/"><u>In 2024, Iconic Writings Distinguishing Film Types</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-9-apple-iphone-15-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 9 Apple iPhone 15 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfecting-your-video-with-story-remix-and-windows-photos/"><u>Perfecting Your Video with Story Remix & Windows Photos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sonys-shutterbug-fixing-the-no-video-fiasco/"><u>Sony's Shutterbug Fixing the No-Video Fiasco</u></a></li>
 </ul></div>
 
