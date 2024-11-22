@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Bold Creation  Mastering Timelapses & Animations with Movie Maker\""
-date: 2024-11-11T06:54:36.285Z
-updated: 2024-11-12T07:33:39.802Z
+date: 2024-11-19T21:47:51.102Z
+updated: 2024-11-21T16:50:28.979Z
 tags: 
   - screen-recording
   - ai video
@@ -34,6 +34,10 @@ On your PC, launch Windows Movie Maker. Windows Movie Maker, however, has to be 
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** You have the option to upload one file at a time or many files simultaneously.
 
 ##### Step2Go to Edit Menu
@@ -61,10 +65,7 @@ When a transition is applied, a washed-out diagonal zone on the clip in the time
 ![save animation video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/save-animation-video-movie-maker.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. Movie Maker Alternative to Add Animations
@@ -93,6 +94,10 @@ Filmora helps you create your text animation using the controller window as seen
 
 The software's Preview window also allows you to preview the animation you've selected before adding it to the timeline with a few simple drag-and-drop actions. After finishing the production and editing of the instructional video, you may save it for distribution on social media. You may choose to save the document as an MP4, WMV, AVI, MOV, or even a GIF file.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3\. Related FAQs about Windows Movie Maker
 
 1. **Where is the Visual Effects tab in Movie Maker?**
@@ -120,10 +125,7 @@ You may add two distinct types of animations—Transitions and Pan and Zoom—to
 ![animation tab movie maker](https://images.wondershare.com/filmora/article-images/2022/09/animation-tab-movie-maker.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step4Add Transitions
@@ -132,13 +134,6 @@ Between two multimedia portions, a transition effect may be added. In the "Anima
 
 ![add transitions movie maker](https://images.wondershare.com/filmora/article-images/2022/09/add-transitions-movie-maker.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step5Save the Video
 
 When a transition is applied, a washed-out diagonal zone on the clip in the timeline indicates where the transition starts and finishes. Additionally, you have a choice in the sequence in which the effects are used. This may change how the movie is finally shown depending on the Effects, you choose. Once you're done, click Apply.
@@ -146,16 +141,7 @@ When a transition is applied, a washed-out diagonal zone on the clip in the time
 ![save animation video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/save-animation-video-movie-maker.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. Movie Maker Alternative to Add Animations
@@ -222,22 +208,19 @@ Simple movies may be easily made using Windows Live Movie Maker. With Windows Vi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-androids-optimal-cloud-savers-updated-list/"><u>[New] Android's Optimal Cloud Savers Updated List</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-guide-for-soundless-video-documentation-for-2024/"><u>[Updated] How-To Guide for Soundless Video Documentation for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-visionary-vistas-accessible-designs-for-youtube-artists/"><u>[Updated] In 2024, Visionary Vistas Accessible Designs for YouTube Artists</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/apex-level-clarity-convert-high-res-videos-for-2024/"><u>Apex-Level Clarity Convert High-Res Videos for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-90-lite-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from 90 Lite.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boost-your-social-media-presence-a-beginners-guide-to-tiktok-dueting/"><u>Boost Your Social Media Presence: A Beginner's Guide to TikTok Dueting</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/charting-new-territories-innovations-in-office-spaces-for-enhanced-output-for-2024/"><u>Charting New Territories Innovations in Office Spaces for Enhanced Output for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exciting-vr-technologies-shaping-gaming/"><u>Exciting VR Technologies Shaping Gaming</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/five-trailblazers-shaping-the-webs-audiovideo-landscape/"><u>Five Trailblazers Shaping the Web's Audio/Video Landscape</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-7-hd-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Infinix Smart 7 HD Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How to Use Life360 on Windows PC For Apple iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-beginners-tutorial-windows-movie-maker-6-installation/"><u>In 2024, Beginner's Tutorial Windows Movie Maker 6 Installation</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-infinix-smart-8-hd-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Infinix Smart 8 HD Device</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/navigating-youtube-rights-an-experts-handbook/"><u>Navigating YouTube Rights An Expert's Handbook</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-downscaling-your-videos-from-ultra-hd-4k-to-full-hd-1080p-using-vlc-media-player/"><u>Step-by-Step Guide: Downscaling Your Videos From Ultra HD 4K to Full HD 1080P Using VLC Media Player</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-5-quick-filming-diy-hacks-to-try-at-home/"><u>Top 5 Quick Filming DIY Hacks to Try at Home</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/youtubers-guide-to-ergonomic-stabilizers-for-cutting-edge-cinematography/"><u>YouTubers' Guide to Ergonomic Stabilizers for Cutting-Edge Cinematography</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-vector-journey-start-categories-tools-and-initial-steps/"><u>[New] 2024 Approved Vector Journey Start Categories, Tools, & Initial Steps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-altered-captions-a-video-guide/"><u>[New] Altered Captions A Video Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-giggles-in-a-box-iphone-fun/"><u>[New] In 2024, Giggles in a Box (iPhone Fun)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtube-editing-made-easy-shortening-video-lengths/"><u>[Updated] In 2024, YouTube Editing Made Easy Shortening Video Lengths</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-the-location-of-youtubes-creator-dashboard-for-2024/"><u>[Updated] Mastering the Location of YouTube's Creator Dashboard for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-clarifying-gap-between-full-view-and-immersive-videos/"><u>2024 Approved Clarifying Gap Between Full View & Immersive Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/analyzing-the-boons-and-banes-of-vr-headsets/"><u>Analyzing the Boons & Banes of VR Headsets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-the-illusion-iphone-tricks-for-reflection-photography/"><u>Capturing the Illusion IPhone Tricks for Reflection Photography</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/decoding-popular-themes-in-youtube-commentary/"><u>Decoding Popular Themes in YouTube Commentary</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mesothelioma-is-associated-with-asbestos-exposure-and-affects-the-pleura-rather-than-lung-parenchyma/"><u>Mesothelioma Is Associated with Asbestos Exposure and Affects the Pleura Rather than Lung Parenchyma.</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/peak-online-cam-dance-battles/"><u>Peak Online Cam Dance Battles</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Huawei P60? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-of-intense-focus-5-techniques-for-zooming-in-minecraft/"><u>The Art of Intense Focus 5 Techniques for Zooming in Minecraft</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-chrome-browser-plug-ins-essential-for-digital-marketers-discover-the-massmail-suite/"><u>Top Chrome Browser Plug-Ins Essential for Digital Marketers: Discover the MassMail Suite</u></a></li>
 </ul></div>
 

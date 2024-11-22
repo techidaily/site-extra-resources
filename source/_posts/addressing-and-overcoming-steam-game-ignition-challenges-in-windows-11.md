@@ -1,7 +1,7 @@
 ---
 title: Addressing & Overcoming Steam Game Ignition Challenges in Windows 11
-date: 2024-11-08T08:11:12.516Z
-updated: 2024-11-11T23:35:52.890Z
+date: 2024-11-19T01:44:41.389Z
+updated: 2024-11-22T01:02:41.892Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/a81739d88952571f4be878bb2d8fbe2fb1485b177
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
 After installing all the updates, restart your PC and check the gameplay.
@@ -56,10 +49,7 @@ After installing all the updates, restart your PC and check the gameplay.
  If RDR2 still stutters on your latest system, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Change power plan to Ultimate performance
@@ -69,13 +59,6 @@ After installing all the updates, restart your PC and check the gameplay.
 1. On your keyboard, press **Win+R** (the Windows logo key and the r key) at the same time. Type or paste **powercfg.cpl**  and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . (If you don’t see this power plan, simply continue to the next step to unhide it.)  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
@@ -104,19 +87,6 @@ Now you can start RDR2 and check if it stutters again.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
@@ -125,6 +95,10 @@ Now you can start RDR2 and check if it stutters again.
  Once you’ve updated your graphics driver, restart your computer and test the gameplay in RDR2 again.
 
  If the latest GPU driver doesn’t do the trick for you, you can move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Enable HAGs
 
@@ -139,34 +113,26 @@ Now you can start RDR2 and check if it stutters again.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn on **Hardware-accelerated GPU scheduling** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-4.jpg)
 5. Restart your PC for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can launch RDR2 and check if there’s any improvements.
 
 If HAGs doesn’t work for you, you can try the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable all mods
@@ -174,6 +140,14 @@ If HAGs doesn’t work for you, you can try the next method.
  The Red Dead Redemption series is also famous for the large number of mods. There’s a mod that allows players to turn themselves into animals, and one with which gamers can fly in a hot air balloon. Though fun, it’s worth noting that mods might be the culprit of your FPS issues. So if you’re using any mods in RDR2, turn them off and see how it goes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/rdr2-hot-air-balloon.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Fine tune in-game settings
 
@@ -184,24 +158,14 @@ If HAGs doesn’t work for you, you can try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/RDR2-graphics-tuning-1.jpg)
 3. Set**Water Refraction Quality** and**Water Reflection Quality** to**High** or lower. (You can also try disabling TAA sharpening and open image sharpening in the NVIDIA control panel instead.)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/RDR2-graphics-tuning-2.jpg)
 4. Also set**Reflection MSAA** to**X4** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/RDR2-graphics-tuning-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can now test your gameplay and see if the game lags again.
 
@@ -228,24 +192,22 @@ You can now test your gameplay and see if the game lags again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-join-jargon-free-youtube-chats/"><u>[New] 2024 Approved Join Jargon-Free YouTube Chats</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-latest-vr-gaming-engines-review-2023-edition/"><u>[New] 2024 Approved Latest VR Gaming Engines Review - 2023 Edition</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-speaking-shifts-a-guide-to-free-fire-voices/"><u>[New] Speaking Shifts A Guide to Free Fire Voices</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-streaming-selection-saga-choose-between-engaging-podcasts-and-youtube-channels-for-2024/"><u>[Updated] Streaming Selection Saga Choose Between Engaging Podcasts and YouTube Channels for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-unique-narratives-increased-channel-visibility-for-2024/"><u>[Updated] Unique Narratives, Increased Channel Visibility for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-anonymous-live-on-instagram-the-sneaky-techniques/"><u>2024 Approved Anonymous Live on Instagram The Sneaky Techniques</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-complete-breakdown-hero4-black-usage/"><u>2024 Approved Complete Breakdown Hero4 Black Usage</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-complete-scrutiny-of-cutmatic-editor/"><u>2024 Approved Complete Scrutiny of CutMatic Editor</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-memorable-dialogues-a-screenwriters-guide/"><u>2024 Approved Crafting Memorable Dialogues A Screenwriter's Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-what-are-luts-and-how-they-change-your-photo/"><u>2024 Approved What Are LUTs and How They Change Your Photo</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/5-core-strategies-for-amplifying-your-digital-footprint-newbies-style-for-2024/"><u>5 Core Strategies for Amplifying Your Digital Footprint, Newbies Style for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ace-tiktok-live-leveraging-zoom-capabilities/"><u>Ace TikTok Live Leveraging Zoom Capabilities</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/altering-game-console-speech-ps5ps4-upgrades/"><u>Altering Game Console Speech PS5/PS4 Upgrades</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/assessing-magixs-multimedia-capabilities-for-2024/"><u>Assessing MAGIX's Multimedia Capabilities for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/become-a-periscope-wizard-with-our-full-guidebook/"><u>Become a Periscope Wizard with Our Full Guidebook</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-best-5-android-video-capture-apps-for-screen-recording/"><u>In 2024, Best 5 Android Video Capture Apps for Screen Recording</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-sidestep-these-8-common-errors/"><u>Mastering Windows 11: Sidestep These 8 Common Errors</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/masterpieces-in-editing-filmoras-loved-features-for-2024/"><u>Masterpieces in Editing - Filmora's Loved Features for 2024</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-redmi-note-12-pro-4g-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Xiaomi Redmi Note 12 Pro 4G support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-elevate-your-digital-storytelling-on-tiktok-with-5-key-caption-approaches/"><u>[New] 2024 Approved Elevate Your Digital Storytelling on TikTok With 5 Key Caption Approaches</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-ultimate-cloud-photo-vaults-unlimited-free-premium-options-available/"><u>[New] 2024 Approved Ultimate Cloud Photo Vaults Unlimited Free, Premium Options Available</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-amplifying-visuals-expert-guide-to-snapchat-zoom/"><u>[New] Amplifying Visuals Expert Guide to Snapchat Zoom</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-explaining-the-gopro-burst-mode/"><u>[Updated] Explaining the GoPro Burst Mode</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/a-practical-guide-to-managing-twitter-archives/"><u>A Practical Guide to Managing Twitter Archives</u></a></li>
+<li><a href="https://extra-information.techidaily.com/acclaimed-cameras-for-expert-automotive-tracking/"><u>Acclaimed Cameras for Expert Automotive Tracking</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beijings-frigid-triumph-in-winter-sports-2022/"><u>Beijing's Frigid Triumph in Winter Sports, 2022</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-mkv-player-for-pc-and-mobile-for-2024/"><u>Best Mkv Player for PC and Mobile for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-your-podcasts-rss-feed-a-step-by-step-guide-for-2024/"><u>Crafting Your Podcast's RSS Feed A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-google-pixel-fold-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Google Pixel Fold Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-all-about-triller-diverging-from-standard-tiktok-experience/"><u>In 2024, All About Triller Diverging From Standard TikTok Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-av-and-acoustic-creatives-top-5-online-leaders-roundup/"><u>In 2024, Av & Acoustic Creatives Top 5 Online Leaders' Roundup</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-becoming-a-color-connoisseur-top-techniques/"><u>In 2024, Becoming a Color Connoisseur Top Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/magic-voice-transformation-is-this-app-feasible-discover-other-solutions/"><u>Magic Voice Transformation Is This App Feasible? Discover Other Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-firstrow-sports-alternatives/"><u>Top 10 Firstrow Sports Alternatives</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oneplus-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from OnePlus</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Edits with Smart Use of LUTs in Premiere Pro"
-date: 2024-11-09T06:09:41.316Z
-updated: 2024-11-11T21:42:35.978Z
+date: 2024-11-15T00:31:18.306Z
+updated: 2024-11-21T19:04:56.391Z
 tags: 
   - screen-recording
   - ai video
@@ -33,10 +33,7 @@ Step2Locate the Lumetri LUTs folder in your Premiere Pro installation directory 
 Step3Paste all of your fresh LUTs in this folder at this time. Your new LUTs will now show up in the Lumetri Color Panel when you launch Premiere Pro (or restart the software if it was already open). Innovative >> Looks
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to add LUTs to your footage
@@ -50,10 +47,7 @@ Step3The first Basic Correction option in the right-hand panel of Lumetri Color 
 Step4Double-click the LUT you wish to use once you've located it, and it will be applied immediately.A tiny tip I like to use occasionally is to find the Effect Controls panel on the left side, then click the drop-down arrow next to Opacity, and make adjustments if you input your LUT and feel that it's too intense.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Why use LUTs in your project?
@@ -67,16 +61,7 @@ Because of this, some designers employ look-up tables (LUTs) that they have crea
 When it comes to working on a project for a customer that has a stringent deadline to fulfill, poor color grading could result in a negative impression of your work. This is the case even if everything from the sound effects to the video effects is done to a high standard and is done well.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Can you adjust the strength of the LUT?
@@ -86,6 +71,10 @@ There are no such modifications that can be made in a certain LUT or Look, and t
 The entire color panel in Premiere Pro is packed with all of the color grading tools that are required to adjust your film in the appropriate way. Investigating them can provide you with some understanding of how they function. You can get a sense of how these LUTs function by using the pre-installed LUTs that are accessible in Premiere Pro, which you can use at first to get a feel for the LUTs before moving on to using paid or free Color Grading profiles.
 
 The end outcome does not vary by a substantial amount, but how it looks can change depending on the LUT you use. In the event that something seems to be lacking, you can always modify the color grading.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Export LUTs
 
@@ -99,6 +88,10 @@ Step2Export ".cube" This function exports lookup tables in the.cube format so th
 
 Step3Store Preset: You can personalize the settings for each color effect, then save the resulting combinations as presets. Within the Save Preset dialog box, give your preset the name you want it to have. If desired, enter a description. Please visit the article on how to create and store an effect preset for further details.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Where can you find LUTs?
 
 You might be asking, "Now that I've learned more about LUTs (Lookup Tables), where can I get even more LUTs?" since you've gained some new knowledge. In the end, being able to use the built-in LUTs in Luminar is a nice feature, but these are merely samples of the thousands upon thousands of LUTs that are accessible, both for free and for purchase.
@@ -111,13 +104,6 @@ You might be asking, "Now that I've learned more about LUTs (Lookup Tables), whe
 * Complete Cinema LUTs
 * Filmic Tone LUTs
 * Urban Dark Creative LUTs
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -155,17 +141,22 @@ Sometimes, some of them are out there to steal your money rather than provide th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-crafting-powerful-hashtags-for-fb-brand-identity/"><u>[New] Crafting Powerful Hashtags for FB Brand Identity</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-first-steps-in-using-zooms-group-rooms-for-2024/"><u>[New] First Steps in Using Zoom's Group Rooms for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-masterful-guide-integrating-youtube-and-social-media-platforms-fb/"><u>[New] In 2024, Masterful Guide Integrating YouTube and Social Media Platforms FB</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-stealthy-surveillance-erasing-sensitive-elements-from-footage-for-2024/"><u>[New] Stealthy Surveillance Erasing Sensitive Elements From Footage for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-comparative-analysis-of-fb-video-formats/"><u>2024 Approved Comparative Analysis of FB Video Formats</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/conquer-competitors-try-this-highest-rated-voice-modification-software-for-valorant-for-2024/"><u>Conquer Competitors - Try This Highest-Rated Voice Modification Software for Valorant for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-fixes-for-minecraft-not-starting-on-your-windows-pc-detailed-instructions/"><u>Expert Fixes for Minecraft Not Starting on Your Windows PC – Detailed Instructions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y100i-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y100i by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-aerial-titans-unveiled-the-10-powerful-drone-list/"><u>In 2024, Aerial Titans Unveiled The 10 Powerful Drone List</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/synchronizing-tracks-through-effective-crossfading/"><u>Synchronizing Tracks Through Effective Crossfading</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-artisans-approach-expert-color-alteration-tactics-for-2024/"><u>The Artisan's Approach Expert Color Alteration Tactics for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/uplifting-movies-a-top-10-list-of-inspiration/"><u>Uplifting Movies A Top 10 List of Inspiration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-look-at-huawei-p10-innovation-in-smartphone-technology/"><u>[New] A Look at Huawei P10 Innovation in Smartphone Technology</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-6-pioneering-nft-creators-spurring-artistic-genius/"><u>[Updated] 6 Pioneering NFT Creators Spurring Artistic Genius</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-latest-iteration-a-closer-look-at-sonys-s6500-bdp-for-2024/"><u>[Updated] Latest Iteration A Closer Look at Sony's S6500 BDP for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beyond-acid-the-future-of-graphic-vectors/"><u>2024 Approved Beyond ACID The Future of Graphic Vectors</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/audio-purging-techniques-for-streaming-success-for-2024/"><u>Audio Purging Techniques for Streaming Success for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-free-dvd-extraction-software-compared-optimized-for-macos-catalina-6432-bit/"><u>Best Free DVD Extraction Software Compared: Optimized for macOS Catalina [64/32-Bit]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/building-visual-story-arcs-for-2024/"><u>Building Visual Story Arcs for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/comprehensive-guide-to-aomei-tools-full-tutorial-series/"><u>Comprehensive Guide to AOMEI Tools - Full Tutorial Series</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-key-issues-on-your-device-a-comprehensive-guide/"><u>Fixing '@' Key Issues on Your Device: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-top-10-best-gimbals-for-4k-dsrlmirrorless-cameras/"><u>In 2024, Top 10 Best Gimbals for 4K DSRL/Mirrorless Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/key-components-in-upgrading-from-standard-to-4k-lenses/"><u>Key Components in Upgrading From Standard to 4K Lenses</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-picture-warping-techniques/"><u>Mastering Picture Warping Techniques</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/oculus-quest-2-unveiled-immerse-yourself-in-virtual-reality-excellence-at-an-extraordinary-price-point/"><u>Oculus Quest 2 Unveiled: Immerse Yourself in Virtual Reality Excellence at an Extraordinary Price Point</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/top-5-ios-friendly-apps-unlocking-facebooks-richest-media-library/"><u>Top 5 iOS-Friendly Apps Unlocking Facebook's Richest Media Library</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-administrative-blockage-for-software-installations/"><u>Troubleshooting Administrative Blockage for Software Installations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-list-timely-humor-for-various-gatherings/"><u>Ultimate List Timely Humor for Various Gatherings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/yahoo-mail-account-termination-an-ultimate-guide-to-permanently-delete-it/"><u>Yahoo Mail Account Termination: An Ultimate Guide to Permanently Delete It</u></a></li>
 </ul></div>
 

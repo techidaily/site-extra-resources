@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Potential of Wide Angle 360 Photos"
-date: 2024-11-05T18:19:57.940Z
-updated: 2024-11-11T22:02:47.090Z
+date: 2024-11-14T23:10:06.400Z
+updated: 2024-11-22T01:52:49.245Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,7 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
  The process of shooting panoramas with fisheye lenses involves a number of considerations and they are as follows-:
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1. The equipment and setup
@@ -44,10 +41,7 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
 ![Panohead for Fisheye lens](https://images.wondershare.com/filmora/article-images/panohead-for-fishlens.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2. Leveling and rotating
@@ -57,16 +51,7 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
 ![Panning clam on ballhead](https://images.wondershare.com/filmora/article-images/panning-clam-on-ballhead.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3. The actual shooting
@@ -81,13 +66,6 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
 
  In normal photography, it always pays to remember what to include and what to exclude in your shots. When it comes to shooting 360s, it becomes more complicated since everything is included. For you to take successful 360s with fisheye therefore, you need to consider keenly where you stand. The fisheye lens will introduce a lot of space between you and the subject, hence you must consider how close or far away you are from the subject so that the pieces of the compositional puzzle will fall in place smoothly both in the horizontal and vertical planes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Stitching 360 degrees panoramas after shooting
 
  To stitch 360s taken by fisheye lenses after shooting, you will need panorama software like [Autopano Pro](http://www.kolor.com/) or [PTGui](https://www.ptgui.com/). For Autopano Pro, you begin by importing the images into the software and ensuring that the EXIF are displayed correctly on the program. With the right settings in place, the next step is to launch the direct stitching feature if you don’t want to go the manual way. Once the stitching is done, it will be important to present the output online. This can be done using [Pano2VR](http://www.ggnome.com/pano2vr) or you could simply upload the finished panoramas to [360cities](https://www.360cities.net/) for online viewing.
@@ -95,6 +73,10 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
  You might be also interested in:
 
 [How to stitch GoPro clips into 360 videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What's fisheye lenses
 
@@ -105,6 +87,10 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
  The fisheye lenses are used for a myriad of applications, especially in digital photography. They can also be used for re-projecting images captured by a fisheye lens or computer generated graphics onto hemispherical screens. Additionally, the lenses can be used in scientific photography such as studying canopy geometry, recording meteors and aurora, calculating near-ground solar radiation as well as in peepholes to offer a wide field of view to the users.
 
 ![create 360 photos with fisheye lens](https://images.wondershare.com/filmora/article-images/fisheye-lens-image.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Conclusion
 
@@ -127,24 +113,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-brilliant-barrage-essential-gadgets-for-clips/"><u>[New] Brilliant Barrage Essential Gadgets for Clips</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-the-step-by-step-guide-to-youtube-gamers-broadcasting/"><u>[New] In 2024, The Step-by-Step Guide to YouTube Gamers' Broadcasting</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-elevate-engagement-youtube-insights-for-timing/"><u>[Updated] In 2024, Elevate Engagement Youtube Insights for Timing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-10-premier-websites-for-mystery-box-shopping-delights/"><u>2024 Approved 10 Premier Websites for Mystery Box Shopping Delights</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-begin-installing-xps-key-visual-storytelling-app/"><u>2024 Approved Begin Installing XP’s Key Visual Storytelling App</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-proven-audacity-strategies-for-top-quality-recordings/"><u>2024 Approved Proven Audacity Strategies for Top-Quality Recordings</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-top-15-secrets-to-building-quality-free-ad-videos-for-youtube/"><u>2024 Approved Top 15 Secrets to Building Quality Free Ad Videos for YouTube</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/1728471189284-aomei/"><u>AOMEI商品に関するガイドと手順 - ご利用方法</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/azure-speech-to-text-explained-simply-for-2024/"><u>Azure Speech to Text Explained Simply for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/beyond-auto-smart-strategies-for-flawless-hue-harmonization/"><u>Beyond Auto Smart Strategies for Flawless Hue Harmonization</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/converting-ordinary-to-exceptional-lightroom-hdr-tutorial/"><u>Converting Ordinary to Exceptional Lightroom HDR Tutorial</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discovering-8-exceptional-free-srt-translation-tools/"><u>Discovering 8 Exceptional Free SRT Translation Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/easy-gif-to-video-transformation-top-5-no-download-options/"><u>Easy GIF to Video Transformation Top 5 No-Download Options</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-realme-v30t-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Realme V30T to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-samsung-galaxy-m54-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy M54 5G Safely | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oneplus-ace-2-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your OnePlus Ace 2 Device</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/textual-enhancements-in-visual-media/"><u>Textual Enhancements in Visual Media</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-infinix-hot-30i-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Infinix Hot 30i Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-decelerating-action-the-ultimate-guide-to-ig-reels-slow-motion/"><u>[New] Decelerating Action The Ultimate Guide to IG Reels’ Slow Motion</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ye-catcher-gaming-creating-striking-template-designs-for-2024/"><u>[New] Eye Catcher Gaming Creating Striking Template Designs for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-transforming-youtube-videos-bars-free-vision/"><u>[New] In 2024, Transforming YouTube Videos Bars-Free Vision</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-virtual-reality-content-shortfall-a-2023-perspective/"><u>[Updated] 2024 Approved Virtual Reality Content Shortfall A 2023 Perspective</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-streamlining-your-podcast-for-apple-platform-access/"><u>2024 Approved Streamlining Your Podcast for Apple Platform Access</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-step-by-step-approach-to-personalizing-your-phones-alerts/"><u>2024 Approved The Step-By-Step Approach to Personalizing Your Phone's Alerts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-and-easy-guide-to-exquisite-collage-artistry/"><u>Quick & Easy Guide to Exquisite Collage Artistry</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-guide-maximizing-spotify-ad-reach/"><u>Step-by-Step Guide Maximizing Spotify Ad Reach</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlining-your-video-workflow-in-windows-11/"><u>Streamlining Your Video Workflow in Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-compelling-case-for-integrating-hdr-in-your-workflow/"><u>The Compelling Case for Integrating HDR in Your Workflow</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/utilizing-iphones-full-screen-memories/"><u>Utilizing iPhone's Full-Screen Memories</u></a></li>
 </ul></div>
 

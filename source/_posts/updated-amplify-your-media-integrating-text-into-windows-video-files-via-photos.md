@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Amplify Your Media  Integrating Text Into Windows Video Files via Photos\""
-date: 2024-11-04T22:16:23.569Z
-updated: 2024-11-12T00:15:00.499Z
+date: 2024-11-14T17:42:50.101Z
+updated: 2024-11-22T00:38:39.092Z
 tags: 
   - screen-recording
   - ai video
@@ -52,10 +52,7 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
@@ -70,10 +67,7 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
@@ -82,24 +76,19 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
-* Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
-
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+* Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 ## Conclusion
 
@@ -108,10 +97,7 @@ To add titles/text to video on Photos in Windows 10 and to make the text move wi
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -129,17 +115,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enriched-tv-experience-seamlessly-looping-online-content/"><u>[Updated] 2024 Approved Enriched TV Experience Seamlessly Looping Online Content</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-beyond-the-basics-advanced-livestreaming-tools/"><u>[Updated] In 2024, Beyond the Basics Advanced Livestreaming Tools</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-enhancing-instagram-presence-with-picture-borders/"><u>[Updated] In 2024, Enhancing Instagram Presence with Picture Borders</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-craft-engaging-youtube-stays-strategies-to-shine-without-thousand-supporters/"><u>2024 Approved Craft Engaging YouTube Stays Strategies to Shine without Thousand Supporters</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-world-of-social-media-with-a-focused-brand/"><u>2024 Approved Navigating the World of Social Media with a Focused Brand</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-inshot-on-pcs-and-laptops/"><u>2024 Approved The Ultimate Guide to Inshot on PCs and Laptops</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/blueprint-to-blockbuster-scriptwriting-for-films/"><u>Blueprint to Blockbuster Scriptwriting for Films</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-pick-the-right-smartphone-case-every-time/"><u>How to Pick the Right Smartphone Case Every Time</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/humor-haven-free-tools-for-meme-artistry/"><u>Humor Haven FREE Tools for Meme Artistry</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-nokia-c300-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Nokia C300</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-oneplus-nord-n30-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your OnePlus Nord N30 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/utilizing-zoom-to-upgrade-tiktok-video-aesthetics/"><u>Utilizing Zoom to Upgrade TikTok Video Aesthetics</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-unifying-your-digital-storytelling-via-merged-youtube-media/"><u>[New] 2024 Approved Unifying Your Digital Storytelling via Merged YouTube Media</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-routes-to-collecting-visual-content/"><u>[New] Best Routes to Collecting Visual Content</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-stepwise-methods-for-captivating-collage-compositions/"><u>[New] In 2024, Stepwise Methods for Captivating Collage Compositions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-instant-guide-restoring-the-old-school-windows-photo-viewer-on-win-11/"><u>[New] Instant Guide Restoring the Old-School Windows Photo Viewer on Win 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/adobe-tactics-for-dynamic-3d-text-design-for-2024/"><u>Adobe Tactics for Dynamic 3D Text Design for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audio-mastery-in-logic-pro-x-creating-fluidity-for-2024/"><u>Audio Mastery in Logic Pro X Creating Fluidity for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/captivating-viewers-with-animated-text-on-instagram-stories-for-2024/"><u>Captivating Viewers with Animated Text on Instagram Stories for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/client-reviews-the-heart-of-modern-marketing-strategies/"><u>Client Reviews The Heart of Modern Marketing Strategies</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-realme-11x-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Realme 11X 5G</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fast-forwarding-fundamentals-a-novices-guide-to-snapchat/"><u>Fast Forwarding Fundamentals A Novice's Guide to Snapchat</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-vivo-y77t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-vivo-x100-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Vivo X100 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-restore-the-functionality-of-your-windows-11-search-bar/"><u>Swiftly Restore the Functionality of Your Windows 11 Search Bar</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/virtual-worlds-unleashed-predicted-best-psvr-gaming-experiences/"><u>Virtual Worlds Unleashed Predicted Best PSVR Gaming Experiences</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/zipping-up-subtitles-from-zip-to-srt-file-transformation/"><u>Zipping Up Subtitles From ZIP to SRT File Transformation</u></a></li>
 </ul></div>
 

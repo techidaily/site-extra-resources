@@ -1,7 +1,7 @@
 ---
 title: "\"Indoors  Adopting the Vibe of a Brighter World\""
-date: 2024-07-25T05:49:33.430Z
-updated: 2024-07-26T05:49:33.430Z
+date: 2024-11-16T23:51:31.649Z
+updated: 2024-11-22T01:06:10.638Z
 tags: 
   - screen-recording
   - ai video
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
 
  A great looking vlog is a well-lit vlog. Not everybody can afford professional lighting equipment for their YouTube channels. It’s a big investment, especially if you think of your channel as a hobby. Sometimes even if you have a lighting kit you do not want to set up multiple lights and stands to every time you shoot a vlog entry. You might be shooting them every day. It is great to have lighting equipment, and it is also great to know when you can get around it.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Get Best Natural Lighting Indoors
 
  Using a window as your main light source is a simple way to get high quality lighting on a budget. When it is bright outside a window is as powerful as any light you might have. So, besides just being cheap, windows can actually make your YouTube videos look amazing.
@@ -63,10 +60,11 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
 
  A diffuser is a screen of translucent fabric you can use to soften your light. The light coming from your window might be hard on your eyes, and setting up a diffuser between you and your window can help you not to blink. Often when reflectors come in colored sets one of the ‘colors’ will be translucent and you can use it as a diffuser.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -112,9 +110,6 @@ Follow @Richard Bennett
 
  A diffuser is a screen of translucent fabric you can use to soften your light. The light coming from your window might be hard on your eyes, and setting up a diffuser between you and your window can help you not to blink. Often when reflectors come in colored sets one of the ‘colors’ will be translucent and you can use it as a diffuser.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -128,6 +123,10 @@ Follow @Richard Bennett
  Mar 27, 2024• Proven solutions
 
  A great looking vlog is a well-lit vlog. Not everybody can afford professional lighting equipment for their YouTube channels. It’s a big investment, especially if you think of your channel as a hobby. Sometimes even if you have a lighting kit you do not want to set up multiple lights and stands to every time you shoot a vlog entry. You might be shooting them every day. It is great to have lighting equipment, and it is also great to know when you can get around it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Get Best Natural Lighting Indoors
 
@@ -161,10 +160,11 @@ Follow @Richard Bennett
 
  A diffuser is a screen of translucent fabric you can use to soften your light. The light coming from your window might be hard on your eyes, and setting up a diffuser between you and your window can help you not to blink. Often when reflectors come in colored sets one of the ‘colors’ will be translucent and you can use it as a diffuser.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -179,8 +179,9 @@ Follow @Richard Bennett
  A great looking vlog is a well-lit vlog. Not everybody can afford professional lighting equipment for their YouTube channels. It’s a big investment, especially if you think of your channel as a hobby. Sometimes even if you have a lighting kit you do not want to set up multiple lights and stands to every time you shoot a vlog entry. You might be shooting them every day. It is great to have lighting equipment, and it is also great to know when you can get around it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Get Best Natural Lighting Indoors
 
  Using a window as your main light source is a simple way to get high quality lighting on a budget. When it is bright outside a window is as powerful as any light you might have. So, besides just being cheap, windows can actually make your YouTube videos look amazing.
@@ -213,10 +214,11 @@ Follow @Richard Bennett
 
  A diffuser is a screen of translucent fabric you can use to soften your light. The light coming from your window might be hard on your eyes, and setting up a diffuser between you and your window can help you not to blink. Often when reflectors come in colored sets one of the ‘colors’ will be translucent and you can use it as a diffuser.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -246,7 +248,20 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-textual-transformations-the-photographers-guide-to-image-edits/"><u>[New] In 2024, Textual Transformations The Photographer's Guide to Image Edits</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tep-by-step-to-craft-flawless-yt-thumbnails-for-2024/"><u>[New] Step-by-Step to Craft Flawless YT Thumbnails for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-your-content-potential-with-youtubes-movie-maker/"><u>[Updated] Unlock Your Content Potential with YouTube's Movie Maker</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/asmr-unraveled-enhancing-mental-wellness-for-2024/"><u>ASMR Unraveled Enhancing Mental Wellness for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/brother-mfc-7360n-flawless-driver-setup-on-windows-11-8-or-7-a-hassle-free-guide/"><u>Brother MFC-7360N: Flawless Driver Setup on Windows 11, 8 or 7 - A Hassle-Free Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-no-longer-freezes-how-the-issue-is-fixed/"><u>Cyberpunk 2077 No Longer Freezes: How the Issue Is Fixed!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/disabling-windows-sticky-keys-a-comprehensive-guide/"><u>Disabling Windows Sticky Keys: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-10-iconic-movie-moments-to-inspire-your-edits/"><u>In 2024, 10 Iconic Movie Moments to Inspire Your Edits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-blissful-clip-grabber-insight/"><u>In 2024, Blissful Clip Grabber Insight</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-comprehensive-list-zoom-recording-must-haves/"><u>In 2024, Comprehensive List Zoom Recording Must-Haves</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-nubia-red-magic-9-proplus-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Nubia Red Magic 9 Pro+ Phone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/masterful-transitioning-8-leading-convertors-for-sub-and-srt/"><u>Masterful Transitioning 8 Leading Convertors for Sub and SRT</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-windows-11s-in-built-auto-hdr-feature/"><u>Mastering Windows 11'S In-Built Auto HDR Feature</u></a></li>
+</ul></div>
 

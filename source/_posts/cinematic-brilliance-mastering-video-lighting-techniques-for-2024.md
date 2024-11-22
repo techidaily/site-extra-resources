@@ -1,7 +1,7 @@
 ---
 title: "\"Cinematic Brilliance  Mastering Video Lighting Techniques for 2024\""
-date: 2024-11-09T07:39:12.321Z
-updated: 2024-11-12T04:00:37.293Z
+date: 2024-11-18T01:23:42.815Z
+updated: 2024-11-22T01:16:52.494Z
 tags: 
   - screen-recording
   - ai video
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/a8b16314a41e8185a53e16911a8cd83652896b677
 Many people are wondering how to set up lighting for video shooting. While there are many different ways to set up lighting, some methods are more effective than others.
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
 
@@ -68,13 +72,25 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
@@ -86,24 +102,15 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -139,19 +146,21 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-how-to-use-story-remix-to-edit-a-video-in-windows-10-photos/"><u>[Updated] 2024 Approved How to Use Story Remix to Edit a Video in Windows 10 Photos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-clearsnapzoom7-master-your-photographic-scaling/"><u>[Updated] ClearSnapZoom7 Master Your Photographic Scaling</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-apple-podcast-platform/"><u>2024 Approved Navigating the Apple Podcast Platform</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/asmr-a-soundtrack-to-better-health-and-happiness/"><u>ASMR A Soundtrack to Better Health and Happiness</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-in-class-writing-workshop/"><u>Best-in-Class Writing Workshop</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-huawei-p60-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Huawei P60 is off? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/empowering-communication-with-these-leading-mac-tts-programs/"><u>Empowering Communication with These Leading Mac TTS Programs</u></a></li>
-<li><a href="https://discover-great.techidaily.com/erfolgreiches-reparieren-einer-beschadigten-pfn-datenbank-strategien-fur-eine-nahtlose-wiederherstellung/"><u>Erfolgreiches Reparieren Einer Beschädigten Pfn-Datenbank: Strategien Für Eine Nahtlose Wiederherstellung</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-mp4-file-capture-comparative-study-and-reviews/"><u>In 2024, MP4 File Capture Comparative Study & Reviews</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-the-full-potential-of-your-live-streams-using-onestream/"><u>In 2024, Unleash the Full Potential of Your Live Streams Using OneStream</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-music-after-infinix-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Infinix has been deleted</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-rated-video-resume-creators-and-expert-advice/"><u>Top-Rated Video Resume Creators & Expert Advice</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/uninterrupted-shots-optimal-cameraphone-trackers/"><u>Uninterrupted Shots Optimal Camera/Phone Trackers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/video-speed-mastery-selecting-premium-pc-monitor-controls/"><u>Video Speed Mastery Selecting Premium PC Monitor Controls</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-complete-walkthrough-mastering-adobe-cloud-services/"><u>[New] Complete Walkthrough Mastering Adobe Cloud Services</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-guide-to-automated-iphone-podcast-downloads/"><u>[New] Step-By-Step Guide to Automated iPhone Podcast Downloads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-flying-toys-for-kids-and-family-fun/"><u>2024 Approved Best Flying Toys for Kids & Family Fun</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-roadmap-to-fandom-10-secrets-for-rampant-fb-engagement/"><u>2024 Approved The Roadmap to Fandom 10 Secrets for Rampant FB Engagement</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-tools-and-techniques-for-adding-frames-to-images-online/"><u>2024 Approved Top Tools & Techniques for Adding Frames to Images Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/amplify-video-aesthetics-filters-for-every-screen/"><u>Amplify Video Aesthetics Filters for Every Screen</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audience-captivation-for-personal-podcasts/"><u>Audience Captivation for Personal Podcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/digital-anonymity-choosing-top-8-facial-cropping-apps/"><u>Digital Anonymity - Choosing Top 8 Facial Cropping Apps</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How to Change Location on TikTok to See More Content On your Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 11 Pro to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-the-lg-gram-17-svelte-design-meets-high-efficiency/"><u>In-Depth Review of the LG Gram 17: Svelte Design Meets High Efficiency</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/954720-9781780991672-so-you-want-to-be-a-healer/"><u>So You Want To be A Healer? | Free Book</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/synchronizing-podcast-drops-with-audience-behavior/"><u>Synchronizing Podcast Drops with Audience Behavior</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/unlock-the-secrets-of-stunning-email-creation-13-essential-tips-using-massmail-tools/"><u>Unlock the Secrets of Stunning Email Creation: 13 Essential Tips Using MassMail Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unrivaled-vr-sets-for-aerial-adventures/"><u>Unrivaled VR Sets for Aerial Adventures</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/was-ist-eine-portable-version-und-wie-kann-man-sie-erstellen/"><u>Was Ist Eine Portable Version Und Wie Kann Man Sie Erstellen?</u></a></li>
 </ul></div>
 

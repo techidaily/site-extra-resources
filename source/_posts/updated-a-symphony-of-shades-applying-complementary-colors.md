@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] A Symphony of Shades  Applying Complementary Colors\""
-date: 2024-11-05T21:51:26.127Z
-updated: 2024-11-12T07:42:18.779Z
+date: 2024-11-19T21:28:20.245Z
+updated: 2024-11-21T23:28:50.138Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ So, you've heard about color theory but don't know what it is or how to use it a
 
 If you are more selective with your colors in your videos or imagery the viewer will find this aesthetically pleasing and may be more engaged in your content. This includes anything from logo design all the way to props for your shot. When creating your videos within Filmora it is good practice to think about your composition in all aspects including color theory and with the guide hopefully you will have a better understanding of how you can influence your color palette.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Color Theory
 
 Color theory consists of many elements that could fill a library on its own but for this guide we will focus on two key elements. The color wheel and color harmony. By understanding the color wheel and color harmony you can hand pick which colors to add or use in your pieces to create a well-balanced viewing experience which can help in viewer engagement and enjoyment.
@@ -29,10 +33,7 @@ Color theory consists of many elements that could fill a library on its own but 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Color Wheel
@@ -42,10 +43,7 @@ Using red, green and blue as primary colors we can mix the colors to one another
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
@@ -57,10 +55,7 @@ So now we know how the wheel is made and what it looks like. What does it do? We
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
@@ -86,10 +81,7 @@ As you can see from this example the base color for the scene is a dark blue/pur
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -126,18 +118,22 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-prime-resources-for-text-style-adjustment-files/"><u>[New] Prime Resources for Text Style Adjustment Files</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-secrets-to-joining-friends-tiktok-live-events/"><u>[New] Secrets to Joining Friends' TikTok Live Events</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-comedy-cache-twitters-best-jokes/"><u>[New] The Comedy Cache Twitter’s Best Jokes</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-demystifying-the-purpose-and-use-of-a-blue-status-symbol-on-facebook/"><u>[Updated] 2024 Approved Demystifying the Purpose and Use of a Blue Status Symbol on Facebook</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-best-5-vr-headsets-for-drones/"><u>[Updated] Best 5 VR Headsets for Drones</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-download-windows-movie-maker-6/"><u>How to Download Windows Movie Maker 6</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-10-best-online-vimeo-video-downloaders/"><u>In 2024, 10 Best Online Vimeo Video Downloaders</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-clearing-the-list-of-auto-recommended-podcasts-in-spotify/"><u>In 2024, Clearing the List of Auto-Recommended Podcasts in Spotify</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/intellieditors-ai-transform-photos-effortlessly/"><u>IntelliEditors AI Transform Photos Effortlessly</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/mastering-close-up-techniques-with-videoleap/"><u>Mastering Close-Up Techniques with Videoleap</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/prime-chrome-audio-transformers-leading-web-based-text-to-speech-apps/"><u>Prime Chrome Audio Transformers Leading Web-Based Text-to-Speech Apps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/tempo-tweaking-for-engaging-mp4s/"><u>Tempo Tweaking for Engaging MP4s</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/vivid-palette-review-best-5-high-definition-displays/"><u>Vivid Palette Review Best 5 High-Definition Displays</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-drone-racing-things-you-need-to-know-and-top-5-best-fpv-racing-drones/"><u>[New] 2024 Approved Drone Racing Things You Need to Know and Top 5 Best FPV Racing Drones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-accurate-age-reflection-in-just-a-minute/"><u>[Updated] Accurate Age Reflection in Just a Minute</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-fanfare-gaming-patch/"><u>[Updated] Fanfare Gaming Patch</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-elite-digital-image-grabbers/"><u>[Updated] In 2024, Elite Digital Image Grabbers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/build-haha-images/"><u>Build Haha Images</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-evaluation-of-the-netgear-orbi-rbs50y-ideal-for-outdoor-use/"><u>Comprehensive Evaluation of the Netgear Orbi RBS50Y – Ideal for Outdoor Use</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-chromebook-zoom-techniques-unveiled-for-2024/"><u>Expert Chromebook Zoom Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-much-is-the-eurozone-worth-french-distributor-sets-price-for-amd-ryzen-9-9900x-at-close-to-680/"><u>How Much Is the Eurozone Worth? French Distributor Sets Price for AMD Ryzen 9 9900X at Close to €680.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-audiovid-producers-digital-space/"><u>In 2024, AudioVid Producers' Digital Space</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-poco-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Poco Phone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-adding-linktree-to-your-tiktok-info/"><u>Mastering the Art of Adding Linktree to Your TikTok Info</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photo-frenzy-stories-of-popularity/"><u>Photo Frenzy Stories of Popularity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/precision-in-photos-iphone-apps-for-accurate-cropping/"><u>Precision in Photos IPhone Apps for Accurate Cropping</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-fundamentals-of-exceptional-interviewing/"><u>The Fundamentals of Exceptional Interviewing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-notch-avi-player-for-pcmobile/"><u>Top-Notch Avi Player for PC/Mobile</u></a></li>
+<li><a href="https://facebook.techidaily.com/ultimate-frisbee-unions-dismiss-online-networking/"><u>Ultimate Frisbee Unions Dismiss Online Networking</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unveiling-the-most-shared-stock-photos-and-backstories/"><u>Unveiling the Most Shared Stock Photos & Backstories</u></a></li>
 </ul></div>
 
