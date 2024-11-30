@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, B-Footage Techniques for Creating Engaging Video Content\""
-date: 2024-11-18T16:18:05.491Z
-updated: 2024-11-21T21:19:10.403Z
+date: 2024-11-29T07:06:34.623Z
+updated: 2024-11-30T02:32:46.246Z
 tags: 
   - screen-recording
   - ai video
@@ -32,10 +32,6 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -52,20 +48,20 @@ We'll examine the top 5 uses for B rolls across a variety of video genres and di
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Undirected b roll footage
@@ -79,7 +75,7 @@ When you are sharing a narrative that has been told in the past or that has hist
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Pick-up shots
@@ -88,12 +84,16 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -130,22 +130,24 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-integrate-efficiently-with-azures-speech-technology/"><u>[New] Integrate Efficiently with Azure's Speech Technology</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ecuring-streams-of-cash-from-content-creation/"><u>[New] Securing Streams of Cash From Content Creation</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nlock-your-potential-youtube-thumbnail-creation-on-macos/"><u>[New] Unlock Your Potential YouTube Thumbnail Creation on macOS</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-2023-update-sony-bdp-s3700-in-depth-analysis/"><u>[Updated] 2023 Update Sony BDP-S3700 in Depth Analysis</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ticklish-titles-laugh-out-loud-gaming-for-children/"><u>[Updated] 2024 Approved Ticklish Titles Laugh-Out-Loud Gaming for Children</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-baleful-blackness-clashing-with-splendid-silverliness/"><u>[Updated] Baleful Blackness Clashing with Splendid Silverliness</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-close-up-filmmaking-zooming-into-details/"><u>[Updated] Close-Up Filmmaking Zooming Into Details</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-strategies-in-voice-memo-mastery/"><u>2024 Approved Advanced Strategies in Voice Memo Mastery</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-beat-explorers-playlist-accessible-free-online-tools/"><u>2024 Approved Beat Explorers' Playlist Accessible, Free Online Tools</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-comprehensive-techniques-for-moving-media-from-iphones/"><u>2024 Approved Comprehensive Techniques for Moving Media From iPhones</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/9-superior-iphone-options-for-adding-water-marks-to-images/"><u>9 Superior iPhone Options for Adding Water Marks to Images</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/drone-trail-tech-your-number-1-picks-for-personal-use/"><u>Drone Trail Tech Your Number 1 Picks for Personal Use</u></a></li>
-<li><a href="https://techidaily.com/is-your-realme-12-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme 12 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-zen-of-sleep-curated-asmr-vocalists/"><u>The Zen of Sleep Curated ASMR Vocalists</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unraveling-italys-abrupt-chatgpt-ban-insights-into-why-it-happened-with-immediate-effect/"><u>Unraveling Italy's Abrupt ChatGPT Ban: Insights Into Why It Happened 'With Immediate Effect'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/winning-strategies-for-dealing-with-overwatchs-sinister-startup-glitch-the-black-screen-quandary/"><u>Winning Strategies for Dealing with Overwatch's Sinister Startup Glitch: The Black Screen Quandary</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-significant-aspects-in-techno-narrative-design/"><u>[New] 2024 Approved Significant Aspects in Techno Narrative Design</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtubes-top-tools-to-reduce-long-link-lengths/"><u>[New] Youtube's Top Tools to Reduce Long Link Lengths</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-unmentioned-free-speech-to-text-tools-for-mac-users/"><u>[Updated] Best Unmentioned Free Speech to Text Tools for Mac Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-navigating-nearby-areas-for-an-immersive-roblox-experience/"><u>[Updated] Navigating Nearby Areas for an Immersive Roblox Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aesthetic-adjustments-for-windows-11-wallpaper-wisdom-for-2024/"><u>Aesthetic Adjustments for Windows 11 Wallpaper Wisdom for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nity-builders-gamer-youtubers/"><u>Community Builders Gamer YouTubers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-overview-utilizing-googles-automatic-transcription-service/"><u>Comprehensive Overview Utilizing Google's Automatic Transcription Service</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/defiance-through-technology-lenovo-embraces-loongson-cpus-for-cloud-servers-in-response-to-american-embargoes/"><u>Defiance Through Technology: Lenovo Embraces Loongson CPUs for Cloud Servers in Response to American Embargoes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-t6-dslr-economical-image-capturer/"><u>Discover the T6 DSLR: Economical Image Capturer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expertly-edited-beginnings-anywhere/"><u>Expertly Edited Beginnings, Anywhere</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harness-the-power-of-gopro-studio-essential-editing-techniques/"><u>Harness the Power of GoPro Studio Essential Editing Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/imessages-changing-to-texts-is-being-blocked-the-cause/"><u>IMessages Changing to Texts: Is Being Blocked the Cause?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-accelerating-engagement-with-optimized-youtube-video-speeds/"><u>In 2024, Accelerating Engagement with Optimized YouTube Video Speeds</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-iphone-se-2022-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone SE (2022) Activation Lock</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/key-approaches-turning-visual-content-into-music-files/"><u>Key Approaches Turning Visual Content Into Music Files</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/precision-tips-for-effective-network-livestreaming-using-vlc/"><u>Precision Tips for Effective Network Livestreaming Using VLC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/redesigning-the-perception-of-sony-s3700-review/"><u>Redesigning the Perception of Sony S3700 Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-full-spectrum-slomo-recording-app-evaluation/"><u>The Full Spectrum SloMo Recording App Evaluation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-choosing-the-best-apc-gaming-ups-for-optimal-performance/"><u>Ultimate Guide to Choosing the Best APC Gaming UPS for Optimal Performance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Healing Holograms  AR/VR in Healthcare\""
-date: 2024-11-18T16:31:22.603Z
-updated: 2024-11-21T16:33:24.929Z
+date: 2024-11-23T02:04:46.822Z
+updated: 2024-11-29T18:58:00.889Z
 tags: 
   - screen-recording
   - ai video
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/9c17d408eef8eb942c240704209721146d1ae1a43
  Healthcare or medical industry has to continuously adopt new and innovative ways to progress and improvise in order to provide better training and education to health care professionals and better quality treatment to the patients. [Virtual Reality](https://tools.techidaily.com/wondershare/filmora/download/) in healthcare is one of the innovations with which the health care professionals can learn new skills and improve upon existing skills in a risk free environment and use virtual reality to remotely cure diseases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Virtual medical training and education
@@ -41,13 +41,13 @@ thumbnail: https://thmb.techidaily.com/9c17d408eef8eb942c240704209721146d1ae1a43
 ![vr-for-healthcare](https://images.wondershare.com/filmora/article-images/virtual-reality-for-healthcare.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Virtual reality in healthcare enables to diagnose with the usage of diagnostic tools and other MRI scans which prevents the need of surgery or any kind of invasion. Virtual reality diagnostics is convenient and less time consuming than the traditional methods.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Virtual robotic surgery
@@ -61,13 +61,13 @@ thumbnail: https://thmb.techidaily.com/9c17d408eef8eb942c240704209721146d1ae1a43
 ![vr-for-therapies](https://images.wondershare.com/filmora/article-images/vitrural-reality-for-therapies.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Virtual reality in healthcare have therapies in a virtual environment which help psychiatrists to deal with patients with their fears, claustrophobia, anxiety, depression, post-traumatic stress disorder and severe pain cases by providing an environment where they can face their challenges in a controlled form and a risk free zone. They can experiment knowing that it’s a virtual and risk free environment, which can be stopped as per the situation and circumstances. Techniques like exposure therapy makes virtual reality in healthcare favourable for doctors and other health care professionals, it may also have an impact on increasing the overall treatment experience, making it very satisfactory. Studies are being conducted where virtual reality has positively impacted the quality and experience of their stay in the hospitals and rehabilitations. Virtual reality applications and software may also have a role to play in alleviate phantom limb pain, with sensors and its relations with the brain.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Virtual reality consumer and outpatient market
@@ -93,24 +93,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-animatedapp-full-guide-and-review-24-overview/"><u>[New] AnimatedApp Full Guide & Review '24 Overview</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-first-film-crews-guide-to-gopro-add-ons-for-2024/"><u>[New] First Film Crew's Guide to GoPro Add-Ons for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-photo-masters-list-the-best-6-4k-dslr-cameras-today/"><u>[New] Photo Masters List The Best 6 4K DSLR Cameras Today</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-decade-of-innovation-in-online-cricket-streaming/"><u>[Updated] A Decade of Innovation in Online Cricket Streaming</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-a-quick-guide-to-purging-watched-youtube-videos/"><u>2024 Approved A Quick Guide to Purging Watched YouTube Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/audio-engineering-basics-embrace-adobes-fading-techniques/"><u>Audio Engineering Basics Embrace Adobe’s Fading Techniques</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-recommendations-the-best-handhited-hd-players-for-2024/"><u>Expert Recommendations The Best Handhited HD Players for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/find-the-perfect-skype-tone-from-these-sites/"><u>Find the Perfect Skype Tone From These Sites</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-tecno-pova-5-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Tecno Pova 5 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-13-mini-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 13 mini</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/market-opening-innovations/"><u>Market-Opening Innovations</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-ultimate-guide-to-protected-and-entertaining-chatting-apps-for-unknown-individuals/"><u>New In 2024, Ultimate Guide to Protected and Entertaining Chatting Apps for Unknown Individuals</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/snap-a-caption-seamless-integration-of-text-on-windows-and-mac-pics/"><u>Snap a Caption Seamless Integration of Text on Windows & Mac Pics</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-interactive-index-for-ig-and-tiktok-connection/"><u>The Interactive Index for IG & TikTok Connection</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-reverse-rotation-riddle-on-social-media-platforms/"><u>The Reverse Rotation Riddle on Social Media Platforms</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/uniting-videos-on-ios-step-by-step-methods/"><u>Uniting Videos on iOS Step-by-Step Methods</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/your-ultimate-guide-to-finding-tiktok-wallpapers/"><u>Your Ultimate Guide to Finding TikTok Wallpapers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unpacking-facebooks-freshest-features-in-top-vids-for-2024/"><u>[New] Unpacking Facebook's Freshest Features in Top Vids for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-6-excellent-apps-to-capture-and-save-linkedin-videos-successfully/"><u>[Updated] 6 Excellent Apps to Capture and Save LinkedIn Videos Successfully</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-avoid-the-spinning-room-top-5-vr-motion-control-techniques/"><u>2024 Approved Avoid the Spinning Room Top 5 VR Motion Control Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-expertise-for-changing-meet-usernames-laptopmobile/"><u>2024 Approved Expertise for Changing Meet Usernames (Laptop/Mobile)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-scholarly-treatise-on-directed-user-engagement/"><u>A Scholarly Treatise on Directed User Engagement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-file-management-for-win11-users/"><u>Efficient File Management for Win11 Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/grasping-the-basics-of-av1-compression/"><u>Grasping the Basics of AV1 Compression</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-iphone-se-smoothly-by-drfone-ios/"><u>How To Remove iCloud From iPhone SE Smoothly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-data-encoding-on-standard-plastics-how-3d-holographic-techniques-store-up-to-576-bits/"><u>Revolutionary Data Encoding on Standard Plastics: How 3D-Holographic Techniques Store Up To 576 Bits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-elite-selection-of-10-websites-offering-free-photos/"><u>The Elite Selection of 10 Websites Offering FREE Photos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essential-funimate-guidebook/"><u>The Essential Funimate Guidebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-sound-trailblazers-guide-kicking-off-with-fade-in-techniques-for-2024/"><u>The Sound Trailblazer’s Guide Kicking Off with Fade-In Techniques for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-6-platforms-revolutionizing-business-social-interaction/"><u>Top 6 Platforms Revolutionizing Business-Social Interaction</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/forming-viewers-into-income-how-many-votes-yield-earnings/"><u>Transforming Viewers Into Income How Many Votes Yield Earnings?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/ultimate-screen-capture-tool-2021-for-2024/"><u>Ultimate Screen Capture Tool 2021 for 2024</u></a></li>
 </ul></div>
 

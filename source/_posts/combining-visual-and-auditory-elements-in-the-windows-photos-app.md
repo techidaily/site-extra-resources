@@ -1,7 +1,7 @@
 ---
 title: "Combining Visual and Auditory Elements in the Windows Photos App"
-date: 2024-11-19T21:50:04.091Z
-updated: 2024-11-21T20:38:58.737Z
+date: 2024-11-26T03:35:34.080Z
+updated: 2024-11-30T06:23:41.965Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 **You may also like:** [How to Trim Video in Windows 10 Photos Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to add filters on Windows 10 Photos App
@@ -55,10 +55,14 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -74,28 +78,24 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5**: Hit the ‘Done’ button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -112,19 +112,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/raming-the-perfect-frame-talking-head-shot-essentials/"><u>[New] Framing the Perfect Frame Talking-Head Shot Essentials</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-how-to-multiply-engagement-on-your-instagram-story/"><u>[New] How to Multiply Engagement on Your Instagram Story</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-leading-charts-to-video-formats-for-2024/"><u>[Updated] Leading Charts to Video Formats for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-boosting-productivity-with-zoom-and-a-chromebook/"><u>2024 Approved Boosting Productivity with Zoom and a Chromebook</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/abbyyidcscan/"><u>ABBYYおよびiDCScan製品群:業界で最も影響力あるソリューションの洞察</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/best-free-dvd-ripping-software-for-windows-11-convert-dvds-to-mp4-avi-and-wmv/"><u>Best Free DVD Ripping Software for Windows 11 - Convert DVDs to MP4, AVI & WMV</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/image-innovation-at-your-fingertips-applications-for-photo-text-adjustments/"><u>Image Innovation at Your Fingertips Applications for Photo Text Adjustments</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/quintessential-filters-to-perfect-ocean-shoots/"><u>Quintessential Filters to Perfect Ocean Shoots</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-code-vein-game-issues-a-comprehensive-guide/"><u>Resolving Code Vein Game Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-chromium-connection-pixel-phone-rhythms/"><u>The Chromium Connection Pixel Phone Rhythms</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-and-fixing-the-jscriptdll-missing-error-in-windows/"><u>Understanding and Fixing the jscript.dll Missing Error in Windows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlocking-the-potential-of-ios-albums-ordering-and-cloud-syncing-essentials/"><u>Unlocking the Potential of iOS Albums Ordering & Cloud Syncing Essentials</u></a></li>
-<li><a href="https://fox-that.techidaily.com/what-it-means-if-your-text-message-goes-through-as-a-regular-call-or-message/"><u>What It Means If Your Text Message Goes Through as a Regular Call or Message</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/your-quick-and-easy-guide-removing-backgrounds-in-picsart/"><u>Your Quick & Easy Guide Removing Backgrounds in Picsart</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-audio-extraction-simplified-with-pazera-tools-in-the-new-era/"><u>[New] Audio Extraction Simplified with Pazera Tools in the New Era</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-day-jobs-and-digital-passion-striking-a-balance/"><u>[New] In 2024, Day Jobs & Digital Passion Striking a Balance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-15-revolutionary-metaverse-ventures-explored/"><u>[Updated] 15 Revolutionary Metaverse Ventures Explored</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-mac-enhanced-a-dive-into-screenflows-capabilities/"><u>[Updated] In 2024, Mac Enhanced A Dive Into ScreenFlow's Capabilities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-is-av1-better-than-vp9-learn-it-here/"><u>2024 Approved Is AV1 Better Than VP9? Learn It Here</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-vivo-y27-4g-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Vivo Y27 4G.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-top-4-new-ipados-16-enhancements-unveiled-at-apples-wwdc-2024-eligible-devices-revealed-techexplore/"><u>Discover the Top 4 New iPadOS 16 Enhancements Unveiled at Apple's WWDC 2024: Eligible Devices Revealed | TechExplore</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-video-call-quality-with-zoom-in-teams/"><u>Enhancing Video Call Quality with ZOOM in Teams</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-infinix-note-30-pro-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Infinix Note 30 Pro Phone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/inspire-humorous-graphics-for-online-platform-for-2024/"><u>Inspire Humorous Graphics for Online Platform for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphones-a-compreenas-guide-to-storing-and-sharing-gifs/"><u>IPhones A Compreenas Guide to Storing & Sharing GIFs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pioneering-applications-in-3d-animation-design/"><u>Pioneering Applications in 3D Animation Design</u></a></li>
 </ul></div>
 

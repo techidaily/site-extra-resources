@@ -1,7 +1,7 @@
 ---
 title: "Harmonizing Your Footage With Optimal Aspect Ratios"
-date: 2024-11-16T18:47:02.955Z
-updated: 2024-11-21T20:24:34.988Z
+date: 2024-11-28T04:02:29.763Z
+updated: 2024-11-30T00:22:26.059Z
 tags: 
   - screen-recording
   - ai video
@@ -29,7 +29,7 @@ With that said, let's dive right into it!
 Aspect ratio is a digital image projection attribute describing the distance between the width and the height of an image. The dimensions are also defined as shapes such as a square which is 4:3\. A rectangle represents the 16:9 standard high definition aspect ratio, and inverted what you see on phones, that will be 9:16\. 9 refers to the width and 16 to the height.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Commonly used aspect ratios
@@ -44,29 +44,25 @@ This aspect ratio is recognized as the worldwide reference format for film, mobi
 
 This resolution is originally used in older television screens, which transformed into mobile use as this aspect ratio works really well for Instagram and Facebook videos, referring to the 9:16 phone resolution making a square video more pleasant to watch and to be featured in in-feed videos.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 9:16 Vertical
 
 The 9:16 aspect ratio has become the mainstream resolution for smartphones for easier viewing of videos. This resolution allows for the vertical display of videos on tablets and phones, meaning that it allows videos to play while the device is being held in its upright position. This works ideally for Facebook, Instagram, Snapchat, YouTube Shorts, and more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 21:9 Cinematic Widescreen
 
 The 21:9 resolution is designed for filming ultra-wide screen movies that gives the viewer a theater-like feeling. It's mostly used to display films and movies in anamorphic formats. Just like on ultra-wide monitors, it allows the video to be shown across the entire screen, giving you a cinema-like experience. This resolution contributes to a broader viewing experience in any shape or form.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Which aspect ratio should I choose?
 
 Depending on your project, broadcast location and filming options, here you can find an overview of which platforms are using which resolutions and how you can use that to improve your filming and viewer experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Facebook
 
@@ -120,6 +116,10 @@ Before Musical.ly users were migrated to a new platform called TikTok in 2018, i
 
 1:1; 16:9 or 9:16 for TikTok advertisements
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. How to adjust the aspect ratio of a video?
 
 A very important point we'd like to mention is that we don't recommend changing the aspect ratio after filming, because it could harm the video quality and we think it's best to choose the aspect ratio on your phone or camera before filming, besides that we have some great tips for optimizing your video for the watching experience below.
@@ -129,7 +129,7 @@ A very important point we'd like to mention is that we don't recommend changing 
 When editing your video, adding black bars is not changing the aspect ratio as you are just adding black bars to the screen. What we do recommend is cropping the video until you get the desired result. Adding black bars won't automatically make the platform adjust the video and it will affect the viewer experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Cropping
@@ -172,22 +172,22 @@ Having your video tested on multiple devices will allow you to see a preview of 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-mastering-close-up-mode-in-roblox-playground-for-2024/"><u>[New] Mastering Close-Up Mode in Roblox Playground for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-video-cutting-edge-m1s-efficiency-takes-the-lead-for-2024/"><u>[Updated] Video Cutting-Edge M1's Efficiency Takes the Lead for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-alpine-adventure-2022s-spectacular-snowboard-cross-olympic-moments/"><u>2024 Approved Alpine Adventure 2022'S Spectacular Snowboard Cross Olympic Moments</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-assessing-djis-flight-vision-tx-headset-performance/"><u>2024 Approved Assessing DJI's Flight Vision TX Headset Performance</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-aural-alchemy-the-essence-of-crossfade-techniques/"><u>2024 Approved Aural Alchemy The Essence of Crossfade Techniques</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/design-mastery-in-motion-crafting-intriguing-podcast-covers/"><u>Design Mastery in Motion Crafting Intriguing Podcast Covers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-exclusive-list-top-10-live-streaming-networks-ranked/"><u>In 2024, Exclusive List Top 10 Live Streaming Networks Ranked</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Sony Xperia 1 V? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Realme C55? | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-capturing-your-safari-sessions-on-iphone/"><u>Step-by-Step Guide: Capturing Your Safari Sessions on iPhone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/techniques-for-turning-youtube-hosted-tweets-into-audio-files/"><u>Techniques for Turning YouTube-Hosted Tweets Into Audio Files</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-decades-guide-to-superior-social-media-management-smm/"><u>The Decade's Guide to Superior Social Media Management (SMM)</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/the-filmmakers-toolkit-essential-tips-for-youtube-creators-with-smartphones/"><u>The Filmmaker's Toolkit Essential Tips for YouTube Creators with Smartphones</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-next-gen-of-visual-perfection-a-review-of-eizos-cg318-4k/"><u>The Next Gen of Visual Perfection A Review of EIZO's CG318-4K</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-xiaomi-civi-3-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Xiaomi Civi 3 Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/your-easy-routine-for-viewing-well-regarded-and-favorited-comments/"><u>Your Easy Routine for Viewing Well-Regarded and Favorited Comments</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-essential-guide-non-commercial-android-recorder-choice/"><u>[New] 2024 Approved Essential Guide Non-Commercial Android Recorder Choice</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-guide-to-creative-use-of-supplementary-footage-b-roll/"><u>[New] A Guide to Creative Use of Supplementary Footage (B-Roll)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-bright-horizons-pioneering-light-in-video-production/"><u>[New] Bright Horizons Pioneering Light in Video Production</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-become-an-audio-chameleon-learn-how-to-change-free-fire-voices/"><u>2024 Approved Become an Audio Chameleon! Learn How to Change Free Fire Voices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-top-15-tips-for-accessing-nba-games-online/"><u>2024 Approved Top 15 Tips for Accessing NBA Games Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audio-capture-made-easy-in-windows-10-for-2024/"><u>Audio Capture Made Easy in Windows 10 for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-realme-c67-4g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Realme C67 4G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-hp-deskjet-ink-advantage-3520-printer-drivers/"><u>Download the HP DeskJet Ink Advantage 3520 Printer Drivers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-steps-for-effortless-single-source-livestreams/"><u>Essential Steps for Effortless Single-Source Livestreams</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/igniting-interest-from-day-one-with-impactful-audio-starts/"><u>Igniting Interest From Day One with Impactful Audio Starts</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-lava-storm-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Lava Storm 5G Phones with/without a PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-apple-iphone-14-plus-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On Apple iPhone 14 Plus without Password?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sculpt-your-visuals-the-ultimate-guide-to-photo-distortion/"><u>In 2024, Sculpt Your Visuals The Ultimate Guide to Photo Distortion</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/secure-your-discounted-quad-core-snapdragon-x-elite-pc-exclusive-preorder-of-the-compact-gaming-desktop-device/"><u>Secure Your Discounted Quad-Core Snapdragon X Elite PC: Exclusive Preorder of the Compact Gaming Desktop Device!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/superior-applications-for-image-driven-video-creation/"><u>Superior Applications for Image-Driven Video Creation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ttml-xml-and-beyond-creating-flawless-srts-for-audio-files/"><u>TTML, XML & Beyond Creating Flawless SRTs for Audio Files</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/understanding-and-controlling-safaris-pip-feature-for-2024/"><u>Understanding and Controlling Safari's PIP Feature for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Harmonize Visual & Auditory Elements  Adding Filters & Sound to Windows Photos App\""
-date: 2024-11-18T20:04:22.523Z
-updated: 2024-11-22T02:14:39.103Z
+date: 2024-11-27T22:09:14.974Z
+updated: 2024-11-29T22:47:36.572Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 
 **You may also like:** [How to Trim Video in Windows 10 Photos Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to add filters on Windows 10 Photos App
 
 If you have got Windows 10 Photos app and wish to add filters, though, it is by default a photo viewing app, its editing features are worth to mention. This step by step guide is your perfect savior in that case.
@@ -45,21 +49,17 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
 
 **Step 4**: Click Filters at tool bar. Microsoft Photos has 14 filters you can use, including classic, adventure, sepia and so on.
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5**: Just select one you like. Preview it and then click Done.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
 
@@ -74,21 +74,17 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5**: Hit the ‘Done’ button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -96,6 +92,10 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -112,21 +112,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-the-metaverse-unraveled-explore-these-6-vivid-models-for-2024/"><u>[New] The Metaverse Unraveled Explore These 6 Vivid Models for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-understanding-the-impact-of-youtubes-creative-commons-on-videos/"><u>[Updated] Understanding the Impact of YouTube's Creative Commons on Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/android-and-iphone-select-top-tier-mobile-multimedia-tools-for-2024/"><u>Android & iPhone Select Top-Tier Mobile Multimedia Tools for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/choosing-the-right-popcorn-player-for-ultimate-video-experience-select-wisely-today/"><u>Choosing the Right Popcorn Player for Ultimate Video Experience – Select Wisely Today!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/choreographing-photography-and-filming-in-one-sweep/"><u>Choreographing Photography and Filming in One Sweep</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Tecno Spark Go (2024)? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-motorola-moto-g04-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Motorola Moto G04</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/mac-powered-iphone-recovery-program-safeguard-your-deleted-visual-content-and-personal-connections-with-ease/"><u>Mac-Powered iPhone Recovery Program: Safeguard Your Deleted Visual Content & Personal Connections with Ease</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-getting-your-redragon-pc-mic-back-in-action/"><u>Step-by-Step Guide: Getting Your Redragon PC Mic Back in Action</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-display-dilemma-comparing-premium-8k-tvs/"><u>The Ultimate Display Dilemma Comparing Premium 8K TVs</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-xiaomi-redmi-k70-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Xiaomi Redmi K70 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/transforming-single-shots-into-a-spectacular-tile-symphony/"><u>Transforming Single Shots Into a Spectacular Tile Symphony</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlocking-data-movement-best-ways-to-transition-files-to-pc/"><u>Unlocking Data Movement Best Ways to Transition Files to PC</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-10-hidden-powers-of-photoshop-newbies/"><u>Unveiling 10 Hidden Powers of Photoshop Newbies</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-trillers-strategic-alternative-to-tiktok/"><u>Unveiling Triller's Strategic Alternative to TikTok</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-a-step-by-step-approach-to-downloading-memorable-moments-from-social-media/"><u>[New] 2024 Approved A Step-By-Step Approach to Downloading Memorable Moments From Social Media</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-remove-a-background-in-affinity-photo/"><u>[New] Remove a Background in Affinity Photo</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-deciphering-the-secrets-to-your-personalized-tiktok-code/"><u>[Updated] 2024 Approved Deciphering the Secrets to Your Personalized TikTok Code</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-action-sequence-showdown-new-era-gopro-hero5-black-vs-old-guard-hero4-silver/"><u>2024 Approved Action Sequence Showdown New Era GoPro Hero5 Black Vs Old Guard Hero4 Silver</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beginning-your-first-fb-giveaway-announcement/"><u>2024 Approved Beginning Your First FB Giveaway Announcement</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ur-scoreboard-top-ten-viewership-heavyweights-on-yt-for-2024/"><u>24-Hour Scoreboard Top Ten Viewership Heavyweights on YT for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cadence-captors-embrace-free-online-tempo-apps-for-2024/"><u>Cadence Captors – Embrace Free Online Tempo Apps for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/earning-hacks-for-youtube-short-creators-for-2024/"><u>Earning Hacks for YouTube Short Creators for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/effortlessly-manage-iphone-photos-aligning-albums-and-streamlining-icloud-storage/"><u>Effortlessly Manage iPhone Photos Aligning Albums and Streamlining iCloud Storage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/evaluating-alternatives-to-magixs-acid-pro/"><u>Evaluating Alternatives to Magix's ACID Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/finding-voice-changers-for-vtubers-two-best-app-recommended/"><u>Finding Voice Changers for Vtubers Two Best App Recommended</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-samsung-galaxy-a14-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Samsung Galaxy A14 5G Is Unlocked</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-core-principles-of-internet-storytelling/"><u>In 2024, Core Principles of Internet Storytelling</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/two-simple-strategies-for-successfully-uploading-big-files-by-email/"><u>Two Simple Strategies for Successfully Uploading Big Files by Email</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-supreme-cd-technology-of-2024/"><u>Unveiling the Supreme CD Technology of 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cinema Coloring Mastery Through Central Luts Application"
-date: 2024-11-17T18:45:55.738Z
-updated: 2024-11-21T23:06:51.142Z
+date: 2024-11-25T01:02:07.383Z
+updated: 2024-11-29T16:08:26.652Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,10 @@ Color Grading Central is a company created by Denver Riddle, who is currently in
 
 ![color grading central](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 LUTs or Look Up Tables are nothing more than a table of numbers that apply a color transformation to an image. However, what makes color gradation LUTs unique is their ability to apply predetermined sets of mathematical formulas to the existing colors of your video to change those colors to achieve the desired result. Now it's possible to accurately imitate all the subtle nuances and color shifts of your favorite movie!
 
 The Color Grading Central LUTs effect is stylish and cinematic.
@@ -48,10 +52,6 @@ The other two types of LUTs can be either 1D or 3D LUTs, but these days they are
 
 ![luts in movies](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 An input or camera LUT used at the beginning of the color correction process adjusts the footage so that the color correction tools work correctly. Color corrected recordings that require an input or camera LUT without one can lead to unexpected and unsatisfactory results.
 
 Conversely, you typically apply a LUT look after you've done color correction and moved on to the color grading phase. Use it to dial in the exact artistic look you want. The Look LUT contains instructions to create a predetermined desired look for your shots, which can be an incredible time saver in the color grading process.
@@ -62,10 +62,6 @@ LUTs are specially designed for different recording types – LOG, RAW, Rec.709,
 
 Many camera manufacturers, software companies, and independent producers offer downloadable LUTs or LUT packs. They often design these skins for specific purposes, such as color correcting footage captured by their cameras or to mimic signature skins seen in movies and TV shows. These skins can give you exactly the color class you want, or you can use them and keep tweaking and tweaking to get the perfect look.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. Free LUTs sources
 
 Cinematic LUTs are pre-saved settings that make color grading easy and efficient, allowing you to enhance your videos with just a few clicks. By using a color tinting effect, changing the brightness of the video, or richer colors, you will achieve professional results in no time, regardless of the software product you are using.
@@ -73,7 +69,7 @@ Cinematic LUTs are pre-saved settings that make color grading easy and efficient
 LUTs are shared in the .cube file format, which is supported by the most popular video editors, such as DaVinci Resolve, Premiere Pro CC, After Effects CC, and Sony Vegas.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. [Ground Control Color: 13 Free LUTs](https://www.groundcontrolcolor.com/free-luts.html)
@@ -84,6 +80,10 @@ From the "Free LUTs" page, users can download ten free conversion LUTs and three
 
 ![ground control color](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. [Color Grading Central: 7 Free LUTs, Color Presets, and Grains](http://www.colorgradingcentral.com/)
 
 If you're a budding colorist or video editor who takes color seriously, you should know about Color Grading Central. CGC specializes in all things color grading.
@@ -93,10 +93,6 @@ From grain to LUTs, their website is a good place to find lots of excellent colo
 In addition to giving away seven free color LUTs, they're also giving away an assortment of color presets, grains, and proposals just for their email list.
 
 ![color grading central](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. [SmallHD: 7 Free LUTs](https://www.smallhd.com/community/movie-looks-download)
 
@@ -119,7 +115,7 @@ Now you can replicate the look with retro-looking reds, blues, and yellows with 
 ![frank glencairn](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. [Lutify.me: 7 Free Luts](https://lutify.me/free-luts/)
@@ -129,6 +125,14 @@ Ok, so the LUTs included in this pack require a few extra steps to download. Lut
 The good news is that you can register, download the LUT, and then cancel. Or hey, who knows, you might even like their software offering and stick with the program.
 
 ![lutify me](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4\. How to do color grading in Filmora?
 
@@ -143,11 +147,7 @@ Of course, if you're still dissatisfied with the result you may select **"Advanc
 ![preset](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -192,19 +192,20 @@ In summary, we've seen some different color grading LUTs that simplify the color
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-capturing-magic-in-motion-a-guide-to-hero5-timelapses/"><u>[New] Capturing Magic in Motion A Guide to Hero5 Timelapses</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-obs-vs-modern-broadcasting-tools-a-comparison/"><u>[Updated] In 2024, OBS Vs. Modern Broadcasting Tools A Comparison</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-uninterrupted-airdrop-connections-in-the-world-of-iphones-and-macs/"><u>[Updated] In 2024, Uninterrupted AirDrop Connections in the World of iPhones & Macs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehensive-conversion-guide-for-avi-media-to-web-ready-gif-in-filmora/"><u>Comprehensive Conversion Guide for AVI Media to Web-Ready GIF in Filmora</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/deepdelete-masterful-background-erasure/"><u>DeepDelete Masterful Background Erasure</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-speech-to-silence-creating-quality-audio-memos-for-2024/"><u>From Speech to Silence Creating Quality Audio Memos for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nubia-z50s-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Nubia Z50S Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-itel-p55plus-phone-by-drfone-android/"><u>How to Unlock a Network Locked Itel P55+ Phone?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-altered-realities-image-warping-insights/"><u>In 2024, Altered Realities Image Warping Insights</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-today-we-will-take-a-look-at-the-best-motion-tracking-video-editing-apps-for-ios-and-android-devices/"><u>New 2024 Approved Today We Will Take a Look at the Best Motion Tracking Video Editing Apps for iOS & Android Devices</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/prime-selections-cutting-edge-iphone-tune-makers/"><u>Prime Selections Cutting-Edge iPhone Tune Makers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-corsair-virtuoso-microphone-quick-fix-solutions/"><u>Revive Your Corsair Virtuoso Microphone - Quick Fix Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-affordable-full-hd-cameras-for-stunts-and-sports/"><u>[New] Affordable Full HD Cameras for Stunts and Sports</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-maximize-your-iphones-capture-potential/"><u>[New] Maximize Your iPhone's Capture Potential</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-biting-snippets-to-captivating-narratives-an-experts-guide-to-youtube-edits-for-2024/"><u>[Updated] From Biting Snippets to Captivating Narratives An Expert's Guide to Youtube Edits for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-sharing-laughter-iphone-memes/"><u>[Updated] In 2024, Sharing Laughter IPhone Memes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-unveiling-the-leaders-free-top-6-youtube-snackers/"><u>[Updated] Unveiling the Leaders Free Top 6 YouTube Snackers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-appreciative-adjacencies-templates-for-any-spend-plan/"><u>2024 Approved Appreciative Adjacencies Templates for Any Spend Plan</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-15-online-photo-editors-you-should-try/"><u>2024 Approved Best 15 Online Photo Editors You Should Try</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-down-crossfade-audio-dynamics-in-production/"><u>2024 Approved Breaking Down Crossfade Audio Dynamics in Production</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artful-expression-outperforms-algorithmic-text-crafting/"><u>Artful Expression Outperforms Algorithmic Text Crafting</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-cutting-edge-apples-macbook-air-m2-chip-at-record-cyber-monday-prices-of-2022-techbargains-now/"><u>Get Your Hands on the Cutting-Edge: Apple's MacBook Air M2 Chip at Record Cyber Monday Prices of 2022 | TechBargains Now!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mixing-masterclass-for-dji-miniair-2-owners-no-cost-here/"><u>Mixing Masterclass for DJI Mini/Air 2 Owners - No Cost Here</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/speed-capture-faceoff-gopro-hero-4-challenges-ghost-s/"><u>Speed Capture Faceoff GoPro Hero 4 Challenges Ghost-S</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-tips-for-turning-gopro-into-professionals-best-work/"><u>Step-by-Step Tips for Turning GoPro Into Professionals' Best Work</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/superior-puppy-vision-the-exclusive-furbo-dog-cam-breakdown/"><u>Superior Puppy Vision – The Exclusive Furbo Dog Cam Breakdown</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/standing-your-profit-revenue-per-thousand-from-youtubes-adsense-income/"><u>Understanding Your Profit Revenue Per Thousand From YouTube's AdSense Income</u></a></li>
 </ul></div>
 

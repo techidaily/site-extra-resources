@@ -1,7 +1,7 @@
 ---
 title: "\"Transform Ordinary Moments Into Extraordinary Art  Creating Slow Motion Video From Still Images Online\""
-date: 2024-11-16T18:55:47.280Z
-updated: 2024-11-21T22:43:41.694Z
+date: 2024-11-29T01:31:05.397Z
+updated: 2024-11-30T03:45:54.256Z
 tags: 
   - screen-recording
   - ai video
@@ -32,10 +32,6 @@ While the [Photos app in Windows 10](https://www.microsoft.com/en-us/p/microsoft
 * [**Part2: Customizing the Slow Motion Effect**](#part2)
 * [**Part3: How to Edit in Slow Motion Online**](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1：How to Use Slow Motion in Windows 10
 
 There is no need to spend hundreds of dollars on a video program if you need to perform some basic editing and effects on your videos. For instance, you can add the slow motion effect using the Photos app that comes pre-installed on Windows 10 computers.
@@ -45,7 +41,7 @@ Navigate to the folder where your video file is located and right click on it. Y
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/slow-motion-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you do not see the option anywhere on your Photos app, there is a chance you are running an outdated version of Windows 10 on your computer. All you need to do is navigate to Windows Update through your system menu. When all the updates install, you will have the latest Photos app with this feature.
@@ -61,7 +57,7 @@ Now you can select the beginning and end point using the bottom slider on the Ph
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/make-slow-motion-microsoft-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We recommend that you save your video file under a new name when you are done making your desired changes. It ensures that you still have the original copy of the video saved on your computer or external hard drive.
@@ -70,12 +66,16 @@ You can even create multiple versions of the file with the slow motion effect ap
 
 **You may also like:** [How to Use Story Remix to Edit a Video in Windows 10 Photos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Edit in Slow Motion Online
 
 If you are not able to access a Windows computer, you may want a solution that can be used online. The good news is that you can use some [online video speed changers](https://tools.techidaily.com/wondershare/filmora/download/)to add a slow motion effect to your content.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [EZGif](https://ezgif.com/video-speed)
@@ -90,10 +90,6 @@ Click on the “upload video” button so that it can be added into the database
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/ezgif-change-videos-speed-import.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Output**
 
 The program will let you adjust the video speed to your liking. Then you will get a URL for the output video, which will have been slowed down according to your settings. There is even an option to keep the audio track at the same speed, but you can slow down the audio at the same rate as the video if you want.
@@ -105,6 +101,10 @@ The program will let you adjust the video speed to your liking. Then you will ge
 Now that you have understood how to add the effect of slow motion in Windows 10 Photos, you will be able to tweak your videos even more. The Photos application has many other features that you may want to check out, which will help you edit images and videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -121,17 +121,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-advanced-directors-toolkit-powerdirector-24/"><u>[New] Advanced Directors' Toolkit PowerDirector '24</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1982-honkytonk-man-with-eastwood-as-red-boyle-an-ex-convict-who-finds-himself-riding-through-the-southwest-during-the-great-depression-the-film-was-based-on129/"><u>1982 - Honkytonk Man, with Eastwood as Red Boyle, an Ex-Convict Who Finds Himself Riding Through the Southwest During the Great Depression. The Film Was Based on Clancy Carlile'cuentero's 1974 Novel ''The Goodbye Look''</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-avoiding-simulated-reality-ills-strategies-and-tips/"><u>2024 Approved Avoiding Simulated Reality Ills Strategies and Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-conversion-guide-for-avi-media-to-web-ready-gif-in-filmora/"><u>2024 Approved Comprehensive Conversion Guide for AVI Media to Web-Ready GIF in Filmora</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-learn-to-record-high-quality-audio-with-audacity-mac/"><u>2024 Approved Learn to Record High-Quality Audio with Audacity, Mac</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/apex-of-scripting-soundscapes/"><u>Apex of Scripting Soundscapes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/bereitstellen-sie-kostenlosen-online-umwandlungstechniken-fur-bmp-in-jpeg-method-of-extensions-mef-durch-movavi/"><u>Bereitstellen Sie Kostenlosen Online-Umwandlungstechniken Für BMP in JPEG, Method of Extensions (MEF) Durch Movavi</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/mastering-the-art-of-video-enhancement-from-sdr-basics-to-hdr-excellence-for-2024/"><u>Mastering the Art of Video Enhancement From SDR Basics to HDR Excellence for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-soundtrack-search-navigating-the-iphones-abilities-for-track-titling-for-2024/"><u>The Soundtrack Search Navigating the iPhones Abilities for Track Titling for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-the-art-of-audio-branding-creating-iconic-podcast-cover-imagery-for-2024/"><u>Updated The Art of Audio Branding Creating Iconic Podcast Cover Imagery for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/visual-virtuosity-unveiled-a-close-look-at-the-z32x-4k-monitor/"><u>Visual Virtuosity Unveiled A Close Look at the Z32X 4K Monitor</u></a></li>
-<li><a href="https://win11.techidaily.com/what-sets-ai-technology-apart-an-analysis/"><u>What Sets AI Technology Apart: An Analysis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-10-quick-diy-moviemaking-secrets-unveiled/"><u>[New] 10 Quick DIY Moviemaking Secrets Unveiled</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-action-camera-bargains-selecting-top-6-for-under-100-costs/"><u>[New] Action Camera Bargains Selecting Top 6 for Under $100 Costs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-quick-voice-fixes-for-your-snapchat-snaps-using-dual-methods/"><u>[Updated] Quick Voice Fixes for Your Snapchat Snaps Using Dual Methods</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726029253476-microsoft-teams/"><u>「Microsoft Teams会議の編集＆トリミング技術を学ぶ！」</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-techniques-for-perfecting-your-voice-with-morphvox/"><u>2024 Approved Advanced Techniques for Perfecting Your Voice with MorphVOX</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-metaverse-adventures-to-share-with-pals/"><u>2024 Approved Best Metaverse Adventures to Share with Pals</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fixing-the-cannot-play-issue-solution-for-error-code-22403/"><u>Fixing the 'Cannot Play' Issue: Solution for Error Code 22403</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-100-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor 100 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-termination-immersive-reality-for-2024/"><u>Ideal Termination Immersive Reality for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-ae-text-and-title-styles-guide/"><u>In 2024, AE Text & Title Styles Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/is-there-a-cash-incentive-in-critique-videos/"><u>Is There a Cash Incentive in Critique Videos?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/live-streaming-platforms-analyzing-obs-and-twitch-studio/"><u>Live Streaming Platforms Analyzing OBS and Twitch Studio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-extending-hard-drive-size-at-zero-cost-in-windows/"><u>Strategies for Extending Hard Drive Size at Zero Cost in Windows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-definitive-guide-to-apcs-back-ups-pro-1500va-powerhouse-performance-with-plenty-of-usb-ports-and-hot-swappable-batteries/"><u>The Definitive Guide to APC's Back-UPS Pro 1500VA: Powerhouse Performance with Plenty of USB Ports & Hot-Swappable Batteries</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-finest-9-digital-places-for-harvesting-futuristic-3d-typefaces/"><u>The Finest 9 Digital Places for Harvesting Futuristic 3D Typefaces</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-sites-for-digital-metallic-text-with-a-golden-twist/"><u>Top Sites for Digital Metallic Text with a Golden Twist</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-srt-mastery-a-detailed-manual-and-tips/"><u>Unlock SRT Mastery A Detailed Manual and Tips</u></a></li>
 </ul></div>
 
