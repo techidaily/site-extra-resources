@@ -1,7 +1,7 @@
 ---
 title: "\"Harmonize Visual & Auditory Elements  Adding Filters & Sound to Windows Photos App\""
-date: 2024-11-27T22:09:14.974Z
-updated: 2024-11-29T22:47:36.572Z
+date: 2024-12-07T16:54:07.857Z
+updated: 2024-12-08T17:33:21.567Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 **You may also like:** [How to Trim Video in Windows 10 Photos Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to add filters on Windows 10 Photos App
@@ -50,7 +50,7 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
@@ -73,18 +73,18 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5**: Hit the ‘Done’ button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -94,7 +94,7 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -112,20 +112,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-a-step-by-step-approach-to-downloading-memorable-moments-from-social-media/"><u>[New] 2024 Approved A Step-By-Step Approach to Downloading Memorable Moments From Social Media</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-remove-a-background-in-affinity-photo/"><u>[New] Remove a Background in Affinity Photo</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-deciphering-the-secrets-to-your-personalized-tiktok-code/"><u>[Updated] 2024 Approved Deciphering the Secrets to Your Personalized TikTok Code</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-action-sequence-showdown-new-era-gopro-hero5-black-vs-old-guard-hero4-silver/"><u>2024 Approved Action Sequence Showdown New Era GoPro Hero5 Black Vs Old Guard Hero4 Silver</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-beginning-your-first-fb-giveaway-announcement/"><u>2024 Approved Beginning Your First FB Giveaway Announcement</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ur-scoreboard-top-ten-viewership-heavyweights-on-yt-for-2024/"><u>24-Hour Scoreboard Top Ten Viewership Heavyweights on YT for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cadence-captors-embrace-free-online-tempo-apps-for-2024/"><u>Cadence Captors – Embrace Free Online Tempo Apps for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/earning-hacks-for-youtube-short-creators-for-2024/"><u>Earning Hacks for YouTube Short Creators for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/effortlessly-manage-iphone-photos-aligning-albums-and-streamlining-icloud-storage/"><u>Effortlessly Manage iPhone Photos Aligning Albums and Streamlining iCloud Storage</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/evaluating-alternatives-to-magixs-acid-pro/"><u>Evaluating Alternatives to Magix's ACID Pro</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/finding-voice-changers-for-vtubers-two-best-app-recommended/"><u>Finding Voice Changers for Vtubers Two Best App Recommended</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-samsung-galaxy-a14-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Samsung Galaxy A14 5G Is Unlocked</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-core-principles-of-internet-storytelling/"><u>In 2024, Core Principles of Internet Storytelling</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/two-simple-strategies-for-successfully-uploading-big-files-by-email/"><u>Two Simple Strategies for Successfully Uploading Big Files by Email</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-supreme-cd-technology-of-2024/"><u>Unveiling the Supreme CD Technology of 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-timing-and-frequency-what-is-the-best-day-to-release-a-podcast/"><u>[New] Timing & Frequency What Is the Best Day to Release a Podcast?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-augmented-viewing-the-vr-cinematic-revolution/"><u>[Updated] Augmented Viewing The VR Cinematic Revolution</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-enhancing-virtual-communication-applying-zoom-filter-features/"><u>[Updated] In 2024, Enhancing Virtual Communication Applying Zoom Filter Features</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/accelerating-digital-change-how-abbyys-smart-automation-powers-paragons-transformation-journey/"><u>Accelerating Digital Change: How ABBYY’s Smart Automation Powers Paragon's Transformation Journey</u></a></li>
+<li><a href="https://extra-information.techidaily.com/apex-fusion-hubs-all-in-one-4k-multi-touch-desktops-for-2024/"><u>Apex Fusion Hubs All-in-One 4K Multi-Touch Desktops for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/culmination-of-day-blackout-effects/"><u>Culmination of Day - Blackout Effects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-record-audio-on-windows-11/"><u>How To Record Audio on Windows 11?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-sony-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Sony</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-asus-proart-pa32u-4k-hdr-professional-monitor-review/"><u>In 2024, ASUS ProArt PA32U 4K HDR Professional Monitor Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/techniques-to-restore-precision-display-quality-addressing-discoloration-and-warping-in-computers/"><u>Techniques to Restore Precision Display Quality: Addressing Discoloration and Warping in Computers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-editors-toolkit-top-10-film-segments/"><u>The Editor's Toolkit Top 10 Film Segments</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-linguistic-edge-influential-expressions-for-leaders/"><u>The Linguistic Edge Influential Expressions for Leaders</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-power-of-chatgpt-in-conversational-ai/"><u>Unveiling the Power of ChatGPT in Conversational AI</u></a></li>
 </ul></div>
 

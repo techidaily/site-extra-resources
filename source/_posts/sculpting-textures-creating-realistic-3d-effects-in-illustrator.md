@@ -1,7 +1,7 @@
 ---
 title: "\"Sculpting Textures  Creating Realistic 3D Effects in Illustrator\""
-date: 2024-11-28T04:55:07.471Z
-updated: 2024-11-30T02:45:33.733Z
+date: 2024-12-05T16:56:38.473Z
+updated: 2024-12-08T16:27:00.819Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ It takes 10 minutes. Even if you've never used Adobe Illustrator before, you wil
 
 This guide will show you the step-by-step process of creating a 3D text effect in Adobe Illustrator. So, if you're ready, let's begin.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Create a 3D Text Effect in Adobe Illustrator
 
 All you need are ten minutes of your time and the Adobe Illustrator application. Oh yes, and you need a little bit of imagination as well. That's all there is to it.
@@ -29,10 +33,6 @@ All you need are ten minutes of your time and the Adobe Illustrator application.
 After you get the program, install it and follow the step-by-step instructions you'll see below.
 
 Also, there are plenty of different ways to create 3D text effects in Adobe Illustrator. This tutorial will focus on explaining the easiest and quickest one. Just know that this doesn't mean the result will be wrong. Most methods yield the same results.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Create 3D Text Effects in Adobe Illustrator
 
@@ -45,7 +45,7 @@ Step2 Click on the **Type tool** and click anywhere on your blank canvas. Then, 
 ![type tool illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-type-tool.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3 Now, look at the bottom-right corner of the program. Find the **Font** settings and change your font type and size to anything you want.
@@ -57,7 +57,7 @@ Step4 Next, choose any color you want for your text from the panel on the screen
 ![change color](https://images.wondershare.com/filmora/article-images/adobe-illustrator-color.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step5 Align the text to make it easier to edit and move around the canvas later. Just click on it and then click on the three buttons in the image below. This section is located at the bottom-right corner of the screen.
@@ -69,7 +69,7 @@ Step6 Up next, you need to turn on your 3D Effects panel if it still needs to be
 ![turn on three d panel](https://images.wondershare.com/filmora/article-images/adobe-illustrator-3d-materials-window.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step7 Click on the box icon on the right side of the screen and select **“Extrude”** This will instantly transform your text into a 3D model.
@@ -92,10 +92,6 @@ You might not believe it, but there's an even more accessible and less expensive
 
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Create a 3D Text Effect In Filmora?
 
 The steps are simple. Just follow them precisely as you see here, and you won't have any problems.
@@ -107,7 +103,7 @@ Step2 Head to the **Titles** tab and search for the **“3D Illustration**” ti
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
@@ -135,6 +131,10 @@ Step1 Download Filmora and run the program. Once it opens, click on **New Projec
 Step2 Head to the **Titles** tab and search for the **“3D Illustration**” title. Then, drag it into the Timeline. You can also find several other 3D titles. If you like another one better, drag that one instead of the one we mentioned here.
 
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
@@ -172,18 +172,20 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-computational-photography-what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes/"><u>[New] Computational Photography What Are Auto HDR, Smart HDR 3 & 4 Shooting Modes?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-windows-11-photos-setup-guide-adding-aesthetic-overlays-and-music/"><u>[New] In 2024, Windows 11 Photos Setup Guide Adding Aesthetic Overlays & Music</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-apple-m1-demystified-the-tech-leap-forward/"><u>[Updated] 2024 Approved Apple M1 Demystified The Tech Leap Forward</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-best-mobile-and-desktop-apps-adjusting-audio-playback-speed/"><u>[Updated] Best Mobile & Desktop Apps Adjusting Audio Playback Speed</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-mastering-cross-platform-video-playback-free-solutions-guide-for-2024/"><u>[Updated] Mastering Cross-Platform Video Playback Free Solutions Guide for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-art-of-iphone-photo-collage-assembly/"><u>2024 Approved Explore the Art of iPhone Photo Collage Assembly</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-k70-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi K70 Pro Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ideal-dialogue-architect-forum/"><u>Ideal Dialogue Architect Forum</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-8-superb-tablet-titans-to-take-your-photo-editing-skills-further/"><u>In 2024, 8 Superb Tablet Titans to Take Your Photo Editing Skills Further</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-beyond-the-screen-metaverse-vs-omniverse-dissected/"><u>In 2024, Beyond the Screen Metaverse Vs. Omniverse Dissected</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-accelerate-your-videos-a-quicktime-player-guide/"><u>New 2024 Approved Accelerate Your Videos A QuickTime Player Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/mlining-shoots-with-smart-camera-tech-choices-for-2024/"><u>Streamlining Shoots with Smart Camera Tech Choices for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-apple-airtag-charging-requirements-and-battery-life/"><u>Understanding Apple AirTag Charging Requirements & Battery Life</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-audience-focus-top-webcams-that-bring-life-to-podcasts/"><u>[New] Audience Focus Top Webcams That Bring Life to Podcasts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-ultimate-companion-for-your-vlogging-journey-top-12-cameras/"><u>[New] The Ultimate Companion for Your Vlogging Journey - Top 12 Cameras</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-srs-mastery-innovative-conversion-techniques/"><u>2024 Approved SRS Mastery Innovative Conversion Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compensated-analysis-the-vlog-perspective-on-goods-for-2024/"><u>Compensated Analysis The Vlog Perspective on Goods for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-the-hype-around-tesla-robotics-insights-into-cost-estimates-launch-dates-and-features/"><u>Decoding the Hype Around Tesla Robotics: Insights Into Cost Estimates, Launch Dates & Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discreetly-conceal-identity-photo-edit-tip/"><u>Discreetly Conceal Identity Photo Edit Tip</u></a></li>
+<li><a href="https://win-info.techidaily.com/how-to-guide-upgrading-from-hdd-to-solid-state-drive-in-dell-inspiron-15-laptop-models/"><u>How-To Guide: Upgrading From HDD to Solid State Drive in Dell Inspiron 15 Laptop Models</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-3dr-a-compreran-users-journey-through-tech-aloneness/"><u>In 2024, '3DR' A Compreran User's Journey Through Tech Aloneness</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-step-by-step-approach-to-using-cg-central-luts-in-grading/"><u>In 2024, A Step-by-Step Approach to Using CG Central LUTs in Grading</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/monitor-magic-top-choices-to-transform-your-xbox-series-x-playtime/"><u>Monitor Magic Top Choices to Transform Your Xbox Series X Playtime</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/titlegenius-revolutionizing-video-title-generation/"><u>TitleGenius Revolutionizing Video Title Generation</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshoot-and-enhance-your-windows-eb-experience-get-the-latest-usb-c-driver-downloads-here/"><u>Troubleshoot & Enhance Your Windows Eb Experience – Get the Latest USB-C Driver Downloads Here</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-oculus-graphic-card-issues-a-comprehvew-of-fixes/"><u>Troubleshooting the Oculus Graphic Card Issues - A Comprehvew of Fixes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unlocking-iphones-ultimate-live-photography-potential-for-2024/"><u>Unlocking iPhone's Ultimate Live Photography Potential for 2024</u></a></li>
 </ul></div>
 

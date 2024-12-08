@@ -1,7 +1,7 @@
 ---
 title: "\"Photography Transformed  Simplifying Edges and Corners\""
-date: 2024-11-07T22:45:57.204Z
-updated: 2024-11-11T22:07:15.689Z
+date: 2024-12-02T17:14:59.776Z
+updated: 2024-12-08T16:21:50.577Z
 tags: 
   - screen-recording
   - ai video
@@ -54,13 +54,25 @@ Play around with the settings in the options bar. There are quite a few differen
 
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The **Bend Direction** option rotates the angle of the bend.
 
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step4Save the Image
 
@@ -69,10 +81,11 @@ Once you're happy with the way your image looks, go to File > Save As in the men
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -109,21 +122,21 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-the-comprehensive-guide-to-youtube-playlists-creation/"><u>[New] 2024 Approved The Comprehensive Guide to YouTube Playlists Creation</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-the-art-of-fb-chat-transcription-for-2024/"><u>[New] Mastering the Art of FB Chat Transcription for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-hilarity-and-sobriety-a-list-of-top-10-memetic-spots-on-insta-for-2024/"><u>[Updated] Hilarity & Sobriety A List of Top 10 Memetic Spots on Insta for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-maximizing-collaboration-zoom-session-setup-and-management/"><u>2024 Approved Maximizing Collaboration Zoom Session Setup and Management</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discover-the-thrill-panasonics-wearable-actioncam-hx-a1/"><u>Discover the Thrill Panasonic’s Wearable ActionCam, HX-A1</u></a></li>
-<li><a href="https://extra-information.techidaily.com/facial-lockout-a-deep-dive-into-iphones-face-id-vs-galaxys-recognition/"><u>Facial Lockout A Deep Dive Into iPhone's Face ID Vs. Galaxy’s Recognition</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/guide-to-extracting-srt-from-a-zip-archive/"><u>Guide to Extracting SRT From a ZIP Archive</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-tecno-spark-20-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Tecno Spark 20 Device</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-the-journey-of-personalized-instagram-notification-creation/"><u>In 2024, The Journey of Personalized Instagram Notification Creation</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/laughs-lab-innovator/"><u>Laughs Lab Innovator</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-iphone-battery-life-key-updates-in-ios-18-and-new-charging-methods-zdnet/"><u>Mastering iPhone Battery Life: Key Updates in iOS 18 and New Charging Methods - ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/parable-pioneers-guild-premier-peak/"><u>Parable Pioneers Guild – Premier Peak</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/streaming-showdown-the-podcast-challenge-to-youtubes-dominance/"><u>Streaming Showdown The Podcast Challenge to YouTube’s Dominance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-guide-to-top-of-the-line-computer-gear/"><u>Tom's Tech Review: Comprehensive Guide to Top-of-the-Line Computer Gear</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-review-of-imo-the-definitive-chat-platform-assessment/"><u>Ultimate Review of Imo: The Definitive Chat Platform Assessment</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-windows-art-apps-review-dollar-free-to-charged/"><u>Ultimate Windows Art Apps Review Dollar-Free to Charged</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-step-into-the-future-of-streaming-with-top-audio-techniques/"><u>[New] In 2024, Step Into the Future of Streaming with Top Audio Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-conquer-the-camera-prostrate-techniques-with-gopro-hero5-black/"><u>[Updated] Conquer the Camera Prostrate Techniques With GoPro Hero5 Black</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-critical-alternatives-to-twitter-the-best-5/"><u>[Updated] Critical Alternatives to Twitter The Best 5</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensive-cash-flow-chart-launching-a-successful-podcast/"><u>2024 Approved Comprehensive Cash Flow Chart Launching a Successful Podcast</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-tour-through-top-virtual-biking-experiences-for-2024/"><u>A Tour Through Top Virtual Biking Experiences for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-y100t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-top-picks-elite-4k-displays-for-cutting-edge-editing/"><u>In 2024, Top Picks Elite 4K Displays for Cutting-Edge Editing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/inside-look-unlocking-the-potential-of-m1-max-clip/"><u>Inside Look Unlocking the Potential of M1 Max Clip</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/review-the-goofy-movie-vhs/"><u>Review The Goofy Movie VHS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/secret-finds-exclusive-free-speech-transcribers-for-mac/"><u>Secret Finds Exclusive Free Speech Transcribers for Mac</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-f1-202-from-crashing-on-your-pc-troubleshooting-tips-and-fixes/"><u>Stop F1 202# From Crashing on Your PC - Troubleshooting Tips and Fixes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-ten-blueprints-for-meme-mastery/"><u>Top Ten Blueprints for Meme Mastery</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tracing-the-flow-of-money-in-consumer-opinions/"><u>Tracing the Flow of Money in Consumer Opinions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-a-nonfunctional-headphone-jack-on-your-laptop-a-comprehensive-guide/"><u>Troubleshooting a Nonfunctional Headphone Jack on Your Laptop: A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-from-glitch-to-glory-how-to-reset-final-cut-pro-x-and-resolve-issues/"><u>Updated 2024 Approved From Glitch to Glory How to Reset Final Cut Pro X and Resolve Issues</u></a></li>
 </ul></div>
 

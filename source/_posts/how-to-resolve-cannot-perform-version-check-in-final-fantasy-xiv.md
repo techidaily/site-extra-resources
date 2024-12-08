@@ -1,7 +1,7 @@
 ---
 title: How to Resolve 'Cannot Perform Version Check' In Final Fantasy XIV
-date: 2024-11-06T22:49:35.206Z
-updated: 2024-11-12T08:18:37.800Z
+date: 2024-12-01T17:01:04.268Z
+updated: 2024-12-08T17:36:19.836Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/bbabbb54d3c500910e24c2679e705faf485aa6e3d
 ## Fallout Asterisk 76 Server Connection Issues? Here's How to Resolve Them on Windows
 
 Recently many Fallout 76 players have been plagued by the**Fallout 76 disconnected from the server** issue. If you’re also in the same situation, don’t worry. It’s often not hard to fix…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix Fallout 76 Disconnected From Server in Windows
 
@@ -39,6 +43,10 @@ Here is how to reset Winsock data:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) In the Command Prompt, type **netsh winsock reset**  and hit **Enter** .
@@ -50,19 +58,6 @@ Here is how to reset Winsock data:
 5) Launch Fallout 76 to see if it can be connected to the game server. If yes, then great! If the issue remains, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2:**Close bandwidth hogging applications**
 
@@ -108,13 +103,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Restart your network
 
  The Fallout 76 won’t connect to server issue may be a glitch caused by your router. So you can restart your modem to see if it fixes the issue.
@@ -126,15 +114,16 @@ Here is how to restart your network:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _modem_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _wireless router_
 
@@ -145,6 +134,10 @@ _wireless router_
  3) Launch Fallout 76 to see if it connects to the servers properly. If yes, then you’ve solved the issue. If it’s still no joy, please try**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 5: Flush your DNS and Renew your IP**
 
@@ -169,10 +162,7 @@ _wireless router_
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
@@ -182,6 +172,10 @@ _wireless router_
 **ipconfig /release**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Type**the following command line** and press **Enter**  on your keyboard.
 
@@ -194,6 +188,10 @@ _wireless router_
  Check to see if the Fallout 76 connecting issue still occurs. If it is still not fixed, please try**Fix 6** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Switch the DNS server
 
@@ -213,44 +211,20 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-612.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Right-click on**your current network** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-613.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap21-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Select **Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-614.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7) Restart your computer for the changes to take effect.
@@ -288,17 +262,24 @@ Here is how to switch the DNS server to Google Public DNS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-composing-captivating-cutting-edge-synopses/"><u>[New] Composing Captivating Cutting-Edge Synopses</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-insights-on-engaging-top-tier-visual-storytellers-for-2024/"><u>[New] Insights on Engaging Top-Tier Visual Storytellers for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/cr2jpeg-movavi/"><u>瀏覽器上免費CR2到JPEG拷貝: Movavi 格式化工具</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevate-your-xbox-gameplay-a-comprehensive-screen-guide/"><u>Elevate Your Xbox Gameplay A Comprehensive Screen Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-upgrade-or-install-the-macos-sierra/"><u>How to Upgrade or Install the macOs Sierra</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-oppo-a78-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Oppo A78 Phone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-kinemaster-techniques-and-top-10-online-rivals/"><u>Mastering KineMaster Techniques & Top 10 Online Rivals</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mastering-winxvideo-ai-ultimate-step-by-step-tutorial-for-recording-editing-and-video-format-adjustments/"><u>Mastering Winxvideo AI: Ultimate Step-by-Step Tutorial for Recording, Editing & Video Format Adjustments</u></a></li>
-<li><a href="https://win11.techidaily.com/pivot-to-new-life-for-your-outdated-tech-without-windows/"><u>Pivot to New Life for Your Outdated Tech Without Windows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-phone-and-camera-mounts-precision-focus-tracking-for-2024/"><u>Ultimate Phone & Camera Mounts Precision Focus Tracking for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/visionary-directors-cinematic-peeks/"><u>Visionary Director's Cinematic Peeks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/why-consider-switching-to-ios-17-a-detailed-assessment/"><u>Why Consider Switching to iOS 17? A Detailed Assessment</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-command-your-chats-with-flair-pinning-made-simple-in-discord-for-2024/"><u>[New] Command Your Chats with Flair Pinning Made Simple in Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-a-comprehensible-breakdown-of-discord-spoilers/"><u>[New] In 2024, A Comprehensible Breakdown of Discord Spoilers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-maximizing-video-quality-mastering-insta-to-mp4-conversion/"><u>[New] Maximizing Video Quality Mastering Insta-to-MP4 Conversion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-celebratory-closures-from-bare-bones-to-full-featured/"><u>2024 Approved Celebratory Closures From Bare-Bones to Full-Featured</u></a></li>
+<li><a href="https://windows11.techidaily.com/arm-powered-windows-computers-get-official-chrome-support/"><u>ARM-Powered Windows Computers Get Official Chrome Support</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audio-interpretation-software-zero-cost-version/"><u>Audio Interpretation Software – Zero Cost Version</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/clipcomposers-evaluation-full-breakdown-of-video-editing-software-for-2024/"><u>ClipComposer's Evaluation – Full Breakdown of Video Editing Software for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-visual-storytelling-with-picture-in-picture-techniques-on-mac/"><u>Enhancing Visual Storytelling with Picture In Picture Techniques on Mac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-guide-for-teachers-on-using-visual-aids/"><u>Essential Guide for Teachers on Using Visual Aids</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/geforce-trouble-heres-how-to-address-and-correct-unexpected-software-interruptions/"><u>GeForce Trouble? Here's How to Address and Correct Unexpected Software Interruptions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1715859854810-in-2024-top-sandbox-adventures-not-to-skip/"><u>In 2024, Top Sandbox Adventures Not To Skip!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/seamless-audio-downloads-preserve-your-treasured-songs-as-high-quality-mp3s-with-ease/"><u>Seamless Audio Downloads: Preserve Your Treasured Songs as High-Quality MP3s with Ease</u></a></li>
+<li><a href="https://extra-information.techidaily.com/spiritual-soundtracks-finding-and-tuning-for-ringtones/"><u>Spiritual Soundtracks Finding & Tuning for Ringtones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-of-flow-mastering-inshots-segmentation-techniques/"><u>The Art of Flow Mastering Inshot's Segmentation Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-definitive-guide-to-crafting-memorable-podcast-names-with-inspirations/"><u>The Definitive Guide to Crafting Memorable Podcast Names, with Inspirations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ue590-review-top-4k-game-display-with-fs/"><u>The UE590 Review Top 4K Game Display with FS</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/top-9-challenging-tongues-overcoming-language-barriers/"><u>Top 9 Challenging Tongues: Overcoming Language Barriers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/windows-painting-programs-showdown-zero-and-more-dollars/"><u>Windows Painting Programs Showdown Zero and More Dollars</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"From Timeless Tales in Tone-On-Tone to Dynamic Digital Narratives\""
-date: 2024-11-25T19:38:37.639Z
-updated: 2024-11-29T16:39:19.480Z
+date: 2024-12-06T16:44:02.624Z
+updated: 2024-12-08T16:29:38.683Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,10 @@ Therefore, it is highly recommended to digitize photos to make them lasting. In 
 * [Part 1: How to Digitize Your Memorable Old Photos](#part1)
 * [Part 2: How to Convert Old Photos into a Video with Ease?](#part2)
 * [Part 3: More Editing Tips for Creating Memorable Videos](#part3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Smart Ways to Digitize Your Memorable Old Photos
 
@@ -86,25 +90,21 @@ To start with, you can just launch Filmora on your system and import your photos
 
 ![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2\. Create a timeline for your photos
 
 Once you have imported your photos, you can include them in the timeline. To do this, you can click on the “+” button that is located on the top of the photo’s thumbnail. You can also just drag any photo and drop it on the preferred location in the timeline.
 
 ![create timeline for photos ](https://images.wondershare.com/filmora/article-images/create-timeline-for-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 3\. Edit the video
 
 Just above the timeline, you can find all kinds of tools to edit your video. For instance, you can crop your photos, split the video, delete pictures, correct their coloring, and so on. To explore more options, you can click on the edit icon here.
 
 ![Edit Digitized Photos ](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
 
@@ -113,10 +113,6 @@ The edit option will present tons of additional features that you can implement 
 As stated above, you can find a wide range of video editing options to explore in Fimora. On top of the interface, you can switch between audio, transition, effects, titles, and other options. You can just go to any feature here (like effects) to apply it to the video.
 
 ![Add Effects to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
 
@@ -135,7 +131,7 @@ That’s it! After making all the changes, you can preview your video on the rig
 Find more fancy ways to make the best photo and video slideshow with Filmora!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Editing Tips for Creating Memorable Videos
@@ -167,12 +163,16 @@ Most importantly, pick a user-friendly and effective video editor like Filmora. 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 There you go! I’m sure that after reading this guide, you would be able to digitize photos pretty easily. Not just that, you can also come up with memorable videos using your old photographs with a tool like Filmora. The resourceful application offers a wide range of video editing tools that will certainly come handy to you on numerous occasions.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -189,20 +189,14 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-best-of-the-rest-cutting-edge-vr-games-for-google-cardboard/"><u>[New] Best of the Rest Cutting-Edge VR Games for Google Cardboard</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-how-to-quality-recording-of-your-roblox-journeys-on-mac-for-2024/"><u>[New] How-To Quality Recording of Your Roblox Journeys on Mac for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-quick-and-easy-capturing-the-perfect-mac-snapped-footage/"><u>[New] Quick & Easy Capturing the Perfect Mac-Snapped Footage</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-how-to-tailor-youtube-thumbnails-for-maximum-impact/"><u>[Updated] 2024 Approved How to Tailor YouTube Thumbnails for Maximum Impact</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-building-an-effective-streamlined-podcasts-rss-feed/"><u>[Updated] Building an Effective, Streamlined Podcast's RSS Feed</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-ideal-images-scenery-for-engaging-online-audiences/"><u>[Updated] In 2024, Ideal Images Scenery for Engaging Online Audiences</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-constructing-your-own-high-definition-pc-for-immersive-video-creation/"><u>2024 Approved Constructing Your Own High-Definition PC for Immersive Video Creation</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/dynamic-dimensions-unleashing-the-power-of-high-dynamic-range/"><u>Dynamic Dimensions Unleashing the Power of High Dynamic Range</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/effortlessly-capture-clear-water-scenes-top-tips-exposed/"><u>Effortlessly Capture Clear Water Scenes Top Tips Exposed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-steps-to-a-successful-vlog/"><u>Essential Steps to a Successful Vlog</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-your-apple-iphone-14-pro-max-display-drfone-by-drfone-ios/"><u>How to Screen Mirror your Apple iPhone 14 Pro Max Display? | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-audiophiles-guide-to-clear-audio-overcoming-background-sibilance-and-hum-for-2024/"><u>New Audiophiles Guide to Clear Audio Overcoming Background Sibilance and Hum for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/optimizing-audio-quality-during-video-calls-on-win11/"><u>Optimizing Audio Quality During Video Calls on Win11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ringtone-recorder-the-2024iphone-solution/"><u>Ringtone Recorder - The 2024iPhone Solution</u></a></li>
-<li><a href="https://win-community.techidaily.com/tout-savoir-sur-la-securisation-de-vos-donnees-yahoo-mail-avec-des-techniques-de-sauvegarde-automatisees-et-manuelles/"><u>Tout Savoir Sur La Sécurisation De Vos Données Yahoo Mail Avec Des Techniques De Sauvegarde Automatisées Et Manuelles</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-androids-premier-photographic-tool-is-pickup-at-the-forefront/"><u>[New] 2024 Approved Android’s Premier Photographic Tool – Is PickUp at the Forefront?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-discover-8-trustworthy-online-content-promoters/"><u>[Updated] 2024 Approved Discover 8 Trustworthy Online Content Promoters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-android-brightening-essentials-stepwise-demystification/"><u>[Updated] Android Brightening Essentials - Stepwise Demystification</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-stunning-videos-on-iphone-8-pro-tips-for-quality-shootings/"><u>[Updated] Capture Stunning Videos on iPhone 8 Pro Tips for Quality Shootings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/androids-ultimate-guide-to-photo-editors-is-pickup-a-contender-for-2024/"><u>Android’s Ultimate Guide to Photo Editors Is PickUp a Contender for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-your-competitive-edge-with-custom-vocalization-techniques-in-free-fire-gaming-free-solution-included/"><u>Boosting Your Competitive Edge with Custom Vocalization Techniques in Free Fire Gaming (Free Solution Included)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-shadows-and-subtleties-iphone-nocturnal-guides/"><u>In 2024, Shadows & Subtleties IPhone Nocturnal Guides</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-restoring-webcam-functionality-on-hp-devices-with-windows-11/"><u>Step-by-Step Solution: Restoring Webcam Functionality on HP Devices with Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-top-5-virtual-title-designers-for-2024/"><u>Unlocking the Top 5 Virtual Title Designers for 2024</u></a></li>
 </ul></div>
 

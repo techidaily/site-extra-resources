@@ -1,7 +1,7 @@
 ---
 title: "\"Understanding Drones  Their Functionality Explored\""
-date: 2024-11-28T23:47:00.990Z
-updated: 2024-11-29T20:01:18.575Z
+date: 2024-12-05T17:00:33.211Z
+updated: 2024-12-08T17:38:59.964Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,14 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
 
 ![history of drones](https://images.wondershare.com/filmora/article-images/history-of-drones.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Does a Drone Work?
 
  The working procedure of a drone may appear simple to most of you but the device is actually carrying a complex technology inside. Before we discuss the concept of drones' working you must know the fact that differentiate between drones and its ancestors- helicopters. The former one can fly independently whereas later needs pilot for directions.
@@ -45,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
  Actually it is a specially designed multi propeller system inside a drone that makes this device highly independent and also assists in reduction of failures. One important thing to note about this multi propeller system is that even if any motor inside this device stops working; it will keep on flying as it gets support from propellers that are working in group. Drones that possess large number of motors inside are able to gain more control over their elevation and hence can carry more loads during flight. These propellers get their power from a dedicated source and most of these devices contain removable batteries so that it can stay in air for long run. The flight time can be extended with use of powerful batteries in design.
 
 ![how does drones work](https://images.wondershare.com/filmora/article-images/how-does-drone-work.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How does it fly?
 
@@ -62,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
 
 ![dji drone logo](https://images.wondershare.com/filmora/article-images/dji-logo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2\. [Yuneec >>](http://www.yuneec.com/products )
 
 ![yuneec drone logo](https://images.wondershare.com/filmora/article-images/yuneec-logo.png)
@@ -70,16 +78,12 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
 
 ![parrot drone logo](https://images.wondershare.com/filmora/article-images/parrot-logo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4\. [3D Robotics >>](http://3drobotics.com/ )
 
 ![3d robotics drone logo](https://images.wondershare.com/filmora/article-images/3d-robotics-logo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5\. [Hubsun >>](http://www.hubsan.com/ )
@@ -94,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
 
 ![Autel logo](https://images.wondershare.com/filmora/article-images/autel-robotics-logo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  8\. [Xiro >>](http://xirodrone.com/ )
 
 ![xiro drone logo](https://images.wondershare.com/filmora/article-images/xiro-logo.png)
@@ -106,12 +106,16 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
 
 ![vantage drone logo](https://images.wondershare.com/filmora/article-images/vantage-robotics-logo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  10\. [Horizon Hobby >>](http://www.horizonhobby.com/category/multirotor )
 
 ![Horizon Hobby logo](https://images.wondershare.com/filmora/article-images/horizon-hobby-logo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Summary
@@ -119,10 +123,6 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
  There is no doubt to say that drones are one of the most wonderful and precious advancement of technology. Presently almost all countries are developing their drones for different applications. There are still some clauses for improvements and many professionals are continuously working on it. Drone carrying camera units inside them are more useful for commercial as well as military applications and they are being developed by almost all top companies in the world. It is a combination of all advanced technologies like micro controllers, GPS, Wi-Fi and sensor units- they all work in perfect coherence to deliver awesome performance for different applications. Most of the countries these days have decided their specific rule set for drone flights and few restrictions are poses on their weight carrying capacity. If you want to use drones for commercial applications then it is important to take permission from CAA.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -139,20 +139,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-discovering-the-potential-of-next-gen-srt-systems/"><u>[New] 2024 Approved Discovering the Potential of Next-Gen SRT Systems</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-precision-in-practice-tailoring-ps4-recordings-to-suit-your-style/"><u>[New] In 2024, Precision in Practice Tailoring PS4 Recordings to Suit Your Style</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-in-game-capture-options-beyond-microsofts-game-bar/"><u>[Updated] 2024 Approved In-Game Capture Options Beyond Microsoft's Game Bar</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-chromebook-voice-alteration-guide-essential-online-reverb-and-pitch-tools/"><u>2024 Approved Chromebook Voice Alteration Guide Essential Online Reverb & Pitch Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/breaking-into-the-livestream-scene-on-youtube-with-under-a-thousand-views/"><u>Breaking Into the Livestream Scene on YouTube with Under a Thousand Views</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-30i-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Infinix Hot 30i Phone without Any Data Loss</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/joyful-latin-teaching-approaches/"><u>Joyful Latin Teaching Approaches</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-sharpened-internet-video-views/"><u>Mastering the Art of Sharpened Internet Video Views</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/opening-playing-and-organizing-your-srt-files-efficiently/"><u>Opening, Playing, and Organizing Your SRT Files Efficiently</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/simple-approach-to-getting-clownfish-voice-changer-on-windows/"><u>Simple Approach to Getting Clownfish Voice Changer on Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/strategies-for-breaking-down-3d-designs-into-printable-units/"><u>Strategies for Breaking Down 3D Designs Into Printable Units</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/streamlining-your-experience-live-cricket-viewing-tips/"><u>Streamlining Your Experience Live Cricket Viewing Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/transforming-movies-into-virtual-reality-realms/"><u>Transforming Movies Into Virtual Reality Realms</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-top-rated-free-dvd-players-for-windows-10-the-ultimate-guide/"><u>Updated In 2024, Top-Rated Free DVD Players for Windows 10 The Ultimate Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnets-ultimate-guide-for-screen-recording-on-iphones-made-simple/"><u>ZDNet's Ultimate Guide for Screen Recording on iPhones Made Simple</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-avatar-asymmetry-artistry-sketching-distorted-images/"><u>[New] 2024 Approved Avatar Asymmetry Artistry Sketching Distorted Images</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-ultimate-guide-5-advanced-webcams-for-video-calls/"><u>[New] In 2024, Ultimate Guide 5 Advanced Webcams for Video Calls</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-boost-your-boundless-imagination-with-these-android-graphics-tools/"><u>[Updated] Boost Your Boundless Imagination with These Android Graphics Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-correcting-audio-absence-in-obs-recordings-quickly/"><u>[Updated] In 2024, Correcting Audio Absence in OBS Recordings Quickly</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-zero-cost-youtube-meetings-easy-to-host/"><u>[Updated] Zero Cost Youtube Meetings Easy to Host</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-chat-commander-the-ultimate-guide-to-text-from-voice/"><u>2024 Approved Chat Commander The Ultimate Guide to Text From Voice</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/affordable-text-animation-strategies-webreal-world/"><u>Affordable Text Animation Strategies Web/Real World</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphones-broken-qr-code-scanning-feature-with-these-10-tips/"><u>Fix Your iPhone's Broken QR Code Scanning Feature with These 10 Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-infinix-note-30-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Infinix Note 30 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-oppo-a18-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Oppo A18 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-efficiency-discover-the-best-8-artificial-intelligence-extensions-for-google-chrome/"><u>Maximize Efficiency: Discover the Best 8 Artificial Intelligence Extensions for Google Chrome</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-chroma-spectrum-now-crystal-clear-on-4k/"><u>The Ultimate Chroma Spectrum, Now Crystal Clear on 4K</u></a></li>
 </ul></div>
 

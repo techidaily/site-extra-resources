@@ -1,7 +1,7 @@
 ---
 title: "\"Unlocking Full Photo Viewing Capabilities  Win 11 Edition\""
-date: 2024-11-08T22:01:28.886Z
-updated: 2024-11-12T05:03:15.862Z
+date: 2024-12-06T17:34:27.760Z
+updated: 2024-12-08T17:32:14.924Z
 tags: 
   - screen-recording
   - ai video
@@ -55,7 +55,15 @@ Here is why they want to restore Windows Photo Viewer –
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1 to restore Windows Photo Viewer
 
@@ -65,16 +73,13 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -90,35 +95,16 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -144,15 +130,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-ignite-passion-the-top-10-inspirational-films/"><u>[New] Ignite Passion The Top 10 Inspirational Films</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-effortless-image-addition-guide-for-instagram-users/"><u>[Updated] In 2024, Effortless Image Addition Guide for Instagram Users</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-craft-your-story-with-vscos-editing-power-tools/"><u>2024 Approved Craft Your Story with VSCO’s Editing Power Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-comprehensive-guide-to-mastering-gopro-hero5-time-lapse-for-2024/"><u>A Comprehensive Guide to Mastering GoPro Hero5 Time-Lapse for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/accessible-gamers-soundtrack-without-restrictions/"><u>Accessible Gamers' Soundtrack Without Restrictions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/artistic-anomaly-top-10-unique-affordable-mac-drawers-free-for-2024/"><u>Artistic Anomaly Top 10 Unique, Affordable Mac Drawers (Free) for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-y28-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo Y28 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-11-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 11 Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oppo-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Oppo</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/update-on-immortals-release-fenyx-rising-is-now-launched/"><u>Update on Immortal's Release: Fenyx Rising Is Now Launched</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comparing-leading-names-in-4k-yt-video-to-mp3-tools/"><u>[New] Comparing Leading Names in 4K YT Video to MP3 Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-beginning-your-blog-journey-for-financial-gain/"><u>[Updated] 2024 Approved Beginning Your Blog Journey for Financial Gain</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-visual-treat-discover-these-14-text-animation-delights/"><u>[Updated] A Visual Treat Discover These 14 Text Animation Delights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-audio-to-art-crafting-music-videos-on-apple-devices/"><u>2024 Approved Audio to Art Crafting Music Videos on Apple Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-moments-right-ideal-perspectives-on-iphone/"><u>Capturing Moments Right Ideal Perspectives on iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-8-how-to-unlock-a-disabled-iphone-8-by-drfone-ios/"><u>Disabled iPhone 8 How to Unlock a Disabled iPhone 8?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/hp-stream-11-powerhouse-of-basic-pc-functions-in-a-slim-design/"><u>HP Stream 11: Powerhouse of Basic PC Functions in a Slim Design</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-achieving-unparalleled-detail-with-remote-screens/"><u>In 2024, Achieving Unparalleled Detail with Remote Screens</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-14-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, iPhone 14 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/methods-to-clear-up-obs-fullscreen-troubles-for-2024/"><u>Methods to Clear Up OBS Fullscreen Troubles for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/nourish-and-nurture-with-ai-the-ultimate-tool-for-a-flourishing-home-garden/"><u>Nourish and Nurture with AI: The Ultimate Tool for a Flourishing Home Garden</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/step-by-step-uploading-videos-to-instagram-on-desktop-for-2024/"><u>Step-by-Step Uploading Videos to Instagram on Desktop for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-voice-changers-guide-free-easy-pathways-for-auditory-enhancements/"><u>The Voice Changer's Guide Free, Easy Pathways for Auditory Enhancements</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-the-full-potential-of-media-player-through-subtitles/"><u>Unlock the Full Potential of Media Player Through Subtitles</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Isolating Image Moments From Videos Using Windows Photos Software"
-date: 2024-11-04T23:00:53.685Z
-updated: 2024-11-11T20:13:51.498Z
+date: 2024-12-02T16:01:34.765Z
+updated: 2024-12-08T17:33:22.657Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,10 @@ Creating a living image:
 
 ![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Now, you can see the living picture by tapping ‘Play’ button.
 
 These photos are stored in the ‘Pictures’ folder of your computer having ‘LI’ appended file names. Now, it’s time to save the living image as photo on your computer using Photos app.
@@ -64,27 +68,17 @@ In case, you are not able to save photos from video on Windows 10 Photos App. Th
 
 We are explaining the solutions here –
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Check the update
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Sign in a different account in Microsoft Store
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Alternative way to save photo from video
 
@@ -99,14 +93,15 @@ Here comes the guide –
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -115,10 +110,7 @@ We provided you some knowledge on how to save a photo from video Windows 10 Phot
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -136,18 +128,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-winning-the-game-of-tv-recording-on-a-budget-pc/"><u>[New] Winning the Game of TV Recording on a Budget PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/best-free-apple-iphone-15-pro-imei-checker-by-drfone-ios/"><u>Best Free Apple iPhone 15 Pro IMEI Checker</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/bridging-the-gap-luts-from-cg-central-to-movie-colors-for-2024/"><u>Bridging the Gap Luts From CG Central to Movie Colors for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/brightening-videos-android-tips/"><u>Brightening Videos Android Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/camera-editing-showdown-hero-vs-cubes-battle-of-the-screens-for-2024/"><u>Camera Editing Showdown Hero Vs. Cube's Battle of the Screens for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/canon-pro-editing-essentials-10plus-available-paid-and-free-choice-for-2024/"><u>Canon Pro-Editing Essentials – 10+ Available, Paid & Free Choice for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/canvas-mastery-streamlining-edges-and-enhancing-visuals/"><u>Canvas Mastery Streamlining Edges and Enhancing Visuals</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-top-hardware-picks-expert-insights-from-toms-hardware/"><u>Discover Top Hardware Picks - Expert Insights From Tom's Hardware</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-vivo-x90s-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo X90S phone? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 7 Plus</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-innovation-at-speed-how-to-make-stunning-slow-motion-content-with-an-android/"><u>In 2024, Innovation at Speed How to Make Stunning Slow-Motion Content with an Android</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-the-art-of-edible-entertainment-7-steps-to-perfect-plating-on-camera/"><u>In 2024, The Art of Edible Entertainment 7 Steps to Perfect Plating on Camera</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/revolutionize-your-soundtracks-a-comprehensive-guide-to-the-most-effective-voice-suppressing-technology-in-music-and-karaoke-production-for-2024/"><u>Revolutionize Your Soundtracks A Comprehensive Guide to the Most Effective Voice-Suppressing Technology in Music and Karaoke Production. For 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capturing-radiance-advanced-techniques-in-ps-hdr/"><u>[New] Capturing Radiance Advanced Techniques in PS HDR</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-bridging-avi-and-gif-with-filmoras-seamless-conversion-tools/"><u>[New] In 2024, Bridging AVI & GIF with Filmora's Seamless Conversion Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-beginners-guide-to-earning-on-reddit-top-13-simple-money-making-ideas/"><u>[New] The Beginner's Guide to Earning on Reddit Top 13 Simple Money-Making Ideas</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unlock-the-full-potential-of-facebook-the-best-5-chrome-extensions/"><u>[Updated] 2024 Approved Unlock the Full Potential of Facebook The Best 5 Chrome Extensions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-asus-proart-pa32u-4k-hdr-professional-monitor-review/"><u>2024 Approved ASUS ProArt PA32U 4K HDR Professional Monitor Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audio-storytelling-in-media-production-masterclass/"><u>Audio Storytelling in Media Production Masterclass</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-your-skills-with-our-full-periscope-guide/"><u>Elevating Your Skills with Our Full Periscope Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-iphone-13-pro-by-drfone-ios/"><u>How to Bypass iCloud Lock from iPhone 13 Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-techniques-for-precise-online-image-cropping/"><u>In 2024, Advanced Techniques for Precise Online Image Cropping</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-clearing-photos-expert-background-takedown-in-photopea/"><u>In 2024, Clearing Photos Expert Background Takedown in Photopea</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-hidden-narratives-unlocked-a-complete-snapguide/"><u>In 2024, Hidden Narratives Unlocked A Complete Snapguide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-nostalgia-in-streaming-restoring-yt-videos-removed/"><u>In 2024, Nostalgia in Streaming Restoring YT Videos Removed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1715701099379-indispensable-sandbox-journeys-await/"><u>Indispensable Sandbox Journeys Await!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/kodi-19-matrix-update-a-comprehensive-tutorial-for-installing-iconic-19-build/"><u>Kodi 19 Matrix Update: A Comprehensive Tutorial for Installing Iconic 19 Build</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-selecting-premium-free-srt-translation-services/"><u>Mastering the Art of Selecting Premium Free SRT Translation Services</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quieten-system-sounds-on-pc-and-mac-devices/"><u>Quieten System Sounds on PC and Mac Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seconds-needed-to-watch-an-hd-20mb-video/"><u>Seconds Needed to Watch an HD 20MB Video</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-fastest-path-to-amazing-iphone-time-lapses/"><u>The Fastest Path to Amazing iPhone Time-Lapses</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-artificial-intelligence-success-the-critical-role-of-data-integration-strategies-and-insights-zdnet/"><u>Unlocking Artificial Intelligence Success: The Critical Role of Data Integration - Strategies & Insights | ZDNet</u></a></li>
 </ul></div>
 

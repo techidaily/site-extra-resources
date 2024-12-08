@@ -1,7 +1,7 @@
 ---
 title: "\"Velvet Vaults  2022 Olympic Skaters\""
-date: 2024-11-06T00:57:13.882Z
-updated: 2024-11-11T23:12:08.972Z
+date: 2024-12-04T16:53:47.179Z
+updated: 2024-12-08T16:29:14.694Z
 tags: 
   - screen-recording
   - ai video
@@ -34,9 +34,17 @@ Nathan Chen of the United States reacts to winning the gold medal at the 2022 Be
 
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
 
@@ -46,6 +54,10 @@ Nathan Chen successful triumph has been four years in the making and it is a per
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
@@ -54,14 +66,11 @@ Russian Olympic Committee athletes won the gold medal at team event by a margin 
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
-Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
 
@@ -83,31 +92,11 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
 
 Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all the still photos and video footage clips you have collected about figure skating Olympics. You can trim them and maintain uniformity throughout.
 
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
 
@@ -116,10 +105,7 @@ Step 5: Select individual or multiple slides and add Transitions, Effects, Title
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -135,24 +121,21 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-capture-coastlines-best-surfer-cams/"><u>[New] Capture Coastlines Best Surfer Cams</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-conquer-the-art-of-slow-motion-expert-guide-to-making-beautifully-extended-video-online-using-photo-apps/"><u>[New] Conquer the Art of Slow Motion Expert Guide to Making Beautifully Extended Video Online Using Photo Apps</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-open-source-musical-aid-for-playing-games/"><u>[New] In 2024, Open Source Musical Aid for Playing Games</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-year-in-review-how-vivacut-is-shaping-the-future-of-video-editing/"><u>[Updated] A Year In Review How VivaCut Is Shaping the Future of Video Editing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-becoming-a-whatsapp-pro-uncovering-invaluable-tips-and-tricks/"><u>[Updated] Becoming a WhatsApp Pro Uncovering Invaluable Tips and Tricks</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-spectacular-shot-choices-top-7-4k-action-camera-selections-for-2024/"><u>[Updated] Spectacular Shot Choices Top 7 4K Action Camera Selections for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-essence-of-timelessness-instagrams-slow-motion-guide/"><u>[Updated] The Essence of Timelessness Instagram's Slow-Motion Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehensive-adobe-storage-manual-and-beyond-options-for-2024/"><u>Comprehensive Adobe Storage Manual & Beyond Options for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/comprehensive-guide-how-to-retrieve-deleted-wechat-conversations-without-using-previous-saves/"><u>Comprehensive Guide: How to Retrieve Deleted WeChat Conversations Without Using Previous Saves</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-pro-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro without Passcode or Face ID</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/hustle-humor-fast-track-funny-with-kapwing/"><u>Hustle Humor Fast-Track Funny with Kapwing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-examination-editrite-pro-suite-the-final-word-2023/"><u>In 2024, Comprehensive Examination EditRite Pro Suite – The Final Word, 2023</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-reno-8t-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo Reno 8T FRP</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/onlineoffline-animation-revolution-with-zero-price-tag/"><u>Online/Offline Animation Revolution with Zero Price Tag</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfect-every-frame-windows-11-and-storyremix-combo-guide-to-video-editing-for-2024/"><u>Perfect Every Frame Windows 11 & StoryRemix Combo Guide to Video Editing for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/perfect-pairing-finding-top-beats-for-unwrapping-videos/"><u>Perfect Pairing Finding Top Beats for Unwrapping Videos</u></a></li>
-<li><a href="https://win-lab.techidaily.com/recovering-deleted-drives-on-windows-10-and-11-a-step-by-step-guide/"><u>Recovering Deleted Drives on Windows 10 and 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/secure-iphone-data-extraction-unlocking-lost-information/"><u>Secure iPhone Data Extraction: Unlocking Lost Information</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-the-world-of-haptic-navigation-systems/"><u>Unveiling the World of Haptic Navigation Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-attention-magnet-article-initiator/"><u>[New] Attention Magnet Article Initiator</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-future-of-action-cam-unveiled-intova-x-for-2024/"><u>[New] The Future of Action Cam Unveiled Intova X for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-prime-gear-selection-must-have-supplementary-gopro-items/"><u>[Updated] 2024 Approved Prime Gear Selection Must-Have Supplementary GoPro Items</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-4k-clarity-unleashed-an-intense-study-on-the-31mu97-b-monitor/"><u>[Updated] 4K Clarity Unleashed - An Intense Study on the 31MU97-B Monitor</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-5-inspirational-winter-bgs-to-heat-your-videos/"><u>[Updated] In 2024, 5 Inspirational Winter Bgs to Heat Your Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-100-unique-instagram-captions-to-show-yourself-to-the-world/"><u>2024 Approved 100 Unique Instagram Captions to Show Yourself to the World</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-complete-exploration-of-morphvox-technology-for-voice-transformation/"><u>2024 Approved Complete Exploration of MorphVOX Technology for Voice Transformation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/current-vr-devices-explored/"><u>Current VR Devices Explored</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210859646-9781667452937-expat-wife-happy-life/"><u>Expat Wife, Happy Life! | Free Book</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/five-innovative-apple-podcast-options/"><u>Five Innovative Apple Podcast Options</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2660419-9781501139109-good-grief/"><u>Good Grief | Free Book</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-an-engaging-review-vlog-for-everyday-items/"><u>In 2024, Crafting an Engaging Review Vlog for Everyday Items</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-iphone-14-pro-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from iPhone 14 Pro without Password?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-list-10-best-free-whiteboard-animation-programs-for-2024/"><u>New The Ultimate List 10 Best Free Whiteboard Animation Programs for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/snickerslide-lighten-up-your-online-presence/"><u>SnickerSlide Lighten Up Your Online Presence</u></a></li>
 </ul></div>
 
