@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Amplify Your Media  Integrating Text Into Windows Video Files via Photos\""
-date: 2024-12-06T16:38:43.405Z
-updated: 2024-12-08T16:41:51.709Z
+date: 2024-12-12T16:39:45.159Z
+updated: 2024-12-14T17:11:01.966Z
 tags: 
   - screen-recording
   - ai video
@@ -33,10 +33,6 @@ Adding the titles/text to video is a great way to explain the people about a cer
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Add Titles/Text to Video on Photos in Windows 10
 
 Do you wish to add titles/text to video on Photos in Windows 10 for your video projects? You may not get several options for video editing in spite of some powerful addition of application in Microsoft Store. But, the Windows 10 Photos app feature offers an add-on for creating video from your phone’s media. Let’s learn how to add titles/text to video on Photos in Windows 10.
@@ -46,18 +42,22 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/add-text-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * You may also add the image from the project library to the storyboard if you cannot find the image in the preset categories
 * Resize the image if black parts appear by clicking on resize and then, remove black parts
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/resize-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * To add titles/text to video on Photos in Windows 10 that perfectly match the background, type out the title in the text box at the top right corner
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
@@ -71,7 +71,7 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
@@ -80,10 +80,6 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
@@ -91,7 +87,7 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -99,6 +95,10 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -115,20 +115,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-best-game-streaming-software-you-should-know/"><u>[New] Best Game Streaming Software You Should Know</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-the-power-of-politeness-in-growing-your-audience/"><u>[New] In 2024, The Power of Politeness in Growing Your Audience</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-visionary-tools-free-environmental-props/"><u>[New] Visionary Tools Free Environmental Props</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-crafting-the-perfect-sonic-storytelling-on-social-media/"><u>[Updated] Crafting the Perfect Sonic Storytelling on Social Media</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-cross-device-iptv-broadcasting/"><u>[Updated] In 2024, Cross-Device IPTV Broadcasting</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-itel-p55t-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Itel P55T? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehensive-strategies-for-windows-media-players-audio-operations/"><u>Comprehensive Strategies for Windows Media Player's Audio Operations</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cutting-edge-technology-of-nikon-d7500-reviewed/"><u>Cutting-Edge Technology of Nikon D7500 Reviewed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/eliminating-noise-in-photos-using-photopeas-tools/"><u>Eliminating Noise in Photos Using Photopea's Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-knowledge-base-using-googles-ai-for-speech-recognition/"><u>Essential Knowledge Base Using Google's AI for Speech Recognition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-new-horizons-with-copilotplus-pcs-ai-features-is-the-buzz-worth-it/"><u>Exploring New Horizons with Copilot+ PC's AI Features - Is The Buzz Worth It?</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/free-software-download-official-winx-streaming-and-conversion-suite-with-dvd-ripping-and-hd-video-tools/"><u>FREE Software Download: Official WinX Streaming & Conversion Suite with DVD Ripping and HD Video Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-configuring-picture-in-picture-for-apple-browsers/"><u>In 2024, Configuring Picture-in-Picture for Apple Browsers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-the-fastest-path-to-amazing-iphone-time-lapses/"><u>In 2024, The Fastest Path to Amazing iPhone Time-Lapses</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-art-of-video-grading-a-practical-handbook/"><u>The Art of Video Grading A Practical Handbook</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-4k-odyssey-begins-here-exploring-the-eizo-cg318-4k-monitor/"><u>[New] A 4K Odyssey Begins Here – Exploring the EIZO CG318-4K Monitor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comparative-analysis-luminances-hdr-prowess/"><u>[New] Comparative Analysis Luminance's HDR Prowess</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-adaptability-and-agility-key-attributes-for-thriving-in-a-changing-market-landscape-for-2024/"><u>[Updated] Adaptability & Agility Key Attributes for Thriving in a Changing Market Landscape for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-cutting-edge-speech-to-text-googles-pathway-for-precision/"><u>[Updated] In 2024, Cutting-Edge Speech-to-Text Google’s Pathway for Precision</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-skype-recording-top-10-picks-for-optimal-audio/"><u>[Updated] In 2024, Skype Recording Top 10 Picks for Optimal Audio</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/515-price-on-hp-victus-15-for-gamers-during-anti-prime-day-at-best-buy-latest-deal-alert-digital-trends/"><u>$515 Price on HP Victus 15 for Gamers During Anti-Prime Day at Best Buy – Latest Deal Alert | Digital Trends</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/1-step-by-step-guide-saving-live-channels-from-younow-for-later-viewing/"><u>1. Step-by-Step Guide: Saving Live Channels From YouNow for Later Viewing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/assessing-different-versions-available-for-windows-movie-maker/"><u>Assessing Different Versions Available for Windows Movie Maker</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/closing-an-outdated-linkedin-profile-a-step-by-step-guide/"><u>Closing an Outdated LinkedIn Profile A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-steps-from-production-to-apple-store-placement/"><u>Essential Steps From Production to Apple Store Placement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-script-to-airwaves-step-by-step-guide-for-ios-audio-recording/"><u>From Script to Airwaves Step-by-Step Guide for iOS Audio Recording</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gratis-business-presentation-boosting-plugins-and-templates/"><u>Gratis Business Presentation Boosting Plugins & Templates</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-15-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 15 Plus Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/stay-steady-in-virtual-reality-with-htcs-tips/"><u>Stay Steady in Virtual Reality with HTC's Tips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-your-network-interface-in-windows-7-to-zt/"><u>Streamlining Your Network Interface in Windows 7 to ZT</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tiktok-tricks-for-striking-visual-results-for-2024/"><u>TikTok Tricks for Striking Visual Results for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-3-email-marketing-pitfalls-of-2naughts-essential-tips-for-effective-communication-with-your-subscriber-base-via-massmail/"><u>Top 3 Email Marketing Pitfalls of 2Naughts: Essential Tips for Effective Communication with Your Subscriber Base via Massmail</u></a></li>
 </ul></div>
 

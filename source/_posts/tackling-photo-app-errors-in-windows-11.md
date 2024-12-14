@@ -1,7 +1,7 @@
 ---
 title: "Tackling Photo App Errors in Windows 11"
-date: 2024-12-02T17:39:13.459Z
-updated: 2024-12-08T17:40:46.461Z
+date: 2024-12-08T18:06:46.680Z
+updated: 2024-12-14T16:27:27.709Z
 tags: 
   - screen-recording
   - ai video
@@ -40,15 +40,7 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 
 **You may also like:** [How to Solve Windows 10 Photos App Crashes Effectively >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix Windows 10 Photos app crashes
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 1: Use the Troubleshooter
 
@@ -62,7 +54,7 @@ Here is how to troubleshoot –
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
@@ -79,7 +71,15 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 3: Reset it
 
@@ -90,6 +90,10 @@ Here is how can you reset it –
 1. Go to ‘Windows 10 Start Menu’ and then click ‘Settings’. Now, click the ‘Apps (Apps & Features)’ option followed by the ‘Photos’ app.
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 4: Repair Photos App package
 
@@ -120,14 +124,10 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -144,20 +144,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-core-6-social-media-tools-for-corporate-engagement/"><u>[New] Core 6 Social Media Tools for Corporate Engagement</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-is-active-presenter-8-the-peak-of-recording/"><u>[New] In 2024, Is Active Presenter 8 the Peak of Recording?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-new-lens-on-sony-s3700-blu-ray-play-reviews/"><u>[New] New Lens on Sony S3700 Blu-Ray PLAY Reviews</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-action-packed-snapshots-the-bold-polaroid-xs-100i-review/"><u>[Updated] Action-Packed Snapshots The Bold Polaroid XS 100I Review</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-conquering-challenges-advanced-hdr-workflows-in-ps/"><u>[Updated] Conquering Challenges Advanced HDR Workflows in PS</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-loom-essentials-perfecting-the-art-of-screen-recording/"><u>[Updated] In 2024, Loom Essentials Perfecting the Art of Screen Recording</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-mirthful-media-youtubes-top-20-for-a-chuckle/"><u>[Updated] Mirthful Media YouTube's Top 20 for a Chuckle</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-expert-guide-to-skype-recordings-the-most-effective-free-and-paid-ways/"><u>2024 Approved Expert Guide to Skype Recordings - The Most Effective Free & Paid Ways</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-understanding-what-makes-asmr-videos-special/"><u>2024 Approved Understanding What Makes ASMR Videos Special</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/asus-rt-ac68u-review/"><u>Asus RT-AC68U Review</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-androids-video-reversion-secrets-unveiled/"><u>In 2024, Android's Video Reversion Secrets Unveiled</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-fixed-camera-resumes-with-obs/"><u>In 2024, Fixed Camera Resumes with OBS</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/perfecting-the-introduction-writing-impressive-summaries/"><u>Perfecting the Introduction Writing Impressive Summaries</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/snapshotsculptor-ultimate-photo-mosaic-builder/"><u>SnapshotSculptor Ultimate Photo Mosaic Builder</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/step-by-step-guide-to-swap-fins-sounds-on-windows/"><u>Step-by-Step Guide to Swap Fins' Sounds on Windows</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-your-step-by-step-guide-to-previewing-your-off-facebook-life/"><u>[New] 2024 Approved Your Step by Step Guide to Previewing Your Off-Facebook Life</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-building-profitable-collaborations-with-brands-on-youtube/"><u>[New] Building Profitable Collaborations with Brands on Youtube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-optimal-android-apps-for-clear-screen-recordings-for-2024/"><u>[New] Optimal Android Apps for Clear Screen Recordings for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagrams-newest-filters-how-to-use-them-for-impact/"><u>[Updated] 2024 Approved Instagram's Newest Filters How to Use Them for Impact</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-top-minded-channels-ultimate-yt-educational-guide/"><u>[Updated] In 2024, Top Minded Channels Ultimate YT Educational Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-choosing-between-independent-or-mnc-status/"><u>[Updated] The Art of Choosing Between Independent or MNC Status</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beyond-imagination-exploring-ar-worlds/"><u>2024 Approved Beyond Imagination Exploring AR Worlds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/diving-into-the-depths-of-facebooks-secret-tracking/"><u>Diving Into the Depths of Facebook's Secret Tracking</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-streamline-your-skype-experience-with-obs-recordings/"><u>In 2024, Streamline Your Skype Experience with OBS Recordings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/learn-to-convert-youtube-videos-on-twitter-downloads/"><u>Learn to Convert YouTube Videos on Twitter Downloads</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ring-chroma-key-techniques-for-professional-videos-for-2024/"><u>Mastering Chroma Key Techniques for Professional Videos for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premiere-pro-power-tools-your-ultimate-2023-samples-free/"><u>Premiere Pro Power Tools - Your Ultimate 2023 Samples (FREE)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/techniques-for-correcting-motion-blur-from-drones/"><u>Techniques for Correcting Motion Blur From Drones</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-8-leading-laptop-manufacturers-a-comprehensive-guide/"><u>Top 8 Leading Laptop Manufacturers : A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/video-speed-mastery-selecting-premium-pc-monitor-controls/"><u>Video Speed Mastery Selecting Premium PC Monitor Controls</u></a></li>
 </ul></div>
 

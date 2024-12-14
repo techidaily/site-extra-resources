@@ -1,7 +1,7 @@
 ---
 title: "\"Cinematic Brilliance  Mastering Video Lighting Techniques for 2024\""
-date: 2024-12-06T17:46:11.301Z
-updated: 2024-12-08T16:01:56.317Z
+date: 2024-12-11T17:42:25.610Z
+updated: 2024-12-14T17:04:38.328Z
 tags: 
   - screen-recording
   - ai video
@@ -23,7 +23,7 @@ Many people are wondering how to set up lighting for video shooting. While there
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
@@ -53,7 +53,7 @@ For this tutorial, we will use the Three-Point Lighting technique:
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
@@ -63,7 +63,7 @@ The key light is the main light that illuminates the subject. You can place it i
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
@@ -72,6 +72,10 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
 
 ##### Step4 Use Practical Lights
@@ -79,6 +83,10 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
@@ -98,19 +106,11 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -146,15 +146,14 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-beat-the-standard-a-complete-tutorial-for-adding-ringtones-and-sounds-to-android/"><u>[New] Beat the Standard A Complete Tutorial for Adding Ringtones & Sounds to Android</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-interplatform-video-uploading-twitter-and-tumblr-synced/"><u>[New] In 2024, Interplatform Video Uploading Twitter & Tumblr Synced</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-steady-visual-storytelling-techniques-for-2024/"><u>[New] Steady Visual Storytelling Techniques for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-uncover-hidden-youtube-discussions/"><u>[Updated] 2024 Approved Uncover Hidden YouTube Discussions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-soundsmiths-scripture-on-crossfading-in-logic/"><u>[Updated] The Soundsmith's Scripture on Crossfading in Logic</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-behind-virtual-walls-a-deep-dive-into-6-metaverse-cases/"><u>2024 Approved Behind Virtual Walls A Deep Dive Into 6 Metaverse Cases</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-your-kodi-experience-with-the-easy-groku-addon-setup-tutorial/"><u>Enhance Your Kodi Experience with the Easy Groku Addon Setup Tutorial</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-compiled-lists-best-online-stores-for-youtube-tones-and-videos/"><u>In 2024, Compiled Lists Best Online Stores for Youtube Tones and Videos</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-honor-90-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Honor 90 Pro Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ranking-the-best-sites-for-superior-vectors/"><u>Ranking the Best Sites for Superior Vectors</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-quick-alteration-youtube-vids-fit-mac-displays-for-2024/"><u>[Updated] Quick Alteration YouTube Vids Fit Mac Displays for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-dive-into-the-world-of-superior-no-cost-webm-viewers/"><u>2024 Approved Dive Into the World of Superior No-Cost WebM Viewers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-unveiling-the-best-metaverse-vr-headsets-and-wearables/"><u>2024 Approved Unveiling the Best Metaverse VR Headsets & Wearables</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/30-cutting-edge-tiktok-profile-photo-ideas-for-2024/"><u>30 Cutting-Edge TikTok Profile Photo Ideas for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-decade-of-dreamy-vacation-flicks-top-10-titles/"><u>A Decade of Dreamy Vacation Flicks Top 10 Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-play-the-full-version-of-baldurs-gate-3-on-an-m1-or-m2-mac-using-crossover/"><u>How to Play the Full Version of Baldur’s Gate 3 on an M1 or M2 Mac Using CrossOver</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-behind-the-scenes-to-the-best-free-meme-designs/"><u>In 2024, Behind-The-Scenes to the Best FREE Meme Designs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovating-your-reality-essential-vr-peripherals-guide/"><u>Innovating Your Reality Essential VR Peripherals Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unraveling-the-mystery-choosing-music-for-movie-trailers/"><u>Unraveling the Mystery Choosing Music for Movie Trailers</u></a></li>
 </ul></div>
 

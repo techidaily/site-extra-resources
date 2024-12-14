@@ -1,7 +1,7 @@
 ---
 title: Warrior's Guide to Enhanced Game Flow - Boosting FPS & Fixing Stutter in Mobile Battles
-date: 2024-12-07T16:02:55.693Z
-updated: 2024-12-08T17:04:31.619Z
+date: 2024-12-07T16:59:24.361Z
+updated: 2024-12-14T16:24:55.492Z
 tags:
   - win11
   - win10
@@ -49,17 +49,9 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/close-bandwidth-hogging-program.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Hopefully the lagging issue doesn’t return after you close the bandwidth-hogging programs. If that’s the case, we’d suggest you play FH5 with the least programs running in the background according to your internet service capacity. Or, consult your internet service provider and consider upgrading your plan.
 
 If the lagging issue persists, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Test your internet connection
 
@@ -71,10 +63,6 @@ If the lagging issue persists, try the next fix.
 * If your internet is slow, it could lead to an unstable connection. You can google “Internet speed test” and pick a tool to **test your Internet speed** . However, when your Internet connection is unreasonably slow, consider contacting your Internet provider for help.
 
  If your internet connection is just fine and you still encounter lags while playing Forza Horizon 5, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Update your network driver
 
@@ -95,7 +83,7 @@ If the lagging issue persists, try the next fix.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -117,8 +105,16 @@ If the lagging issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-09-27.jpg)
 4. Click **Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-10-08.jpg)
 5. Scroll down to see if Forza Horizon 5 is on the exception list. If so, that means the game is allowed through your firewall, and you can [jump to the next fix](https://tools.techidaily.com/drivereasy/download/) . If you can’t find Forza Horizon 5 in the exception list, follow the steps below to unblock the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Add Forza Horizon 5 to the exception list
 
@@ -130,7 +126,7 @@ If the lagging issue persists, try the next fix.
 3. Navigate to Forza Horizon 5 game folders and add the game executable to the list.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Find Forza Horizon 5 on the list,**tick the checkbox of Private network** , and click**OK** .  
@@ -147,10 +143,14 @@ If the lagging issue persists, try the next fix.
 2. Go to the**Details** tab. Right-click Forza Horizon 5 and**set the priority to high** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-49-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this fix doesn’t help with your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6: Configure your DNS settings
@@ -178,7 +178,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
@@ -192,18 +192,18 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
@@ -212,7 +212,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this fix doesn’t solve your problem, no worries, there’s one more fix you can try.
@@ -245,19 +245,16 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-unlock-youtube-success-with-top-8-thumbnail-strategies/"><u>[New] 2024 Approved Unlock YouTube Success with Top 8 Thumbnail Strategies</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-comprehensive-setup-steps-for-wm6/"><u>[New] Comprehensive Setup Steps for WM6</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-laptop-editing-avoiding-inshot-dependence/"><u>[New] Laptop Editing Avoiding Inshot Dependence</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-complete-manual-for-logging-and-storing-periscope-video/"><u>[Updated] A Complete Manual for Logging & Storing Periscope Video</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-best-photo-enhancing-apps-for-smartphones-with-overlays-top-10/"><u>[Updated] Best Photo-Enhancing Apps for Smartphones with Overlays (Top 10)</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-how-to-disableremove-youtube-shorts-permanently-in-2024/"><u>[Updated] How to Disable/Remove YouTube Shorts Permanently, In 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/driver-fixes-for-common-lg-monitor-compatibility-issues-in-windows-operating-systems/"><u>Driver Fixes for Common LG Monitor Compatibility Issues in Windows Operating Systems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhanced-visual-effects-utilizing-3dlut-on-phone/"><u>Enhanced Visual Effects Utilizing 3DLUT on Phone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/evaluating-the-iphone-14s-performance-sufficient-and-on-point-perfection-zdnet-analysis/"><u>Evaluating the iPhone 14'S Performance: Sufficient and On-Point Perfection | ZDNET Analysis</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fantastic-feat-mh-worlds-graphical-glitch-ends/"><u>Fantastic Feat! MH World's Graphical Glitch Ends</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/journey-into-joke-making-mastering-the-art-of-gif-memes/"><u>Journey Into Joke-Making Mastering the Art of GIF Memes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/leading-six-innovative-full-frame-cinematographers/"><u>Leading Six Innovative Full Frame Cinematographers</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211064818-9789358593440-the-worlds-sixteen-crucified-saviors-or-christianity-before-christ/"><u>The World'S Sixteen Crucified Saviors Or, Christianity Before Christ | Free Book</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-advanced-gadget-reviews/"><u>Tom's Tech Insights: Advanced Gadget Reviews</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-a-beginners-guide-to-use-snapseed-photo-editing-features/"><u>[New] 2024 Approved A Beginner's Guide to Use Snapseed Photo Editing Features</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-a-guide-to-finding-hidden-youtube-treasures/"><u>[New] 2024 Approved A Guide to Finding Hidden YouTube Treasures</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-brightening-videos-android-tips/"><u>[New] Brightening Videos Android Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-memorable-dialogues-a-screenwriters-guide/"><u>[New] Crafting Memorable Dialogues A Screenwriter's Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-2024s-best-cameras-unveiled-high-quality-videography/"><u>[Updated] 2024'S Best Cameras Unveiled - High-Quality Videography</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-auditory-interface-excellence-for-podcasters/"><u>2024 Approved Auditory Interface Excellence For Podcasters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/androids-photo-editor-showdown-can-pickup-claim-victory/"><u>Android's Photo Editor Showdown Can PickUp Claim Victory?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-collection-for-collage-crafting/"><u>In 2024, Comprehensive Collection for Collage Crafting</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-artists-roadmap-to-professional-growth/"><u>In 2024, The Artist's Roadmap to Professional Growth</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-timeless-stop-motion-gems-in-the-top-15/"><u>In 2024, Timeless Stop-Motion Gems in the Top 15</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-ultimate-list-of-versatile-vlc-alternatives-ideal-mkv-players-across-all-devices/"><u>The Ultimate List of Versatile VLC Alternatives: Ideal MKV Players Across All Devices</u></a></li>
 </ul></div>
 

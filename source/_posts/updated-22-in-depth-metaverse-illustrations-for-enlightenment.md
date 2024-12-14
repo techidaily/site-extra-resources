@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 22 In-Depth Metaverse Illustrations for Enlightenment\""
-date: 2024-12-05T16:52:25.072Z
-updated: 2024-12-08T16:39:37.044Z
+date: 2024-12-11T17:01:53.160Z
+updated: 2024-12-14T17:54:04.887Z
 tags: 
   - screen-recording
   - ai video
@@ -62,10 +62,6 @@ Here are some great examples of the Metaverse.
 
 Ready Player One, the virtual world in New York Times bestselling books is one of the top examples of what the Metaverse might look like. Science fiction is set in 2045 where people are looking to escape the world affected by climate change, poverty, and war by taking shelter in OASIS- the virtual society that has its own currency.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Facebook’s Horizon
 
 Facebook is also proceeding toward the Metaverse with a growing VR world, Horizon. The social media platform describes this as a social experience where you will be able to play, explore, and create along with other VR.
@@ -109,10 +105,6 @@ It is one of the best NFTs at present. They are ironic and simple drawings in th
 ### 3\. Get a Virtual Reality Headset
 
 You have to get a virtual reality headset. The primary idea is to be immersed in the digital as it will make you more present. With this, you are going to bump into something that stays in the everyday world, such as the coffee table.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Connect with Other People
 
@@ -167,7 +159,7 @@ Here are some great examples of the Metaverse.
 Ready Player One, the virtual world in New York Times bestselling books is one of the top examples of what the Metaverse might look like. Science fiction is set in 2045 where people are looking to escape the world affected by climate change, poverty, and war by taking shelter in OASIS- the virtual society that has its own currency.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Facebook’s Horizon
@@ -198,13 +190,25 @@ A mirror world is a version of the actual world that is digitally rendered where
 
 ![Metaverse Examples Stranger Things](https://images.wondershare.com/filmora/article-images/2021/metaverse-examples-stranger-things.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: What to Prepare Before Joining the Metaverse?
 
 Here are a few tips that will help you get started with the Metaverse.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Discover NFTS
 
 Technology loves acronyms. NFT means non-fungible token. It has become really popular at the present time. NFT is a coded program, which has been added to JPG for certifying its authentic, unique, and exclusive property when it is added to the electronic wallet. But fashion NFTs are extremely luxurious.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Find Your PFP
 
@@ -213,10 +217,6 @@ It is one of the best NFTs at present. They are ironic and simple drawings in th
 ### 3\. Get a Virtual Reality Headset
 
 You have to get a virtual reality headset. The primary idea is to be immersed in the digital as it will make you more present. With this, you are going to bump into something that stays in the everyday world, such as the coffee table.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Connect with Other People
 
@@ -266,13 +266,13 @@ Today, we only have the primitive forerunners of a real Metaverse, Minecraft, Ro
 
 Here are some great examples of the Metaverse.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ready Player One
 
 Ready Player One, the virtual world in New York Times bestselling books is one of the top examples of what the Metaverse might look like. Science fiction is set in 2045 where people are looking to escape the world affected by climate change, poverty, and war by taking shelter in OASIS- the virtual society that has its own currency.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Facebook’s Horizon
 
@@ -281,10 +281,6 @@ Facebook is also proceeding toward the Metaverse with a growing VR world, Horizo
 ### 3\. Fortnite
 
 In the last few, Tim Sweeney, the CEO of Fortnite, has made a reference to establishing this game more than a simple game. In the last year, 12.3 million people have been a part of a virtual concert by Travis Scott, the rapper, within Fortnite. Thus, it is one of the biggest gaming events.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. IMVU
 
@@ -307,7 +303,7 @@ A mirror world is a version of the actual world that is digitally rendered where
 ![Metaverse Examples Stranger Things](https://images.wondershare.com/filmora/article-images/2021/metaverse-examples-stranger-things.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: What to Prepare Before Joining the Metaverse?
@@ -315,7 +311,7 @@ A mirror world is a version of the actual world that is digitally rendered where
 Here are a few tips that will help you get started with the Metaverse.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Discover NFTS
@@ -335,6 +331,10 @@ You have to get a virtual reality headset. The primary idea is to be immersed in
 As you already know, the Metaverse is a social platform. There are going to be many people there. They will be represented as an avatar. But a few of these might be virtual agents, bots, and artificial intelligence manifestations. If you want, you can hang out with many people in this virtual world. As a matter of fact, you will also be able to do many things together. This social aspect might be the focus of Facebook’s Metaverse that is presented in its history as a social network.
 
 ![prepare join metaverse](https://images.wondershare.com/filmora/article-images/2021/prepare-join-metaverse.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Metaverse advocates and a few researchers think that communication is going to be more natural with the help of video conferencing as you will be able to use gaze to show the person you are addressing. In fact, your avatar might also walk over to sit next to another avatar.
 
@@ -357,10 +357,6 @@ Metaverse is still under development but several companies have already started 
 02 [What Can You Do in the Metaverse?](#part2)
 
 03 [What to Prepare Before Joining the Metaverse?](#part3)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: What a Metaverse Could Look Like?
 
@@ -386,6 +382,10 @@ Here are some great examples of the Metaverse.
 
 Ready Player One, the virtual world in New York Times bestselling books is one of the top examples of what the Metaverse might look like. Science fiction is set in 2045 where people are looking to escape the world affected by climate change, poverty, and war by taking shelter in OASIS- the virtual society that has its own currency.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Facebook’s Horizon
 
 Facebook is also proceeding toward the Metaverse with a growing VR world, Horizon. The social media platform describes this as a social experience where you will be able to play, explore, and create along with other VR.
@@ -400,11 +400,11 @@ This is an avatar-based 3D social network where you will get to shop, interact w
 
 ![Metaverse Example IMVU](https://images.wondershare.com/filmora/article-images/2021/metaverse-examples-imvu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Source: findmesimilar.com
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Somnium Space
 
@@ -474,14 +474,24 @@ Metaverse is still under development but several companies have already started 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-behind-the-scenes-choosing-ideal-winter-backdrops/"><u>[Updated] In 2024, Behind the Scenes Choosing Ideal Winter Backdrops</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-perfect-your-images-with-polarr-a-complete-photography-resource/"><u>[Updated] Perfect Your Images with Polarr A Complete Photography Resource</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-your-podcasts-rss-feed-a-step-by-step-guide/"><u>2024 Approved Crafting Your Podcast's RSS Feed A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/achieving-smooth-audio-segmentation-with-premier-for-2024/"><u>Achieving Smooth Audio Segmentation with Premier for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/captivating-collections-frames-and-organizers-of-the-future-for-2024/"><u>Captivating Collections Frames & Organizers of the Future for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-se-2022-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone SE (2022) without Losing Data? | Stellar</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-oppo-a59-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Oppo A59 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-the-world-of-pixiz-turning-stills-into-storytelling-video/"><u>Navigating the World of Pixiz Turning Stills Into Storytelling Video</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-realme-c51-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Realme C51</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-adding-depth-to-narratives-through-b-clips/"><u>[New] Adding Depth to Narratives Through B-Clips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-optimal-windows-video-calls-4-1-picks/"><u>[New] Optimal Windows Video Calls #4-#1 Picks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-understanding-the-dynamics-of-spotify-advertising/"><u>[New] Understanding the Dynamics of Spotify Advertising</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-craft-impressive-images-with-photoshops-radial-distortion-features/"><u>[Updated] Craft Impressive Images with Photoshop's Radial Distortion Features</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-step-by-step-guide-ps4-gaming-streams-using-obs-for-2024/"><u>[Updated] Step-by-Step Guide PS4 Gaming Streams Using OBS for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-21-vegas-pros-impact-on-sports-betting-analysis/"><u>2024 Approved '21 Vegas Pro's Impact on Sports Betting Analysis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-7-streaming-tools-for-mac-users-for-2024/"><u>Best 7 Streaming Tools for Mac Users for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/edit-like-a-pro-best-gopro-video-editing-software-besides-gopro-studio-for-2024/"><u>Edit Like a Pro Best GoPro Video Editing Software (Besides GoPro Studio) for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-selection-of-podcasts-on-googles-shelf/"><u>Elite Selection of Podcasts on Google's Shelf</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/evolving-realities-the-modern-vr-sphere-for-2024/"><u>Evolving Realities The Modern VR Sphere for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/expert-analysis-of-sonys-high-definition-video-gear-for-2024/"><u>Expert Analysis of Sony's High-Definition Video Gear for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-standard-to-spectacular-the-transformative-power-of-high-dynamic-range/"><u>From Standard to Spectacular The Transformative Power of High Dynamic Range</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ideas-on-improving-gopros-energy-management/"><u>Ideas on Improving GoPro's Energy Management</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-zte-nubia-z60-ultra-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends ZTE Nubia Z60 Ultra without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-approaches-to-nba-game-broadcasting/"><u>Innovative Approaches to NBA Game Broadcasting</u></a></li>
+<li><a href="https://common-error.techidaily.com/minecraft-opengl-problem-solving-a-comprehensive-fix-it-manual/"><u>Minecraft OpenGL Problem Solving: A Comprehensive Fix-It Manual</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mkv-playback-mac-app-selection-guide/"><u>MKV Playback Mac App Selection Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/questioning-your-assumptions-six-reasons-to-distrust-ai/"><u>Questioning Your Assumptions: Six Reasons to Distrust AI</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/streamlined-setup-getting-started-with-your-acer-predator-xb27u-drivers/"><u>Streamlined Setup: Getting Started with Your Acer Predator XB27U Drivers</u></a></li>
 </ul></div>
 

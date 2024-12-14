@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Bold Creation  Mastering Timelapses & Animations with Movie Maker\""
-date: 2024-12-04T16:57:14.156Z
-updated: 2024-12-08T16:45:28.553Z
+date: 2024-12-07T18:23:16.343Z
+updated: 2024-12-14T16:04:59.287Z
 tags: 
   - screen-recording
   - ai video
@@ -23,7 +23,7 @@ Wondering how to make animation in Windows Movie Maker? As storytelling is the f
 Animated video is a rich, captivating medium that will make your main arguments stand out. You can use Windows Movie Maker effects as it has far lower resource needs than you may anticipate while yet providing all the advantages of a visual medium. The difficulty is in turning that central idea into a direct, concise tale that will hold the attention of your audience. Feel free to try out various combinations while using the Windows Movie Maker animation tool since you can always quickly delete an effect after applying it. Learn more about the best animation video maker software for Windows in this guide.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. Steps to Create Animation with Windows Movie Maker
@@ -36,15 +36,7 @@ On your PC, launch Windows Movie Maker. Windows Movie Maker, however, has to be 
 
 ![import video to movie maker](https://images.wondershare.com/filmora/article-images/2022/09/import-video-to-movie-maker.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** You have the option to upload one file at a time or many files simultaneously.
 
@@ -53,6 +45,10 @@ On your PC, launch Windows Movie Maker. Windows Movie Maker, however, has to be 
 If you wish to clip off a section, go to "Edit" under "Video Tools" and choose the "Split" option. Depending on where you place the cursor during the section, the software will divide it into two halves. If you want to remove certain snippets, just touch the clip to reveal the context menu and choose "Remove" or "Delete" from the keyboard.
 
 ![preview video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/preview-video-movie-maker.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step3Open the Animation Tab
 
@@ -73,7 +69,7 @@ When a transition is applied, a washed-out diagonal zone on the clip in the time
 ![save animation video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/save-animation-video-movie-maker.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. Movie Maker Alternative to Add Animations
@@ -122,6 +118,10 @@ If you wish to clip off a section, go to "Edit" under "Video Tools" and choose t
 
 ![preview video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/preview-video-movie-maker.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3Open the Animation Tab
 
 You may add two distinct types of animations—Transitions and Pan and Zoom—to video clips or photographs using the Animations window on the ribbon. The dropdown menu next to "Speed" in the "Edit" tab may be expanded to change the speed of a video clip. The 'Duration' dropdown menu allows you to choose how long a certain image will be shown in a movie.
@@ -134,15 +134,15 @@ Between two multimedia portions, a transition effect may be added. In the "Anima
 
 ![add transitions movie maker](https://images.wondershare.com/filmora/article-images/2022/09/add-transitions-movie-maker.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step5Save the Video
 
 When a transition is applied, a washed-out diagonal zone on the clip in the timeline indicates where the transition starts and finishes. Additionally, you have a choice in the sequence in which the effects are used. This may change how the movie is finally shown depending on the Effects, you choose. Once you're done, click Apply.
 
 ![save animation video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/save-animation-video-movie-maker.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. Movie Maker Alternative to Add Animations
 
@@ -208,24 +208,22 @@ Simple movies may be easily made using Windows Live Movie Maker. With Windows Vi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-connoisseurs-compendium-budget-friendly-photography-havens/"><u>[New] Connoisseur's Compendium Budget-Friendly Photography Havens</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-concept-to-reality-polarr-photo-editor-simplified/"><u>[New] From Concept to Reality Polarr Photo Editor Simplified</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-one-frame-at-a-time-your-guide-to-free-youtube-navigation-for-2024/"><u>[Updated] One Frame at A Time Your Guide to Free YouTube Navigation for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-top-tracks-for-a-professional-unboxing-presentation-for-2024/"><u>[Updated] Top Tracks for a Professional Unboxing Presentation for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-twitch-vs-youtube-a-complete-comparison/"><u>[Updated] Twitch Vs. Youtube – A Complete Comparison</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-chuckles-churner-visual-composer/"><u>2024 Approved Chuckles Churner Visual Composer</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-pushing-boundaries-top-2023s-professional-360-cameras/"><u>2024 Approved Pushing Boundaries Top 2023'S Professional 360 Cameras</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/boosting-brand-visibility-through-youtube-sponsorships/"><u>Boosting Brand Visibility Through YouTube Sponsorships</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/canon-camera-insights-for-stunning-time-lapse-vids-for-2024/"><u>Canon Camera Insights for Stunning Time-Lapse Vids for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-realistic-3d-text-photoshopping-style-for-2024/"><u>Crafting Realistic 3D Text Photoshopping Style for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/detailed-walkthrough-implementing-look-up-tables-in-creative-suite/"><u>Detailed Walkthrough Implementing Look-Up Tables in Creative Suite</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/explore-template-treasures-to-craft-unique-corporate-emblems/"><u>Explore Template Treasures to Craft Unique Corporate Emblems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-magic-vs-2-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor Magic Vs 2? Try These Fixes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-budget-friendly-jpeg-to-gif-conversion-tools-online/"><u>In 2024, Top 10 Budget-Friendly JPEG to GIF Conversion Tools Online</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/investing-in-success-budget-for-youtube-growth/"><u>Investing in Success Budget for YouTube Growth</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/solution-the-minimum-number-of-days-typically-required-to-cure-concrete-under-normal-temperature-conditions-is-at-least-7-days/"><u>Solution: The Minimum Number of Days Typically Required to Cure Concrete Under Normal Temperature Conditions Is at Least 7 Days</u></a></li>
-<li><a href="https://win-lab.techidaily.com/uitgebreide-begeleiding-voor-oprigten-vermenigvuldigen-van-externe-hard-schijven-to-shuttles/"><u>Uitgebreide Begeleiding Voor Oprigten Vermenigvuldigen Van Externe Hard Schijven - To Shuttles</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-youtubes-hidden-gems-the-comment-space/"><u>Unveiling YouTube's Hidden Gems The Comment Space</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-branding-excellence-youtube-naming-masterclass/"><u>[New] Branding Excellence YouTube Naming Masterclass</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-essential-guide-to-the-top-10-video-calls-for-your-smartphone/"><u>[Updated] 2024 Approved Essential Guide to the Top 10 Video Calls for Your Smartphone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-blitz-photograph-examiner-windows-edition/"><u>[Updated] Blitz Photograph Examiner - Windows Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-exploring-the-metaphysics-of-metaverse-selling-for-2024/"><u>[Updated] Exploring the Metaphysics of Metaverse Selling for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-15-pioneering-youtube-tutorials-for-flawless-product-reviews/"><u>2024 Approved 15 Pioneering YouTube Tutorials for Flawless Product Reviews</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beginners-guide-to-decoding-diagonal-aspect-ratios/"><u>2024 Approved Beginners Guide to Decoding Diagonal Aspect Ratios</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-toy-quadcopters-reviewed-kids-edition/"><u>2024 Approved Best Toy Quadcopters Reviewed (Kids Edition)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-raw-to-refined-your-guide-to-youtube-video-edits/"><u>2024 Approved From Raw to Refined Your Guide to YouTube Video Edits</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oppo-find-x7-ultra-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Oppo Find X7 Ultra System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-introduction-to-the-openai-api-and-its-applications/"><u>Comprehensive Introduction to the OpenAI API & Its Applications</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/simplified-approach-to-download-youtube-captions-3-proven-methods/"><u>Simplified Approach to Download YouTube Captions 3 Proven Methods</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/synaptics-drivers-download-and-update-for-windows-easily/"><u>Synaptics Drivers Download & Update For Windows. EASILY</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-artists-blueprint-10-tips-for-podcast-cover-success/"><u>The Artist's Blueprint 10 Tips for Podcast Cover Success</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transform-your-digital-works-into-blockchain-treasures-with-these-tools/"><u>Transform Your Digital Works Into Blockchain Treasures with These Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unifying-visual-experience-in-iphone-recording/"><u>Unifying Visual Experience in iPhone Recording</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/voice-memo-techniques-an-in-depth-walkthrough/"><u>Voice Memo Techniques An In-Depth Walkthrough</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cinema Coloring Mastery Through Central Luts Application"
-date: 2024-12-01T16:17:03.841Z
-updated: 2024-12-08T17:51:06.718Z
+date: 2024-12-09T18:47:49.568Z
+updated: 2024-12-14T16:01:43.606Z
 tags: 
   - screen-recording
   - ai video
@@ -26,13 +26,13 @@ Color Grading Central is a company created by Denver Riddle, who is currently in
 
 ![color grading central](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 LUTs or Look Up Tables are nothing more than a table of numbers that apply a color transformation to an image. However, what makes color gradation LUTs unique is their ability to apply predetermined sets of mathematical formulas to the existing colors of your video to change those colors to achieve the desired result. Now it's possible to accurately imitate all the subtle nuances and color shifts of your favorite movie!
 
 The Color Grading Central LUTs effect is stylish and cinematic.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. How to use Luts from color grading central to color grading for movies?
 
@@ -52,6 +52,10 @@ The other two types of LUTs can be either 1D or 3D LUTs, but these days they are
 
 ![luts in movies](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 An input or camera LUT used at the beginning of the color correction process adjusts the footage so that the color correction tools work correctly. Color corrected recordings that require an input or camera LUT without one can lead to unexpected and unsatisfactory results.
 
 Conversely, you typically apply a LUT look after you've done color correction and moved on to the color grading phase. Use it to dial in the exact artistic look you want. The Look LUT contains instructions to create a predetermined desired look for your shots, which can be an incredible time saver in the color grading process.
@@ -63,7 +67,7 @@ LUTs are specially designed for different recording types – LOG, RAW, Rec.709,
 Many camera manufacturers, software companies, and independent producers offer downloadable LUTs or LUT packs. They often design these skins for specific purposes, such as color correcting footage captured by their cameras or to mimic signature skins seen in movies and TV shows. These skins can give you exactly the color class you want, or you can use them and keep tweaking and tweaking to get the perfect look.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. Free LUTs sources
@@ -80,10 +84,6 @@ From the "Free LUTs" page, users can download ten free conversion LUTs and three
 
 ![ground control color](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. [Color Grading Central: 7 Free LUTs, Color Presets, and Grains](http://www.colorgradingcentral.com/)
 
 If you're a budding colorist or video editor who takes color seriously, you should know about Color Grading Central. CGC specializes in all things color grading.
@@ -93,14 +93,6 @@ From grain to LUTs, their website is a good place to find lots of excellent colo
 In addition to giving away seven free color LUTs, they're also giving away an assortment of color presets, grains, and proposals just for their email list.
 
 ![color grading central](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. [SmallHD: 7 Free LUTs](https://www.smallhd.com/community/movie-looks-download)
 
@@ -113,7 +105,7 @@ If you want to add a dramatic and cinematic feel to your footage, use this free 
 ![smallhd](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. [Frank Glencairn: Free Vintage LUT](https://frankglencairn.wordpress.com/2014/01/15/everything-looks-better-on-kodachrome-k-tone-lut/)
@@ -126,10 +118,6 @@ Now you can replicate the look with retro-looking reds, blues, and yellows with 
 
 ![frank glencairn](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. [Lutify.me: 7 Free Luts](https://lutify.me/free-luts/)
 
 Ok, so the LUTs included in this pack require a few extra steps to download. Lutify requires you to sign up for a 14-day trial of LUTs Previewer.
@@ -137,6 +125,10 @@ Ok, so the LUTs included in this pack require a few extra steps to download. Lut
 The good news is that you can register, download the LUT, and then cancel. Or hey, who knows, you might even like their software offering and stick with the program.
 
 ![lutify me](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4\. How to do color grading in Filmora?
 
@@ -150,6 +142,10 @@ Of course, if you're still dissatisfied with the result you may select **"Advanc
 
 ![preset](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 In summary, we've seen some different color grading LUTs that simplify the color grading process. However, [Filmora Pro](https://tools.techidaily.com/wondershare/filmora/download/) remains the best because no converter can beat its excellent color correction tool and convincing features of vignette, light, and flare, etc.
@@ -159,6 +155,10 @@ In summary, we've seen some different color grading LUTs that simplify the color
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
 </article
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -192,16 +192,24 @@ In summary, we've seen some different color grading LUTs that simplify the color
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/dsense-on-youtube-determining-your-income-from-1k-viewer-engagement/"><u>[New] AdSense on YouTube Determining Your Income From 1K Viewer Engagement</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-audiovid-synergy-community-online/"><u>[New] AudioVid Synergy Community Online</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-browse-these-top-10-online-markets-for-one-of-a-kind-gift-boxes/"><u>[New] Browse These Top 10 Online Markets for One-of-a-Kind Gift Boxes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-speech-to-text-conversion-with-ms-word/"><u>[New] Mastering Speech-to-Text Conversion with MS Word</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unlocking-memories-facebook-look-back-editing-steps/"><u>[Updated] Unlocking Memories Facebook Look Back Editing Steps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/20-tips-to-transform-your-images-into-collages/"><u>20 Tips to Transform Your Images Into Collages</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comparing-iphone-15-pro-max-and-samsung-galaxy-s24-ultra-understanding-key-differences/"><u>Comparing iPhone 15 Pro Max and Samsung Galaxy S24 Ultra - Understanding Key Differences</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How to Fix Life360 Shows Wrong Location On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-path-to-prominence-elevating-brands-with-telegram-strategies/"><u>The Path to Prominence Elevating Brands with Telegram Strategies</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-best-iphone-recording-software-a-comprehensive-guide/"><u>Updated In 2024, The Best iPhone Recording Software - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-deciphering-digital-realms-virtualitys-cousins-vr-ar-and-mr/"><u>[New] 2024 Approved Deciphering Digital Realms Virtuality's Cousins (VR, AR, & MR)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-premiere-virtual-artist-streams/"><u>[New] In 2024, Premiere Virtual Artist Streams</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-quick-fame-quest-mastering-content-video-and-likes/"><u>[Updated] 2024 Approved Quick Fame Quest - Mastering Content, Video, and Likes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-audiophiles-dilemma-podcast-or-youtube-dominance/"><u>[Updated] Audiophile's Dilemma Podcast or YouTube Dominance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-auditory-adventures-10-sound-hotspots-for-podcasts/"><u>[Updated] Auditory Adventures 10 Sound Hotspots for Podcasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-play-with-perspective-learning-warp-effects-in-adobe-ph/"><u>[Updated] Play With Perspective Learning Warp Effects in Adobe PH</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-animatedapp-full-guide-and-review-24-overview/"><u>2024 Approved AnimatedApp Full Guide & Review '24 Overview</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-begin-animation-ease-in-transition/"><u>2024 Approved Begin Animation Ease-In Transition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-connect-and-captivate-youtube-twitter-and-facebook-using-zoom/"><u>2024 Approved Connect and Captivate YouTube, Twitter & Facebook Using Zoom</u></a></li>
+<li><a href="https://fox-making.techidaily.com/windows-11windowsold/"><u>摆脱Windows 11中的'Windows.old'文件夹：三种删除方法</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-microsoft-edges-exclusive-gaming-benefits/"><u>Game On: Microsoft Edge's Exclusive Gaming Benefits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-tips-ifunny-meme-download-and-use/"><u>In 2024, Comprehensive Tips IFunny Meme Download & Use</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-realme-c53-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Realme C53 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-how-to-add-echo-to-audio-online-and-on-windows/"><u>New How to Add Echo to Audio Online and on Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pioneering-techniques-in-documentary-scripting/"><u>Pioneering Techniques in Documentary Scripting</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/premium-voice-recorder-tools-for-mac-discovering-the-five-top-apps/"><u>Premium Voice Recorder Tools for Mac Discovering The Five Top Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/procedure-for-effective-auditory-recordings-on-windows-11/"><u>Procedure for Effective Auditory Recordings on Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transforming-images-with-dynamic-mosaic-designs/"><u>Transforming Images with Dynamic Mosaic Designs</u></a></li>
 </ul></div>
 

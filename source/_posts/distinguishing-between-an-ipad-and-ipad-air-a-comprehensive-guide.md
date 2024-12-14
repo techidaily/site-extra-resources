@@ -1,7 +1,7 @@
 ---
 title: Distinguishing Between an iPad and iPad Air – A Comprehensive Guide
-date: 2024-12-07T17:16:43.679Z
-updated: 2024-12-08T16:20:28.308Z
+date: 2024-12-08T17:24:17.082Z
+updated: 2024-12-14T16:36:32.218Z
 categories:
   - BestProducts
 description: This Article Describes Distinguishing Between an iPad and iPad Air – A Comprehensive Guide
@@ -36,12 +36,16 @@ Lifewire / Kelsey Simon
 
 2.7
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## inXile Entertainment Torment: Tides of Numenera
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
@@ -62,19 +66,11 @@ Lifewire / Kelsey Simon
 
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Story: Heavy-handed writing to the exclusion of all else**
 
  Torment: Tides of Numenera is a third-person role-playing game focused strongly on story―and oh, there is so much story. The game begins with the character you’ll play as waking up in a panic. Someone will narrate everything that’s going on to you, including what the area around you looks like. After a short introduction, you’ll be prompted to pick what you want to play as: Glaive, Jack, or Nano. These will roughly translate into someone more physical, someone mixed physical and magical, and a mage, but of course, set in this strange half-fantastical, half-science-fiction world where everything is new and unique.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/b1_d8ikgtdkSH_Y0F510q_BXpK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-03-d99b43959fa74b31a15f336852f14d75.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -85,7 +81,7 @@ Lifewire / Kelsey Simon
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Gameplay: Dialogue prompts and effort**
@@ -142,6 +138,10 @@ Lifewire / Kelsey Simon
 
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Torment: Tides of Numenera
@@ -165,19 +165,21 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-best-of-the-best-10-timeless-family-vacation-films-for-2024/"><u>[New] Best of the Best 10 Timeless Family Vacation Films for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-what-are-the-different-versions-of-windows-movie-maker-in-2024/"><u>[Updated] What Are the Different Versions of Windows Movie Maker, In 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-blur-apps-that-work-wonders-on-iphonesandroids/"><u>2024 Approved Blur Apps That Work Wonders on iPhones/Androids</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/british-vs-american-vocabulary-gaps/"><u>British vs American Vocabulary Gaps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/digital-darkroom-mastering-color-opposites/"><u>Digital Darkroom Mastering Color Opposites</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-reported-ideport0-control-issue/"><u>Error Reported: Ideport0 Control Issue</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-cost-free-use-of-microsoft-word-how-to-obtain-a-complimentary-version/"><u>Exploring the Cost-Free Use of Microsoft Word: How to Obtain a Complimentary Version</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-compre-written-analysis-hero4-black-operations/"><u>In 2024, Compre Written Analysis Hero4 Black Operations</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/prime-listings-photoplustune-recording-software-innovations/"><u>Prime Listings Photo+Tune Recording Software Innovations</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/sculpting-light-an-in-depth-look-at-lightroom-hdr-photos/"><u>Sculpting Light An In-Depth Look at Lightroom HDR Photos</u></a></li>
-<li><a href="https://win-top.techidaily.com/step-by-step-guide-restore-accidentally-deleted-files-on-windows-server-2012-r2/"><u>Step-by-Step Guide: Restore Accidentally Deleted Files on Windows Server 2012 R2</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/superior-methods-transforming-pinterest-visuals-into-audios/"><u>Superior Methods Transforming Pinterest Visuals Into Audios</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-x50-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor X50</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-breaking-barriers-next-level-strategies-for-fb-video-success/"><u>[New] 2024 Approved Breaking Barriers Next-Level Strategies for FB Video Success</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-how-to-prevent-thumbnail-absence-in-shorts-uploads/"><u>[New] 2024 Approved How to Prevent Thumbnail Absence in Shorts Uploads</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-ultimate-guide-to-affordable-video-players-a-comprehensive-list-pc-and-mobile/"><u>[New] 2024 Approved Ultimate Guide to Affordable Video Players A Comprehensive List (PC & Mobile)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-accelerated-learning-quick-start-to-becoming-a-lut-expert/"><u>[New] Accelerated Learning Quick Start to Becoming a LUT Expert</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-advanced-accessories-for-immersive-gaming-worlds/"><u>[New] Advanced Accessories for Immersive Gaming Worlds</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-virtual-virtuoso-verbalization-voyager/"><u>[New] Virtual Virtuoso Verbalization Voyager</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210762149-9781787836181-365-ways-to-be-happy/"><u>365 Ways to Be Happy | Free Book</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/comment-utiliser-loutil-sfc-scannow-pour-restaurer-les-fichiers-systemes-de-windows-1011/"><u>Comment Utiliser L'Outil 'SFC /SCANNOW' Pour Restaurer Les Fichiers Systèmes De Windows 10/11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-memorable-announcements-the-key-to-successful-facebook-giving-posts-for-2024/"><u>Crafting Memorable Announcements The Key to Successful Facebook Giving Posts for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/eliminate-background-in-images-with-ease-using-canva/"><u>Eliminate Background in Images with Ease Using Canva</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016697151-fix-hp-laptop-volume-issues-troubleshooting-guide-silent-mode-resolved/"><u>Fix HP Laptop Volume Issues: Troubleshooting Guide - Silent Mode Resolved</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-poco-c50-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Poco C50 Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-calculated-viewing-time-for-a-standard-20mb-film/"><u>In 2024, Calculated Viewing Time for a Standard 20Mb Film</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-build-successful-youtube-advertisements-for-free/"><u>In 2024, How to Build Successful YouTube Advertisements for Free?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lightning-fast-windows-evaluation-path/"><u>Lightning-Fast Windows Evaluation Path</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-complete-guide-to-collage-aesthetics/"><u>The Complete Guide to Collage Aesthetics</u></a></li>
 </ul></div>
 

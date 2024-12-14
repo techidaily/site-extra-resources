@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Crafting New Dimensions  A Look at Mixed Reality\""
-date: 2024-12-03T17:20:45.062Z
-updated: 2024-12-08T17:11:05.434Z
+date: 2024-12-10T18:55:35.672Z
+updated: 2024-12-14T16:22:11.745Z
 tags: 
   - screen-recording
   - ai video
@@ -27,7 +27,7 @@ thumbnail: https://www.lifewire.com/thmb/ACLdGCkJybpMMfm3FCszTRQh_w8=/400x300/fi
  Mar 27, 2024• Proven solutions
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Definition of MR
@@ -41,12 +41,16 @@ thumbnail: https://www.lifewire.com/thmb/ACLdGCkJybpMMfm3FCszTRQh_w8=/400x300/fi
  With the development of the technology is shrouded in secrecy by the major players, all that is known on the operations of the technology is that it uses virtual reality and augmented reality as well as space and coordinates. Magic Leap is the company at the forefront in the development of mixed reality and they have remained tight lipped about the finer details of what they are doing or developing. The scanty details we know however, suggests that just like Hololens, mixed reality will use a projector for displaying images on semi transparent materials which will then be reflected to the eye with the help of beam-splitting technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Applications of Mixed Reality
 
  Due to the unique features and experiences offered by mixed reality, businesses, developers and the world in general is beginning to explore the various ways to utilize the technology for the best possible results. Currently, fields such as medicine, architecture and urban planning and education and training appear to be the greatest beneficiary of mixed reality technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mixed Reality for sharing real-world virtual workspaces
 
@@ -54,16 +58,12 @@ thumbnail: https://www.lifewire.com/thmb/ACLdGCkJybpMMfm3FCszTRQh_w8=/400x300/fi
 
  Sharing real world virtual spaces through mixed reality can be especially beneficial for sales team when making a pitch for a new offer. For instance, a pharmaceutical sales rep can carry along two mixed reality devices to an appointment with the doctor. The doctor and the sales rep can then both wear the devices and see a model of the new drug as explained by the sales rep. Through this, they can then visualize the chemical composition of the drug and also simulate how the drug will move in the body to fight diseases. Through such a shared experience, the sales rep will not only build deeper connections with the doctor, but also offer a more detailed explanation on the product being offered.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mixed reality for remote experts – over the shoulder coaching
 
  Most enterprises usually find it difficult to address all the support requests from all the clients in need of expert advice. It is not only costly to fly in specialists to fix things in different locations, but also time consuming. Besides, it is never adequate to troubleshoot an issue over the phone and video conferencing in such situations also have its limitations. But all these can now be avoided through the application of mixed reality for offering over the shoulder coaching remotely. With mixed reality, access to experts can be done quickly and inexpensively. For example, doctors in the healthcare industry can offer guidance and decisions to students or other doctors without the need of being in the actual locations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The future of mixed reality
@@ -77,7 +77,7 @@ thumbnail: https://www.lifewire.com/thmb/ACLdGCkJybpMMfm3FCszTRQh_w8=/400x300/fi
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -95,18 +95,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-contrast-in-colors-crafting-cinematic-moods/"><u>[Updated] Contrast in Colors Crafting Cinematic Moods</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-luts-on-the-house-your-dji-devices-get-a-perk-up/"><u>[Updated] LUTs on the House - Your DJI Devices Get a Perk Up</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-complete-strategy-for-superior-animoji-use-on-iphone-x/"><u>A Complete Strategy for Superior Animoji Use on iPhone X</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How and Where to Find a Shiny Stone Pokémon For Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-meizu-21-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Meizu 21 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-thorough-introduction-to-gdocs-speech-to-text-capabilities/"><u>In 2024, A Thorough Introduction to GDoc's Speech-to-Text Capabilities</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-merge-movies-on-youtube-compilation/"><u>In 2024, Merge Movies on YouTube Compilation</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-itel-a05s-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Itel A05s Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-finest-gaming-keyboards-for-fanatics-on-a-budget-for-2024/"><u>The Finest Gaming Keyboards for Fanatics on a Budget for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/transform-your-ideas-into-videos-with-the-power-of-movie-maker-windows-11-edition/"><u>Transform Your Ideas Into Videos with the Power of Movie Maker, Windows 11 Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-the-distinctiveness-of-auto-gpt-in-relation-to-chatgpt/"><u>Understanding the Distinctiveness of Auto-GPT in Relation to ChatGPT</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unpacking-apps-the-az-screenshotter-approach-for-2024/"><u>Unpacking Apps - The AZ Screenshotter Approach for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-4k-clarity-comes-closer-with-asuss-innovative-mg28uq-display/"><u>[New] 4K Clarity Comes Closer with ASUS's Innovative MG28UQ Display</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-adding-youtube-captionssubtitles-made-simple-and-fast/"><u>[Updated] 2024 Approved Adding YouTube Captions/Subtitles Made Simple and Fast</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-screen-casting-features-in-vlc-examined/"><u>[Updated] Screen Casting Features in VLC Examined</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-supercharged-productivity-while-flipping-audio-switches/"><u>[Updated] Supercharged Productivity While Flipping Audio Switches</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aquatic-adventures-top-5-anglers-choice-cameras-for-2024/"><u>Aquatic Adventures Top 5 Anglers' Choice Cameras for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/are-product-assessments-online-content-sold-in-2024/"><u>Are Product Assessments Online Content Sold, In 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/captivating-cinematic-experience-video-filters-for-pcmobile-for-2024/"><u>Captivating Cinematic Experience Video Filters for PC/Mobile for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-asus-rog-phone-7-ultimate-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Asus ROG Phone 7 Ultimate Phone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mp4-file-editor-for-windows-8-quick-and-easy-video-editing/"><u>MP4 File Editor for Windows 8 Quick and Easy Video Editing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-graphics-hurdles-addressing-the-directx-problem-on-fifa-20-console-game/"><u>Overcoming Graphics Hurdles: Addressing the 'DirectX' Problem on FIFA 20 Console Game</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/playback-of-srt-audio-files-in-computers-windowsmacos/"><u>Playback of SRT Audio Files in Computers (Windows/macOS)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seamless-proportion-refinement-from-home/"><u>Seamless Proportion Refinement From Home</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/step-by-step-guide-setting-up-your-new-network-devices-with-ease-tips-from-yl-computing/"><u>Step-by-Step Guide: Setting Up Your New Network Devices with Ease - Tips From YL Computing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-artisans-guide-to-podcast-scriptwriting-including-free-samples/"><u>The Artisan's Guide to Podcast Scriptwriting (Including Free Samples)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-insiders-trick-for-automatic-and-smooth-youtube-video-replays-for-2024/"><u>The Insider's Trick for Automatic and Smooth YouTube Video Replays for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-visual-splendor-of-blade-cameras-in-full-hd/"><u>The Visual Splendor of Blade Cameras in Full HD</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-8-android-fixes-for-time-lags-in-videos/"><u>Top 8 Android Fixes for Time-Lags in Videos</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-how-to-stream-on-twitch-the-ultimate-guide/"><u>Updated 2024 Approved How to Stream on Twitch The Ultimate Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/urban-adventure-top-games-similar-to-gta-v-for-2024/"><u>Urban Adventure Top Games Similar to GTA V for 2024</u></a></li>
 </ul></div>
 

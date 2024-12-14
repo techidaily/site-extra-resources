@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Potential of Wide Angle 360 Photos"
-date: 2024-12-05T17:18:05.749Z
-updated: 2024-12-08T17:04:32.709Z
+date: 2024-12-09T16:38:50.693Z
+updated: 2024-12-14T18:31:44.644Z
 tags: 
   - screen-recording
   - ai video
@@ -27,12 +27,16 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
  Mar 27, 2024• Proven solutions
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shooting 360 degrees panoramas with fisheye lens
 
  The process of shooting panoramas with fisheye lenses involves a number of considerations and they are as follows-:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1. The equipment and setup
 
@@ -41,7 +45,7 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
 ![Panohead for Fisheye lens](https://images.wondershare.com/filmora/article-images/panohead-for-fishlens.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2. Leveling and rotating
@@ -49,10 +53,6 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
  Other than setting up and calibrating the equipment in the right manner, it is important to keep the camera steady and leveled as you make the rotations to take shots. For leveling, it is recommended to use an appropriate leveling base, while for rotation, using a panning clamp on top of the ballhead is highly recommended.
 
 ![Panning clam on ballhead](https://images.wondershare.com/filmora/article-images/panning-clam-on-ballhead.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3. The actual shooting
 
@@ -75,7 +75,7 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
 [How to stitch GoPro clips into 360 videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's fisheye lenses
@@ -88,15 +88,15 @@ thumbnail: https://www.lifewire.com/thmb/IdoRYld7mgk36eQ6Rkk0DIRYYZw=/400x300/fi
 
 ![create 360 photos with fisheye lens](https://images.wondershare.com/filmora/article-images/fisheye-lens-image.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Conclusion
 
  Fisheye lenses have been around for a while now and the process of creating 360 panoramas with them may not be very challenging, but great results are achieved through practice and proper stitching. Once the photos are taken, you can use premium panorama software like Autopano Pro or you can use free options like the Microsoft ICE or Hugin. Ones stitching are done, it is imperative to have the final works uploaded online for others to view.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -113,24 +113,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-adjusting-sound-settings-gently-in-windowsmacos/"><u>[New] Adjusting Sound Settings Gently in Windows/macOS</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-comprehensive-guide-to-subtitle-sharing-on-tumblr-and-discord/"><u>[Updated] A Comprehensive Guide to Subtitle Sharing on Tumblr and Discord</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-amusement-ringers-curated-list-of-comical-downloads-for-2024/"><u>[Updated] Amusement Ringers Curated List of Comical Downloads for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-quick-ascent-to-youtube-affiliates-with-10k-vistas-for-2024/"><u>[Updated] Quick Ascent to YouTube Affiliates with 10K Vistas for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1-purchase-your-entry-to-a-classics-film-with-digital-coins-the-future-of-cinema/"><u>1. Purchase Your Entry to a Classics Film with Digital Coins: The Future of Cinema</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-achieving-professional-colors-with-central-luts/"><u>2024 Approved Achieving Professional Colors with Central Luts</u></a></li>
-<li><a href="https://article-helps.techidaily.com/dissecting-shake-mitigation-is-it-vital-for-photoshop-users-for-2024/"><u>Dissecting 'Shake' Mitigation - Is It Vital for Photoshop Users for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/effortless-exchange-idevice-images-and-videos/"><u>Effortless Exchange IDevice Images & Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/highest-rated-panoramic-video-capture-systems/"><u>Highest Rated Panoramic Video Capture Systems</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-live-streaming-and-screen-capture-a-comprehensive-obs-analysis/"><u>In 2024, Live Streaming & Screen Capture A Comprehensive OBS Analysis</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/master-the-quick-and-easy-photo-fixes-in-windows/"><u>Master the Quick & Easy Photo Fixes in Windows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-pip-in-chrome-for-every-os/"><u>Navigating PIP in Chrome for Every OS</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/samsung-k850u-bdplus-2023-assessment-for-2024/"><u>Samsung K850U BD+ 2023 Assessment for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/seamless-content-consumption-configuring-pip-for-youtube-on-iphone-for-2024/"><u>Seamless Content Consumption Configuring PIP for YouTube on iPhone for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-essential-guide-to-documentary-storytelling-mechanics/"><u>The Essential Guide to Documentary Storytelling Mechanics</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-next-generation-ai-puzzle-why-does-chatgpt-4-take-its-time-when-chatgpt-35-was-faster/"><u>The Next Generation AI Puzzle: Why Does ChatGPT-4 Take Its Time When ChatGPT-3.5 Was Faster?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-mic-selection-for-podcasters/"><u>The Ultimate Mic Selection for Podcasters</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/true-insights-on-languages-beyond-the-popular-myths/"><u>True Insights on Languages: Beyond the Popular Myths</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/44ot44oh44kq44o744of44ol44o844k444od44kv44ov44kh44kk44or55so6zplusz5aow44kz44o844oh44od44kv5asj5pu05oml6acg44ks44kk44oj/"><u>ビデオ・ミュージックファイル用音声コーデック変更手順ガイド</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-7-3d-modeling-software-for-animation/"><u>[New] 7 3D Modeling Software for Animation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-adjusting-youtube-video-scale-effectively/"><u>[New] Adjusting YouTube Video Scale Effectively</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nleashing-radiance-skincare-and-haircare-secrets-for-2024/"><u>[New] Unleashing Radiance Skincare and Haircare Secrets for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-study-aids-top-10-educational-history-channels/"><u>[Updated] In 2024, Study Aids Top 10 Educational History Channels</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-step-by-step-guide-to-perfecting-videos-in-youtube-studio/"><u>[Updated] Step-by-Step Guide to Perfecting Videos in YouTube Studio</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-windows-11-gamers-ultimate-playbook-top-5-record-techniques/"><u>2024 Approved Windows 11 Gamers' Ultimate Playbook Top 5 Record Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chuckle-composer-app/"><u>Chuckle Composer App</u></a></li>
+<li><a href="https://win-bits.techidaily.com/efficiently-manage-data-recovery-with-bare-metal-backups-on-windows-server-2019/"><u>Efficiently Manage Data Recovery with Bare Metal Backups on Windows Server 2019</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/full-feature-analysis-videon-plus-suite-the-edit-experience/"><u>Full Feature Analysis Videon Plus Suite – The Edit Experience</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-10-expert-suggestions-to-make-your-yt-shorts-stand-out/"><u>In 2024, 10 Expert Suggestions to Make Your YT Shorts Stand Out</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-cost-effective-drone-collection-affordable-flight-gadgets/"><u>In 2024, Cost-Effective Drone Collection Affordable Flight Gadgets</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photoshops-handy-hacks-for-horizontal-and-vertical-warping/"><u>Photoshop's Handy Hacks for Horizontal and Vertical Warping</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/protouch-4k-uniscreen-hub-systems/"><u>ProTouch 4K UniScreen Hub Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pushing-boundaries-with-photomosaic-artistry/"><u>Pushing Boundaries with PhotoMosaic Artistry</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-insider-guide-to-simplifying-character-voice-modification-pubg/"><u>The Insider Guide to Simplifying Character Voice Modification (PUBG)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-how-to-efficiently-snapping-images-on-your-hp-laptop/"><u>Ultimate How-To: Efficiently Snapping Images on Your HP Laptop</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Harmonize Visual & Auditory Elements  Adding Filters & Sound to Windows Photos App\""
-date: 2024-12-07T16:54:07.857Z
-updated: 2024-12-08T17:33:21.567Z
+date: 2024-12-07T16:46:58.510Z
+updated: 2024-12-14T16:43:20.725Z
 tags: 
   - screen-recording
   - ai video
@@ -33,10 +33,6 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 
 **You may also like:** [How to Trim Video in Windows 10 Photos Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to add filters on Windows 10 Photos App
 
 If you have got Windows 10 Photos app and wish to add filters, though, it is by default a photo viewing app, its editing features are worth to mention. This step by step guide is your perfect savior in that case.
@@ -50,7 +46,7 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
@@ -59,7 +55,15 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5**: Just select one you like. Preview it and then click Done.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
 
@@ -77,14 +81,10 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5**: Hit the ‘Done’ button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -94,7 +94,7 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -112,18 +112,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-timing-and-frequency-what-is-the-best-day-to-release-a-podcast/"><u>[New] Timing & Frequency What Is the Best Day to Release a Podcast?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-augmented-viewing-the-vr-cinematic-revolution/"><u>[Updated] Augmented Viewing The VR Cinematic Revolution</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-enhancing-virtual-communication-applying-zoom-filter-features/"><u>[Updated] In 2024, Enhancing Virtual Communication Applying Zoom Filter Features</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/accelerating-digital-change-how-abbyys-smart-automation-powers-paragons-transformation-journey/"><u>Accelerating Digital Change: How ABBYY’s Smart Automation Powers Paragon's Transformation Journey</u></a></li>
-<li><a href="https://extra-information.techidaily.com/apex-fusion-hubs-all-in-one-4k-multi-touch-desktops-for-2024/"><u>Apex Fusion Hubs All-in-One 4K Multi-Touch Desktops for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/culmination-of-day-blackout-effects/"><u>Culmination of Day - Blackout Effects</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-record-audio-on-windows-11/"><u>How To Record Audio on Windows 11?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-sony-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Sony</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-asus-proart-pa32u-4k-hdr-professional-monitor-review/"><u>In 2024, ASUS ProArt PA32U 4K HDR Professional Monitor Review</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/techniques-to-restore-precision-display-quality-addressing-discoloration-and-warping-in-computers/"><u>Techniques to Restore Precision Display Quality: Addressing Discoloration and Warping in Computers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-editors-toolkit-top-10-film-segments/"><u>The Editor's Toolkit Top 10 Film Segments</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-linguistic-edge-influential-expressions-for-leaders/"><u>The Linguistic Edge Influential Expressions for Leaders</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-power-of-chatgpt-in-conversational-ai/"><u>Unveiling the Power of ChatGPT in Conversational AI</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-crafting-success-pushing-your-video-into-top-charts/"><u>[New] 2024 Approved Crafting Success Pushing Your Video Into Top Charts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-15-top-free-slow-motion-video-recording-apps-for-iphoneandroid/"><u>[Updated] 15 Top Free Slow Motion Video Recording Apps for iPhone/Android</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-unlock-your-screen-androids-premier-free-recorder-tools/"><u>[Updated] 2024 Approved Unlock Your Screen Android's Premier Free Recorder Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-buys-in-the-drone-world-ready/"><u>[Updated] Best Buys in the Drone World Ready</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-becoming-a-snapping-maestro-mastering-the-zoom-feature-in-snapchat/"><u>2024 Approved Becoming a Snapping Maestro Mastering the Zoom Feature in Snapchat</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correct-save-location-errors-in-windows-pcs/"><u>How to Correct Save Location Errors in Windows PCs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-iphone-15-plusipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from iPhone 15 Plus/iPad/iPod</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-your-screens-resistance-to-current-input-sync-settings-solved/"><u>Overcome Your Screen's Resistance to Current Input Sync Settings – Solved!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-subtitle-converters-no-cost-for-srt-files/"><u>Top 10 Subtitle Converters, No Cost for SRT Files</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-14-plus-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 14 Plus Without Passcode Easily</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vaulting-to-victory-with-best-gk-trivia-video-channels-2024/"><u>Vaulting to Victory with Best GK Trivia Video Channels, 2024</u></a></li>
 </ul></div>
 

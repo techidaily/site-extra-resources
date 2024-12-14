@@ -1,7 +1,7 @@
 ---
 title: Addressing & Overcoming Steam Game Ignition Challenges in Windows 11
-date: 2024-12-02T17:43:47.832Z
-updated: 2024-12-08T17:42:37.014Z
+date: 2024-12-08T18:15:27.127Z
+updated: 2024-12-14T17:57:02.630Z
 tags:
   - win11
   - win10
@@ -40,14 +40,10 @@ thumbnail: https://thmb.techidaily.com/a81739d88952571f4be878bb2d8fbe2fb1485b177
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -64,27 +60,27 @@ After installing all the updates, restart your PC and check the gameplay.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . (If you don’t see this power plan, simply continue to the next step to unhide it.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now you can start RDR2 and check if it stutters again.
 
  If this fix doesn’t give you luck, you can continue to the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -100,7 +96,7 @@ Now you can start RDR2 and check if it stutters again.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -125,29 +121,37 @@ Now you can start RDR2 and check if it stutters again.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn on **Hardware-accelerated GPU scheduling** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-4.jpg)
 5. Restart your PC for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now you can launch RDR2 and check if there’s any improvements.
 
 If HAGs doesn’t work for you, you can try the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable all mods
 
  The Red Dead Redemption series is also famous for the large number of mods. There’s a mod that allows players to turn themselves into animals, and one with which gamers can fly in a hot air balloon. Though fun, it’s worth noting that mods might be the culprit of your FPS issues. So if you’re using any mods in RDR2, turn them off and see how it goes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/rdr2-hot-air-balloon.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Fine tune in-game settings
 
@@ -162,10 +166,6 @@ If HAGs doesn’t work for you, you can try the next method.
 4. Also set**Reflection MSAA** to**X4** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/RDR2-graphics-tuning-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can now test your gameplay and see if the game lags again.
 
@@ -192,24 +192,20 @@ You can now test your gameplay and see if the game lags again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-charting-your-path-podcast-income-expectations-for-2024/"><u>[Updated] Charting Your Path Podcast Income Expectations for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-mastering-soundtrack-addition-to-social-media-videos-on-facebook/"><u>[Updated] In 2024, Mastering Soundtrack Addition to Social Media Videos on Facebook</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-joining-live-shows-a-tiktok-perspective-for-2024/"><u>[Updated] Joining Live Shows A TikTok Perspective for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-the-perfect-tone-accessible-software-for-effortless-vocal-transformation/"><u>2024 Approved Crafting the Perfect Tone Accessible Software for Effortless Vocal Transformation</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cutting-edge-android-time-lapse-methods-2024-edition/"><u>Cutting-Edge Android Time-Lapse Methods 2024 Edition</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/dynamic-screen-settings-for-optimal-display/"><u>Dynamic Screen Settings for Optimal Display</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevating-professional-skills-the-essentials-of-video-editing-on-windows-10/"><u>Elevating Professional Skills The Essentials of Video Editing on Windows 10</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/exploring-premium-cameras-a-2024-guide/"><u>Exploring Premium Cameras A 2024 Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-installation-to-interaction-a-comprehensive-guide-on-using-the-chatgpt-widget-on-android-systems/"><u>From Installation to Interaction: A Comprehensive Guide on Using the ChatGPT Widget on Android Systems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/immediate-fixes-for-the-recurring-windows-10-photos-crashes/"><u>Immediate Fixes for the Recurring Windows 10 Photos Crashes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/master-the-art-of-archiving-with-these-13-key-techniques/"><u>Master the Art of Archiving with These 13 Key Techniques</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/open-the-doors-to-gpt-4-no-currency-required/"><u>Open the Doors to GPT-4, No Currency Required</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionary-messaging-feature-to-enhance-iphone-safety-with-ios-18-release-not-powered-by-artificial-intelligence/"><u>Revolutionary Messaging Feature to Enhance iPhone Safety with iOS 18 Release - Not Powered by Artificial Intelligence</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/sky-hdr-heaven-curated-list-of-excellent-sites/"><u>Sky HDR Heaven - Curated List of Excellent Sites</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/syncing-yt-beats-with-visual-timelines/"><u>Syncing YT Beats with Visual Timelines</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-peoples-take-on-vllo/"><u>The People's Take on VLLO</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725287384183-winx-dvd-ripper/"><u>WinX DVD Ripperで文字変換の破損を直す方法</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-achieve-flawless-imagery-how-to-remove-backgrounds-on-canva/"><u>[New] Achieve Flawless Imagery How to Remove Backgrounds on Canva</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-raw-files-to-stunning-artwork-mastering-polarrs-editing/"><u>[New] From Raw Files to Stunning Artwork Mastering Polarr's Editing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-explore-fauna-fun-top-12-android-simulation-games/"><u>[New] In 2024, Explore Fauna Fun Top 12 Android Simulation Games</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-controlling-youtubes-playback-speed-mobile-and-pc/"><u>[Updated] Controlling YouTube's Playback Speed - Mobile and PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-tomtom-bandit-action-camera-review/"><u>[Updated] TomTom Bandit Action Camera Review</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-unmasking-fraudulent-practices-in-virtual-subscription-markets/"><u>2024 Approved Unmasking Fraudulent Practices in Virtual Subscription Markets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-gopro-helmet-mounts-and-how-to-use-them/"><u>Best GoPro Helmet Mounts and How to Use Them</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/choreographing-ideal-canon-time-lapse-shots-for-2024/"><u>Choreographing Ideal Canon Time-Lapse Shots for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-pictures-tale-adding-meaningful-text-to-images-for-macwindows/"><u>In 2024, A Picture's Tale Adding Meaningful Text to Images for Mac/Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-building-an-effective-streamlined-podcasts-rss-feed/"><u>In 2024, Building an Effective, Streamlined Podcast's RSS Feed</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-y100t-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo Y100t to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-revolutionize-advertising-try-all-50-available-free-youtube-banners/"><u>In 2024, Revolutionize Advertising – Try All 50 Available FREE YouTube Banners</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/leveraging-tools-for-seamless-powerpoint-transcription/"><u>Leveraging Tools for Seamless PowerPoint Transcription</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/quick-steps-to-reduce-size-of-avi-videos-using-movavi-video-editor/"><u>Quick Steps to Reduce Size of AVI Videos Using Movavi Video Editor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-future-of-smartphone-video-with-s8s-4k/"><u>Unveiling the Future of Smartphone Video with S8’s 4K</u></a></li>
 </ul></div>
 

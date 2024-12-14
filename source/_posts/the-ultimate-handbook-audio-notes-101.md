@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate Handbook  Audio Notes 101\""
-date: 2024-12-02T17:02:20.047Z
-updated: 2024-12-08T16:48:39.407Z
+date: 2024-12-11T16:10:40.837Z
+updated: 2024-12-14T18:56:34.536Z
 tags: 
   - screen-recording
   - ai video
@@ -41,13 +41,13 @@ If you want to hear the previously recorded Voice Memos, please follow these ste
 
 ![play the voice memos](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. How to edit and save Voice Memos on iPhone and iPad?
 
 How should you proceed if you find several voice clips that you want to remove? You can carry out some basic editing as follow:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Rename the Voice Memos
 
@@ -56,20 +56,16 @@ How should you proceed if you find several voice clips that you want to remove? 
 
 ![choose the edit option](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Duplicate a Voice Memos
 
 1. Select the recording to make a duplicate.
 2. Click the more options button and then choose the duplicate option.
 
 ![more options button](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Trim Voice Memos
 
@@ -79,10 +75,6 @@ How should you proceed if you find several voice clips that you want to remove? 
 4. Once the part is selected, tap trim to keep this and delete the rest. Or delete to remove this and keep the rest other.
 
 ![](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Replace Voice Memos
 
@@ -101,7 +93,11 @@ How should you proceed if you find several voice clips that you want to remove? 
 ![select the destination folder and move](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4\. How to record a Voice Memos on Mac?
@@ -112,10 +108,6 @@ It's simple to use Voice Memos app on Mac:
 
 ![tap the start recording button](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Once you've done recording, click the pause button and tap the done option to save it.
 
 ![click the pause button](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-9.jpg)
@@ -123,10 +115,6 @@ It's simple to use Voice Memos app on Mac:
 1. There are also options to edit or share your Voice Memos.
 
 ![share voice memos](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you're using a Mac and don't want to use Voice Memos to record your computer's internal or external sound, we've provided 2 additional productive ways for you to do so.
 
@@ -141,7 +129,7 @@ QuickTime is another excellent software to help you easily record audio on Mac. 
 ![click the file button again](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 2\. Use Filmora Voice recorder
@@ -158,7 +146,7 @@ You can also use the [Wondershare Filmora](https://tools.techidaily.com/wondersh
 ![tap ok](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5\. How to transcribe Voice Memos to text?
@@ -183,6 +171,10 @@ Although being a paid program, it operates easily and has a simpler user interfa
 
 Instead of typing, you can speak your content directly. There is no time limit for dictation. Voice Memos can be translated into any language and converted to text by Dictation – Speech to text.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### On Mac
 
 These are the most effective ways to transcribe your voice recordings into text on Mac:
@@ -204,7 +196,7 @@ Wondershare Filmora can also help you to transcribe your Voice Memos into text. 
 Dictation Speech to text is also available for Mac devices. It works the same as in the iPhone to convert Voice Memos into text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Online
@@ -223,11 +215,19 @@ Rev is also available to transcribe audio into text online. Visit the Rev Websit
 
 Otranscribe is one of the best online tools to transcribe Voice Memos into text. It stands out because it's free to use, unlike other websites offering trial and purchase. It is entirely free to use and user-friendly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ### 1\. Can Voice Memos record phone calls?
 
 However, there is no exact feature available in the iPhone Voice Memos to do it, but one trick that can help you in this regard is that you start the call and turn on the speaker. Now pick up another iPhone and begin recording a Voice Memos on it. You can record your call using a Voice Memos in this way.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -263,20 +263,20 @@ Voice Memos is a helpful tool for iOS and Mac users. You can easily record audio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-elite-presenter-tagline-generator-20/"><u>[New] In 2024, Elite Presenter Tagline Generator 2.0</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-big-sur-unveiled-your-guide-to-a-flawless-mac-os-shift/"><u>[Updated] Big Sur Unveiled Your Guide to a Flawless Mac OS Shift</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-compiling-individual-iphone-video-pieces/"><u>[Updated] Compiling Individual iPhone Video Pieces</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-youtube-skip-the-top-8-novice-missteps/"><u>2024 Approved Navigating YouTube Skip the Top 8 Novice Missteps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/direct-digital-delivery-streamlined-steps-for-files/"><u>Direct Digital Delivery Streamlined Steps for Files</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/dive-into-the-most-effective-online-tools-your-guide-to-perfect-captions/"><u>Dive Into the Most Effective Online Tools Your Guide to Perfect Captions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elite-webcam-lineup-to-take-your-zoom-sessions-to-the-next-level/"><u>Elite Webcam Lineup to Take Your Zoom Sessions to the Next Level</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-audio-glitches-repair-the-astro-a40s-nonfunctional-mic/"><u>Fixing Audio Glitches: Repair the Astro A40's Nonfunctional Mic</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-xr-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone XR? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-breaking-down-sony-bdp-s6700-updates/"><u>In 2024, Breaking Down Sony BDP-S6700 Updates</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/locate-deleted-files-and-hidden-directories-in-windows-11-with-these-8-simple-solutions/"><u>Locate Deleted Files & Hidden Directories in Windows 11 with These 8 Simple Solutions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pioneering-virtual-play-samsungs-most-popular-titles/"><u>Pioneering Virtual Play Samsung's Most Popular Titles</u></a></li>
-<li><a href="https://fox-that.techidaily.com/rectify-your-iphones-constant-sos-alert-discover-6-proven-methods/"><u>Rectify Your iPhone's Constant 'SOS' Alert: Discover 6 Proven Methods</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-prevent-total-war-rome-remastered-from-crashing-on-your-pc/"><u>Step-by-Step Solutions to Prevent Total War: Rome Remastered From Crashing on Your PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-final-stand-zombie-army-4-dead-war-now-running-flawlessly-after-critical-pc-bug-fixes/"><u>The Final Stand - Zombie Army 4: Dead War Now Running Flawlessly After Critical PC Bug Fixes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-windows-10s-leading-screen-capture-tools-a-comprehensive-list-for-2024/"><u>[New] Windows 10'S Leading Screen Capture Tools A Comprehensive List for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-unleash-content-potential-how-to-increase-video-views-on-youtube/"><u>[Updated] Unleash Content Potential How to Increase Video Views on YouTube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/50-deal-alert-colsens-portable-fire-pit-is-up-for-grabs-on-zdnet/"><u>$50 Deal Alert: Colsen's Portable Fire Pit Is Up For Grabs on ZDNet!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-complete-guide-to-sourcing-elite-instagram-ringtones-and-designing-noteworthy-ringtone-alarms/"><u>2024 Approved A Complete Guide to Sourcing Elite Instagram Ringtones & Designing Noteworthy Ringtone Alarms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beijing-bid-wins-2022-winter-olympics-highlights-for-2024/"><u>Beijing Bid Wins 2022 Winter Olympics Highlights for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-e-commerce-outposts-your-ultimate-gift-enclosure-hub/"><u>Elite E-Commerce Outposts Your Ultimate Gift Enclosure Hub</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/find-your-ideal-photo-editor-top-15-free-budget-apps-reviewed/"><u>Find Your Ideal Photo Editor Top #15 Free, Budget Apps Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/galaxy-s8-review-a-leap-forward-with-4k-display/"><u>Galaxy S8 Review - A Leap Forward with 4K Display</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-vivo-y02t-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Vivo Y02T Is Unlocked</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-vivo-x-flip-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Vivo X Flip to iPad | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-text-formatting-how-to-insert-lines-seamlessly-in-word/"><u>Mastering Text Formatting: How to Insert Lines Seamlessly in Word</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-deciding-the-right-time-and-methods-for-leaving-former-twitter-accounts/"><u>The Ultimate Guide: Deciding the Right Time & Methods for Leaving Former Twitter Accounts</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/ultimate-guide-convert-dvds-to-avi-format-on-windows-11-best-tools-of-2024/"><u>Ultimate Guide: Convert DVDs to Avi Format on Windows 11 - Best Tools of 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-the-realm-of-free-photo-frame-video-downloads/"><u>Unlocking the Realm of Free Photo Frame Video Downloads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/utilizing-lut-filters-in-obs-studio-effectively/"><u>Utilizing LUT Filters in OBS Studio Effectively</u></a></li>
 </ul></div>
 

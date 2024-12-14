@@ -1,7 +1,7 @@
 ---
 title: "Combining Visual and Auditory Elements in the Windows Photos App"
-date: 2024-12-06T17:47:21.793Z
-updated: 2024-12-08T16:37:25.114Z
+date: 2024-12-08T17:52:45.138Z
+updated: 2024-12-14T16:35:44.811Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 **You may also like:** [How to Trim Video in Windows 10 Photos Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to add filters on Windows 10 Photos App
@@ -55,10 +55,14 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -73,19 +77,15 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
-**Step 5**: Hit the ‘Done’ button.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Step 5**: Hit the ‘Done’ button.
 
 ## Conclusion
 
@@ -94,7 +94,7 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -112,16 +112,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-irreversible-termination-of-youtubes-brevity-mode/"><u>[New] Irreversible Termination of YouTube’s Brevity Mode</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-unbeatable-bike-sims-showcase/"><u>[New] Unbeatable Bike Sims Showcase</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-audience-hooks-writing-captivating-podcast-descriptions/"><u>[Updated] Audience Hooks Writing Captivating Podcast Descriptions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-guide-to-clear-stickers-in-video/"><u>[Updated] Comprehensive Guide to Clear Stickers in Video</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-timeline-tools-at-no-cost/"><u>2024 Approved Ultimate Timeline Tools at No Cost</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-comprehensible-guide-to-authoritative-testimonial-films-for-2024/"><u>A Comprehensible Guide to Authoritative Testimonial Films for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/detailed-tips-for-adequate-lighting-in-youtube-video-production/"><u>Detailed Tips for Adequate Lighting in YouTube Video Production</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-on-your-iphone-13-pro-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password On your iPhone 13 Pro</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/scripted-sentiments-for-show-summation-for-2024/"><u>Scripted Sentiments for Show Summation for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-essentials-for-becoming-a-top-notch-interviewer/"><u>The Essentials for Becoming a Top-Notch Interviewer</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-speed-solutions-for-sluggish-android-videos/"><u>Top Speed Solutions for Sluggish Android Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-visual-delight-expertly-ranked-top-8k-televisions-reviewed/"><u>[New] Visual Delight Expertly Ranked Top 8K Televisions Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-an-all-inclusive-subtitle-handbook-from-basics-to-advanced-tips/"><u>[Updated] An All-Inclusive Subtitle Handbook From Basics to Advanced Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-chroma-lens-reimagined-embracing-the-power-of-4k/"><u>[Updated] Chroma Lens Reimagined Embracing the Power of 4K</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ideal-4k-recorder-software-selections/"><u>[Updated] In 2024, Ideal 4K Recorder Software Selections</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-meme-mayhem-top-twenty-from-reddit-and-twitter/"><u>[Updated] Meme Mayhem Top Twenty From Reddit & Twitter</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-understanding-youtubes-hidden-content-the-unlisted-reality/"><u>[Updated] Understanding YouTube's Hidden Content The Unlisted Reality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-compreayers-guide-to-selecting-a-top-4k-lens/"><u>2024 Approved A Compreayer's Guide to Selecting a Top 4K Lens</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/balancing-soundtracks-with-visual-storytelling-in-trailers/"><u>Balancing Soundtracks with Visual Storytelling in Trailers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-whats-next-in-communication-witness-samsungs-revolutionary-handset-release/"><u>Discover What's Next in Communication - Witness Samsung's Revolutionary Handset Release</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-guide-converting-videos-tofrom-quicktime-format-on-windows-and-mac-devices/"><u>Easy Guide: Converting Videos To/From QuickTime Format on Windows & Mac Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-harness-iphones-full-potential-for-landscapes/"><u>How to Harness iPhone's Full Potential for Landscapes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-13-quick-and-simple-income-ideas-for-reddit-novices/"><u>In 2024, 13 Quick and Simple Income Ideas for Reddit Novices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-max-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 14 Pro Max Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultrawide-uhd-dilemranc-which-monitor-wins/"><u>In 2024, The Ultrawide-UHD Dilemranc Which Monitor Wins?</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/techniques-for-restoring-iphone-data-in-the-absence-of-backups/"><u>Techniques for Restoring iPhone Data in the Absence of Backups</u></a></li>
 </ul></div>
 
