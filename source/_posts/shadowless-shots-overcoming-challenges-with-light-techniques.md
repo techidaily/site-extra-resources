@@ -1,7 +1,7 @@
 ---
 title: "\"Shadowless Shots  Overcoming Challenges with Light Techniques\""
-date: 2024-07-25T05:30:44.894Z
-updated: 2024-07-26T05:30:44.894Z
+date: 2024-12-19T18:12:41.424Z
+updated: 2024-12-23T18:17:10.048Z
 tags: 
   - screen-recording
   - ai video
@@ -23,8 +23,9 @@ Many people are wondering how to set up lighting for video shooting. While there
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1\. How-to Guide
 
 **_1) Preparation_**
@@ -51,23 +52,25 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
 
@@ -77,15 +80,16 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
 After setting up all the lighting above, you can take a look at the comparison below:
@@ -96,18 +100,16 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 **Using Key Light + Fill + Backlight**
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 ## Summary
@@ -142,7 +144,24 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-navigating-the-digital-space-with-impactful-fb-giveaway-posts-for-2024/"><u>[New] Navigating the Digital Space with Impactful FB Giveaway Posts for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-becoming-a-photo-wizard-expert-techniques-for-utilizing-photoshops-background-eraser-tool/"><u>[Updated] Becoming a Photo Wizard Expert Techniques for Utilizing Photoshop's Background Eraser Tool</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-choose-the-best-mac-livestream-software-today/"><u>[Updated] Choose the Best Mac Livestream Software Today</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-contrast-and-composition-theory-in-design/"><u>[Updated] Contrast and Composition Theory in Design</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-steps-for-hyperlapse-photography-magic/"><u>2024 Approved Steps for Hyperlapse Photography Magic</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/benchmark-of-best-4k-youtube-to-mp3-video-processors/"><u>Benchmark of Best 4K YouTube to MP3 Video Processors</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-honor-x9b-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Honor X9b? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/entering-the-metaverse-discovering-6-rich-examples/"><u>Entering the Metaverse Discovering 6 Rich Examples</u></a></li>
+<li><a href="https://fox-access.techidaily.com/from-stillness-to-streamline-adding-blurring-beauty-to-illustrator-photos-for-2024/"><u>From Stillness to Streamline Adding Blurring Beauty to Illustrator Photos for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-s24-ultra-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy S24 Ultra Phone?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-turn-zip-into-srt-a-step-by-step-conversion-process/"><u>In 2024, Turn ZIP Into SRT A Step-by-Step Conversion Process</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovating-color-grading-with-new-lut-techniques/"><u>Innovating Color Grading with New LUT Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/iphone-photography-flip-and-tilt-your-images-anywhere-for-2024/"><u>IPhone Photography Flip & Tilt Your Images Anywhere for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/reinstate-your-airdrop-linkages-simple-fixes-for-iosmacos-issues-for-2024/"><u>Reinstate Your AirDrop Linkages Simple Fixes for iOS/macOS Issues for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/securing-your-files-on-windows-a-step-by-step-guide-to-password-protection-tips-by-yl-computing/"><u>Securing Your Files on Windows: A Step-by-Step Guide to Password Protection - Tips by YL Computing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essence-of-style-in-ae-title-design/"><u>The Essence of Style in AE Title Design</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-20-zero-cost-pubg-visual-anthologies/"><u>Top 20 Zero-Cost PUBG Visual Anthologies</u></a></li>
+</ul></div>
 

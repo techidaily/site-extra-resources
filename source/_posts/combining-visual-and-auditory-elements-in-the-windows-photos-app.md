@@ -1,7 +1,7 @@
 ---
 title: "Combining Visual and Auditory Elements in the Windows Photos App"
-date: 2024-12-08T17:52:45.138Z
-updated: 2024-12-14T16:35:44.811Z
+date: 2024-12-16T19:25:01.963Z
+updated: 2024-12-23T16:56:04.388Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 **You may also like:** [How to Trim Video in Windows 10 Photos Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to add filters on Windows 10 Photos App
@@ -49,20 +49,20 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
 
 **Step 4**: Click Filters at tool bar. Microsoft Photos has 14 filters you can use, including classic, adventure, sepia and so on.
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -81,11 +81,11 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5**: Hit the ‘Done’ button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -94,7 +94,7 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -112,20 +112,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-visual-delight-expertly-ranked-top-8k-televisions-reviewed/"><u>[New] Visual Delight Expertly Ranked Top 8K Televisions Reviewed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-an-all-inclusive-subtitle-handbook-from-basics-to-advanced-tips/"><u>[Updated] An All-Inclusive Subtitle Handbook From Basics to Advanced Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-chroma-lens-reimagined-embracing-the-power-of-4k/"><u>[Updated] Chroma Lens Reimagined Embracing the Power of 4K</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ideal-4k-recorder-software-selections/"><u>[Updated] In 2024, Ideal 4K Recorder Software Selections</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-meme-mayhem-top-twenty-from-reddit-and-twitter/"><u>[Updated] Meme Mayhem Top Twenty From Reddit & Twitter</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-understanding-youtubes-hidden-content-the-unlisted-reality/"><u>[Updated] Understanding YouTube's Hidden Content The Unlisted Reality</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-a-compreayers-guide-to-selecting-a-top-4k-lens/"><u>2024 Approved A Compreayer's Guide to Selecting a Top 4K Lens</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/balancing-soundtracks-with-visual-storytelling-in-trailers/"><u>Balancing Soundtracks with Visual Storytelling in Trailers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-whats-next-in-communication-witness-samsungs-revolutionary-handset-release/"><u>Discover What's Next in Communication - Witness Samsung's Revolutionary Handset Release</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-guide-converting-videos-tofrom-quicktime-format-on-windows-and-mac-devices/"><u>Easy Guide: Converting Videos To/From QuickTime Format on Windows & Mac Devices</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-harness-iphones-full-potential-for-landscapes/"><u>How to Harness iPhone's Full Potential for Landscapes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-13-quick-and-simple-income-ideas-for-reddit-novices/"><u>In 2024, 13 Quick and Simple Income Ideas for Reddit Novices</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-max-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 14 Pro Max Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultrawide-uhd-dilemranc-which-monitor-wins/"><u>In 2024, The Ultrawide-UHD Dilemranc Which Monitor Wins?</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/techniques-for-restoring-iphone-data-in-the-absence-of-backups/"><u>Techniques for Restoring iPhone Data in the Absence of Backups</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-locate-and-watch-vintage-facebook-moments/"><u>[New] 2024 Approved Locate and Watch Vintage Facebook Moments</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-bikes-viewing-experience-5050-of-the-ultimate-helmet-cam-tech/"><u>[Updated] Bike's Viewing Experience - 50/50 of the Ultimate Helmet Cam Tech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capture-natural-motion-blur-for-pics/"><u>2024 Approved Capture Natural Motion Blur for Pics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/be-a-social-media-wizard-best-tweeter-video-tools/"><u>Be a Social Media Wizard Best Tweeter Video Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721412293357-chatgpt-unleashed-still-6-strengths-of-selecting-plus-endure/"><u>ChatGPT Unleashed; Still, 6 Strengths of Selecting Plus Endure.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/direct-hit-at-simplifying-livestreaming/"><u>Direct Hit at Simplifying Livestreaming</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/essential-tips-for-fixing-windows-11-printer/"><u>Essential Tips for Fixing Windows 11 Printer</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/freedom-in-fun-10-excellent-offline-gaming-on-android-devices-for-2024/"><u>Freedom in Fun 10 Excellent Offline Gaming on Android Devices for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/grasping-the-balance-positives-and-negatives-of-vr/"><u>Grasping the Balance Positives and Negatives of VR</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-motorola-moto-g14-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Motorola Moto G14?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/p90x3-dvd-iphone6/"><u>P90X3 DVDフォームロジック コレクション - iPhone6へ安全な書き戻し方法</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-for-rectifying-issues-with-the-realtek-8723be-network-card-driver/"><u>Step-by-Step Instructions for Rectifying Issues with the Realtek 8723BE Network Card Driver</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlined-approach-to-add-linktree-in-tiktok-about-section/"><u>Streamlined Approach to Add Linktree in TikTok About Section</u></a></li>
 </ul></div>
 

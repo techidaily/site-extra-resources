@@ -1,7 +1,7 @@
 ---
 title: "Effortless Image Incorrante on Instagram"
-date: 2024-07-25T05:24:03.538Z
-updated: 2024-07-26T05:24:03.538Z
+date: 2024-12-20T17:31:19.989Z
+updated: 2024-12-23T19:29:02.220Z
 tags: 
   - screen-recording
   - ai video
@@ -29,14 +29,6 @@ But one thing stands in the way of how you can use Instagram like an expert. You
 
 * [FAQ](#part3)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. Steps to add photos on Instagram
 
 **Utilize Layout**
@@ -51,16 +43,25 @@ Step1 **Add photos to Instagram posts** by swiping right to open Story on your I
 
 Step2 Next thing to do to **add photos to Instagram posts** is to select Layout from the list, then select Change Grid. Choose the grid you choose.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![select layout from list](https://images.wondershare.com/filmora/article-images/2022/07/add-photos-on-instagram-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 The next thing is to **upload photos** To choose pictures from your phone's gallery, click on the photo icon in the lower-left corner.
 
 Step4 Simply hit the Tick button in the center once you're finished.
 
 ![hit tick button](https://images.wondershare.com/filmora/article-images/2022/07/add-photos-on-instagram-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Useful Methods to Grace Your Instagram
 
@@ -76,9 +77,6 @@ It takes effort, preparation, and creative vision to create a stunning Instagram
 
 Facetune is an easy-to-use program that will enhance your appearance in every selfie you take and **make your Instagram stand out**. With the app Reshape tool, you can alter your jawline somewhat, the shape of your nose, and even the appearance of your entire face.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![facetune](https://images.wondershare.com/filmora/article-images/2022/07/add-photos-on-instagram-4.jpg)
 
 With the Vivid Makeup option, you may add color to your lips and eyeshadow, and you can emphasize these features even more by using photo-editing capabilities like background blur and customized effects.
@@ -89,18 +87,12 @@ Download: **Facetune** for [Android](https://play.google.com/store/apps/details?
 
 Photos often contain a lot of unwanted objects and persons that can't be easily removed, but the TouchRetouch app makes the removal of literally anything look easy.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![touchretouch](https://images.wondershare.com/filmora/article-images/2022/07/add-photos-on-instagram-5.jpg)
 
 What's more, it doesn't even require you to be too precise when designating the element in the photo you want to remove.
 
 Download: **TouchRetouch** for [Android](https://play.google.com/store/apps/details?id=com.advasoft.touchretouch&gl=US)(Contains ads, In-app purchases) | [iPhone](https://apps.apple.com/us/app/photo-retouch-object-removal/id1230394683) (Free, Offers In-App Purchases)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Use a Filter App
 
 You can make your photos stand out by using a filter. Filters make your photos clearer; on top of that, filters offer another level of control over your images regarding how they look, which is why many people use them across social media. Below are some filter apps you can check out.
@@ -119,27 +111,12 @@ Download: **VSCO** for [Android](https://play.google.com/store/apps/details?id=c
 
 Even though Pistich is used more frequently to make photo collages for Instagram feeds, the app offers a lot of filters that can be used for editing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![picstich](https://images.wondershare.com/filmora/article-images/2022/07/add-photos-on-instagram-7.jpg)
 
 The app offers a range of layouts and allows customers to design their own as well. After making their collage, users can add various filters, making it simple to crop photographs to fit in the appropriate space.
 
 Download: **Picstich** for [Android](https://play.google.com/store/apps/details?id=com.advasoft.touchretouch&gl=US)(In-app purchases) | [iPhone](https://apps.apple.com/us/app/vsco-photo-video-editor/id588013838)(Free, Offers In-App Purchases)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Overlay photo/Add stickers
 
 Overlaying photos and adding stickers transforms your photos into something beautiful and creative. There are numerous apps that you can utilize in doing so. Let’s take a look at them
@@ -160,13 +137,14 @@ The Photo Sticker app is ideal for **adding stickers to Instagram photos**. With
 
 ![photo sticker](https://images.wondershare.com/filmora/article-images/2022/07/add-photos-on-instagram-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Users of the app may then drag and drop those stickers onto photos—whether they were taken using the built-in camera or ones that were pulled from the photo library. Stickers can be rotated, scaled, or moved by users.
 
 Download: **Photo Sticker** for [Android](https://play.google.com/store/apps/details?id=com.lyrebirdstudio.montagenscolagem&hl=en)| [iPhone](https://apps.apple.com/ch/app/photosticker/id1483101510?l=en) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ### Add Border or Frame to Photos
 
 **Adding a border/ frame to a photo** makes your Instagram more beautiful and attractive. It is not a big deal, it is just a simple thing, but it makes your Instagram look like a magazine. There are numerous apps that can make that possible.
@@ -175,27 +153,20 @@ Download: **Photo Sticker** for [Android](https://play.google.com/store/apps/det
 
 **Add border/frame to your photos** with the use of PicStich app. PicStitch is an app that offers layout and college options for your Instagram photo. The app has over 32 unique layouts and some excellent filter and editing options.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![picstich stich](https://images.wondershare.com/filmora/article-images/2022/07/add-photos-on-instagram-10.jpg)
 
 The interesting part is that it is completely free and easy to use. You can download the app on [iPhone](https://apps.apple.com/ca/app/pic-stitch/id454768104)and [Android](https://play.google.com/store/apps/details?id=com.bigblueclip.picstitch&hl=en%5FCA).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Can I add more photos or videos to an existing Instagram post?
 
 No, you can't add more posts to an existing Instagram post. Instead, you can simultaneously upload more than one video/ picture (up to 10), as we have stated in this article.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 You have learned **how to add photos on Instagram** in this post. Instagram has become the go-to social network for most people over the past few years. As such, it's a great place for brands to **upload photo**s, posts, and updates that millions can view daily.
@@ -218,21 +189,23 @@ Step1 **Add photos to Instagram posts** by swiping right to open Story on your I
 
 ![add photos to instagram](https://images.wondershare.com/filmora/article-images/2022/07/add-photos-on-instagram-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Next thing to do to **add photos to Instagram posts** is to select Layout from the list, then select Change Grid. Choose the grid you choose.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select layout from list](https://images.wondershare.com/filmora/article-images/2022/07/add-photos-on-instagram-2.jpg)
 
 Step3 The next thing is to **upload photos** To choose pictures from your phone's gallery, click on the photo icon in the lower-left corner.
 
 Step4 Simply hit the Tick button in the center once you're finished.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![hit tick button](https://images.wondershare.com/filmora/article-images/2022/07/add-photos-on-instagram-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Useful Methods to Grace Your Instagram
 
@@ -282,9 +255,6 @@ Download: **VSCO** for [Android](https://play.google.com/store/apps/details?id=c
 
 Even though Pistich is used more frequently to make photo collages for Instagram feeds, the app offers a lot of filters that can be used for editing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![picstich](https://images.wondershare.com/filmora/article-images/2022/07/add-photos-on-instagram-7.jpg)
 
 The app offers a range of layouts and allows customers to design their own as well. After making their collage, users can add various filters, making it simple to crop photographs to fit in the appropriate space.
@@ -292,9 +262,9 @@ The app offers a range of layouts and allows customers to design their own as we
 Download: **Picstich** for [Android](https://play.google.com/store/apps/details?id=com.advasoft.touchretouch&gl=US)(In-app purchases) | [iPhone](https://apps.apple.com/us/app/vsco-photo-video-editor/id588013838)(Free, Offers In-App Purchases)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Overlay photo/Add stickers
 
 Overlaying photos and adding stickers transforms your photos into something beautiful and creative. There are numerous apps that you can utilize in doing so. Let’s take a look at them
@@ -315,13 +285,14 @@ The Photo Sticker app is ideal for **adding stickers to Instagram photos**. With
 
 ![photo sticker](https://images.wondershare.com/filmora/article-images/2022/07/add-photos-on-instagram-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Users of the app may then drag and drop those stickers onto photos—whether they were taken using the built-in camera or ones that were pulled from the photo library. Stickers can be rotated, scaled, or moved by users.
 
 Download: **Photo Sticker** for [Android](https://play.google.com/store/apps/details?id=com.lyrebirdstudio.montagenscolagem&hl=en)| [iPhone](https://apps.apple.com/ch/app/photosticker/id1483101510?l=en) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Add Border or Frame to Photos
 
 **Adding a border/ frame to a photo** makes your Instagram more beautiful and attractive. It is not a big deal, it is just a simple thing, but it makes your Instagram look like a magazine. There are numerous apps that can make that possible.
@@ -330,10 +301,11 @@ Download: **Photo Sticker** for [Android](https://play.google.com/store/apps/det
 
 **Add border/frame to your photos** with the use of PicStich app. PicStitch is an app that offers layout and college options for your Instagram photo. The app has over 32 unique layouts and some excellent filter and editing options.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![picstich stich](https://images.wondershare.com/filmora/article-images/2022/07/add-photos-on-instagram-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The interesting part is that it is completely free and easy to use. You can download the app on [iPhone](https://apps.apple.com/ca/app/pic-stitch/id454768104)and [Android](https://play.google.com/store/apps/details?id=com.bigblueclip.picstitch&hl=en%5FCA).
 
@@ -375,7 +347,20 @@ To get your content seen by the largest number of people, you should leverage th
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-unveiling-the-best-ways-to-watch-360-videos-on-android-for-2024/"><u>[New] Unveiling the Best Ways to Watch 360 Videos on Android for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-djis-sky-high-creativity-with-pro-drone-review/"><u>[Updated] DJI's Sky-High Creativity with Pro Drone Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-the-9-hottest-sites-for-3d-graffiti-font-download/"><u>Discover the 9 Hottest Sites for 3D Graffiti Font Download</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-of-the-best-trivia-channels/"><u>In 2024, Best of the Best Trivia Channels</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-journey-through-gaming-landscapes-with-kinemaster-and-discover-its-best-competitors/"><u>In 2024, Journey Through Gaming Landscapes with KineMaster & Discover Its Best Competitors</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-what-is-public-domain-art/"><u>In 2024, What Is Public Domain Art</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/maximizing-gopro-footage/"><u>Maximizing GoPro Footage</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/snapchats-star-highlight-utilization-guide/"><u>Snapchat's Star Highlight Utilization Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlining-film-grading-with-cg-centrals-look-up-tables/"><u>Streamlining Film Grading with CG Central's Look-Up Tables</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-complete-guide-to-mastering-polarrs-image-precision/"><u>The Complete Guide to Mastering Polarr's Image Precision</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-guide-to-the-leading-17-inch-laptops/"><u>Ultimate Guide to the Leading 17-Inch Laptops</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-8-strategic-ways-to-leverage-ai-for-teaching/"><u>Unlocking Potential: 8 Strategic Ways to Leverage AI for Teaching</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-stunning-invites-best-video-maker-apps-for-ios-and-android/"><u>Updated Create Stunning Invites Best Video Maker Apps for iOS and Android</u></a></li>
+</ul></div>
 

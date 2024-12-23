@@ -1,7 +1,7 @@
 ---
 title: "\"Harmonize Visual & Auditory Elements  Adding Filters & Sound to Windows Photos App\""
-date: 2024-12-07T16:46:58.510Z
-updated: 2024-12-14T16:43:20.725Z
+date: 2024-12-16T18:36:34.728Z
+updated: 2024-12-23T20:03:03.133Z
 tags: 
   - screen-recording
   - ai video
@@ -45,24 +45,16 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
 
 **Step 4**: Click Filters at tool bar. Microsoft Photos has 14 filters you can use, including classic, adventure, sepia and so on.
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -77,14 +69,22 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5**: Hit the ‘Done’ button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -94,7 +94,7 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -112,16 +112,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-crafting-success-pushing-your-video-into-top-charts/"><u>[New] 2024 Approved Crafting Success Pushing Your Video Into Top Charts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-15-top-free-slow-motion-video-recording-apps-for-iphoneandroid/"><u>[Updated] 15 Top Free Slow Motion Video Recording Apps for iPhone/Android</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-unlock-your-screen-androids-premier-free-recorder-tools/"><u>[Updated] 2024 Approved Unlock Your Screen Android's Premier Free Recorder Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-best-buys-in-the-drone-world-ready/"><u>[Updated] Best Buys in the Drone World Ready</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-becoming-a-snapping-maestro-mastering-the-zoom-feature-in-snapchat/"><u>2024 Approved Becoming a Snapping Maestro Mastering the Zoom Feature in Snapchat</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-correct-save-location-errors-in-windows-pcs/"><u>How to Correct Save Location Errors in Windows PCs</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-iphone-15-plusipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from iPhone 15 Plus/iPad/iPod</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-your-screens-resistance-to-current-input-sync-settings-solved/"><u>Overcome Your Screen's Resistance to Current Input Sync Settings – Solved!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-10-subtitle-converters-no-cost-for-srt-files/"><u>Top 10 Subtitle Converters, No Cost for SRT Files</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-14-plus-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 14 Plus Without Passcode Easily</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/vaulting-to-victory-with-best-gk-trivia-video-channels-2024/"><u>Vaulting to Victory with Best GK Trivia Video Channels, 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-boosting-your-video-income-on-youtube-essentials/"><u>[Updated] Boosting Your Video Income on Youtube - Essentials</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-bring-life-to-pixels-add-motion-blur/"><u>[Updated] Bring Life to Pixels Add Motion Blur</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/augmenting-film-vistas-with-apple-playlist-for-2024/"><u>Augmenting Film Vistas with Apple Playlist for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/bitlockerwindows-n112/"><u>BitLocker回復キーを無視できるWindows N11のテクニック:効果的2方法</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210367692-9781662432866-conscious-exploration-for-the-advanced-soul/"><u>Conscious Exploration for the Advanced Soul | Free Book</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-to-picking-best-free-online-srt-translation-providers-for-2024/"><u>Guide to Picking Best Free Online SRT Translation Providers for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-microsoft-store-error-code-0x00000000-in-windows-11-and-11/"><u>How to Fix the Microsoft Store Error Code 0X00000000 in Windows 11 & 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/metaverse-persona-design-a-beginners-compreraniary-guide-for-2024/"><u>Metaverse Persona Design A Beginner's Compreraniary Guide for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/monitor-your-bsv-wallet-a-guide-to-checking-bitcoin-sv-address-balances-tips-from-yl-computing/"><u>Monitor Your BSV Wallet: A Guide to Checking Bitcoin SV Address Balances - Tips From YL Computing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfect-pictures-at-a-click-the-10-best-grids/"><u>Perfect Pictures at a Click - The 10 Best Grids</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfecting-voice-broadcasts-on-apple-devices-the-pros-guide/"><u>Perfecting Voice Broadcasts on Apple Devices - The Pro's Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sky-high-security-the-prime-5-cloud-choices/"><u>Sky High Security The Prime 5 Cloud Choices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/speech-recognition-made-easy-your-route-to-streamlined-workflows-with-microsoft-words-features/"><u>Speech Recognition Made Easy Your Route to Streamlined Workflows with Microsoft Word's Features</u></a></li>
 </ul></div>
 

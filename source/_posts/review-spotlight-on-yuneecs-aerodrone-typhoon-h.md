@@ -1,7 +1,7 @@
 ---
 title: "Review Spotlight on Yuneec’s AeroDrone Typhoon H"
-date: 2024-07-25T05:24:48.323Z
-updated: 2024-07-26T05:24:48.323Z
+date: 2024-12-17T19:20:12.051Z
+updated: 2024-12-23T20:13:34.400Z
 tags: 
   - screen-recording
   - ai video
@@ -83,11 +83,11 @@ thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500
 
 #### 6\.  Controller
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![yuneec typhoon h controller](https://images.wondershare.com/filmora/article-images/yuneec-typhoon-h-controller.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The controller part is really interesting with few additional features as compared to its predecessors. You will be able to access button and knobs but one new addition to controller is in form of its built in type 7 inch touchscreen that can display the telemetry data on continuous basis. Here is good news for professionals; it is possible to connect this drone to more than one controller at a time so that few highly customized shoots can be gathered. Filmmakers love to access these advanced features.
 
@@ -101,10 +101,11 @@ thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500
 
  If we consider all advanced features then there is no doubt to say that Typhoon H is one of the fantastic units for hexacopter lovers. It is much easier to control for beginners as well as professionals whereas the results for footage and stills are really impressive. The best part is its ability to fold up into a compact size so that users can take it to any far location with ease. Although you may find the battery issue as it takes about 2 hours to get completely charged but the performance on rest all parameters is impressive. And all these features are available at very suitable price range. Most of filmmakers love to record their aerial shots with this device as its dual operation mode makes it suitable for serious filming needs.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -118,10 +119,11 @@ Follow @Max Wales
 
  Yuneec Typhoon was one of the old champions in the drone market but it is still able to beat most of the advanced drone units with its incredible features. This device is designed to provide impressive results for [aerial videography and photography](https://tools.techidaily.com/wondershare/filmora/download/) even with its tiny size. This unit is especially designed to meet customer's requirements with all high end design capabilities that can be accessed at suitable price range.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![yuneec typhoon h 4k](https://images.wondershare.com/filmora/article-images/yuneec-typhoon-h-4k.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01AT4BKFU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01AT4BKFU&linkId=e78ed50f4be15f8e7659a71d593af0c9)
 
@@ -182,123 +184,14 @@ Follow @Max Wales
 
 #### 7\.  Camera
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![yuneec typhoon h camera](https://images.wondershare.com/filmora/article-images/yuneec-typhoon-h-camera.jpg)
 
  The drone camera can provide 4K recording facility whereas users can also switch between 2.5K and 1080p level as per need. The FPS ratings can be shifted for better results. Results can be enhanced with its ½.3” CMOS sensor and the developers also claim to serve with video transmission range of about 400 meters. The 360 degree gimbal is also available with this drone and its results are professional looking with advantage of sonar sensor.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-## Conclusion
 
- If we consider all advanced features then there is no doubt to say that Typhoon H is one of the fantastic units for hexacopter lovers. It is much easier to control for beginners as well as professionals whereas the results for footage and stills are really impressive. The best part is its ability to fold up into a compact size so that users can take it to any far location with ease. Although you may find the battery issue as it takes about 2 hours to get completely charged but the performance on rest all parameters is impressive. And all these features are available at very suitable price range. Most of filmmakers love to record their aerial shots with this device as its dual operation mode makes it suitable for serious filming needs.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- Yuneec Typhoon was one of the old champions in the drone market but it is still able to beat most of the advanced drone units with its incredible features. This device is designed to provide impressive results for [aerial videography and photography](https://tools.techidaily.com/wondershare/filmora/download/) even with its tiny size. This unit is especially designed to meet customer's requirements with all high end design capabilities that can be accessed at suitable price range.
-
-![yuneec typhoon h 4k](https://images.wondershare.com/filmora/article-images/yuneec-typhoon-h-4k.jpg)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01AT4BKFU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01AT4BKFU&linkId=e78ed50f4be15f8e7659a71d593af0c9)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
-## Pros and Cons of Typhoon H
-
-**Pros:**
-
-* This device is more popular for its advanced features that are available at very small price range.
-* Offers 360 degree shooting ability with its rotating classic 4k camera unit.
-* Comes with retractable landing gear.
-* Users can have separate control over camera and drone.
-* Typhoon is equipped with sonar based object recognition feature.
-* Serves with Intel real-sense type obstacle avoidance system.
-* All parts are replaceable and are easily available in market, users can complete the replacement task with do it yourself procedures.
-
-**Cons:**
-
-* It is not designed with sturdy features as other comparable drone units.
-* You will not find its layout and size much user friendly.
-* Takes too much time for complete charging.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
-## Complete Review for Yuneec Typhoon H
-
-#### 1. Basic Specs Info
-
-| Item name            | Yuneec Typhoon     |                       |                                                              |
-| -------------------- | ------------------ | --------------------- | ------------------------------------------------------------ |
-| Price:               | Official: $1299.99 |                       |                                                              |
-| Basic Specifications |                    |                       |                                                              |
-| Weight               | 1.85 Kg            | Rotors                | 6                                                            |
-| Control Range        | Up to one mile     | Flight Time/speed     | 25 minutes/45mph                                             |
-| FAA Registration     | Yes                | Smartphone Controlled | Yes                                                          |
-| FOV                  | 115 degree         | Battery Life          | 20/22 minutes (5200 mAh, Li-ion)                             |
-| Stills               | 12.4 MP            | Gimbal                | 3 axis                                                       |
-| Video Resolution     | 4K/30P             | Special Features      | Sonar Collision detection sensors and real-sense technology. |
-
-#### 2\.  Design
-
- People love the 6 rotor type design of Typhoon because it helps a drone to stay perfectly in air even if one motor fails suddenly. It comes with quick release type propellers that are very easy to install as well as remove. One cooler feature of Typhoon is its foldable arms that help to make it compact enough for packing when you have to go for travelling. The sonar collision detection sensors help to avoid all distractions on the way and keep your device safe from crashes. Further, its real sense technology makes it able to navigate around objects that are detected by collision detection sensor.
-
-#### 3\.  Battery Life
-
- As per the box specifications, this drone comes with a 5400mAh/ 14.8V/ 79.9 Wh battery that allows maximum flight time of 25 minutes in normal conditions. You will feel little annoying to know that its battery takes about 2 hours to get completely charged. So you have to wait so long to make it fly again.
-
-#### 4\.  Flight Performance
-
- Typhoon offers 25 minutes flight time with the maximum speed of 45 meters per hour. This drone is designed with five unique modes for flight; one of these is the journey mode that helps to take of automatically and then starts taking selfie. You can activate follow me and watch me mode on this device and it will keep on following you over your path while keeping camera pointed towards your movements. One latest feature is Curve Cable Cam that helps users to program complete route for drone with pre set coordinates whereas camera positions can be controlled separately. If you switch to orbit me mode then it will start flying in circular direction but camera stays locked to control position. Further, the point of interest mode makes this drone to rotate around a fixed subject as per user's selection. You will definitely love its return to home feature that helps it to land safely to original position.
-
-#### 5\.  Obstacle Avoidance
-
- Typhoon H is equipped with a built in type obstacle avoidance sensor that can find all distractions easily around and keeps your drone safe from crashes. It works with sonar technology that means your device can easily detect all the undesired objects on the way even in low light conditions or in darkness. Note that this sensor is attached at front portion of your drone so it can serve with the detection ability to front facing objects only, if anything comes from sides then your drone will not be able to stay safe. But still, at least you have a new feature and it works amazingly.
-
-#### 6\.  Controller
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
-![yuneec typhoon h controller](https://images.wondershare.com/filmora/article-images/yuneec-typhoon-h-controller.jpg)
-
- The controller part is really interesting with few additional features as compared to its predecessors. You will be able to access button and knobs but one new addition to controller is in form of its built in type 7 inch touchscreen that can display the telemetry data on continuous basis. Here is good news for professionals; it is possible to connect this drone to more than one controller at a time so that few highly customized shoots can be gathered. Filmmakers love to access these advanced features.
-
-#### 7\.  Camera
-
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
-![yuneec typhoon h camera](https://images.wondershare.com/filmora/article-images/yuneec-typhoon-h-camera.jpg)
-
- The drone camera can provide 4K recording facility whereas users can also switch between 2.5K and 1080p level as per need. The FPS ratings can be shifted for better results. Results can be enhanced with its ½.3” CMOS sensor and the developers also claim to serve with video transmission range of about 400 meters. The 360 degree gimbal is also available with this drone and its results are professional looking with advantage of sonar sensor.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
  If we consider all advanced features then there is no doubt to say that Typhoon H is one of the fantastic units for hexacopter lovers. It is much easier to control for beginners as well as professionals whereas the results for footage and stills are really impressive. The best part is its ability to fold up into a compact size so that users can take it to any far location with ease. Although you may find the battery issue as it takes about 2 hours to get completely charged but the performance on rest all parameters is impressive. And all these features are available at very suitable price range. Most of filmmakers love to record their aerial shots with this device as its dual operation mode makes it suitable for serious filming needs.
@@ -317,22 +210,10 @@ Follow @Max Wales
 
  Yuneec Typhoon was one of the old champions in the drone market but it is still able to beat most of the advanced drone units with its incredible features. This device is designed to provide impressive results for [aerial videography and photography](https://tools.techidaily.com/wondershare/filmora/download/) even with its tiny size. This unit is especially designed to meet customer's requirements with all high end design capabilities that can be accessed at suitable price range.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![yuneec typhoon h 4k](https://images.wondershare.com/filmora/article-images/yuneec-typhoon-h-4k.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01AT4BKFU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01AT4BKFU&linkId=e78ed50f4be15f8e7659a71d593af0c9)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## Pros and Cons of Typhoon H
 
 **Pros:**
@@ -386,6 +267,10 @@ Follow @Max Wales
 
 ![yuneec typhoon h controller](https://images.wondershare.com/filmora/article-images/yuneec-typhoon-h-controller.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The controller part is really interesting with few additional features as compared to its predecessors. You will be able to access button and knobs but one new addition to controller is in form of its built in type 7 inch touchscreen that can display the telemetry data on continuous basis. Here is good news for professionals; it is possible to connect this drone to more than one controller at a time so that few highly customized shoots can be gathered. Filmmakers love to access these advanced features.
 
 #### 7\.  Camera
@@ -394,14 +279,110 @@ Follow @Max Wales
 
  The drone camera can provide 4K recording facility whereas users can also switch between 2.5K and 1080p level as per need. The FPS ratings can be shifted for better results. Results can be enhanced with its ½.3” CMOS sensor and the developers also claim to serve with video transmission range of about 400 meters. The 360 degree gimbal is also available with this drone and its results are professional looking with advantage of sonar sensor.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
  If we consider all advanced features then there is no doubt to say that Typhoon H is one of the fantastic units for hexacopter lovers. It is much easier to control for beginners as well as professionals whereas the results for footage and stills are really impressive. The best part is its ability to fold up into a compact size so that users can take it to any far location with ease. Although you may find the battery issue as it takes about 2 hours to get completely charged but the performance on rest all parameters is impressive. And all these features are available at very suitable price range. Most of filmmakers love to record their aerial shots with this device as its dual operation mode makes it suitable for serious filming needs.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ Yuneec Typhoon was one of the old champions in the drone market but it is still able to beat most of the advanced drone units with its incredible features. This device is designed to provide impressive results for [aerial videography and photography](https://tools.techidaily.com/wondershare/filmora/download/) even with its tiny size. This unit is especially designed to meet customer's requirements with all high end design capabilities that can be accessed at suitable price range.
+
+![yuneec typhoon h 4k](https://images.wondershare.com/filmora/article-images/yuneec-typhoon-h-4k.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01AT4BKFU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01AT4BKFU&linkId=e78ed50f4be15f8e7659a71d593af0c9)
+
+## Pros and Cons of Typhoon H
+
+**Pros:**
+
+* This device is more popular for its advanced features that are available at very small price range.
+* Offers 360 degree shooting ability with its rotating classic 4k camera unit.
+* Comes with retractable landing gear.
+* Users can have separate control over camera and drone.
+* Typhoon is equipped with sonar based object recognition feature.
+* Serves with Intel real-sense type obstacle avoidance system.
+* All parts are replaceable and are easily available in market, users can complete the replacement task with do it yourself procedures.
+
+**Cons:**
+
+* It is not designed with sturdy features as other comparable drone units.
+* You will not find its layout and size much user friendly.
+* Takes too much time for complete charging.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Complete Review for Yuneec Typhoon H
+
+#### 1. Basic Specs Info
+
+| Item name            | Yuneec Typhoon     |                       |                                                              |
+| -------------------- | ------------------ | --------------------- | ------------------------------------------------------------ |
+| Price:               | Official: $1299.99 |                       |                                                              |
+| Basic Specifications |                    |                       |                                                              |
+| Weight               | 1.85 Kg            | Rotors                | 6                                                            |
+| Control Range        | Up to one mile     | Flight Time/speed     | 25 minutes/45mph                                             |
+| FAA Registration     | Yes                | Smartphone Controlled | Yes                                                          |
+| FOV                  | 115 degree         | Battery Life          | 20/22 minutes (5200 mAh, Li-ion)                             |
+| Stills               | 12.4 MP            | Gimbal                | 3 axis                                                       |
+| Video Resolution     | 4K/30P             | Special Features      | Sonar Collision detection sensors and real-sense technology. |
+
+#### 2\.  Design
+
+ People love the 6 rotor type design of Typhoon because it helps a drone to stay perfectly in air even if one motor fails suddenly. It comes with quick release type propellers that are very easy to install as well as remove. One cooler feature of Typhoon is its foldable arms that help to make it compact enough for packing when you have to go for travelling. The sonar collision detection sensors help to avoid all distractions on the way and keep your device safe from crashes. Further, its real sense technology makes it able to navigate around objects that are detected by collision detection sensor.
+
+#### 3\.  Battery Life
+
+ As per the box specifications, this drone comes with a 5400mAh/ 14.8V/ 79.9 Wh battery that allows maximum flight time of 25 minutes in normal conditions. You will feel little annoying to know that its battery takes about 2 hours to get completely charged. So you have to wait so long to make it fly again.
+
+#### 4\.  Flight Performance
+
+ Typhoon offers 25 minutes flight time with the maximum speed of 45 meters per hour. This drone is designed with five unique modes for flight; one of these is the journey mode that helps to take of automatically and then starts taking selfie. You can activate follow me and watch me mode on this device and it will keep on following you over your path while keeping camera pointed towards your movements. One latest feature is Curve Cable Cam that helps users to program complete route for drone with pre set coordinates whereas camera positions can be controlled separately. If you switch to orbit me mode then it will start flying in circular direction but camera stays locked to control position. Further, the point of interest mode makes this drone to rotate around a fixed subject as per user's selection. You will definitely love its return to home feature that helps it to land safely to original position.
+
+#### 5\.  Obstacle Avoidance
+
+ Typhoon H is equipped with a built in type obstacle avoidance sensor that can find all distractions easily around and keeps your drone safe from crashes. It works with sonar technology that means your device can easily detect all the undesired objects on the way even in low light conditions or in darkness. Note that this sensor is attached at front portion of your drone so it can serve with the detection ability to front facing objects only, if anything comes from sides then your drone will not be able to stay safe. But still, at least you have a new feature and it works amazingly.
+
+#### 6\.  Controller
+
+![yuneec typhoon h controller](https://images.wondershare.com/filmora/article-images/yuneec-typhoon-h-controller.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ The controller part is really interesting with few additional features as compared to its predecessors. You will be able to access button and knobs but one new addition to controller is in form of its built in type 7 inch touchscreen that can display the telemetry data on continuous basis. Here is good news for professionals; it is possible to connect this drone to more than one controller at a time so that few highly customized shoots can be gathered. Filmmakers love to access these advanced features.
+
+#### 7\.  Camera
+
+![yuneec typhoon h camera](https://images.wondershare.com/filmora/article-images/yuneec-typhoon-h-camera.jpg)
+
+ The drone camera can provide 4K recording facility whereas users can also switch between 2.5K and 1080p level as per need. The FPS ratings can be shifted for better results. Results can be enhanced with its ½.3” CMOS sensor and the developers also claim to serve with video transmission range of about 400 meters. The 360 degree gimbal is also available with this drone and its results are professional looking with advantage of sonar sensor.
+
+## Conclusion
+
+ If we consider all advanced features then there is no doubt to say that Typhoon H is one of the fantastic units for hexacopter lovers. It is much easier to control for beginners as well as professionals whereas the results for footage and stills are really impressive. The best part is its ability to fold up into a compact size so that users can take it to any far location with ease. Although you may find the battery issue as it takes about 2 hours to get completely charged but the performance on rest all parameters is impressive. And all these features are available at very suitable price range. Most of filmmakers love to record their aerial shots with this device as its dual operation mode makes it suitable for serious filming needs.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -431,7 +412,21 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-innovative-metaverse-humor-generating-unique-memes/"><u>[New] 2024 Approved Innovative Metaverse Humor Generating Unique Memes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-maximizing-impact-with-instagrams-new-algorithm-insights/"><u>[Updated] 2024 Approved Maximizing Impact with Instagram's New Algorithm Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-androids-premier-8-apps-harmonizing-free-and-paid-videomosaic-experience/"><u>[Updated] Android's Premier 8 Apps Harmonizing Free & Paid Videomosaic Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-choosing-the-best-footage-editor-hero-vs-polaroid-edition/"><u>[Updated] Choosing the Best Footage Editor Hero Vs. Polaroid Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-tips-for-game-recording-on-windows-10/"><u>[Updated] In 2024, Essential Tips for Game Recording on Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-guide-to-correctly-citing-generative-pre-trained-transformer-models-in-your-work/"><u>A Guide to Correctly Citing Generative Pre-Trained Transformer Models in Your Work</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guida-allutilizzo-di-freecam-2024-download-gratuito-e-istruzioni-complete/"><u>Guida All'utilizzo Di FreeCam 2024: Download Gratuito E Istruzioni Complete</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-shooting-spectacle-top-9-strategies-for-panoramic-videos/"><u>In 2024, Shooting Spectacle Top 9 Strategies for Panoramic Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mirthful-user-sign-up-saga/"><u>Mirthful User Sign-Up Saga</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/phantom-pitches-is-this-magical-talker-an-illusion-or-reality-explore-more-options/"><u>Phantom Pitches Is This Magical Talker an Illusion or Reality? Explore More Options</u></a></li>
+<li><a href="https://fox-making.techidaily.com/resolve-unable-to-perform-a-system-restore-on-the-necessary-drive-partition-error-5-effective-solutions/"><u>Resolve 'Unable to Perform a System Restore on the Necessary Drive Partition' Error: 5 Effective Solutions</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/step-by-step-guide-to-editing-videos-with-lightworks/"><u>Step-by-Step Guide to Editing Videos with Lightworks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-list-for-google-pixel-tones/"><u>The Ultimate List for Google Pixel Tones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-action-recorder-with-facing-mode/"><u>Ultimate Action Recorder with Facing Mode</u></a></li>
+</ul></div>
 

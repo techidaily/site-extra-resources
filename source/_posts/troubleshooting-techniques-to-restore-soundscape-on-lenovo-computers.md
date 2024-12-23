@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Techniques to Restore Soundscape on Lenovo Computers
-date: 2024-12-10T18:33:08.265Z
-updated: 2024-12-14T17:22:17.290Z
+date: 2024-12-19T17:55:13.044Z
+updated: 2024-12-23T16:40:12.984Z
 tags:
   - win11
   - win10
@@ -30,13 +30,13 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 4. **[Restart Windows Audio Services](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your computer
 
  Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run the Windows audio troubleshooter
 
@@ -49,21 +49,17 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-322.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click**Playing Audio** , then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-323.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Follow the on-screen instructions to troubleshoot your problem.
 
 If Windows fails to detect your issue, move on and try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -103,9 +99,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Restart Windows Audio Services
 
@@ -115,6 +119,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-324.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click**Windows Audio** , then select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
@@ -122,10 +130,6 @@ OR
 **3)** Relaunch your game to test your issue.
 
  This should allow you to hear Apex Legends and everything else. If your issue still exists, don’t fret. There is still one more fix to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Apex Legends
 
@@ -136,10 +140,6 @@ OR
 **2)** Click**My Game Library** , right-click**Apex Legends** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-327.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** After your game is uninstalled, restart your computer.
 
@@ -169,20 +169,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-flipping-srt-to-sub-easy-conversion-techniques/"><u>[New] In 2024, Flipping SRT to SUB Easy Conversion Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-top-11-youtube-video-rippers-to-download-youtube-videos-for-2024/"><u>[New] Top 11 YouTube Video Rippers to Download YouTube Videos for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-an-examination-of-photoshops-anti-shake-capabilities/"><u>[Updated] An Examination of Photoshop’s Anti-Shake Capabilities</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-straightforward-approach-to-image-distortion-for-2024/"><u>A Straightforward Approach to Image Distortion for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ai-name-magic-selecting-the-best-tools-for-your-podcast-titles-for-2024/"><u>AI Name Magic Selecting the Best Tools for Your Podcast Titles for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-malfunctioning-voice-assistance-on-win11/"><u>Correcting Malfunctioning Voice Assistance on Win11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cutting-to-the-chase-mastering-zoom-in-videoleap-videos/"><u>Cutting to the Chase Mastering Zoom in Videoleap Videos</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-leading-17-laptop-picks-for-2amidst-2024s-tech-advancements/"><u>Discover the Leading 17 Laptop Picks for 2Amidst 2024'S Tech Advancements</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-making-audio-files-out-of-instagram-videos/"><u>In 2024, Making Audio Files Out of Instagram Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-graphics-glitches-and-freezes-ultimate-minecraft-pc-fixes-for-gamer-sweetheart/"><u>Resolving Graphics Glitches & Freezes: Ultimate Minecraft PC Fixes for Gamer Sweetheart</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-final-verdict-on-language-bots-for-your-workflow-7-deciding-factors/"><u>The Final Verdict on Language Bots for Your Workflow? 7 Deciding Factors</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-smartphone-list-for-optimal-gear-vr-functionality-2-written-by-john-doe-mba-expert-in-strategic-business-planning-and-marketing/"><u>The Ultimate Smartphone List for Optimal Gear VR Functionality (2 Written By John Doe, MBA | Expert in Strategic Business Planning and Marketing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/top-strategies-to-accelerate-your-computers-performance-tips-from-yl-software-solutions/"><u>Top Strategies to Accelerate Your Computer's Performance - Tips From YL Software Solutions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/vanguard-designs-evaluation-studio-25-examined-current-year/"><u>Vanguard Designs Evaluation Studio 25 Examined, Current Year</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-compatible-drivers-realtek-card-reader-software-for-windows-11/"><u>[Free Download] Compatible Drivers: Realtek Card Reader Software for Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-2023s-top-pick-of-affordable-live-stream-tech-for-every-platform-user/"><u>[New] 2023'S Top Pick of Affordable Live Stream Tech for Every Platform User</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-best-facebook-video-downloader-and-addons-for-firefox/"><u>[New] In 2024, Best Facebook Video Downloader And Addons for Firefox</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-swiftly-adapt-video-formats-for-mac-pixels/"><u>[Updated] 2024 Approved Swiftly Adapt Video Formats for MAC Pixels</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-tour-through-top-virtual-biking-experiences/"><u>[Updated] A Tour Through Top Virtual Biking Experiences</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-comparing-magix-to-other-video-editors-for-2024/"><u>[Updated] Comparing Magix to Other Video Editors for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-guidance-to-creating-a-3d-text-art-effect-in-adobe-illustrator/"><u>[Updated] Guidance to Creating a 3D Text Art Effect in Adobe Illustrator</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-10-free-and-paid-luts-for-canon-camera/"><u>2024 Approved 10 Free & Paid LUTs for Canon Camera</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-budget-asmr-mic-stellar-sound-value/"><u>2024 Approved Best Budget ASMR Mic Stellar Sound Value</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-mastering-time-plan-and-record-slack-plus-filmora-meetings/"><u>2024 Approved Mastering Time Plan & Record Slack + Filmora Meetings</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/mxfweb-movavi/"><u>完全無償でMXFを変換してくれるWebベースツール – Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-guide-to-sustaining-longer-gopro-battery-life/"><u>A Guide to Sustaining Longer GoPro Battery Life</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bring-life-to-pixels-add-motion-blur-for-2024/"><u>Bring Life to Pixels Add Motion Blur for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exclusive-listing-high-quality-free-streamers-for-webm-files/"><u>Exclusive Listing High-Quality, Free Streamers for WebM Files</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harmonizing-iphone-with-the-world-of-podcasts-for-2024/"><u>Harmonizing iPhone with the World of Podcasts for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-lava-blaze-curve-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Lava Blaze Curve 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/masterclass-techniques-to-get-your-pc-speakers-working-again/"><u>Masterclass Techniques to Get Your PC Speakers Working Again</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/why-videos-speak-louder-for-brands/"><u>Why Videos Speak Louder for Brands</u></a></li>
 </ul></div>
 

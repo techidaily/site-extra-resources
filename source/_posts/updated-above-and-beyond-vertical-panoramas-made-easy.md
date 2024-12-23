@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Above and Beyond  Vertical Panoramas Made Easy\""
-date: 2024-12-08T18:51:00.295Z
-updated: 2024-12-14T16:16:50.808Z
+date: 2024-12-20T18:55:59.396Z
+updated: 2024-12-23T19:47:35.154Z
 tags: 
   - screen-recording
   - ai video
@@ -35,13 +35,17 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
  However, you will need to use a few but simple techniques to efficiently capture the vertical panoramic view. In this article, we’ll explain you how you can carry out those extraordinary views with your Android or iOS device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to take vertical panorama photography with your respective Smartphone
 
 * [Part 1: For iPhone Users](#part1)
 * [Part 2: For Android Users](#part2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### For iPhone users
 
@@ -52,14 +56,14 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
 ![](https://images.wondershare.com/filmora/article-images/iphone-panorama-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image source: mac-fusion
 
 * Begin to go along with the upward arrow on the screen to capture the desired vertorama.
 * Once finished and satisfied, just tap on "Done" option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### For Android users
 
@@ -71,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama-android.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image source: mac-fusion
@@ -79,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 * To shoot picture, keep holding the target circle on the gray dot until it vanishes.
 * Repeat the same with other dots as well. In other words, move camera towards the gray dots one by one until they get disappear.
 * Tap on "Done" when completed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Some Beneficial Tips for shooting vertical panorama photo
 
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -112,15 +112,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-2023s-fastest-route-to-convert-srt-to-txt-files/"><u>[New] 2023'S Fastest Route to Convert SRT to TXT Files</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-diy-youtube-music-collection-a-comprehensive-online-and-app-method/"><u>[New] 2024 Approved DIY YouTube Music Collection A Comprehensive Online & App Method</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/levate-your-channel-hit-the-10000-view-mark-fast/"><u>[New] Elevate Your Channel Hit the 10,000 View Mark Fast!</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-dive-deep-into-adobe-cloud-then-discover-alternatives/"><u>[New] In 2024, Dive Deep Into Adobe Cloud, Then Discover Alternatives</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-must-know-definition-of-digital-storytelling-for-2024/"><u>[Updated] Must-Know Definition of Digital Storytelling for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/bringing-dimensionality-to-text-a-photo-editing-masterclass-for-2024/"><u>Bringing Dimensionality to Text A Photo Editing Masterclass for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/clearing-up-disrupted-visual-playback-online-for-2024/"><u>Clearing Up Disrupted Visual Playback Online for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/embracing-extended-battery-life-by-regularly-utilizing-phone-power-conservation-modes/"><u>Embracing Extended Battery Life by Regularly Utilizing Phone Power Conservation Modes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/newbie-vlogger-tips-simple-video-concepts/"><u>Newbie Vlogger Tips Simple Video Concepts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/sparkling-access-methods-for-new-users/"><u>Sparkling Access Methods for New Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capturing-movie-scenes-as-single-image-snapshots-windows-10/"><u>[New] Capturing Movie Scenes as Single Image Snapshots (Windows 10)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-leading-plot-crafting-hub/"><u>[Updated] 2024 Approved Leading Plot Crafting Hub</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-anonymity-achieved-simplified-strategies-to-pixelate-photos/"><u>[Updated] Anonymity Achieved Simplified Strategies to Pixelate Photos</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-earn-big-fast-the-ultimate-guide-to-tiktoks-wealth-generation-8-strategies-for-2024/"><u>[Updated] Earn Big, Fast The Ultimate Guide to TikTok's Wealth Generation (8 Strategies) for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-updated-dialogue-tools-to-engage-audio-audiences/"><u>[Updated] In 2024, Updated Dialogue Tools to Engage Audio Audiences</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-ultimate-choice-top-5-pro-fish-action-cameras/"><u>2024 Approved Ultimate Choice Top 5 Pro-Fish Action Cameras</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-watch-ultra-edition-2-anticipated-launch-details-pricing-insights-specifications-and-latest-rumors/"><u>Apple Watch Ultra Edition 2: Anticipated Launch Details, Pricing Insights, Specifications & Latest Rumors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-drone-cameras-10-for-professional-filmmaking/"><u>Best Drone Cameras #10 For Professional Filmmaking</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-anticheat-connection-failure-issue-in-escape-from-tarkov/"><u>Fixing the 'Anticheat Connection Failure' Issue in Escape From Tarkov</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-11-proplus-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-add-text-to-photos-on-windows-and-mac/"><u>How to Add Text to Photos on Windows and Mac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-achieving-professional-grade-motion-blur-using-photoshop-tools/"><u>In 2024, Achieving Professional-Grade Motion Blur Using Photoshop Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-avoiding-unwanted-image-ripples/"><u>In 2024, Avoiding Unwanted Image Ripples</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-essential-playbook-achieving-peak-video-editing-on-youtube-studio/"><u>In 2024, The Essential Playbook Achieving Peak Video Editing on YouTube Studio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-new-era-with-powerdirector-app-2024-edition/"><u>Navigating the New Era with PowerDirector App 2024 Edition</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-digital-social-scene-understanding-facebook-twitter-instagram-and-youtube-dynamics/"><u>The Digital Social Scene: Understanding Facebook, Twitter, Instagram & YouTube Dynamics</u></a></li>
 </ul></div>
 

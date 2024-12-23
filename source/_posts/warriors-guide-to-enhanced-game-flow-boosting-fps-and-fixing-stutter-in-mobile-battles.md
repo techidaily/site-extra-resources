@@ -1,7 +1,7 @@
 ---
 title: Warrior's Guide to Enhanced Game Flow - Boosting FPS & Fixing Stutter in Mobile Battles
-date: 2024-12-07T16:59:24.361Z
-updated: 2024-12-14T16:24:55.492Z
+date: 2024-12-19T17:22:45.503Z
+updated: 2024-12-23T17:45:27.874Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/836491e2-f2a7-4294-a8d1-cc548b0de76f-1200x675.jpg)
 
  The most anticipated racer of the year, Forza Horizon 5, was premiered on November 5th and officially released on the 9th. Like any new title, you can expect that it comes with bugs and glitches. Many players are actually reporting**severe lags and connection issues** while playing Forza Horizon 5\. If you’re in the same boat, no worries! We’ve prepared a few working fixes for you to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -48,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 2. In the **Network**  column, select the bandwidth-hogging program(s), then click **End Task** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/close-bandwidth-hogging-program.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully the lagging issue doesn’t return after you close the bandwidth-hogging programs. If that’s the case, we’d suggest you play FH5 with the least programs running in the background according to your internet service capacity. Or, consult your internet service provider and consider upgrading your plan.
 
@@ -82,10 +90,6 @@ If the lagging issue persists, try the next fix.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -105,15 +109,11 @@ If the lagging issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-09-27.jpg)
 4. Click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-10-08.jpg)
 5. Scroll down to see if Forza Horizon 5 is on the exception list. If so, that means the game is allowed through your firewall, and you can [jump to the next fix](https://tools.techidaily.com/drivereasy/download/) . If you can’t find Forza Horizon 5 in the exception list, follow the steps below to unblock the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Add Forza Horizon 5 to the exception list
@@ -124,10 +124,6 @@ If the lagging issue persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-09-14_13-11-21.jpg)
 3. Navigate to Forza Horizon 5 game folders and add the game executable to the list.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Find Forza Horizon 5 on the list,**tick the checkbox of Private network** , and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14-1.jpg)  
@@ -144,14 +140,10 @@ If the lagging issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-49-09.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this fix doesn’t help with your problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Configure your DNS settings
 
@@ -160,6 +152,10 @@ If this fix doesn’t help with your problem, try the next fix.
 [1: Flush your DNS](https://tools.techidaily.com/drivereasy/download/)
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1: Flush your DNS
 
@@ -175,10 +171,18 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
@@ -189,22 +193,18 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -212,7 +212,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this fix doesn’t solve your problem, no worries, there’s one more fix you can try.
@@ -245,16 +245,19 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-a-beginners-guide-to-use-snapseed-photo-editing-features/"><u>[New] 2024 Approved A Beginner's Guide to Use Snapseed Photo Editing Features</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-a-guide-to-finding-hidden-youtube-treasures/"><u>[New] 2024 Approved A Guide to Finding Hidden YouTube Treasures</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-brightening-videos-android-tips/"><u>[New] Brightening Videos Android Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-crafting-memorable-dialogues-a-screenwriters-guide/"><u>[New] Crafting Memorable Dialogues A Screenwriter's Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-2024s-best-cameras-unveiled-high-quality-videography/"><u>[Updated] 2024'S Best Cameras Unveiled - High-Quality Videography</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-auditory-interface-excellence-for-podcasters/"><u>2024 Approved Auditory Interface Excellence For Podcasters</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/androids-photo-editor-showdown-can-pickup-claim-victory/"><u>Android's Photo Editor Showdown Can PickUp Claim Victory?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-collection-for-collage-crafting/"><u>In 2024, Comprehensive Collection for Collage Crafting</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-the-artists-roadmap-to-professional-growth/"><u>In 2024, The Artist's Roadmap to Professional Growth</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-timeless-stop-motion-gems-in-the-top-15/"><u>In 2024, Timeless Stop-Motion Gems in the Top 15</u></a></li>
-<li><a href="https://blog-min.techidaily.com/the-ultimate-list-of-versatile-vlc-alternatives-ideal-mkv-players-across-all-devices/"><u>The Ultimate List of Versatile VLC Alternatives: Ideal MKV Players Across All Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-acclaimed-websites-for-google-pixel-tonal-sounds/"><u>[New] Acclaimed Websites for Google Pixel Tonal Sounds</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revealing-top-streamers-expert-tips-on-choosing-right/"><u>[New] Revealing Top Streamers Expert Tips on Choosing Right</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-evaluating-on-demand-media-podcast-or-youtube/"><u>[Updated] Evaluating On-Demand Media Podcast or YouTube?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/arw-movavi/"><u>「網路免費ARW換版服務 - Movavi」</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-conversion-wizards-turning-vids-into-audible-files-on-pinterest/"><u>2024 Approved Conversion Wizards Turning Vids Into Audible Files on Pinterest</u></a></li>
+<li><a href="https://win-net.techidaily.com/bts-visuals-explore-high-quality-graphics-photo-collections-and-behind-the-scenes-pixels-by-yl-computing-solutions/"><u>BTS Visuals: Explore High-Quality Graphics, Photo Collections & Behind-the-Scenes Pixels by YL Computing Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dive-deep-into-single-platform-livestreaming-with-onestream/"><u>Dive Deep Into Single-Platform Livestreaming with OneStream</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-the-gtx-similar-problem/"><u>How to Fix the GTX # Similar Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-thaumaturge-from-freezing-or-crashing-on-your-desktop-computer/"><u>How to Stop Thaumaturge From Freezing or Crashing on Your Desktop Computer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/rapid-restoration-of-reddit-archives-removed/"><u>Rapid Restoration of Reddit Archives Removed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/softening-volume-windowsmac-audio-tips/"><u>Softening Volume Windows/Mac Audio Tips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-guide-converting-videos-for-optimal-playback-on-apple-ios-devices/"><u>Step-by-Step Guide: Converting Videos for Optimal Playback on Apple iOS Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-iphone-se-2022-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your iPhone SE (2022) on MetroPCS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-top-gopro-models-max-vs-hero-11/"><u>Unveiling the Top GoPro Models Max Vs. Hero 11</u></a></li>
 </ul></div>
 

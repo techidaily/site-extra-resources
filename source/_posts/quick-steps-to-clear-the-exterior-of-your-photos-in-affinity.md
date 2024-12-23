@@ -1,7 +1,7 @@
 ---
 title: "Quick Steps to Clear the Exterior of Your Photos in Affinity"
-date: 2024-12-08T18:11:02.479Z
-updated: 2024-12-14T16:57:51.747Z
+date: 2024-12-18T18:34:46.374Z
+updated: 2024-12-23T19:54:17.860Z
 tags: 
   - screen-recording
   - ai video
@@ -40,13 +40,13 @@ Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and 
 
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
 
@@ -61,7 +61,7 @@ Step5 In the last step, press the **"Delete"** key on your keyboard to remove th
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Remove a Busy Background in Affinity Designer
@@ -117,6 +117,10 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 This article discusses **removing a background in Affinity Photo**, whether the image has a white or a busy BG.
@@ -128,7 +132,7 @@ And if you have any interests in finding free images to expand your resource, yo
 Hopefully, this article and video can help you create ideal images!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Best Alternative of Affinity Photo
@@ -138,10 +142,6 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
@@ -160,7 +160,7 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -197,18 +197,20 @@ Hopefully, this article and video can help you create ideal images!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-top-underground-sources-for-smart-fb-memes/"><u>[New] Top Underground Sources for Smart FB Memes</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-elevate-your-ppt-presentations-avoiding-common-voiceover-pitfalls/"><u>[Updated] In 2024, Elevate Your PPT Presentations Avoiding Common Voiceover Pitfalls</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-achieving-seamless-video-communication-between-xbox-and-zoom/"><u>2024 Approved Achieving Seamless Video Communication Between Xbox & Zoom</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-adventure-showdown-analyzing-gopros-hero5b-and-session/"><u>2024 Approved Adventure Showdown Analyzing GoPro's Hero5B & Session</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-edge-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevate-every-shot-our-selection-of-video-zoom-tools/"><u>Elevate Every Shot Our Selection of Video Zoom Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/highlight-the-next-chapter-of-our-podcast-series/"><u>Highlight the Next Chapter of Our Podcast Series</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-resolve-xbox-controller-connection-problems-in-windows-7-8-and-11/"><u>How to Resolve Xbox Controller Connection Problems in Windows 7, 8 & 11</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-2023-fb-live-stream-mp4-conversion-tool/"><u>In 2024, 2023 FB Live Stream MP4 Conversion Tool</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/initiating-immediate-creation-of-captivating-facebook-panoramas/"><u>Initiating Immediate Creation of Captivating Facebook Panoramas</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-fix-get-the-latest-driver-for-your-hid-keyboard-in-no-time/"><u>Quick Fix: Get the Latest Driver for Your HID Keyboard in No Time!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-scripts-across-eight-film-categories/"><u>Top Scripts Across Eight Film Categories</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-future-of-audio-fabrication-creating-convincing-ai-voices-through-advanced-techniques/"><u>Updated 2024 Approved The Future of Audio Fabrication Creating Convincing AI Voices Through Advanced Techniques</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/eginners-blueprint-to-youtube-streaming-games-for-2024/"><u>[New] Beginner's Blueprint to YouTube Streaming Games for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-new-frontier-in-recording-captureking-review-for-2024/"><u>[New] The New Frontier in Recording 'CaptureKing' Review for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-ai-and-creativity-collide-the-best-podcast-renaming-solutions/"><u>[Updated] AI & Creativity Collide The Best Podcast Renaming Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-beyond-social-media-norms-the-distinctive-features-of-triller/"><u>[Updated] Beyond Social Media Norms The Distinctive Features of Triller</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-inside-look-at-vimeo-and-youtubes-market-strategies/"><u>[Updated] In 2024, Inside Look at Vimeo and YouTube’s Market Strategies</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-celebratory-moments-captured-a-list-of-the-most-beautiful-wedding-videos-8/"><u>2024 Approved Celebratory Moments Captured A List of the Most Beautiful Wedding Videos (8)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-secrets-to-amazing-photo-collages/"><u>2024 Approved Unveiling Secrets to Amazing Photo Collages</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-comprehensive-guide-top-12-websites-for-gratis-photo-libraries-for-2024/"><u>A Comprehensive Guide Top 12 Websites for Gratis Photo Libraries for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cartooncraft-detailed-24-app-audit/"><u>CartoonCraft Detailed '24 App Audit</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/getting-the-newest-updates-for-ch340g-usb-to-serial-driver-on-windows-11-systems/"><u>Getting the Newest Updates for CH340g USB-to-Serial Driver on Windows 11 Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capture-stunning-colors-top-11-methods-for-professional-grading-and-correction/"><u>In 2024, Capture Stunning Colors Top 11 Methods for Professional Grading & Correction</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-perfecting-your-videos-narrative-integrating-timestamps-smartly/"><u>In 2024, Perfecting Your Video's Narrative Integrating Timestamps Smartly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/incorporate-mp3s-into-presentation-decks/"><u>Incorporate MP3s Into Presentation Decks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/nvidias-custom-ai-foundations-demystified-who-can-benefit-from-this-generative-technology/"><u>NVIDIA's Custom AI Foundations Demystified – Who Can Benefit From This Generative Technology?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-future-is-now-transformative-metaverse-techniques/"><u>The Future Is Now Transformative Metaverse Techniques</u></a></li>
 </ul></div>
 

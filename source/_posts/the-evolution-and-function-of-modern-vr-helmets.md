@@ -1,7 +1,7 @@
 ---
 title: "The Evolution and Function of Modern VR Helmets"
-date: 2024-12-07T16:16:16.416Z
-updated: 2024-12-08T16:22:00.907Z
+date: 2024-12-21T19:01:54.851Z
+updated: 2024-12-23T17:53:06.745Z
 tags: 
   - screen-recording
   - ai video
@@ -38,15 +38,15 @@ thumbnail: https://www.lifewire.com/thmb/5zccj0kwo0KoS2pb6azCH1Qb8l0=/540x405/fi
 
  And for the final images to be totally convincing, the VR headsets use minimum frame rates of 60fps to do away with shuttering or make the users feel sick.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Top VR headsets overview
 
  The race by tech giants to get their share of the virtual reality market is on and company after company is burning the midnight oil to produce the next best headset.
 
  Below is a list of the various VR headsets currently available to purchase:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [HTC Vive]( https://www.vive.com/ )
 
@@ -54,13 +54,13 @@ thumbnail: https://www.lifewire.com/thmb/5zccj0kwo0KoS2pb6azCH1Qb8l0=/540x405/fi
 
  HTC Vive VR headset is made in collaboration with Valve and it plugs directly into PCs and uses Valve’s humongous gaming ecosystem. The headset has over 70 sensors to allow for 360 degrees head tracking and it also boasts of a 90Hz refresh rate responsible for keeping down the latency, which in turn saves the users from suffering motions sickness. This headset is currently available for purchase from $799.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Samsung Gear VR](http://www.samsung.com/global/galaxy/gear-vr/  )
 
 ![gear-vr](https://images.wondershare.com/filmora/article-images/gear-vr.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Samsung Gear VR is essentially Oculus Rift lite, owing to the fact that the two companies worked on the technology together. The Gear VR uses a Samsung Galaxy smartphone for the display and as the processor. The phone slots in front of the lenses and into a Micro USB slot, and uses the super AMOLED display as the screen. With the Gear, all you have to do is to slot in the phone, put on the headset and start enjoying the virtual reality experience.
 
@@ -69,7 +69,7 @@ thumbnail: https://www.lifewire.com/thmb/5zccj0kwo0KoS2pb6azCH1Qb8l0=/540x405/fi
 ![oculus-rift](https://images.wondershare.com/filmora/article-images/oculus-rift.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Oculus Rift headset was responsible for the current hysteria in virtual reality. The Rift plugs into the computer’s USB and DVI ports and tracks the movements of the head to provide 3D displays on its stereo screens. The consumer edition of the Rift comes with a 2160 x 1200 resolution as well as a refresh rate of 90Hz. The Rift matches HTC Vive in terms of the refresh rate, but lags behind Sony’s PlayStation VR, though it is a pretty advanced VR headset in terms of the technology used.
@@ -80,13 +80,13 @@ thumbnail: https://www.lifewire.com/thmb/5zccj0kwo0KoS2pb6azCH1Qb8l0=/540x405/fi
 
  Sony has finally announced the launch date for the PlayStation VR headset and this is expected to be 13th October 2016\. A new version though, was announced way back in 2015 and it featured a 5-inch LCD display of the original prototype. For the version to be released, it is expected to have a 5.7 inch OLED to allow for low persistence which will in turn translate to less motion blur. The refresh rate for Sony’s PlayStation VR has been ramped up to 120Hz, making it possible to have 120fps gaming.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Google Cardboard](https://vr.google.com/cardboard/  )
 
 ![google-cardboard-vr](https://images.wondershare.com/filmora/article-images/google-cardboard-vr.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Not to be left behind, Google also has a cardboard virtual reality headset. With this headset, it sounds like popping your smartphone in a cardboard container and putting it over your head for a virtual reality experience. Sounds like a joke, but you will be pleasantly surprised to learn that it works like charm and it is also low cost. If anything, the smartphone you have already has all the gyroscopic sensors as well as the positioning devices needed to track your head movements.
 
@@ -95,7 +95,7 @@ thumbnail: https://www.lifewire.com/thmb/5zccj0kwo0KoS2pb6azCH1Qb8l0=/540x405/fi
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -113,18 +113,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-extract-your-favorites-best-playlist-tools-reviewed-and-rated-for-2024/"><u>[New] Extract Your Favorites Best Playlist Tools Reviewed and Rated for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-iphoneandroid-edition-find-the-best-8-multimedia-editing-tools/"><u>2024 Approved IPhone/Android Edition Find the Best 8 Multimedia Editing Tools</u></a></li>
-<li><a href="https://article-tips.techidaily.com/a-peek-at-the-cutting-edge-features-for-windows-users/"><u>A Peek at the Cutting-Edge Features for Windows Users</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/boosting-zoom-image-quality-professional-insights-for-2024/"><u>Boosting Zoom Image Quality Professional Insights for 2024</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/comprendre-les-textes-complexes-grace-a-lautomatisation-cognitive-solution-dabbyy-indispensable-au-savoir-numerique/"><u>Comprendre Les Textes Complexes Grâce À L'automatisation Cognitive : Solution D'ABBYY Indispensable Au Savoir Numérique</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-harmonious-photographic-mosaics-with-ease/"><u>Crafting Harmonious Photographic Mosaics with Ease</u></a></li>
-<li><a href="https://solve-info.techidaily.com/enhance-your-digital-marketing-strategy-using-smart-tracking-technology-empowered-by-cookiebot-solutions/"><u>Enhance Your Digital Marketing Strategy Using Smart Tracking Technology – Empowered by Cookiebot Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-for-persistent-freezing-in-final-fantasy-xv-pc-version/"><u>Fixes and Solutions for Persistent Freezing in Final Fantasy XV PC Version</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/guida-sicura-e-semplice-per-eseguire-il-backup-di-file-su-windows-server-nas-e-qnap-un-approccio-fattibile/"><u>Guida Sicura E Semplice per Eseguire Il Backup Di File Su Windows Server, NAS, E QNAP: Un Approccio Fattibile</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-delete-photos-from-facebook/"><u>How to Delete Photos From Facebook</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-comparing-top-titles-magix-video-pro-x-among-others/"><u>In 2024, Comparing Top Titles Magix Video Pro X Among Others</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-ai-for-compelling-youtube-thumbnails/"><u>Leveraging AI for Compelling YouTube Thumbnails</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/quick-fix-for-iphone-video-length-and-scope-reduction/"><u>Quick-Fix for iPhone Video Length & Scope Reduction</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-jotunheims-gambit-warriors-of-ragnarok/"><u>[Updated] Jotunheim's Gambit Warriors of Ragnarok</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-20plus-humorous-metaverse-memes-and-diy-creation-guide/"><u>2024 Approved 20+ Humorous Metaverse Memes & DIY Creation Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-calm-in-chaos-how-to-reduce-shake-on-action-cam-videos/"><u>2024 Approved Calm in Chaos How to Reduce Shake on Action Cam Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/composing-a-catchy-tiktok-epilogue-for-2024/"><u>Composing a Catchy TikTok Epilogue for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-the-barnes-and-noble-nook-glowlight-3-perfect-for-evening-readers/"><u>Comprehensive Review of the Barnes & Noble Nook GlowLight 3 - Perfect for Evening Readers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-website-performance-using-cookiebot-smart-seo-solutions/"><u>Enhance Website Performance Using Cookiebot - Smart SEO Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-errors-with-your-final-usb-gadget-when-windows-fails-to-detect/"><u>Fixing Errors with Your Final USB Gadget: When Windows Fails to Detect</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/high-definition-showdown-ultimate-legendary-sj6-vs-yi-4k-innovation/"><u>High Definition Showdown Ultimate Legendary SJ6 Vs. Yi 4K Innovation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-meizu-21-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Meizu 21 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/next-gen-virtual-experiences-anticipated-ps-vr-games-to-enjoy/"><u>Next-Gen Virtual Experiences Anticipated PS VR Games to Enjoy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/reviving-dull-images-the-most-effective-10-web-editing-aids/"><u>Reviving Dull Images The Most Effective 10 Web Editing Aids</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tips-for-quicker-periscope-livestreams/"><u>Tips for Quicker Periscope Livestreams</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unveiling-the-charms-filmoras-most-charming-edit-traits-for-2024/"><u>Unveiling the Charms Filmora's Most Charming Edit Traits for 2024</u></a></li>
 </ul></div>
 

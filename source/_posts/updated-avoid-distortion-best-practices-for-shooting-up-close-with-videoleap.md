@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Avoid Distortion  Best Practices for Shooting Up Close with VideoLeap\""
-date: 2024-12-09T17:53:48.158Z
-updated: 2024-12-14T18:26:22.031Z
+date: 2024-12-19T19:48:14.084Z
+updated: 2024-12-23T18:46:24.250Z
 tags: 
   - screen-recording
   - ai video
@@ -31,16 +31,12 @@ Videoleap is famous for providing the best video editing features to its users a
 
 ![tap add media videoleap](https://images.wondershare.com/filmora/article-images/2022/07/tap-add-media-videoleap.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Now after the video clips are imported and collected, you will see a timeline of clips where everything will be arranged to your initial preferences.
 
 ![video timeline videoleap](https://images.wondershare.com/filmora/article-images/2022/07/video-timeline-videoleap.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Click on the part of the timeline that you want to edit and then select the tool that says "Transform". This tool is usually present at the bottom of your screen.
@@ -48,7 +44,7 @@ Videoleap is famous for providing the best video editing features to its users a
 ![transform vdieo videoleap](https://images.wondershare.com/filmora/article-images/2022/07/transform-vdieo-videoleap.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Now, in the preview window where all the clips are shown, pinch in or out to zoom into the video or vice versa until you get a desired portion of the screen.
@@ -67,17 +63,13 @@ Sometimes the video contents need a dramatic zoom effect that should take place 
 
 ![preview timeline videoleap](https://images.wondershare.com/filmora/article-images/2022/07/preview-timeline-videoleap.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Then select the "keyframes" tool from the toolbar at the bottom of your screen.
 * Add the keyframes to the desired portion of the video and then navigate the timecode to the place on the timeline where you want to stop it. After that add another keyframe at that point and pinch in to zoom the video.
 
 ![add keyframes videoleap](https://images.wondershare.com/filmora/article-images/2022/07/add-keyframes-videoleap.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Now head to the second time code where you want to focus the subject and then click on it. Then click on the "Preview" icon and see whether it needs further changes.
@@ -97,6 +89,10 @@ If for some reason you are not able to install and use Videoleap on your system 
 
 ![open the filmora application on pc](https://images.wondershare.com/filmora/guide/pan-zoom-feature-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * This will open 4 different types of tools regarding zoom functions. The first tool will help you to go from larger frames to smaller frames by zooming in. Thus, you can use this feature to bring details to a subject in your video. The second option helps you with zooming out from a smaller frame to a larger frame.
 * The third and fourth tools will help you achieve the Pan function from left to right and right to left respectively. This panning will be on a horizontal axis. You can also pan your video screen by using your mouse too.
 * You can select any of these options to zoom in, out, or pan your videos and create a stunning zoom effect on your videos.
@@ -115,6 +111,10 @@ Videoleap is one of the leading video editing platforms available out there. The
 * Open the Filmora application on your PC and then select the video file that you want to edit. Then select the "Pan and Zoom" option available from the toolbar.
 
 ![open the filmora application on pc](https://images.wondershare.com/filmora/guide/pan-zoom-feature-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * This will open 4 different types of tools regarding zoom functions. The first tool will help you to go from larger frames to smaller frames by zooming in. Thus, you can use this feature to bring details to a subject in your video. The second option helps you with zooming out from a smaller frame to a larger frame.
 * The third and fourth tools will help you achieve the Pan function from left to right and right to left respectively. This panning will be on a horizontal axis. You can also pan your video screen by using your mouse too.
@@ -153,18 +153,24 @@ Videoleap is one of the leading video editing platforms available out there. The
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-a-detailed-guidance-how-to-change-or-customize-your-ringtone-on-an-iphone/"><u>[Updated] A Detailed Guidance How To Change Or Customize Your Ringtone On An iPhone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-shoot-cool-vids-from-scratch-with-your-mac-newcomers-guide/"><u>[Updated] In 2024, Shoot Cool Vids From Scratch with Your Mac, Newcomers Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-leveraging-twitters-visual-content-on-snapchat-for-2024/"><u>[Updated] Leveraging Twitter's Visual Content on Snapchat for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/claim-your-spot-in-the-starfield-early-access-lottery/"><u>Claim Your Spot in the Starfield Early Access Lottery</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ting-content-destination-from-imovie-files-to-youtube-platform-for-2024/"><u>Directing Content Destination From iMovie Files To YouTube Platform for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhancing-tiktok-visuals-through-zoom-mastery/"><u>Enhancing TikTok Visuals Through Zoom Mastery</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/humor-by-algorithm-assessing-chatgpts-ability-to-deliver-a-punchline/"><u>Humor by Algorithm: Assessing ChatGPT's Ability to Deliver a Punchline</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-androids-premier-gaming-application-decoding-the-kinemaster-experience/"><u>In 2024, Android's Premier Gaming Application - Decoding the KineMaster Experience</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-capturing-photographs-from-movies-in-windows-photos-app-for-savvy-users/"><u>In 2024, Capturing Photographs From Movies in Windows Photos App for Savvy Users</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-vivo-y100-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Vivo Y100 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oppo-a56s-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Oppo A56s 5G Lock Screen Password?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/movavis-video-creation-tool-an-overview-of-plus-2024/"><u>Movavi's Video Creation Tool An Overview of Plus 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-35-hilarious-image-editing-software-for-smartphones-and-pcs/"><u>[Updated] 35 Hilarious Image Editing Software for Smartphones & PCs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-transforming-images-into-engaging-animation-projects/"><u>[Updated] In 2024, Transforming Images Into Engaging Animation Projects</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-no-cost-all-benefits-with-fcp-downloads/"><u>2024 Approved No Cost, All Benefits with FCP Downloads</u></a></li>
+<li><a href="https://article-helps.techidaily.com/audiovisual-ascension-masterful-lighting-techniques-unveiled/"><u>Audiovisual Ascension Masterful Lighting Techniques Unveiled</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/compile-and-connect-videos-on-youtv-for-2024/"><u>Compile and Connect Videos on YouTV for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-guide-to-vsco-image-enhancement-for-2024/"><u>Comprehensive Guide to VSCO Image Enhancement for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-your-own-google-vr-glasses-for-2024/"><u>Crafting Your Own Google VR Glasses for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/datenwiederherstellung-und-festplattenreparatur-der-prozess-kann-bis-zu-einer-stunde-dauern/"><u>Datenwiederherstellung Und Festplattenreparatur – Der Prozess Kann Bis Zu Einer Stunde Dauern</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/digital-file-migration-guide-for-devices/"><u>Digital File Migration Guide for Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easy-solutions-for-fixing-steams-damaged-disc-errors-quickly/"><u>Easy Solutions for Fixing Steam's Damaged Disc Errors Quickly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-manual-on-morphvox-sound-alteration/"><u>In 2024, Comprehensive Manual on MorphVOX Sound Alteration</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-journey-to-unlicensed-beauty-open-source-portfolits/"><u>In 2024, Journey to Unlicensed Beauty Open-Source Portfolits</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-learn-the-easy-way-unlocking-iphone-screen-recording/"><u>In 2024, Learn the Easy Way Unlocking Iphone Screen Recording</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-transition-logic-pro-xs-audio-fade-technique/"><u>Mastering Transition Logic Pro X's Audio Fade Technique</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/measuring-video-storage-space-64128gb-hard-drive-analysis/"><u>Measuring Video Storage Space - 64/128GB Hard Drive Analysis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/precision-no-download-leading-websites-turning-gif-into-video/"><u>Precision No-Download Leading Websites Turning GIF Into Video</u></a></li>
+<li><a href="https://common-error.techidaily.com/tech-support-guide-best-practices-for-dealing-with-a-sluggish-windows-11-experience/"><u>Tech Support Guide: Best Practices for Dealing with a Sluggish Windows 11 Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/troubleshooting-guide-how-to-resolve-rainbow-six-siege-not-starting/"><u>Troubleshooting Guide: How to Resolve Rainbow Six Siege Not Starting</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-system-with-asus-usb-bt500-bluetooth-50-driver-windows-11-to-8-support/"><u>Update Your System with Asus USB-BT500 Bluetooth 5.0 Driver - Windows 11 to 8 Support</u></a></li>
 </ul></div>
 
