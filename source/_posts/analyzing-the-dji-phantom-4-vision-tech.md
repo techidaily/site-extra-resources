@@ -1,7 +1,7 @@
 ---
 title: "Analyzing the DJI Phantom 4 Vision Tech"
-date: 2024-07-25T05:20:45.167Z
-updated: 2024-07-26T05:20:45.168Z
+date: 2024-12-22T08:26:42.613Z
+updated: 2024-12-29T01:09:33.029Z
 tags: 
   - screen-recording
   - ai video
@@ -30,16 +30,21 @@ thumbnail: https://thmb.techidaily.com/a5a6155fc00c2184034c489f78d9dfa451dfb821e
 
 [Check at Amazon](https://www.amazon.com/gp/product/B071Z6DSHB/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B071Z6DSHB&linkId=7289b5ef284ae3b0206e825eeb794baa)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Design
 
  DJI Goggles can be split into two parts - headband and display module.
 
  The display module has two 5" 1080O LED display, DJI cleverly position the display screen on the back and top of the display module.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![DJI Goggle's design](https://images.wondershare.com/filmora/article-images/dji-goggle-gif.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image resource: [DJI Official Site](https://store.dji.com/guides/dji-goggles-unboxing-and-quick-review/)
 
@@ -67,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/a5a6155fc00c2184034c489f78d9dfa451dfb821e
 
 ## Main features and experience
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Head Tracking
 
 ###### #1\. What is Head Tracking
@@ -90,8 +99,9 @@ thumbnail: https://thmb.techidaily.com/a5a6155fc00c2184034c489f78d9dfa451dfb821e
  The mission of 3-axis gimbal is to remove any camera shakes and stabilize the footage. But, the DJI Goggles' head tracking actually bring back these shakes which do not come from the camera itself, but as a result of the commands of head tracking.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Tapfly
 
 ###### #1\. What is Tapfly
@@ -106,9 +116,6 @@ thumbnail: https://thmb.techidaily.com/a5a6155fc00c2184034c489f78d9dfa451dfb821e
 
  DJI Goggles's main interaction needs to be done through the touchpad. This touchpad supports swipe and clicks of single and double fingers. It is responsive to unusual speed. Sometimes it is too sensitive that occasionally, a swipe will be misunderstood as a click. In the case of a fault in touch, we can use double fingers to slide back to lock the touchpad.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
  As DJI's first generation digital image transmission FPV goggles, I think it has a lot of room for improvement. Although Many software issues and hardware design still need to be improved, I think it worth to try.
@@ -130,17 +137,15 @@ Follow @Max Wales
 [Check at Amazon](https://www.amazon.com/gp/product/B071Z6DSHB/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B071Z6DSHB&linkId=7289b5ef284ae3b0206e825eeb794baa)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Design
 
  DJI Goggles can be split into two parts - headband and display module.
 
  The display module has two 5" 1080O LED display, DJI cleverly position the display screen on the back and top of the display module.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![DJI Goggle's design](https://images.wondershare.com/filmora/article-images/dji-goggle-gif.gif)
 
  Image resource: [DJI Official Site](https://store.dji.com/guides/dji-goggles-unboxing-and-quick-review/)
@@ -152,6 +157,10 @@ Follow @Max Wales
 * The fixation level of the headband is related with the user's head type
 * The feeling of \[top heavy\] is obvious.
 * When using head trackingfeature, the goggles have a risk of falling off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Compatible products for DJI Goggles
 
@@ -167,14 +176,8 @@ Follow @Max Wales
 
  Moreover, DJI Goggles can be connected to a computer, PS4 for watching videos and gaming. But, regarding to experience…the same budget can allow you to purchase 28" 4K display.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Main features and experience
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Head Tracking
 
 ###### #1\. What is Head Tracking
@@ -211,9 +214,6 @@ Follow @Max Wales
 
  DJI Goggles's main interaction needs to be done through the touchpad. This touchpad supports swipe and clicks of single and double fingers. It is responsive to unusual speed. Sometimes it is too sensitive that occasionally, a swipe will be misunderstood as a click. In the case of a fault in touch, we can use double fingers to slide back to lock the touchpad.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
  As DJI's first generation digital image transmission FPV goggles, I think it has a lot of room for improvement. Although Many software issues and hardware design still need to be improved, I think it worth to try.
@@ -234,18 +234,12 @@ Follow @Max Wales
 
 [Check at Amazon](https://www.amazon.com/gp/product/B071Z6DSHB/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B071Z6DSHB&linkId=7289b5ef284ae3b0206e825eeb794baa)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Design
 
  DJI Goggles can be split into two parts - headband and display module.
 
  The display module has two 5" 1080O LED display, DJI cleverly position the display screen on the back and top of the display module.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![DJI Goggle's design](https://images.wondershare.com/filmora/article-images/dji-goggle-gif.gif)
 
  Image resource: [DJI Official Site](https://store.dji.com/guides/dji-goggles-unboxing-and-quick-review/)
@@ -297,17 +291,15 @@ Follow @Max Wales
  The mission of 3-axis gimbal is to remove any camera shakes and stabilize the footage. But, the DJI Goggles' head tracking actually bring back these shakes which do not come from the camera itself, but as a result of the commands of head tracking.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Tapfly
 
 ###### #1\. What is Tapfly
 
  With the integration of touchpad into DJI Goggles or 5D button on the Mavic Pro controller, users can access to key intelligent features. This makes navigating the internal menu system simple and intuitive.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![DJI Goggle's touchpad](https://images.wondershare.com/filmora/article-images/goggles-touchpad.gif)
 
  Image resource: [DJI Official Site](https://store.dji.com/guides/dji-goggles-unboxing-and-quick-review/)
@@ -317,15 +309,13 @@ Follow @Max Wales
  DJI Goggles's main interaction needs to be done through the touchpad. This touchpad supports swipe and clicks of single and double fingers. It is responsive to unusual speed. Sometimes it is too sensitive that occasionally, a swipe will be misunderstood as a click. In the case of a fault in touch, we can use double fingers to slide back to lock the touchpad.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  As DJI's first generation digital image transmission FPV goggles, I think it has a lot of room for improvement. Although Many software issues and hardware design still need to be improved, I think it worth to try.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -342,9 +332,6 @@ Follow @Max Wales
 
 [Check at Amazon](https://www.amazon.com/gp/product/B071Z6DSHB/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B071Z6DSHB&linkId=7289b5ef284ae3b0206e825eeb794baa)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Design
 
  DJI Goggles can be split into two parts - headband and display module.
@@ -363,11 +350,6 @@ Follow @Max Wales
 * The feeling of \[top heavy\] is obvious.
 * When using head trackingfeature, the goggles have a risk of falling off.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## Compatible products for DJI Goggles
 
  Available on Mavic Pro, Phantom 4 Advanced, Professional, Inspire 2, etc.
@@ -383,8 +365,9 @@ The powerful video editing program for your Windows PC</a>
  Moreover, DJI Goggles can be connected to a computer, PS4 for watching videos and gaming. But, regarding to experience…the same budget can allow you to purchase 28" 4K display.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Main features and experience
 
 ### Head Tracking
@@ -428,6 +411,10 @@ The powerful video editing program for your Windows PC</a>
  As DJI's first generation digital image transmission FPV goggles, I think it has a lot of room for improvement. Although Many software issues and hardware design still need to be improved, I think it worth to try.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -457,7 +444,23 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-skyborne-duo-faceoff-dji-mavic-pro-and-gopro-karma/"><u>[New] 2024 Approved The Skyborne Duo Faceoff DJI Mavic Pro & GoPro Karma</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-bebops-feathered-wings-unleashed-in-the-parrot-review/"><u>[New] Bebop's Feathered Wings Unleashed in the Parrot Review</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-prosight-review-the-next-big-step-beyond-manycam-for-2024/"><u>[New] ProSight Review The Next Big Step Beyond ManyCam for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-5-pioneering-portals-to-streamline-your-text-effects-search/"><u>[Updated] 5 Pioneering Portals to Streamline Your Text Effects Search</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-reach-optimal-timestamp-in-fb-posting-for-2024/"><u>[Updated] Reach Optimal Timestamp in Fb Posting for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/drones-unveiled-a-comprehensive-buyers-preparation-plan/"><u>Drones Unveiled A Comprehensive Buyer’s Preparation Plan</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/grit-vs-glory-hitbox-versus-twitch-titans/"><u>Grit vs Glory Hitbox Versus Twitch Titans</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-much-will-it-cost-to-shoot-a-music-video/"><u>How Much Will It Cost To Shoot A Music Video?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-vr-movie-might-change-the-world-for-2024/"><u>How VR Movie Might Change the World for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lg-display-driver-troubleshooting-for-windows-users-fixes-for-win11-win7-and-win81/"><u>LG Display Driver Troubleshooting for Windows Users: Fixes for Win11, Win7 & Win8.1</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/swift-restoration-of-photos-viewer-performance-in-windows-10/"><u>Swift Restoration of Photos Viewer Performance in Windows 10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-fundamentals-of-screen-capture-with-a-dell-device/"><u>The Fundamentals of Screen Capture with a Dell Device</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-roadmap-for-successful-online-brand-collaborations-on-youtube/"><u>The Roadmap for Successful Online Brand Collaborations on Youtube</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/yl-computings-cardi-set-of-icons-for-professional-scardis-comprehensive-visual-tools-by-yl-software-solutions/"><u>YL Computing's Cardi Set of Icons for Professional Scardis - Comprehensive Visual Tools by YL Software Solutions</u></a></li>
+</ul></div>
 

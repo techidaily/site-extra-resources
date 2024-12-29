@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Amplify Your Media  Integrating Text Into Windows Video Files via Photos\""
-date: 2024-12-22T18:27:03.019Z
-updated: 2024-12-23T18:39:30.360Z
+date: 2024-12-23T16:59:14.661Z
+updated: 2024-12-29T00:10:34.587Z
 tags: 
   - screen-recording
   - ai video
@@ -42,22 +42,22 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/add-text-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * You may also add the image from the project library to the storyboard if you cannot find the image in the preset categories
 * Resize the image if black parts appear by clicking on resize and then, remove black parts
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/resize-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * To add titles/text to video on Photos in Windows 10 that perfectly match the background, type out the title in the text box at the top right corner
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
@@ -70,35 +70,35 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -115,22 +115,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-best-cloud-storage-apps-on-android-2024/"><u>[New] Best Cloud Storage Apps on Android 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-essential-steps-for-clear-ipad-recording-for-2024/"><u>[New] Essential Steps for Clear iPad Recording for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-beginners-overview-of-animation-trends/"><u>[Updated] Beginner's Overview of Animation Trends</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-quick-hacks-for-ensuring-visual-discretion-in-photos/"><u>[Updated] In 2024, Quick Hacks for Ensuring Visual Discretion in Photos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-step-by-step-instructions-for-extracting-mp3-from-video/"><u>[Updated] Step-By-Step Instructions for Extracting MP3 From Video</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/bridge-the-gap-effortless-guide-to-watch-apple-tv-plus-on-googles-chromecast/"><u>Bridge the Gap: Effortless Guide to Watch Apple TV + on Google's Chromecast</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/compelling-iphone-photo-and-video-applications-87x-for-2024/"><u>Compelling iPhone Photo & Video Applications (8/7/X) for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/d500-exploration-nikons-journey-in-4k-hd-for-2024/"><u>D500 Exploration Nikon's Journey in 4K HD for 2024</u></a></li>
-<li><a href="https://win-bits.techidaily.com/el-ranking-definitivo-de-soluciones-de-copia-de-seguridad-por-clonacion-en-servidores-windows/"><u>El Ranking Definitivo De Soluciones De Copia De Seguridad Por Clonación en Servidores Windows</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/fps-matters-in-mobile-filmmaking-is-30-or-60-fps-ideal-for-phone-videos/"><u>FPS Matters in Mobile Filmmaking: Is 30 or 60 FPS Ideal for Phone Videos?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-90s-chuckles-dissecting-the-vhs-of-the-goofies/"><u>In 2024, '90S Chuckles Dissecting the VHS of The Goofies</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/innovations-highlighted-in-s3700s-2023-review/"><u>Innovations Highlighted in S3700's 2023 Review</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/iphone-photo-perfection-implement-these-10-composition-tenets/"><u>IPhone Photo Perfection Implement These 10 Composition Tenets</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/maximizing-your-search-for-stellar-pexels-artwork/"><u>Maximizing Your Search for Stellar Pexels Artwork</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-the-complexities-of-photo-hdr-in-photoshop/"><u>Navigating the Complexities of Photo-HDR in Photoshop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-write-file-access-issue-on-windows-1011/"><u>Troubleshooting Write File Access Issue on Windows 10/11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/your-path-to-a-unique-auditory-experience-customizing-ringtone-and-sound-on-android/"><u>Your Path to a Unique Auditory Experience Customizing Ringtone & Sound on Android</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-a-practical-approach-to-using-screencastify-for-video-capture/"><u>[New] 2024 Approved A Practical Approach to Using Screencastify for Video Capture</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-amplifying-visuals-expert-guide-to-snapchat-zoom/"><u>[New] Amplifying Visuals Expert Guide to Snapchat Zoom</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-complete-reference-to-display-recording-methods-for-2024/"><u>[New] The Complete Reference to Display Recording Methods for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-peculiar-plight-dissecting-goofy-chronicles/"><u>[New] The Peculiar Plight Dissecting 'Goofy Chronicles'</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-selfie-to-sensation-vloggers-choice-of-top-9-camera-accessories/"><u>[Updated] 2024 Approved From Selfie to Sensation Vloggers' Choice of Top 9 Camera Accessories</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-makeup-maverick-innovative-looks-and-techniques-unveiled-for-2024/"><u>[Updated] Makeup Maverick Innovative Looks & Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/budget-conscious-filmmakers-guide-to-360-cameras/"><u>Budget-Conscious Filmmakers' Guide to 360° Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-all-about-triller-diverging-from-standard-tiktok-experience/"><u>In 2024, All About Triller Diverging From Standard TikTok Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-becoming-a-color-connoisseur-top-techniques/"><u>In 2024, Becoming a Color Connoisseur Top Techniques</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-asus-rog-phone-7-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Asus ROG Phone 7 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-your-phones-callback-diary-iphone-future/"><u>In 2024, Your Phone's Callback Diary - iPhone Future</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/infuse-kinetic-smear-into-photos-in-photoshop/"><u>Infuse Kinetic Smear Into Photos in Photoshop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-11s-operational-challenges-with-error-740/"><u>Navigating Windows 11'S Operational Challenges with Error #740</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-firstrow-sports-alternatives/"><u>Top 10 Firstrow Sports Alternatives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-ranked-e-learning-presentation-palette/"><u>Top-Ranked E-Learning Presentation Palette</u></a></li>
 </ul></div>
 

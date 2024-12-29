@@ -1,7 +1,7 @@
 ---
 title: "\"Photographic Pastime  IPhone X Retro Clicks\""
-date: 2024-12-21T17:20:27.835Z
-updated: 2024-12-23T19:04:43.075Z
+date: 2024-12-25T17:05:54.887Z
+updated: 2024-12-29T06:25:47.989Z
 tags: 
   - screen-recording
   - ai video
@@ -30,14 +30,14 @@ Until recently, iPhone cameras didn't have lenses that enabled its users to prod
 
 In this article, we are going to show you how to take photos in Portrait Mode, on iPhone X, 8 Plus, and 7 Plus, but we are also going to take a look at a few apps for older versions of iPhone that also enable you to create amazing portraits.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Tips for iPhone portrait photos
 
 * [Part 1: For iPhone 7 Plus/8 Plus/X users](#part1)
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### For iPhone 7 Plus/8 Plus/X users
 
@@ -50,7 +50,7 @@ However, the Portrait Mode is only featured on iOS 10.1 or some more recent vers
 ![portrait-mode-iphone](https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image resource: 9to5mac
@@ -62,10 +62,6 @@ Portrait mode enables you to set the timer, turn off the flash or apply photo fi
 The iPhone X can also take Portrait selfies thanks to the TrueDepth front camera system. Unlike the rear camera system, the front-facing camera doesn't have multiple physical camera lenses; instead, it uses sensors from the TrueDepth system to measure a precise depth map.
 
 ![portrait-mode-selfie-iphone-x](https://images.wondershare.com/filmora/article-images/portrait-mode-selfie-iphone-x.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Image resource: imore
 
@@ -83,10 +79,6 @@ If there is not enough light or if you are too far away from the camera, the app
 
 ![ezy-watermark-lite-photo](https://images.wondershare.com/filmora/article-images/ezy-watermark-lite-photo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.
 
 #### [Tadaa SLR](https://itunes.apple.com/us/app/tadaa-slr/id724662909?mt=8)
@@ -96,6 +88,10 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 **Compatible with:** iOS 8.0 or later
 
 ![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
 
@@ -107,6 +103,10 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 
 ![signature-photo-annotator](https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
 
 #### [Defocus](https://itunes.apple.com/us/app/defocus/id1048310180?mt=8)
@@ -117,13 +117,13 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 
 ![my-watermarks-a-personal-logo-signature-maker](https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -140,17 +140,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-how-to-preserve-and-access-your-favorite-discord-livestreams-easily/"><u>[Updated] How to Preserve and Access Your Favorite Discord Livestreams Easily</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-infinix-note-30-vip-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Infinix Note 30 VIP to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/are-product-assessments-online-content-sold-for-2024/"><u>Are Product Assessments Online Content Sold for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-xiaomi-redmi-12-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Xiaomi Redmi 12 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/channel-up-the-essential-guide-to-computer-and-mobile-video-upload/"><u>Channel Up The Essential Guide to Computer & Mobile Video Upload</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/embellishing-visual-narratives-with-fonts-in-ae/"><u>Embellishing Visual Narratives with Fonts in AE</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-logitech-wheel-g27-up-and-running-drivers-for-win11-win10-and-win7/"><u>Get Your Logitech Wheel G27 Up and Running: Drivers for Win11, Win10 & Win7</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-fine-tune-music-for-stunning-canva-clips/"><u>How to Fine-Tune Music for Stunning Canva Clips</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-mix-fold-3-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Mix Fold 3 To Phone | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/kinemaster-zoom-mastery-guide-a-filmmakers-toolkit/"><u>Kinemaster Zoom Mastery Guide A Filmmaker's Toolkit</u></a></li>
-<li><a href="https://blog-min.techidaily.com/optimizing-video-streams-finding-the-perfect-balance-for-handbrake-bitrate-and-quality/"><u>Optimizing Video Streams: Finding the Perfect Balance for HandBrake Bitrate & Quality</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/vivid-chroma-optimizer/"><u>Vivid Chroma Optimizer</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-a-flash-of-stardom-video-examination-for-2024/"><u>[New] A Flash of Stardom - Video Examination for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevate-instagram-clips-incorporating-borders-effectively-for-2024/"><u>[Updated] Elevate Instagram Clips Incorporating Borders Effectively for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-adventures-the-ultra-30-action-cam-reviewed/"><u>2024 Approved Capturing Adventures The Ultra 30 Action Cam Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-analysis-updated-s3700-bd-player-for-2024/"><u>Comprehensive Analysis Updated S3700 BD Player for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722976143059-easy-installation-of-dells-wd19-device-drivers-get-started-now/"><u>Easy Installation of Dell's WD19 Device Drivers - Get Started Now!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fishing-footage-frontier-top-action-cameras-for-the-sea/"><u>Fishing Footage Frontier Top Action Cameras for the Sea</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-become-an-audio-trailblazer-exclusive-vocal-change-techniques-in-free-fire-free/"><u>In 2024, Become an Audio Trailblazer – Exclusive Vocal Change Techniques in Free Fire (Free)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-circular-innovator-box/"><u>In 2024, Circular Innovator Box</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/leaders-take-on-the-pro-level-dreame-bot-l10-highly-efficient-cleaning-with-precision-lidar-navigation-unveiled/"><u>Leaders' Take on the Pro-Level Dreame Bot L10: Highly Efficient Cleaning with Precision LiDAR Navigation Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/reconcile-your-win-plus-print-discrepinasions-with-effective-solutions/"><u>Reconcile Your Win + Print Discrepinasions with Effective Solutions.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/satirical-space-the-ultimate-guide-to-20plus-humorous-metaverse-imagery/"><u>Satirical Space The Ultimate Guide to 20+ Humorous Metaverse Imagery</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/vr-readiness-your-space-and-tech-essentials/"><u>VR Readiness Your Space and Tech Essentials</u></a></li>
 </ul></div>
 

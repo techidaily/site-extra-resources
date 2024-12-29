@@ -1,7 +1,7 @@
 ---
 title: "\"Velvet Vaults  2022 Olympic Skaters\""
-date: 2024-12-04T16:53:47.179Z
-updated: 2024-12-08T16:29:14.694Z
+date: 2024-12-22T08:05:50.355Z
+updated: 2024-12-28T16:15:26.808Z
 tags: 
   - screen-recording
   - ai video
@@ -35,7 +35,7 @@ Nathan Chen of the United States reacts to winning the gold medal at the 2022 Be
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
@@ -43,7 +43,7 @@ Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United Stat
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
@@ -54,10 +54,6 @@ Nathan Chen successful triumph has been four years in the making and it is a per
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
@@ -66,11 +62,11 @@ Russian Olympic Committee athletes won the gold medal at team event by a margin 
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
 
@@ -92,6 +88,10 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
 
 Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all the still photos and video footage clips you have collected about figure skating Olympics. You can trim them and maintain uniformity throughout.
@@ -105,7 +105,7 @@ Step 5: Select individual or multiple slides and add Transitions, Effects, Title
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -121,21 +121,18 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-attention-magnet-article-initiator/"><u>[New] Attention Magnet Article Initiator</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-the-future-of-action-cam-unveiled-intova-x-for-2024/"><u>[New] The Future of Action Cam Unveiled Intova X for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-prime-gear-selection-must-have-supplementary-gopro-items/"><u>[Updated] 2024 Approved Prime Gear Selection Must-Have Supplementary GoPro Items</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-4k-clarity-unleashed-an-intense-study-on-the-31mu97-b-monitor/"><u>[Updated] 4K Clarity Unleashed - An Intense Study on the 31MU97-B Monitor</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-5-inspirational-winter-bgs-to-heat-your-videos/"><u>[Updated] In 2024, 5 Inspirational Winter Bgs to Heat Your Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-100-unique-instagram-captions-to-show-yourself-to-the-world/"><u>2024 Approved 100 Unique Instagram Captions to Show Yourself to the World</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-complete-exploration-of-morphvox-technology-for-voice-transformation/"><u>2024 Approved Complete Exploration of MorphVOX Technology for Voice Transformation</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/current-vr-devices-explored/"><u>Current VR Devices Explored</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210859646-9781667452937-expat-wife-happy-life/"><u>Expat Wife, Happy Life! | Free Book</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/five-innovative-apple-podcast-options/"><u>Five Innovative Apple Podcast Options</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2660419-9781501139109-good-grief/"><u>Good Grief | Free Book</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-an-engaging-review-vlog-for-everyday-items/"><u>In 2024, Crafting an Engaging Review Vlog for Everyday Items</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-iphone-14-pro-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from iPhone 14 Pro without Password?</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-list-10-best-free-whiteboard-animation-programs-for-2024/"><u>New The Ultimate List 10 Best Free Whiteboard Animation Programs for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/snickerslide-lighten-up-your-online-presence/"><u>SnickerSlide Lighten Up Your Online Presence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-beyond-the-screen-a-vr-odyssey/"><u>[New] Beyond the Screen A VR Odyssey</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-basic-concepts-of-plotting-and-characterizing/"><u>[Updated] Basic Concepts of Plotting and Characterizing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-transforming-archived-content-for-livestream-audiences-on-facebook/"><u>[Updated] Transforming Archived Content for Livestream Audiences on Facebook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-apex-gk-quizmasters-video-channel-list/"><u>2024 Approved Apex GK Quizmasters' Video Channel List</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capture-and-amplify-no-cost-digital-picture-upgrades/"><u>2024 Approved Capture & Amplify - No Cost Digital Picture Upgrades</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-the-perfect-mobile-chime-how-to-download-and-personalize-whatsapp-tones-for-iphonesandroids/"><u>2024 Approved Crafting the Perfect Mobile Chime How to Download & Personalize WhatsApp Tones for iPhones/Androids</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ve-professional-level-youtube-transcription-without-spending-for-2024/"><u>Achieve Professional-Level YouTube Transcription Without Spending for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/eco-friendly-visual-aids-no-cost/"><u>Eco-Friendly Visual Aids - No Cost</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-or-professional-analyzing-the-benefits-of-youtube-converter-factories-which-is-right-for-you/"><u>Free or Professional? Analyzing the Benefits of YouTube Converter Factories - Which Is Right for You?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-and-update-realtek-hd-sound-driver-in-windows-11/"><u>How to Restore & Update Realtek HD Sound Driver in Windows 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-serenity-top-pick-winter-backgrounds-for-videos-for-2024/"><u>Snowy Serenity Top Pick Winter Backgrounds for Videos for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlining-your-experience-live-cricket-viewing-tips/"><u>Streamlining Your Experience Live Cricket Viewing Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/youtube-mjpeg-mkv-movavi/"><u>무료 사용에 호의합니다! YouTube를 MJPEG로 제공하는 MKV 변환: Movavi 가이드</u></a></li>
 </ul></div>
 

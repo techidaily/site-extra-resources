@@ -1,7 +1,7 @@
 ---
 title: "\"Unlocking Full Photo Viewing Capabilities  Win 11 Edition\""
-date: 2024-12-20T19:38:58.864Z
-updated: 2024-12-23T20:16:40.175Z
+date: 2024-12-22T07:29:35.520Z
+updated: 2024-12-29T05:10:04.721Z
 tags: 
   - screen-recording
   - ai video
@@ -36,10 +36,6 @@ Stay tuned to learn more!
 * [**Part2: Method 1 to restore Windows Photo Viewer**](#part2)
 * [**Part3: Method 2 to get Windows Photo Viewer back**](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Why you prefer Windows Photo Viewer
 
 We would like to explain why most people are still not over Windows Photo Viewer? The good old Photo Viewer has quiet loyal fans out there singing its glory. This portion of the article comprises of the highs about Windows Photo Viewer.
@@ -60,13 +56,13 @@ Here is why they want to restore Windows Photo Viewer –
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1 to restore Windows Photo Viewer
@@ -77,9 +73,17 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -100,7 +104,7 @@ Here is the detailed guide –
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -110,10 +114,6 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -130,18 +130,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-banishing-stickers-from-social-media-short-clips/"><u>[New] Banishing Stickers From Social Media Short Clips</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ree-end-credits-excellence-top-6-tutorials-for-2024/"><u>[New] Free End Credits Excellence Top 6 Tutorials for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-expert-tips-for-effortless-acquisition-of-vimeo-videos-softwares-and-no-softwares-included/"><u>[New] In 2024, Expert Tips for Effortless Acquisition of Vimeo Videos - Softwares & No-Softwares Included</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-novice-net-worth-easy-sites-for-beginners-channel-buys/"><u>[New] Novice Net Worth Easy Sites for Beginner's Channel Buys</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-aerial-imaging-warfare-djis-pro-vs-gopro-k20/"><u>[Updated] Aerial Imaging Warfare DJI's Pro Vs GoPro K20</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-block-automated-youtube-content-triggers/"><u>[Updated] Block Automated YouTube Content Triggers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-capture-youtube-in-full-free-screencast-tutorials-you-need-right-now/"><u>[Updated] In 2024, Capture YouTube in Full - Free Screencast Tutorials You Need Right Now</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-competitor-cameras-rising-the-ultimate-guide-to-substitutes-for-samsungs-gear-360/"><u>2024 Approved Competitor Cameras Rising The Ultimate Guide to Substitutes for Samsung's Gear 360</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ai-powered-virtual-patient-interactions/"><u>AI-Powered Virtual Patient Interactions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/capturing-sound-in-windows-11-explained-for-2024/"><u>Capturing Sound in Windows 11 Explained for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-download-vlc-player-for-free-and-safe-on-macstep-by-step/"><u>In 2024, How to Download VLC Player for Free and Safe on Mac?[Step-by-Step]</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/rebooting-your-windows-photo-viewer-two-procedures-for-w10/"><u>Rebooting Your Windows Photo Viewer Two Procedures for W10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-find-your-comments-on-youtube-on-desktopiphoneandroid-for-2024/"><u>[New] How to Find Your Comments on YouTube on Desktop/iPhone/Android for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-resounding-videos-a-tutorial-on-instagrams-musical-integration/"><u>[New] Resounding Videos A Tutorial on Instagram's Musical Integration</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-mastering-youtube-channel-lockdowns-device-specific-tips/"><u>[Updated] 2024 Approved Mastering YouTube Channel Lockdowns Device-Specific Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-rings-rhythm-versus-screen-time-symphony/"><u>[Updated] 2024 Approved The Ring's Rhythm Versus Screen Time Symphony</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-accumulating-prime-visuals-for-content-creation/"><u>[Updated] Accumulating Prime Visuals for Content Creation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitters-guide-to-downloading-gifs-a-step-by-step-approach/"><u>[Updated] In 2024, Twitter's Guide to Downloading GIFs A Step-by-Step Approach</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-step-by-step-framework-for-dimming-sounds-in-lumafusion/"><u>2024 Approved A Step-by-Step Framework for Dimming Sounds in Lumafusion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-techniques-for-perfecting-your-voice-with-morphvox/"><u>2024 Approved Advanced Techniques for Perfecting Your Voice with MorphVOX</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-prime-stabilization-techniques-for-youtubers/"><u>2024 Approved Prime Stabilization Techniques for YouTubers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/curated-queries-for-spirited-conversations-in-podcasts/"><u>Curated Queries for Spirited Conversations in Podcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/realistic-movement-rendering-for-images/"><u>Realistic Movement Rendering for Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transform-your-vfx-workflow-implementing-luts-within-after-effects/"><u>Transform Your VFX Workflow Implementing LUTs Within After Effects</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/ultimate-scene-seizing-exploration/"><u>Ultimate Scene Seizing Exploration</u></a></li>
 </ul></div>
 

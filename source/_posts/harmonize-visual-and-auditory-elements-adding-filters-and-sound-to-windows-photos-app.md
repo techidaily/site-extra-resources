@@ -1,7 +1,7 @@
 ---
 title: "\"Harmonize Visual & Auditory Elements  Adding Filters & Sound to Windows Photos App\""
-date: 2024-12-16T18:36:34.728Z
-updated: 2024-12-23T20:03:03.133Z
+date: 2024-12-27T21:15:05.387Z
+updated: 2024-12-29T06:39:09.053Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 
 **You may also like:** [How to Trim Video in Windows 10 Photos Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to add filters on Windows 10 Photos App
 
 If you have got Windows 10 Photos app and wish to add filters, though, it is by default a photo viewing app, its editing features are worth to mention. This step by step guide is your perfect savior in that case.
@@ -45,6 +49,10 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
 
 **Step 4**: Click Filters at tool bar. Microsoft Photos has 14 filters you can use, including classic, adventure, sepia and so on.
@@ -52,10 +60,6 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
 **Step 5**: Just select one you like. Preview it and then click Done.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
 
@@ -69,22 +73,18 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5**: Hit the ‘Done’ button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -94,7 +94,7 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -112,18 +112,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/updated-boosting-your-video-income-on-youtube-essentials/"><u>[Updated] Boosting Your Video Income on Youtube - Essentials</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-bring-life-to-pixels-add-motion-blur/"><u>[Updated] Bring Life to Pixels Add Motion Blur</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/augmenting-film-vistas-with-apple-playlist-for-2024/"><u>Augmenting Film Vistas with Apple Playlist for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/bitlockerwindows-n112/"><u>BitLocker回復キーを無視できるWindows N11のテクニック:効果的2方法</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210367692-9781662432866-conscious-exploration-for-the-advanced-soul/"><u>Conscious Exploration for the Advanced Soul | Free Book</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guide-to-picking-best-free-online-srt-translation-providers-for-2024/"><u>Guide to Picking Best Free Online SRT Translation Providers for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-microsoft-store-error-code-0x00000000-in-windows-11-and-11/"><u>How to Fix the Microsoft Store Error Code 0X00000000 in Windows 11 & 11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/metaverse-persona-design-a-beginners-compreraniary-guide-for-2024/"><u>Metaverse Persona Design A Beginner's Compreraniary Guide for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/monitor-your-bsv-wallet-a-guide-to-checking-bitcoin-sv-address-balances-tips-from-yl-computing/"><u>Monitor Your BSV Wallet: A Guide to Checking Bitcoin SV Address Balances - Tips From YL Computing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/perfect-pictures-at-a-click-the-10-best-grids/"><u>Perfect Pictures at a Click - The 10 Best Grids</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/perfecting-voice-broadcasts-on-apple-devices-the-pros-guide/"><u>Perfecting Voice Broadcasts on Apple Devices - The Pro's Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/sky-high-security-the-prime-5-cloud-choices/"><u>Sky High Security The Prime 5 Cloud Choices</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/speech-recognition-made-easy-your-route-to-streamlined-workflows-with-microsoft-words-features/"><u>Speech Recognition Made Easy Your Route to Streamlined Workflows with Microsoft Word's Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-cinema-in-editing-10-snippet-selections/"><u>[New] Cinema in Editing 10 Snippet Selections</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-start-a-new-story-install-xps-videographer-tools/"><u>[New] Start a New Story, Install XP’s Videographer Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-reset-and-regain-navigating-the-2023-fb-hack-scenario/"><u>[Updated] Reset & Regain Navigating the 2023 FB Hack Scenario</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-ace-your-green-screen-videos-must-know-secrets/"><u>2024 Approved Ace Your Green Screen Videos Must-Know Secrets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-reasons-why-snapchats-my-ai-is-more-than-just-a-cool-toy/"><u>6 Reasons Why Snapchat's My AI Is More Than Just a Cool Toy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/assessing-auto-gpt-in-the-absence-of-gpt-4/"><u>Assessing Auto-GPT in the Absence of GPT-4</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/benqs-visionary-approach-to-4k-monitors-unraveled-by-the-bl2711u-review-for-2024/"><u>BenQ's Visionary Approach to 4K Monitors, Unraveled by the BL2711U Review for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-free-video-apps-on-multiple-desktops/"><u>Best Free Video Apps on Multiple Desktops</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-the-clouds-advanced-drone-video-techniques-for-2024/"><u>Capturing the Clouds Advanced Drone Video Techniques for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/decoding-the-secrets-of-3d-luts-in-photoshop-expertise/"><u>Decoding the Secrets of 3D LUTs in Photoshop Expertise</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-google-pixel-8-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Google Pixel 8 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-integrating-videos-into-youtube-shelves-a-practical-guide/"><u>In 2024, Integrating Videos Into YouTube Shelves A Practical Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovations-of-sony-bdp-s6700-a-closer-look/"><u>Innovations of Sony BDP-S6700 A Closer Look</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-androids-battery-performance-with-these-essential-settings-adjustments-according-to-zdnet/"><u>Maximize Your Android's Battery Performance with These Essential Settings Adjustments, According to ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/pushing-past-plateaus-the-strategic-guide-for-youtube-success-for-2024/"><u>Pushing Past Plateaus The Strategic Guide for Youtube Success for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/rhythm-rendezvous-optimal-dj-video-selections/"><u>Rhythm Rendezvous Optimal DJ Video Selections</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/stratagem-starter-kit-unboxing-business-growth/"><u>Stratagem Starter Kit Unboxing Business Growth</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-youtube-subtitles-srt-3-steps-guide/"><u>Unlocking YouTube Subtitles (SRT) - 3 Steps Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-to-enhanced-performance-free-download-of-geforce-rtx-2060-drivers-for-windows-11-devices/"><u>Update to Enhanced Performance: Free Download of GeForce RTX 2060 Drivers for Windows 11 Devices</u></a></li>
 </ul></div>
 

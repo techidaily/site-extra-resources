@@ -1,7 +1,7 @@
 ---
 title: "\"Cinematic Brilliance  Mastering Video Lighting Techniques for 2024\""
-date: 2024-12-22T17:47:31.094Z
-updated: 2024-12-23T20:03:58.927Z
+date: 2024-12-26T19:10:20.695Z
+updated: 2024-12-28T20:26:53.709Z
 tags: 
   - screen-recording
   - ai video
@@ -23,7 +23,7 @@ Many people are wondering how to set up lighting for video shooting. While there
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
@@ -59,7 +59,7 @@ The key light is the main light that illuminates the subject. You can place it i
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
@@ -68,6 +68,10 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
 
 ##### Step4 Use Practical Lights
@@ -75,10 +79,6 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
@@ -94,13 +94,13 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Using Key Light + Fill + Backlight**
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **_3) Pro Tips: The light setting_**
 
@@ -109,7 +109,7 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Summary
@@ -146,21 +146,24 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-comparing-hero4-and-hero5-capabilities/"><u>[New] Comparing Hero4 and Hero5 Capabilities</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-mastering-the-art-of-youtube-video-submissions-for-maximum-reach/"><u>[Updated] 2024 Approved Mastering the Art of YouTube Video Submissions for Maximum Reach</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-above-and-beyond-vertical-panoramas-made-easy/"><u>[Updated] Above and Beyond Vertical Panoramas Made Easy</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-artisans-guide-to-creating-sound-alterations-without-cost/"><u>2024 Approved The Artisan's Guide to Creating Sound Alterations Without Cost</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/best-solution-to-fix-ps4-mic-not-working/"><u>Best Solution to Fix PS4 Mic Not Working</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comparative-study-movavis-video-editor-plus-2024/"><u>Comparative Study Movavi's Video Editor Plus 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/healing-holograms-arvr-in-healthcare/"><u>Healing Holograms AR/VR in Healthcare</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/innovative-strategies-for-engaging-your-audience-with-puzzles-on-instagram-for-2024/"><u>Innovative Strategies for Engaging Your Audience with Puzzles on Instagram for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/liminal-film-narrative-plan/"><u>Liminal Film Narrative Plan</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-issues-with-discords-push-to-talk-system-a-comprehensive-guide/"><u>Overcoming Issues with Discord's Push-To-Talk System: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/secure-your-photography-leading-software-insights/"><u>Secure Your Photography - Leading Software Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/take-advantage-of-presidents-day-promo-get-a-cutting-edge-macbook-pro-featuring-m3-pro-tech-for-only-200-less-deals/"><u>Take Advantage of Presidents’ Day Promo – Get a Cutting-Edge MacBook Pro Featuring M3 Pro Tech for Only $200 Less Deals</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-samsung-galaxy-s23-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Samsung Galaxy S23</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlock-the-power-of-time-lapse-with-gopro-hero5/"><u>Unlock the Power of Time-Lapse with GoPro Hero5</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-photo-and-video-display-apps-for-iphone-series-78/"><u>[New] Best Photo & Video Display Apps for iPhone Series 7/8</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-elevate-videography-quality-top-7-sound-effects-pick/"><u>[Updated] 2024 Approved Elevate Videography Quality Top 7 Sound Effects Pick</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-cards-for-crystal-clear-output/"><u>2024 Approved Advanced Cards for Crystal Clear Output</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-broadcast-mastery-mobile-livestraning-on-facebook-unveiled/"><u>2024 Approved Broadcast Mastery Mobile Livestraning on Facebook Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/conquer-mass-designs-with-canva-and-gpts-collective-force/"><u>Conquer Mass Designs with Canva & GPT's Collective Force</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/detailed-financial-framework-the-podcast-foundation-price/"><u>Detailed Financial Framework The Podcast Foundation Price</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/getting-to-grips-with-apple-podcasts-installation/"><u>Getting to Grips with Apple Podcasts Installation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gratuitous-high-quality-ideas-for-profitable-slideshows/"><u>Gratuitous, High-Quality Ideas for Profitable Slideshows</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/how-can-you-upgrade-your-network-cards-firmware-expert-insights-by-yl-computing/"><u>How Can You Upgrade Your Network Card's Firmware? - Expert Insights by YL Computing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-mass-download-tiktok-videos/"><u>How To Mass Download TikTok Videos?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-xiaomi-13-ultra-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Xiaomi 13 Ultra online without jailbreak</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-depth-training-on-googles-advanced-speech-to-text-feature/"><u>In-Depth Training on Google's Advanced Speech to Text Feature</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leveraging-spotifys-advertising-mechanisms/"><u>Leveraging Spotify's Advertising Mechanisms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-smart-guide-for-spawning-share-worthy-memes-in-9gag/"><u>The Smart Guide for Spawning Share-Worthy Memes in 9GAG</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-methods-to-revamp-grades-in-photoshop/"><u>Top Methods to Revamp Grades in Photoshop</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tunes-that-enhance-your-imovie-storytelling/"><u>Tunes That Enhance Your iMovie Storytelling</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722865761243-why-cant-you-answer-calls-with-your-samsung-galaxy-watch-finding-solutions/"><u>Why Can't You Answer Calls With Your Samsung Galaxy Watch? Finding Solutions</u></a></li>
 </ul></div>
 
