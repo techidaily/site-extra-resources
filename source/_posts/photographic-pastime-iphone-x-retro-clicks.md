@@ -1,7 +1,7 @@
 ---
 title: "\"Photographic Pastime  IPhone X Retro Clicks\""
-date: 2024-12-25T17:05:54.887Z
-updated: 2024-12-29T06:25:47.989Z
+date: 2025-01-04T17:12:16.559Z
+updated: 2025-01-07T21:24:08.805Z
 tags: 
   - screen-recording
   - ai video
@@ -36,7 +36,7 @@ In this article, we are going to show you how to take photos in Portrait Mode, o
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For iPhone 7 Plus/8 Plus/X users
@@ -50,7 +50,7 @@ However, the Portrait Mode is only featured on iOS 10.1 or some more recent vers
 ![portrait-mode-iphone](https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image resource: 9to5mac
@@ -79,6 +79,10 @@ If there is not enough light or if you are too far away from the camera, the app
 
 ![ezy-watermark-lite-photo](https://images.wondershare.com/filmora/article-images/ezy-watermark-lite-photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.
 
 #### [Tadaa SLR](https://itunes.apple.com/us/app/tadaa-slr/id724662909?mt=8)
@@ -90,7 +94,7 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 ![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
@@ -103,10 +107,6 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 
 ![signature-photo-annotator](https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
 
 #### [Defocus](https://itunes.apple.com/us/app/defocus/id1048310180?mt=8)
@@ -118,7 +118,7 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 ![my-watermarks-a-personal-logo-signature-maker](https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
@@ -140,18 +140,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-a-flash-of-stardom-video-examination-for-2024/"><u>[New] A Flash of Stardom - Video Examination for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevate-instagram-clips-incorporating-borders-effectively-for-2024/"><u>[Updated] Elevate Instagram Clips Incorporating Borders Effectively for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-adventures-the-ultra-30-action-cam-reviewed/"><u>2024 Approved Capturing Adventures The Ultra 30 Action Cam Reviewed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehensive-analysis-updated-s3700-bd-player-for-2024/"><u>Comprehensive Analysis Updated S3700 BD Player for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722976143059-easy-installation-of-dells-wd19-device-drivers-get-started-now/"><u>Easy Installation of Dell's WD19 Device Drivers - Get Started Now!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/fishing-footage-frontier-top-action-cameras-for-the-sea/"><u>Fishing Footage Frontier Top Action Cameras for the Sea</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-become-an-audio-trailblazer-exclusive-vocal-change-techniques-in-free-fire-free/"><u>In 2024, Become an Audio Trailblazer – Exclusive Vocal Change Techniques in Free Fire (Free)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-circular-innovator-box/"><u>In 2024, Circular Innovator Box</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On OnePlus 11R? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/leaders-take-on-the-pro-level-dreame-bot-l10-highly-efficient-cleaning-with-precision-lidar-navigation-unveiled/"><u>Leaders' Take on the Pro-Level Dreame Bot L10: Highly Efficient Cleaning with Precision LiDAR Navigation Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/reconcile-your-win-plus-print-discrepinasions-with-effective-solutions/"><u>Reconcile Your Win + Print Discrepinasions with Effective Solutions.</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/satirical-space-the-ultimate-guide-to-20plus-humorous-metaverse-imagery/"><u>Satirical Space The Ultimate Guide to 20+ Humorous Metaverse Imagery</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/vr-readiness-your-space-and-tech-essentials/"><u>VR Readiness Your Space and Tech Essentials</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-ultimate-guide-to-youtube-openers-aandb-methods/"><u>[New] 2024 Approved The Ultimate Guide to YouTube Openers A&B Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-achieve-excellence-in-zoom-videos-using-key-conversion-techniques/"><u>[New] Achieve Excellence in Zoom Videos Using Key Conversion Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-conquering-content-diversity-with-verticalized-h-video-posts/"><u>[New] In 2024, Conquering Content Diversity with Verticalized H-Video Posts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/st-sites-to-find-and-download-royalty-free-music-for-youtube-for-2024/"><u>15 Best Sites to Find & Download Royalty-Free Music for YouTube for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beginners-vlogging-toolkit-gear-and-software/"><u>2024 Approved Beginner's Vlogging Toolkit Gear and Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-hoe-mic-recordings-from-mp3-to-wav-on-windows-11-10-8-and-7/"><u>Convert Hoe Mic Recordings From MP3 to WAV on Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harness-the-security-benefits-of-powershells-execution-policies/"><u>Harness the Security Benefits of PowerShell's Execution Policies</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-xiaomi-redmi-note-12r-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Xiaomi Redmi Note 12R Is Unlocked</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pioneering-brands-spotlight-on-top-9-free-youtube-logos-craftors-for-2024/"><u>Pioneering Brands Spotlight on Top 9 Free YouTube Logos Craftors for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pursuing-prolonged-iphone-night-sky-captures-for-2024/"><u>Pursuing Prolonged iPhone Night Sky Captures for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/take-it-upward-expert-techniques-for-phones/"><u>Take It Upward Expert Techniques for Phones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transforming-footage-into-high-quality-content/"><u>Transforming Footage Into High-Quality Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tune-into-visuals-embedding-music-in-powerpoint/"><u>Tune Into Visuals Embedding Music in PowerPoint</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-the-power-of-split-window-on-netflix-platform/"><u>Unleash the Power of Split Window on Netflix Platform</u></a></li>
 </ul></div>
 

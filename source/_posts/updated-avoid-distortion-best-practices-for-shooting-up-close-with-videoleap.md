@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Avoid Distortion  Best Practices for Shooting Up Close with VideoLeap\""
-date: 2024-12-24T16:46:20.232Z
-updated: 2024-12-29T05:06:44.352Z
+date: 2025-01-02T19:05:07.092Z
+updated: 2025-01-07T23:24:27.754Z
 tags: 
   - screen-recording
   - ai video
@@ -31,16 +31,24 @@ Videoleap is famous for providing the best video editing features to its users a
 
 ![tap add media videoleap](https://images.wondershare.com/filmora/article-images/2022/07/tap-add-media-videoleap.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Now after the video clips are imported and collected, you will see a timeline of clips where everything will be arranged to your initial preferences.
 
 ![video timeline videoleap](https://images.wondershare.com/filmora/article-images/2022/07/video-timeline-videoleap.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Click on the part of the timeline that you want to edit and then select the tool that says "Transform". This tool is usually present at the bottom of your screen.
 
 ![transform vdieo videoleap](https://images.wondershare.com/filmora/article-images/2022/07/transform-vdieo-videoleap.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Now, in the preview window where all the clips are shown, pinch in or out to zoom into the video or vice versa until you get a desired portion of the screen.
@@ -48,7 +56,7 @@ Videoleap is famous for providing the best video editing features to its users a
 ![zoom into videoleap](https://images.wondershare.com/filmora/article-images/2022/07/zoom-into-videoleap.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Now play the video after zooming in by clicking on the "play" button and check whether the zoom effect has been added to your video project or not.
@@ -63,10 +71,6 @@ Sometimes the video contents need a dramatic zoom effect that should take place 
 
 ![preview timeline videoleap](https://images.wondershare.com/filmora/article-images/2022/07/preview-timeline-videoleap.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Then select the "keyframes" tool from the toolbar at the bottom of your screen.
 * Add the keyframes to the desired portion of the video and then navigate the timecode to the place on the timeline where you want to stop it. After that add another keyframe at that point and pinch in to zoom the video.
 
@@ -74,10 +78,6 @@ Sometimes the video contents need a dramatic zoom effect that should take place 
 
 * Now head to the second time code where you want to focus the subject and then click on it. Then click on the "Preview" icon and see whether it needs further changes.
 * When you are satisfied, simply export the project and your animated zoom video will be saved successfully.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternative way to Zoom Video on Computer
 
@@ -93,14 +93,14 @@ If for some reason you are not able to install and use Videoleap on your system 
 
 ![open the filmora application on pc](https://images.wondershare.com/filmora/guide/pan-zoom-feature-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * This will open 4 different types of tools regarding zoom functions. The first tool will help you to go from larger frames to smaller frames by zooming in. Thus, you can use this feature to bring details to a subject in your video. The second option helps you with zooming out from a smaller frame to a larger frame.
 * The third and fourth tools will help you achieve the Pan function from left to right and right to left respectively. This panning will be on a horizontal axis. You can also pan your video screen by using your mouse too.
 * You can select any of these options to zoom in, out, or pan your videos and create a stunning zoom effect on your videos.
 * When you are done with your editing process, save the video and the file will be exported to your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -153,22 +153,24 @@ Videoleap is one of the leading video editing platforms available out there. The
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-crafting-minecraft-perfect-circles-and-spheres-techniques/"><u>[New] 2024 Approved Crafting Minecraft Perfect Circles & Spheres Techniques</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-mastering-audio-integration-in-canva-videos/"><u>[New] Mastering Audio Integration in Canva Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-step-by-step-guide-on-acquiring-elite-hdr-cameras/"><u>[New] Step-by-Step Guide on Acquiring Elite HDR Cameras</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-audiophiles-ultimate-narrative-guides/"><u>[Updated] Audiophile's Ultimate Narrative Guides</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-mastering-iphone-video-clarity-in-premiere-pro-amidst-highlights-and-shadows-for-2024/"><u>[Updated] Mastering iPhone Video Clarity in Premiere Pro Amidst Highlights and Shadows for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2022-ice-dancing-showcase-review/"><u>2022 Ice Dancing Showcase Review</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-tutorial-on-gdocs-voice-to-text-feature/"><u>2024 Approved Comprehensive Tutorial on GDoc's Voice-to-Text Feature</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/beijings-frigid-triumph-in-winter-sports-2022/"><u>Beijing's Frigid Triumph in Winter Sports, 2022</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/changing-the-game-in-smart-casting-detailed-review-of-chromecast-with-google-tv-vs-firetv/"><u>Changing the Game in Smart Casting: Detailed Review of Chromecast with Google TV vs FireTV</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-your-podcasts-rss-feed-a-step-by-step-guide-for-2024/"><u>Crafting Your Podcast's RSS Feed A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/enhance-your-sound-capture-experience-with-apowersofts-updated-40-streaming-audio-recorder/"><u>Enhance Your Sound Capture Experience with Apowersoft's Updated 4.0 Streaming Audio Recorder!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-epson-wf-7710-drivers-for-your-pc-compatible-with-windows-118187/"><u>Get the Latest Epson WF-7710 Drivers for Your PC: Compatible with Windows 11/8.1/8/7</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-av-and-acoustic-creatives-top-5-online-leaders-roundup/"><u>In 2024, Av & Acoustic Creatives Top 5 Online Leaders' Roundup</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-tripping-up-heres-how-to-avoid-it/"><u>In 2024, Tripping Up? Here's How to Avoid It</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/magic-voice-transformation-is-this-app-feasible-discover-other-solutions/"><u>Magic Voice Transformation Is This App Feasible? Discover Other Solutions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/premium-free-pubg-thumbnail-collections/"><u>Premium Free PUBG Thumbnail Collections</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/streaming-showdown-obs-vs-twitch-studio/"><u>Streaming Showdown OBS vs Twitch Studio</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-beat-bazaar-curation-of-superior-dj-video-samples-for-download/"><u>[New] 2024 Approved Beat Bazaar Curation of Superior DJ Video Samples for Download</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-essentials-of-dynamic-visual-communication/"><u>[New] 2024 Approved The Essentials of Dynamic Visual Communication</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-action-cam-battle-hero-4-against-hero-5-for-2024/"><u>[Updated] Action Cam Battle Hero 4 Against Hero 5 for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-how-to-applying-captions-to-pictures-in-pcmac-environments/"><u>[Updated] The Ultimate How-To Applying Captions to Pictures in PC/Mac Environments</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-chortlecraft-customize-funny-digital-images/"><u>2024 Approved ChortleCraft Customize Funny Digital Images</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-interpreting-the-lack-of-communication-a-block-indicator/"><u>2024 Approved Interpreting the Lack of Communication A Block Indicator</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-comprehensive-examination-of-lg-27ud68-display-tech-for-2024/"><u>A Comprehensive Examination of LG 27UD68 Display Tech for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/behind-the-scenes-with-viral-image-memes-and-stories/"><u>Behind the Scenes with Viral Image Memes & Stories</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/core-concepts-in-moving-graphic-artistry-for-2024/"><u>Core Concepts in Moving Graphic Artistry for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/declutter-your-tiktok-drafters-efficient-edit-strategies/"><u>Declutter Your TikTok Drafters Efficient Edit Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-video-creation-with-windows-xp-edition/"><u>Elevate Video Creation with Windows XP Edition</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-oneplus-nord-n30-se-frp-bypass-by-drfone-android/"><u>In 2024, About OnePlus Nord N30 SE FRP Bypass</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/merging-youtube-soundtracks-to-cinematic-scenes/"><u>Merging YouTube Soundtracks to Cinematic Scenes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavis-no-cost-tool-for-easy-offline-editing-of-mxf-videos-to-mpg/"><u>Movavi's No-Cost Tool for Easy Offline Editing of MXF Videos to MPG</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pioneering-tech-in-adventure-camera-gear/"><u>Pioneering Tech in Adventure Camera Gear</u></a></li>
+<li><a href="https://fox-making.techidaily.com/qnap-naswindows-10/"><u>QNAP NAS上Windows 10的儲存解決策：選擇兩大最佳技巧</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/stream-quality-which-is-superior-obs-or-fraps-for-2024/"><u>Stream Quality Which Is Superior, OBS or Fraps for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-lg-bp350-review-audiovisual-performance-analysis/"><u>The LG BP350 Review Audiovisual Performance Analysis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-simple-grading-tactics/"><u>The Ultimate Guide to Simple Grading Tactics</u></a></li>
 </ul></div>
 

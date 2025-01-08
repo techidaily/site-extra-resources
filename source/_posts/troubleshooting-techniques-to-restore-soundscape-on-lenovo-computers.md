@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Techniques to Restore Soundscape on Lenovo Computers
-date: 2024-12-26T06:53:16.349Z
-updated: 2024-12-28T21:25:17.008Z
+date: 2025-01-03T01:45:27.428Z
+updated: 2025-01-08T03:28:32.104Z
 tags:
   - win11
   - win10
@@ -30,17 +30,9 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 4. **[Restart Windows Audio Services](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your computer
 
  Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run the Windows audio troubleshooter
 
@@ -53,6 +45,10 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-322.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Playing Audio** , then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-323.png)
@@ -60,6 +56,10 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 **3)** Follow the on-screen instructions to troubleshoot your problem.
 
 If Windows fails to detect your issue, move on and try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -93,19 +93,23 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the **Update button** next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Restart Windows Audio Services
 
@@ -124,7 +128,7 @@ OR
  This should allow you to hear Apex Legends and everything else. If your issue still exists, don’t fret. There is still one more fix to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Apex Legends
@@ -136,10 +140,6 @@ OR
 **2)** Click**My Game Library** , right-click**Apex Legends** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-327.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** After your game is uninstalled, restart your computer.
 
@@ -169,17 +169,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/1716276230286-infographic-dji-mavic-air-vs-dji-spark-a-gamer-changer-again/"><u>[Infographic] DJI Mavic Air Vs. DJI Spark - A Gamer Changer Again?</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/orrected-non-existence-of-shorts-on-feeds/"><u>[New] Corrected Non-Existence of Shorts on Feeds</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-engage-efficiently-strategies-for-surge-in-social-media-shares/"><u>[Updated] In 2024, Engage Efficiently Strategies for Surge in Social Media Shares</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-exclusive-list-of-leading-free-video-editing-programs/"><u>[Updated] In 2024, Exclusive List of Leading Free Video Editing Programs</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-ultimate-color-correction-top-15-luts-for-gopro-cams/"><u>[Updated] In 2024, Ultimate Color Correction Top 15 LUTs for GoPro Cams</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-xiaomi-redmi-12-5g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Xiaomi Redmi 12 5G</u></a></li>
-<li><a href="https://win-able.techidaily.com/free-techniques-for-combining-avi-files-in-windows-11-your-step-by-step-resource/"><u>Free Techniques for Combining AVI Files in Windows 11 - Your Step-by-Step Resource</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-complete-walkthrough-mastering-adobe-cloud-services/"><u>In 2024, Complete Walkthrough Mastering Adobe Cloud Services</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-wireless-methods-to-mirrorapple-iphone-15-pro-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>In 2024, Wireless Methods to MirrorApple iPhone 15 Pro & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/majestic-celestial-images-at-your-command/"><u>Majestic Celestial Images at Your Command</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/online-movie-magic-access-free-content-with-crackle/"><u>Online Movie Magic: Access Free Content With Crackle!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/virtuality-unleashed-insightful-reviews-of-top-10-pc-vr-streamers/"><u>Virtuality Unleashed Insightful Reviews of Top 10 PC VR Streamers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capture-clarity-optimal-tripods-for-iphone-and-android/"><u>[New] Capture Clarity Optimal Tripods for iPhone & Android</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-navigating-instagrams-self-verification-maze-for-2024/"><u>[New] Navigating Instagram's Self-Verification Maze for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-enhancing-twitter-posts-via-facebook-connection-for-2024/"><u>[Updated] Enhancing Twitter Posts via Facebook Connection for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211372500-9781922786883-awaken-your-psychic-ability-updated-edition/"><u>Awaken your Psychic Ability - updated edition | Free Book</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beginners-guide-to-the-top-10-filmmaking-cameras/"><u>Beginner's Guide to the Top 10 Filmmaking Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/budget-saving-stratospheric-storage-for-heavy-dumps-for-2024/"><u>Budget-Saving Stratospheric Storage for Heavy Dumps for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/explore-youtubes-finest-virtual-reality-content/"><u>Explore YouTube's Finest Virtual Reality Content</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-premium-audio-at-unbeatable-deals-save-40-on-select-airpods-before-independence-day-exclusive-insight-from-zdnet/"><u>Get Premium Audio at Unbeatable Deals! Save $40 on Select AirPods Before Independence Day - Exclusive Insight From ZDNET</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-smarter-spending-on-cloud-data-services-insights-and-recommendations/"><u>In 2024, Smarter Spending on Cloud Data Services Insights & Recommendations</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-oneplus-11rs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your OnePlus 11Rs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/real-world-perceptions-of-vllo/"><u>Real-World Perceptions of VLLO</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-photoshop-guide-to-text-becoming-3d/"><u>The Ultimate Photoshop Guide to Text Becoming 3D</u></a></li>
 </ul></div>
 

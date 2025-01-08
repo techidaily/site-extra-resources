@@ -1,7 +1,7 @@
 ---
 title: "\"The Art of Pairing B-Clips with Main Shots\""
-date: 2024-12-27T18:17:23.367Z
-updated: 2024-12-28T21:12:49.722Z
+date: 2025-01-02T22:08:28.624Z
+updated: 2025-01-07T23:13:56.686Z
 tags: 
   - screen-recording
   - ai video
@@ -23,7 +23,7 @@ B roll is a phrase used to describe supplemental video, which is frequently used
 Now that we know that, let's dive in!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. B roll In TV And Movies
@@ -37,7 +37,7 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Methods to use b roll
@@ -49,7 +49,7 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. What types of b roll are there?
@@ -57,7 +57,7 @@ On the other hand, cutaways can show how different people react to what is being
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Archival b roll footage
@@ -67,6 +67,10 @@ Aerial B roll is the solution when you like to show your viewers where your film
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Storytelling b roll footage
 
@@ -81,10 +85,6 @@ This particular kind of B roll film is captured without any direction being give
 When you are sharing a narrative that has been told in the past or that has historical significance, incorporating archival material into your video gives your audience the opportunity to see the story as it occurred at the time. This is especially useful when you are discussing a narrative that has been experienced in the past or that has futuristic relevance.
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Pick-up shots
 
@@ -130,20 +130,20 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-sifting-through-the-best-video-hosting-options-with-vimeo-memberships/"><u>[New] 2024 Approved Sifting Through the Best Video Hosting Options with Vimeo Memberships</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-proven-strategies-against-photos-app-issues-on-windows-11/"><u>[New] Proven Strategies Against Photos App Issues on Windows 11</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-a-complete-resource-for-aspiring-xbox-streaming-pros-for-2024/"><u>[Updated] A Complete Resource for Aspiring Xbox Streaming Pros for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/all-inclusive-vsco-lens-manual/"><u>All-Inclusive VSCO Lens Manual</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/beginning-profits-periscope-income-strategies-for-novices-for-2024/"><u>Beginning Profits Periscope Income Strategies for Novices for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/echo-chamber-best-online-spots-for-free-skype-music/"><u>Echo Chamber Best Online Spots for Free Skype Music</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gratis-online-converter-von-wav-zu-mp3-mit-movavi-kostenlos-und-einfach/"><u>Gratis Online Converter Von WAV Zu MP3 Mit Movavi - Kostenlos Und Einfach</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/how-to-restore-your-apex-legends-voice-chat-expert-fixes-inside/"><u>How to Restore Your Apex Legends Voice Chat - Expert Fixes Inside</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-8-best-free-online-video-stabilizers/"><u>In 2024, 8 Best Free Online Video Stabilizers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-beyond-imagination-cutting-edge-vr-tech/"><u>In 2024, Beyond Imagination Cutting-Edge VR Tech</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/innovative-titling-techniques-to-explore/"><u>Innovative Titling Techniques to Explore</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/inside-outlook-on-vr-good-and-bad-aspects/"><u>Inside Outlook on VR Good & Bad Aspects</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-poco-c51-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Poco C51 Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-blueprint-for-stellar-unboxing-videos-on-tiktok/"><u>The Blueprint for Stellar Unboxing Videos on TikTok</u></a></li>
-<li><a href="https://games-able.techidaily.com/vintage-games-and-images-connect-with-win-11/"><u>Vintage Games & Images - Connect With Win 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-achieving-perfect-synchronization-google-upload/"><u>[New] Achieving Perfect Synchronization Google Upload</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-action-camera-selection-under-200-high-quality-low-cost/"><u>[New] Action Camera Selection Under $200 High Quality, Low Cost</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restored-compatibility-issues-with-new-device-driver-update/"><u>[RESTORED] Compatibility Issues with New Device Driver Update</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-creating-a-spherical-experience-best-practices-for-panoramic-film-9-essentials/"><u>[Updated] Creating a Spherical Experience Best Practices for Panoramic Film (9 Essentials)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-crafting-comfortable-cinematography-amidst-the-chill/"><u>[Updated] In 2024, Crafting Comfortable Cinematography Amidst the Chill</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unlocking-your-ps4s-potential-recording-strategies-for-gamers/"><u>[Updated] Unlocking Your PS4's Potential Recording Strategies for Gamers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-boosting-sales-the-top-20-words-and-phrases-in-marketing/"><u>2024 Approved Boosting Sales The Top 20 Words and Phrases in Marketing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-calls-iphones-vision/"><u>Capture Calls IPhone's Vision</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/download-the-latest-version-of-gom-player-free-and-compatible-with-windows-10/"><u>Download the Latest Version of GOM Player: FREE & Compatible with Windows 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-cheap-yet-superior-4k-equipment/"><u>In 2024, Cheap Yet Superior 4K Equipment</u></a></li>
+<li><a href="https://facebook.techidaily.com/inside-shadowbanning-how-to-stay-undetected/"><u>Inside Shadowbanning: How to Stay Undetected</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximizing-value-with-the-ambient-ws-2902a-osprey-a-high-feature-weather-station-at-a-bargain/"><u>Maximizing Value with the Ambient WS-2902A Osprey - A High Feature Weather Station at a Bargain!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/thorough-examination-capturing-life-in-full-with-gear-360/"><u>Thorough Examination Capturing Life in Full with Gear 360</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-video-brilliance-through-advanced-chroma-techniques-11-steps-for-2024/"><u>Unlock Video Brilliance Through Advanced Chroma Techniques (11 Steps) for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-gopros-full-potential/"><u>Unlocking GoPro's Full Potential</u></a></li>
 </ul></div>
 

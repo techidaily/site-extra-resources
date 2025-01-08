@@ -1,7 +1,7 @@
 ---
 title: "\"Velvet Vaults  2022 Olympic Skaters\""
-date: 2024-12-22T08:05:50.355Z
-updated: 2024-12-28T16:15:26.808Z
+date: 2025-01-05T03:11:52.103Z
+updated: 2025-01-07T19:45:30.930Z
 tags: 
   - screen-recording
   - ai video
@@ -35,16 +35,12 @@ Nathan Chen of the United States reacts to winning the gold medal at the 2022 Be
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
 
@@ -58,15 +54,19 @@ Even though Nathan Chen finished first for men's short program of the team event
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
-Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
 
@@ -89,7 +89,7 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
@@ -105,7 +105,7 @@ Step 5: Select individual or multiple slides and add Transitions, Effects, Title
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -121,18 +121,20 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-beyond-the-screen-a-vr-odyssey/"><u>[New] Beyond the Screen A VR Odyssey</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-basic-concepts-of-plotting-and-characterizing/"><u>[Updated] Basic Concepts of Plotting and Characterizing</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-transforming-archived-content-for-livestream-audiences-on-facebook/"><u>[Updated] Transforming Archived Content for Livestream Audiences on Facebook</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-apex-gk-quizmasters-video-channel-list/"><u>2024 Approved Apex GK Quizmasters' Video Channel List</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-capture-and-amplify-no-cost-digital-picture-upgrades/"><u>2024 Approved Capture & Amplify - No Cost Digital Picture Upgrades</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-the-perfect-mobile-chime-how-to-download-and-personalize-whatsapp-tones-for-iphonesandroids/"><u>2024 Approved Crafting the Perfect Mobile Chime How to Download & Personalize WhatsApp Tones for iPhones/Androids</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ve-professional-level-youtube-transcription-without-spending-for-2024/"><u>Achieve Professional-Level YouTube Transcription Without Spending for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/eco-friendly-visual-aids-no-cost/"><u>Eco-Friendly Visual Aids - No Cost</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-or-professional-analyzing-the-benefits-of-youtube-converter-factories-which-is-right-for-you/"><u>Free or Professional? Analyzing the Benefits of YouTube Converter Factories - Which Is Right for You?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-and-update-realtek-hd-sound-driver-in-windows-11/"><u>How to Restore & Update Realtek HD Sound Driver in Windows 11</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-serenity-top-pick-winter-backgrounds-for-videos-for-2024/"><u>Snowy Serenity Top Pick Winter Backgrounds for Videos for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/streamlining-your-experience-live-cricket-viewing-tips/"><u>Streamlining Your Experience Live Cricket Viewing Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/youtube-mjpeg-mkv-movavi/"><u>무료 사용에 호의합니다! YouTube를 MJPEG로 제공하는 MKV 변환: Movavi 가이드</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-quick-conversion-tactics-extracting-mp3-from-vids-on-social-media/"><u>[New] Quick Conversion Tactics Extracting MP3 From Vids on Social Media</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-navigating-sharex-critical-thoughts-and-alternatives/"><u>[Updated] 2024 Approved Navigating ShareX Critical Thoughts & Alternatives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-conquer-the-camera-prostrate-techniques-with-gopro-hero5-black/"><u>[Updated] Conquer the Camera Prostrate Techniques With GoPro Hero5 Black</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-animated-storytelling-tips-for-instagram-text/"><u>2024 Approved The Art of Animated Storytelling Tips for Instagram Text</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audio-amplification-for-powerpoint-presentations-for-2024/"><u>Audio Amplification for PowerPoint Presentations for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/cost-efficient-top-screen-recorder-apps-for-chromeos-for-2024/"><u>Cost-Efficient Top Screen Recorder Apps for ChromeOS for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/easy-data-recovery-guide-for-usb-flash-drives-free-download/"><u>Easy Data Recovery Guide for USB Flash Drives - Free Download</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-940mx-nvidia-driver-for-optimal-performance/"><u>Get the Latest 940MX Nvidia Driver for Optimal Performance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/inside-look-unlocking-the-potential-of-m1-max-clip/"><u>Inside Look Unlocking the Potential of M1 Max Clip</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/issue-resolved-stable-connection-to-diablo-iii-game-server-achieved/"><u>Issue Resolved: Stable Connection to Diablo III Game Server Achieved</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-multimedia-production-a-guide-to-editing-videos-on-windows-10/"><u>Mastering Multimedia Production A Guide to Editing Videos on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-screen-stutter-on-windows-11-systems/"><u>Resolving Screen Stutter on Windows 11 Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/review-the-goofy-movie-vhs/"><u>Review The Goofy Movie VHS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-solutions-for-troubleshooting-wireless-adapteraccess-point-issues/"><u>Top 10 Solutions for Troubleshooting Wireless Adapter/Access Point Issues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tracing-the-flow-of-money-in-consumer-opinions/"><u>Tracing the Flow of Money in Consumer Opinions</u></a></li>
 </ul></div>
 
