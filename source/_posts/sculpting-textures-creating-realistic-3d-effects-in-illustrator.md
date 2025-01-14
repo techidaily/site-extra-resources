@@ -1,7 +1,7 @@
 ---
 title: "\"Sculpting Textures  Creating Realistic 3D Effects in Illustrator\""
-date: 2025-01-05T22:41:39.070Z
-updated: 2025-01-08T03:48:15.467Z
+date: 2025-01-10T20:29:15.973Z
+updated: 2025-01-14T06:53:24.866Z
 tags: 
   - screen-recording
   - ai video
@@ -41,32 +41,36 @@ Step2 Click on the **Type tool** and click anywhere on your blank canvas. Then, 
 ![type tool illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-type-tool.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3 Now, look at the bottom-right corner of the program. Find the **Font** settings and change your font type and size to anything you want.
 
 ![change font illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-font.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Next, choose any color you want for your text from the panel on the screen's left side. Just remember to click on your text first before you start changing colors.
 
 ![change color](https://images.wondershare.com/filmora/article-images/adobe-illustrator-color.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step5 Align the text to make it easier to edit and move around the canvas later. Just click on it and then click on the three buttons in the image below. This section is located at the bottom-right corner of the screen.
 
 ![align text in illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-align.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step6 Up next, you need to turn on your 3D Effects panel if it still needs to be activated. To do this, click on **Window** → **3D and Materials.** Then, look at the right side of the screen, and you will see the panel pop up.
 
 ![turn on three d panel](https://images.wondershare.com/filmora/article-images/adobe-illustrator-3d-materials-window.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step7 Click on the box icon on the right side of the screen and select **“Extrude”** This will instantly transform your text into a 3D model.
 
@@ -88,6 +92,10 @@ You might not believe it, but there's an even more accessible and less expensive
 
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Create a 3D Text Effect In Filmora?
 
 The steps are simple. Just follow them precisely as you see here, and you won't have any problems.
@@ -103,16 +111,12 @@ Step3 Double-click on the 3D title layer you dragged into the Timeline. When the
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -139,10 +143,6 @@ Step3 Double-click on the 3D title layer you dragged into the Timeline. When the
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -172,17 +172,24 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-visionary-selection-best-10-audio-plugins-for-spotify/"><u>[New] Visionary Selection Best 10 Audio Plugins for Spotify</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-mastering-the-art-of-incorporating-film-into-lessons/"><u>[Updated] 2024 Approved Mastering the Art of Incorporating Film Into Lessons</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-box-tastic-finds-discover-the-best-sites-for-boxes-at-steals/"><u>2024 Approved Box-Tastic Finds! Discover the Best Sites for Boxes at Steals</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-convert-google-meet-chats-into-youtube-livestream-easily/"><u>2024 Approved Convert Google Meet Chats Into YouTube Livestream Easily</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-strategies-to-solve-your-discord-app-malfunctions/"><u>Comprehensive Strategies to Solve Your Discord App Malfunctions</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/correcting-improper-installation-of-the-scanning-tool-troubleshooting-guide-by-yl-computing/"><u>Correcting Improper Installation of the Scanning Tool - Troubleshooting Guide by YL Computing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/engineer-ethical-emojis-on-giphy/"><u>Engineer Ethical Emojis on Giphy</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exploring-the-new-frontier-a-comparative-study-on-tiktok-and-triller/"><u>Exploring the New Frontier A Comparative Study on TikTok & Triller</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-create-an-affordable-customizable-virtual-reality-gear/"><u>How to Create an Affordable, Customizable Virtual Reality Gear</u></a></li>
-<li><a href="https://win11.techidaily.com/learn-to-leverage-windows-11s-pcm-bar-tools-quickly-and-effectively/"><u>Learn to Leverage Windows 11'S PCM Bar Tools Quickly & Effectively</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-comprehensive-tutorial-on-storing-and-accessing-drivers-license-in-iphone-wallet-across-regions/"><u>The Comprehensive Tutorial on Storing and Accessing Driver's License in iPhone Wallet Across Regions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-battleye-initialization-failure-with-driver-error-code-1450/"><u>Troubleshooting Guide: Resolving BattlEye Initialization Failure with Driver Error Code 1450</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-windows-sketchpad-selections-cost-free-and-premium-plans/"><u>[New] Best Windows Sketchpad Selections Cost-Free & Premium Plans</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-12-live-video-streaming-app-for-watching-and-streaming-videos/"><u>[Updated] 12 Live Video Streaming App for Watching and Streaming Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-boost-your-content-ranking-of-top-10-video-editors/"><u>[Updated] Boost Your Content Ranking of Top 10 Video Editors</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-newest-camstudio-capture-and-review-2023-update/"><u>[Updated] Newest CamStudio Capture & Review 2023 Update</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ultimate-guide-to-affordable-online-photo-edits-of-the-year/"><u>[Updated] Ultimate Guide to Affordable Online Photo Edits of the Year</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-unlock-easy-paths-for-exceptional-yt-thumbnails/"><u>2024 Approved Unlock Easy Paths for Exceptional YT Thumbnails</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/addressing-the-lack-of-novelty-in-virtual-reality/"><u>Addressing the Lack of Novelty in Virtual Reality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-efficient-ai-powered-mobile-search-via-bing-app/"><u>Discover Efficient AI-Powered Mobile Search via Bing App</u></a></li>
+<li><a href="https://article-helps.techidaily.com/engaging-audiences-seamlessly-zoom-plus-youtube-and-fb-live-integration/"><u>Engaging Audiences Seamlessly ZOOM + YouTube & FB LIVE Integration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-facebook-live-via-zoom-techniques/"><u>Enhancing Facebook Live via Zoom Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ensure-flawless-slack-conversations-best-10-free-recorder-apps/"><u>Ensure Flawless Slack Conversations Best 10 Free Recorder Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-9-command-center-of-live-gaming-streams/"><u>In 2024, 9 Command Center of Live Gaming Streams</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-instant-aspect-ratio-tuning-for-youtube-on-mac/"><u>In 2024, Instant Aspect Ratio Tuning for Youtube on Mac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lut-revolution-no-cost-for-your-favorite-dji-minis-and-air-2-beats/"><u>LUT Revolution – No Cost for Your Favorite DJI Minis & Air 2 Beats</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/master-the-art-of-avi-gif-conversion-via-filmora-platform/"><u>Master the Art of AVI-GIF Conversion via Filmora Platform</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/quintessential-6-realistic-mojave-homes-for-2024/"><u>Quintessential 6 Realistic Mojave Homes for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-pcs-embedded-webcam-issues-with-easy-windows-tips/"><u>Resolve Your PC's Embedded Webcam Issues with Easy Windows Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-friends-realm-social-virtual-ventures/"><u>Top Friends' Realm Social Virtual Ventures</u></a></li>
+<li><a href="https://fox-access.techidaily.com/zenmotion-hd-comparing-paid-and-free-editors/"><u>Zenmotion HD Comparing Paid & Free Editors</u></a></li>
 </ul></div>
 

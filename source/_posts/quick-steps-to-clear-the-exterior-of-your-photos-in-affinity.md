@@ -1,7 +1,7 @@
 ---
 title: "Quick Steps to Clear the Exterior of Your Photos in Affinity"
-date: 2025-01-05T21:40:12.125Z
-updated: 2025-01-07T18:27:53.858Z
+date: 2025-01-12T08:53:09.849Z
+updated: 2025-01-13T19:02:22.989Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,6 @@ Affinity Photo is an image editor developed by Serif Ltd. in 2009 and is used by
 
 No matter you are a professional content creator or a newbie, we'll be discussing how to remove background in Affinity Photo. Let's explore how to use the good editing tool to be free of the stressful editing process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Remove Affinity Photo to Remove Image's Background
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
@@ -40,17 +36,21 @@ Now access the **Pixel Persona** section in the left corner of the software scre
 
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
 
@@ -65,7 +65,7 @@ Step5 In the last step, press the **"Delete"** key on your keyboard to remove th
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Remove a Busy Background in Affinity Designer
@@ -97,10 +97,6 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -108,6 +104,10 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
@@ -160,7 +160,7 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -197,22 +197,24 @@ Hopefully, this article and video can help you create ideal images!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-beyond-the-screen-jaunt-vrs-spectacular-world/"><u>[New] Beyond the Screen Jaunt VR's Spectacular World</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-crafting-an-impressive-online-brand-presence/"><u>[New] Crafting an Impressive Online Brand Presence</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-prime-5-filters-elevating-submerged-cinematography/"><u>[New] Prime 5 Filters Elevating Submerged Cinematography</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-streamlining-your-avatar-on-google-meet-devices/"><u>[New] Streamlining Your Avatar on Google Meet Devices</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-superior-schedulers-for-success-our-recommendation-list/"><u>[Updated] 2024 Approved Superior Schedulers for Success Our Recommendation List</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-best-of-breed-exceptional-episodes-on-google-podcasts/"><u>[Updated] Best of Breed Exceptional Episodes on Google Podcasts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-4-simplified-techniques-to-embed-youtube-content-in-powerpoint/"><u>[Updated] In 2024, 4 Simplified Techniques to Embed YouTube Content in PowerPoint</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-investigating-youtube-dialogues/"><u>[Updated] In 2024, Investigating YouTube Dialogues</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/altered-realities-image-warping-insights-for-2024/"><u>Altered Realities Image Warping Insights for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/craft-cinematic-magic-try-these-7-color-tricks/"><u>Craft Cinematic Magic Try These 7 Color Tricks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-actions-while-absorbing-audio-tales/"><u>Essential Actions While Absorbing Audio Tales</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-honor-x9a-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Honor X9a FRP Bypass</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/iphone-hacks-for-minimalist-video-presentation-for-2024/"><u>IPhone Hacks for Minimalist Video Presentation for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/secrets-of-selecting-the-best-nba-live-feed/"><u>Secrets of Selecting the Best NBA Live Feed</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-wi-fi-issues-on-your-iphone-with-these-5-effective-fixes/"><u>Troubleshoot Wi-Fi Issues on Your iPhone with These 5 Effective Fixes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/under-100-budget-friendly-action-cams-top-choices-guide/"><u>Under-$100 Budget-Friendly Action Cams – Top Choices Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unravel-complex-video-editing-a-complete-android-guide/"><u>Unravel Complex Video Editing A Complete Android Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-5-premier-cloud-platforms-revolutionizing-storage/"><u>[New] 5 Premier Cloud Platforms Revolutionizing Storage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-assemble-your-own-google-vr-viewing-device/"><u>[New] Assemble Your Own Google VR Viewing Device</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-practices-for-secure-youtube-mp4-conversion/"><u>[New] In 2024, Best Practices for Secure YouTube MP4 Conversion</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-innovation-in-action-youtube-split-screen-techniques/"><u>[Updated] Innovation in Action YouTube Split-Screen Techniques</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-detailed-analysis-of-mozillas-popup-functionality/"><u>A Detailed Analysis of Mozilla's Popup Functionality</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/are-product-critiques-online-generated-income-for-2024/"><u>Are Product Critiques Online Generated Income for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-defender-a-guide-to-third-party-virus-protection/"><u>Disabling Defender: A Guide to Third-Party Virus Protection</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/essential-tips-for-organizing-online-gatherings-google-meet/"><u>Essential Tips for Organizing Online Gatherings (Google Meet)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ethereal-frame-deacceleration-manual/"><u>Ethereal Frame Deacceleration Manual</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo Y36? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-closer-look-at-high-end-vr-walking-machines/"><u>In 2024, A Closer Look at High-End VR Walking Machines</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-redmi-note-12t-pro-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Xiaomi Redmi Note 12T Pro Phone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/movavi-video-editors-2024-update-a-deep-dive-review/"><u>Movavi Video Editor's 2024 Update A Deep Dive Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secrets-from-the-tech-gurus-how-i-scored-a-steal-with-an-economy-surface-pro-weitereleitung/"><u>Secrets From the Tech Gurus: How I Scored a Steal with an Economy Surface Pro #WEITERELEITUNG</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/strategies-to-avoid-overuse-of-b-roll-in-cinematography/"><u>Strategies to Avoid Overuse of B-Roll in Cinematography</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-top-photo-protection-apps-reviewed/"><u>The Top Photo Protection Apps Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/windows-11-updates-examined/"><u>Windows 11 Updates Examined</u></a></li>
 </ul></div>
 

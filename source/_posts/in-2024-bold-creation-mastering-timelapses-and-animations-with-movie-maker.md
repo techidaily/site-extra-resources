@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Bold Creation  Mastering Timelapses & Animations with Movie Maker\""
-date: 2025-01-04T02:40:10.029Z
-updated: 2025-01-08T00:21:04.266Z
+date: 2025-01-08T03:18:37.187Z
+updated: 2025-01-13T22:53:07.142Z
 tags: 
   - screen-recording
   - ai video
@@ -32,15 +32,7 @@ On your PC, launch Windows Movie Maker. Windows Movie Maker, however, has to be 
 
 ![import video to movie maker](https://images.wondershare.com/filmora/article-images/2022/09/import-video-to-movie-maker.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** You have the option to upload one file at a time or many files simultaneously.
 
@@ -56,6 +48,10 @@ You may add two distinct types of animations—Transitions and Pan and Zoom—to
 
 ![animation tab movie maker](https://images.wondershare.com/filmora/article-images/2022/09/animation-tab-movie-maker.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step4Add Transitions
 
 Between two multimedia portions, a transition effect may be added. In the "Animations" section, there are many different transitions available, including dissolves, patterns, and forms. The transition will be included at the start of the chosen medium. You may alter the effect's duration by writing or choosing a new time frame from the dropdown menu next to "Duration."
@@ -67,6 +63,10 @@ Between two multimedia portions, a transition effect may be added. In the "Anima
 When a transition is applied, a washed-out diagonal zone on the clip in the timeline indicates where the transition starts and finishes. Additionally, you have a choice in the sequence in which the effects are used. This may change how the movie is finally shown depending on the Effects, you choose. Once you're done, click Apply.
 
 ![save animation video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/save-animation-video-movie-maker.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Movie Maker Alternative to Add Animations
 
@@ -114,15 +114,15 @@ If you wish to clip off a section, go to "Edit" under "Video Tools" and choose t
 
 ![preview video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/preview-video-movie-maker.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3Open the Animation Tab
 
 You may add two distinct types of animations—Transitions and Pan and Zoom—to video clips or photographs using the Animations window on the ribbon. The dropdown menu next to "Speed" in the "Edit" tab may be expanded to change the speed of a video clip. The 'Duration' dropdown menu allows you to choose how long a certain image will be shown in a movie.
 
 ![animation tab movie maker](https://images.wondershare.com/filmora/article-images/2022/09/animation-tab-movie-maker.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step4Add Transitions
 
@@ -131,7 +131,7 @@ Between two multimedia portions, a transition effect may be added. In the "Anima
 ![add transitions movie maker](https://images.wondershare.com/filmora/article-images/2022/09/add-transitions-movie-maker.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step5Save the Video
@@ -139,6 +139,10 @@ Between two multimedia portions, a transition effect may be added. In the "Anima
 When a transition is applied, a washed-out diagonal zone on the clip in the timeline indicates where the transition starts and finishes. Additionally, you have a choice in the sequence in which the effects are used. This may change how the movie is finally shown depending on the Effects, you choose. Once you're done, click Apply.
 
 ![save animation video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/save-animation-video-movie-maker.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Movie Maker Alternative to Add Animations
 
@@ -165,10 +169,6 @@ Filmora helps you create your text animation using the controller window as seen
 ##### Step4Export the Project
 
 The software's Preview window also allows you to preview the animation you've selected before adding it to the timeline with a few simple drag-and-drop actions. After finishing the production and editing of the instructional video, you may save it for distribution on social media. You may choose to save the document as an MP4, WMV, AVI, MOV, or even a GIF file.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. Related FAQs about Windows Movie Maker
 
@@ -208,21 +208,22 @@ Simple movies may be easily made using Windows Live Movie Maker. With Windows Vi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-tiny-tranquil-houses-japanese-style/"><u>[New] 2024 Approved Tiny Tranquil Houses Japanese Style</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-audio-visual-innovators-group/"><u>[New] Audio-Visual Innovators Group</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-discovering-social-medias-top-5-innovations-in-fb-for-2024/"><u>[New] Discovering Social Media’s Top 5 Innovations in FB for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-counterclockwise-chronicles-iphones-video-tutorial/"><u>[Updated] Counterclockwise Chronicles IPhone's Video Tutorial</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1-the-durable-clamshell-notebook-a-timeless-tech-companion/"><u>1. The Durable Clamshell Notebook: A Timeless Tech Companion</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/advanced-visual-techniques-for-impressive-after-effects-titles-for-2024/"><u>Advanced Visual Techniques for Impressive After Effects Titles for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-14-plus-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 14 Plus After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevating-imagery-the-hdr-revolution-in-video-workflows/"><u>Elevating Imagery The HDR Revolution in Video Workflows</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-ultimate-multisport-companion-insights-on-the-garmin-forerunner-745-tracker/"><u>Evaluating the Ultimate Multisport Companion: Insights on the Garmin Forerunner 745 Tracker</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-itel-p55plus-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Itel P55+ Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-combatting-blurry-and-warped-youtube-videos/"><u>In 2024, Combatting Blurry and Warped YouTube Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mobile-markup-mastery-iosandroid-leaders/"><u>In 2024, Mobile Markup Mastery IOS/Android Leaders</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/journey-into-av1-the-newcomers-guidebook/"><u>Journey Into AV1 The Newcomer's Guidebook</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-path-to-professional-streaming-integrating-zoom-into-your-youtube-strategy/"><u>The Path to Professional Streaming Integrating Zoom Into Your YouTube Strategy</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-wi-fi-error-mysteries-focusing-on-essential-actions/"><u>Unraveling Wi-Fi Error Mysteries: Focusing on Essential Actions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/younow-review-and-alternative/"><u>Younow Review and Alternative</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-audio-dimming-techniques-in-logic-pro/"><u>[New] Audio Dimming Techniques in Logic Pro</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-clear-youtube-watch-later-playlist-step-by-step/"><u>[Updated] In 2024, Clear YouTube Watch Later Playlist - [Step-by-Step]</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-complete-iphone-7-screen-capture-manual-for-2024/"><u>[Updated] The Complete iPhone 7 Screen Capture Manual for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-11-keys-to-unlock-the-power-of-grading-precision/"><u>2024 Approved 11 Keys to Unlock the Power of Grading Precision</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-error-0x8000fffd-for-a-smooth-print-run/"><u>Bypassing Error 0X8000FFFD for a Smooth Print Run</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creative-auditory-shifts-with-premiere-pro/"><u>Creative Auditory Shifts with Premiere Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-designers-toolkit-free-mac-drawing-software-guide/"><u>Cutting-Edge Designer's Toolkit Free Mac Drawing Software Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-digital-dimensions-understanding-metaverse-vs-multiverse/"><u>Exploring Digital Dimensions Understanding Metaverse V/S Multiverse</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-winhttpdll-errors-effectively-understanding-causes-and-remedies-for-not-found-messages/"><u>Fix Winhttp.dll Errors Effectively: Understanding Causes & Remedies for 'Not Found' Messages</u></a></li>
+<li><a href="https://win-data.techidaily.com/guia-paso-a-paso-para-descargar-y-actualizar-controladores-en-un-iphone-de-apple/"><u>Guía Paso a Paso Para Descargar Y Actualizar Controladores en Un iPhone De Apple</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-x-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone X | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-top-picks-comprehensive-list-of-no-cost-webm-streaming-tools/"><u>In 2024, Top Picks Comprehensive List of No-Cost WebM Streaming Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-solutions-for-recognizing-and-fixing-disabled-hard-drives-on-win-11/"><u>Innovative Solutions for Recognizing and Fixing Disabled Hard Drives on Win 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/integrated-marketing-campaigns-for-brand-and-video-platforms/"><u>Integrated Marketing Campaigns for Brand and Video Platforms</u></a></li>
+<li><a href="https://extra-information.techidaily.com/proven-strategies-building-time-lapses-using-samsung-cameras/"><u>Proven Strategies Building Time-Lapses Using Samsung Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/videocutters-comprehensive-scrutiny-final-verdict/"><u>VideoCutter's Comprehensive Scrutiny – Final Verdict</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/where-to-stream-what-to-watch-twitchs-challenge-to-youtube/"><u>Where To Stream, What to Watch? Twitch's Challenge to YouTube</u></a></li>
 </ul></div>
 

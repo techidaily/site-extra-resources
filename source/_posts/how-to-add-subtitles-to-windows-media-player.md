@@ -1,7 +1,7 @@
 ---
 title: "How to Add Subtitles to Windows Media Player"
-date: 2025-01-03T01:10:16.879Z
-updated: 2025-01-08T02:25:31.535Z
+date: 2025-01-09T20:22:25.259Z
+updated: 2025-01-14T08:54:43.138Z
 tags: 
   - screen-recording
   - ai video
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/28460332c706ced456fd18767c0466a64d105614a
 
 Windows Media Player is still maintaining its wide popularity among users from every corner of world. There is no doubt to say that it hold impressive feature set with user friendly platform so people stay always curious to do adventurous things over it. The article below will help you to understand the trick to add subtitles into video clips using Window Media Player. By following few simple steps as discussed below, soon you will be able to gain access to your desired subtitles and then they can be merged with videos so easily. Keep reading:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step by Step Guide
 
 The process of adding subtitles to video clips is quite simple; you need to follow these steps: First of all, you need to install Windows media player on your Personal Computer. Prefer to get the latest version, it is easily available over internet and can be downloaded and installed by beginners too. Once your software tool is ready on your system then proceed ahead.
@@ -44,41 +40,41 @@ The process of adding subtitles to video clips is quite simple; you need to foll
 
 ![ ](https://images.wondershare.com/filmora/article-images/subtitle-wmp-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Now, it is time to download DirectVobSub codec and get it installed on your PC. This software is easily available in 32, 64 bit versions so you can easily access any of these. Simply install codec from this source; no need to work on configuration settings. Note that these codecs must be installed from a trusted source so that malware or virus attacks can be avoided.
 
 **Step 4:** Once you are done with step 3 then download Sharkoo7’s Advanced Codec from internet. Get it installed for Window Media Player and then open with 64 bit settings or 32 bit as per your device specifications. To open it, simply right click on icon and from drop down menu choose “Run as administrator”.
 
 ![ ](https://images.wondershare.com/filmora/article-images/subtitle-wmp-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5:** Within very less time application will get opened with a fresh window on your system. Now move to tabs of different video file types then search for the option that says: “Disable Media Foundation for MP4/MKV and AVI etc”. Further, go to the swap tab and then disable window media foundation.
 
 ![ ](https://images.wondershare.com/filmora/article-images/subtitle-wmp-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As soon as you will finish all these settings, your subtitles will appear perfectly over video and you can enjoy great synchronism for all content. Window Media player tool is capable enough to make effective adjustments for subtitle placements and it will take just a few minutes to complete all these steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Websites for Downloading Subtitles
 
 If you are searching for websites that can help you to download subtitles for your videos then this list can be useful for you:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [1. Moviesubtitles.com:](http://www.moviesubtitles.org/movies.html)
 
 You will be glad to know that this website offers subtitles in wide range of languages. Users can simply initiate search for latest subtitle files, most popular movies or most download subtitles. All these subtitles packs are available for free and they are usually packed in WinZip file formats.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [2. Subscene.com:](https://subscene.com/browse/latest/film/1)
 
@@ -87,6 +83,10 @@ This website stays one of the top preferences lists of all professionals as well
 ### [3\. TVsubtitles.net:](http://www.tvsubtitles.net/tvshow-1568-3.html)
 
 There is no doubt to say that TVSubtitles.com is well known as best site for TV show subtitle download needs. This platform contains largest collection of popular TV show subtitles from every corner of world and they are available in multiple languages. Some of the most commonly downloaded subtitle files use to be in Korean, Russian, German, Greek, French and English language.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [4. Tvsubs.net:](http://www.tvsubs.net/)
 
@@ -109,16 +109,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-pros-guide-to-iphone-voice-memos-and-more/"><u>[New] 2024 Approved The Pro's Guide to iPhone Voice Memos and More</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-cinematic-dialogues-writing-the-movies-soul/"><u>[New] Cinematic Dialogues Writing the Movie's Soul</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-amplify-your-snapchat-experience-with-easy-voice-customization-for-2024/"><u>[Updated] Amplify Your Snapchat Experience with Easy Voice Customization for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ancient-aesthetics-public-domain-pieces-for-2024/"><u>Ancient Aesthetics Public Domain Pieces for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/effortless-photo-excellence-at-your-fingertips-for-free/"><u>Effortless Photo Excellence at Your Fingertips - For Free</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-mastering-viral-potential-the-key-to-popularizing-your-videos/"><u>In 2024, Mastering Viral Potential The Key to Popularizing Your Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-the-basics-of-zoom-meeting-setup-for-2024/"><u>Navigating the Basics of Zoom Meeting Setup for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/newbie-friendly-guide-to-winning-with-telegram-promotion/"><u>Newbie-Friendly Guide to Winning with Telegram Promotion</u></a></li>
-<li><a href="https://article-posts.techidaily.com/surveying-the-spectrum-of-windows-movie-maker-updates-for-2024/"><u>Surveying the Spectrum of Windows Movie Maker Updates for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-essential-gadgets-unbeatable-iphone-enhancers/"><u>Top Essential Gadgets: Unbeatable iPhone Enhancers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-cold-climate-chronicles-highlights-from-the-icy-stage/"><u>[New] Cold Climate Chronicles Highlights From the Icy Stage</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-ultimate-checklist-for-fpv-drone-propeller-selection/"><u>[New] The Ultimate Checklist for FPV Drone Propeller Selection</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-action-sequence-showdown-hero5-black-versus-hero4-silver/"><u>[Updated] Action Sequence Showdown Hero5 Black Versus Hero4 Silver</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-anticipating-virtual-realities-top-5-new-playstation-vr-games/"><u>2024 Approved Anticipating Virtual Realities Top 5 New PlayStation VR Games</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-complete-studio-exploration-in-depth-xvideoexamine/"><u>2024 Approved Complete Studio Exploration In-Depth XVideoExamine</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-iphone-13-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on iPhone 13</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/budget-fashionistas-guide-chrome-tool-to-cut-clothing-expenses-moneysavvytech/"><u>Budget Fashionista's Guide: Chrome Tool to Cut Clothing Expenses | MoneySavvyTech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-the-spectacular-with-nikon-d500-in-4k-for-2024/"><u>Capture the Spectacular with Nikon D500 in 4K for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/corrective-measures-for-blinking-display-hp/"><u>Corrective Measures for Blinking Display (HP)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/double-the-power-for-half-the-price-motorolas-high-end-phone-with-stylus-and-enhanced-memory-on-sale-only-350/"><u>Double the Power for Half the Price: Motorola's High-End Phone with Stylus & Enhanced Memory on Sale - Only $350!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/echoing-delight-top-downloads-of-fun-tones/"><u>Echoing Delight Top Downloads of Fun Tones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-pics-a-photoshop-deep-dive/"><u>Enhancing Pics A Photoshop Deep Dive</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-review-unveiling-the-features-and-benefits-of-the-latest-amazon-kindle-paperwhite/"><u>Expert Review: Unveiling the Features and Benefits of the Latest Amazon Kindle Paperwhite</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-contrast-between-strong-and-weak-ai-insights-into-their-definitions/"><u>Exploring the Contrast Between Strong and Weak AI: Insights Into Their Definitions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/high-definition-wonders-with-the-nikon-d500/"><u>High Definition Wonders with the Nikon D500</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-six-frequent-vehicle-ai-system-implementation-problems/"><u>Solving Six Frequent Vehicle AI System Implementation Problems</u></a></li>
 </ul></div>
 
