@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Edits with Smart Use of LUTs in Premiere Pro"
-date: 2025-01-07T02:34:10.183Z
-updated: 2025-01-14T05:36:00.355Z
+date: 2025-01-15T16:13:55.353Z
+updated: 2025-01-20T16:16:39.006Z
 tags: 
   - screen-recording
   - ai video
@@ -23,7 +23,7 @@ Whether you're working on a personal project or a business campaign, the procedu
 you grab the camera, follow your idea, and acquire your pictures, then transfer the movie to your computer and start editing. In this protracted creative process, color grading is typically the final and possibly at least one of the most crucial processes. We all hoped there's a way to speed up this procedure, and fortunately there is! Let's start!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to install LUTs in Premiere Pro
@@ -36,10 +36,6 @@ Step2Locate the Lumetri LUTs folder in your Premiere Pro installation directory 
 
 Step3Paste all of your fresh LUTs in this folder at this time. Your new LUTs will now show up in the Lumetri Color Panel when you launch Premiere Pro (or restart the software if it was already open). Innovative >> Looks
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. How to add LUTs to your footage
 
 Step1Choose the Color Workspace at the top after your clip is in the timeline and prepared for grading.
@@ -49,6 +45,10 @@ Step2Click OK after selecting New Item > Adjustment Layer in the Project window'
 Step3The first Basic Correction option in the right-hand panel of Lumetri Color is Input LUT. Choose this, click Browse, and then go to the location where your LUTs are stored.
 
 Step4Double-click the LUT you wish to use once you've located it, and it will be applied immediately.A tiny tip I like to use occasionally is to find the Effect Controls panel on the left side, then click the drop-down arrow next to Opacity, and make adjustments if you input your LUT and feel that it's too intense.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Why use LUTs in your project?
 
@@ -61,7 +61,7 @@ Because of this, some designers employ look-up tables (LUTs) that they have crea
 When it comes to working on a project for a customer that has a stringent deadline to fulfill, poor color grading could result in a negative impression of your work. This is the case even if everything from the sound effects to the video effects is done to a high standard and is done well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Can you adjust the strength of the LUT?
@@ -73,7 +73,7 @@ The entire color panel in Premiere Pro is packed with all of the color grading t
 The end outcome does not vary by a substantial amount, but how it looks can change depending on the LUT you use. In the event that something seems to be lacking, you can always modify the color grading.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Export LUTs
@@ -88,10 +88,6 @@ Step2Export ".cube" This function exports lookup tables in the.cube format so th
 
 Step3Store Preset: You can personalize the settings for each color effect, then save the resulting combinations as presets. Within the Save Preset dialog box, give your preset the name you want it to have. If desired, enter a description. Please visit the article on how to create and store an effect preset for further details.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Where can you find LUTs?
 
 You might be asking, "Now that I've learned more about LUTs (Lookup Tables), where can I get even more LUTs?" since you've gained some new knowledge. In the end, being able to use the built-in LUTs in Luminar is a nice feature, but these are merely samples of the thousands upon thousands of LUTs that are accessible, both for free and for purchase.
@@ -104,6 +100,10 @@ You might be asking, "Now that I've learned more about LUTs (Lookup Tables), whe
 * Complete Cinema LUTs
 * Filmic Tone LUTs
 * Urban Dark Creative LUTs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -141,18 +141,21 @@ Sometimes, some of them are out there to steal your money rather than provide th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-craft-your-story-with-vscos-editing-power-tools-for-2024/"><u>[New] Craft Your Story with VSCO’s Editing Power Tools for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-modern-uses-of-drones-to-coming-innovations-for-2024/"><u>[New] Modern Uses of Drones to Coming Innovations for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-5-strategies-for-enhancing-iphone-hdr-footage-in-premiere-pro/"><u>[Updated] 5 Strategies for Enhancing iPhone HDR Footage in Premiere Pro</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/acquiring-safe-gratis-vlc-media-player-on-macos-systems-for-2024/"><u>Acquiring Safe, Gratis VLC Media Player on macOS Systems for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/affordable-high-frame-rate-recordings/"><u>Affordable High Frame Rate Recordings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/anticipated-launch-new-features-of-the-latest-ipad-pro-and-air-in-early-may-tech-insights/"><u>Anticipated Launch: New Features of the Latest iPad Pro & Air in Early May – Tech Insights</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-captivating-stories-embedding-melodies-into-visual-narratives-for-2024/"><u>Crafting Captivating Stories Embedding Melodies Into Visual Narratives for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/developing-mastery-in-professional-interview-processes/"><u>Developing Mastery in Professional Interview Processes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-motorola-edge-40-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Motorola Edge 40 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-colormorph-pro-searching-for-lightroom-equals/"><u>In 2024, ColorMorph Pro Searching for Lightroom Equals</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-error-48-on-device-hub/"><u>Solved Error #48 on Device Hub</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-blueprint-to-hitting-it-big-with-instagram-videos/"><u>The Blueprint to Hitting It Big with Instagram Videos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-the-secrets-of-hardware-insights-from-toms-workshop/"><u>Unlocking the Secrets of Hardware: Insights From Tom's Workshop</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-affordable-techniques-to-enhance-written-content-with-media-for-2024/"><u>[New] Affordable Techniques to Enhance Written Content with Media for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-all-about-making-gifs-into-stickers-the-ultimate-guide-for-whatsapp-discord-and-telegram-users/"><u>[Updated] All About Making GIFs Into Stickers The Ultimate Guide for WhatsApp, Discord & Telegram Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-audio-liberation-at-its-finest-in-depth-pazera-tool-examination/"><u>[Updated] Audio Liberation at Its Finest In-Depth Pazera Tool Examination</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-backtrack-fabricator-set/"><u>[Updated] Backtrack Fabricator Set</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-best-practices-for-converting-webp-to-jpg-format-for-2024/"><u>[Updated] Best Practices for Converting WebP to JPG Format for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-building-a-successful-facebook-charity-competition/"><u>[Updated] Building a Successful Facebook Charity Competition</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-professional-motion-blur-techniques-for-digital-artists/"><u>2024 Approved Professional Motion Blur Techniques for Digital Artists</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/5-key-strategies-to-ensure-complete-data-protection-on-windows-11-backups/"><u>5 Key Strategies to Ensure Complete Data Protection on Windows 11 Backups</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-chromebook-video-editors-your-guide-to-the-best-free-and-subscription-based-tools/"><u>Discover the Ultimate Chromebook Video Editors: Your Guide to the Best Free and Subscription-Based Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-evolution-a-comprehensive-guide-from-ios-10-to-ios-180/"><u>Exploring the Evolution: A Comprehensive Guide From iOS 1.0 to iOS 18.0</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/from-smartphone-to-stardom-best-vertical-video-editing-apps-for-2024/"><u>From Smartphone to Stardom Best Vertical Video Editing Apps for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/precision-countdown-ios-and-android-wedding-timer-selection/"><u>Precision Countdown IOS and Android Wedding Timer Selection</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/quick-and-simple-methods-for-pdf-text-redaction-a-2020-guide/"><u>Quick and Simple Methods for PDF Text Redaction: A 2020 Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-complete-guide-to-vr-ready-space-setup/"><u>The Complete Guide to VR-Ready Space Setup</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-rapid-reverse-how-to-flip-your-stream-sides/"><u>The Rapid Reverse How to Flip Your Stream-Sides</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/thrill-in-the-cold-olympic-showcase-snowboarders-at-peak-performance/"><u>Thrill in the Cold Olympic Showcase - Snowboarders at Peak Performance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quick Steps to Clear the Exterior of Your Photos in Affinity"
-date: 2025-01-12T08:53:09.849Z
-updated: 2025-01-13T19:02:22.989Z
+date: 2025-01-19T16:07:38.542Z
+updated: 2025-01-20T16:23:30.500Z
 tags: 
   - screen-recording
   - ai video
@@ -36,10 +36,6 @@ Now access the **Pixel Persona** section in the left corner of the software scre
 
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
@@ -49,7 +45,7 @@ Step3 To make a selection around your subject, first enable the **"Snap To Edges
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
@@ -65,7 +61,7 @@ Step5 In the last step, press the **"Delete"** key on your keyboard to remove th
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Remove a Busy Background in Affinity Designer
@@ -97,6 +93,10 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -106,7 +106,7 @@ Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.co
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
@@ -135,6 +135,10 @@ And if you have any interests in finding free images to expand your resource, yo
 
 Hopefully, this article and video can help you create ideal images!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -158,10 +162,6 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Create a free account for easier future access.
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -197,24 +197,24 @@ Hopefully, this article and video can help you create ideal images!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-5-premier-cloud-platforms-revolutionizing-storage/"><u>[New] 5 Premier Cloud Platforms Revolutionizing Storage</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-assemble-your-own-google-vr-viewing-device/"><u>[New] Assemble Your Own Google VR Viewing Device</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-practices-for-secure-youtube-mp4-conversion/"><u>[New] In 2024, Best Practices for Secure YouTube MP4 Conversion</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-innovation-in-action-youtube-split-screen-techniques/"><u>[Updated] Innovation in Action YouTube Split-Screen Techniques</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-detailed-analysis-of-mozillas-popup-functionality/"><u>A Detailed Analysis of Mozilla's Popup Functionality</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/are-product-critiques-online-generated-income-for-2024/"><u>Are Product Critiques Online Generated Income for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-defender-a-guide-to-third-party-virus-protection/"><u>Disabling Defender: A Guide to Third-Party Virus Protection</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/essential-tips-for-organizing-online-gatherings-google-meet/"><u>Essential Tips for Organizing Online Gatherings (Google Meet)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ethereal-frame-deacceleration-manual/"><u>Ethereal Frame Deacceleration Manual</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo Y36? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-closer-look-at-high-end-vr-walking-machines/"><u>In 2024, A Closer Look at High-End VR Walking Machines</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-redmi-note-12t-pro-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Xiaomi Redmi Note 12T Pro Phone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/movavi-video-editors-2024-update-a-deep-dive-review/"><u>Movavi Video Editor's 2024 Update A Deep Dive Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secrets-from-the-tech-gurus-how-i-scored-a-steal-with-an-economy-surface-pro-weitereleitung/"><u>Secrets From the Tech Gurus: How I Scored a Steal with an Economy Surface Pro #WEITERELEITUNG</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/strategies-to-avoid-overuse-of-b-roll-in-cinematography/"><u>Strategies to Avoid Overuse of B-Roll in Cinematography</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-top-photo-protection-apps-reviewed/"><u>The Top Photo Protection Apps Reviewed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/windows-11-updates-examined/"><u>Windows 11 Updates Examined</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capture-and-conserve-top-picks-for-affordable-cloud-photo-storage/"><u>[New] Capture and Conserve Top Picks for Affordable Cloud Photo Storage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-beat-the-wait-efficient-iphone-time-lapse-tricks/"><u>[Updated] Beat the Wait Efficient iPhone Time-Lapse Tricks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-reclaim-lost-chatter-in-shared-tweeted-films/"><u>[Updated] In 2024, Reclaim Lost Chatter in Shared Tweeted Films</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-soundwave-startups-curating-melodies-for-your-podcast-opener/"><u>2024 Approved Soundwave Startups Curating Melodies for Your Podcast Opener</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/6-effiziente-methoden-um-den-datentrager-schreibgeschutzte-problematik-unter-windows-zu-losen-schnellstartlosungen/"><u>6 Effiziente Methoden, Um Den Datenträger-Schreibgeschützte Problematik Unter Windows Zu Lösen - Schnellstartlösungen</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-continuous-freezing-issues-in-diablo-iii/"><u>Effective Solutions for Continuous Freezing Issues in Diablo III</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/effective-tactics-for-customizing-song-tempo-in-spotify/"><u>Effective Tactics for Customizing Song Tempo in Spotify</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-video-audio-mastering-the-srt-mp4-duo/"><u>Enhancing Video Audio Mastering the SRT-MP4 Duo</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-free-layering-and-editing-apps-mobile-edition-top-10/"><u>Essential Free Layering & Editing Apps - Mobile Edition (Top 10)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/greatest-20-free-pubg-image-compilations/"><u>Greatest 20 Free PUBG Image Compilations</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-odt-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .odt file electronically</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-adobe-cloud-essentials-and-top-alternatives/"><u>Mastering Adobe Cloud Essentials & Top Alternatives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/maximizing-zoom-experience-on-windows-pcs-with-win10/"><u>Maximizing Zoom Experience on Windows PCs with Win10</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/rotacion-de-videos-mp4-sin-perdidas-acciones-faciles-para-girar-por-90-180-y-270-grados/"><u>Rotación De Videos MP4 Sin Pérdidas - Acciones Fáciles Para Girar Por 90, 180 Y 270 Grados</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211082620-9781646112050-shamanism/"><u>Shamanism | Free Book</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-authoritative-guide-to-generating-srt-files-with-expert-tips/"><u>The Authoritative Guide to Generating SRT Files with Expert Tips</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/there-is-a-number-of-software-that-you-can-use-to-achieve-the-manipulation-of-your-files-in-this-way-below-are-five-of-the-most-popular-mpeg-video-joiners-f/"><u>There Is a Number of Software that You Can Use to Achieve the Manipulation of Your Files in This Way. Below Are Five of the Most Popular MPEG Video Joiners for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-prolong-pin-length-for-enhanced-safety/"><u>Tips to Prolong PIN Length for Enhanced Safety</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-correcting-the-dreaded-code-28-error-in-windows-systems/"><u>Troubleshooting and Correcting the Dreaded Code 28 Error in Windows Systems</u></a></li>
 </ul></div>
 

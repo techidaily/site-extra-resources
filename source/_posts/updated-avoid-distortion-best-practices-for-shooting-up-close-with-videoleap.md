@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Avoid Distortion  Best Practices for Shooting Up Close with VideoLeap\""
-date: 2025-01-06T19:34:36.222Z
-updated: 2025-01-14T03:23:43.883Z
+date: 2025-01-15T16:03:43.572Z
+updated: 2025-01-20T16:04:03.778Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,6 @@ Video editing applications are becoming very popular these days because of their
 
 This application has a dozen categories of functions such as filters, effects, adjustments of lights and colors, and many more to add a cinematic look to videos. One such function present in the Videoleap platform is the zoom function that lets users zoom into certain areas of the video screen. This tool in Videoleap can be greatly used as a means to put any subject on focus or can help in reducing irrelevant sections of the video.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to static Zoom in Videoleap
 
 Videoleap is famous for providing the best video editing features to its users and because of its lightweight design, there are millions of its users around the world. And from its different tools, zoom is a great function that can be used as a focus tool or can be used as a transition effect. Static zoom-in Videoleap refers to the zoom-in of the screen contents for a particular video in a jump-in or jump-out format. And in case you are wondering how, you can edit your videos with the Videoleap application by applying a static zoom, here is how you can do it:
@@ -34,6 +30,10 @@ Videoleap is famous for providing the best video editing features to its users a
 * Another way to import any clips to your project is by clicking on the "+" icon and then selecting the desired file from your camera roll.
 
 ![tap add media videoleap](https://images.wondershare.com/filmora/article-images/2022/07/tap-add-media-videoleap.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Now after the video clips are imported and collected, you will see a timeline of clips where everything will be arranged to your initial preferences.
 
@@ -44,7 +44,7 @@ Videoleap is famous for providing the best video editing features to its users a
 ![transform vdieo videoleap](https://images.wondershare.com/filmora/article-images/2022/07/transform-vdieo-videoleap.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Now, in the preview window where all the clips are shown, pinch in or out to zoom into the video or vice versa until you get a desired portion of the screen.
@@ -63,10 +63,6 @@ Sometimes the video contents need a dramatic zoom effect that should take place 
 
 ![preview timeline videoleap](https://images.wondershare.com/filmora/article-images/2022/07/preview-timeline-videoleap.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Then select the "keyframes" tool from the toolbar at the bottom of your screen.
 * Add the keyframes to the desired portion of the video and then navigate the timecode to the place on the timeline where you want to stop it. After that add another keyframe at that point and pinch in to zoom the video.
 
@@ -74,6 +70,10 @@ Sometimes the video contents need a dramatic zoom effect that should take place 
 
 * Now head to the second time code where you want to focus the subject and then click on it. Then click on the "Preview" icon and see whether it needs further changes.
 * When you are satisfied, simply export the project and your animated zoom video will be saved successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternative way to Zoom Video on Computer
 
@@ -90,13 +90,17 @@ If for some reason you are not able to install and use Videoleap on your system 
 ![open the filmora application on pc](https://images.wondershare.com/filmora/guide/pan-zoom-feature-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * This will open 4 different types of tools regarding zoom functions. The first tool will help you to go from larger frames to smaller frames by zooming in. Thus, you can use this feature to bring details to a subject in your video. The second option helps you with zooming out from a smaller frame to a larger frame.
 * The third and fourth tools will help you achieve the Pan function from left to right and right to left respectively. This panning will be on a horizontal axis. You can also pan your video screen by using your mouse too.
 * You can select any of these options to zoom in, out, or pan your videos and create a stunning zoom effect on your videos.
 * When you are done with your editing process, save the video and the file will be exported to your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -116,10 +120,6 @@ Videoleap is one of the leading video editing platforms available out there. The
 * The third and fourth tools will help you achieve the Pan function from left to right and right to left respectively. This panning will be on a horizontal axis. You can also pan your video screen by using your mouse too.
 * You can select any of these options to zoom in, out, or pan your videos and create a stunning zoom effect on your videos.
 * When you are done with your editing process, save the video and the file will be exported to your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -153,24 +153,18 @@ Videoleap is one of the leading video editing platforms available out there. The
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-a-complete-manual-for-logging-and-storing-periscope-video/"><u>[New] A Complete Manual for Logging & Storing Periscope Video</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-toolwiz-app-in-focus-a-thorough-review-and-analysis-of-2023-features-for-2024/"><u>[New] Toolwiz App in Focus - A Thorough Review and Analysis of 2023 Features for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-artistry-in-your-pocket-the-bestiary-of-top-8-iphone-drawing-apps/"><u>[Updated] Artistry in Your Pocket The Bestiary of Top 8 iPhone Drawing Apps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-background-excision-tool-affinity-photo/"><u>[Updated] Background Excision Tool Affinity Photo</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-capture-the-magic-of-moonlight-iphonely/"><u>[Updated] Capture the Magic of Moonlight iPhonely</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-guide-to-10-leading-pc-vr-headsets/"><u>[Updated] In 2024, The Ultimate Guide to 10 Leading PC VR Headsets</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-camera-control-tips-for-unshakable-images/"><u>2024 Approved Camera Control Tips for Unshakable Images</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-cold-games-2022s-ultimate-snowboard-dueling-display/"><u>2024 Approved Cold Games 2022'S Ultimate Snowboard Dueling Display</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-go-pro-simple-techniques-for-captivating-slow-motion-videos-on-android/"><u>2024 Approved Go Pro Simple Techniques for Captivating Slow Motion Videos on Android</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-serenity-in-gaming-10-stress-busters/"><u>2024 Approved Serenity in Gaming 10 Stress Busters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2024s-ultimate-list-of-note-taking-tablets-tested-and-evaluated-cnet/"><u>2024'S Ultimate List of Note-Taking Tablets Tested and Evaluated | CNET</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-assessing-the-enhanced-capabilities-of-dji-phantom-4-pro-version-20/"><u>Comprehensive Review: Assessing the Enhanced Capabilities of DJI Phantom 4 Pro Version 2.0</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/download-delight-making-funimate-simple-to-use/"><u>Download Delight Making Funimate Simple to Use</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016288639-fix-your-fortnite-voice-chat-issues-instantly-simple-solutions/"><u>Fix Your Fortnite Voice Chat Issues Instantly: Simple Solutions</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-x9b-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-clear-up-zoom-audio-troubleshoot-distortion-immediately/"><u>In 2024, Clear Up Zoom Audio Troubleshoot Distortion Immediately</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-zte-nubia-flip-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix ZTE Nubia Flip 5G Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/toggle-pip-for-streaming-youtube-videos-more-conveniently-with-iphone/"><u>Toggle PIP for Streaming Youtube Videos More Conveniently with iPhone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-the-full-potential-of-zoom-on-your-google-meet-calls-for-2024/"><u>Unlocking the Full Potential of Zoom on Your Google Meet Calls for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-10-insider-secrets-for-smarter-pixlr-usage/"><u>[New] 10 Insider Secrets for Smarter Pixlr Usage</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-craft-movies-on-windows-11-using-the-free-movie-maker-app/"><u>[New] Craft Movies on Windows 11 Using the Free Movie Maker App</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-discover-the-top-5-pc-clipping-utilities-for-quick-samples/"><u>[New] In 2024, Discover the Top 5 PC Clipping Utilities for Quick Samples</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ecrets-when-to-share-content-for-youtube-success-for-2024/"><u>[New] Secrets When to Share Content for YouTube Success for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-for-hp-photosmart-7520-printer-driver-quick-setup-guide/"><u>Download for HP Photosmart 7520 Printer Driver - Quick Setup Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/easy-guide-streamlining-workflows-with-ready-to-go-table-templates-on-google-sheets-insights-from-zdnet/"><u>Easy Guide: Streamlining Workflows with Ready-to-Go Table Templates on Google Sheets - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/extensive-appraisal-the-essence-of-hero4-black/"><u>Extensive Appraisal The Essence of Hero4 Black</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-transitioning-from-sierra-to-legacy-os-el-capitan/"><u>In 2024, Transitioning From Sierra To Legacy OS - El Capitan</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovating-for-success-metaverse-sales-strategies-for-2024/"><u>Innovating for Success Metaverse Sales Strategies for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-composers-toolkit-for-flawless-image-finishing/"><u>The Composer's Toolkit for Flawless Image Finishing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-overview-dji-inspire-1-reviewed/"><u>The Ultimate Overview DJI Inspire 1 Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visionary-8-tools-transforming-gameplay/"><u>Visionary 8 Tools Transforming Gameplay</u></a></li>
 </ul></div>
 

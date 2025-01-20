@@ -1,7 +1,7 @@
 ---
 title: "\"Cinematic Brilliance  Mastering Video Lighting Techniques for 2024\""
-date: 2025-01-08T13:46:33.521Z
-updated: 2025-01-14T13:39:07.280Z
+date: 2025-01-15T16:19:10.225Z
+updated: 2025-01-20T16:03:36.933Z
 tags: 
   - screen-recording
   - ai video
@@ -23,7 +23,7 @@ Many people are wondering how to set up lighting for video shooting. While there
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
@@ -52,10 +52,6 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
@@ -68,6 +64,10 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
 
 ##### Step4 Use Practical Lights
@@ -75,6 +75,10 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
@@ -84,22 +88,22 @@ Finally, we have a few other small LED lights like this unicorn to put in the ba
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After setting up all the lighting above, you can take a look at the comparison below:
 
 **Using Key Light only**
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Using Key Light + Fill + Backlight**
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **_3) Pro Tips: The light setting_**
@@ -107,10 +111,6 @@ After setting up all the lighting above, you can take a look at the comparison b
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -146,22 +146,21 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-canvas-hidden-gems-for-crafting-visual-magic/"><u>[New] Canva's Hidden Gems for Crafting Visual Magic</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-complete-analysis-hero4-black-system/"><u>[New] Complete Analysis Hero4 Black System</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-clear-vision-how-to-cut-out-image-clutter-on-photopea/"><u>[New] In 2024, Clear Vision How to Cut Out Image Clutter on Photopea</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-ultimate-screenrecorder-comprehensive-step-by-step-guide/"><u>[New] In 2024, Ultimate ScreenRecorder Comprehensive, Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-alluring-headline-manufacturer/"><u>[Updated] In 2024, Alluring Headline Manufacturer</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-transform-every-moment-top-tasks-to-master-while-listening-to-your-favorite-podcasts/"><u>[Updated] Transform Every Moment Top Tasks to Master While Listening to Your Favorite Podcasts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-non-athlete-front-rows-the-ultimate-alternative-list/"><u>2024 Approved Non-Athlete Front Rows The Ultimate Alternative List</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/bridge-the-gap-in-airdrop-transfers-solutions-for-iphones-ipads-and-macs/"><u>Bridge the Gap in Airdrop Transfers Solutions for iPhones, iPads & Macs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/captivating-your-audience-writing-podcast-intros/"><u>Captivating Your Audience Writing Podcast Intros</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cutting-edge-mobiles-for-optimizing-dji-content/"><u>Cutting-Edge Mobiles for Optimizing DJi Content</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/fix-distorted-hues-how-to-correct-scanner-color-errors-using-yl-software-solutions/"><u>Fix Distorted Hues: How to Correct Scanner Color Errors Using YL Software Solutions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-beginning-profits-periscope-income-strategies-for-novices/"><u>In 2024, Beginning Profits Periscope Income Strategies for Novices</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-charting-course-essential-steps-from-concept-to-content-creation-in-review-channels/"><u>In 2024, Charting Course Essential Steps From Concept to Content Creation in Review Channels</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-70-lite-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Honor 70 Lite 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://facebook.techidaily.com/next-generation-personalization-oculuss-new-characters/"><u>Next Generation Personalization - Oculus’s New Characters</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/revive-your-photo-viewer-two-methods-to-try-in-win-11/"><u>Revive Your Photo Viewer Two Methods to Try in Win 11</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-free-online-dailymotion-converter-no-registration-required/"><u>Updated In 2024, Free Online Dailymotion Converter No Registration Required</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-effortless-audio-extraction-best-youtube-to-mp3-tools-list/"><u>[New] Effortless Audio Extraction Best YouTube to MP3 Tools List</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-honored-advisors-elite-iphone-audio-experts/"><u>[New] In 2024, Honored Advisors Elite iPhone Audio Experts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-critical-examination-of-vlcs-rivals/"><u>[Updated] A Critical Examination of VLC's Rivals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-an-in-depth-guide-to-every-element-of-srt/"><u>[Updated] An In-Depth Guide to Every Element of SRT</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-blend-your-belief-with-mobile-melodies/"><u>[Updated] Blend Your Belief with Mobile Melodies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-breaking-into-the-periscope-livestream-arena/"><u>[Updated] Breaking Into the Periscope Livestream Arena</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-identifying-and-accessing-your-music-picks-on-youtube-for-2024/"><u>[Updated] Identifying and Accessing Your Music Picks on Youtube for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-turning-twitter-media-into-interactive-expressive-animated-gifs/"><u>[Updated] Turning Twitter Media Into Interactive, Expressive Animated GIFs</u></a></li>
+<li><a href="https://win-popular.techidaily.com/get-the-latest-update-in-dj-software-with-jammtext-v114-the-ultimate-text-to-screen-conversion-tool-now-available/"><u>Get the Latest Update in DJ Software with JammText v1.1.4 - The Ultimate Text to Screen Conversion Tool Now Available!</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-mini-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 mini to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ideal-mkv-player-suite-mobile-and-desktop/"><u>Ideal MKV Player Suite (Mobile & Desktop)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-charting-the-course-for-a-cohesive-subscriber-rich-channel/"><u>In 2024, Charting the Course for a Cohesive, Subscriber-Rich Channel</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-setup-guide-how-to-install-the-canon-pro-100-driver-for-your-windows-pc/"><u>Instant Setup Guide: How to Install the Canon PRO 100 Driver for Your Windows PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-power-of-words-in-podcast-summaries/"><u>The Power of Words in Podcast Summaries</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-5-best-tv-for-ps5-and-xbox-series-x-updated-july/"><u>Top 5 Best TV for Ps5 and Xbox Series X (Updated July)</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-cant-i-install-the-ipogo-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>Why cant I install the ipogo On Apple iPhone 14 Plus | Dr.fone</u></a></li>
 </ul></div>
 

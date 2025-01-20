@@ -1,7 +1,7 @@
 ---
 title: "Harmonizing Your Footage With Optimal Aspect Ratios"
-date: 2025-01-11T12:25:19.492Z
-updated: 2025-01-14T03:41:06.709Z
+date: 2025-01-15T16:14:14.972Z
+updated: 2025-01-20T16:07:40.121Z
 tags: 
   - screen-recording
   - ai video
@@ -29,7 +29,7 @@ With that said, let's dive right into it!
 Aspect ratio is a digital image projection attribute describing the distance between the width and the height of an image. The dimensions are also defined as shapes such as a square which is 4:3\. A rectangle represents the 16:9 standard high definition aspect ratio, and inverted what you see on phones, that will be 9:16\. 9 refers to the width and 16 to the height.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Commonly used aspect ratios
@@ -39,10 +39,6 @@ There is no same aspect ratio that is used across all social media platforms. De
 ### 16:9 Widescreen
 
 This aspect ratio is recognized as the worldwide reference format for film, mobile devides, DSLR cameras, streaming platforms, social media platforms, and many more. It is known as landscape viewing which include 720p, 1080p HD and 4K resolution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4:3 Standard
 
@@ -60,10 +56,6 @@ The 21:9 resolution is designed for filming ultra-wide screen movies that gives 
 
 Depending on your project, broadcast location and filming options, here you can find an overview of which platforms are using which resolutions and how you can use that to improve your filming and viewer experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Facebook
 
 Facebook is one of the most used website across the world on both computer and the mobile app. This is a great platform to let people discover your content. In order to please new viewers, let's look at the resolutions Facebook supports and which one would be your best option depending on your content.
@@ -75,10 +67,6 @@ Facebook is one of the most used website across the world on both computer and t
 9:16 for Facebook live videos
 
 9:16 for Facebook stories
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### YouTube
 
@@ -120,21 +108,33 @@ Before Musical.ly users were migrated to a new platform called TikTok in 2018, i
 
 1:1; 16:9 or 9:16 for TikTok advertisements
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. How to adjust the aspect ratio of a video?
 
 A very important point we'd like to mention is that we don't recommend changing the aspect ratio after filming, because it could harm the video quality and we think it's best to choose the aspect ratio on your phone or camera before filming, besides that we have some great tips for optimizing your video for the watching experience below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Black bars
 
 When editing your video, adding black bars is not changing the aspect ratio as you are just adding black bars to the screen. What we do recommend is cropping the video until you get the desired result. Adding black bars won't automatically make the platform adjust the video and it will affect the viewer experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Cropping
 
 Cropping your video will allow you to remove a section from your video, which works perfect for unwanted objects or people. While cropping the video, you are forced to pick the essential part of your video and disregard the rest of the video and to remove distraction from the frame.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -172,24 +172,18 @@ Having your video tested on multiple devices will allow you to see a preview of 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-short-track-speed-skating-olympics-2022-highlights/"><u>[New] 2024 Approved Short Track Speed Skating Olympics 2022 Highlights</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-beginners-pathway-to-grasping-hd-content-standards/"><u>[New] Beginner’s Pathway to Grasping HD Content Standards</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-boosting-content-appeal-by-including-youtube-music-in-recordings/"><u>[Updated] Boosting Content Appeal by Including YouTube Music in Recordings</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-comprehensive-handbook-for-expert-srt-making-for-2024/"><u>A Comprehensive Handbook for Expert SRT Making for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/aussie-slang-and-sayings-in-a-nutshell/"><u>Aussie Slang and Sayings in a Nutshell</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/camera-selection-for-amateurs/"><u>Camera Selection for Amateurs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/capture-the-airwaves-a-beginners-internet-radio-guide/"><u>Capture the Airwaves A Beginner's Internet Radio Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/conquer-lunapic-elevate-your-photographic-skills/"><u>Conquer Lunapic Elevate Your Photographic Skills</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elite-writers-of-aural-narratives/"><u>Elite Writers of Aural Narratives</u></a></li>
-<li><a href="https://some-tips.techidaily.com/explore-the-leading-budget-friendly-soundbars-expert-reviews-and-picks-at-gizmodo/"><u>Explore the Leading Budget-Friendly Soundbars : Expert Reviews and Picks at Gizmodo</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-and-regain-access-to-your-windows-smartscreen-guard/"><u>How to Fix and Regain Access to Your Windows SmartScreen Guard</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-20-best-anime-opening-songs-of-all-time/"><u>In 2024, 20 Best Anime Opening Songs of All Time</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-follower-fliers-best-personal-drone-tech/"><u>In 2024, Follower Fliers Best Personal Drone Tech</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-vivo-x90s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722009919361-ready-for-chatgpt-on-your-computer-but-cant-find-it-yet-check-out-our-picked-open-source-substitutes/"><u>Ready for ChatGPT on Your Computer but Can't Find It Yet? Check Out Our Picked Open Source Substitutes!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/secrets-to-affordable-gopro-acquisitions/"><u>Secrets to Affordable GoPro Acquisitions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/secrets-to-mastering-canva-10-insider-tips-for-editors/"><u>Secrets to Mastering Canva 10 Insider Tips for Editors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-exploring-photo-perfection-can-picku-be-top-for-android-users/"><u>[New] Exploring Photo Perfection Can PickU Be Top for Android Users?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/avigating-the-digital-landscape-free-tools-for-youtube-audio-to-text-for-2024/"><u>[New] Navigating the Digital Landscape FREE Tools for YouTube Audio to Text for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nlocking-youtubes-potential-with-personalized-plays-for-2024/"><u>[New] Unlocking Youtube’s Potential with Personalized Plays for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-beijings-olympic-frost-festivities-2022-edition/"><u>[Updated] Beijing's Olympic Frost Festivities, 2022 Edition</u></a></li>
+<li><a href="https://win-community.techidaily.com/windows-7and/"><u>簡便指南：在Windows 7系統中發現&回收隱藏文件</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cinemagraphy-central-filmo-faqs/"><u>Cinemagraphy Central Filmo FAQs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-gopro-footage-minimizing-motion-blur/"><u>Enhancing GoPro Footage Minimizing Motion Blur</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-14-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 14 Plus Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfectly-pair-audio-visual-delights-top-6-music-video-apps-for-android/"><u>Perfectly Pair Audio-Visual Delights Top 6 Music Video Apps for Android</u></a></li>
+<li><a href="https://fox-links.techidaily.com/photoshop-shake-control-necessary-tool-or-unnecessary/"><u>Photoshop Shake Control Necessary Tool or Unnecessary?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-picks-the-best-tech-gadgets-of-2023-as-chosen-by-zdnet-experts/"><u>Top Picks: The Best Tech Gadgets of 2023 as Chosen by ZDNet Experts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveil-gadgets-top-15-unboxing-clips/"><u>Unveil Gadgets Top 15 Unboxing Clips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/who-wins-the-tech-talk-comparing-gpt-and-bing-ai/"><u>Who Wins the Tech Talk: Comparing GPT & Bing AI?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Distinguishing Between an iPad and iPad Air – A Comprehensive Guide
-date: 2025-01-12T01:19:05.444Z
-updated: 2025-01-14T13:08:17.380Z
+date: 2025-01-16T16:00:48.486Z
+updated: 2025-01-20T16:12:41.177Z
 categories:
   - BestProducts
 description: This Article Describes Distinguishing Between an iPad and iPad Air – A Comprehensive Guide
@@ -13,13 +13,13 @@ thumbnail: https://www.lifewire.com/thmb/4zN09g_FMDIahZI7eiYv3W3K2Iw=/400x300/fi
 
 2.7
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## inXile Entertainment Torment: Tides of Numenera
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/HYgHMUDMFh7JI98Hj0JMbI2wcpw=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -41,7 +41,7 @@ Lifewire / Kelsey Simon
 2.7
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## inXile Entertainment Torment: Tides of Numenera
@@ -49,7 +49,7 @@ Lifewire / Kelsey Simon
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
@@ -69,10 +69,6 @@ Lifewire / Kelsey Simon
 * [Specs](https://www.lifewire.com/#toc-full-spec)
 
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Story: Heavy-handed writing to the exclusion of all else**
 
@@ -95,7 +91,7 @@ Lifewire / Kelsey Simon
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/8H4QhkgilcsrFlNL40KO1tDnKvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-02-cca6ebdc67d6477ab973b796fb7e773c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
@@ -142,6 +138,10 @@ Lifewire / Kelsey Simon
 
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Torment: Tides of Numenera
@@ -165,17 +165,22 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-from-one-off-to-firm-follower-an-ethical-approach/"><u>[New] From One-Off to Firm Follower An Ethical Approach</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-advanced-aesthetics-the-ultimate-guide-to-tiktok-effects/"><u>[Updated] Advanced Aesthetics The Ultimate Guide to TikTok Effects</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-essential-steps-to-producing-a-youtube-hit-music-reaction-video-guide/"><u>[Updated] In 2024, Essential Steps to Producing a YouTube Hit Music Reaction Video Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-sony-a6400-video-failure-what-to-do-next-in-2024/"><u>[Updated] Sony A6400 Video Failure What To Do Next, In 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-novice-to-expert-free-lut-techniques-for-color-grading/"><u>From Novice to Expert Free LUT Techniques for Color Grading</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-capture-the-big-one-best-fishing-camers-ranked/"><u>In 2024, Capture the Big One Best Fishing Camers Ranked</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/maximize-zooms-value-triad-of-conversion-mastery/"><u>Maximize Zoom's Value Triad of Conversion Mastery</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/the-role-of-backlinks-in-seo-success-a-complete-breakdown-and-tips-for-optimization/"><u>The Role of Backlinks in SEO Success - A Complete Breakdown & Tips for Optimization</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-9-drone-video-editing-software-for-different-level-for-2024/"><u>Top 9 Drone Video Editing Software for Different Level for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/transform-your-photos-with-simple-grading-techniques/"><u>Transform Your Photos with Simple Grading Techniques</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/troubleshoot-unrecognized-secondary-hd-on-windows-10-a-comprehensive-guide-with-six-solutions/"><u>Troubleshoot Unrecognized Secondary HD on Windows 10: A Comprehensive Guide with Six Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-against-non-working-escape-keys-with-easy-fixes/"><u>Win Against Non-Working Escape Keys with Easy Fixes</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-advanced-psd-text-styling-for-2024/"><u>[New] Advanced PSD Text Styling for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-grand-gaming-odyssey-our-list-of-best-action-adventures/"><u>[New] The Grand Gaming Odyssey Our List of Best Action-Adventures</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/23160318-updated-2024-approved-collect-premium-audio-for-video-editors/"><u>[Updated] 2024 Approved Collect Premium Audio for Video Editors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-35-hilarious-image-editing-software-for-smartphones-and-pcs/"><u>[Updated] 35 Hilarious Image Editing Software for Smartphones & PCs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-your-own-google-vr-glasses-for-2024/"><u>Crafting Your Own Google VR Glasses for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/creative-instagram-story-questions-increase-engagement/"><u>Creative Instagram Story Questions Increase Engagement</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-solving-usb-functionality-problems-in-modern-windows-environments/"><u>Diagnosing and Solving USB Functionality Problems in Modern Windows Environments</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-manual-on-morphvox-sound-alteration/"><u>In 2024, Comprehensive Manual on MorphVOX Sound Alteration</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-motorola-edge-40-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Motorola Edge 40 FRP</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-transition-logic-pro-xs-audio-fade-technique/"><u>Mastering Transition Logic Pro X's Audio Fade Technique</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/measuring-video-storage-space-64128gb-hard-drive-analysis/"><u>Measuring Video Storage Space - 64/128GB Hard Drive Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-badge-icons-disappearance/"><u>Mending Badge Icons Disappearance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-complexities-of-photo-hdr-in-photoshop/"><u>Navigating the Complexities of Photo-HDR in Photoshop</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pioneering-free-convertors-top-5-online-apps-for-gifs-to-videos/"><u>Pioneering Free Convertors Top 5 Online Apps for GIFs to Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/precision-no-download-leading-websites-turning-gif-into-video/"><u>Precision No-Download Leading Websites Turning GIF Into Video</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/troubleshooting-guide-how-to-resolve-rainbow-six-siege-not-starting/"><u>Troubleshooting Guide: How to Resolve Rainbow Six Siege Not Starting</u></a></li>
+<li><a href="https://fox-access.techidaily.com/turning-tales-upside-down-iphone-video-guide/"><u>Turning Tales Upside Down IPhone Video Guide</u></a></li>
 </ul></div>
 

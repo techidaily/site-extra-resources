@@ -1,7 +1,7 @@
 ---
 title: "\"Understanding Drones  Their Functionality Explored\""
-date: 2025-01-08T00:29:53.290Z
-updated: 2025-01-14T00:47:09.408Z
+date: 2025-01-16T16:04:03.568Z
+updated: 2025-01-20T16:19:27.495Z
 tags: 
   - screen-recording
   - ai video
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
 ![history of drones](https://images.wondershare.com/filmora/article-images/history-of-drones.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Does a Drone Work?
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
 ![how does drones work](https://images.wondershare.com/filmora/article-images/how-does-drone-work.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does it fly?
@@ -59,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
  Controller plays an important role in drone flying mechanism. This device is used by experts for controlling every movement of drone, ranging from its launching, navigation abilities and even up to landing. Market is flooded with variety of controllers these days and developers often use to do various experiments to create drones with impressive features.
 
  Major task of a controller is to establish proper communication channel between remote unit and the radio waves. Most of the drones use to work on 2.4 GHz frequency range and many of these controls take help from Wi-Fi networks for making active decisions regarding movements. Many features of a smartphone and drone are same as like both carry GPS, Wi-Fi and many other common sensor units. These onboard sensors help drone to stay in air for long run and make right decisions about its height, direction and other important movements. The landing process is also controlled by propeller system inside and the sensors make decisions about its speed, altitude and motor rotation etc. A drone works like an intelligent air unit that can cover large distance when used with powerful batteries and can bring the hidden information for you like a spy. This is the main reason behind it popularity in military applications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Popular consumer done manufactures 2017
 
@@ -74,13 +70,13 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
 
 ![yuneec drone logo](https://images.wondershare.com/filmora/article-images/yuneec-logo.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. [Parrot >>](http://www.parrot.com/ )
 
 ![parrot drone logo](https://images.wondershare.com/filmora/article-images/parrot-logo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4\. [3D Robotics >>](http://3drobotics.com/ )
 
@@ -98,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
 
 ![Autel logo](https://images.wondershare.com/filmora/article-images/autel-robotics-logo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8\. [Xiro >>](http://xirodrone.com/ )
 
 ![xiro drone logo](https://images.wondershare.com/filmora/article-images/xiro-logo.png)
@@ -111,7 +111,11 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
 ![Horizon Hobby logo](https://images.wondershare.com/filmora/article-images/horizon-hobby-logo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Summary
@@ -119,10 +123,6 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
  There is no doubt to say that drones are one of the most wonderful and precious advancement of technology. Presently almost all countries are developing their drones for different applications. There are still some clauses for improvements and many professionals are continuously working on it. Drone carrying camera units inside them are more useful for commercial as well as military applications and they are being developed by almost all top companies in the world. It is a combination of all advanced technologies like micro controllers, GPS, Wi-Fi and sensor units- they all work in perfect coherence to deliver awesome performance for different applications. Most of the countries these days have decided their specific rule set for drone flights and few restrictions are poses on their weight carrying capacity. If you want to use drones for commercial applications then it is important to take permission from CAA.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -139,19 +139,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-conquer-iphone-podcast-downloads-a-step-by-step-guidebook/"><u>[New] Conquer iPhone Podcast Downloads – A Step-by-Step Guidebook</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-top-free-video-capture-apps-exploring-the-leaders-for-2024/"><u>[New] Top Free Video Capture Apps – Exploring the Leaders for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-capture-clarity-high-quality-screen-recordings-for-youtubers-pcmac/"><u>[Updated] Capture Clarity High-Quality Screen Recordings for YouTubers (PC/Mac)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-fast-fixes-for-chaotic-youtube-list-ordering/"><u>[Updated] Fast Fixes for Chaotic YouTube List Ordering</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-imovie-tricks-for-perfecting-your-video-introduction-craft/"><u>[Updated] IMovie Tricks for Perfecting Your Video Introduction Craft</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-kinemaster-advanced-perfecting-visual-continuity/"><u>[Updated] In 2024, Kinemaster Advanced Perfecting Visual Continuity</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-checklist-of-key-elements-in-tagging-a-video/"><u>[Updated] The Ultimate Checklist of Key Elements in Tagging a Video</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/clearsnap-guide-how-to-exclude-distracting-picture-borders-for-2024/"><u>ClearSnap Guide How to Exclude Distracting Picture Borders for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/dynamic-film-transformation-premium-15-color-correction-tools-for-gopro/"><u>Dynamic Film Transformation Premium 15 Color Correction Tools for GOPRO</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/finding-cost-effective-buys-on-gopros/"><u>Finding Cost-Effective Buys on GoPros</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-enhancing-work-efficiency/"><u>Mastering ChatGPT: Enhancing Work Efficiency</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-finest-gopro-complementary-items/"><u>The Finest Gopro Complementary Items</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/value-capture-affordable-cam-options/"><u>Value Capture Affordable Cam Options</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-strategies-to-optimize-time-and-quality-in-thumbnail-design/"><u>[New] Strategies to Optimize Time and Quality in Thumbnail Design</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-authenticity-in-client-testimonial-videos/"><u>[Updated] Crafting Authenticity in Client Testimonial Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-streamline-your-listening-experience-convert-spotify-to-youtube-with-these-tools/"><u>[Updated] In 2024, Streamline Your Listening Experience Convert Spotify to YouTube with These Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-soundwaves-on-social-a-guide-to-embedding-tracks-in-stories/"><u>2024 Approved Soundwaves on Social A Guide to Embedding Tracks in Stories</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-amazfit-helio-rings-features-pricing-and-release-timeline/"><u>Exploring Amazfit Helio Ring's Features, Pricing, and Release Timeline</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gigglesome-footage-downloader/"><u>Gigglesome Footage Downloader</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-maximize-iphone-visual-capture-selective-photo-and-video-tools/"><u>In 2024, Maximize iPhone Visual Capture Selective Photo & Video Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-tale-architecting-network/"><u>In 2024, Top Tale Architecting Network</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/intro-to-radial-photo-distortion-ps-tutorial/"><u>Intro to Radial Photo Distortion PS Tutorial</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-telegram-web-navigation/"><u>Mastering the Art of Telegram Web Navigation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pivoting-careers-from-novice-to-industry-veteran/"><u>Pivoting Careers From Novice to Industry Veteran</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premium-fonts-with-dynamic-movement/"><u>Premium Fonts with Dynamic Movement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pros-choice-top-15-luts-for-excellent-gopro-videos/"><u>Pro's Choice Top 15 LUTs For Excellent GoPro Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stop-stalled-video-the-easy-vlc-solution/"><u>Stop Stalled Video: The Easy VLC Solution</u></a></li>
+<li><a href="https://win-tips.techidaily.com/successful-techniques-in-restoring-files-from-ntfs-drive-systems/"><u>Successful Techniques in Restoring Files From NTFS Drive Systems</u></a></li>
 </ul></div>
 
