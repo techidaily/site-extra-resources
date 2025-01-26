@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Crafting New Dimensions  A Look at Mixed Reality\""
-date: 2025-01-13T16:15:01.596Z
-updated: 2025-01-20T16:00:15.058Z
+date: 2025-01-20T16:00:11.376Z
+updated: 2025-01-26T16:37:48.760Z
 tags: 
   - screen-recording
   - ai video
@@ -27,7 +27,7 @@ thumbnail: https://www.lifewire.com/thmb/ACLdGCkJybpMMfm3FCszTRQh_w8=/400x300/fi
  Mar 27, 2024• Proven solutions
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Definition of MR
@@ -37,7 +37,7 @@ thumbnail: https://www.lifewire.com/thmb/ACLdGCkJybpMMfm3FCszTRQh_w8=/400x300/fi
  In mixed reality, the user is given the ability to explore the virtual environment and the real world seamlessly at the same time. Through the use space and coordinates, the virtual objects will be positioned on the real world and whenever you move towards the virtual objects, they become larger while moving away from them makes them smaller. Moving around the virtual objects will also give you different angles and perspectives. Additionally, mixed reality will allow users to manipulate the virtual objects and interact with them as if they were with them in the same place.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does Mixed Reality work
@@ -45,7 +45,7 @@ thumbnail: https://www.lifewire.com/thmb/ACLdGCkJybpMMfm3FCszTRQh_w8=/400x300/fi
  With the development of the technology is shrouded in secrecy by the major players, all that is known on the operations of the technology is that it uses virtual reality and augmented reality as well as space and coordinates. Magic Leap is the company at the forefront in the development of mixed reality and they have remained tight lipped about the finer details of what they are doing or developing. The scanty details we know however, suggests that just like Hololens, mixed reality will use a projector for displaying images on semi transparent materials which will then be reflected to the eye with the help of beam-splitting technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Applications of Mixed Reality
@@ -53,7 +53,7 @@ thumbnail: https://www.lifewire.com/thmb/ACLdGCkJybpMMfm3FCszTRQh_w8=/400x300/fi
  Due to the unique features and experiences offered by mixed reality, businesses, developers and the world in general is beginning to explore the various ways to utilize the technology for the best possible results. Currently, fields such as medicine, architecture and urban planning and education and training appear to be the greatest beneficiary of mixed reality technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mixed Reality for sharing real-world virtual workspaces
@@ -61,6 +61,10 @@ thumbnail: https://www.lifewire.com/thmb/ACLdGCkJybpMMfm3FCszTRQh_w8=/400x300/fi
  When multiple mixed reality devices are brought into a shared space, there will be the creation of new collaboration options. Through mixed reality, members of a team can network in a shared virtual world overlaid in the physical world. A connected environment will thus be created where workers can collaborate and work together and interact with virtual items in the real world. This will be made possible by the utilization of image recognition and real time mapping capabilities of mixed realities.
 
  Sharing real world virtual spaces through mixed reality can be especially beneficial for sales team when making a pitch for a new offer. For instance, a pharmaceutical sales rep can carry along two mixed reality devices to an appointment with the doctor. The doctor and the sales rep can then both wear the devices and see a model of the new drug as explained by the sales rep. Through this, they can then visualize the chemical composition of the drug and also simulate how the drug will move in the body to fight diseases. Through such a shared experience, the sales rep will not only build deeper connections with the doctor, but also offer a more detailed explanation on the product being offered.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mixed reality for remote experts – over the shoulder coaching
 
@@ -75,10 +79,6 @@ thumbnail: https://www.lifewire.com/thmb/ACLdGCkJybpMMfm3FCszTRQh_w8=/400x300/fi
  Also, since mixed reality experiences take place in the physical world, individuals are likely to react to them more emotionally than to a mere digital experience. As the technology develops, it is imperative for developers as well as the intended users to be aware of such issues and be ready to address them accordingly.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -95,22 +95,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-all-about-facetune-in-depth-user-guide-and-analysis/"><u>[Updated] All About Facetune In-Depth User Guide & Analysis</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-hashtag-hits-top-10-viral-tiktoks-on-twitter/"><u>[Updated] Hashtag Hits Top 10 Viral TikToks on Twitter</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unmatched-story-design-arena/"><u>[Updated] In 2024, Unmatched Story Design Arena</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-9-command-center-of-live-gaming-streams/"><u>2024 Approved 9 Command Center of Live Gaming Streams</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-liberating-screen-time-with-free-video-playback-tools/"><u>2024 Approved Liberating Screen Time with FREE Video Playback Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/compelling-iphone-photo-and-video-applications-87x-for-2024/"><u>Compelling iPhone Photo & Video Applications (8/7/X) for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-sequences-a-movie-maker-approach-to-animation/"><u>Crafting Sequences A Movie Maker Approach to Animation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-ricoh-printing-software-on-windows-devices/"><u>Download & Install Ricoh Printing Software on Windows Devices</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/harnessing-the-power-of-supplemental-film-footage/"><u>Harnessing the Power of Supplemental Film Footage</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-6-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 6 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/maximizing-your-search-for-stellar-pexels-artwork/"><u>Maximizing Your Search for Stellar Pexels Artwork</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pioneering-promotion-in-the-metaverse/"><u>Pioneering Promotion in the Metaverse</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-microsoft-windows-11-microphone-issues/"><u>Troubleshooting Guide: Resolving Microsoft Windows 11 Microphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-jabra-earpiece-top-fixes/"><u>Troubleshooting Your Jabra Earpiece: Top Fixes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unmatched-quick-windows-picture-browser/"><u>Unmatched Quick Windows Picture Browser</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-unlock-fcpx-potential-troubleshooting-secrets-revealed/"><u>Updated 2024 Approved Unlock FCPX Potential Troubleshooting Secrets Revealed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/your-path-to-a-unique-auditory-experience-customizing-ringtone-and-sound-on-android/"><u>Your Path to a Unique Auditory Experience Customizing Ringtone & Sound on Android</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-2023-revised-insights-on-samsungs-ubd-k850u/"><u>[New] 2023 Revised Insights on Samsung's UBD-K850U</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-classroom-mastery-the-prime-10-audio-visual-aids-for-instructors/"><u>[Updated] Classroom Mastery The Prime 10 Audio-Visual Aids for Instructors</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-eliminate-unrequested-podcast-additions-on-spotify-feed/"><u>[Updated] Eliminate Unrequested Podcast Additions on Spotify Feed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/1-general-trivia-challenge-web-series-for-2024/"><u>1 General Trivia Challenge Web Series for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-best-classic-family-vacation-movie-for-this-summer/"><u>10 Best Classic Family Vacation Movie for This Summer</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-xs-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On iPhone XS? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/brilliant-backdrops-using-light-to-enchant-audiences/"><u>Brilliant Backdrops Using Light to Enchant Audiences</u></a></li>
+<li><a href="https://windows11.techidaily.com/climate-control-experts-the-finest-windows-11-apps/"><u>Climate Control Experts: The Finest Windows 11 Apps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/economic-guide-to-capturing-virtual-learning-spaces/"><u>Economic Guide to Capturing Virtual Learning Spaces</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Realme Narzo N53? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-industry-standards-prime-gimbals-for-drones/"><u>In 2024, Industry Standards Prime Gimbals for Drones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-techniques-for-your-windows-11-walls/"><u>Innovative Techniques for Your Windows 11 Walls</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/techniques-to-frame-photos-with-leading-lines-iphone/"><u>Techniques to Frame Photos with Leading Lines (iPhone)</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-switch-status-of-the-installer-service/"><u>Techniques to Switch Status of the Installer Service</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-comprehensible-guide-to-enhancing-your-facebook-live-experience/"><u>The Comprehensible Guide to Enhancing Your Facebook Live Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tips-and-tricks-to-avoid-photo-crashes-on-windows-11/"><u>Tips & Tricks to Avoid Photo Crashes on Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-ultra-details-in-minecraft-games/"><u>Unveiling Ultra Details in Minecraft Games</u></a></li>
 </ul></div>
 

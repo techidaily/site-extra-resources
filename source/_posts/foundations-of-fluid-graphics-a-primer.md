@@ -1,7 +1,7 @@
 ---
 title: "\"Foundations of Fluid Graphics  A Primer\""
-date: 2024-07-25T04:56:55.179Z
-updated: 2024-07-26T04:56:55.179Z
+date: 2025-01-20T16:27:20.454Z
+updated: 2025-01-26T16:24:29.327Z
 tags: 
   - screen-recording
   - ai video
@@ -21,8 +21,9 @@ thumbnail: https://www.lifewire.com/thmb/MjDt1uRL4GOWZea-hQOdnvc1v5g=/400x300/fi
 If you're thinking, "What is motion graphics?" let me explain that they are a particular kind of animation. It may be described as a hybrid of graphic design and animation. In most cases, motion graphics aim to present information using visual or animated texts to achieve a particular communication purpose. Motion graphics now have a far wider variety of applications because of technological advancements and the prevalence of screens in everyday objects. What was used to deliver technical knowledge and create the tone for a tale today has a variety of uses.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What is Motion Graphics
 
 Motion graphics is a fantastic tool for presenting stories and mixing animation and graphic design. Animation design is more memorable to viewers than static visuals because it employs not just straightforward visual components like text, forms, or images but also activates audio receptors to express concepts. Animation is motion graphics, although text plays a big part in them. Animated graphic design is what it is. There has been discussion over the boundary between motion graphics and full animation since motion graphics first appeared on the scene.
@@ -30,15 +31,17 @@ Motion graphics is a fantastic tool for presenting stories and mixing animation 
 Stunning motion graphics animation for brand apps and web platforms conveys a lot of information in a short, straightforward, aesthetically appealing film while showcasing complex images, thoughts, and concepts. As a result, it aids in quickly delivering a message and effortlessly grabbing and holding the audience's attention. Any field you choose, including business, marketing, IT solutions, the film industry, education, healthcare, social networks, or entertainment, can benefit from excellent animation design.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## When to use Motion Graphics?
 
 The most pleasing motion graphics outline or emphasize information while demonstrating a point. When a narrative or plot is not required, motion graphics are employed. Motion graphic videos may simplify and make unforgettable your complicated services or goods. Motion graphics are mostly visual aids; hence they are excellent at explaining complex concepts through imagery.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to make Motion Graphics?
 
 Motion graphics may be used in various situations to add life and humor to a presentation or movie. Are you creating a video infographic? Motion graphics may breathe some life into the figures. Utilize them in any social media videos you create. In an explanation video, motion graphics are lovely for communicating your message. It's a fantastic, inexpensive method for producing videos.
@@ -51,8 +54,9 @@ Motion graphics may be used in various situations to add life and humor to a pre
 4. Telling a Story \- you can use motion graphics to create a music video. Like other music videos, the illustrations tell a story that complements the song. It's an exciting concept highlighting the different contexts motion graphics can use. You can use them to create an advertisement or even make a short film.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Benefits of Motion Graphics
 
 * Both money and time are saved. Making captivating movies with excellent animation design takes much less time, money, and effort.
@@ -60,8 +64,9 @@ Motion graphics may be used in various situations to add life and humor to a pre
 * Brand recognition is increased. Viewers may readily understand if complex images, concepts, and statistics are presented clearly, and excitingly.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The use of Motion Graphics
 
 For effective use of motion graphics design, figure out the objectives you want to achieve and for how long. Before adopting ideas, ask yourself some simple questions:
@@ -120,7 +125,21 @@ Keep in mind that there is a lot of overlap between motion graphics and other fo
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-sonic-sharing-adding-music-to-your-whatsapp-status/"><u>[New] 2024 Approved Sonic Sharing Adding Music to Your WhatsApp Status</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-5-premium-4k-displays-for-the-hardcore-gamer/"><u>[New] 5 Premium 4K Displays for the Hardcore Gamer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-breaking-down-the-basics-of-effective-timelapse-creation-using-gopro-studio/"><u>[New] Breaking Down the Basics of Effective Timelapse Creation Using GoPro Studio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-captivating-cinematic-experience-elevate-video-quality-with-filters-pc-and-mobile/"><u>[New] Captivating Cinematic Experience Elevate Video Quality with Filters (PC & Mobile)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-seal-of-credibility-writing-journalisms-finale/"><u>[New] Seal of Credibility Writing Journalism's Finale</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-upload-tunes-with-images-digitally/"><u>[Updated] Upload Tunes with Images Digitally</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-aural-enhancements-with-video-editing-on-win11/"><u>2024 Approved Aural Enhancements with Video Editing on Win11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-overview-merging-srt-with-mp4-files-and-videos/"><u>Comprehensive Overview Merging SRT with MP4 Files and Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/exploring-the-validity-of-instagram-photos-for-2024/"><u>Exploring the Validity of Instagram Photos for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-goal-achievement-on-january-1st/"><u>Mastering Goal Achievement on January 1St</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/navigating-screen-sharing-in-google-meet-mobiledesktop/"><u>Navigating Screen Sharing in Google Meet Mobile/Desktop</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premier-cloud-storage-guide-for-enterprises/"><u>Premier Cloud Storage Guide for Enterprises</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-crafting-stunning-2x2-images-on-iphone-with-expert-photo-editor-tools/"><u>Step-by-Step Guide: Crafting Stunning 2X2 Images on iPhone with Expert Photo Editor Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-gaming-headsets-and-mic-combos-for-online-play/"><u>Ultimate Selection of Gaming Headsets and Mic Combos for Online Play</u></a></li>
+</ul></div>
 

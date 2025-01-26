@@ -1,7 +1,7 @@
 ---
 title: "\"From Timeless Tales in Tone-On-Tone to Dynamic Digital Narratives\""
-date: 2025-01-18T16:11:42.172Z
-updated: 2025-01-20T16:21:29.942Z
+date: 2025-01-23T16:08:44.130Z
+updated: 2025-01-26T16:01:57.091Z
 tags: 
   - screen-recording
   - ai video
@@ -64,10 +64,6 @@ Some popular photo scanners that you can consider using are Scanner Pro, PhotoSc
 
 In case you have a lot of pictures that you wish to scan and little time, then you can also get in touch with some professionals. There are tons of photo digitization services that you can explore in almost every major city to get dedicated assistance.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Convert Old Photos into a Video Effortlessly?
 
 By now, you would be able to digitize photos and have a soft copy of your old photographs. Apart from that, a lot of people would also like to make a video collage of their favorite pictures as well. If you have old pictures of a loved one and a special occasion is coming, then a video collage of their photos would be one of the best gifts.
@@ -90,6 +86,10 @@ To start with, you can just launch Filmora on your system and import your photos
 
 ![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2\. Create a timeline for your photos
 
 Once you have imported your photos, you can include them in the timeline. To do this, you can click on the “+” button that is located on the top of the photo’s thumbnail. You can also just drag any photo and drop it on the preferred location in the timeline.
@@ -111,23 +111,19 @@ As stated above, you can find a wide range of video editing options to explore i
 ![Add Effects to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
 
 ![Add Title to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
 
 ![Add Audio to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 5\. Export your video
@@ -136,7 +132,15 @@ That’s it! After making all the changes, you can preview your video on the rig
 
 ![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Find more fancy ways to make the best photo and video slideshow with Filmora!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More Editing Tips for Creating Memorable Videos
 
@@ -170,10 +174,6 @@ There you go! I’m sure that after reading this guide, you would be able to dig
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -189,24 +189,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-conducting-a-cross-platform-playlist-symphony/"><u>[New] Conducting a Cross-Platform Playlist Symphony</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-digital-dimensions-clash-metaverse-and-omniverse-analyzed/"><u>[New] Digital Dimensions Clash Metaverse & Omniverse Analyzed</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-real-time-reality-rally-does-digital-dethrone-device-dominance-in-2024/"><u>[New] Real-Time Reality Rally Does Digital Dethrone Device Dominance, In 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-premier-8k-capture-the-ultimate-camera-guide/"><u>[Updated] 2024 Approved Premier 8K Capture The Ultimate Camera Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-creating-instagram-virality-video-edition/"><u>[Updated] In 2024, Creating Instagram Virality Video Edition</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-premium-pcmac-screen-capture-application-for-2024/"><u>[Updated] Premium PC/Mac Screen Capture Application for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-prime-examples-14-dynamic-text-animations/"><u>[Updated] Prime Examples 14 Dynamic Text Animations</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-enhance-your-content-utilizing-the-green-screen-on-instagram/"><u>2024 Approved Enhance Your Content Utilizing the Green Screen on Instagram</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cost-effective-tactics-in-video-promotions-for-2024/"><u>Cost-Effective Tactics in Video Promotions for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/elevate-your-stream-game-mastering-onestream-platforms/"><u>Elevate Your Stream Game Mastering OneStream Platforms</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/from-basics-to-pros-the-learning-curve-in-magix-music-maker-2024/"><u>From Basics to Pros The Learning Curve in Magix Music Maker 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-visual-storytelling-with-online-wallpaper-swap/"><u>Mastering Visual Storytelling with Online Wallpaper Swap</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/maximize-your-vr-journey-oculus-rift-readiness/"><u>Maximize Your VR Journey Oculus Rift Readiness</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pixel-to-passion-unlocking-new-forms-of-entertainment-with-vr/"><u>Pixel to Passion Unlocking New Forms of Entertainment with VR</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/speed-up-photobooks-instructions-for-faster-google-collage-creation/"><u>Speed Up Photobooks Instructions for Faster Google Collage Creation</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/streamline-the-conversion-vimeo-videos-to-mp3-files/"><u>Streamline the Conversion Vimeo Videos to MP3 Files</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-evolution-of-color-formats-from-rgb-to-srgb/"><u>The Evolution of Color Formats From Rgb to Srgb</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-directory-30plus-zero-cost-online-tools-for-visual-effects/"><u>The Ultimate Directory 30+ Zero-Cost Online Tools for Visual Effects</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/unveiling-advantages-comprehen-for-2024/"><u>Unveiling Advantages Comprehen for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-best-overlay-strategies-for-videographers/"><u>[New] 2024 Approved Best Overlay Strategies for Videographers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-a-list-hd-screen-recorders-for-optimal-performance-for-2024/"><u>[New] A-List HD Screen Recorders for Optimal Performance for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-get-motivated-by-the-20-of-the-best-background-music-for-exercise/"><u>[Updated] Get Motivated by the 20 of the Best Background Music for Exercise</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unpacking-the-multifaceted-nature-of-wirecast-tools/"><u>2024 Approved Unpacking the Multifaceted Nature of WireCast Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beware-of-bogus-bots-the-9-imitation-threats-mimicking-chatgpt-and-endangering-your-digital-security/"><u>Beware of Bogus Bots: The 9 Imitation Threats Mimicking ChatGPT and Endangering Your Digital Security</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/choreographing-a-memorable-tiktok-fade-out-for-2024/"><u>Choreographing a Memorable TikTok Fade-Out for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/craft-engaging-titlescaptions-with-microsofts-photos-app-win-11-for-2024/"><u>Craft Engaging Titles/Captions with Microsoft's Photos App (Win 11) for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-image-capture-understanding-auto-and-smart-hdr-tech/"><u>Cutting-Edge Image Capture Understanding Auto and Smart HDR Tech</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-electronics-knowledge-insights-from-toms-hardware-hub/"><u>Master Your Electronics Knowledge: Insights From Tom's Hardware Hub</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/nextgen-codec-battle-is-av1-trumping-vp9-quality/"><u>NextGen Codec Battle Is AV1 Trumping VP9 Quality?</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-and-repairing-renderer-failures-in-overwatch-2/"><u>Preventing and Repairing Renderer Failures in Overwatch 2</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-uncomplicated-route-for-digitally-crafted-assets/"><u>The Uncomplicated Route for Digitally-Crafted Assets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-open-source-os-friendly-videography-software/"><u>Top 10 Open-Source OS-Friendly Videography Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visual-perfection-with-obs-studio-and-its-comprehensive-lut-support/"><u>Visual Perfection with OBS Studio and Its Comprehensive LUT Support</u></a></li>
 </ul></div>
 

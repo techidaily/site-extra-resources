@@ -1,7 +1,7 @@
 ---
 title: "Harmonizing Your Footage With Optimal Aspect Ratios"
-date: 2025-01-15T16:14:14.972Z
-updated: 2025-01-20T16:07:40.121Z
+date: 2025-01-22T16:11:33.551Z
+updated: 2025-01-26T16:17:31.576Z
 tags: 
   - screen-recording
   - ai video
@@ -28,10 +28,6 @@ With that said, let's dive right into it!
 
 Aspect ratio is a digital image projection attribute describing the distance between the width and the height of an image. The dimensions are also defined as shapes such as a square which is 4:3\. A rectangle represents the 16:9 standard high definition aspect ratio, and inverted what you see on phones, that will be 9:16\. 9 refers to the width and 16 to the height.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Commonly used aspect ratios
 
 There is no same aspect ratio that is used across all social media platforms. Depending on which social media platform you are planning to upload, you have to make sure you have the correct aspect ratio for your target audience. The optimal viewing experience is what matters.
@@ -40,9 +36,17 @@ There is no same aspect ratio that is used across all social media platforms. De
 
 This aspect ratio is recognized as the worldwide reference format for film, mobile devides, DSLR cameras, streaming platforms, social media platforms, and many more. It is known as landscape viewing which include 720p, 1080p HD and 4K resolution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4:3 Standard
 
 This resolution is originally used in older television screens, which transformed into mobile use as this aspect ratio works really well for Instagram and Facebook videos, referring to the 9:16 phone resolution making a square video more pleasant to watch and to be featured in in-feed videos.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 9:16 Vertical
 
@@ -67,6 +71,10 @@ Facebook is one of the most used website across the world on both computer and t
 9:16 for Facebook live videos
 
 9:16 for Facebook stories
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### YouTube
 
@@ -98,6 +106,10 @@ When talking about Instagram, which is very similar to Facebook, use these aspec
 
 9:16 for IGTV
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### TikTok
 
 Before Musical.ly users were migrated to a new platform called TikTok in 2018, it has been the leader on the board for a long time, and here are the recommended resolutions we think give the best results. Tik Tok allows you to share short videos, and is used by young people as an outlet to show their talents whether it's dancing, singing, cooking, comedy or any other form of entertainment they can express and use on the platform. There's also a feature to work together and collaborate with other Tik Tok creators across the globe.
@@ -109,32 +121,20 @@ Before Musical.ly users were migrated to a new platform called TikTok in 2018, i
 1:1; 16:9 or 9:16 for TikTok advertisements
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. How to adjust the aspect ratio of a video?
 
 A very important point we'd like to mention is that we don't recommend changing the aspect ratio after filming, because it could harm the video quality and we think it's best to choose the aspect ratio on your phone or camera before filming, besides that we have some great tips for optimizing your video for the watching experience below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Black bars
 
 When editing your video, adding black bars is not changing the aspect ratio as you are just adding black bars to the screen. What we do recommend is cropping the video until you get the desired result. Adding black bars won't automatically make the platform adjust the video and it will affect the viewer experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Cropping
 
 Cropping your video will allow you to remove a section from your video, which works perfect for unwanted objects or people. While cropping the video, you are forced to pick the essential part of your video and disregard the rest of the video and to remove distraction from the frame.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -172,18 +172,20 @@ Having your video tested on multiple devices will allow you to see a preview of 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-exploring-photo-perfection-can-picku-be-top-for-android-users/"><u>[New] Exploring Photo Perfection Can PickU Be Top for Android Users?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/avigating-the-digital-landscape-free-tools-for-youtube-audio-to-text-for-2024/"><u>[New] Navigating the Digital Landscape FREE Tools for YouTube Audio to Text for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nlocking-youtubes-potential-with-personalized-plays-for-2024/"><u>[New] Unlocking Youtube’s Potential with Personalized Plays for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-beijings-olympic-frost-festivities-2022-edition/"><u>[Updated] Beijing's Olympic Frost Festivities, 2022 Edition</u></a></li>
-<li><a href="https://win-community.techidaily.com/windows-7and/"><u>簡便指南：在Windows 7系統中發現&回收隱藏文件</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cinemagraphy-central-filmo-faqs/"><u>Cinemagraphy Central Filmo FAQs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhancing-gopro-footage-minimizing-motion-blur/"><u>Enhancing GoPro Footage Minimizing Motion Blur</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-14-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 14 Plus Keeps Asking for Outlook Password</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/perfectly-pair-audio-visual-delights-top-6-music-video-apps-for-android/"><u>Perfectly Pair Audio-Visual Delights Top 6 Music Video Apps for Android</u></a></li>
-<li><a href="https://fox-links.techidaily.com/photoshop-shake-control-necessary-tool-or-unnecessary/"><u>Photoshop Shake Control Necessary Tool or Unnecessary?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-picks-the-best-tech-gadgets-of-2023-as-chosen-by-zdnet-experts/"><u>Top Picks: The Best Tech Gadgets of 2023 as Chosen by ZDNet Experts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveil-gadgets-top-15-unboxing-clips/"><u>Unveil Gadgets Top 15 Unboxing Clips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/who-wins-the-tech-talk-comparing-gpt-and-bing-ai/"><u>Who Wins the Tech Talk: Comparing GPT & Bing AI?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-10-steps-to-perfectly-plated-food-vids/"><u>[New] 10 Steps to Perfectly Plated Food Vids</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-anonymous-legacy-non-protected-creative-pieces/"><u>[New] Anonymous Legacy Non-Protected Creative Pieces</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-a-youtube-trailer-for-2024/"><u>[New] How To Make a YouTube Trailer for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-selecting-the-right-top-15-tripods-for-gopro-cameras/"><u>[Updated] Selecting the Right Top 15 Tripods for GoPro Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tailored-visual-representation-free-logo-base-for-personal-touches/"><u>[Updated] Tailored Visual Representation Free Logo Base for Personal Touches</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-must-have-strategies-for-podcast-visuals-excellence/"><u>10 Must-Have Strategies for Podcast Visuals Excellence</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-a-year-end-curation-of-youtubes-most-compelling-stories/"><u>2024 Approved A Year-End Curation of YouTube’s Most Compelling Stories</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-apply-photo-motion-blur-in-adobe-photoshop/"><u>2024 Approved Apply Photo Motion Blur in Adobe Photoshop</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-beginners-backstage-pass-to-photo-tricks/"><u>2024 Approved Beginner's Backstage Pass to Photo Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-compre-written-explanation-easy-hdr-understanding/"><u>2024 Approved Compre Written Explanation Easy HDR Understanding</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hasty-help-for-defining-windows-vocabulary/"><u>Hasty Help for Defining Windows Vocabulary</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-21-edition-breakdown-analyzing-the-revolution-in-vegas-pro-gaming/"><u>In 2024, '21 Edition Breakdown – Analyzing the Revolution in Vegas Pro Gaming</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-vivo-y27-4g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Vivo Y27 4G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-smart-screening-vll-app-judgement/"><u>In 2024, Smart Screening VLL App Judgement</u></a></li>
 </ul></div>
 

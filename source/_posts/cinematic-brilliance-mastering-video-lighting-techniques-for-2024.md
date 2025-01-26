@@ -1,7 +1,7 @@
 ---
 title: "\"Cinematic Brilliance  Mastering Video Lighting Techniques for 2024\""
-date: 2025-01-15T16:19:10.225Z
-updated: 2025-01-20T16:03:36.933Z
+date: 2025-01-20T16:39:21.220Z
+updated: 2025-01-26T16:13:08.337Z
 tags: 
   - screen-recording
   - ai video
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/a8b16314a41e8185a53e16911a8cd83652896b677
 Many people are wondering how to set up lighting for video shooting. While there are many different ways to set up lighting, some methods are more effective than others.
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
 
@@ -58,6 +54,10 @@ The key light is the main light that illuminates the subject. You can place it i
 
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
@@ -65,7 +65,7 @@ The fill light is used to fill in the shadows created by the key light. It is us
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -76,21 +76,17 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
@@ -103,7 +99,7 @@ After setting up all the lighting above, you can take a look at the comparison b
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **_3) Pro Tips: The light setting_**
@@ -111,6 +107,10 @@ After setting up all the lighting above, you can take a look at the comparison b
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -146,21 +146,16 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-effortless-audio-extraction-best-youtube-to-mp3-tools-list/"><u>[New] Effortless Audio Extraction Best YouTube to MP3 Tools List</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-honored-advisors-elite-iphone-audio-experts/"><u>[New] In 2024, Honored Advisors Elite iPhone Audio Experts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-critical-examination-of-vlcs-rivals/"><u>[Updated] A Critical Examination of VLC's Rivals</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-an-in-depth-guide-to-every-element-of-srt/"><u>[Updated] An In-Depth Guide to Every Element of SRT</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-blend-your-belief-with-mobile-melodies/"><u>[Updated] Blend Your Belief with Mobile Melodies</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-breaking-into-the-periscope-livestream-arena/"><u>[Updated] Breaking Into the Periscope Livestream Arena</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-identifying-and-accessing-your-music-picks-on-youtube-for-2024/"><u>[Updated] Identifying and Accessing Your Music Picks on Youtube for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-turning-twitter-media-into-interactive-expressive-animated-gifs/"><u>[Updated] Turning Twitter Media Into Interactive, Expressive Animated GIFs</u></a></li>
-<li><a href="https://win-popular.techidaily.com/get-the-latest-update-in-dj-software-with-jammtext-v114-the-ultimate-text-to-screen-conversion-tool-now-available/"><u>Get the Latest Update in DJ Software with JammText v1.1.4 - The Ultimate Text to Screen Conversion Tool Now Available!</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-mini-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 mini to other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ideal-mkv-player-suite-mobile-and-desktop/"><u>Ideal MKV Player Suite (Mobile & Desktop)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-charting-the-course-for-a-cohesive-subscriber-rich-channel/"><u>In 2024, Charting the Course for a Cohesive, Subscriber-Rich Channel</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instant-setup-guide-how-to-install-the-canon-pro-100-driver-for-your-windows-pc/"><u>Instant Setup Guide: How to Install the Canon PRO 100 Driver for Your Windows PC</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-power-of-words-in-podcast-summaries/"><u>The Power of Words in Podcast Summaries</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-5-best-tv-for-ps5-and-xbox-series-x-updated-july/"><u>Top 5 Best TV for Ps5 and Xbox Series X (Updated July)</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/why-cant-i-install-the-ipogo-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>Why cant I install the ipogo On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-way-to-use-zoom-for-skype/"><u>[New] Best Way to Use Zoom for Skype</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-podcasters-roadmap-to-seo-excellence/"><u>[Updated] The Podcaster’s Roadmap to SEO Excellence</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/configure-anything-with-these-simple-steps-for-a-universal-remote-control/"><u>Configure Anything with These Simple Steps for a Universal Remote Control!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/creer-un-webm-a-partir-dun-fichier-mp4-gratuitement-en-ligne-movavi/"><u>Créer Un WebM À Partir D'un Fichier MP4 Gratuitement en Ligne - Movavi</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-access-to-logitech-k350-webcam-software-and-updates/"><u>Easy Access to Logitech K350 Webcam Software & Updates</u></a></li>
+<li><a href="https://blog-min.techidaily.com/efficient-conversion-techniques-for-changing-mkv-videos-to-mp4-with-adobe-media-encoder/"><u>Efficient Conversion Techniques for Changing MKV Videos to MP4 with Adobe Media Encoder</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/embrace-mematic-your-personal-digital-diary/"><u>Embrace Mematic Your Personal Digital Diary</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-artists-playground-the-prime-6-platforms-for-nft-creation/"><u>In 2024, Artists' Playground The Prime 6 Platforms for NFT Creation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lg-360-camera-full-review-2023-update/"><u>LG 360 Camera Full Review -2023 Update</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/light-up-dull-iphone-videos-in-seconds/"><u>Light Up Dull Iphone Videos in Seconds</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unlock-google-meets-potential-on-youtube-with-this-guide/"><u>Unlock Google Meet's Potential on YouTube with This Guide</u></a></li>
 </ul></div>
 

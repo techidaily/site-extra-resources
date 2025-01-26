@@ -1,7 +1,7 @@
 ---
 title: "Quick Steps to Clear the Exterior of Your Photos in Affinity"
-date: 2025-01-19T16:07:38.542Z
-updated: 2025-01-20T16:23:30.500Z
+date: 2025-01-23T16:40:22.816Z
+updated: 2025-01-26T16:25:18.300Z
 tags: 
   - screen-recording
   - ai video
@@ -45,7 +45,7 @@ Step3 To make a selection around your subject, first enable the **"Snap To Edges
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
@@ -59,10 +59,6 @@ Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Remove a Busy Background in Affinity Designer
 
@@ -91,10 +87,14 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Best Alternative of Affinity Photo
@@ -104,10 +104,6 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
@@ -135,10 +131,6 @@ And if you have any interests in finding free images to expand your resource, yo
 
 Hopefully, this article and video can help you create ideal images!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -146,6 +138,10 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
@@ -162,6 +158,10 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Create a free account for easier future access.
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -197,24 +197,18 @@ Hopefully, this article and video can help you create ideal images!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-capture-and-conserve-top-picks-for-affordable-cloud-photo-storage/"><u>[New] Capture and Conserve Top Picks for Affordable Cloud Photo Storage</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-beat-the-wait-efficient-iphone-time-lapse-tricks/"><u>[Updated] Beat the Wait Efficient iPhone Time-Lapse Tricks</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-reclaim-lost-chatter-in-shared-tweeted-films/"><u>[Updated] In 2024, Reclaim Lost Chatter in Shared Tweeted Films</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-soundwave-startups-curating-melodies-for-your-podcast-opener/"><u>2024 Approved Soundwave Startups Curating Melodies for Your Podcast Opener</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/6-effiziente-methoden-um-den-datentrager-schreibgeschutzte-problematik-unter-windows-zu-losen-schnellstartlosungen/"><u>6 Effiziente Methoden, Um Den Datenträger-Schreibgeschützte Problematik Unter Windows Zu Lösen - Schnellstartlösungen</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-continuous-freezing-issues-in-diablo-iii/"><u>Effective Solutions for Continuous Freezing Issues in Diablo III</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/effective-tactics-for-customizing-song-tempo-in-spotify/"><u>Effective Tactics for Customizing Song Tempo in Spotify</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhancing-video-audio-mastering-the-srt-mp4-duo/"><u>Enhancing Video Audio Mastering the SRT-MP4 Duo</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-free-layering-and-editing-apps-mobile-edition-top-10/"><u>Essential Free Layering & Editing Apps - Mobile Edition (Top 10)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/greatest-20-free-pubg-image-compilations/"><u>Greatest 20 Free PUBG Image Compilations</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-odt-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .odt file electronically</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-adobe-cloud-essentials-and-top-alternatives/"><u>Mastering Adobe Cloud Essentials & Top Alternatives</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/maximizing-zoom-experience-on-windows-pcs-with-win10/"><u>Maximizing Zoom Experience on Windows PCs with Win10</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/rotacion-de-videos-mp4-sin-perdidas-acciones-faciles-para-girar-por-90-180-y-270-grados/"><u>Rotación De Videos MP4 Sin Pérdidas - Acciones Fáciles Para Girar Por 90, 180 Y 270 Grados</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211082620-9781646112050-shamanism/"><u>Shamanism | Free Book</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-authoritative-guide-to-generating-srt-files-with-expert-tips/"><u>The Authoritative Guide to Generating SRT Files with Expert Tips</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/there-is-a-number-of-software-that-you-can-use-to-achieve-the-manipulation-of-your-files-in-this-way-below-are-five-of-the-most-popular-mpeg-video-joiners-f/"><u>There Is a Number of Software that You Can Use to Achieve the Manipulation of Your Files in This Way. Below Are Five of the Most Popular MPEG Video Joiners for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-prolong-pin-length-for-enhanced-safety/"><u>Tips to Prolong PIN Length for Enhanced Safety</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-correcting-the-dreaded-code-28-error-in-windows-systems/"><u>Troubleshooting and Correcting the Dreaded Code 28 Error in Windows Systems</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-becoming-a-broadcast-pro-zooming-into-youtube-live-success/"><u>[New] In 2024, Becoming a Broadcast Pro Zooming Into YouTube Live Success</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-viral-visionaries-most-watched-clips-2023-for-2024/"><u>[New] Viral Visionaries Most Watched Clips 2023 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-guide-to-nikon-d7500-performance/"><u>[Updated] Comprehensive Guide to Nikon D7500 Performance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-giggle-enhancer-for-images/"><u>Expert Giggle Enhancer for Images</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Motorola Moto G84 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-the-art-of-transcending-huge-video-sizes-iphone-mac-connection/"><u>Mastering the Art of Transcending Huge Video Sizes IPhone-Mac Connection</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/nextgen-video-upscaler-mobiledesktop-edition/"><u>NextGen Video Upscaler Mobile/Desktop Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-oppo-a78-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Oppo A78 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-design-and-build-your-own-4k-editing-system/"><u>The Ultimate Guide to Design and Build Your Own 4K Editing System</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/toppest-ios-video-capture-aids/"><u>Toppest iOS Video Capture Aids</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphones-malfunctioning-mic-expert-tips-and-solutions/"><u>Troubleshooting iPhone's Malfunctioning Mic: Expert Tips & Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-live-streaming-selection-guide/"><u>Ultimate Live Streaming Selection Guide</u></a></li>
 </ul></div>
 

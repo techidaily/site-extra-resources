@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Conquering the Crash  Solutions for Windows 10 Photos Issues\""
-date: 2024-12-31T20:46:47.168Z
-updated: 2025-01-08T01:52:00.632Z
+date: 2025-01-23T16:03:45.343Z
+updated: 2025-01-26T16:03:32.709Z
 tags: 
   - screen-recording
   - ai video
@@ -41,13 +41,13 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 **You may also like:** [How to Solve Windows 10 Photos App Crashes Effectively >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix Windows 10 Photos app crashes
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 1: Use the Troubleshooter
@@ -64,10 +64,6 @@ Here is how to troubleshoot –
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 2: Restore Default Libraries
 
 Restoring the default libraries would resolve the Windows 10 Photos App crash issues. Resetting the Photo App to its default source to a valid network, path fixes the case.
@@ -81,6 +77,10 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 3: Reset it
 
 When you reset the Windows Photo App itself, your issue gets resolved. Plenty of Windows users have mentioned that resetting the Photo App has fixed the unresponsive or crashing app problems.
@@ -90,6 +90,10 @@ Here is how can you reset it –
 1. Go to ‘Windows 10 Start Menu’ and then click ‘Settings’. Now, click the ‘Apps (Apps & Features)’ option followed by the ‘Photos’ app.
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 4: Repair Photos App package
 
@@ -119,14 +123,10 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -144,22 +144,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-clarityai-creatives-unleash-editing-potential/"><u>[New] ClarityAI Creatives Unleash Editing Potential</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-from-zero-to-hero-youtubes-masterclass-in-channels/"><u>[Updated] From Zero to Hero YouTube's Masterclass in Channels</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-laughoutloud-maker-get-funny-faces-on-the-web/"><u>2024 Approved LaughOutLoud Maker Get Funny Faces on the Web</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ai-name-magic-selecting-the-best-tools-for-your-podcast-titles/"><u>AI Name Magic Selecting the Best Tools for Your Podcast Titles</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/dji-mavic-air-vs-dji-spark-which-is-the-right-choice-for-your-drone-adventures/"><u>DJI Mavic Air Vs. DJI Spark: Which Is The Right Choice For Your Drone Adventures?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-sticky-keys-on-windows-computers-expert-advice-and-solutions/"><u>Effective Fixes for Sticky Keys on Windows Computers: Expert Advice and Solutions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/eliminating-lag-in-iphone-timelapse-videos/"><u>Eliminating Lag in iPhone Timelapse Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhancing-android-viewing-latest-in-vr-and-360-videos/"><u>Enhancing Android Viewing - Latest in VR & 360 Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhancing-productivity-with-azure-voice-recognition/"><u>Enhancing Productivity with Azure Voice Recognition</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ideal-mobile-editing-platforms-for-dji-imagery/"><u>Ideal Mobile Editing Platforms for DJi Imagery</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-comprehensive-tutorial-for-srt-filters-in-social-space/"><u>In 2024, A Comprehensive Tutorial for SRT Filters in Social Space</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/overcoming-file-compatibility-hurdles/"><u>Overcoming File Compatibility Hurdles</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/rapid-techniques-for-quick-professional-quality-home-movies/"><u>Rapid Techniques for Quick, Professional-Quality Home Movies</u></a></li>
-<li><a href="https://win-great.techidaily.com/resolving-windows-display-drivers-woes-strategies-by-yl-software-experts/"><u>Resolving Windows Display Drivers Woes: Strategies by YL Software Experts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-best-10-final-cut-pro-plugins-ever/"><u>The Best 10 Final Cut Pro Plugins Ever</u></a></li>
-<li><a href="https://fox-http.techidaily.com/wirecast-vs-obs-the-ultimate-guide-to-live-streamers-for-2024/"><u>Wirecast Vs. OBS The Ultimate Guide to Live Streamers for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-essential-drone-buyers-checklist-top-factors-to-ponder/"><u>[New] Essential Drone Buyer's Checklist Top Factors to Ponder</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-step-by-step-tips-for-successful-snapchat-branding/"><u>[New] Step-by-Step Tips for Successful Snapchat Branding</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-breaking-into-the-digital-realm-the-wirecast-approach-for-youtube-streamers/"><u>[Updated] Breaking Into the Digital Realm The WireCast Approach for YouTube Streamers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/android-time-lapse-perfection-secrets-revealed/"><u>Android Time-Lapse Perfection Secrets Revealed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/av1-versus-vp9-the-ultimate-codec-showdown/"><u>AV1 Versus VP9 The Ultimate Codec Showdown</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/immersive-tech-triumphs-upcoming-top-5-playstation-vr-games/"><u>Immersive Tech Triumphs Upcoming Top 5 PlayStation VR Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-awesome-iphone-selfie-solutions-spot-8-now/"><u>In 2024, Awesome iPhone Selfie Solutions - Spot #8 Now</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-podcasts-on-google-podcasts/"><u>In 2024, Best Podcasts on Google Podcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-blackout-brilliance-minute-edition/"><u>In 2024, Blackout Brilliance Minute Edition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-click-magic-secrets-to-stunning-polished-pics/"><u>In 2024, Click Magic Secrets to Stunning, Polished Pics</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/making-photographs-larger-without-losing-quality-for-2024/"><u>Making Photographs Larger Without Losing Quality for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-ultimate-rankings-proven-platforms-for-accurate-mp3-track-labeling/"><u>New Ultimate Rankings Proven Platforms for Accurate MP3 Track Labeling</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/restore-accidentally-erased-system-checkpoints-in-windows-11-a-comprehensive-guide/"><u>Restore Accidentally Erased System Checkpoints in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tricks-for-non-engagement-with-edgenuity-video-content/"><u>Tricks for Non-Engagement with Edgenuity Video Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-superior-ipad-air-cases-for-2-completion-in-depth-analysis-and-ratings-by-specialists/"><u>Ultimate List of Superior iPad Air Cases for 2# Completion : In-Depth Analysis and Ratings by Specialists</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-honor-90-lite-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Honor 90 Lite Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

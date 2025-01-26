@@ -1,7 +1,7 @@
 ---
 title: "Tackling Photo App Errors in Windows 11"
-date: 2025-01-02T17:43:29.367Z
-updated: 2025-01-07T17:22:00.587Z
+date: 2025-01-19T16:06:15.341Z
+updated: 2025-01-26T16:02:20.732Z
 tags: 
   - screen-recording
   - ai video
@@ -40,11 +40,11 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 
 **You may also like:** [How to Solve Windows 10 Photos App Crashes Effectively >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix Windows 10 Photos app crashes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 1: Use the Troubleshooter
 
@@ -57,16 +57,8 @@ Here is how to troubleshoot –
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
 
@@ -78,6 +70,10 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
    4. Tap ‘Restore Defaults’ from the bottom-right portion of the screen.
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
@@ -92,7 +88,7 @@ Here is how can you reset it –
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 4: Repair Photos App package
@@ -117,17 +113,21 @@ Here is how to reinstall the Windows 10 Photos App –
 2. Now, visit the ‘Microsoft Store on your computer and find ‘Microsoft Photos.’
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 From the above article, we have concluded that experiencing Windows 10 Photos App crashes is not uncommon. But, resolving them shouldn’t give you nightmares as well. From the above-mentioned process guides, you can fix the Windows 10 Photos App crashes effectively without any hassle. Try following each method until you get the Photos App crash issue fixed, so you can view your photos without any trouble.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -144,20 +144,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-5-simple-yet-powerful-strategies-to-skyrocket-your-youtube-views/"><u>[New] 2024 Approved 5 Simple Yet Powerful Strategies to Skyrocket Your YouTube Views</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-top-12-screen-recorder-no-time-limits/"><u>[New] Top 12 Screen Recorder No Time Limits</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-visual-treat-discover-these-14-text-animation-delights/"><u>[Updated] A Visual Treat Discover These 14 Text Animation Delights</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-straightforward-methods-to-save-insta-story-videos/"><u>[Updated] In 2024, Straightforward Methods to Save Insta Story Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-masterclass-selecting-christian-streaming-platforms/"><u>[Updated] Masterclass Selecting Christian Streaming Platforms</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-sprout-pro-in-depth-review-of-desktop-capturing/"><u>[Updated] Sprout Pro In-Depth Review of Desktop Capturing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/10-groundbreaking-examples-of-the-metaverse-unpacked/"><u>10 Groundbreaking Examples of the Metaverse Unpacked</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-audio-to-art-crafting-music-videos-on-apple-devices/"><u>2024 Approved Audio to Art Crafting Music Videos on Apple Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1724766120166-2024/"><u>2024年注目のベスト! クリスマス期間限定 子ども達向けおすすめアニメ映画ランキング</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/core-6-social-media-tools-for-corporate-engagement/"><u>Core 6 Social Media Tools for Corporate Engagement</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-co-creating-content-brands-team-up-for-youtube-success/"><u>In 2024, Co-Creating Content Brands Team Up for YouTube Success</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-top-8-stop-motion-animation-software-for-mac-and-pc/"><u>New Top 8 Stop Motion Animation Software for Mac and PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-role-of-ai-in-advancing-or-compromising-mental-support-systems-an-analysis/"><u>The Role of AI in Advancing or Compromising Mental Support Systems: An Analysis</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlocking-audacitys-full-potential-for-professional-audio/"><u>Unlocking Audacity's Full Potential for Professional Audio</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/why-videographers-embrace-filmoras-premier-traits/"><u>Why Videographers Embrace Filmora's Premier Traits</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-exclusive-screensaver-pro-for-smartphones/"><u>[New] Exclusive ScreenSaver Pro for Smartphones</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-unpacking-sharex-evaluation-and-replacements/"><u>[Updated] 2024 Approved Unpacking ShareX Evaluation & Replacements</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-step-by-step-guide-to-mastering-magix-video-pro-x/"><u>2024 Approved A Step-by-Step Guide to Mastering Magix Video Pro X</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/22-in-depth-metaverse-illustrations-for-enlightenment-for-2024/"><u>22 In-Depth Metaverse Illustrations for Enlightenment for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ai-driven-high-quality-editing-platform/"><u>AI-Driven High-Quality Editing Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/designing-your-own-fingerprint-on-win11/"><u>Designing Your Own Fingerprint on Win11</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-itel-p40-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Itel P40 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-tecno-spark-20-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-amc-explorer-ghost-drift-cam-analysis/"><u>In 2024, AMC Explorer Ghost Drift Cam Analysis</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-microsoft-print-to-pdf-problems-under-windows-11-operating-system/"><u>Resolving Microsoft Print to PDF Problems Under Windows 11 Operating System</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-complete-insight-into-vivacut-2024-features-and-functionality/"><u>The Complete Insight Into VivaCut 2024 Features & Functionality</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-lava-yuva-3-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Lava Yuva 3 Pro Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-a-million-eyes-engaging-content-strategy/"><u>Unlock a Million Eyes Engaging Content Strategy</u></a></li>
 </ul></div>
 
