@@ -1,7 +1,7 @@
 ---
 title: "How to Add Subtitles to Windows Media Player"
-date: 2025-01-24T16:17:46.565Z
-updated: 2025-01-26T16:37:11.539Z
+date: 2025-02-01T17:32:40.512Z
+updated: 2025-02-07T20:48:18.459Z
 tags: 
   - screen-recording
   - ai video
@@ -36,16 +36,12 @@ The process of adding subtitles to video clips is quite simple; you need to foll
 
 ![ ](https://images.wondershare.com/filmora/article-images/subtitle-wmp-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Once you are done with the first step then simply open your Window Media Player and move to the Library Mode. Now switch to play, then Lyrics, captions and finally you will reach at subtitles. Hit this option and choose “On if Available”. The same option is also available in the Now Playing Mode where you simply need to right click and this option will appear in drop down menu.
 
 ![ ](https://images.wondershare.com/filmora/article-images/subtitle-wmp-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3:** Now, it is time to download DirectVobSub codec and get it installed on your PC. This software is easily available in 32, 64 bit versions so you can easily access any of these. Simply install codec from this source; no need to work on configuration settings. Note that these codecs must be installed from a trusted source so that malware or virus attacks can be avoided.
@@ -54,15 +50,19 @@ The process of adding subtitles to video clips is quite simple; you need to foll
 
 ![ ](https://images.wondershare.com/filmora/article-images/subtitle-wmp-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5:** Within very less time application will get opened with a fresh window on your system. Now move to tabs of different video file types then search for the option that says: “Disable Media Foundation for MP4/MKV and AVI etc”. Further, go to the swap tab and then disable window media foundation.
 
 ![ ](https://images.wondershare.com/filmora/article-images/subtitle-wmp-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As soon as you will finish all these settings, your subtitles will appear perfectly over video and you can enjoy great synchronism for all content. Window Media player tool is capable enough to make effective adjustments for subtitle placements and it will take just a few minutes to complete all these steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Websites for Downloading Subtitles
 
@@ -76,13 +76,13 @@ You will be glad to know that this website offers subtitles in wide range of lan
 
 This website stays one of the top preferences lists of all professionals as well as beginners. It serves with easy to access search function so that users can easily navigate for their desired subtitle file. It also allows users to upload movie subtitle files and they can be rated.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [3\. TVsubtitles.net:](http://www.tvsubtitles.net/tvshow-1568-3.html)
 
 There is no doubt to say that TVSubtitles.com is well known as best site for TV show subtitle download needs. This platform contains largest collection of popular TV show subtitles from every corner of world and they are available in multiple languages. Some of the most commonly downloaded subtitle files use to be in Korean, Russian, German, Greek, French and English language.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [4. Tvsubs.net:](http://www.tvsubs.net/)
 
@@ -91,7 +91,7 @@ One more online platform for downloading wide range of subtitles and the best th
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -109,22 +109,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-integrating-royalty-free-songs-into-video-projects/"><u>[New] 2024 Approved Integrating Royalty-Free Songs Into Video Projects</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-the-ultimate-guide-to-increasing-traffic-with-powerful-social-media-videos/"><u>[New] The Ultimate Guide to Increasing Traffic with Powerful Social Media Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-x100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/accelerating-ppt-video-engagement-rates/"><u>Accelerating PPT Video Engagement Rates</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/balancing-acts-reducing-shakiness-for-better-gopro-vids/"><u>Balancing Acts Reducing Shakiness for Better GoPro Vids</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/envisioning-artistry-a-gopro-hero5-black-journey-to-excellence/"><u>Envisioning Artistry A GoPro Hero5 Black Journey to Excellence</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/faithful-melodies-how-to-install-christian-chimes/"><u>Faithful Melodies How to Install Christian Chimes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/game-on-amds-hd-6950-drivers-now-available-for-w11/"><u>Game On! AMD's HD 6950 Drivers Now Available for W11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-15-synergistic-tasks-for-the-contemporary-audio-aficionado/"><u>In 2024, 15 Synergistic Tasks for the Contemporary Audio Aficionado</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Realme C67 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/live-stream-frontier-deciding-between-obs-and-twitch-space-for-2024/"><u>Live Stream Frontier Deciding Between OBS and Twitch Space for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/navigating-instagrams-reel-downloads-with-ease-and-versatility/"><u>Navigating Instagram's Reel Downloads with Ease and Versatility</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solutions-to-non-functional-desktop-displays/"><u>Solutions to Non-Functional Desktop Displays</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-ipad-slow-motion-techniques-for-filming-and-video-modification/"><u>The Ultimate iPad Slow Motion Techniques for Filming and Video Modification</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-strategy-for-posting-srt-content-socially/"><u>The Ultimate Strategy for Posting SRT Content Socially</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/transform-your-iphone-snaps-into-stunning-hdr-photos/"><u>Transform Your iPhone Snaps Into Stunning HDR Photos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-advanced-conversations-with-chatgpt-on-windows-explore-the-free-local-version-using-gpt-4-all/"><u>Unlock Advanced Conversations with ChatGPT on Windows - Explore the Free, Local Version Using GPT-4 All</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-7-best-nft-generators-to-turn-your-artwork-into-nfts/"><u>[New] 2024 Approved 7 Best NFT Generators to Turn Your Artwork Into NFTs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-drone-buys-the-top-5-pro-picks/"><u>[New] Best Drone Buys - The Top 5 Pro Picks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-exclusive-screensaver-pro-for-smartphones/"><u>[New] In 2024, Exclusive ScreenSaver Pro for Smartphones</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-streamline-your-media-save-vimeo-to-mp4-for-2024/"><u>[New] Streamline Your Media Save Vimeo to MP4 for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/100plus-australian-slang-words-to-help-you-speak-like-a-true-aussie/"><u>100+ Australian Slang Words to Help You Speak Like a True Aussie</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-stories-the-ultimate-youtube-channel-list/"><u>2024 Approved Crafting Stories - The Ultimate YouTube Channel List</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bing-enhanced-the-future-of-artificial-intelligence-powered-searches/"><u>Bing Enhanced: The Future of Artificial Intelligence-Powered Searches</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-color-gradings-secret-weapon-learning-about-luts/"><u>In 2024, Color Grading's Secret Weapon Learning About LUTs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-full-spectrum-analysis-the-complete-logitech-4k-webcam-review/"><u>In 2024, Full Spectrum Analysis The Complete Logitech 4K Webcam Review</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-motorola-moto-g23-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Motorola Moto G23 Phone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/smile-spawning-creativity-in-adobe-meme-making-for-2024/"><u>Smile Spawning Creativity in Adobe Meme-Making for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-the-power-of-visuals-zooms-filter-guide/"><u>Unlocking the Power of Visuals Zoom's Filter Guide</u></a></li>
 </ul></div>
 

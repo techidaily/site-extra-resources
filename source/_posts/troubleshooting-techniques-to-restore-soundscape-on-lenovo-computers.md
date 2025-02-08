@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Techniques to Restore Soundscape on Lenovo Computers
-date: 2025-01-25T16:00:07.772Z
-updated: 2025-01-26T16:11:51.339Z
+date: 2025-02-04T04:14:07.081Z
+updated: 2025-02-08T05:04:31.340Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
  If you’re having audio issues on your**PS4** , check[](https://tools.techidaily.com/drivereasy/download/) **[here](https://tools.techidaily.com/drivereasy/download/)**  .  
  If you’re on Xbox, check[**here**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -34,13 +30,13 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 4. **[Restart Windows Audio Services](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your computer
 
  Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run the Windows audio troubleshooter
 
@@ -56,6 +52,10 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 **2)** Click**Playing Audio** , then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-323.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Follow the on-screen instructions to troubleshoot your problem.
 
@@ -93,19 +93,11 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click the **Update button** next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -119,17 +111,21 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-324.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click**Windows Audio** , then select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Relaunch your game to test your issue.
 
  This should allow you to hear Apex Legends and everything else. If your issue still exists, don’t fret. There is still one more fix to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Apex Legends
 
@@ -140,6 +136,10 @@ OR
 **2)** Click**My Game Library** , right-click**Apex Legends** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-327.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** After your game is uninstalled, restart your computer.
 
@@ -169,22 +169,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/harting-the-course-to-youtube-success-top-5-strategies-inside-for-2024/"><u>[New] Charting the Course to YouTube Success – Top 5 Strategies Inside for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-craftsmanship-in-photos-and-videos-the-ultimate-8-mobile-enhancement-tools/"><u>[New] Craftsmanship in Photos & Videos The Ultimate 8 Mobile Enhancement Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-video-edits-leveraging-kinemasters-techniques/"><u>[New] Innovative Video Edits Leveraging Kinemaster's Techniques</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-guide-to-mastering-quantum-hdr/"><u>[New] Step by Step Guide to Mastering Quantum HDR</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-seamlessly-streaming-social-media-vids-via-television/"><u>[Updated] 2024 Approved Seamlessly Streaming Social Media Vids via Television</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-exploring-profit-sharing-in-youtube-short-creation/"><u>[Updated] In 2024, Exploring Profit Sharing in YouTube Short Creation</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/auditory-mastery-selecting-background-music-for-vids-for-2024/"><u>Auditory Mastery Selecting Background Music for Vids for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/easy-steps-activating-or-deactivating-the-xbox-game-bar-in-windows-11/"><u>Easy Steps: Activating or Deactivating the Xbox Game Bar in Windows 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-iphone-photo-marker-selection-unveiled/"><u>In 2024, Best iPhone Photo Marker Selection Unveiled</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-xiaomi-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Xiaomi Is Unlocked</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-mobile-image-personalization-iphoneandroids-best-10-apps/"><u>In 2024, Mastering Mobile Image Personalization IPhone/Android's Best 10 Apps</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/key-strategies-for-success-setting-up-a-robust-crypto-exchange-with-guidance-from-yl-software-experts/"><u>Key Strategies for Success: Setting Up a Robust Crypto Exchange with Guidance From YL Software Experts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-the-best-lipo-cells-for-quality-flight-time/"><u>Navigating the Best LiPo Cells for Quality Flight Time</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/spectral-vision-next-gen-drone-review/"><u>Spectral Vision Next-Gen Drone Review</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/text-transformation-tricks-for-media/"><u>Text Transformation Tricks for Media</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-2024-photo-editors-monitors-ultimate-choices-reviewed/"><u>Top 2024 Photo Editors' Monitors Ultimate Choices Reviewed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-6-android-apps-for-immersive-music-videos/"><u>Top 6 Android Apps for Immersive Music Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-professional-tips-for-high-quality-video-disc-production-on-mac/"><u>[New] 2024 Approved Professional Tips for High-Quality Video Disc Production on Mac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-adobe-photos-sway-decrease-a-crucial-feature/"><u>[New] Adobe Photos' Sway Decrease - A Crucial Feature?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-mastering-360-fb-live-broadcasts-for-2024/"><u>[New] Mastering 360 FB Live Broadcasts for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-swinging-sparrow-suites/"><u>[Updated] Swinging Sparrow Suites</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-conquering-low-light-with-iphones-advanced-hdr-techniques/"><u>2024 Approved Conquering Low Light with iPhone’s Advanced HDR Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-words-use-at-zero-expense/"><u>Capture Words, Use at Zero Expense</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/high-fidelity-feat-hero5-black-vs-hero4-silver-edition-battle/"><u>High-Fidelity Feat Hero5 Black vs Hero4 Silver Edition Battle</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-add-videos-to-youtube-playlist-in-2024/"><u>How to Add Videos to YouTube Playlist, In 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-av1-vs-vp9-a-detailed-comparison/"><u>In 2024, AV1 Vs. VP9 A Detailed Comparison</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-beyond-the-screen-insightful-metaverse-models-summarized/"><u>In 2024, Beyond The Screen Insightful Metaverse Models Summarized</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-superior-recommendations-elite-ios-audio-makers/"><u>In 2024, Superior Recommendations Elite iOS Audio Makers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-nubia-red-magic-8s-proplus-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Nubia Red Magic 8S Pro+ Phone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-canons-timelapse-a-quick-guide/"><u>Mastering Canon's Timelapse A Quick Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-into-new-realms-with-vr-technology/"><u>Step Into New Realms with VR Technology</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/reakdown-of-payment-percentages-in-short-video-royalties/"><u>The Breakdown of Payment Percentages in Short Video Royalties</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210609471-9781911163886-the-healing-home/"><u>The Healing Home | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-error-libgdkwin32-20-dll-component-absent-on-windows-systems/"><u>Troubleshooting the Error: Libgdk_win32-2.0 DLL Component Absent on Windows Systems</u></a></li>
 </ul></div>
 

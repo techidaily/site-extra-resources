@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Advanced Dynamic Typographic Options"
-date: 2025-01-23T16:01:35.119Z
-updated: 2025-01-26T16:45:39.460Z
+date: 2025-02-06T16:10:13.187Z
+updated: 2025-02-08T05:34:15.405Z
 tags: 
   - screen-recording
   - ai video
@@ -29,7 +29,7 @@ Glitch text effect is a trendy effect that gets the viewers’ attention immedia
 ![glitch text effect toolkit ae](https://images.wondershare.com/filmora/article-images/2022/07/glitch-text-effect-toolkit-ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Liquid Text Animation
@@ -38,6 +38,10 @@ You get 110 animated elements that you can apply to the text in your video. The 
 
 ![liquid text animation effect ae](https://images.wondershare.com/filmora/article-images/2022/07/liquid-text-animation-effect-ae.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Dynamic Text Animations
 
 There is always a high demand for dynamic text animations in After Effects. This pack focuses on three types of animations namely bounce, kinetic and overshoot. You get 50 presets, 20 title scenes as well as 10 different typography scenes. You can animate texts, titles, as well as characters. You can even adjust the properties to match your video content as per your requirements. In fact, there are advanced controls available for further customization.
@@ -45,7 +49,7 @@ There is always a high demand for dynamic text animations in After Effects. This
 ![dynamic text animations ae](https://images.wondershare.com/filmora/article-images/2022/07/dynamic-text-animations-ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Squash & Stretch Preset
@@ -60,14 +64,6 @@ In this pack, you will find unique text effects, and you can animate text with k
 
 ![counterpro preset ae](https://images.wondershare.com/filmora/article-images/2022/07/counterpro-preset-ae.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Text Library
 
 If there is a must-have preset you should manage to have in After Effects is Text Library. There are as many as 1000 text presets available and this will serve all your requirements completely. Starting from animations and effects to transitions, everything is available in different categories for you to choose from and apply to your text. The pack keeps on updating to include trendy and funky text effects so that you do not miss out anything.
@@ -75,7 +71,7 @@ If there is a must-have preset you should manage to have in After Effects is Tex
 ![text library effect ae](https://images.wondershare.com/filmora/article-images/2022/07/text-library-effect-ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Kinetic Text Animation
@@ -85,7 +81,7 @@ Kinetic text effect is a part of dynamic text effects and there is a high demand
 ![kinetic text aniamtion ae](https://images.wondershare.com/filmora/article-images/2022/07/kinetic-text-aniamtion-ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Text Animation Lower Third
@@ -93,6 +89,10 @@ Kinetic text effect is a part of dynamic text effects and there is a high demand
 You get eleven styles of elements in the pack, and you can customize the designs to get into any size as per your requirements. You get the elements in HD and Full HD resolution, and you can use them in the intro or outro of the video to show text and title credits. You can also use them to show quotes or keywords. Most of them have highlighted background, and technically, they are referred to as lower thirds.
 
 ![text animation lower thirds ae](https://images.wondershare.com/filmora/article-images/2022/07/text-animation-lower-thirds-ae.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -128,22 +128,22 @@ As the saying goes, the more the merrier and the more presets you have, the more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-building-panoramic-pictures-through-image-fusion/"><u>[New] Building Panoramic Pictures Through Image Fusion</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-exclusive-access-to-facebook-beats/"><u>[New] Exclusive Access to Facebook Beats</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-cloud-storage-expenses-made-simple-comparison-guide/"><u>[Updated] Cloud Storage Expenses Made Simple Comparison Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-easy-methods-flipping-film-frames-using-vlc/"><u>[Updated] Easy Methods Flipping Film Frames Using VLC</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-unveiling-secrets-for-instagram-chat-success/"><u>[Updated] In 2024, Unveiling Secrets for Instagram Chat Success</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-perfect-discord-streams-tips-and-tricks/"><u>[Updated] Perfect Discord Streams Tips & Tricks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/9-uncharted-upscales-for-vivid-visuals-for-2024/"><u>9 Uncharted Upscales for Vivid Visuals for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cam-crossover-showdown-sj6-power-meets-yis-four-k-kickstart-for-2024/"><u>Cam Crossover Showdown SJ6 Power Meets Yi’s Four-K Kickstart for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/connectivity-and-convenience-integrating-zoom-into-your-xbox-experience-for-2024/"><u>Connectivity & Convenience Integrating Zoom Into Your Xbox Experience for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cutting-edge-computing-adopting-windows-11/"><u>Cutting-Edge Computing Adopting Windows 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elite-mobile-filming-tech-for-iphones/"><u>Elite Mobile Filming Tech for iPhones</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-sm-bus-controller-software-compatible-with-windows-111087-full-download/"><u>Free SM Bus Controller Software: Compatible with Windows 11/10/8/7 – Full Download</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/illuminating-seamless-transitions-in-song-production-crossfade/"><u>Illuminating Seamless Transitions in Song Production (Crossfade)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-blades-new-vision-in-ultra-high-definition-clarity/"><u>In 2024, Blade's New Vision in Ultra-High Definition Clarity</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-video-multitasking-in-chromes-pip-mode-on-all-devices/"><u>Navigating Video Multitasking in Chrome’s PIP Mode on All Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revitalize-your-samsung-soundbar-with-these-easy-reset-tips/"><u>Revitalize Your Samsung Soundbar with These Easy Reset Tips</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/upside-down-visuals-investigating-insta-video-anomalies-for-2024/"><u>Upside Down Visuals Investigating Insta Video Anomalies for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-choosing-a-gimbal-for-smooth-drone-photos-and-videos/"><u>[New] Choosing a Gimbal for Smooth Drone Photos and Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-elite-5-digital-title-specialists/"><u>[New] Exploring the Elite 5 Digital Title Specialists</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-understanding-the-dynamics-of-instagram-unfollows/"><u>[New] In 2024, Understanding the Dynamics of Instagram Unfollows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-seamless-image-transfers-across-operating-systems/"><u>[Updated] Crafting Seamless Image Transfers Across Operating Systems</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-optimize-video-playback-with-snapchat-tricks/"><u>[Updated] In 2024, Optimize Video Playback with Snapchat Tricks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/covert-measures-for-efficient-home-based-learning/"><u>Covert Measures for Efficient Home-Based Learning</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/design-memes-effortlessly-kapwing-pro/"><u>Design Memes Effortlessly - Kapwing Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/futureproofing-your-data-with-budgeted-cloud-choices/"><u>Futureproofing Your Data with Budgeted Cloud Choices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-infinix-note-30-pro-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Infinix Note 30 Pro Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oneplus-ace-3-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track OnePlus Ace 3 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f15-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Samsung Galaxy F15 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ipad-pro-showdown-analyzing-performance-and-portability-of-m1-vs-m2-in-the-new-11-inch-and-large-129-inch-versions-tech-analysis/"><u>IPad Pro Showdown: Analyzing Performance and Portability of M1 vs M2 in the New 11-Inch and ^LARGE^ 12.9-Inch Versions | Tech Analysis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lg-vr-headgear-review-complete-immersion-unlocked/"><u>LG VR Headgear Review Complete Immersion Unlocked</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-social-media-engagement-the-role-of-igtv-hashtags/"><u>Mastering Social Media Engagement The Role of IGTV Hashtags</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-best-monitors-for-xbox-series-x/"><u>The Best Monitors for Xbox Series X</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-elite-collection-top-10-sites-for-professional-icons/"><u>The Elite Collection Top 10 Sites for Professional Icons</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-the-secrets-maximizing-your-video-content-on-zoom-and-youtube-live/"><u>Unlock the Secrets Maximizing Your Video Content on Zoom & YouTube Live</u></a></li>
 </ul></div>
 

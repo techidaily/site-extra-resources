@@ -1,7 +1,7 @@
 ---
 title: "\"From Timeless Tales in Tone-On-Tone to Dynamic Digital Narratives\""
-date: 2025-01-23T16:08:44.130Z
-updated: 2025-01-26T16:01:57.091Z
+date: 2025-02-06T08:12:50.484Z
+updated: 2025-02-08T06:18:05.821Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,10 @@ Therefore, it is highly recommended to digitize photos to make them lasting. In 
 * [Part 1: How to Digitize Your Memorable Old Photos](#part1)
 * [Part 2: How to Convert Old Photos into a Video with Ease?](#part2)
 * [Part 3: More Editing Tips for Creating Memorable Videos](#part3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Smart Ways to Digitize Your Memorable Old Photos
 
@@ -87,7 +91,7 @@ To start with, you can just launch Filmora on your system and import your photos
 ![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2\. Create a timeline for your photos
@@ -102,6 +106,10 @@ Just above the timeline, you can find all kinds of tools to edit your video. For
 
 ![Edit Digitized Photos ](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
 
 #### 4\. Add effects, transitions, audio, and more
@@ -109,10 +117,6 @@ The edit option will present tons of additional features that you can implement 
 As stated above, you can find a wide range of video editing options to explore in Fimora. On top of the interface, you can switch between audio, transition, effects, titles, and other options. You can just go to any feature here (like effects) to apply it to the video.
 
 ![Add Effects to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
 
@@ -122,10 +126,6 @@ Besides that, you can also add a track to the video by visiting the “Audio” 
 
 ![Add Audio to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 5\. Export your video
 
 That’s it! After making all the changes, you can preview your video on the right side. If you are satisfied with the results, then click on the “Export” button from the top. This will open a dedicated window, letting you select a preferred format to export your file. You can also select a resolution for your video to adjust its size as well.
@@ -133,13 +133,13 @@ That’s it! After making all the changes, you can preview your video on the rig
 ![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Find more fancy ways to make the best photo and video slideshow with Filmora!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Editing Tips for Creating Memorable Videos
@@ -189,20 +189,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-best-overlay-strategies-for-videographers/"><u>[New] 2024 Approved Best Overlay Strategies for Videographers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-a-list-hd-screen-recorders-for-optimal-performance-for-2024/"><u>[New] A-List HD Screen Recorders for Optimal Performance for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-get-motivated-by-the-20-of-the-best-background-music-for-exercise/"><u>[Updated] Get Motivated by the 20 of the Best Background Music for Exercise</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unpacking-the-multifaceted-nature-of-wirecast-tools/"><u>2024 Approved Unpacking the Multifaceted Nature of WireCast Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beware-of-bogus-bots-the-9-imitation-threats-mimicking-chatgpt-and-endangering-your-digital-security/"><u>Beware of Bogus Bots: The 9 Imitation Threats Mimicking ChatGPT and Endangering Your Digital Security</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/choreographing-a-memorable-tiktok-fade-out-for-2024/"><u>Choreographing a Memorable TikTok Fade-Out for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/craft-engaging-titlescaptions-with-microsofts-photos-app-win-11-for-2024/"><u>Craft Engaging Titles/Captions with Microsoft's Photos App (Win 11) for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cutting-edge-image-capture-understanding-auto-and-smart-hdr-tech/"><u>Cutting-Edge Image Capture Understanding Auto and Smart HDR Tech</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Vivo V30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-your-electronics-knowledge-insights-from-toms-hardware-hub/"><u>Master Your Electronics Knowledge: Insights From Tom's Hardware Hub</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/nextgen-codec-battle-is-av1-trumping-vp9-quality/"><u>NextGen Codec Battle Is AV1 Trumping VP9 Quality?</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-and-repairing-renderer-failures-in-overwatch-2/"><u>Preventing and Repairing Renderer Failures in Overwatch 2</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-uncomplicated-route-for-digitally-crafted-assets/"><u>The Uncomplicated Route for Digitally-Crafted Assets</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-10-open-source-os-friendly-videography-software/"><u>Top 10 Open-Source OS-Friendly Videography Software</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/visual-perfection-with-obs-studio-and-its-comprehensive-lut-support/"><u>Visual Perfection with OBS Studio and Its Comprehensive LUT Support</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-boost-image-size-retain-resolution/"><u>[New] Boost Image Size, Retain Resolution</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-craftsmanship-in-podcast-visuals-the-essentials/"><u>[Updated] 2024 Approved Craftsmanship in Podcast Visuals The Essentials</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-bringing-rhythm-to-slides-including-tunes-in-ppt/"><u>[Updated] Bringing Rhythm to Slides Including Tunes in PPT</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-chip-synergy-flawless-video-editing-redefined-by-m1s-efficiency/"><u>[Updated] Chip Synergy Flawless Video Editing Redefined by M1's Efficiency</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-future-proof-selection-top-cloud-services-reviewed/"><u>2024 Approved A Future-Proof Selection Top Cloud Services Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-action-cameras-with-image-stabilization/"><u>2024 Approved Best Action Cameras with Image Stabilization</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-crafting-content-that-captivates-a-guide-to-facebook-reels/"><u>2024 Approved Crafting Content that Captivates A Guide to Facebook Reels</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-oppo-a1-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Oppo A1 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-use-the-ringsilent-switch-mastering-alternative-methods-for-iphone-sound-control/"><u>Can't Use the Ring/Silent Switch? Mastering Alternative Methods for iPhone Sound Control</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/efficiently-obtain-youtube-srt-files-in-three-methods/"><u>Efficiently Obtain YouTube SRT Files in Three Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/empowering-your-smartphone-with-chatgpt-techniques/"><u>Empowering Your Smartphone with ChatGPT Techniques</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-note-12-proplus-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi Note 12 Pro+ 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-selecting-your-perfect-21-hdmi-monitor-a-buyers-guide/"><u>In 2024, Selecting Your Perfect 2.1 HDMI Monitor - A Buyer's Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/joining-the-metaverse-comedy-club-top-20plus-memes-and-techniques/"><u>Joining the Metaverse Comedy Club Top 20+ Memes & Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/netflix-troubleshooting-guide-for-xbox-gamers-now-functional/"><u>Netflix Troubleshooting Guide for Xbox Gamers – Now Functional</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-from-chrome-os-to-linux-a-comprehensive-installation-guide/"><u>New 2024 Approved From Chrome OS to Linux A Comprehensive Installation Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/skys-the-limit-revel-in-20-top-free-cloud-service-plans-up-to-1tb/"><u>Sky's the Limit Revel in 20 Top Free Cloud Service Plans (Up To 1TB)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-potential-of-claude-3/"><u>Unlock the Potential of Claude 3</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/zooming-in-an-intensive-guide-to-youtube-live-stream-success/"><u>Zooming In An Intensive Guide to YouTube Live Stream Success</u></a></li>
 </ul></div>
 

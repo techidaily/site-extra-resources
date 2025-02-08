@@ -1,7 +1,7 @@
 ---
 title: "\"Harmonize Visual & Auditory Elements  Adding Filters & Sound to Windows Photos App\""
-date: 2025-01-19T16:45:13.296Z
-updated: 2025-01-26T16:05:23.804Z
+date: 2025-02-03T20:06:05.962Z
+updated: 2025-02-08T07:43:54.190Z
 tags: 
   - screen-recording
   - ai video
@@ -45,20 +45,20 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
 
 **Step 4**: Click Filters at tool bar. Microsoft Photos has 14 filters you can use, including classic, adventure, sepia and so on.
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -74,18 +74,18 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
-**Step 5**: Hit the ‘Done’ button.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Step 5**: Hit the ‘Done’ button.
 
 ## Conclusion
 
@@ -94,7 +94,7 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -112,22 +112,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-best-15-luts-for-enhanced-gopro-footage-quality/"><u>[New] Best 15 LUTs for Enhanced GoPro Footage Quality</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-engineering-a-touching-tiktok-conclusion/"><u>[New] In 2024, Engineering a Touching TikTok Conclusion</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-legal-framework-the-fine-print-for-facebook-video-postings/"><u>[New] In 2024, Legal Framework The Fine Print for Facebook Video Postings</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-leveraging-content-marketing-for-more-views-and-subscribers-for-2024/"><u>[New] Leveraging Content Marketing for More Views and Subscribers for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-the-evolution-continues-iphone-xs-photographic-advancements-for-2024/"><u>[New] The Evolution Continues IPhone X's Photographic Advancements for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-a-beginners-guide-to-quantum-hdr-systems/"><u>2024 Approved A Beginner’s Guide to Quantum HDR Systems</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1728491147212-windows-11-nvme-ssd/"><u>修正ガイド：Windows 11 で NVMe SSD の検出不具合を解消します</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/affinity-photo-demystified-for-2024/"><u>Affinity Photo Demystified for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/aurora-vs-standard-hd-is-the-premium-worth-it-in-2024/"><u>Aurora vs Standard HD Is the Premium Worth It, In 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-smile-generator-for-memes/"><u>Best Smile Generator for Memes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discreet-detail-suppression-in-image-editing/"><u>Discreet Detail Suppression in Image Editing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/experience-next-level-media-craftsmanship-install-xp-maker/"><u>Experience Next-Level Media Craftsmanship Install XP Maker</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-converters-top-8-list-seamless-sub-and-srt-format-switching/"><u>In 2024, Converters' Top 8 List Seamless Sub and SRT Format Switching</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-tecno-camon-20-premier-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Tecno Camon 20 Premier 5G Phones</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-logitech-k400-plus-keyboard-professional-drivers-and-utilities-guide/"><u>Installing Logitech K400 Plus Keyboard: Professional Drivers & Utilities Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/maximize-visual-impact-with-free-digital-lut-resources/"><u>Maximize Visual Impact with FREE Digital LUT Resources</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unlock-your-windows-scanner-a-practical-approach/"><u>Unlock Your Windows Scanner: A Practical Approach</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafted-perfection-transforming-pics-into-words-with-apps/"><u>[New] Crafted Perfection Transforming Pics Into Words with Apps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-effortless-integration-of-xbox-and-facebook-streams/"><u>[New] Effortless Integration of Xbox and Facebook Streams</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-dynamic-and-diverse-10-essential-text-presets-for-adobe-ae-for-2024/"><u>[Updated] Dynamic and Diverse 10 Essential Text Presets for Adobe AE for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-comprehensive-guide-to-sound-in-powerpoint-presentations/"><u>[Updated] In 2024, Comprehensive Guide to Sound in PowerPoint Presentations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-elite-10-customizations-elevating-terria/"><u>[Updated] In 2024, Elite 10 Customizations Elevating Terria</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-journey-to-unlicensed-beauty-open-source-portfolits/"><u>[Updated] Journey to Unlicensed Beauty Open-Source Portfolits</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-top-30-for-timeless-telephone-chimes/"><u>[Updated] The Top 30 for Timeless Telephone Chimes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/convert-srt-to-subc-innovative-3-ways-uncovered-for-2024/"><u>Convert SRT to SUBC Innovative 3 Ways Uncovered for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/drift-innocations-ghost-s-action-camera-review/"><u>Drift Innocations Ghost-S Action Camera Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-features-and-uses-of-the-hp-software-and-solutions-package-downloader/"><u>Exploring the Features and Uses of the HP Software & Solutions Package Downloader</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-audience-hooks-writing-captivating-podcast-descriptions/"><u>In 2024, Audience Hooks Writing Captivating Podcast Descriptions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-beyond-reality-vr-movie-magic/"><u>In 2024, Beyond Reality VR Movie Magic</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-instagrams-untapped-potential/"><u>In 2024, Mastering Instagram's Untapped Potential</u></a></li>
+<li><a href="https://win-dash.techidaily.com/intel-nvme-driver-setup-download-now-for-swift-hassle-free-experience/"><u>Intel NVME Driver Setup - Download Now for Swift, Hassle-Free Experience!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-images-storage-centers/"><u>Prime Images Storage Centers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-transforming-videos-into-mov-format/"><u>Step-by-Step Guide: Transforming Videos Into MOV Format</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essential-guide-to-crafting-engaging-haul-videos/"><u>The Essential Guide to Crafting Engaging Haul Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-top-strategies-for-box-enthusiasts/"><u>The Top Strategies for Box Enthusiasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-camera-guide-2024s-premium-choices/"><u>Ultimate Camera Guide 2024'S Premium Choices</u></a></li>
 </ul></div>
 
