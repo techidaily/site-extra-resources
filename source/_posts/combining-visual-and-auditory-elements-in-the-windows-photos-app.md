@@ -1,7 +1,7 @@
 ---
 title: "Combining Visual and Auditory Elements in the Windows Photos App"
-date: 2025-02-03T10:06:12.284Z
-updated: 2025-02-07T22:02:17.716Z
+date: 2025-02-15T23:49:43.794Z
+updated: 2025-02-17T17:06:09.440Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 
 **You may also like:** [How to Trim Video in Windows 10 Photos Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to add filters on Windows 10 Photos App
 
 If you have got Windows 10 Photos app and wish to add filters, though, it is by default a photo viewing app, its editing features are worth to mention. This step by step guide is your perfect savior in that case.
@@ -45,20 +49,20 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
 
 **Step 4**: Click Filters at tool bar. Microsoft Photos has 14 filters you can use, including classic, adventure, sepia and so on.
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -73,22 +77,14 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5**: Hit the ‘Done’ button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -96,6 +92,10 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -112,16 +112,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-achieve-clean-canvases-the-picart-backdrop-removal-art/"><u>[Updated] Achieve Clean Canvases The PicArt Backdrop Removal Art</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-depth-3d-text-designs-in-illustrator/"><u>2024 Approved Crafting Depth 3D Text Designs in Illustrator</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-bang-for-your-buck-laptop-with-stunning-screen-quality-revealed-by-zdnet/"><u>Best Bang for Your Buck Laptop with Stunning Screen Quality Revealed by ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/extensive-review-gopro-hero4-slr4-black-edition/"><u>Extensive Review GoPro Hero4 SLR4 Black Edition</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/giggle-geniuses-selecting-superior-memery-apps/"><u>Giggle Geniuses Selecting Superior Memery Apps</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-oppo-a1-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Oppo A1 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/matching-tunes-to-themes-in-film-clips-for-2024/"><u>Matching Tunes to Themes in Film Clips for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/optimized-video-transformation-on-macios-the-8-list-for-2024/"><u>Optimized Video Transformation on Mac/iOS The #8 List for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-overcoming-launch-errors-in-modern-warfare-2-for-players/"><u>Resolved: Overcoming Launch Errors in Modern Warfare 2 for Players</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/secrets-of-seamless-video-editing-using-windows-11-tools/"><u>Secrets of Seamless Video Editing Using Windows 11 Tools</u></a></li>
-<li><a href="https://techidaily.com/voice-recorder-windows-10-how-to-use-it-and-fix-issues-with-it/"><u>Voice Recorder Windows 10 - How to Use It & Fix Issues with It?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-enhancing-youtube-music-soundscape/"><u>[New] Enhancing YouTube Music Soundscape</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-gear-up-with-smart-techniques-elevating-your-ps4-gameplay-capture-abilities/"><u>[Updated] 2024 Approved Gear Up with Smart Techniques Elevating Your PS4 Gameplay Capture Abilities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-captivating-book-video-tours/"><u>[Updated] Captivating Book Video Tours</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-cinema-for-all-a-comparative-look-at-vimeo-and-youtube/"><u>[Updated] Cinema for All? A Comparative Look at Vimeo & YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-friendly-vr-best-multiplayer-metaverse-delights/"><u>[Updated] Friendly VR Best Multiplayer Metaverse Delights</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-expert-guide-to-free-pc-software-for-capturing-tv/"><u>[Updated] In 2024, Expert Guide to Free PC Software for Capturing TV</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-chill-vibes-at-the-beijing-winter-olympics-2022/"><u>2024 Approved Chill Vibes at the Beijing Winter Olympics 2022</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-creativity-in-photo-deformation/"><u>2024 Approved Crafting Creativity in Photo Deformation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-multitasking-media-expertise-in-using-picture-in-picture/"><u>2024 Approved Navigating Multitasking Media Expertise in Using Picture-in-Picture</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/4k-resolution-unveiled-in-chroma-focused-lenses-for-2024/"><u>4K Resolution Unveiled in Chroma-Focused Lenses for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-infinix-zero-30-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Infinix Zero 30 5G without App | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-comprehensive-guide-to-previewing-facebooks-hidden-activities-for-2024/"><u>A Comprehensive Guide to Previewing Facebook's Hidden Activities for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/becoming-an-srt-creation-virtuoso-a-complete-manual-for-2024/"><u>Becoming an SRT Creation Virtuoso A Complete Manual for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-accelerating-vimeo-content-streams/"><u>In 2024, Accelerating Vimeo Content Streams</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-iphone-15-pro-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The iPhone 15 Pro SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-mobile-video-viewing-top-10-hd-players-on-android/"><u>Mastering Mobile Video Viewing Top 10 HD Players on Android</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-top-10-drones-filmmakings-visual-frontiers/"><u>Prime Top 10 Drones Filmmaking's Visual Frontiers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/scrutinizing-hdr-performance-in-luminance-tech/"><u>Scrutinizing HDR Performance in Luminance Tech</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-art-of-audio-conjunction-preparing-sounds-for-video-production-for-2024/"><u>Updated The Art of Audio Conjunction Preparing Sounds for Video Production for 2024</u></a></li>
 </ul></div>
 

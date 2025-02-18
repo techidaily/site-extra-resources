@@ -1,7 +1,7 @@
 ---
 title: Distinguishing Between an iPad and iPad Air – A Comprehensive Guide
-date: 2025-01-31T20:42:20.536Z
-updated: 2025-02-08T02:06:21.545Z
+date: 2025-02-17T03:05:16.594Z
+updated: 2025-02-17T16:46:56.094Z
 categories:
   - BestProducts
 description: This Article Describes Distinguishing Between an iPad and iPad Air – A Comprehensive Guide
@@ -36,12 +36,16 @@ Lifewire / Kelsey Simon
 
 2.7
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## inXile Entertainment Torment: Tides of Numenera
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
@@ -62,15 +66,15 @@ Lifewire / Kelsey Simon
 
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Story: Heavy-handed writing to the exclusion of all else**
 
  Torment: Tides of Numenera is a third-person role-playing game focused strongly on story―and oh, there is so much story. The game begins with the character you’ll play as waking up in a panic. Someone will narrate everything that’s going on to you, including what the area around you looks like. After a short introduction, you’ll be prompted to pick what you want to play as: Glaive, Jack, or Nano. These will roughly translate into someone more physical, someone mixed physical and magical, and a mage, but of course, set in this strange half-fantastical, half-science-fiction world where everything is new and unique.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/b1_d8ikgtdkSH_Y0F510q_BXpK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-03-d99b43959fa74b31a15f336852f14d75.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -79,10 +83,6 @@ Lifewire / Kelsey Simon
  I did continue forward, even though I was already disinterested, hoping the game would become more gripping. After the memory room, you’ll wake to another platform where a being tells you you’ve suffered a great injury and they are in your mind. He tries to explain who you are but before he gets too far, you’ll be attacked by something called the Sorrow. Eventually, you’ll wake in the real world, enter the game’s main city, and be able to talk to the wealth of characters living there. You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Gameplay: Dialogue prompts and effort**
 
@@ -104,6 +104,10 @@ Lifewire / Kelsey Simon
 
  The one thing the game does have to offer is a rich and unique world that combines elements of fantasy and science fiction in an interesting way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Graphics: Outdated and simplistic**
 
  Tides of Numenera was created in 2017―however, you wouldn’t know this if you jumped into the game and made a guess based upon the[graphics](https://www.lifewire.com/optimizing-video-game-frame-rates-811784) . The graphics look more like they’re stuck in the early 2000s, with blocky, almost pixelated characters. There is some forgiveness to be had because the game isn’t focused on the visuals―it’s more about the words and the story. But there is a limit to how forgiving one can be considering the game isn’t that old.
@@ -112,11 +116,11 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/DfXjCwwtXMVBL58JZmix5sR3vBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-04-7f9c8617b9cd41738ad2ac02abf0aec9.jpg)
 
- Lifewire / Kelsey Simon
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / Kelsey Simon
 
 ## **Price: Only worth it if you’re keen on the story**
 
@@ -125,10 +129,6 @@ Lifewire / Kelsey Simon
  That said, if role-playing games with a text-heavy focus are of interest to you, then the game does have a lot to offer for the cost. The world of Numenera is vast, and considering all the prompts that alter the story, the game also has a lot of replayability. While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else, and for those players, the $50 cost will be worth it.
 
  While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Competition: Other story focused RPGs**
 
@@ -165,19 +165,20 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-revolutionize-your-movie-experience-with-free-apps/"><u>[New] 2024 Approved Revolutionize Your Movie Experience with Free Apps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-get-your-hand-on-the-latest-50-youtube-promo-banners/"><u>[New] Get Your Hand on the Latest 50 YouTube Promo Banners!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oppo-a18-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-adding-images-to-instagram-made-simple/"><u>2024 Approved Adding Images to Instagram Made Simple</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/androids-secret-weapon-for-stunning-time-lagged-footage-for-2024/"><u>Android's Secret Weapon for Stunning Time-Lagged Footage for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/character-development-through-authentic-dialogue-for-2024/"><u>Character Development Through Authentic Dialogue for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehensive-breakdown-of-theta-s-specifications/"><u>Comprehensive Breakdown of Theta S Specifications</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-motorola-g24-power-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Motorola G24 Power</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-asus-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Asus</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/soundscape-shifting-made-easy-unveiling-the-best-free-vocal-transformers/"><u>Soundscape Shifting Made Easy Unveiling the Best Free Vocal Transformers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-difference-between-srgb-and-rgb/"><u>The Difference Between Srgb & Rgb</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-5-ios-podcast-apps-your-ultimate-listing/"><u>Top 5 iOS Podcast Apps Your Ultimate Listing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/user-friendly-reviews-of-the-ultegra-universal-magnetic-kickstand-compact-portable-and-ideal-for-on-the-go-cyclists/"><u>User-Friendly Reviews of the Ultegra Universal Magnetic Kickstand: Compact, Portable & Ideal for On-the-Go Cyclists</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-cross-platform-strategies-for-maximum-instagram-exposure-for-2024/"><u>[New] Cross-Platform Strategies for Maximum Instagram Exposure for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tackling-iphone-lens-failures-with-ease/"><u>[New] Tackling iPhone Lens Failures with Ease</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-12-leading-free-video-viewing-apps-for-loving-watchers-worldwide/"><u>[Updated] 12 Leading Free Video Viewing Apps for Loving Watchers Worldwide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-elite-battle-a-compilation-of-superior-fps-games/"><u>[Updated] Elite Battle A Compilation of Superior FPS Games</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-most-compelling-5-ios-podcast-solutions-for-2024/"><u>[Updated] Most Compelling 5 iOS Podcast Solutions for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-the-skyline-drone-cinematography-tips/"><u>2024 Approved Capturing the Skyline Drone Cinematography Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-mac-users-choice-why-screenflow-dominates-the-market/"><u>2024 Approved Mac Users' Choice Why ScreenFlow Dominates the Market</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/all-encompassing-look-at-the-ricoh-theta-s-design-for-2024/"><u>All-Encompassing Look at the Ricoh Theta S Design for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dial-up-dominance-a-guide-to-visual-podcast-identity/"><u>Dial-Up Dominance A Guide to Visual Podcast Identity</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Tecno Pova 5? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mobile-virtual-realms-the-best-10-headsets-ranking/"><u>Mobile Virtual Realms The Best 10 Headsets Ranking</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/optimal-drone-options-for-gopro-hd-imaging-for-2024/"><u>Optimal Drone Options for GoPro HD Imaging for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-selection-8-best-free-mobile-mp3-downloaders/"><u>Prime Selection - 8 Best Free Mobile MP3 Downloaders</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/selecting-your-perfect-alexa-companion-a-comparison-of-echo-pop-and-echo-dot/"><u>Selecting Your Perfect Alexa Companion: A Comparison of Echo Pop and Echo Dot</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/total-cost-breakdown-from-zero-to-full-broadcast/"><u>Total Cost Breakdown From Zero to Full Broadcast</u></a></li>
 </ul></div>
 

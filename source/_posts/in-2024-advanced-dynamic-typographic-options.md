@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Advanced Dynamic Typographic Options"
-date: 2025-02-06T16:10:13.187Z
-updated: 2025-02-08T05:34:15.405Z
+date: 2025-02-14T19:59:55.457Z
+updated: 2025-02-17T20:02:11.646Z
 tags: 
   - screen-recording
   - ai video
@@ -29,7 +29,7 @@ Glitch text effect is a trendy effect that gets the viewers’ attention immedia
 ![glitch text effect toolkit ae](https://images.wondershare.com/filmora/article-images/2022/07/glitch-text-effect-toolkit-ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Liquid Text Animation
@@ -39,7 +39,7 @@ You get 110 animated elements that you can apply to the text in your video. The 
 ![liquid text animation effect ae](https://images.wondershare.com/filmora/article-images/2022/07/liquid-text-animation-effect-ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Dynamic Text Animations
@@ -49,7 +49,11 @@ There is always a high demand for dynamic text animations in After Effects. This
 ![dynamic text animations ae](https://images.wondershare.com/filmora/article-images/2022/07/dynamic-text-animations-ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Squash & Stretch Preset
@@ -70,10 +74,6 @@ If there is a must-have preset you should manage to have in After Effects is Tex
 
 ![text library effect ae](https://images.wondershare.com/filmora/article-images/2022/07/text-library-effect-ae.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Kinetic Text Animation
 
 Kinetic text effect is a part of dynamic text effects and there is a high demand for kinetic text animation. In this pack, you get 56 text animations and all the effects have full HD resolution. The effect will literally transform your video content and help you to get a proper branding on the video. There are different types of animations available and you videos will not look boring by any chance.
@@ -81,7 +81,11 @@ Kinetic text effect is a part of dynamic text effects and there is a high demand
 ![kinetic text aniamtion ae](https://images.wondershare.com/filmora/article-images/2022/07/kinetic-text-aniamtion-ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Text Animation Lower Third
@@ -89,10 +93,6 @@ Kinetic text effect is a part of dynamic text effects and there is a high demand
 You get eleven styles of elements in the pack, and you can customize the designs to get into any size as per your requirements. You get the elements in HD and Full HD resolution, and you can use them in the intro or outro of the video to show text and title credits. You can also use them to show quotes or keywords. Most of them have highlighted background, and technically, they are referred to as lower thirds.
 
 ![text animation lower thirds ae](https://images.wondershare.com/filmora/article-images/2022/07/text-animation-lower-thirds-ae.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -128,22 +128,17 @@ As the saying goes, the more the merrier and the more presets you have, the more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-choosing-a-gimbal-for-smooth-drone-photos-and-videos/"><u>[New] Choosing a Gimbal for Smooth Drone Photos and Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-elite-5-digital-title-specialists/"><u>[New] Exploring the Elite 5 Digital Title Specialists</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-understanding-the-dynamics-of-instagram-unfollows/"><u>[New] In 2024, Understanding the Dynamics of Instagram Unfollows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-crafting-seamless-image-transfers-across-operating-systems/"><u>[Updated] Crafting Seamless Image Transfers Across Operating Systems</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-optimize-video-playback-with-snapchat-tricks/"><u>[Updated] In 2024, Optimize Video Playback with Snapchat Tricks</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/covert-measures-for-efficient-home-based-learning/"><u>Covert Measures for Efficient Home-Based Learning</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/design-memes-effortlessly-kapwing-pro/"><u>Design Memes Effortlessly - Kapwing Pro</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/futureproofing-your-data-with-budgeted-cloud-choices/"><u>Futureproofing Your Data with Budgeted Cloud Choices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-infinix-note-30-pro-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Infinix Note 30 Pro Get Deleted Pictures Back with Ease and Safety?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oneplus-ace-3-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track OnePlus Ace 3 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f15-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Samsung Galaxy F15 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ipad-pro-showdown-analyzing-performance-and-portability-of-m1-vs-m2-in-the-new-11-inch-and-large-129-inch-versions-tech-analysis/"><u>IPad Pro Showdown: Analyzing Performance and Portability of M1 vs M2 in the New 11-Inch and ^LARGE^ 12.9-Inch Versions | Tech Analysis</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/lg-vr-headgear-review-complete-immersion-unlocked/"><u>LG VR Headgear Review Complete Immersion Unlocked</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/mastering-social-media-engagement-the-role-of-igtv-hashtags/"><u>Mastering Social Media Engagement The Role of IGTV Hashtags</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-best-monitors-for-xbox-series-x/"><u>The Best Monitors for Xbox Series X</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-elite-collection-top-10-sites-for-professional-icons/"><u>The Elite Collection Top 10 Sites for Professional Icons</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlock-the-secrets-maximizing-your-video-content-on-zoom-and-youtube-live/"><u>Unlock the Secrets Maximizing Your Video Content on Zoom & YouTube Live</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-aerial-visual-flux-free-lutts-for-dji-drones-then-pay-upgrade/"><u>[Updated] Aerial Visual Flux Free LUTTs for DJI Drones, Then Pay Upgrade</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-critical-analysis-of-luminances-role-in-hdr-development/"><u>2024 Approved A Critical Analysis of Luminance's Role in HDR Development</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/epic-meme-designs-the-10-list-of-choice/"><u>Epic Meme Designs The #10 List of Choice</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/expert-guide-to-solving-graphics-driver-issues-a-step-by-step-tutorial/"><u>Expert Guide to Solving 'Graphics Driver Issues': A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/immersive-escapes-delving-into-jaunt-vr/"><u>Immersive Escapes Delving Into Jaunt VR</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fixing-zoos-audio-quick-fixes-for-sound-issues/"><u>In 2024, Fixing Zoo's Audio Quick Fixes for Sound Issues</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Simulate GPS Movement in AR games On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-innovative-sound-solutions-for-videographers-streamlining-effect-implementation/"><u>In 2024, Innovative Sound Solutions for Videographers Streamlining Effect Implementation</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-premier-seminar-title-inventor-suite/"><u>In 2024, Premier Seminar Title Inventor Suite</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubers-toolkit-essential-setup-guidelines/"><u>In 2024, Youtubers' Toolkit Essential Setup Guidelines</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/tech-face-off-is-the-new-samsung-galaxy-s23-ultra-worth-upgrading-from-your-older-s21/"><u>Tech Face-Off: Is The New Samsung Galaxy S23 Ultra Worth Upgrading From Your Older S21?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transitioning-timeless-images-a-tech-savvy-approach/"><u>Transitioning Timeless Images A Tech-Savvy Approach</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Harmonize Visual & Auditory Elements  Adding Filters & Sound to Windows Photos App\""
-date: 2025-02-03T20:06:05.962Z
-updated: 2025-02-08T07:43:54.190Z
+date: 2025-02-14T17:17:13.289Z
+updated: 2025-02-18T01:26:06.846Z
 tags: 
   - screen-recording
   - ai video
@@ -45,21 +45,17 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
 
 **Step 4**: Click Filters at tool bar. Microsoft Photos has 14 filters you can use, including classic, adventure, sepia and so on.
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
-**Step 5**: Just select one you like. Preview it and then click Done.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Step 5**: Just select one you like. Preview it and then click Done.
 
 ## Part 2: How to add music on Windows 10 Photos App
 
@@ -74,7 +70,7 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
@@ -82,10 +78,14 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5**: Hit the ‘Done’ button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -94,7 +94,7 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -112,24 +112,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-crafted-perfection-transforming-pics-into-words-with-apps/"><u>[New] Crafted Perfection Transforming Pics Into Words with Apps</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-effortless-integration-of-xbox-and-facebook-streams/"><u>[New] Effortless Integration of Xbox and Facebook Streams</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-dynamic-and-diverse-10-essential-text-presets-for-adobe-ae-for-2024/"><u>[Updated] Dynamic and Diverse 10 Essential Text Presets for Adobe AE for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-comprehensive-guide-to-sound-in-powerpoint-presentations/"><u>[Updated] In 2024, Comprehensive Guide to Sound in PowerPoint Presentations</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-elite-10-customizations-elevating-terria/"><u>[Updated] In 2024, Elite 10 Customizations Elevating Terria</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-journey-to-unlicensed-beauty-open-source-portfolits/"><u>[Updated] Journey to Unlicensed Beauty Open-Source Portfolits</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-top-30-for-timeless-telephone-chimes/"><u>[Updated] The Top 30 for Timeless Telephone Chimes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/convert-srt-to-subc-innovative-3-ways-uncovered-for-2024/"><u>Convert SRT to SUBC Innovative 3 Ways Uncovered for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/drift-innocations-ghost-s-action-camera-review/"><u>Drift Innocations Ghost-S Action Camera Review</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-features-and-uses-of-the-hp-software-and-solutions-package-downloader/"><u>Exploring the Features and Uses of the HP Software & Solutions Package Downloader</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-audience-hooks-writing-captivating-podcast-descriptions/"><u>In 2024, Audience Hooks Writing Captivating Podcast Descriptions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-beyond-reality-vr-movie-magic/"><u>In 2024, Beyond Reality VR Movie Magic</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-instagrams-untapped-potential/"><u>In 2024, Mastering Instagram's Untapped Potential</u></a></li>
-<li><a href="https://win-dash.techidaily.com/intel-nvme-driver-setup-download-now-for-swift-hassle-free-experience/"><u>Intel NVME Driver Setup - Download Now for Swift, Hassle-Free Experience!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/prime-images-storage-centers/"><u>Prime Images Storage Centers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-transforming-videos-into-mov-format/"><u>Step-by-Step Guide: Transforming Videos Into MOV Format</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-essential-guide-to-crafting-engaging-haul-videos/"><u>The Essential Guide to Crafting Engaging Haul Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-top-strategies-for-box-enthusiasts/"><u>The Top Strategies for Box Enthusiasts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-camera-guide-2024s-premium-choices/"><u>Ultimate Camera Guide 2024'S Premium Choices</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-optimizing-viewers-engagement-through-youtube-music-use-in-videos/"><u>[New] 2024 Approved Optimizing Viewers' Engagement Through YouTube Music Use in Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-lifetime-love-affair-with-top-15-classic-stop-motion-movies/"><u>[New] A Lifetime Love Affair with Top 15 Classic Stop-Motion Movies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-beat-hopping-boundaries-linking-service-playlists-together/"><u>[New] Beat Hopping Boundaries Linking Service Playlists Together</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-detailed-guide-to-minecraft-capturing-techniques-on-mac/"><u>[Updated] Detailed Guide to Minecraft Capturing Techniques on Mac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-createwinfx-movies/"><u>2024 Approved CreateWinFX Movies</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1725290388768-avangate/"><u>Avangateとは何ですか - オンライン支払いの安全性：クレジットカード処理における信頼できるソリューション</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-infinix-smart-8-plus-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Infinix Smart 8 Plus to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertise-in-audio-file-transformation-from-srt-to-xmlssattml/"><u>In 2024, Expertise in Audio File Transformation From SRT to XML/SSA/TTML</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-poco-m6-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Poco M6 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphone-protection-myths-debunked-the-absolute-need-for-a-reliable-case-even-without-prior-usage-zdnet-insights/"><u>IPhone # Protection Myths Debunked: The Absolute Need for a Reliable Case Even Without Prior Usage | ZDNET Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/keep-it-secret-live-stream-on-instagram-anonymously/"><u>Keep It Secret Live Stream on Instagram Anonymously</u></a></li>
+<li><a href="https://facebook.techidaily.com/metaverse-inquiry-the-role-of-facebook-in-shaping-it/"><u>Metaverse Inquiry: The Role of Facebook in Shaping It</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/radiant-renders-streamlined-methods-for-color-correction-in-ps/"><u>Radiant Renders Streamlined Methods for Color Correction in PS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-best-of-both-worlds-2023s-device-agnostic-editors/"><u>The Best of Both Worlds 2023’S Device-Agnostic Editors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transcoding-made-simple-from-xmlssattml-to-professional-srt/"><u>Transcoding Made Simple From XML/SSA/TTML to Professional SRT</u></a></li>
 </ul></div>
 

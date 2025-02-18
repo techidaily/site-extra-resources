@@ -1,7 +1,7 @@
 ---
 title: "\"Pro Video Illumination  Top Strategies for Immaculate Cinematography\""
-date: 2024-07-25T04:45:18.656Z
-updated: 2024-07-26T04:45:18.656Z
+date: 2025-02-11T17:19:19.250Z
+updated: 2025-02-17T23:01:49.498Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,10 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
@@ -58,10 +62,11 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ##### Step3 Set the Backlight
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
 
@@ -69,23 +74,18 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
 After setting up all the lighting above, you can take a look at the comparison below:
@@ -93,6 +93,10 @@ After setting up all the lighting above, you can take a look at the comparison b
 **Using Key Light only**
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Using Key Light + Fill + Backlight**
 
@@ -102,15 +106,12 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -143,7 +144,20 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-best-frame-rate-for-slow-motion-videos/"><u>[New] Best Frame Rate for Slow Motion Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rom-vision-to-visuals-craft-your-story-with-youtube-editor-for-2024/"><u>[New] From Vision to Visuals Craft Your Story with YouTube Editor for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-soundtrack-selection-in-unboxing-filmmaking/"><u>[New] Navigating Soundtrack Selection in Unboxing Filmmaking</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-like-factor-techniques-for-traffic-driving-facebook-content/"><u>[Updated] The Like Factor Techniques for Traffic-Driving Facebook Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-critical-evaluation-of-ustream-with-equivalents/"><u>2024 Approved A Critical Evaluation of Ustream with Equivalents</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-step-by-step-approach-to-macos-sierra-integration/"><u>2024 Approved A Step-by-Step Approach to macOS Sierra Integration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beneath-blue-waves-expert-tips-for-creating-stunning-underwater-footage-using-gopro/"><u>2024 Approved Beneath Blue Waves Expert Tips for Creating Stunning Underwater Footage Using GoPro</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-comprehensive-guide-to-ios-video-capture/"><u>2024 Approved Comprehensive Guide to iOS Video Capture</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/access-premium-level-video-templates-for-free/"><u>Access Premium-Level Video Templates for Free</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-iphones-simple-guide-for-efficient-screen-recording/"><u>In 2024, IPhone's Simple Guide for Efficient Screen Recording</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-mastering-audio-with-sound-forge-an-assessment-review/"><u>New 2024 Approved Mastering Audio with Sound Forge An Assessment Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-truth-about-monitoring-blood-pressure-on-apple-watch-series-insights-and-reviews/"><u>The Truth About Monitoring Blood Pressure on Apple Watch Series 지: Insights and Reviews</u></a></li>
+</ul></div>
 

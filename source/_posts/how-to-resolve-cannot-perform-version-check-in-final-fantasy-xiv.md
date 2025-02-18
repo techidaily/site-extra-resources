@@ -1,7 +1,7 @@
 ---
 title: How to Resolve 'Cannot Perform Version Check' In Final Fantasy XIV
-date: 2025-01-06T02:34:38.538Z
-updated: 2025-01-08T01:17:31.648Z
+date: 2025-02-16T03:35:38.462Z
+updated: 2025-02-18T03:54:54.818Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Recently many Fallout 76 players have been plagued by the**Fallout 76 disconnect
 6. **[Switch the DNS server](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Is Fallout 76 down?](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1:**Reset Winsock**
 
  Winsock is an application in Windows that handles the data on the computer that programs use for Internet access. So when you can’t connect Fallout 76 to its server, you can give Winsock a try. It reverts the Winsock Catalog back to its default settings, which often proves useful in network problems.
@@ -45,19 +49,11 @@ Here is how to reset Winsock data:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer.
 
 5) Launch Fallout 76 to see if it can be connected to the game server. If yes, then great! If the issue remains, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2:**Close bandwidth hogging applications**
 
@@ -71,11 +67,19 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1deba6c03f2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Repeat step **2)** on every other bandwidth hogging programs.
 
  4) Launch Fallout 76 to see if it can be connected to the server. If yes, then congratulations! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure you have the latest network drivers
 
@@ -92,7 +96,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -117,9 +121,17 @@ Here is how to restart your network:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _modem_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _wireless router_
 
@@ -141,6 +153,10 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) Type**the following command line** and press **Enter**  on your keyboard.**ipconfig /flushdns**
@@ -152,10 +168,6 @@ _wireless router_
  1) On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
@@ -170,10 +182,6 @@ _wireless router_
 **ipconfig /renew**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Launch Fallout 76.
 
@@ -192,32 +200,24 @@ Here is how to switch the DNS server to Google Public DNS:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In **View by** , choose **Category** . Then click **View network status and tasks** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-611.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the pop-up window, click **Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-612.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Right-click on**your current network** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-613.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.
 
@@ -262,20 +262,24 @@ Here is how to switch the DNS server to Google Public DNS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-best-of-both-worlds-free-paid-film-apps-for-iphones-for-2024/"><u>[New] Best of Both Worlds Free, Paid Film Apps for iPhones for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-ingredients-to-inspiration-cooking-videos-for-2024/"><u>[New] From Ingredients to Inspiration Cooking Videos for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-cinematic-scale-optimizer/"><u>[Updated] Cinematic Scale Optimizer</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-cutting-edge-strategies-for-efficient-speech-translation-with-google/"><u>[Updated] In 2024, Cutting Edge Strategies for Efficient Speech Translation with Google</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unlocking-maximum-video-sizes-in-instagram-upload/"><u>[Updated] In 2024, Unlocking Maximum Video Sizes in Instagram Upload</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/an-overview-of-basic-and-simplified-hdr-photography/"><u>An Overview of Basic and Simplified HDR Photography</u></a></li>
-<li><a href="https://program-issues.techidaily.com/decode-the-darkness-troubleshooting-total-black-screens-on-pc-while-playing-rainbow-six-siege/"><u>Decode the Darkness: Troubleshooting Total Black Screens on PC While Playing Rainbow Six Siege</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/digital-content-showdown-audios-answer-to-visual-media/"><u>Digital Content Showdown Audio's Answer to Visual Media?</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-y56-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-canon-mf8500c-printer-software-for-windows-operating-systems/"><u>How to Get the Latest Canon MF8500C Printer Software for Windows Operating Systems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/illuminate-canon-cameras-combining-freebies-and-paid-lut-sets/"><u>Illuminate Canon Cameras Combining Freebies and Paid LUT Sets</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-commencing-a-community-benefit-contest-online/"><u>In 2024, Commencing a Community Benefit Contest Online</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-commentary-delving-deep-into-bublcams-360-degree-world/"><u>In 2024, Comprehensive Commentary Delving Deep Into Bublcam's 360-Degree World</u></a></li>
-<li><a href="https://games-able.techidaily.com/staying-safe-from-gaming-system-breaches/"><u>Staying Safe From Gaming System Breaches</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-legacy-library-exploring-free-visual-echoes/"><u>The Legacy Library Exploring Free Visual Echoes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-whats-fresh-with-facebook-latest-info-here/"><u>[Updated] 2024 Approved What’s Fresh with Facebook? Latest Info Here</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-craft-your-virtual-persona-with-our-metaverse-guide/"><u>[Updated] Craft Your Virtual Persona with Our Metaverse Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-hack-your-channels-identity-with-these-11-budget-tools/"><u>[Updated] Hack Your Channel's Identity with These 11 Budget Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-7-ideal-monitors-for-digital-artists/"><u>2024 Approved 7 Ideal Monitors for Digital Artists</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-deeper-dive-into-the-heart-of-mixed-reality/"><u>2024 Approved A Deeper Dive Into the Heart of Mixed Reality</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-how-to-take-advantage-of-itunes-for-video-capture/"><u>2024 Approved How to Take Advantage of iTunes for Video Capture</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-your-audio-craftsminas-with-magix-kompakt-vst/"><u>Elevating Your Audio Craftsminas with Magix Kompakt VST</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/holistic-photo-tale-architect-platform/"><u>Holistic Photo Tale Architect Platform</u></a></li>
+<li><a href="https://fox-links.techidaily.com/immersive-health-experiences-enhanced-care/"><u>Immersive Health Experiences, Enhanced Care</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-building-profitable-collaborations-with-brands-on-youtube/"><u>In 2024, Building Profitable Collaborations with Brands on Youtube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-business-presentation-goldmine-free-and-premium-slide-show-tools/"><u>In 2024, Business Presentation Goldmine Free & Premium Slide Show Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-sound-digitization-audiovisual-preservation/"><u>In 2024, Sound Digitization Audiovisual Preservation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/introducing-low-tier-sound-diminution-tricks-with-audacity/"><u>Introducing Low-Tier Sound Diminution Tricks with Audacity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/narrative-noble-order-honors-hexagon/"><u>Narrative Noble Order - Honor's Hexagon</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-avs-mac-video-editor-unleash-your-creativity/"><u>New 2024 Approved AVS Mac Video Editor Unleash Your Creativity</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/no-budget-no-problem-free-video-editing-software-for-starters-for-2024/"><u>No Budget, No Problem Free Video Editing Software for Starters for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-dub-like-a-pro-top-6-video-dubbing-apps-for-comedy-and-creativity/"><u>Updated In 2024, Dub Like a Pro Top 6 Video Dubbing Apps for Comedy & Creativity</u></a></li>
+<li><a href="https://win-updates.techidaily.com/windows-os/"><u>Windows OS バージョン間での利用者プロファイル変換ツールダウンロード</u></a></li>
 </ul></div>
 

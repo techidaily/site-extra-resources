@@ -1,7 +1,7 @@
 ---
 title: "\"Sculpting Textures  Creating Realistic 3D Effects in Illustrator\""
-date: 2025-02-04T21:47:16.854Z
-updated: 2025-02-07T23:54:52.066Z
+date: 2025-02-16T01:19:18.470Z
+updated: 2025-02-18T03:02:26.438Z
 tags: 
   - screen-recording
   - ai video
@@ -41,7 +41,7 @@ Step2 Click on the **Type tool** and click anywhere on your blank canvas. Then, 
 ![type tool illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-type-tool.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3 Now, look at the bottom-right corner of the program. Find the **Font** settings and change your font type and size to anything you want.
@@ -51,10 +51,6 @@ Step3 Now, look at the bottom-right corner of the program. Find the **Font** set
 Step4 Next, choose any color you want for your text from the panel on the screen's left side. Just remember to click on your text first before you start changing colors.
 
 ![change color](https://images.wondershare.com/filmora/article-images/adobe-illustrator-color.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step5 Align the text to make it easier to edit and move around the canvas later. Just click on it and then click on the three buttons in the image below. This section is located at the bottom-right corner of the screen.
 
@@ -68,22 +64,14 @@ Step7 Click on the box icon on the right side of the screen and select **“Extr
 
 ![turn text into three d](https://images.wondershare.com/filmora/article-images/adobe-illustrator-panel.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step8 Now, all left to do is experiment with the settings in this panel and adjust how you want your 3D text to look. You can adjust its width, rotation, presets, angle, perspective, and so on. Just play around with the settings until you find your ideal result.
 
 ![three d illustrator settings](https://images.wondershare.com/filmora/article-images/adobe-illustrator-settings.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step9 Finally, it's time to export the image, and you're all done.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Alternative Way to Create 3D Text Animation
@@ -106,17 +94,21 @@ Step2 Head to the **Titles** tab and search for the **“3D Illustration**” ti
 
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -140,9 +132,17 @@ Step3 Double-click on the 3D title layer you dragged into the Timeline. When the
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -172,21 +172,20 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-aural-alchemy-transforming-imovie-videos-with-music/"><u>[New] Aural Alchemy Transforming iMovie Videos with Music</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-ever-fading-memories-revived-youtubes-lost-content-hunt/"><u>[Updated] 2024 Approved Ever-Fading Memories Revived YouTube's Lost Content Hunt</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-video-editing-power-filmora-for-youtube-trailers/"><u>2024 Approved Video Editing Power Filmora for YouTube Trailers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ng-buyers-guide-monetization-platforms-for-novice-channels/"><u>Budding Buyers Guide Monetization Platforms for Novice Channels</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/excellent-face-changing-software-iphone-and-android/"><u>Excellent Face-Changing Software, iPhone & Android</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ignite-your-design-prowess-top-14-text-animation-snapshots/"><u>Ignite Your Design Prowess Top 14 Text Animation Snapshots</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-stardew-valuable-addons-best-to-worst-ranking-list-7/"><u>In 2024, Stardew Valuable Addons - Best to Worst Ranking List (#7)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-8-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 8 Without iTunes in 5 Ways</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/next-level-vr-tools-top-8-selection/"><u>Next-Level VR Tools Top 8 Selection</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/optimizing-your-workflow-efficiently-editing-360-degree-videos-in-premiere-pro/"><u>Optimizing Your Workflow Efficiently Editing 360 Degree Videos in Premiere Pro</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/prime-free-enhancement-tool-for-pics-onlineapp/"><u>Prime Free Enhancement Tool for Pics Online/App</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oppo-a1x-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Oppo A1x 5G FRP</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/streamline-your-iphone-jpegpng-to-pdf-file-processing/"><u>Streamline Your iPhone JPEG/PNG to PDF File Processing</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/tap-into-tagging-techniques-for-6kplus-youtube-vistas-for-2024/"><u>Tap Into #Tagging Techniques for $6K+ YouTube Vistas for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-performance-detailed-review-of-the-185wh-50000mah-maxoak-portable-charger/"><u>Unveiling the Performance: Detailed Review of the 185Wh / 50,000mAh MaxOak Portable Charger</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-elevate-your-videos-top-free-special-effects-apps-for-mobile-video-editing/"><u>Updated In 2024, Elevate Your Videos Top Free Special Effects Apps for Mobile Video Editing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-capture-and-create-first-edits-in-lunapic-photo-editor-for-2024/"><u>[New] Capture & Create First Edits in LunaPic Photo Editor for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-recover-lost-photos-on-snapchat/"><u>[New] Recover Lost Photos on Snapchat</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-infinity-refresh-top-5-hdmi-2ranetixx-gaming-screens-ps5/"><u>[Updated] Infinity Refresh Top 5 HDMI 2Ranetixx Gaming Screens [PS5]</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-cutting-edge-icons-and-logos-from-6-innovative-websites/"><u>2024 Approved Cutting-Edge Icons and Logos From 6 Innovative Websites</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/average-earnings-in-the-world-of-podcasting/"><u>Average Earnings in the World of Podcasting</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-xiaomi-redmi-12-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Xiaomi Redmi 12?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-fs-view-strategies-for-premiere-pro/"><u>Comprehensive FS View Strategies for Premiere Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/examining-samsungs-digital-photography-enhancements/"><u>Examining Samsung's Digital Photography Enhancements</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expertly-convert-videos-on-your-device-with-the-most-trusted-apps-8/"><u>Expertly Convert Videos on Your Device with the Most Trusted Apps #8</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flipping-filmmaking-on-your-android-device-for-2024/"><u>Flipping Filmmaking on Your Android Device for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-honor-90-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Honor 90 FRP</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capture-still-shots-from-video-using-photos-on-windows-10/"><u>In 2024, Capture Still Shots From Video Using Photos on Windows 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premier-ai-driven-picture-editing-suite/"><u>Premier AI-Driven Picture Editing Suite</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/proven-tactics-for-adjusting-track-pace-on-spotify-app-for-2024/"><u>Proven Tactics for Adjusting Track Pace on Spotify App for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/skype-soundtrack-hub-finding-the-right-tones-online/"><u>Skype Soundtrack Hub Finding the Right Tones Online</u></a></li>
 </ul></div>
 

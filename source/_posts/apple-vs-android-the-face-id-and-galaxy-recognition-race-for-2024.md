@@ -1,7 +1,7 @@
 ---
 title: "\"Apple Vs. Android  The Face ID and Galaxy Recognition Race for 2024\""
-date: 2024-07-25T04:40:10.557Z
-updated: 2024-07-26T04:40:10.557Z
+date: 2025-02-16T02:30:40.803Z
+updated: 2025-02-17T20:29:26.510Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
 
 # Differences between iPhone X Face ID and Samsung Face Recognition
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -56,9 +53,95 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
 
  Being accurate is a considerable issue with face recognition technology if you are using a Samsung device. On the other hand, iPhone X shows accuracy than Samsung since it analyzes the whole face instead of iris. For Samsung’s iris scanner, the camera contains a confined and narrowly designed focus where is exactly your iris needed to be for scanning. The camera will able to recognize only when your iris will be in that same place for long where it focuses. And therefore, there are times when you left with holding your device high for better iris detection. Apple has no such accuracy issue for it takes your face to recognize.
 
+![iPhone X accuracy](https://images.wondershare.com/filmora/article-images/iphone-x-accuracy.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Part 3: The Common Inconvenience
+
+ When it comes to practicality, we would state that both the phone don’t stand well for it. This is because if you use Apple’s latest invention i.e. iPhone X, you are required to first hold your device in your hand followed by looking at the screen. Then you need to swipe it up for unlocking the device.
+
+ On the other hand, when you are Samsung owner, you need to open your eyes accurately and stare the screen and the distance between the device and eyes ideally should be an arm length.
+
+ Both the devices need to be lifted to keep the face’s angle point accurately and it can look awkward when you need to use your device in a crowded place. Hence, both ways are kind of inconvenient to use especially when you wish to use your device secretly.
+
+![face ID incovenience](https://images.wondershare.com/filmora/article-images/face-incovenience.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Part 4: Safety Issue
+
+ Ensuring safety is one of the main concern people have and the face recognition technology in both the devices has done pretty well. Apple uses the TrueDepth camera system which includes flood illuminator, IR camera as well as dot projector to make the face recognized in all possible ways. It has been claimed by the company that the possibility of unlocking the device by a random person’s face is 1 in 1,000,000\. Besides this, Apple had made sure to let people try only 5 face attempts after which they will require to enter the passcode. The probability though doesn’t work same for twins and the family members who resemble you. Also, the children who are less than 13 are able to trick you since they don’t have fully developed facial features.
+
+ Besides this, Apple has also made the newest model intelligent enough to not get fooled by any 2D photo or any other 2D mediums. Before releasing high-quality face recognition technology, Apple tested how the feature reacts with life-like masks and other techniques that can give rise to deceiving. To its surprise, the device got positive results and the Face ID has the ability to not get trapped by masks and the like things.
+
+ The Face ID by Apple in its iPhone X also makes itself proficient enough to detect the modifications in the appearances such as growing of beard or if a lady has applied makeup. Or if you have shaved your beard fully, the device takes a confirmation with the help of a passcode. What’s more, you don’t have to worry if you are wearing scarf or shades, cap, hat and even contact lenses, Face ID will work properly with the accessories too.
+
+![face ID issue](https://images.wondershare.com/filmora/article-images/face-id-issue.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ On the other hand, Samsung also doesn’t lag behind when it comes to safety and security with face recognition feature. Samsung is the first Android device company to introduce face recognition technology that brought iris scanning technology with its Galaxy Note 7\. The technology does it job by detecting the iris’ pattern of your eyes. As far as security is concerned, the technology gets 10 on 10 since each person possesses unique iris pattern and it becomes difficult to replicate. The devices by Samsung having face recognition technology are designed with infrared diode which is capable
+
+ All in all, both the companies have put extra effort in justifying the safety with trending face recognition technology. However, we are not certain for full reliability of them.
+
+## Conclusion
+
+ The technology of facial recognition isn’t new to us and it has made people excited from the time it has come. However, many users have not started using the technology yet. We hope that this functionality will gain the popularity with time and people will start to make use of it.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ With the launch of iPhone X, Apple has proved why people were crazy about the release. One of the most talked about features includes **iPhone X Face ID** security option which helps in unlocking the device with just recognizing the user’s face. However, Android has also introduced this sort of security lock with **Samsung’s face recognition**. Both the companies are remarkable with their own enhancement and technologies and claims to be the best for this face recognition technology. We therefore have appeared here with a thorough analysis of both devices’ face recognition capability. Let’s master what’s the difference between both.
+
+* [Part 1: How does it work?](#part1)
+* [Part 2: Which one is more Accuracy?](#part2)
+* [Part 3: The Common Inconvenience](#part3)
+* [Part 4: Safety Issue](#part4)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Part 1: How does it work?
+
+ This section will cover how the face recognition technology works for both the devices. Check out the process.
+
+ iPhone X:
+
+ While talking about latest iPhone, the company has designed the face detection function with a range of advanced sensors which include dot projector, infrared camera flood illuminator etc. The first component holds the capability to scrutinize the user’s face using TrueDepth camera. The camera captures in-depth face via more than 30,000 invisible dots in order to get the accurate and distinctive 3D facial map. This way, any kind of movement of your face will not stop the device to detect it before unlocking. When the dot pattern completes, the Infrared camera takes an infrared photo of the face. Once this gets done, an A11 Bionic chip’s neural engine helps in transforming the detailing and infrared face for meticulous precisions and confirming the enrolled face by comparing all the corrections. The A11 chip comes with full protection and is protected with secure Enclave.
+
+ The flood illuminator aims at infrared flash for enabling the face recognition technology to detect the face no matter what the surrounding light is. Putting differently, your face can be recognized even in dim light since your face is been recorded through infrared light.
+
+ Samsung:
+
+ Samsung also uses almost identical operation and involves two components which are IR LED and Iris camera. The former can be said as similar to the flood illuminator of the newest iPhone. IR LED works same as flood illuminator. It however shows difference only by focusing the infrared light on the eyes unlike flood illuminator which focus on the entire face. The Iris camera is nothing but infrared camera whose job is to take the picture of your iris. The process begins with IR LED which assists Iris camera by illuminating the eyes so that the camera gets the opportunity to capture the iris pattern properly. Samsung has the option to choose between both iris scanning or just one.
+
+![Samsung](https://images.wondershare.com/filmora/article-images/Samsung-Galaxy-S8-Face-Unlock.jpg)
+
+## Part 2: Which one is more Accuracy?
+
+ Being accurate is a considerable issue with face recognition technology if you are using a Samsung device. On the other hand, iPhone X shows accuracy than Samsung since it analyzes the whole face instead of iris. For Samsung’s iris scanner, the camera contains a confined and narrowly designed focus where is exactly your iris needed to be for scanning. The camera will able to recognize only when your iris will be in that same place for long where it focuses. And therefore, there are times when you left with holding your device high for better iris detection. Apple has no such accuracy issue for it takes your face to recognize.
+
 ![iPhone X accuracy](https://images.wondershare.com/filmora/article-images/iphone-x-accuracy.jpg)
 
 ## Part 3: The Common Inconvenience
@@ -79,9 +162,6 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
 
  The Face ID by Apple in its iPhone X also makes itself proficient enough to detect the modifications in the appearances such as growing of beard or if a lady has applied makeup. Or if you have shaved your beard fully, the device takes a confirmation with the help of a passcode. What’s more, you don’t have to worry if you are wearing scarf or shades, cap, hat and even contact lenses, Face ID will work properly with the accessories too.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![face ID issue](https://images.wondershare.com/filmora/article-images/face-id-issue.jpg)
 
  On the other hand, Samsung also doesn’t lag behind when it comes to safety and security with face recognition feature. Samsung is the first Android device company to introduce face recognition technology that brought iris scanning technology with its Galaxy Note 7\. The technology does it job by detecting the iris’ pattern of your eyes. As far as security is concerned, the technology gets 10 on 10 since each person possesses unique iris pattern and it becomes difficult to replicate. The devices by Samsung having face recognition technology are designed with infrared diode which is capable
@@ -125,18 +205,12 @@ Follow @Ollie Mattison
 
  Samsung also uses almost identical operation and involves two components which are IR LED and Iris camera. The former can be said as similar to the flood illuminator of the newest iPhone. IR LED works same as flood illuminator. It however shows difference only by focusing the infrared light on the eyes unlike flood illuminator which focus on the entire face. The Iris camera is nothing but infrared camera whose job is to take the picture of your iris. The process begins with IR LED which assists Iris camera by illuminating the eyes so that the camera gets the opportunity to capture the iris pattern properly. Samsung has the option to choose between both iris scanning or just one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![Samsung](https://images.wondershare.com/filmora/article-images/Samsung-Galaxy-S8-Face-Unlock.jpg)
 
 ## Part 2: Which one is more Accuracy?
 
  Being accurate is a considerable issue with face recognition technology if you are using a Samsung device. On the other hand, iPhone X shows accuracy than Samsung since it analyzes the whole face instead of iris. For Samsung’s iris scanner, the camera contains a confined and narrowly designed focus where is exactly your iris needed to be for scanning. The camera will able to recognize only when your iris will be in that same place for long where it focuses. And therefore, there are times when you left with holding your device high for better iris detection. Apple has no such accuracy issue for it takes your face to recognize.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![iPhone X accuracy](https://images.wondershare.com/filmora/article-images/iphone-x-accuracy.jpg)
 
 ## Part 3: The Common Inconvenience
@@ -159,20 +233,22 @@ Follow @Ollie Mattison
 
 ![face ID issue](https://images.wondershare.com/filmora/article-images/face-id-issue.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the other hand, Samsung also doesn’t lag behind when it comes to safety and security with face recognition feature. Samsung is the first Android device company to introduce face recognition technology that brought iris scanning technology with its Galaxy Note 7\. The technology does it job by detecting the iris’ pattern of your eyes. As far as security is concerned, the technology gets 10 on 10 since each person possesses unique iris pattern and it becomes difficult to replicate. The devices by Samsung having face recognition technology are designed with infrared diode which is capable
 
  All in all, both the companies have put extra effort in justifying the safety with trending face recognition technology. However, we are not certain for full reliability of them.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  The technology of facial recognition isn’t new to us and it has made people excited from the time it has come. However, many users have not started using the technology yet. We hope that this functionality will gain the popularity with time and people will start to make use of it.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -206,23 +282,22 @@ Follow @Ollie Mattison
 
  Samsung also uses almost identical operation and involves two components which are IR LED and Iris camera. The former can be said as similar to the flood illuminator of the newest iPhone. IR LED works same as flood illuminator. It however shows difference only by focusing the infrared light on the eyes unlike flood illuminator which focus on the entire face. The Iris camera is nothing but infrared camera whose job is to take the picture of your iris. The process begins with IR LED which assists Iris camera by illuminating the eyes so that the camera gets the opportunity to capture the iris pattern properly. Samsung has the option to choose between both iris scanning or just one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![Samsung](https://images.wondershare.com/filmora/article-images/Samsung-Galaxy-S8-Face-Unlock.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Which one is more Accuracy?
 
  Being accurate is a considerable issue with face recognition technology if you are using a Samsung device. On the other hand, iPhone X shows accuracy than Samsung since it analyzes the whole face instead of iris. For Samsung’s iris scanner, the camera contains a confined and narrowly designed focus where is exactly your iris needed to be for scanning. The camera will able to recognize only when your iris will be in that same place for long where it focuses. And therefore, there are times when you left with holding your device high for better iris detection. Apple has no such accuracy issue for it takes your face to recognize.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![iPhone X accuracy](https://images.wondershare.com/filmora/article-images/iphone-x-accuracy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: The Common Inconvenience
 
  When it comes to practicality, we would state that both the phone don’t stand well for it. This is because if you use Apple’s latest invention i.e. iPhone X, you are required to first hold your device in your hand followed by looking at the screen. Then you need to swipe it up for unlocking the device.
@@ -233,9 +308,6 @@ Follow @Ollie Mattison
 
 ![face ID incovenience](https://images.wondershare.com/filmora/article-images/face-incovenience.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: Safety Issue
 
  Ensuring safety is one of the main concern people have and the face recognition technology in both the devices has done pretty well. Apple uses the TrueDepth camera system which includes flood illuminator, IR camera as well as dot projector to make the face recognized in all possible ways. It has been claimed by the company that the possibility of unlocking the device by a random person’s face is 1 in 1,000,000\. Besides this, Apple had made sure to let people try only 5 face attempts after which they will require to enter the passcode. The probability though doesn’t work same for twins and the family members who resemble you. Also, the children who are less than 13 are able to trick you since they don’t have fully developed facial features.
@@ -250,105 +322,15 @@ Follow @Ollie Mattison
 
  All in all, both the companies have put extra effort in justifying the safety with trending face recognition technology. However, we are not certain for full reliability of them.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
-## Conclusion
-
- The technology of facial recognition isn’t new to us and it has made people excited from the time it has come. However, many users have not started using the technology yet. We hope that this functionality will gain the popularity with time and people will start to make use of it.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
- With the launch of iPhone X, Apple has proved why people were crazy about the release. One of the most talked about features includes **iPhone X Face ID** security option which helps in unlocking the device with just recognizing the user’s face. However, Android has also introduced this sort of security lock with **Samsung’s face recognition**. Both the companies are remarkable with their own enhancement and technologies and claims to be the best for this face recognition technology. We therefore have appeared here with a thorough analysis of both devices’ face recognition capability. Let’s master what’s the difference between both.
-
-* [Part 1: How does it work?](#part1)
-* [Part 2: Which one is more Accuracy?](#part2)
-* [Part 3: The Common Inconvenience](#part3)
-* [Part 4: Safety Issue](#part4)
-
-## Part 1: How does it work?
-
- This section will cover how the face recognition technology works for both the devices. Check out the process.
-
- iPhone X:
-
- While talking about latest iPhone, the company has designed the face detection function with a range of advanced sensors which include dot projector, infrared camera flood illuminator etc. The first component holds the capability to scrutinize the user’s face using TrueDepth camera. The camera captures in-depth face via more than 30,000 invisible dots in order to get the accurate and distinctive 3D facial map. This way, any kind of movement of your face will not stop the device to detect it before unlocking. When the dot pattern completes, the Infrared camera takes an infrared photo of the face. Once this gets done, an A11 Bionic chip’s neural engine helps in transforming the detailing and infrared face for meticulous precisions and confirming the enrolled face by comparing all the corrections. The A11 chip comes with full protection and is protected with secure Enclave.
-
- The flood illuminator aims at infrared flash for enabling the face recognition technology to detect the face no matter what the surrounding light is. Putting differently, your face can be recognized even in dim light since your face is been recorded through infrared light.
-
- Samsung:
-
- Samsung also uses almost identical operation and involves two components which are IR LED and Iris camera. The former can be said as similar to the flood illuminator of the newest iPhone. IR LED works same as flood illuminator. It however shows difference only by focusing the infrared light on the eyes unlike flood illuminator which focus on the entire face. The Iris camera is nothing but infrared camera whose job is to take the picture of your iris. The process begins with IR LED which assists Iris camera by illuminating the eyes so that the camera gets the opportunity to capture the iris pattern properly. Samsung has the option to choose between both iris scanning or just one.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
-![Samsung](https://images.wondershare.com/filmora/article-images/Samsung-Galaxy-S8-Face-Unlock.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
-## Part 2: Which one is more Accuracy?
-
- Being accurate is a considerable issue with face recognition technology if you are using a Samsung device. On the other hand, iPhone X shows accuracy than Samsung since it analyzes the whole face instead of iris. For Samsung’s iris scanner, the camera contains a confined and narrowly designed focus where is exactly your iris needed to be for scanning. The camera will able to recognize only when your iris will be in that same place for long where it focuses. And therefore, there are times when you left with holding your device high for better iris detection. Apple has no such accuracy issue for it takes your face to recognize.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
-![iPhone X accuracy](https://images.wondershare.com/filmora/article-images/iphone-x-accuracy.jpg)
-
-## Part 3: The Common Inconvenience
-
- When it comes to practicality, we would state that both the phone don’t stand well for it. This is because if you use Apple’s latest invention i.e. iPhone X, you are required to first hold your device in your hand followed by looking at the screen. Then you need to swipe it up for unlocking the device.
-
- On the other hand, when you are Samsung owner, you need to open your eyes accurately and stare the screen and the distance between the device and eyes ideally should be an arm length.
-
- Both the devices need to be lifted to keep the face’s angle point accurately and it can look awkward when you need to use your device in a crowded place. Hence, both ways are kind of inconvenient to use especially when you wish to use your device secretly.
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
-![face ID incovenience](https://images.wondershare.com/filmora/article-images/face-incovenience.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 4: Safety Issue
-
- Ensuring safety is one of the main concern people have and the face recognition technology in both the devices has done pretty well. Apple uses the TrueDepth camera system which includes flood illuminator, IR camera as well as dot projector to make the face recognized in all possible ways. It has been claimed by the company that the possibility of unlocking the device by a random person’s face is 1 in 1,000,000\. Besides this, Apple had made sure to let people try only 5 face attempts after which they will require to enter the passcode. The probability though doesn’t work same for twins and the family members who resemble you. Also, the children who are less than 13 are able to trick you since they don’t have fully developed facial features.
-
- Besides this, Apple has also made the newest model intelligent enough to not get fooled by any 2D photo or any other 2D mediums. Before releasing high-quality face recognition technology, Apple tested how the feature reacts with life-like masks and other techniques that can give rise to deceiving. To its surprise, the device got positive results and the Face ID has the ability to not get trapped by masks and the like things.
-
- The Face ID by Apple in its iPhone X also makes itself proficient enough to detect the modifications in the appearances such as growing of beard or if a lady has applied makeup. Or if you have shaved your beard fully, the device takes a confirmation with the help of a passcode. What’s more, you don’t have to worry if you are wearing scarf or shades, cap, hat and even contact lenses, Face ID will work properly with the accessories too.
-
-![face ID issue](https://images.wondershare.com/filmora/article-images/face-id-issue.jpg)
-
- On the other hand, Samsung also doesn’t lag behind when it comes to safety and security with face recognition feature. Samsung is the first Android device company to introduce face recognition technology that brought iris scanning technology with its Galaxy Note 7\. The technology does it job by detecting the iris’ pattern of your eyes. As far as security is concerned, the technology gets 10 on 10 since each person possesses unique iris pattern and it becomes difficult to replicate. The devices by Samsung having face recognition technology are designed with infrared diode which is capable
-
- All in all, both the companies have put extra effort in justifying the safety with trending face recognition technology. However, we are not certain for full reliability of them.
-
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
  The technology of facial recognition isn’t new to us and it has made people excited from the time it has come. However, many users have not started using the technology yet. We hope that this functionality will gain the popularity with time and people will start to make use of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -378,7 +360,18 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-samsung-galaxy-s23-fe-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Samsung Galaxy S23 FE to Roku | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-virtual-engagement-how-to-incorporate-filters-in-zoom-for-2024/"><u>Boosting Virtual Engagement How to Incorporate Filters in Zoom for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-honor-magic-6-lock-screen-password-by-drfone-android/"><u>How to Reset your Honor Magic 6 Lock Screen Password</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-expert-insights-on-forging-youtube-sponsorship-bonds-using-famebit/"><u>In 2024, Expert Insights on Forging YouTube Sponsorship Bonds Using FameBit</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-apples-latest-the-revamped-13-and-15-macbook-air-powered-by-the-new-m3-chip-explore-the-upgrades/"><u>Introducing Apple's Latest: The Revamped 13 & 15 MacBook Air Powered by the New M3 Chip – Explore the Upgrades</u></a></li>
+<li><a href="https://extra-support.techidaily.com/investigating-ffmpeg-for-intact-audio-preservation-for-2024/"><u>Investigating FFmpeg for Intact Audio Preservation for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/master-your-media-best-6-video-apps-for-macos-big-sur-users/"><u>Master Your Media Best 6 Video Apps for macOS Big Sur Users</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/sml385btbk-singing-machine-review-simple-setup-vibrant-display-for-fun-karaoke-nights/"><u>SML385BTBK Singing Machine Review - Simple Setup, Vibrant Display for Fun Karaoke Nights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/snap-up-on-details-with-videoleaps-advanced-zooming/"><u>Snap Up on Details with VideoLeap's Advanced Zooming</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-list-of-free-video-editing-software-for-newcomers-for-2024/"><u>The Ultimate List of Free Video Editing Software for Newcomers for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-macos-manual-for-mixer-live-streaming/"><u>The Ultimate MacOS Manual for Mixer Live Streaming</u></a></li>
+</ul></div>
 

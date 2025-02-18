@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Amplify Your Media  Integrating Text Into Windows Video Files via Photos\""
-date: 2025-02-04T23:37:03.892Z
-updated: 2025-02-08T00:04:46.642Z
+date: 2025-02-12T22:49:41.598Z
+updated: 2025-02-17T17:57:00.783Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ Adding the titles/text to video is a great way to explain the people about a cer
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Add Titles/Text to Video on Photos in Windows 10
 
 Do you wish to add titles/text to video on Photos in Windows 10 for your video projects? You may not get several options for video editing in spite of some powerful addition of application in Microsoft Store. But, the Windows 10 Photos app feature offers an add-on for creating video from your phone’s media. Let’s learn how to add titles/text to video on Photos in Windows 10.
@@ -48,16 +52,12 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/resize-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * To add titles/text to video on Photos in Windows 10 that perfectly match the background, type out the title in the text box at the top right corner
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
@@ -71,7 +71,7 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
@@ -81,7 +81,7 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * To increase or decrease the length of animation time, adjust the slider
@@ -89,7 +89,7 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
@@ -115,21 +115,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/iving-deep-the-intricacies-of-the-mukbang-phenomenon/"><u>[New] Diving Deep The Intricacies of the Mukbang Phenomenon</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-insta-video-backup-two-methods-for-seamless-access/"><u>[Updated] 2024 Approved Insta Video Backup Two Methods for Seamless Access</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-are-earnings-linked-to-assessing-merchandise/"><u>2024 Approved Are Earnings Linked to Assessing Merchandise?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-mastering-the-basics-of-telegram-advertising-as-a-novice/"><u>2024 Approved Mastering the Basics of Telegram Advertising as a Novice</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-unlock-creative-expression-mastering-jump-cut-usage/"><u>2024 Approved Unlock Creative Expression Mastering Jump Cut Usage</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-10-gratuitous-online-transformers-for-srt-files/"><u>Best 10 Gratuitous Online Transformers for Srt Files</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/captivation-craftsman-for-posters-for-2024/"><u>Captivation Craftsman for Posters for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expert-iphone-tips-change-image-dimensions-proficiently/"><u>Expert iPhone Tips Change Image Dimensions Proficiently</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-analyzing-why-youtube-features-specific-comments/"><u>In 2024, Analyzing Why YouTube Features Specific Comments</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/master-memes-access-to-premium-free-designs/"><u>Master Memes Access to Premium FREE Designs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/sound-sculpting-crafting-harmony-in-audiovox-studio/"><u>Sound Sculpting Crafting Harmony in Audiovox Studio</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streamline-your-video-livestreaming-vlc-strategies-for-2024/"><u>Streamline Your Video Livestreaming VLC Strategies for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/synchronizing-melodies-with-inshot-clips/"><u>Synchronizing Melodies with InShot Clips</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-6s-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlocking-crossfade-magic-using-audacity-effectively/"><u>Unlocking Crossfade Magic Using Audacity Effectively</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-pcs-sound-capabilities-find-and-install-the-best-windows-7-audio-drivers/"><u>Update Your PC's Sound Capabilities: Find & Install the Best Windows 7 Audio Drivers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-10-youtube-music-rippers-for-android-and-ios/"><u>[New] 10 YouTube Music Rippers for Android and iOS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-master-screen-grabbing-tech-list-1-8/"><u>[New] 2024 Approved Master Screen Grabbing Tech List #1-8</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-avatar-assembly-the-no-frills-guide-to-virtual-realms/"><u>[New] Avatar Assembly The No-Frills Guide to Virtual Realms</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-effortless-subtitling-and-cc-addition-techniques-for-youtube-users/"><u>[New] In 2024, Effortless Subtitling & CC Addition Techniques for YouTube Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-techniques-for-high-resolution-webcam-videos-for-2024/"><u>[New] Top Techniques for High-Resolution WebCam Videos for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-leading-the-way-in-personal-trail-tracking-drone-innovation/"><u>[Updated] In 2024, Leading the Way in Personal Trail-Tracking Drone Innovation</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unveiling-high-def-dynamics-yi-hero-camera-review/"><u>[Updated] In 2024, Unveiling High-Def Dynamics Yi Hero Camera Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capture-life-in-high-definition-on-a-budget-(1k/"><u>2024 Approved Capture Life in High Definition on a Budget (<$1K)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-connect-movie-files-in-youtv-catalog/"><u>2024 Approved Connect Movie Files in YouTV Catalog</u></a></li>
+<li><a href="https://techtrends.techidaily.com/alternative-methods-for-linking-your-logitech-optical-mouse-with-a-non-original-receiver/"><u>Alternative Methods for Linking Your Logitech Optical Mouse with a Non-Original Receiver</u></a></li>
+<li><a href="https://windows11.techidaily.com/easily-repair-nvidia-geforce-experience-errors-on-windows-pcs/"><u>Easily Repair Nvidia GeForce Experience Errors on Windows PCs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-lengthy-iphone-photo-captures/"><u>Mastering Lengthy iPhone Photo Captures</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sonys-vision-captured-complete-review-of-fdr-x1000v/"><u>Sony's Vision Captured - Complete Review of FDR-X1000V</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-packing-list-travel-video-edition/"><u>The Ultimate Packing List Travel Video Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/understanding-and-leveraging-snapchat-spotlight/"><u>Understanding and Leveraging Snapchat Spotlight</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-podcast-startup-financials/"><u>Unveiling the Podcast Startup Financials</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/videamax-app-quality-examination/"><u>Videamax App Quality Examination</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-f23-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo F23 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] All About Hand-Based Interface Technology\""
-date: 2025-01-23T16:38:13.282Z
-updated: 2025-01-26T16:12:15.442Z
+date: 2025-02-15T03:53:12.358Z
+updated: 2025-02-17T16:01:11.568Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,10 @@ In this article, we’ll discuss **Hand Tracking** technology, its various appli
 
 * [Use Filmora to demonstarte your Hand Tracking skill](#part4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. What Is Hand Tracking? Where Is It Applied?
 
 Hand Tracking refers to the process of tracking the position and movement of a user's hands in virtual reality. This is usually done using a combination of sensors, including cameras, infrared sensors, or ultrasonic sensors.
@@ -46,6 +50,10 @@ The Oculus Quest 2 is a virtual reality headset that immerses you in virtual wor
 With Hand Tracking, you can interact with the virtual world more naturally and intuitively. You can use your hands to pick up objects, draw, and even type on a virtual keyboard. Moreover, it opens up new possibilities for gameplay, allowing you to play games in new and innovative ways.
 
 ![hand tracking technology](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-technology.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Types Of Hand Tracking
 
@@ -75,10 +83,6 @@ Also known as Markerless Hand Tracking, this type of Hand Tracking allows users 
 
 Right now, markerless Hand Tracking is still in its early stages, with a few limitations. However, as this technology continues to develop, we will likely see more and more applications for it in the future.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. Using Python, OpenCV, And MediaPipe To Create A Hand Tracking
 
 Above we have learned what is Hand Tracking and the two types of it. Now let’s see how we can create a hand tracking with two Python Libraries - OpenCV and MediaPipe.
@@ -88,10 +92,6 @@ Before we go further about them, let us learn about Python quickly. Python is a 
 ### What is OpenCV
 
 To get a deeper understanding of OpenCV, please read our article: _Opencv Tracking, a compete review_.（同期交付文章，请插入相关内链\~）
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What Is Media Pipe
 
@@ -104,6 +104,10 @@ There are two stages for creating a Hand Tracking program using MediaPipe:
 
 ![20 hand landmarks for identifiction – hand tracking](https://images.wondershare.com/filmora/article-images/2022/07/20-hand-landmarks-for-identifiction-hand-tracking.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Guidance With Steps
 
 Before starting to create Hand Tracking, you need to install the [Pycharm IDE](https://www.jetbrains.com/pycharm/download/#section=windows)app on your PC. Once installed, launch it and follow these instructions step-by-step:
@@ -113,10 +117,6 @@ Before starting to create Hand Tracking, you need to install the [Pycharm IDE](h
 Click the **“New Project”** option and select **“Create”** on the next Window. Open the **Terminal** to install the two libraries.
 
 ![install and launch the pycharm app on your pc](https://images.wondershare.com/filmora/article-images/2022/07/install-and-launch-the-pycharm-app-on-your-pc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Copy and paste the following command in the **Terminal** to install **OpenCV:**
 
@@ -142,10 +142,6 @@ Copy and paste the following line of code to take the image input from your PC w
 
 ![capturing and processing an image input](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The image is converted to RGB from BGR because MediaPipe works with this type of image. The RBG image is then processed to track the hand.
 
 ##### Step3 Working With Both Hands
@@ -158,10 +154,6 @@ Now, create a class for tracking and for the hands function to work, key in the 
 
 ![creating method for tracking hands](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Afterward, use the above code to create a method for using specifically to identify hands in the input image. The code will also draw hand landmarks and hand connections.
 
 ##### Step5 Locate The ‘X’ and ‘Y’ Coordinates Of Each Hand Point
@@ -169,6 +161,10 @@ Afterward, use the above code to create a method for using specifically to ident
 To create a method for finding the x and y coordinates of the z21 hand points and a list that you will use to keep the values of these, write the code below:
 
 ![locate x and y coordinate of hand point](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In this method, use the code that you used to find the ID and hand landmark of each hand point. Moreover, put the code you will use to circle the hand point.
 
@@ -185,7 +181,7 @@ To execute the main method, copy and paste the following code lines:
 ![main method execution](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step8 Result
@@ -227,13 +223,13 @@ With Hand Tracking, you can interact with the virtual world more naturally and i
 
 ![hand tracking technology](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-technology.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. Types Of Hand Tracking
 
 There are two main types of Hand Tracking: with interface and without interface:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tracking With Interface
 
@@ -266,12 +262,16 @@ Above we have learned what is Hand Tracking and the two types of it. Now let’s
 Before we go further about them, let us learn about Python quickly. Python is a versatile language used for a wide range of tasks, including image processing and computer vision. We will use Python and two Python Libraries: OpenCV and MediaPipe, to create a Hand Tracking module.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is OpenCV
 
 To get a deeper understanding of OpenCV, please read our article: _Opencv Tracking, a compete review_.（同期交付文章，请插入相关内链\~）
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What Is Media Pipe
 
@@ -298,6 +298,10 @@ Copy and paste the following command in the **Terminal** to install **OpenCV:**
 
 ![copy and paste command to install opencv](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, to install **MediaPipe**, copy and paste the following command:
 
 ![install mediapipe](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-2.jpg)
@@ -317,6 +321,10 @@ First, import the OpenCV and MediaPipe to use their dependencies. Once done, cre
 Copy and paste the following line of code to take the image input from your PC webcam.
 
 ![capturing and processing an image input](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The image is converted to RGB from BGR because MediaPipe works with this type of image. The RBG image is then processed to track the hand.
 
@@ -352,17 +360,9 @@ To execute the main method, copy and paste the following code lines:
 
 ![main method execution](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step8 Result
 
 The module and output of the program will be the same, and when they are complete without any errors, you will get your output, i.e., the module will track and identify your hand movements without any glitches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4\. Use Filmora to demonstarte your Hand Tracking skill
 
@@ -406,21 +406,21 @@ We hope this guide helped resolve your queries, and you can now create a Hand Tr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unlock-the-magic-crafting-impactful-photos-for-insta-cover-highlights/"><u>[New] In 2024, Unlock the Magic Crafting Impactful Photos for Insta Cover Highlights</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/everaging-wirecast-technology-for-dynamic-youtube-live-experiences-for-2024/"><u>[New] Leveraging WireCast Technology for Dynamic Youtube Live Experiences for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-earn-big-on-youtube-strategies-for-successful-creators-for-2024/"><u>[Updated] Earn Big on YouTube Strategies for Successful Creators for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-secret-to-exceptional-instagram-reels/"><u>[Updated] In 2024, The Secret to Exceptional Instagram Reels</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/complete-spend-summary-initiating-your-podcast-journey/"><u>Complete Spend Summary Initiating Your Podcast Journey</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-vivo-s17t-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Vivo S17t FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-tips-to-enhance-your-youtube-live-stream-with-zoom/"><u>Essential Tips to Enhance Your YouTube Live Stream with Zoom</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expertly-chosen-top-5-premium-drones-for-professionals/"><u>Expertly Chosen Top 5 Premium Drones for Professionals</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/imageintensifymax7-boosting-pixels-magnificently/"><u>ImageIntensifyMax7 Boosting Pixels Magnificently</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-beginners-blueprint-mastering-movie-maker-with-windows-8/"><u>In 2024, Beginner's Blueprint Mastering Movie Maker with Windows 8</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/leveraging-instagrams-story-segmenting-system/"><u>Leveraging Instagram's Story Segmenting System</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/magix-photographic-mastery-an-in-depth-review/"><u>MAGIX Photographic Mastery An In-Depth Review</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-stop-worrying-if-your-adobe-premiere-playback-slows-down-this-guide-will-show-you-the-best-solutions-to-resolve-this-issue-and-a-perfect-alterna/"><u>New In 2024, Stop Worrying if Your Adobe Premiere Playback Slows Down. This Guide Will Show You the Best Solutions to Resolve This Issue and a Perfect Alternative</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/perfecting-motion-capture-in-a-canon-lens/"><u>Perfecting Motion Capture in a Canon Lens</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-the-blue-tick-the-path-to-authenticating-your-identity-on-the-renamed-social-platform/"><u>Unlocking the Blue Tick: The Path to Authenticating Your Identity on the Renamed Social Platform</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-complete-manual-for-logging-and-storing-periscope-video/"><u>[New] A Complete Manual for Logging & Storing Periscope Video</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-artistry-in-your-pocket-the-bestiary-of-top-8-iphone-drawing-apps/"><u>[Updated] Artistry in Your Pocket The Bestiary of Top 8 iPhone Drawing Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-background-excision-tool-affinity-photo/"><u>[Updated] Background Excision Tool Affinity Photo</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-the-magic-of-moonlight-iphonely/"><u>[Updated] Capture the Magic of Moonlight iPhonely</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-camera-control-tips-for-unshakable-images/"><u>2024 Approved Camera Control Tips for Unshakable Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-cold-games-2022s-ultimate-snowboard-dueling-display/"><u>2024 Approved Cold Games 2022'S Ultimate Snowboard Dueling Display</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-share-apple-iphone-se-screen-with-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Share Apple iPhone SE Screen with PC | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-mastering-your-fb-profile-picture-update/"><u>In 2024, Mastering Your FB Profile Picture Update</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-choices-of-affordable-cameras-with-full-hd/"><u>In 2024, Prime Choices of Affordable Cameras with Full HD</u></a></li>
+<li><a href="https://video-capture.techidaily.com/introduction-to-organizing-remote-work-hours/"><u>Introduction to Organizing Remote Work Hours</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-gpt-3-on-android-and-ios-platforms/"><u>Mastering GPT-3 on Android & iOS Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/my-top-picks-why-i-love-the-apple-watch-ultra-2-and-score-big-savings-this-labor-day/"><u>My Top Picks: Why I Love the Apple Watch Ultra 2 and Score Big Savings This Labor Day</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pixel-vs-ipad-showdown-detailed-specs-compared-side-by-side-tech-insights-on-zdnet/"><u>Pixel Vs. IPad Showdown: Detailed Specs Compared Side by Side - Tech Insights on ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/toggle-pip-for-streaming-youtube-videos-more-conveniently-with-iphone/"><u>Toggle PIP for Streaming Youtube Videos More Conveniently with iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-notch-apps-to-refine-your-iphone-and-android-gopro-videos-for-2024/"><u>Top-Notch Apps to Refine Your iPhone & Android GoPro Videos for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-ranked-smart-eyewear-innovations/"><u>Top-Ranked Smart Eyewear Innovations</u></a></li>
 </ul></div>
 

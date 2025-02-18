@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Cinema Crafting Excellence  Top 5 Camera Skills to Hone\""
-date: 2024-07-25T04:46:54.360Z
-updated: 2024-07-26T04:46:54.360Z
+date: 2025-02-13T02:56:03.115Z
+updated: 2025-02-18T03:27:43.990Z
 tags: 
   - screen-recording
   - ai video
@@ -32,23 +32,18 @@ Still, if you are on a budget, you can use some everyday household objects to ge
 
 Step 1 Attach your phone to the side of a door using duct tape or any strong tape that can hold your phone and not let it fall.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![smooth camera movement](https://images.wondershare.com/filmora/article-images/2022/12/smooth-camera-movement.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2 Now open and close the door to get smooth camera movement.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tip 2\. DIY Light Focus and Control
 
 Shaping light is a crucial component of filmmaking, requiring command over creating and guiding shadows. You need to focus the light on the subjects rather than the background. Use the following methods to focus light on the point of interest.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### DIY LED Panel
 
 You can create LED Panel at home to add light to a subject. Unfortunately, LED strips do not produce bright light when spread as a straight line. However, we can use cardboard and LED light strips to build a broader, more brilliant light. Follow the steps below to make DIY LED Panel.
@@ -66,6 +61,14 @@ Step 4 Plug in the LED strip and use this LED Panel for a broader light source.
 Alright! Let's check out how it looks in the video below.
 
 ![diy led panel](https://images.wondershare.com/filmora/article-images/2022/12/diy-led-panel.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### DIY Light Flag
 
@@ -86,8 +89,9 @@ Let us see how it looks;
 ![diy light flag](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-flag.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### DIY Black Wrap
 
 A black wrap is made of aluminum, so you can use aluminum foils to make black wrap at your home. Black wraps are used to shape and block light during filmmaking.
@@ -108,9 +112,6 @@ Step 5 Put the bulb on the lamp and turn it on the lamp.
 
 Here is a GIF attached for a better understanding of the steps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![diy black wrap](https://images.wondershare.com/filmora/article-images/2022/12/diy-black-wrap.gif)
 
 ### DIY Light Reflector
@@ -129,18 +130,16 @@ Step 3 Use the reflector to redirect light to your object.
 
 There is a GIF attached below to understand the steps visually.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![diy light reflector](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-reflector.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tip 3\. DIY Light Diffuser
 
 In professional productions, light diffusers are frequently used to soften, level out the lighting, and lessen the harshness of shadows.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Diffuse Lights With a Desk Mat
 
 You can diffuse the light using a transparent desk mat if you think there is too much light.
@@ -159,16 +158,10 @@ For a better understanding of the steps, watch the GIF attached below.
 
 ![diy light diffuser](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-diffuser.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tip 4\. Reveal Movement and 180° Presentation
 
 The most commonly used cinematic movements are the reveal and 180° presentation movements. A gimbal is needed to record these movements.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Reveal Movement
 
 It is the most famous cinematic Movement used these days. So let's discuss how you can record reveal movement using your phone and a gimbal.
@@ -186,6 +179,10 @@ Step 4 Locking mode is best for recording reveal movement shots.
 Here is a video showing how to record reveal movement.
 
 ![reveal movement](https://images.wondershare.com/filmora/article-images/2022/12/reveal-movement.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 180° Presentation Movement
 
@@ -226,8 +223,13 @@ The video attached below will help you to understand these steps.
 ![barrel roll shot](https://images.wondershare.com/filmora/article-images/2022/12/barrel-roll-shot.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Final Words
 
 No doubt, professional cinematography requires expensive equipment, but if you are low on budget, you can use different household items to create cinematic effects. You are using everyday gadgets for creating videos significantly reduces the cost.
@@ -262,7 +264,24 @@ After filming the videos, edit them using [Wondershare Filmora](https://tools.te
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-navigating-instagrams-question-marker-magic/"><u>[New] Navigating Instagram’s Question Marker Magic</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/our-comprehensive-pathway-to-hidden-youtube-treasures/"><u>[New] Your Comprehensive Pathway to Hidden YouTube Treasures</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-engagement-on-youtube-fending-off-automated-audiences/"><u>[Updated] 2024 Approved Elevate Engagement on YouTube Fending Off Automated Audiences</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breakthrough-beginnings-in-panzoids/"><u>2024 Approved Breakthrough Beginnings in Panzoids</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-captivating-images-using-leading-lines-iphone/"><u>2024 Approved Crafting Captivating Images Using Leading Lines (iPhone)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-memorable-titles-a-comprehensible-ae-approach/"><u>2024 Approved Crafting Memorable Titles A Comprehensible AE Approach</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-from-concept-to-delivery-using-luts-with-adobe-ae/"><u>2024 Approved From Concept to Delivery Using LUTs with Adobe AE</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-realme-c55-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Realme C55 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-note-30-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-oppo-a1-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Oppo A1 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-unveiling-vrecorder-download-and-install-made-simple/"><u>In 2024, Unveiling VRecorder Download & Install Made Simple</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-data-security-are-there-hidden-privacy-issues-in-chatgpt-interaction/"><u>Navigating Data Security: Are There Hidden Privacy Issues in ChatGPT Interaction?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/restoring-clear-vision-fixing-iphone-lens-out-of-focus/"><u>Restoring Clear Vision Fixing iPhone Lens Out-of-Focus</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seamless-integration-of-dvd-playback-on-your-system/"><u>Seamless Integration of DVD Playback on Your System</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-srt-journey-from-novice-to-expert/"><u>The SRT Journey From Novice to Expert</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-tricks-to-control-music-paceplay-in-spotify/"><u>Top Tricks to Control Music Paceplay in Spotify</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visualize-better-with-these-leading-sticker-addon-apps-for-phones/"><u>Visualize Better with These Leading Sticker Addon Apps for Phones</u></a></li>
+</ul></div>
 

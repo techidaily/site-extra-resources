@@ -1,7 +1,7 @@
 ---
 title: "Isolating Image Moments From Videos Using Windows Photos Software"
-date: 2025-01-07T01:17:47.060Z
-updated: 2025-01-07T18:49:13.977Z
+date: 2025-02-15T22:25:43.471Z
+updated: 2025-02-17T22:47:53.958Z
 tags: 
   - screen-recording
   - ai video
@@ -34,6 +34,10 @@ In this article, you will learn how to save photo from Windows 10 Photos app and
 * [**Part2: Why I can’t save photo from video**](#part2)
 * [**Part3: Alternative way to save photo from video**](#part3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to save photo from Windows 10 Photos app
 
 In this part of the article, we are going to discuss, how you would save photo from video with Windows 10 Photos app. The Photos app has numerous features for you, and the editing tools would simply amaze you. You can use the Windows Ink to write on the images or capture stills from a video for that matter. Let’s see, how to save photo from video using Windows 10 Photos app –
@@ -47,10 +51,6 @@ Creating a living image:
 
 ![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Now, you can see the living picture by tapping ‘Play’ button.
 
 These photos are stored in the ‘Pictures’ folder of your computer having ‘LI’ appended file names. Now, it’s time to save the living image as photo on your computer using Photos app.
@@ -60,11 +60,11 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Why I can’t save photo from video
 
@@ -73,7 +73,7 @@ In case, you are not able to save photos from video on Windows 10 Photos App. Th
 We are explaining the solutions here –
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Check the update
@@ -81,7 +81,7 @@ We are explaining the solutions here –
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Sign in a different account in Microsoft Store
@@ -110,7 +110,7 @@ We provided you some knowledge on how to save a photo from video Windows 10 Phot
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -128,22 +128,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-audiophiles-guide-to-the-finest-window-based-podcast-tools-8/"><u>[New] Audiophile's Guide to the Finest Window-Based Podcast Tools (#8)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ecrets-unveiled-perfect-your-360-youtube-live-experience/"><u>[New] Secrets Unveiled Perfect Your 360° YouTube Live Experience</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-10-best-free-screen-sharing-software-online-and-desktop-for-2024/"><u>[Updated] 10 Best Free Screen Sharing Software [Online & Desktop] for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-analyzing-ffmpegs-aptitude-for-maintaining-audible-fidelity/"><u>[Updated] Analyzing FFmpeg’s Aptitude for Maintaining Audible Fidelity</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-bridging-the-gap-in-vr-storytelling-and-innovation/"><u>[Updated] Bridging the Gap in VR Storytelling and Innovation</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/20-quick-video-concepts-for-aspiring-vloggers/"><u>20 Quick Video Concepts for Aspiring Vloggers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/achieve-harmony-import-audio-to-your-inshot-clips-for-2024/"><u>Achieve Harmony Import Audio to Your InShot Clips for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/auditory-purity-in-ffmpeg-a-format-friendly-perspective-for-2024/"><u>Auditory Purity in FFmpeg A Format-Friendly Perspective for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/aviation-tech-syma-x8cs-capabilities/"><u>Aviation Tech Syma X8C's Capabilities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-considerations-why-you-should-think-twice-about-relying-on-chatgpt-for-emotional-support/"><u>Essential Considerations: Why You Should Think Twice About Relying on ChatGPT for Emotional Support</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expert-tips-to-triumph-in-spotifys-ad-marketplace/"><u>Expert Tips to Triumph in Spotify's Ad Marketplace</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-x7b-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor X7b</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-asus-rog-phone-7-ultimate-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Asus ROG Phone 7 Ultimate? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/metavision-journey-essential-gear-for-metaverse-visitors/"><u>Metavision Journey Essential Gear for Metaverse Visitors</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-top-5-stop-motion-animation-tools-free-and-paid-options-for-2024/"><u>New Top 5 Stop Motion Animation Tools Free and Paid Options for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/peak-psd-gradient-innovations/"><u>Peak PSD Gradient Innovations</u></a></li>
-<li><a href="https://common-error.techidaily.com/say-goodbye-a-comprehensive-guide-on-fixing-recurring-usb-recognition-issues/"><u>Say Goodbye: A Comprehensive Guide on Fixing Recurring USB Recognition Issues</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-pinnacle-headlines-engineer/"><u>[New] 2024 Approved Pinnacle Headlines Engineer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-step-by-step-introduction-to-ffpm/"><u>[New] A Step-by-Step Introduction to FFPM</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-conquering-interviews-a-compreayers-journey-to-success/"><u>[New] Conquering Interviews A Compreayer's Journey to Success</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-snap-into-clarity-10-online-tools-to-blur-proof-images/"><u>[New] Snap Into Clarity 10 Online Tools to Blur-Proof Images</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-ultimate-guide-to-podcast-style-unboxing/"><u>[Updated] 2024 Approved The Ultimate Guide to Podcast-Style Unboxing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-become-a-kinemaster-wizard-essentials-techniques-and-10-top-online-contenders/"><u>[Updated] In 2024, Become a KineMaster Wizard Essentials, Techniques & 10 Top Online Contenders</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-virality-voyage-navigating-newsfeeds-with-noteworthy-posts/"><u>[Updated] Virality Voyage Navigating Newsfeeds with Noteworthy Posts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/blurface-secrets-clean-up-your-photos-quickly/"><u>Blurface Secrets Clean Up Your Photos Quickly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/digital-illusions-mastery-of-partial-picture-softness/"><u>Digital Illusions Mastery of Partial Picture Softness</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/future-of-animation-unveiled-selection-of-state-of-the-art-modelling-apps/"><u>Future of Animation Unveiled Selection of State-of-the-Art Modelling Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-accessible-ai-tools-like-chatgpt-and-whisper-can-transform-your-companys-operations/"><u>How Accessible AI Tools Like ChatGPT and Whisper Can Transform Your Company's Operations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-action-cam-showdown-gopro-vs-yi-technology-review/"><u>In 2024, Action Cam Showdown GoPro Vs. Yi Technology Review</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-network-errors-in-windows-11-os/"><u>Navigating Through Network Errors in Windows 11 OS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pro-audio-tech-review-exploring-the-top-6-stream-ready-mics/"><u>Pro Audio Tech Review Exploring the Top 6 Stream-Ready Mics</u></a></li>
+<li><a href="https://solve-help.techidaily.com/regain-access-to-removed-media-a-guide-to-4-no-charge-techniques-for-restoring-video-files-on-dji-devices/"><u>Regain Access to Removed Media: A Guide to 4 No-Charge Techniques for Restoring Video Files on DJI Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/reviewing-free-screen-recorder-tools-for-pc/"><u>Reviewing Free Screen Recorder Tools for PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/skyline-spectacular-the-gopro-karma-edition/"><u>Skyline Spectacular The GoPro Karma Edition</u></a></li>
 </ul></div>
 
