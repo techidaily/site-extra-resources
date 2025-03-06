@@ -1,7 +1,7 @@
 ---
 title: "Quick Steps to Clear the Exterior of Your Photos in Affinity"
-date: 2025-02-14T20:46:09.264Z
-updated: 2025-02-17T20:33:52.432Z
+date: 2025-03-03T17:18:55.513Z
+updated: 2025-03-06T19:10:23.052Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,6 @@ Affinity Photo is an image editor developed by Serif Ltd. in 2009 and is used by
 
 No matter you are a professional content creator or a newbie, we'll be discussing how to remove background in Affinity Photo. Let's explore how to use the good editing tool to be free of the stressful editing process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Remove Affinity Photo to Remove Image's Background
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
@@ -39,10 +35,6 @@ Step1 In the first step, install the [Affinity Designer](https://affinity.serif.
 Now access the **Pixel Persona** section in the left corner of the software screen by clicking the **colored boxes** icon.
 
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
@@ -63,10 +55,6 @@ Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Remove a Busy Background in Affinity Designer
 
@@ -131,10 +119,6 @@ And if you have any interests in finding free images to expand your resource, yo
 
 Hopefully, this article and video can help you create ideal images!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -142,10 +126,6 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
@@ -197,24 +177,24 @@ Hopefully, this article and video can help you create ideal images!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-casino-contestant-commentary/"><u>[New] CASINO CONTESTANT COMMENTARY</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-ace-your-shots-top-cameras-and-lenses-for-youtubers/"><u>[New] In 2024, Ace Your Shots Top Cameras & Lenses for YouTubers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-breaking-barriers-worlds-best-and-largest-shorts-downloaders/"><u>[New] In 2024, Breaking Barriers World’s Best & Largest Shorts Downloaders</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-perfect-your-instagram-game-with-smart-video-posting-techniques/"><u>[New] Perfect Your Instagram Game with Smart Video Posting Techniques</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-step-by-step-guide-to-hulu-screen-capture-for-various-operating-systems/"><u>[Updated] In 2024, Step-by-Step Guide to Hulu Screen Capture for Various Operating Systems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/apex-productions-audit-studio-25-breakdown-2023-for-2024/"><u>Apex Productions Audit Studio 25 Breakdown, 2023 for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/bluetooth-bonding-a-step-by-step-guide-to-connecting-an-android-phone-with-your-pc-for-optimal-syncing/"><u>Bluetooth Bonding: A Step-by-Step Guide to Connecting an Android Phone with Your PC for Optimal Syncing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/chuckling-chords-crafting-top-tier-meme-content/"><u>Chuckling Chords Crafting Top-Tier Meme Content</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comparing-magix-to-other-video-editors-for-2024/"><u>Comparing Magix to Other Video Editors for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/from-camera-to-feed-instagram-video-upload-on-desktop/"><u>From Camera to Feed Instagram Video Upload on Desktop</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/grasping-the-greener-side-of-valheim-top-seeds-list-for-2024/"><u>Grasping the Greener Side of Valheim Top Seeds List for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-humor-picture-processor/"><u>In 2024, Best Humor Picture Processor</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-capture-clarity-boost-photos-with-zero-cost/"><u>In 2024, Capture Clarity Boost Photos with Zero Cost</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-create-captivating-sports-videography/"><u>In 2024, Create Captivating Sports Videography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-3d-text-psd-goldmine-top-selections/"><u>In 2024, Free 3D Text PSD Goldmine - Top Selections</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-y27-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo Y27 5G FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/initial-learning-executing-fade-ins-professionally/"><u>Initial Learning Executing Fade-Ins Professionally</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/master-the-metaverse-humor-scene-with-our-top-meme-ideas/"><u>Master the Metaverse Humor Scene with Our Top Meme Ideas</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/professional-video-finishing-touches-device-based-filters/"><u>Professional Video Finishing Touches Device-Based Filters</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-scrutinizing-the-importance-of-honesty-in-online-self-portraits-for-2024/"><u>[New] Scrutinizing the Importance of Honesty in Online Self-Portraits for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-youtube-image-techniques-for-engaging-views-for-2024/"><u>[Updated] YouTube Image Techniques for Engaging Views for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-adding-soundtracks-to-your-inshot-projects/"><u>2024 Approved Adding Soundtracks to Your InShot Projects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-boundaries-top-6-artists-leading-nft-frontier/"><u>2024 Approved Breaking Boundaries Top 6 Artists Leading NFT Frontier</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-brighten-and-balance-photos-with-easy-ps-tips/"><u>2024 Approved Brighten and Balance Photos with Easy PS Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capturecraft-hd-top-10-freepaid-filters-list/"><u>2024 Approved CaptureCraft HD Top 10 Free/Paid Filters List</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comparing-content-formats-podcasts-versus-youtube/"><u>2024 Approved Comparing Content Formats Podcasts Versus YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-examination-of-syma-x5c-perfect-for-uav-newbies/"><u>2024 Approved Comprehensive Examination of Syma X5C Perfect for UAV Newbies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-counterview-commentary-review/"><u>2024 Approved CounterView Commentary Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-enabled-prompt-engineering-understanding-its-professional-landscape/"><u>AI-Enabled Prompt Engineering: Understanding Its Professional Landscape</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/augmented-spectacle-the-new-age-of-movie-magic-for-2024/"><u>Augmented Spectacle The New Age of Movie Magic for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoid-download-hassle-top-5-online-converters-for-gif-to-video-for-2024/"><u>Avoid Download Hassle Top 5 Online Converters for GIF to Video for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resume-print-spooler-on-windows-systems-after-a-hiccup/"><u>How to Resume Print Spooler on Windows Systems After a Hiccup</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-finding-the-balance-adding-videos-to-text-on-a-budget/"><u>In 2024, Finding the Balance Adding Videos to Text on a Budget</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-htc-u23-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change HTC U23 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-a34-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy A34 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-graphic-design-career-pathways-unveiled/"><u>In 2024, Mastering Graphic Design Career Pathways Unveiled</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-meme-making-maven-the-tale-of-jake-pauls-youtube-triumph/"><u>In 2024, Meme-Making Maven The Tale of Jake Paul's Youtube Triumph</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tricks-for-rapid-download-experience-at-ms-store/"><u>Tricks for Rapid Download Experience at MS Store</u></a></li>
 </ul></div>
 

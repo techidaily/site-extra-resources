@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Above and Beyond  Vertical Panoramas Made Easy\""
-date: 2025-02-15T02:42:25.483Z
-updated: 2025-02-17T18:43:36.668Z
+date: 2025-03-04T19:48:06.508Z
+updated: 2025-03-06T16:37:24.076Z
 tags: 
   - screen-recording
   - ai video
@@ -34,18 +34,10 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
  However, you will need to use a few but simple techniques to efficiently capture the vertical panoramic view. In this article, we’ll explain you how you can carry out those extraordinary views with your Android or iOS device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to take vertical panorama photography with your respective Smartphone
 
 * [Part 1: For iPhone Users](#part1)
 * [Part 2: For Android Users](#part2)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### For iPhone users
 
@@ -55,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 * Make sure to hold the device horizontally and hit the camera button.
 
 ![](https://images.wondershare.com/filmora/article-images/iphone-panorama-mode.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image source: mac-fusion
 
@@ -80,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 * Repeat the same with other dots as well. In other words, move camera towards the gray dots one by one until they get disappear.
 * Tap on "Done" when completed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Some Beneficial Tips for shooting vertical panorama photo
 
 * Firstly, we would suggest you using a tripod when you need to take **vertical panorama on iPhone** or Android smoothly i.e. to avoid shakiness.
@@ -92,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 * Leaving some space is another beautiful tip especially if you are a graphic designer and want to add some text into the picture. The panorama shot will look perfectly enhanced this way.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -112,19 +92,15 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-bridging-audio-artistry-in-visual-formats-for-2024/"><u>[New] Bridging Audio Artistry in Visual Formats for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-engage-fully-with-podcasts-15-essential-tasks/"><u>[New] In 2024, Engage Fully with Podcasts 15 Essential Tasks</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-advanced-conversion-mp4-to-facebook-2023/"><u>2024 Approved Advanced Conversion MP4 to FaceBook 2023</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-realme-12-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/achieve-high-quality-recordings-with-these-5-windows-11-tips/"><u>Achieve High-Quality Recordings with These 5 Windows 11 Tips</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/anymp4-screen-recorder-download-and-review/"><u>AnyMP4 Screen Recorder Download and Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-the-best-raspberry-pi-expansion-boards-enhance-your-projects-with-our-curated-hat-list/"><u>Explore the Best Raspberry Pi Expansion Boards : Enhance Your Projects with Our Curated HAT List!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-oneplus-nord-ce-3-lite-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do OnePlus Nord CE 3 Lite 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-asus-unboxing-special-the-mg28uq-monitor-a-high-res-journey/"><u>In 2024, ASUS Unboxing Special The MG28UQ Monitor - A High-Res Journey</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-f34-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy F34 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-telegram-web-a-step-by-step-pathway/"><u>Mastering Telegram Web A Step-by-Step Pathway</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/transform-your-avi-videos-into-compact-mpegs-securely-and-at-no-cost-via-movavis-web-service/"><u>Transform Your AVI Videos Into Compact MPEGs Securely and at No Cost via Movavi's Web Service</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-exploration-2024s-videoshow-application/"><u>Ultimate Exploration 2024'S VideoShow Application</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/windows-movie-maker-6-unlocking-the-downloading-process/"><u>Windows Movie Maker 6 Unlocking the Downloading Process</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-achieving-vibrant-colors-srgb-techniques-for-2024/"><u>[Updated] Achieving Vibrant Colors Srgb Techniques for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-achieving-prominence-with-apples-listings/"><u>2024 Approved Achieving Prominence with Apple's Listings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-camcorders-featuring-direct-faceviewing/"><u>2024 Approved Best Camcorders Featuring Direct FaceViewing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-top-10-collage-apps-for-android-top-picks/"><u>2024 Approved Top 10 Collage Apps for Android (Top Picks)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/amplifying-visuals-android-video-guide/"><u>Amplifying Visuals Android Video Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/essential-tips-for-twitpic-uploads-for-2024/"><u>Essential Tips for Twitpic Uploads for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/leading-audio-based-multiplayer-conversation-software-for-gamers-for-2024/"><u>Leading Audio-Based Multiplayer Conversation Software for Gamers for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/passos-para-recuperar-pastas-e-arquivos-excluidos-accidentalmente-no-sistema-operacional-windows/"><u>Passos Para Recuperar Pastas E Arquivos Excluídos Accidentalmente No Sistema Operacional Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-gpt-4-all-insights-into-its-functionality/"><u>Understanding GPT-4 All: Insights Into Its Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-smart-unlock-hacked-is-it-safe-to-use/"><u>Windows Smart Unlock Hacked – Is It Safe to Use?</u></a></li>
 </ul></div>
 

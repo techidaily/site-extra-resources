@@ -1,7 +1,7 @@
 ---
 title: "\"Sculpting Textures  Creating Realistic 3D Effects in Illustrator\""
-date: 2025-02-16T01:19:18.470Z
-updated: 2025-02-18T03:02:26.438Z
+date: 2025-03-05T18:15:55.769Z
+updated: 2025-03-06T20:02:41.106Z
 tags: 
   - screen-recording
   - ai video
@@ -40,10 +40,6 @@ Step2 Click on the **Type tool** and click anywhere on your blank canvas. Then, 
 
 ![type tool illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-type-tool.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Now, look at the bottom-right corner of the program. Find the **Font** settings and change your font type and size to anything you want.
 
 ![change font illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-font.png)
@@ -70,10 +66,6 @@ Step8 Now, all left to do is experiment with the settings in this panel and adju
 
 Step9 Finally, it's time to export the image, and you're all done.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Alternative Way to Create 3D Text Animation
 
 You might not believe it, but there's an even more accessible and less expensive way to create 3D text effects. You can use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Compared to Illustrator, Filmora is much better for beginners and more affordable.
@@ -94,17 +86,9 @@ Step2 Head to the **Titles** tab and search for the **“3D Illustration**” ti
 
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
@@ -132,17 +116,9 @@ Step3 Double-click on the 3D title layer you dragged into the Timeline. When the
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -172,20 +148,19 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-capture-and-create-first-edits-in-lunapic-photo-editor-for-2024/"><u>[New] Capture & Create First Edits in LunaPic Photo Editor for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-recover-lost-photos-on-snapchat/"><u>[New] Recover Lost Photos on Snapchat</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-infinity-refresh-top-5-hdmi-2ranetixx-gaming-screens-ps5/"><u>[Updated] Infinity Refresh Top 5 HDMI 2Ranetixx Gaming Screens [PS5]</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-cutting-edge-icons-and-logos-from-6-innovative-websites/"><u>2024 Approved Cutting-Edge Icons and Logos From 6 Innovative Websites</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/average-earnings-in-the-world-of-podcasting/"><u>Average Earnings in the World of Podcasting</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-xiaomi-redmi-12-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Xiaomi Redmi 12?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehensive-fs-view-strategies-for-premiere-pro/"><u>Comprehensive FS View Strategies for Premiere Pro</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/examining-samsungs-digital-photography-enhancements/"><u>Examining Samsung's Digital Photography Enhancements</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expertly-convert-videos-on-your-device-with-the-most-trusted-apps-8/"><u>Expertly Convert Videos on Your Device with the Most Trusted Apps #8</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/flipping-filmmaking-on-your-android-device-for-2024/"><u>Flipping Filmmaking on Your Android Device for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-honor-90-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Honor 90 FRP</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-capture-still-shots-from-video-using-photos-on-windows-10/"><u>In 2024, Capture Still Shots From Video Using Photos on Windows 10</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/premier-ai-driven-picture-editing-suite/"><u>Premier AI-Driven Picture Editing Suite</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/proven-tactics-for-adjusting-track-pace-on-spotify-app-for-2024/"><u>Proven Tactics for Adjusting Track Pace on Spotify App for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/skype-soundtrack-hub-finding-the-right-tones-online/"><u>Skype Soundtrack Hub Finding the Right Tones Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-biz-vr-innovations-new-frontiers-in-virtual-workspaces/"><u>[New] Biz-VR Innovations New Frontiers in Virtual Workspaces</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-no-entry-price-voice-transformation-for-valorant-gamers/"><u>[Updated] Best No-Entry Price Voice Transformation for Valorant Gamers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-how-to-facetime-on-android-easily/"><u>[Updated] In 2024, How To Facetime on Android Easily</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-from-simulation-to-reality-jaunt-vrs-journey/"><u>2024 Approved From Simulation to Reality Jaunt VR's Journey</u></a></li>
+<li><a href="https://win-premium.techidaily.com/onenote/"><u>應用四種簡單技巧重新追回 OneNote 中消失的筆記</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-films-with-effective-b-roll-usage/"><u>Enhancing Films with Effective B-Roll Usage</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-install-an-sd-card-on-your-steam-deck/"><u>How to Install an SD Card on Your Steam Deck</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-oneplus-nord-ce-3-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On OnePlus Nord CE 3 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-7-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone 7 and iPad</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/subject-shine-clearing-backdrop-in-photos/"><u>Subject Shine Clearing Backdrop in Photos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-power-of-multitasking-mastering-ffpm/"><u>The Power of Multitasking Mastering FFPM</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-laptop-peripherals-and-gadgets/"><u>Top-Rated Laptop Peripherals and Gadgets</u></a></li>
 </ul></div>
 

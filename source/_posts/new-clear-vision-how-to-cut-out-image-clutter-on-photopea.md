@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Clear Vision  How to Cut Out Image Clutter on Photopea\""
-date: 2025-02-11T23:18:57.993Z
-updated: 2025-02-17T23:40:19.526Z
+date: 2025-03-01T18:48:43.688Z
+updated: 2025-03-06T17:41:14.872Z
 tags: 
   - screen-recording
   - ai video
@@ -30,10 +30,6 @@ Photopea offers three options for removing the images' background, i.e., Magic W
 Magic Wand tool is responsible for instantly removing the background of an image with solid colors. In comparison, the Magic Cut tool lets you erase complicated backgrounds.  
 However, if the image is detailed, you have to select the object and remove the background manually. Below we've provided step-by-step guides to show you how you can use the Magic Wand and Magic Cut tools:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. How To Use The Magic Wand Tool To Remove The Image's Background
 
 Here's how to use the Magic Wand tool to **remove the image's background with Photopea**:
@@ -51,10 +47,6 @@ Step3 Now, simply press the **"Delete"** button on your keyboard to remove the b
 Step4 Next, find the **"Tolerance"** option in the top toolbar and increase its value until you get the appropriate number.
 
 ![adjusting the magic wand settings](https://images.wondershare.com/filmora/article-images/2023/03/adjusting-the-magic-wand-settings.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step5 Alternatively, you can reduce the value to deselect the parts of your image. Once you change the value, click on the background and press the **"Delete"** button to remove it.
 
@@ -74,10 +66,6 @@ You can modify the brush size using the drop-down icon at the top-right of the w
 
 Step4 Once satisfied with your changes, click **"OK"** to save your settings and remove the background.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Select the Subject Manually When The Image Is Detailed
 
 Although Magic Cut can handle difficult photos, there are also more precise tools available in Photopea that can help you erase the background from your images through manual selection. However, this process will be slower if your image is very detailed.
@@ -89,10 +77,6 @@ Step1 Visit the Photopea website and import your image. Right-click the **"Recta
 Step2 Now, choose the selection tool you need from the drop-down menu. For this tutorial, we've used the **"Magnetic Lasso Selection"** option.
 
 ![manually removing the image background in photopea](https://images.wondershare.com/filmora/article-images/2023/03/manually-removing-the-image-background-in-photopea.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 In the next step, select your object as precisely as possible. Now, right-click on your selection, and click **"Inverse"** from the drop-down menu.
 
@@ -114,15 +98,7 @@ Step3 Now, click the **"Edit"** option from the top menu and select **"Transform
 
 ![scaling the new background image](https://images.wondershare.com/filmora/article-images/2023/03/scaling-the-new-background-image.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Under the **"Layers"** header in the right panel, drag the new image layer below the object layer, and the background will be applied to your object.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Best Photopea's Alternative To Remove The Image's Background
 
@@ -140,17 +116,9 @@ With its Image Resizer tool, you can make your image smaller or larger in size t
 
 PixCut also offers the "Erase & Restore" tool to help you remove or restore certain parts of your image after removing the background using the AI-based tool.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Background Change
 
 PixCut gives you the option to change the removed background to something more unique using the presets available on the platform or by adding your own templates/images.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Add Shadow
 
@@ -210,16 +178,22 @@ Additionally, we recommended using Wondershare PixCut as the best alternative to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-the-updated-list-of-video-sharing-apps-to-consider-over-tiktok-for-2024/"><u>[New] The Updated List of Video Sharing Apps to Consider Over TikTok for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-ideal-audio-recording-equipment-for-idevices-enthusiasts/"><u>[Updated] 2024 Approved Ideal Audio Recording Equipment for iDevices Enthusiasts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-comparing-the-best-in-class-for-4k-screen-reality/"><u>2024 Approved Comparing the Best in Class for 4K Screen Reality</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/applying-luts-for-cinematic-color-grades-for-2024/"><u>Applying Luts for Cinematic Color Grades for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/elevate-your-workout-in-depth-analysis-of-the-cubefit-terramat-desk-exercise-mat/"><u>Elevate Your Workout: In-Depth Analysis of the CubeFit TerraMat Desk Exercise Mat</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevating-remote-meetings-learning-close-up-zoom-methods/"><u>Elevating Remote Meetings Learning Close-Up Zoom Methods</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-metaverse-advertising-playbook/"><u>The Ultimate Metaverse Advertising Playbook</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-mastering-top-quality-prints-from-heic-images/"><u>Ultimate Guide: Mastering Top-Quality Prints From HEIC Images</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-windows-playback-system-for-2024/"><u>Ultimate Windows Playback System for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/uncover-new-reads-using-cutting-edge-ai-recommender-services/"><u>Uncover New Reads Using Cutting-Edge AI Recommender Services</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/zoom-video-enhancement-from-blur-to-clarity/"><u>Zoom Video Enhancement From Blur to Clarity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-basics-of-kinetic-illustration-mastery/"><u>[New] Basics of Kinetic Illustration Mastery</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-snapchat-enhancement-the-power-of-spotlight-feature/"><u>[New] Snapchat Enhancement The Power of Spotlight Feature</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-an-exclusive-review-of-lgs-innovative-4k-screen-tech/"><u>[Updated] An Exclusive Review of LG's Innovative 4K Screen Tech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-boosting-collaboration-essential-zoom-video-alterations/"><u>[Updated] Boosting Collaboration Essential Zoom Video Alterations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-brighten-your-surroundings-with-21plus-collage-wonders/"><u>[Updated] Brighten Your Surroundings with 21+ Collage Wonders</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-cognitive-conclave-selective-general-knowledge-channels/"><u>2024 Approved Cognitive Conclave Selective General Knowledge Channels</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-powerful-narratives-with-these-30-video-plans-for-2024/"><u>Crafting Powerful Narratives with These 30 Video Plans for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/editing-images-erasing-unwanted-backdrops/"><u>Editing Images Erasing Unwanted Backdrops</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6-plus-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6 Plus to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-infinix-note-30-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Infinix Note 30 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-vivo-y100t-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Vivo Y100t?</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/how-to-stop-windows-11-from-freezing-during-file-copies/"><u>How To Stop Windows 11 From Freezing During File Copies</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-motorola-g24-power-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Motorola G24 Power?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-y100a-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo Y100A Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-audio-preferences-podcasts-or-youtube/"><u>Navigating Audio Preferences Podcasts or YouTube?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fixes-for-an-inoperative-car-sound-system/"><u>Quick Fixes for an Inoperative Car Sound System</u></a></li>
 </ul></div>
 

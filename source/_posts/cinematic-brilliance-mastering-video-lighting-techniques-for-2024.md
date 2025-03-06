@@ -1,7 +1,7 @@
 ---
 title: "\"Cinematic Brilliance  Mastering Video Lighting Techniques for 2024\""
-date: 2025-02-15T23:59:23.205Z
-updated: 2025-02-18T03:06:14.099Z
+date: 2025-03-03T16:58:59.853Z
+updated: 2025-03-06T20:41:11.548Z
 tags: 
   - screen-recording
   - ai video
@@ -48,19 +48,11 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
 
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
@@ -76,17 +68,9 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
@@ -97,10 +81,6 @@ After setting up all the lighting above, you can take a look at the comparison b
 **Using Key Light only**
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Using Key Light + Fill + Backlight**
 
@@ -146,18 +126,15 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-delving-into-the-world-of-audio-dissolves-crossfade-for-2024/"><u>[New] Delving Into the World of Audio Dissolves (Crossfade) for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-maximizing-video-impact-with-zoom-in-tiktok/"><u>[Updated] 2024 Approved Maximizing Video Impact with Zoom in TikTok</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-critical-look-at-the-leading-economically-friendly-lut-sources/"><u>[Updated] A Critical Look at the Leading, Economically Friendly LUT Sources</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-bringing-text-to-life-3d-techniques-in-illustrator/"><u>[Updated] Bringing Text to Life 3D Techniques in Illustrator</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-capturing-competition-the-best-methods-for-recording-games/"><u>[Updated] Capturing Competition The Best Methods for Recording Games</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-gopro-editing-apps-for-iphone-and-android-phone/"><u>Best GoPro Editing Apps for iPhone and Android Phone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-itel-a70-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Itel A70</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-altering-game-console-speech-ps5ps4-upgrades/"><u>In 2024, Altering Game Console Speech PS5/PS4 Upgrades</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-picart-privacy-filter-no-more-recognizable-faces/"><u>In 2024, PicArt Privacy Filter No More Recognizable Faces</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-free-video-spinner-top-10-tools-to-rotate-and-flip-videos/"><u>New 2024 Approved Free Video Spinner Top 10 Tools to Rotate and Flip Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/open-library-legal-gaming-tracks-downloadable/"><u>Open Library Legal Gaming Tracks Downloadable</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/srs-adjustment-guide-boosting-performance-on-both-platforms/"><u>SRS Adjustment Guide Boosting Performance on Both Platforms</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-pcs-top-choice-essential-ps1-emulators/"><u>[New] In 2024, PC's Top Choice Essential PS1 Emulators</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-xsplit-sourcebook-exclusive-split-and-review-content/"><u>[New] In 2024, XSplit Sourcebook Exclusive Split & Review Content</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-leveraging-filmora-insights-for-every-content-creator/"><u>[Updated] In 2024, Leveraging Filmora Insights for Every Content Creator</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-photographic-distortion-tactics/"><u>2024 Approved Advanced Photographic Distortion Tactics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-audio-ambiance-assembler-selecting-background-scores/"><u>2024 Approved Audio Ambiance Assembler Selecting Background Scores</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leaders-of-the-digital-age-videoaudio-innovators-index/"><u>2024 Approved Leaders of the Digital Age Video/Audio Innovators Index</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/acid-pro-revisited-exploring-equivalent-tools/"><u>ACID Pro Revisited Exploring Equivalent Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/auroras-vision-in-home-theater-systems-evaluated/"><u>Aurora's Vision in Home Theater Systems Evaluated</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/download-ios-18-complete-guide-to-installation-and-compatible-iphone-models-detailed-tutorial/"><u>Download IOS 18: Complete Guide to Installation & Compatible iPhone Models - Detailed Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/prevent-and-fix-critical-ntldr-failures-a-detailed-tutorial/"><u>Prevent and Fix Critical NTLDR Failures: A Detailed Tutorial</u></a></li>
 </ul></div>
 

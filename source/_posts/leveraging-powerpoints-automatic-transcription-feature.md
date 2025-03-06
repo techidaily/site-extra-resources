@@ -1,7 +1,7 @@
 ---
 title: "Leveraging PowerPoint’s Automatic Transcription Feature"
-date: 2025-02-14T16:08:37.704Z
-updated: 2025-02-17T20:31:46.013Z
+date: 2025-03-01T19:57:22.017Z
+updated: 2025-03-06T19:49:09.355Z
 tags: 
   - screen-recording
   - ai video
@@ -39,10 +39,6 @@ Please note that “enabling speech-to-text” in PowerPoint differs from “usi
 
 ![click on the apple logo](https://images.wondershare.com/filmora/article-images/2022/07/can-you-do-speech-to-text-in-powerpoint-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * **Select the dictation option:** select dictation from the keyboard option and check the **“on/off”** The option also has an advanced feature that allows additional commands.
 
 ![select the dictation option](https://images.wondershare.com/filmora/article-images/2022/07/can-you-do-speech-to-text-in-powerpoint-2.jpg)
@@ -65,19 +61,11 @@ Aside from the regular Cortana speech recognition on Windows, you can use the sp
 
 It is easy to use PowerPoint on a Mac after activating the **“dictation”** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Add speak to the quick access toolbar**
 
 * Sign in to the PowerPoint on your Mac device, and locate the customized **quick access toolbar.** The quick access toolbar includes **“more commands”** and other options.
 
 ![more commands and other options](https://images.wondershare.com/filmora/article-images/2022/07/can-you-do-speech-to-text-in-powerpoint-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Reselect the option to “**all commands**.” The “all commands” should be enabled because they include many other commands, but you may not activate the options without selecting them.
 
@@ -87,17 +75,9 @@ It is easy to use PowerPoint on a Mac after activating the **“dictation”** b
 
 ![locate the speak option](https://images.wondershare.com/filmora/article-images/2022/07/can-you-do-speech-to-text-in-powerpoint-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Use the speak option**
 
 Now you can click on the microphone button and speak to add text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Speak clearly, but conversationally**
 
@@ -123,10 +103,6 @@ Real-time display and translation are suitable for the multi-language purpose. Y
 
 ![click on the slide show](https://images.wondershare.com/filmora/article-images/2022/07/can-you-do-speech-to-text-in-powerpoint-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * After setting the spoken language, move on to set the **subtitle/caption language.** The subtitle or caption language is the translated language. PowerPoint allows you to translate speech without using an application. You can make a multi-language selection without much involvement - just settings.
 
 **Tips:** Many options are available for easy use and accessibility. Aside from the multi-language selection, you can explore the “slide show” settings for better understanding. You may see other options that best illustrate your need for translation in real-time on PowerPoint.
@@ -149,10 +125,6 @@ What's more, now Filmora's STT feature supports direct transcription of bilingua
 
 [Make PPT Videos](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Use Filmora STT to make PowerPoint videos translation
 
 ##### Step 1
@@ -161,19 +133,11 @@ Select the audio asset in the timeline, and click the "Speech-to-Text" icon in t
 
 ![toolbar stt](https://images.wondershare.com/filmora/guide/guide-win/toolbar-stt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 2
 
 Click the "Speech-to-Text" icon, and it will show the parameter settings. You can choose the languages to be transcribed and to be transcribed to. Filmora's STT feature supports direct transcription of bilingual subtitles with up to 27 languages of transcription
 
 ![parameter setting](https://images.wondershare.com/filmora/guide/guide-win/setting-stt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -201,10 +165,6 @@ Speech-to-text is an additional feature for all users. Typing is, however, the d
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -214,24 +174,24 @@ Speech-to-text is an additional feature for all users. Typing is, however, the d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-adjusting-visuals-in-teams-conversations-at-any-time/"><u>[New] 2024 Approved Adjusting Visuals in Teams Conversations at Any Time</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-masterclass-transition-to-mixer-broadcast-on-macos/"><u>[New] 2024 Approved Masterclass Transition to Mixer Broadcast on macOS</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-echo-your-personality-setting-unique-ringtones-and-sounds-in-androids-settings-menu/"><u>[New] Echo Your Personality Setting Unique Ringtones & Sounds in Android's Settings Menu</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-9-techniques-for-attractive-and-engaging-unboxings-on-instagram/"><u>[Updated] 9 Techniques for Attractive and Engaging Unboxings on Instagram</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-speedy-periscope-broadcasting-made-simple/"><u>[Updated] Speedy Periscope Broadcasting Made Simple</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/4k-visual-excellence-selecting-between-screen-types/"><u>4K Visual Excellence Selecting Between Screen Types</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-itel-a60-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Itel A60.</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/betting-basement-bookmarks-for-2024/"><u>BETTING BASEMENT BOOKMARKS for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/capture-and-compose-best-writing-apps-for-photos-iosandroid/"><u>Capture and Compose Best Writing Apps for Photos (iOS/Android)</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/essential-leisure-ideal-screen-time-solutions-for-2024/"><u>Essential Leisure Ideal Screen-Time Solutions for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-zoom-in-on-minecraft/"><u>How to Zoom in on Minecraft</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-building-blocks-of-virtual-experience-terminology/"><u>In 2024, Building Blocks of Virtual Experience Terminology</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-samsung-galaxy-s24-ultra-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Samsung Galaxy S24 Ultra in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/mastering-device-sync-correcting-driver-problems-with-your-logitech-f710-on-windows-81011/"><u>Mastering Device Sync: Correcting Driver Problems with Your Logitech F710 on Windows (8/10/11)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-perfect-pics-a-guide-to-posting-full-size-images-on-instagram/"><u>Mastering the Art of Perfect Pics: A Guide to Posting Full-Size Images on Instagram</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/precision-in-adding-time-stamps-to-images/"><u>Precision in Adding Time Stamps to Images</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/premium-fourteen-high-res-full-frame-selection/"><u>Premium Fourteen High Res Full Frame Selection</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-study-approach-with-four-essential-ai-driven-tools/"><u>Revolutionize Your Study Approach with Four Essential AI-Driven Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-10-iphone-video-capture-apps/"><u>Top 10 iPhone Video Capture Apps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-grading-and-correcting-with-ease-top-11-video-editing-tips/"><u>[New] In 2024, Grading and Correcting with Ease Top 11 Video Editing Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-total-environmental-immersion-in-media-creation/"><u>[New] Total Environmental Immersion in Media Creation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726221121927-3gpmp4-movavi/"><u>変換のプログレス: 3GPから無料でMP4への簡単なオンライン変更方法 - Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/canvascartoons-detailed-scrutiny-and-handbooks-24/"><u>CanvasCartoons Detailed Scrutiny & Handbooks '24</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-and-convert-photos-into-dynamic-videos-in-pixiz-for-2024/"><u>Capture and Convert Photos Into Dynamic Videos in Pixiz for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-your-world-audio-on-windows-10/"><u>Capture Your World Audio on Windows 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-excellence-a-full-breakdown-of-sj-cam-s6/"><u>Capturing Excellence A Full Breakdown of SJ-CAM S6</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/celestial-journey-enhanced-by-these-sj4000-gear-must-haves-for-2024/"><u>Celestial Journey Enhanced by These SJ4000 Gear Must-Haves for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cha-cha-chickadees/"><u>Cha-Cha Chickadees</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/choosing-between-gopro-max-and-hero-11-top-cameras-compared/"><u>Choosing Between GoPro Max and Hero 11 Top Cameras Compared</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/choosing-excellence-hdr-cameras-decoded/"><u>Choosing Excellence HDR Cameras Decoded</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chromebooks-best-vocal-transformers-the-top-5-chrome-apps-for-2024/"><u>Chromebook's Best Vocal Transformers The Top 5 Chrome Apps for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/chronological-corrections-6-utilities-to-edit-file-timestamps/"><u>Chronological Corrections: 6 Utilities to Edit File Timestamps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/comparing-igs-new-features-reels-vs-stories-for-2024/"><u>Comparing IG's New Features Reels Vs Stories for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-sades-headset-drivers-for-windows-fully-secure-and-compatible/"><u>Download Sades Headset Drivers for Windows - Fully Secure and Compatible</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-vivo-y36i-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Vivo Y36i to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-meizu-21-pro-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Meizu 21 Pro Phone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>New 2024 Approved Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
 </ul></div>
 

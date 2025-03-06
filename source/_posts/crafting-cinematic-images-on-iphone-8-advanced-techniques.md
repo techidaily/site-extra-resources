@@ -1,7 +1,7 @@
 ---
 title: "\"Crafting Cinematic Images on iPhone  8 Advanced Techniques\""
-date: 2025-02-16T01:41:15.765Z
-updated: 2025-02-18T01:10:31.061Z
+date: 2025-03-05T17:57:29.262Z
+updated: 2025-03-06T20:28:40.294Z
 tags: 
   - screen-recording
   - ai video
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 
 ![light](https://images.wondershare.com/set-light-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Avoid Using the Digital Zoom
 
  It can be very tempting to try and use the zoom function on your camera to see people better, but this ultimately doesn’t work. You will end up with a grainy video of uncertain quality, rather than one which allows you to see everything in close up. Just move towards the point you are attempting to film – the quality of the video will be better, and you will not have to fiddle with controls and menus while making the video.
@@ -58,29 +54,17 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 
 ![grid](https://images.wondershare.com/grid-iphone-camera.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use the Exposure Lock
 
  When taking a video or a picture, you will have noticed that it can change the colour and the exposure while trying to get a lock and fix on what it is going to be recording. While it is good that it tries to find the best way to accommodate the light and sound in the room, having your video change exposure throughout will be at best annoying and at worst an outright distraction. Lock your exposure down on the iPhone once you have found the optimum conditions for the video, and it will not change.
 
 ![exposure](https://images.wondershare.com/lock-exposure.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use Slow Motion\\Time Lapse Mode
 
  One way to make videos more interesting is to use either slow motion or time lapse features. The well-known use of time lapse video is if the video is extremely long, and it needs to be shortened – we are all aware of the use of montages in films, after all – and it can be very effective when used correctly. Slow motion is different - it can be used for the same reasons as in films, but it can also be used for when you need to follow instructions, or for when you want to follow what is being done in absolute detail.
 
 ![time lapse](https://images.wondershare.com/time-lapse-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Put your iPhone in Airplane Mode
 
@@ -89,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
  Putting your phone in airplane mode allows you to stop any notifications from coming in at all, and thus keeping them from ruining your video.
 
 ![airplane mode](https://images.wondershare.com/airplane-mode.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Edit your Video with Filmora
 
@@ -105,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
  Using your iPhone to make a video is not something which requires a lot of extra equipment – it simply requires some planning on your part, as well as knowledge of your iPhone’s systems. Being able to control the grid for the videos, the exposure, and anything else which can be controlled through the iPhone systems makes for much better videos off the bat, while adding in video editing software and tripods can improve the experience even more. Videos on an iPhone shouldn’t be seen as impossible.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -125,19 +101,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-beyond-photography-an-exhaustive-review-of-the-toolwiz-app-2023/"><u>[New] Beyond Photography An Exhaustive Review of the Toolwiz App, 2023</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-quick-guide-integrating-titles-into-videos-within-windows-photos-for-2024/"><u>[New] Quick Guide Integrating Titles Into Videos Within Windows Photos for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-best-practices-saving-whatsapp-conversations-audio-wise-for-2024/"><u>[Updated] Best Practices Saving WhatsApp Conversations Audio-Wise for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-5-rapid-methods-to-upgrade-your-indoor-film-project/"><u>2024 Approved 5 Rapid Methods to Upgrade Your Indoor Film Project</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comparing-digital-universes-meta-to-omni-for-2024/"><u>Comparing Digital Universes Meta to Omni for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-beyond-boundaries-revisited-assessing-current-realm-future-challenges/"><u>In 2024, Beyond Boundaries Revisited Assessing Current Realm, Future Challenges</u></a></li>
-<li><a href="https://fox-that.techidaily.com/no-link-between-your-phone-and-laptop-heres-how-to-bridge-the-gap/"><u>No Link Between Your Phone and Laptop? Here's How to Bridge the Gap</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-sms-issues-on-iphone-7-proven-fixes-to-try-now/"><u>Overcoming SMS Issues on iPhone: 7 Proven Fixes to Try Now</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/quick-and-clever-sharing-gifs-on-snapchat-made-simple-for-2024/"><u>Quick & Clever Sharing GIFs on Snapchat Made Simple for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revive-your-frozen-macbook-air-proven-solutions-and-tips-for-successful-thawing/"><u>Revive Your Frozen MacBook Air: Proven Solutions and Tips for Successful Thawing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/revolutionizing-sketches-prime-ipados-drawing-software/"><u>Revolutionizing Sketches Prime iPadOS Drawing Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-definitive-guide-to-using-iphones-built-in-speech-recording-feature/"><u>The Definitive Guide to Using iPhone's Built-In Speech Recording Feature</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-flip-side-realities-of-virtual-reality/"><u>The Flip Side Realities of Virtual Reality</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-unleashing-full-potential-phone-and-gear-vr-harmony-for-2024/"><u>[New] Unleashing Full Potential Phone and Gear VR Harmony for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-mastering-metaverse-advertising-techniques/"><u>[Updated] In 2024, Mastering Metaverse Advertising Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-optimal-instagram-posting-times-a-comprehensive-overview/"><u>[Updated] Optimal Instagram Posting Times A Comprehensive Overview</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/coordinated-audio-visual-grouping-space-for-2024/"><u>Coordinated Audio-Visual Grouping Space for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-our-favorite-apps-to-boost-students-success-in-school-projects/"><u>Discover Our Favorite Apps to Boost Students' Success in School Projects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/effortless-auditory-transition-with-logic-pro-x/"><u>Effortless Auditory Transition with Logic Pro X</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/excellent-choices-best-windows-8-podcasting-for-2024/"><u>Excellent Choices Best Windows 8 Podcasting for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/generate-custom-online-comedic-artwork/"><u>Generate Custom Online Comedic Artwork</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-tecno-phantom-v-fold-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Tecno Phantom V Fold Phones with/without a PC</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-optimize-your-pcps4-settings-stop-assassins-creed-syndicate-from-crashing/"><u>How to Optimize Your PC/PS4 Settings: Stop Assassin's Creed Syndicate From Crashing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-achieving-muted-audibility-with-effortless-fading-in-lumafusion/"><u>In 2024, Achieving Muted Audibility with Effortless Fading in Lumafusion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-zoom-video-quality-a-step-by-step-guide/"><u>Mastering Zoom Video Quality A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-the-dangerous-trade-tide-scam-spotting-and-safeguarding-tips-for-facebook/"><u>Navigating the Dangerous Trade Tide – Scam Spotting & Safeguarding Tips for Facebook</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-top-rated-free-vob-video-editors-for-pc-and-mac-for-2024/"><u>New Top-Rated Free VOB Video Editors for PC and Mac for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/shoppers-insight-making-an-informed-choice-on-your-next-360camera/"><u>Shopper's Insight Making an Informed Choice on Your Next 360Camera</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ustream-overview-plus-similar-services/"><u>Ustream Overview + Similar Services</u></a></li>
 </ul></div>
 

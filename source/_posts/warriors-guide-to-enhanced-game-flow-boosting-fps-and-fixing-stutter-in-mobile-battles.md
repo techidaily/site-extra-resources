@@ -1,7 +1,7 @@
 ---
 title: Warrior's Guide to Enhanced Game Flow - Boosting FPS & Fixing Stutter in Mobile Battles
-date: 2025-02-15T03:54:00.849Z
-updated: 2025-02-17T17:53:14.360Z
+date: 2025-03-02T17:52:19.529Z
+updated: 2025-03-06T17:27:41.194Z
 tags:
   - win11
   - win10
@@ -49,17 +49,9 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/close-bandwidth-hogging-program.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Hopefully the lagging issue doesn’t return after you close the bandwidth-hogging programs. If that’s the case, we’d suggest you play FH5 with the least programs running in the background according to your internet service capacity. Or, consult your internet service provider and consider upgrading your plan.
 
 If the lagging issue persists, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Test your internet connection
 
@@ -71,10 +63,6 @@ If the lagging issue persists, try the next fix.
 * If your internet is slow, it could lead to an unstable connection. You can google “Internet speed test” and pick a tool to **test your Internet speed** . However, when your Internet connection is unreasonably slow, consider contacting your Internet provider for help.
 
  If your internet connection is just fine and you still encounter lags while playing Forza Horizon 5, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Update your network driver
 
@@ -90,10 +78,6 @@ If the lagging issue persists, try the next fix.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
@@ -102,10 +86,6 @@ If the lagging issue persists, try the next fix.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If updating the network driver doesn’t solve your problem, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Allow Forza Horizon 5 through the firewall
 
@@ -157,10 +137,6 @@ If this fix doesn’t help with your problem, try the next fix.
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1: Flush your DNS
 
  Flushing DNS will clear the DNS cache from your PC. When the DNS cache is removed, your PC will need to obtain the data from the DNS server every time it needs to access a new website. This may solve the lagging issue in Forza Horizon 5 if it’s triggered by invalid or corrupt DNS cache data
@@ -177,10 +153,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2: Switch to a public DNS server
 
  We also recommend using a public DNS server to test the issue. Here we’ll use the Google DNS server as an example. Below are the steps:
@@ -189,16 +161,8 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
@@ -210,10 +174,6 @@ Here’s how to do it:
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this fix doesn’t solve your problem, no worries, there’s one more fix you can try.
 
@@ -245,18 +205,16 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-celebrated-scripts-spanning-eight-movie-segments/"><u>[New] Celebrated Scripts Spanning Eight Movie Segments</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-examination-of-fb-video-dimensions-for-2024/"><u>[New] Examination of FB Video Dimensions for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-achieve-cinematic-quality-with-sims-4-recordings/"><u>[New] In 2024, Achieve Cinematic Quality with Sims 4 Recordings</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-ultimate-checklist-for-transferring-snaps-to-photos-folder/"><u>[Updated] In 2024, The Ultimate Checklist for Transferring Snaps to Photos Folder</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-comprehensive-review-of-the-latest-picsart-updates-for-2024/"><u>A Comprehensive Review of the Latest PicsArt Updates for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/chrome-os-vocal-personalization-guide-review-of-the-best-speech-converters-for-2024/"><u>Chrome OS Vocal Personalization Guide Review of the Best Speech Converters for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/enjoy-immersive-movie-experiences-watch-vr-content-on-netflix-via-ios-device-app/"><u>Enjoy Immersive Movie Experiences: Watch VR Content on Netflix via iOS Device App</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/long-lasting-performance-expert-advice-on-avoiding-pc-sluggishness-from-yl-software-experts/"><u>Long-Lasting Performance: Expert Advice on Avoiding PC Sluggishness From YL Software Experts</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-top-free-video-editors-for-avi-file-conversion/"><u>New In 2024, The Top Free Video Editors for AVI File Conversion</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/snappy-solution-seconds-for-ssgnature-bg-purge/"><u>Snappy Solution Seconds for Ssgnature BG Purge</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/soviet-speech-the-common-thread-of-uk-and-russ/"><u>Soviet Speech: The Common Thread of Uk & Russ</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-instructions-for-a-new-beginning-with-windows/"><u>Step-by-Step Instructions for a New Beginning with Windows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/tips-for-producing-high-quality-hdr-photographs-with-lightroom/"><u>Tips for Producing High-Quality HDR Photographs with Lightroom</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-action-unleashed-the-latest-in-filmmaking-from-polaroids-xs-for-2024/"><u>[New] Action Unleashed The Latest in Filmmaking From Polaroid's XS for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-adding-closed-captioning-to-instagram-live-and-igtv-for-2024/"><u>[Updated] Adding Closed Captioning to Instagram Live and IGTV for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-video-player-apps-for-windows-phone/"><u>[Updated] Best Video Player Apps for Windows Phone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-chucklechamber-laughter-in-a-click/"><u>[Updated] ChuckleChamber - Laughter in a Click</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-artisans-approach-to-metaverse-laughter-and-online-jokes/"><u>[Updated] In 2024, The Artisan's Approach to Metaverse Laughter & Online Jokes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-ultimate-camera-picks-for-aspiring-youtubers/"><u>[Updated] In 2024, Ultimate Camera Picks for Aspiring YouTubers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comparing-cosmic-universes-metaverse-vs-multiverse-explained-for-2024/"><u>Comparing Cosmic Universes Metaverse vs Multiverse Explained for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-strategies-for-deciphering-windows-11-error-messages/"><u>Effective Strategies for Deciphering Windows 11 Error Messages</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/kinemasters-guide-to-fluid-film-segments/"><u>Kinemaster's Guide to Fluid Film Segments</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streaming-showdown-the-podcast-challenge-to-youtubes-dominance/"><u>Streaming Showdown The Podcast Challenge to YouTube’s Dominance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Edit with Precision  Mastery of Photoshop's Eraser\""
-date: 2025-02-17T02:39:24.632Z
-updated: 2025-02-18T00:20:50.618Z
+date: 2025-03-03T16:03:23.245Z
+updated: 2025-03-06T17:59:16.654Z
 tags: 
   - screen-recording
   - ai video
@@ -44,10 +44,6 @@ The following are the similarities between the Background Eraser and Magic Erase
 
 **Destructive Tools:** Both the Background Eraser and Magic Eraser are destructive tools in nature. They delete the pixels you erase. Therefore, you cannot undo or redo your changes once you've used either of these tools. However, there are some non-native workarounds to restore your images.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Dissimilarities
 
 Here are some dissimilarities between the Background Eraser and Magic Eraser Tools:
@@ -57,10 +53,6 @@ Here are some dissimilarities between the Background Eraser and Magic Eraser Too
 **Adjustment Settings**: The Background Eraser offers more adjustment tools than the Magic Eraser. For instance, the former offers Sampling, Limits, Brush size, Tolerance, Angle, and Protect Foreground Color settings, while the latter includes Tolerance, Anto-alias, Contiguous, Sample All Layers, and Opacity options.
 
 Each tool's diversity in options significantly affects the final image's quality. For example, the Magic Eraser Tool erases areas rapidly, though there is limited control over which pixels are deleted.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Background Of Eraser Tools Settings Before The Tutorial
 
@@ -100,10 +92,6 @@ The Limit function comes with three options:
 
 ![limits function in background eraser tool](https://images.wondershare.com/filmora/article-images/2023/03/limits-function-in-background-eraser-tool.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Tolerance
 
 Located directly to the right of the Limits function, Tolerance is one of the most important options in Background Eraser, as it signifies how much a pixel's shade can vary from the sampled color for Photoshop to erase it.
@@ -123,10 +111,6 @@ The Brush Angle option can help you adjust the angle of your crosshair to quickl
 Sometimes, Photoshop erases parts of your subject while removing the background, no matter what Tolerance value you use. To avoid this, the Protected Foreground Color option in the Options bar can come in handy.
 
 This option allows you to choose a color from your subject as a foreground color, and Photoshop will stop erasing it while you drag the brush over the image to remove the background.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Pen Pressure
 
@@ -154,10 +138,6 @@ Step4 If your image background and subject are of the same color and **Photoshop
 
 ![setting the tolerance value in background eraser tool](https://images.wondershare.com/filmora/article-images/2023/03/setting-the-tolerance-value-in-background-eraser-tool.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step5 When removing pixels from a background, you can preserve specific pixel colors from being removed, which can be helpful if they are close to the area you want to erase.
 
 For this, place the cursor on the color you want to keep and press & hold the **ALT** (Windows) or the **Option** key (Mac) until the brush changes to the Eyedropper Tool icon. Then, click the area to sample the color in the **Foreground Swatch.**
@@ -167,10 +147,6 @@ This will protect the color, and Photoshop will now avoid erasing it while remov
 Step6 Finally, after removing the background, you can place the subject on another image, a solid color, or export it as PNG with transparent BG.
 
 ![exporting the final image after erasing background with background eraser](https://images.wondershare.com/filmora/article-images/2023/03/exporting-the-final-image-after-erasing-background-with-background-eraser.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## You May Want to Know: The Working Process of Background Eraser Tool
 
@@ -192,15 +168,7 @@ Therefore, as long as we keep the crosshair within the pink area, Photoshop will
 
 However, if we accidentally erase the blue stripes, we can always go back by simply pressing the **"CTRL+Z"** in Windows and **"Command+Z"** in Mac. To undo multiple steps, hit the **"Ctrl+Alt+Z" (Windows)** or **Command+Option+Z" (Mac)** keys repeatedly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Common FAQs When Using Background Esarser Tool in Photoshop
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Why Is Photoshop Eraser Tool Not Accessible?
 
@@ -217,10 +185,6 @@ Hopefully, you find this article informative and can now easily use the Backgrou
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -266,22 +230,20 @@ Hopefully, you can use the tools in Phoshop with ease and remove images' backgro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-nba-game-broadcasting-select-the-best-platforms/"><u>[New] 2024 Approved NBA Game Broadcasting Select the Best Platforms</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-screen-saver-saviors-how-to-download-and-save-your-favorite-tweets/"><u>[New] 2024 Approved Screen Saver Saviors How to Download and Save Your Favorite Tweets</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-a-primer-on-aerial-robots-drone-dynamics-demystified/"><u>[New] A Primer on Aerial Robots Drone Dynamics Demystified</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-7-key-reddit-techniques-to-elevate-your-startups-brand-visibility/"><u>[Updated] 7 Key Reddit Techniques to Elevate Your Startup's Brand Visibility</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-exploring-virtual-horizons-with-meaningful-metaverse-sentiments/"><u>[Updated] Exploring Virtual Horizons with Meaningful Metaverse Sentiments</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-premium-psd-free-3d-text-treasure-hunt/"><u>[Updated] Premium PSD Free 3D Text Treasure Hunt</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-apex-athletes-snowspeedcross-22-recaps/"><u>2024 Approved Apex Athletes Snowspeedcross '22 Recaps</u></a></li>
-<li><a href="https://facebook.techidaily.com/activists-spark-star-rating-anger-drop-facebooks-app-ratings/"><u>Activists Spark Star Rating Anger, Drop Facebook's App Ratings</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-analysis-of-the-sony-xbr65x850f-premium-features-for-a-competitive-price/"><u>Comprehensive Analysis of the Sony XBR65X850F: Premium Features for a Competitive Price</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-cinematic-memories-with-music-for-2024/"><u>Crafting Cinematic Memories with Music for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/dissecting-the-capabilities-of-free2x-recording-software/"><u>Dissecting the Capabilities of Free2X Recording Software</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/eizos-ultra-hd-display-a-detailed-look-at-cg318-4k/"><u>EIZO's Ultra HD Display A Detailed Look at CG318-4K</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-choose-vr-headset-for-2024-mobile-vr-or-tethered-vr/"><u>How to Choose VR Headset for 2024 Mobile VR or Tethered VR?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/leading-open-source-20-best-pubg-images/"><u>Leading Open Source 20 Best PUBG Images</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-issues-with-your-wii-console-difficulties-in-reading-game-cds/"><u>Resolving Issues with Your Wii Console: Difficulties in Reading Game CDs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tailoring-your-windows-photos-display-filters-and-audio-options/"><u>Tailoring Your Windows Photos Display Filters & Audio Options</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-tier-cameras-keep-movement-at-minimum/"><u>Top-Tier Cameras Keep Movement at Minimum</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-photographers-journey-to-jaw-dropping-colors/"><u>[New] A Photographer's Journey to Jaw-Dropping Colors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-composing-captivating-cutting-edge-synopses/"><u>[New] Composing Captivating Cutting-Edge Synopses</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-hidden-sound-scribes-unveiling-ios-and-android-stealth-recorders/"><u>[New] In 2024, Hidden Sound Scribes Unveiling iOS & Android Stealth Recorders</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-chuckle-constructor-app/"><u>[Updated] Chuckle Constructor App</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-top-strategies-for-capturing-webinars-effectively/"><u>[Updated] In 2024, Top Strategies for Capturing Webinars Effectively</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-huawei-unlock-without-password-by-drfone-android/"><u>5 Solutions For Huawei Unlock Without Password</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dive-deep-into-vitas-video-editing-prowess-a-complete-analysis-2024/"><u>Dive Deep Into Vita's Video Editing Prowess - A Complete Analysis, 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/guia-facil-para-transformar-archivos-vob-protegidos-en-mp4-en-windows-10-y-macos/"><u>Guía Fácil Para Transformar Archivos VOB Protegidos en MP4 en Windows 10 Y macOS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-upgrade-or-install-the-macos-sierra/"><u>How to Upgrade or Install the macOs Sierra</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/identifying-and-resolving-hardware-clashes-a-comprehensive-guide-tips-by-yl-computing/"><u>Identifying and Resolving Hardware Clashes: A Comprehensive Guide - Tips by YL Computing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-honor-magic-5-pro-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Honor Magic 5 Pro Phone Hassle-Free</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-kinemaster-techniques-and-top-10-online-rivals/"><u>Mastering KineMaster Techniques & Top 10 Online Rivals</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reducing-oversized-win11-resolution/"><u>Reducing Oversized Win11 Resolution</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-creativity-a-deep-dive-into-metaverse-meme-culture/"><u>Unleash Creativity A Deep Dive Into Metaverse Meme Culture</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visionary-directors-cinematic-peeks/"><u>Visionary Director's Cinematic Peeks</u></a></li>
 </ul></div>
 

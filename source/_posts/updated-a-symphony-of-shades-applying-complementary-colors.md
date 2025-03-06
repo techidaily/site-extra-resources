@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] A Symphony of Shades  Applying Complementary Colors\""
-date: 2025-02-11T18:02:39.681Z
-updated: 2025-02-17T19:06:02.912Z
+date: 2025-03-02T17:13:28.128Z
+updated: 2025-03-06T18:45:44.276Z
 tags: 
   - screen-recording
   - ai video
@@ -22,29 +22,17 @@ So, you've heard about color theory but don't know what it is or how to use it a
 
 If you are more selective with your colors in your videos or imagery the viewer will find this aesthetically pleasing and may be more engaged in your content. This includes anything from logo design all the way to props for your shot. When creating your videos within Filmora it is good practice to think about your composition in all aspects including color theory and with the guide hopefully you will have a better understanding of how you can influence your color palette.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Color Theory
 
 Color theory consists of many elements that could fill a library on its own but for this guide we will focus on two key elements. The color wheel and color harmony. By understanding the color wheel and color harmony you can hand pick which colors to add or use in your pieces to create a well-balanced viewing experience which can help in viewer engagement and enjoyment.
 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Color Wheel
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
 
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
 
@@ -68,19 +56,11 @@ You may still be unsure as to how to implement color theory into your videos. Le
 
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
 
 As you can see from this example the base color for the scene is a dark blue/purple and using the analogous color of pink they created a point of interest within the scene that doesn't look out of place. This is a very good way to pull the viewers eyes towards something you want them to take in above all else.
 
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
@@ -118,16 +98,18 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-cant-access-video-feature-on-sony-a6400-camera/"><u>[New] Can't Access Video Feature on Sony A6400 Camera</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-use-chroma-keying-in-video-making/"><u>[New] In 2024, How to Use Chroma Keying in Video Making</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-smooth-image-shift-exclusive-selection-of-the-top-1-mantle/"><u>[New] Smooth Image Shift Exclusive Selection of the Top 1 Mantle</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-maximizing-insights-with-twitter-archive-analysis/"><u>[Updated] 2024 Approved Maximizing Insights with Twitter Archive Analysis</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-vive-headset-review-the-gateway-to-ultimate-virtuality/"><u>2024 Approved Vive Headset Review The Gateway to Ultimate Virtuality</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/bridging-photos-and-video-in-pixiz-a-comprehensive-guide-for-2024/"><u>Bridging Photos & Video in Pixiz A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/eco-friendly-visuals-for-film-enthusiasts/"><u>Eco-Friendly Visuals for Film Enthusiasts</u></a></li>
-<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oppo-a56s-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Oppo A56s 5G FRP Locks</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-infinix-zero-5g-2023-turbo-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Infinix Zero 5G 2023 Turbo Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Motorola Moto G24? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-speed-camera-showdown-hero-4-vs-ghost-s/"><u>The Ultimate Speed Camera Showdown Hero 4 VS Ghost-S</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-beginners-pathway-to-fashionable-snaps-and-lenses/"><u>[New] 2024 Approved The Beginner's Pathway to Fashionable Snaps & Lenses</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-capturing-moments-perfecting-zooms-snap-for-2024/"><u>[New] Capturing Moments Perfecting Zoom's Snap for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-echo-archives-digital-sound-recording/"><u>[New] Echo Archives Digital Sound Recording</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-filmeditingsuite-assessment-detailed-insights-for-2024/"><u>[New] FilmEditingSuite Assessment – Detailed Insights for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-video-seo-5-steps-to-surge-in-youtube-popularity/"><u>[Updated] Mastering Video SEO 5 Steps to Surge in YouTube Popularity</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-youtube-thumbnail-101-phones-edition-for-2024/"><u>[Updated] YouTube Thumbnail 101 Phones Edition for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beyond-the-veil-unveiling-new-horizons-in-10-sci-fi-blockbusters/"><u>2024 Approved Beyond the Veil Unveiling New Horizons in 10 Sci-Fi Blockbusters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-bright-ideas-in-film-setup-secrets-to-perfect-lighting/"><u>2024 Approved Bright Ideas in Film Setup Secrets to Perfect Lighting</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pinnacle-wearable-cameras-in-adrenaline-world/"><u>2024 Approved Pinnacle Wearable Cameras in Adrenaline World</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/alight-motion-comprehensive-review-2023-for-2024/"><u>Alight Motion Comprehensive Review 2023 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/auditory-aesthetics-for-slides-infusing-your-ppt-with-tunes/"><u>Auditory Aesthetics for Slides Infusing Your PPT with Tunes</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-streaming-platforms-for-authors/"><u>In 2024, Prime Streaming Platforms for Authors</u></a></li>
 </ul></div>
 

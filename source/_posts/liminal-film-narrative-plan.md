@@ -1,7 +1,7 @@
 ---
 title: "Liminal Film Narrative Plan"
-date: 2025-02-15T01:57:52.235Z
-updated: 2025-02-18T01:45:15.763Z
+date: 2025-03-01T19:30:03.590Z
+updated: 2025-03-06T20:15:12.244Z
 tags: 
   - screen-recording
   - ai video
@@ -28,10 +28,6 @@ There's never been a better time to learn the craft of writing short film script
 
 But writing a successful short script is not easy. It requires the craft and concentration of a medieval artist carving scenes into walnut. So here are seven tips for creating a short script.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Storyline
 
 This is always, always, the number one problem for my screenwriting students. They come up with big story ideas, often feature screenplay ideas, but quickly find that their idea doesn't fit or work in short form. The result is what I call "narrative cramming." The story can't breathe. So, you need an idea that is small, specific, and significant to your main character.
@@ -47,10 +43,6 @@ Writing compelling short scripts requires what Thornton Wilder called "shortcuts
 It's also a useful way to think of the script as an energy system, as William Gibson brilliantly says in Shakespeare's play. An energy system begins with an Inciting Incident - a significant event/discovery that unleashes the energy system - and ends with a Climax - the moment when the story's outcome is known, and the energy system ends. Given the limited number of pages available in your short script, it's essential that your inciting incident appears on the first page.
 
 ![an independent story](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Conflict
 
@@ -82,14 +74,6 @@ The end of a script is often more important than the 90 pages that preceded it. 
 
 ![example script defining](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. How to edit your short film?
 
 Have you ever stored various videos and photos on a memory card or on a computer? Why not create a movie to show them off? Once finish making a great movie, you can share it with others in a variety of ways including on YouTube, Facebook, and Instagram. Your followers will be amazed at the extraordinarily delightful works. In fact, making a movie using your own photos, videos and audio is easy.
@@ -104,10 +88,6 @@ Open Wondershare Filmora, click the "Import" button, and use the navigation impo
 
 ![import files and arrange order](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Making stunning short films with various Effects & Filters
 
 After you've added your media files for editing and placed them on the Timeline, double-click the target file and adjust video quality by changing the Contrast, Saturation, Brightness, and Hue as you like. Then return to the “Effects” tab and pick the special effects you want to apply.
@@ -120,23 +100,11 @@ To add text to the video, click the "Text" button, choose a text type, and drag 
 
 * More features to discover can be found by clicking [**Extraordinary Features of Filmora**](https://tools.techidaily.com/wondershare/filmora/download/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3.Save the video in the format of your choice
 
 When everything is done, hit the “Create” button, and you'll see several options: save it as a video file, convert it for viewing on your mobile phone or tablet, directly upload to your YouTube or Facebook account and burn to DVD. Choose an output method as you like and click “Create”. After a few seconds, a folder with the newly reformatted video will open automatically.
 
 ![save the video](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -202,10 +170,6 @@ Open Wondershare Filmora, click the "Import" button, and use the navigation impo
 
 ![import files and arrange order](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Making stunning short films with various Effects & Filters
 
 After you've added your media files for editing and placed them on the Timeline, double-click the target file and adjust video quality by changing the Contrast, Saturation, Brightness, and Hue as you like. Then return to the “Effects” tab and pick the special effects you want to apply.
@@ -223,10 +187,6 @@ To add text to the video, click the "Text" button, choose a text type, and drag 
 When everything is done, hit the “Create” button, and you'll see several options: save it as a video file, convert it for viewing on your mobile phone or tablet, directly upload to your YouTube or Facebook account and burn to DVD. Choose an output method as you like and click “Create”. After a few seconds, a folder with the newly reformatted video will open automatically.
 
 ![save the video](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -260,19 +220,20 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-capture-the-moment-iphone-time-lapse-tutorial/"><u>[Updated] Capture the Moment IPhone Time-Lapse Tutorial</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-chucklechasm-exciting-places-to-get-comical-calls/"><u>[Updated] ChuckleChasm Exciting Places to Get Comical Calls</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-dynamic-dialogues-keys-to-a-loving-podcast-following/"><u>[Updated] In 2024, Dynamic Dialogues Keys to a Loving Podcast Following</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-understanding-facebooks-silent-video-alerts-for-2024/"><u>[Updated] Understanding Facebook's Silent Video Alerts for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ve-video-excellence-learn-the-studio-editor-way/"><u>Achieve Video Excellence Learn the Studio Editor Way</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/boosting-collaboration-mastery-of-zoom-capabilities-in-win10/"><u>Boosting Collaboration Mastery of Zoom Capabilities in Win10</u></a></li>
-<li><a href="https://fox-that.techidaily.com/easy-fixes-for-airpods-without-noise-or-distorted-sounds-10-effective-methods/"><u>Easy Fixes for AirPods Without Noise or Distorted Sounds - 10 Effective Methods</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevate-video-production-quality-by-integrating-luts-in-your-obs-setup/"><u>Elevate Video Production Quality by Integrating LUTs in Your OBS Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-notebook-appearance-with-custom-windows-11-themes-and-fonts/"><u>Enhancing Notebook Appearance with Custom Windows 11 Themes & Fonts</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ls-0013-error-demystified-effective-strategies-for-smooth-launching-in-fortnite/"><u>LS-0013 Error Demystified: Effective Strategies for Smooth Launching in Fortnite</u></a></li>
-<li><a href="https://review-topics.techidaily.com/nokia-c22-music-recovery-recover-deleted-music-from-nokia-c22-by-fonelab-android-recover-music/"><u>Nokia C22 Music Recovery - Recover Deleted Music from Nokia C22</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-art-of-simulating-quantum-leaps-in-film/"><u>The Art of Simulating Quantum Leaps in Film</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlocking-the-potential-of-budget-friendly-phones-with-a-moto-g-stylus-review/"><u>Unlocking the Potential of Budget-Friendly Phones with a Moto G Stylus Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-windowsmacos-visual-enhancement-a-guide-to-text-embellishments-in-photos/"><u>[New] 2024 Approved Windows/MacOS Visual Enhancement A Guide to Text Embellishments in Photos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-visual-narrative-weaver/"><u>[Updated] Visual Narrative Weaver</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-10-best-voice-modification-apps-for-vtubing-success/"><u>2024 Approved 10 Best Voice Modification Apps for VTubing Success</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-can-creators-earn-from-product-video-reviews/"><u>2024 Approved Can Creators Earn From Product Video Reviews?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-iphone-photo-watermarks-the-top-apps-reviewed/"><u>2024 Approved Master iPhone Photo Watermarks The Top Apps Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-beginners-guide-to-understanding-youtube-responses/"><u>A Beginner's Guide to Understanding YouTube Responses</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-novices-introduction-to-av1-codec-for-2024/"><u>A Novice's Introduction to AV1 Codec for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aerial-stability-made-simple-selecting-the-right-drone-gimbals-for-2024/"><u>Aerial Stability Made Simple Selecting the Right Drone Gimbals for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audio-craftsmanship-weaving-voiceovers-into-visual-tapestries-for-2024/"><u>Audio Craftsmanship Weaving Voiceovers Into Visual Tapestries for 2024</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/automation-projects-aiming-to-reduce-employee-burnout-study-insights/"><u>Automation Projects Aiming to Reduce Employee Burnout - Study Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-11-beginner-oriented-waterproof-video-recorders-for-youngsters-for-2024/"><u>Best 11 Beginner-Oriented Waterproof Video Recorders for Youngsters for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/cutting-the-chaff-skilled-techniques-for-cropping-videos-for-instagram/"><u>Cutting the Chaff Skilled Techniques for Cropping Videos for Instagram</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-13-mini-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 13 mini Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-illuminate-photos-10-premium-luts-revealed/"><u>In 2024, Illuminate Photos 10 Premium LUTs Revealed</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-lava-blaze-curve-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Lava Blaze Curve 5G Device</u></a></li>
 </ul></div>
 
